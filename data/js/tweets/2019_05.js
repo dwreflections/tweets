@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 10 17:57:40 +0000 2019",
+		"id": 1126909183578841100,
+		"id_str": "1126909183578841088",
+		"full_text": "@tanya_m_raven @misssdjohnson @EJLARelate There’s a keyboard in Cripps Hall bar 🎙",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tanya_m_raven",
+					"name": "Tanya Raven",
+					"id": 2927412712,
+					"id_str": "2927412712",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "misssdjohnson",
+					"name": "Stacy Johnson",
+					"id": 170450545,
+					"id_str": "170450545",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "EJLARelate",
+					"name": "EJLA Relate",
+					"id": 889483694418907100,
+					"id_str": "889483694418907137",
+					"indices": [
+						30,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1126895592788168700,
+		"in_reply_to_status_id_str": "1126895592788168704",
+		"in_reply_to_user_id": 2927412712,
+		"in_reply_to_user_id_str": "2927412712",
+		"in_reply_to_screen_name": "tanya_m_raven",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Nottingham, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1504,
+			"friends_count": 2880,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4710,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tanya_m_raven @misssdjohnson @EJLARelate There’s a keyboard in Cripps Hall bar 🎙"
+	},
+	{
+		"created_at": "Fri May 10 16:57:26 +0000 2019",
+		"id": 1126894024042979300,
+		"id_str": "1126894024042979333",
+		"full_text": "@PippaJL01 @misssdjohnson @IppsN It’s great to watch you grow especially with public speaking 🙌",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PippaJL01",
+					"name": "Pippa Chillman",
+					"id": 882001291240714200,
+					"id_str": "882001291240714240",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "misssdjohnson",
+					"name": "Stacy Johnson",
+					"id": 170450545,
+					"id_str": "170450545",
+					"indices": [
+						11,
+						25
+					]
+				},
+				{
+					"screen_name": "IppsN",
+					"name": "IPPSNetwork",
+					"id": 1119311344472404000,
+					"id_str": "1119311344472403973",
+					"indices": [
+						26,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1126861346564444200,
+		"in_reply_to_status_id_str": "1126861346564444160",
+		"in_reply_to_user_id": 882001291240714200,
+		"in_reply_to_user_id_str": "882001291240714240",
+		"in_reply_to_screen_name": "PippaJL01",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Nottingham, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1504,
+			"friends_count": 2880,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4710,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PippaJL01 @misssdjohnson @IppsN It’s great to watch you grow especially with public speaking 🙌"
+	},
+	{
+		"created_at": "Fri May 10 16:56:51 +0000 2019",
+		"id": 1126893876374118400,
+		"id_str": "1126893876374118400",
+		"full_text": "@misssdjohnson @EJLARelate What can I say ... they are a very talented bunch!",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "misssdjohnson",
+					"name": "Stacy Johnson",
+					"id": 170450545,
+					"id_str": "170450545",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "EJLARelate",
+					"name": "EJLA Relate",
+					"id": 889483694418907100,
+					"id_str": "889483694418907137",
+					"indices": [
+						15,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1126639134221717500,
+		"in_reply_to_status_id_str": "1126639134221717504",
+		"in_reply_to_user_id": 170450545,
+		"in_reply_to_user_id_str": "170450545",
+		"in_reply_to_screen_name": "misssdjohnson",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Nottingham, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1504,
+			"friends_count": 2880,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11729,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4710,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@misssdjohnson @EJLARelate What can I say ... they are a very talented bunch!"
+	},
+	{
 		"created_at": "Thu May 09 20:12:04 +0000 2019",
 		"id": 1126437360462434300,
 		"id_str": "1126580615711793152",
