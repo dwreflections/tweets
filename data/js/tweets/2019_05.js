@@ -1,6 +1,541 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 12 16:40:14 +0000 2019",
+		"id": 1126852724170076200,
+		"id_str": "1127614469855641602",
+		"full_text": "Great final message this morning at #EJLA #NursingNow #TEAMCNO @85SKB @Andrew18069168 https://t.co/ZY5S8O9c46",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EJLA",
+					"indices": [
+						36,
+						41
+					]
+				},
+				{
+					"text": "NursingNow",
+					"indices": [
+						42,
+						53
+					]
+				},
+				{
+					"text": "TEAMCNO",
+					"indices": [
+						54,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "85SKB",
+					"name": "Serena Bucys",
+					"id": 312244345,
+					"id_str": "312244345",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"screen_name": "Andrew18069168",
+					"name": "Andrew Clarke",
+					"id": 1679378005,
+					"id_str": "1679378005",
+					"indices": [
+						70,
+						85
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126852674874433500,
+					"id_str": "1126852674874433536",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/D6NiiZgW4AAudSM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6NiiZgW4AAudSM.jpg",
+					"url": "https://t.co/ZY5S8O9c46",
+					"display_url": "pic.twitter.com/ZY5S8O9c46",
+					"expanded_url": "https://twitter.com/EmilySymone/status/1126852724170076162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126852674874433500,
+					"id_str": "1126852674874433536",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/D6NiiZgW4AAudSM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6NiiZgW4AAudSM.jpg",
+					"url": "https://t.co/ZY5S8O9c46",
+					"display_url": "pic.twitter.com/ZY5S8O9c46",
+					"expanded_url": "https://twitter.com/EmilySymone/status/1126852724170076162/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 377206280,
+			"id_str": "377206280",
+			"name": "Emily in Wonderland",
+			"screen_name": "EmilySymone",
+			"location": "Derbyshire, England",
+			"description": "wannabe part nurse 👩🏼‍⚕️ part princess 👑",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79,
+			"friends_count": 187,
+			"listed_count": 0,
+			"created_at": "Wed Sep 21 05:59:09 +0000 2011",
+			"favourites_count": 102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 617,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1126494962244247553/x236VTh1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1126494962244247553/x236VTh1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/377206280/1557412302",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great final message this morning at #EJLA #NursingNow #TEAMCNO @85SKB @Andrew18069168 https://t.co/ZY5S8O9c46"
+	},
+	{
+		"created_at": "Sun May 12 12:10:59 +0000 2019",
+		"id": 1127546712296435700,
+		"id_str": "1127546712296435713",
+		"full_text": "@misssdjohnson @RMayNurseDir They were all breaths of fresh air! \n\nAMAZING!\nINSPIRED! \n\nI just wish I could of spent more time at #EJLASummit ✨🙌",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			144
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EJLASummit",
+					"indices": [
+						130,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "misssdjohnson",
+					"name": "Stacy Johnson MBE",
+					"id": 170450545,
+					"id_str": "170450545",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "RMayNurseDir",
+					"name": "Ruth May",
+					"id": 613328014,
+					"id_str": "613328014",
+					"indices": [
+						15,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1127457522170892300,
+		"in_reply_to_status_id_str": "1127457522170892288",
+		"in_reply_to_user_id": 170450545,
+		"in_reply_to_user_id_str": "170450545",
+		"in_reply_to_screen_name": "misssdjohnson",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Nottingham, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1502,
+			"friends_count": 2887,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4714,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@misssdjohnson @RMayNurseDir They were all breaths of fresh air! \n\nAMAZING!\nINSPIRED! \n\nI just wish I could of spent more time at #EJLASummit ✨🙌"
+	},
+	{
+		"created_at": "Sun May 12 11:21:16 +0000 2019",
+		"id": 1126372410293456900,
+		"id_str": "1127534199970332672",
+		"full_text": "Big blocks of text on conference posters are pretty off-putting &amp; May not be a great way to get across your argument or demonstrate your methods. Using augmented reality allows a poster to become a multimedia presentation\n#unposter #InBeta https://t.co/ojxftRDsQe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "unposter",
+					"indices": [
+						226,
+						235
+					]
+				},
+				{
+					"text": "InBeta",
+					"indices": [
+						236,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1126372169221537800,
+					"id_str": "1126372169221537792",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1126372169221537792/pu/img/PUIoRRlj_gjSBP4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1126372169221537792/pu/img/PUIoRRlj_gjSBP4D.jpg",
+					"url": "https://t.co/ojxftRDsQe",
+					"display_url": "pic.twitter.com/ojxftRDsQe",
+					"expanded_url": "https://twitter.com/bendotellis/status/1126372410293456896/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1126372169221537800,
+					"id_str": "1126372169221537792",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1126372169221537792/pu/img/PUIoRRlj_gjSBP4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1126372169221537792/pu/img/PUIoRRlj_gjSBP4D.jpg",
+					"url": "https://t.co/ojxftRDsQe",
+					"display_url": "pic.twitter.com/ojxftRDsQe",
+					"expanded_url": "https://twitter.com/bendotellis/status/1126372410293456896/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 42957,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1126372169221537792/pu/pl/xex7Doi2vqEDLPsi.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1126372169221537792/pu/vid/480x270/pFCNTAqBbtTxF5R7.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1126372169221537792/pu/vid/1280x720/jea64OuY-5RQwU_w.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1126372169221537792/pu/vid/640x360/nRM9uyqzy6-Xkcd0.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 424907352,
+			"id_str": "424907352",
+			"name": "Ben Ellis",
+			"screen_name": "bendotellis",
+			"location": "Kings Heath, Birmingham",
+			"description": "Physio lecturer at Oxford Brookes Interested in clinical reasoning in neuro LTCs & physio education \"Ben's great with ideas. It's the execution that's wanting\"",
+			"url": "https://t.co/7YuM6KN1w6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7YuM6KN1w6",
+							"expanded_url": "http://inbeta.uwc.ac.za/",
+							"display_url": "inbeta.uwc.ac.za",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1786,
+			"friends_count": 1020,
+			"listed_count": 10,
+			"created_at": "Wed Nov 30 09:42:03 +0000 2011",
+			"favourites_count": 3373,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6827,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1094685529852047360/U8edCjvc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1094685529852047360/U8edCjvc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/424907352/1530040030",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 46,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Big blocks of text on conference posters are pretty off-putting &amp; May not be a great way to get across your argument or demonstrate your methods. Using augmented reality allows a poster to become a multimedia presentation\n#unposter #InBeta https://t.co/ojxftRDsQe"
+	},
+	{
 		"created_at": "Fri May 10 17:57:40 +0000 2019",
 		"id": 1126909183578841100,
 		"id_str": "1126909183578841088",
