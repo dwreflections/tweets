@@ -1,6 +1,1585 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Tue May 14 16:48:25 +0000 2019",
+		"id": 1128341307221524500,
+		"id_str": "1128341307221524481",
+		"full_text": "@GatesPhysio @UoNPhysio @PhysioGates I had to check ...",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GatesPhysio",
+					"name": "John Gates",
+					"id": 451401278,
+					"id_str": "451401278",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "PhysioGates",
+					"name": "Simon Gates",
+					"id": 337178008,
+					"id_str": "337178008",
+					"indices": [
+						24,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1128340249124515800,
+		"in_reply_to_status_id_str": "1128340249124515842",
+		"in_reply_to_user_id": 451401278,
+		"in_reply_to_user_id_str": "451401278",
+		"in_reply_to_screen_name": "GatesPhysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Nottingham, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1503,
+			"friends_count": 2871,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4723,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GatesPhysio @UoNPhysio @PhysioGates I had to check ..."
+	},
+	{
+		"created_at": "Tue May 14 16:47:49 +0000 2019",
+		"id": 1128341154636927000,
+		"id_str": "1128341154636926982",
+		"full_text": "@Sch4Change @exerciseworks @FutureLearn @UoNPhysio @UoN_SHS @fimo18 @RogerKerry1 @JaneSThornton Looking forward to Thursday!!",
+		"truncated": false,
+		"display_text_range": [
+			96,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sch4Change",
+					"name": "School4ChangeAgents",
+					"id": 2880813537,
+					"id_str": "2880813537",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "exerciseworks",
+					"name": "Exercise Works!",
+					"id": 256921454,
+					"id_str": "256921454",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "FutureLearn",
+					"name": "FutureLearn",
+					"id": 999095640,
+					"id_str": "999095640",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"screen_name": "UoN_SHS",
+					"name": "UoN Health Sciences",
+					"id": 512054069,
+					"id_str": "512054069",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"screen_name": "fimo18",
+					"name": "Dr Fiona Moffatt",
+					"id": 508806750,
+					"id_str": "508806750",
+					"indices": [
+						60,
+						67
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						68,
+						80
+					]
+				},
+				{
+					"screen_name": "JaneSThornton",
+					"name": "Dr. Jane Thornton",
+					"id": 195146976,
+					"id_str": "195146976",
+					"indices": [
+						81,
+						95
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1128338145781735400,
+		"in_reply_to_status_id_str": "1128338145781735425",
+		"in_reply_to_user_id": 2880813537,
+		"in_reply_to_user_id_str": "2880813537",
+		"in_reply_to_screen_name": "Sch4Change",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Nottingham, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1503,
+			"friends_count": 2871,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4723,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Sch4Change @exerciseworks @FutureLearn @UoNPhysio @UoN_SHS @fimo18 @RogerKerry1 @JaneSThornton Looking forward to Thursday!!"
+	},
+	{
+		"created_at": "Tue May 14 16:32:26 +0000 2019",
+		"id": 1128337283386683400,
+		"id_str": "1128337283386683392",
+		"full_text": "Interview assessment/practice today @UoNPhysio ✅... Brilliant feedback &amp; great timing for upcoming interviews. I really need to stop being so modest and sell my self more. #selfreflection \n\nThanks @physioGregNUH 👍 &amp; all the interviewers helping out.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "selfreflection",
+					"indices": [
+						176,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"screen_name": "physioGregNUH",
+					"name": "Greg Stretton",
+					"id": 953934317754953700,
+					"id_str": "953934317754953729",
+					"indices": [
+						201,
+						215
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Nottingham, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1503,
+			"friends_count": 2871,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4723,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Interview assessment/practice today @UoNPhysio ✅... Brilliant feedback &amp; great timing for upcoming interviews. I really need to stop being so modest and sell my self more. #selfreflection \n\nThanks @physioGregNUH 👍 &amp; all the interviewers helping out."
+	},
+	{
+		"created_at": "Tue May 14 16:31:14 +0000 2019",
+		"id": 1128333543426408400,
+		"id_str": "1128336979731582981",
+		"full_text": "Looking forward to tomorrow's panel discussion at #Council2019 on leadership in pre-registration education and hearing from our fantastic panellists @Deli_1102 @beardedPT @b_mansel @paowen13 @councilofdeans https://t.co/6CI62SvHF9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Council2019",
+					"indices": [
+						50,
+						62
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Deli_1102",
+					"name": "Adele Nightingale",
+					"id": 322821191,
+					"id_str": "322821191",
+					"indices": [
+						149,
+						159
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams ✨",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						160,
+						170
+					]
+				},
+				{
+					"screen_name": "b_mansel",
+					"name": "#HeloFyEnwIYdy Beryl",
+					"id": 709640848435253200,
+					"id_str": "709640848435253252",
+					"indices": [
+						171,
+						180
+					]
+				},
+				{
+					"screen_name": "paowen13",
+					"name": "Patricia Owen",
+					"id": 840163771591073800,
+					"id_str": "840163771591073792",
+					"indices": [
+						181,
+						190
+					]
+				},
+				{
+					"screen_name": "councilofdeans",
+					"name": "Council of Deans",
+					"id": 278442312,
+					"id_str": "278442312",
+					"indices": [
+						191,
+						206
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6CI62SvHF9",
+					"expanded_url": "https://twitter.com/deli_1102/status/1128321932892491777",
+					"display_url": "twitter.com/deli_1102/stat…",
+					"indices": [
+						207,
+						230
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 591230931,
+			"id_str": "591230931",
+			"name": "Nadia Butt",
+			"screen_name": "nybutt",
+			"location": "London, England",
+			"description": "@CouncilOfDeans #150Leaders \"email lady\" | former @DebatingMatters National Coordinator | mango lover | #TeamGrimsby | personal views only",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 712,
+			"friends_count": 392,
+			"listed_count": 9,
+			"created_at": "Sat May 26 18:37:51 +0000 2012",
+			"favourites_count": 2261,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3383,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/783426189432152064/r2vabEvT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/783426189432152064/r2vabEvT_normal.jpg",
+			"profile_link_color": "DD2E44",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1128321932892491800,
+		"quoted_status_id_str": "1128321932892491777",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6CI62SvHF9",
+			"expanded": "https://twitter.com/deli_1102/status/1128321932892491777",
+			"display": "twitter.com/deli_1102/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 14 15:31:26 +0000 2019",
+			"id": 1128321932892491800,
+			"id_str": "1128321932892491777",
+			"full_text": "10k run = 60 mins of reflection on leadership in pre reg education in preparation for the early start tomorrow for the @councilofdeans #annualsummit @nybutt @JonEames9 @katerinakolyva @b_mansel @beardedPT Looking forward to catching up with you all https://t.co/bjsTK7n3qg",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				248
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "annualsummit",
+						"indices": [
+							135,
+							148
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "councilofdeans",
+						"name": "Council of Deans",
+						"id": 278442312,
+						"id_str": "278442312",
+						"indices": [
+							119,
+							134
+						]
+					},
+					{
+						"screen_name": "nybutt",
+						"name": "Nadia Butt",
+						"id": 591230931,
+						"id_str": "591230931",
+						"indices": [
+							149,
+							156
+						]
+					},
+					{
+						"screen_name": "JonEames9",
+						"name": "Jon Eames",
+						"id": 1014539476511674400,
+						"id_str": "1014539476511674369",
+						"indices": [
+							157,
+							167
+						]
+					},
+					{
+						"screen_name": "katerinakolyva",
+						"name": "Dr Katerina Kolyva",
+						"id": 2156890678,
+						"id_str": "2156890678",
+						"indices": [
+							168,
+							183
+						]
+					},
+					{
+						"screen_name": "b_mansel",
+						"name": "#HeloFyEnwIYdy Beryl",
+						"id": 709640848435253200,
+						"id_str": "709640848435253252",
+						"indices": [
+							184,
+							193
+						]
+					},
+					{
+						"screen_name": "beardedPT",
+						"name": "David Williams ✨",
+						"id": 3377750235,
+						"id_str": "3377750235",
+						"indices": [
+							194,
+							204
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1128321928668897300,
+						"id_str": "1128321928668897280",
+						"indices": [
+							249,
+							272
+						],
+						"media_url": "http://pbs.twimg.com/media/D6ia0OaX4AAd4Yw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6ia0OaX4AAd4Yw.jpg",
+						"url": "https://t.co/bjsTK7n3qg",
+						"display_url": "pic.twitter.com/bjsTK7n3qg",
+						"expanded_url": "https://twitter.com/Deli_1102/status/1128321932892491777/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1128321928668897300,
+						"id_str": "1128321928668897280",
+						"indices": [
+							249,
+							272
+						],
+						"media_url": "http://pbs.twimg.com/media/D6ia0OaX4AAd4Yw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6ia0OaX4AAd4Yw.jpg",
+						"url": "https://t.co/bjsTK7n3qg",
+						"display_url": "pic.twitter.com/bjsTK7n3qg",
+						"expanded_url": "https://twitter.com/Deli_1102/status/1128321932892491777/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 322821191,
+				"id_str": "322821191",
+				"name": "Adele Nightingale",
+				"screen_name": "Deli_1102",
+				"location": "",
+				"description": "Sen. Lecturer in Healthcare Leadership.Operating Dept. Practitioner. Gym and swim fan. Loves a Triathlon. Half Marathon runner. All opinions my own. #150Leaders",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 682,
+				"friends_count": 767,
+				"listed_count": 18,
+				"created_at": "Thu Jun 23 20:06:57 +0000 2011",
+				"favourites_count": 4245,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3533,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/883670473007140864/xtWyrvus_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/883670473007140864/xtWyrvus_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking forward to tomorrow's panel discussion at #Council2019 on leadership in pre-registration education and hearing from our fantastic panellists @Deli_1102 @beardedPT @b_mansel @paowen13 @councilofdeans https://t.co/6CI62SvHF9"
+	},
+	{
+		"created_at": "Tue May 14 15:41:50 +0000 2019",
+		"id": 1128324548615639000,
+		"id_str": "1128324548615639045",
+		"full_text": "@Deli_1102 @councilofdeans @nybutt @JonEames9 @katerinakolyva @b_mansel I am looking forward to it! Having a mull over some thoughts now ... 🤔\n\nPS - I have just joined the #applewatch bandwagon - so good!!",
+		"truncated": false,
+		"display_text_range": [
+			72,
+			205
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "applewatch",
+					"indices": [
+						172,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Deli_1102",
+					"name": "Adele Nightingale",
+					"id": 322821191,
+					"id_str": "322821191",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "councilofdeans",
+					"name": "Council of Deans",
+					"id": 278442312,
+					"id_str": "278442312",
+					"indices": [
+						11,
+						26
+					]
+				},
+				{
+					"screen_name": "nybutt",
+					"name": "Nadia Butt",
+					"id": 591230931,
+					"id_str": "591230931",
+					"indices": [
+						27,
+						34
+					]
+				},
+				{
+					"screen_name": "JonEames9",
+					"name": "Jon Eames",
+					"id": 1014539476511674400,
+					"id_str": "1014539476511674369",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"screen_name": "katerinakolyva",
+					"name": "Dr Katerina Kolyva",
+					"id": 2156890678,
+					"id_str": "2156890678",
+					"indices": [
+						46,
+						61
+					]
+				},
+				{
+					"screen_name": "b_mansel",
+					"name": "#HeloFyEnwIYdy Beryl",
+					"id": 709640848435253200,
+					"id_str": "709640848435253252",
+					"indices": [
+						62,
+						71
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1128321932892491800,
+		"in_reply_to_status_id_str": "1128321932892491777",
+		"in_reply_to_user_id": 322821191,
+		"in_reply_to_user_id_str": "322821191",
+		"in_reply_to_screen_name": "Deli_1102",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Nottingham, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1503,
+			"friends_count": 2871,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4723,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Deli_1102 @councilofdeans @nybutt @JonEames9 @katerinakolyva @b_mansel I am looking forward to it! Having a mull over some thoughts now ... 🤔\n\nPS - I have just joined the #applewatch bandwagon - so good!!"
+	},
+	{
+		"created_at": "Tue May 14 15:38:51 +0000 2019",
+		"id": 1128321932892491800,
+		"id_str": "1128323799617875968",
+		"full_text": "10k run = 60 mins of reflection on leadership in pre reg education in preparation for the early start tomorrow for the @councilofdeans #annualsummit @nybutt @JonEames9 @katerinakolyva @b_mansel @beardedPT Looking forward to catching up with you all https://t.co/bjsTK7n3qg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "annualsummit",
+					"indices": [
+						135,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "councilofdeans",
+					"name": "Council of Deans",
+					"id": 278442312,
+					"id_str": "278442312",
+					"indices": [
+						119,
+						134
+					]
+				},
+				{
+					"screen_name": "nybutt",
+					"name": "Nadia Butt",
+					"id": 591230931,
+					"id_str": "591230931",
+					"indices": [
+						149,
+						156
+					]
+				},
+				{
+					"screen_name": "JonEames9",
+					"name": "Jon Eames",
+					"id": 1014539476511674400,
+					"id_str": "1014539476511674369",
+					"indices": [
+						157,
+						167
+					]
+				},
+				{
+					"screen_name": "katerinakolyva",
+					"name": "Dr Katerina Kolyva",
+					"id": 2156890678,
+					"id_str": "2156890678",
+					"indices": [
+						168,
+						183
+					]
+				},
+				{
+					"screen_name": "b_mansel",
+					"name": "#HeloFyEnwIYdy Beryl",
+					"id": 709640848435253200,
+					"id_str": "709640848435253252",
+					"indices": [
+						184,
+						193
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams ✨",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						194,
+						204
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1128321928668897300,
+					"id_str": "1128321928668897280",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/D6ia0OaX4AAd4Yw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6ia0OaX4AAd4Yw.jpg",
+					"url": "https://t.co/bjsTK7n3qg",
+					"display_url": "pic.twitter.com/bjsTK7n3qg",
+					"expanded_url": "https://twitter.com/Deli_1102/status/1128321932892491777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128321928668897300,
+					"id_str": "1128321928668897280",
+					"indices": [
+						249,
+						272
+					],
+					"media_url": "http://pbs.twimg.com/media/D6ia0OaX4AAd4Yw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6ia0OaX4AAd4Yw.jpg",
+					"url": "https://t.co/bjsTK7n3qg",
+					"display_url": "pic.twitter.com/bjsTK7n3qg",
+					"expanded_url": "https://twitter.com/Deli_1102/status/1128321932892491777/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322821191,
+			"id_str": "322821191",
+			"name": "Adele Nightingale",
+			"screen_name": "Deli_1102",
+			"location": "",
+			"description": "Sen. Lecturer in Healthcare Leadership.Operating Dept. Practitioner. Gym and swim fan. Loves a Triathlon. Half Marathon runner. All opinions my own. #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 682,
+			"friends_count": 767,
+			"listed_count": 18,
+			"created_at": "Thu Jun 23 20:06:57 +0000 2011",
+			"favourites_count": 4245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3533,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883670473007140864/xtWyrvus_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883670473007140864/xtWyrvus_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "10k run = 60 mins of reflection on leadership in pre reg education in preparation for the early start tomorrow for the @councilofdeans #annualsummit @nybutt @JonEames9 @katerinakolyva @b_mansel @beardedPT Looking forward to catching up with you all https://t.co/bjsTK7n3qg"
+	},
+	{
+		"created_at": "Tue May 14 14:19:51 +0000 2019",
+		"id": 1128303916310048800,
+		"id_str": "1128303916310048768",
+		"full_text": "@exerciseworks @Sch4Change @FutureLearn @UoNPhysio @UoN_SHS @fimo18 @RogerKerry1 @JaneSThornton I’m signing up this year 🙌",
+		"truncated": false,
+		"display_text_range": [
+			96,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "exerciseworks",
+					"name": "Exercise Works!",
+					"id": 256921454,
+					"id_str": "256921454",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Sch4Change",
+					"name": "School4ChangeAgents",
+					"id": 2880813537,
+					"id_str": "2880813537",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "FutureLearn",
+					"name": "FutureLearn",
+					"id": 999095640,
+					"id_str": "999095640",
+					"indices": [
+						27,
+						39
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"screen_name": "UoN_SHS",
+					"name": "UoN Health Sciences",
+					"id": 512054069,
+					"id_str": "512054069",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"screen_name": "fimo18",
+					"name": "Dr Fiona Moffatt",
+					"id": 508806750,
+					"id_str": "508806750",
+					"indices": [
+						60,
+						67
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						68,
+						80
+					]
+				},
+				{
+					"screen_name": "JaneSThornton",
+					"name": "Dr. Jane Thornton",
+					"id": 195146976,
+					"id_str": "195146976",
+					"indices": [
+						81,
+						95
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1128250933702529000,
+		"in_reply_to_status_id_str": "1128250933702529024",
+		"in_reply_to_user_id": 256921454,
+		"in_reply_to_user_id_str": "256921454",
+		"in_reply_to_screen_name": "exerciseworks",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Nottingham, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1503,
+			"friends_count": 2871,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4723,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@exerciseworks @Sch4Change @FutureLearn @UoNPhysio @UoN_SHS @fimo18 @RogerKerry1 @JaneSThornton I’m signing up this year 🙌"
+	},
+	{
+		"created_at": "Tue May 14 14:19:40 +0000 2019",
+		"id": 1128250933702529000,
+		"id_str": "1128303871409963008",
+		"full_text": "I'm joining the 2019 cohort of students all over the world on @Sch4Change #S4CA @FutureLearn for the third year running\n\nFirst session is this Thursday 16 May 15:00-16:00 but you can access the course at any other time too! @UoNPhysio @UoN_SHS @fimo18 @RogerKerry1 @JaneSThornton https://t.co/lXvC6FSGd4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "S4CA",
+					"indices": [
+						74,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sch4Change",
+					"name": "School4ChangeAgents",
+					"id": 2880813537,
+					"id_str": "2880813537",
+					"indices": [
+						62,
+						73
+					]
+				},
+				{
+					"screen_name": "FutureLearn",
+					"name": "FutureLearn",
+					"id": 999095640,
+					"id_str": "999095640",
+					"indices": [
+						80,
+						92
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						224,
+						234
+					]
+				},
+				{
+					"screen_name": "UoN_SHS",
+					"name": "UoN Health Sciences",
+					"id": 512054069,
+					"id_str": "512054069",
+					"indices": [
+						235,
+						243
+					]
+				},
+				{
+					"screen_name": "fimo18",
+					"name": "Dr Fiona Moffatt",
+					"id": 508806750,
+					"id_str": "508806750",
+					"indices": [
+						244,
+						251
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						252,
+						264
+					]
+				},
+				{
+					"screen_name": "JaneSThornton",
+					"name": "Dr. Jane Thornton",
+					"id": 195146976,
+					"id_str": "195146976",
+					"indices": [
+						265,
+						279
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1128250557888647200,
+					"id_str": "1128250557888647168",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D6hZ55iW0AAp63t.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6hZ55iW0AAp63t.png",
+					"url": "https://t.co/lXvC6FSGd4",
+					"display_url": "pic.twitter.com/lXvC6FSGd4",
+					"expanded_url": "https://twitter.com/exerciseworks/status/1128250933702529024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128250557888647200,
+					"id_str": "1128250557888647168",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/D6hZ55iW0AAp63t.png",
+					"media_url_https": "https://pbs.twimg.com/media/D6hZ55iW0AAp63t.png",
+					"url": "https://t.co/lXvC6FSGd4",
+					"display_url": "pic.twitter.com/lXvC6FSGd4",
+					"expanded_url": "https://twitter.com/exerciseworks/status/1128250933702529024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 256921454,
+			"id_str": "256921454",
+			"name": "Exercise Works!",
+			"screen_name": "exerciseworks",
+			"location": "UK, World",
+			"description": "Exercise Works in the prevention & treatment of disease. One step for patients. One leap to health!\n \nhttps://t.co/Q4HTTTP8w6 \nby Ann Gates #MovementForMovement",
+			"url": "https://t.co/Q4HTTTP8w6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q4HTTTP8w6",
+							"expanded_url": "http://www.exercise-works.org",
+							"display_url": "exercise-works.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Q4HTTTP8w6",
+							"expanded_url": "http://www.exercise-works.org",
+							"display_url": "exercise-works.org",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 59542,
+			"friends_count": 47774,
+			"listed_count": 1211,
+			"created_at": "Thu Feb 24 10:22:04 +0000 2011",
+			"favourites_count": 126506,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165270,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253185990/Exercise_Works_avatar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253185990/Exercise_Works_avatar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/256921454/1399040184",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm joining the 2019 cohort of students all over the world on @Sch4Change #S4CA @FutureLearn for the third year running\n\nFirst session is this Thursday 16 May 15:00-16:00 but you can access the course at any other time too! @UoNPhysio @UoN_SHS @fimo18 @RogerKerry1 @JaneSThornton https://t.co/lXvC6FSGd4"
+	},
+	{
 		"created_at": "Sun May 12 16:40:14 +0000 2019",
 		"id": 1126852724170076200,
 		"id_str": "1127614469855641602",
@@ -149,7 +1728,7 @@ Grailbird.data.tweets_2019_05 =
 			"name": "Emily in Wonderland",
 			"screen_name": "EmilySymone",
 			"location": "Derbyshire, England",
-			"description": "wannabe part nurse 👩🏼‍⚕️ part princess 👑",
+			"description": "wannabe part nurse 👩🏼⚕️ part princess 👑",
 			"url": null,
 			"entities": {
 				"description": {
