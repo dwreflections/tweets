@@ -1,6 +1,1909 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 15 19:23:15 +0000 2019",
+		"id": 1128741655304077300,
+		"id_str": "1128742659697328130",
+		"full_text": "Great day at @councilofdeans annual summit discussing leadership and pre reg curriculum. Some fantastic examples of good practice. Great to hear the student voice coming through loud and clear @beardedPT @b_mansel. Fantastic opportunity to network and meet like minded people",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "councilofdeans",
+					"name": "Council of Deans",
+					"id": 278442312,
+					"id_str": "278442312",
+					"indices": [
+						13,
+						28
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams ✨",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						193,
+						203
+					]
+				},
+				{
+					"screen_name": "b_mansel",
+					"name": "#HeloFyEnwIYdy Beryl",
+					"id": 709640848435253200,
+					"id_str": "709640848435253252",
+					"indices": [
+						204,
+						213
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 322821191,
+			"id_str": "322821191",
+			"name": "Adele Nightingale",
+			"screen_name": "Deli_1102",
+			"location": "",
+			"description": "Sen. Lecturer in Healthcare Leadership.Operating Dept. Practitioner. Gym and swim fan. Loves a Triathlon. Half Marathon runner. All opinions my own. #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 686,
+			"friends_count": 768,
+			"listed_count": 18,
+			"created_at": "Thu Jun 23 20:06:57 +0000 2011",
+			"favourites_count": 4263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3539,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883670473007140864/xtWyrvus_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883670473007140864/xtWyrvus_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Great day at @councilofdeans annual summit discussing leadership and pre reg curriculum. Some fantastic examples of good practice. Great to hear the student voice coming through loud and clear @beardedPT @b_mansel. Fantastic opportunity to network and meet like minded people"
+	},
+	{
+		"created_at": "Wed May 15 17:40:15 +0000 2019",
+		"id": 1128716736042274800,
+		"id_str": "1128716736042274816",
+		"full_text": "@LucyRoberts989 @UniofNottingham That’s a great spot 👌",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LucyRoberts989",
+					"name": "Lucy Roberts",
+					"id": 3420366107,
+					"id_str": "3420366107",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "UniofNottingham",
+					"name": "Uni of Nottingham",
+					"id": 30196565,
+					"id_str": "30196565",
+					"indices": [
+						16,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1128609979949355000,
+		"in_reply_to_status_id_str": "1128609979949355008",
+		"in_reply_to_user_id": 3420366107,
+		"in_reply_to_user_id_str": "3420366107",
+		"in_reply_to_screen_name": "LucyRoberts989",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Nottingham, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1504,
+			"friends_count": 2875,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4738,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LucyRoberts989 @UniofNottingham That’s a great spot 👌"
+	},
+	{
+		"created_at": "Wed May 15 17:15:43 +0000 2019",
+		"id": 1128710099445395500,
+		"id_str": "1128710565608742913",
+		"full_text": "@beardedPT @b_mansel @paowen13 @councilofdeans Generated some good discussions. We need to build on some of the great things that are already happening #leadershipinaction #150Leaders",
+		"truncated": false,
+		"display_text_range": [
+			47,
+			183
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "leadershipinaction",
+					"indices": [
+						152,
+						171
+					]
+				},
+				{
+					"text": "150Leaders",
+					"indices": [
+						172,
+						183
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams ✨",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "b_mansel",
+					"name": "#HeloFyEnwIYdy Beryl",
+					"id": 709640848435253200,
+					"id_str": "709640848435253252",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "paowen13",
+					"name": "Patricia Owen",
+					"id": 840163771591073800,
+					"id_str": "840163771591073792",
+					"indices": [
+						21,
+						30
+					]
+				},
+				{
+					"screen_name": "councilofdeans",
+					"name": "Council of Deans",
+					"id": 278442312,
+					"id_str": "278442312",
+					"indices": [
+						31,
+						46
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1128697568744083500,
+		"in_reply_to_status_id_str": "1128697568744083457",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 322821191,
+			"id_str": "322821191",
+			"name": "Adele Nightingale",
+			"screen_name": "Deli_1102",
+			"location": "",
+			"description": "Sen. Lecturer in Healthcare Leadership.Operating Dept. Practitioner. Gym and swim fan. Loves a Triathlon. Half Marathon runner. All opinions my own. #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 686,
+			"friends_count": 768,
+			"listed_count": 18,
+			"created_at": "Thu Jun 23 20:06:57 +0000 2011",
+			"favourites_count": 4263,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3539,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/883670473007140864/xtWyrvus_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/883670473007140864/xtWyrvus_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@beardedPT @b_mansel @paowen13 @councilofdeans Generated some good discussions. We need to build on some of the great things that are already happening #leadershipinaction #150Leaders"
+	},
+	{
+		"created_at": "Wed May 15 16:53:54 +0000 2019",
+		"id": 1128705074367221800,
+		"id_str": "1128705074367221761",
+		"full_text": "@GeekFatimah I guess we are lucky at @UoNPhysio as we have a small cohort\n\nWe have EBP modules in Y1/Y2... but we submit a research proposal for ethics in Y2 after agreeing to a topic with a supervisor &amp; complete a research project for our dissertation in Y3. I have my viva next week.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			289
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeekFatimah",
+					"name": "Fatimah Mohamied",
+					"id": 158409260,
+					"id_str": "158409260",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						37,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1128703791094804500,
+		"in_reply_to_status_id_str": "1128703791094804480",
+		"in_reply_to_user_id": 158409260,
+		"in_reply_to_user_id_str": "158409260",
+		"in_reply_to_screen_name": "GeekFatimah",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Nottingham, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1504,
+			"friends_count": 2875,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4738,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GeekFatimah I guess we are lucky at @UoNPhysio as we have a small cohort\n\nWe have EBP modules in Y1/Y2... but we submit a research proposal for ethics in Y2 after agreeing to a topic with a supervisor &amp; complete a research project for our dissertation in Y3. I have my viva next week."
+	},
+	{
+		"created_at": "Wed May 15 16:47:44 +0000 2019",
+		"id": 1128703520138584000,
+		"id_str": "1128703520138584070",
+		"full_text": "@SamuelOftenSam @b_mansel @Deli_1102 @paowen13 @councilofdeans &amp; good to see you too! Enjoy rest of #Council2019",
+		"truncated": false,
+		"display_text_range": [
+			63,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Council2019",
+					"indices": [
+						104,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SamuelOftenSam",
+					"name": "Samuel Richards",
+					"id": 953713420880183300,
+					"id_str": "953713420880183296",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "b_mansel",
+					"name": "#HeloFyEnwIYdy Beryl",
+					"id": 709640848435253200,
+					"id_str": "709640848435253252",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"screen_name": "Deli_1102",
+					"name": "Adele Nightingale",
+					"id": 322821191,
+					"id_str": "322821191",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"screen_name": "paowen13",
+					"name": "Patricia Owen",
+					"id": 840163771591073800,
+					"id_str": "840163771591073792",
+					"indices": [
+						37,
+						46
+					]
+				},
+				{
+					"screen_name": "councilofdeans",
+					"name": "Council of Deans",
+					"id": 278442312,
+					"id_str": "278442312",
+					"indices": [
+						47,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1128702948614332400,
+		"in_reply_to_status_id_str": "1128702948614332416",
+		"in_reply_to_user_id": 953713420880183300,
+		"in_reply_to_user_id_str": "953713420880183296",
+		"in_reply_to_screen_name": "SamuelOftenSam",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Nottingham, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1504,
+			"friends_count": 2875,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4738,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SamuelOftenSam @b_mansel @Deli_1102 @paowen13 @councilofdeans &amp; good to see you too! Enjoy rest of #Council2019"
+	},
+	{
+		"created_at": "Wed May 15 16:47:25 +0000 2019",
+		"id": 1128703442329985000,
+		"id_str": "1128703442329985024",
+		"full_text": "@SamuelOftenSam @b_mansel @Deli_1102 @paowen13 @councilofdeans Of course! We are due a good chat over a couple of beers 🍻",
+		"truncated": false,
+		"display_text_range": [
+			63,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SamuelOftenSam",
+					"name": "Samuel Richards",
+					"id": 953713420880183300,
+					"id_str": "953713420880183296",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "b_mansel",
+					"name": "#HeloFyEnwIYdy Beryl",
+					"id": 709640848435253200,
+					"id_str": "709640848435253252",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"screen_name": "Deli_1102",
+					"name": "Adele Nightingale",
+					"id": 322821191,
+					"id_str": "322821191",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"screen_name": "paowen13",
+					"name": "Patricia Owen",
+					"id": 840163771591073800,
+					"id_str": "840163771591073792",
+					"indices": [
+						37,
+						46
+					]
+				},
+				{
+					"screen_name": "councilofdeans",
+					"name": "Council of Deans",
+					"id": 278442312,
+					"id_str": "278442312",
+					"indices": [
+						47,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1128702948614332400,
+		"in_reply_to_status_id_str": "1128702948614332416",
+		"in_reply_to_user_id": 953713420880183300,
+		"in_reply_to_user_id_str": "953713420880183296",
+		"in_reply_to_screen_name": "SamuelOftenSam",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Nottingham, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1504,
+			"friends_count": 2875,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4738,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SamuelOftenSam @b_mansel @Deli_1102 @paowen13 @councilofdeans Of course! We are due a good chat over a couple of beers 🍻"
+	},
+	{
+		"created_at": "Wed May 15 16:30:34 +0000 2019",
+		"id": 1128699201641164800,
+		"id_str": "1128699201641164802",
+		"full_text": "@GeekFatimah I sure did! So interesting to hear your journey ... 😊👍\n\nEspecially, to compare your experiences of research during your degree to mine and also the hierarchical barriers you faced.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeekFatimah",
+					"name": "Fatimah Mohamied",
+					"id": 158409260,
+					"id_str": "158409260",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1128696773642543100,
+		"in_reply_to_status_id_str": "1128696773642543104",
+		"in_reply_to_user_id": 158409260,
+		"in_reply_to_user_id_str": "158409260",
+		"in_reply_to_screen_name": "GeekFatimah",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Nottingham, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1504,
+			"friends_count": 2875,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4738,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GeekFatimah I sure did! So interesting to hear your journey ... 😊👍\n\nEspecially, to compare your experiences of research during your degree to mine and also the hierarchical barriers you faced."
+	},
+	{
+		"created_at": "Wed May 15 16:26:42 +0000 2019",
+		"id": 1128698227086250000,
+		"id_str": "1128698227086249986",
+		"full_text": "How good is this 👇👍 #kfonline https://t.co/1jUiM2o0Ox",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "kfonline",
+					"indices": [
+						20,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1jUiM2o0Ox",
+					"expanded_url": "https://twitter.com/emaroids1/status/1128621170079744001",
+					"display_url": "twitter.com/emaroids1/stat…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Nottingham, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1504,
+			"friends_count": 2875,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4738,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1128621170079744000,
+		"quoted_status_id_str": "1128621170079744001",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1jUiM2o0Ox",
+			"expanded": "https://twitter.com/emaroids1/status/1128621170079744001",
+			"display": "twitter.com/emaroids1/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 15 11:20:30 +0000 2019",
+			"id": 1128621170079744000,
+			"id_str": "1128621170079744001",
+			"full_text": "Therapy staff @UHBristolNHS  are joining in @TheKingsFund leadership webinar #kfonline\n\n🔶Compassionate leadership is fundamental to an effective healthcare system. \n🔶mental health awareness essential\n🔶need to focus on people management https://t.co/yGQyRswNJn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				235
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "kfonline",
+						"indices": [
+							77,
+							86
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UHBristolNHS",
+						"name": "UH Bristol NHS FT",
+						"id": 85808407,
+						"id_str": "85808407",
+						"indices": [
+							14,
+							27
+						]
+					},
+					{
+						"screen_name": "TheKingsFund",
+						"name": "The King's Fund",
+						"id": 18045120,
+						"id_str": "18045120",
+						"indices": [
+							44,
+							57
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1128621164740345900,
+						"id_str": "1128621164740345856",
+						"indices": [
+							236,
+							259
+						],
+						"media_url": "http://pbs.twimg.com/media/D6mq-DpWAAA-pZo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6mq-DpWAAA-pZo.jpg",
+						"url": "https://t.co/yGQyRswNJn",
+						"display_url": "pic.twitter.com/yGQyRswNJn",
+						"expanded_url": "https://twitter.com/emaroids1/status/1128621170079744001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1128621164740345900,
+						"id_str": "1128621164740345856",
+						"indices": [
+							236,
+							259
+						],
+						"media_url": "http://pbs.twimg.com/media/D6mq-DpWAAA-pZo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D6mq-DpWAAA-pZo.jpg",
+						"url": "https://t.co/yGQyRswNJn",
+						"display_url": "pic.twitter.com/yGQyRswNJn",
+						"expanded_url": "https://twitter.com/emaroids1/status/1128621170079744001/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 490654004,
+				"id_str": "490654004",
+				"name": "ema swingwood",
+				"screen_name": "emaroids1",
+				"location": "United Kingdom",
+				"description": "Respiratory Pathway Lead/Physiotherapist, Vice-chair for ACPRC. Love respiratory patients and all the challenges they bring.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1413,
+				"friends_count": 409,
+				"listed_count": 15,
+				"created_at": "Sun Feb 12 19:36:11 +0000 2012",
+				"favourites_count": 10165,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4366,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1084053488273887232/GsaNKAGD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084053488273887232/GsaNKAGD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/490654004/1448319434",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "7f15dd80ac78ef40",
+				"url": "https://api.twitter.com/1.1/geo/id/7f15dd80ac78ef40.json",
+				"place_type": "city",
+				"name": "Bristol",
+				"full_name": "Bristol, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-2.659936,
+								51.399367
+							],
+							[
+								-2.510844,
+								51.399367
+							],
+							[
+								-2.510844,
+								51.516387
+							],
+							[
+								-2.659936,
+								51.516387
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How good is this 👇👍 #kfonline https://t.co/1jUiM2o0Ox"
+	},
+	{
+		"created_at": "Wed May 15 16:24:06 +0000 2019",
+		"id": 1128697574645432300,
+		"id_str": "1128697574645432320",
+		"full_text": "What are physio students, educators etc. views on innovative (role emerging)  placements?  #physiotalk \n\nCommon in OT training.\nhttps://t.co/VdonrsbCbh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "physiotalk",
+					"indices": [
+						91,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VdonrsbCbh",
+					"expanded_url": "https://publications.coventry.ac.uk/index.php/pblh/article/view/317",
+					"display_url": "publications.coventry.ac.uk/index.php/pblh…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1128697568744083500,
+		"in_reply_to_status_id_str": "1128697568744083457",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Nottingham, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1504,
+			"friends_count": 2875,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4738,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What are physio students, educators etc. views on innovative (role emerging)  placements?  #physiotalk \n\nCommon in OT training.\nhttps://t.co/VdonrsbCbh"
+	},
+	{
+		"created_at": "Wed May 15 16:24:05 +0000 2019",
+		"id": 1128697568744083500,
+		"id_str": "1128697568744083457",
+		"full_text": "Flying visit to Cardiff today to discuss “Teaching leadership in pre-registration education” with @b_mansel @Deli_1102 @paowen13 for #Council2019 @councilofdeans 🚂 🤔🙌\n\nSome great discussion in the room! 👍#150Leaders https://t.co/mWEWzzS6AB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Council2019",
+					"indices": [
+						133,
+						145
+					]
+				},
+				{
+					"text": "150Leaders",
+					"indices": [
+						204,
+						215
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "b_mansel",
+					"name": "#HeloFyEnwIYdy Beryl",
+					"id": 709640848435253200,
+					"id_str": "709640848435253252",
+					"indices": [
+						98,
+						107
+					]
+				},
+				{
+					"screen_name": "Deli_1102",
+					"name": "Adele Nightingale",
+					"id": 322821191,
+					"id_str": "322821191",
+					"indices": [
+						108,
+						118
+					]
+				},
+				{
+					"screen_name": "paowen13",
+					"name": "Patricia Owen",
+					"id": 840163771591073800,
+					"id_str": "840163771591073792",
+					"indices": [
+						119,
+						128
+					]
+				},
+				{
+					"screen_name": "councilofdeans",
+					"name": "Council of Deans",
+					"id": 278442312,
+					"id_str": "278442312",
+					"indices": [
+						146,
+						161
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1128697545180504000,
+					"id_str": "1128697545180504064",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/D6nwb-9W4AAE1V3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6nwb-9W4AAE1V3.jpg",
+					"url": "https://t.co/mWEWzzS6AB",
+					"display_url": "pic.twitter.com/mWEWzzS6AB",
+					"expanded_url": "https://twitter.com/beardedPT/status/1128697568744083457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1128697545180504000,
+					"id_str": "1128697545180504064",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/D6nwb-9W4AAE1V3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6nwb-9W4AAE1V3.jpg",
+					"url": "https://t.co/mWEWzzS6AB",
+					"display_url": "pic.twitter.com/mWEWzzS6AB",
+					"expanded_url": "https://twitter.com/beardedPT/status/1128697568744083457/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Nottingham, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1504,
+			"friends_count": 2875,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4738,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Flying visit to Cardiff today to discuss “Teaching leadership in pre-registration education” with @b_mansel @Deli_1102 @paowen13 for #Council2019 @councilofdeans 🚂 🤔🙌\n\nSome great discussion in the room! 👍#150Leaders https://t.co/mWEWzzS6AB"
+	},
+	{
+		"created_at": "Wed May 15 13:44:23 +0000 2019",
+		"id": 1128657380529594400,
+		"id_str": "1128657380529594368",
+		"full_text": "@nybutt ... Still can’t get my head around you failing an essay but it’s good enough to be published in an eminent journal ... \n\nGreat work @GeekFatimah 👏",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nybutt",
+					"name": "Nadia Butt",
+					"id": 591230931,
+					"id_str": "591230931",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "GeekFatimah",
+					"name": "Fatimah Mohamied",
+					"id": 158409260,
+					"id_str": "158409260",
+					"indices": [
+						140,
+						152
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1128654352602882000,
+		"in_reply_to_status_id_str": "1128654352602882048",
+		"in_reply_to_user_id": 591230931,
+		"in_reply_to_user_id_str": "591230931",
+		"in_reply_to_screen_name": "nybutt",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Nottingham, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1504,
+			"friends_count": 2875,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4738,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@nybutt ... Still can’t get my head around you failing an essay but it’s good enough to be published in an eminent journal ... \n\nGreat work @GeekFatimah 👏"
+	},
+	{
+		"created_at": "Wed May 15 13:42:16 +0000 2019",
+		"id": 1128656849287438300,
+		"id_str": "1128656849287438337",
+		"full_text": "Brilliant keynote by @GeekFatimah discussing her research and education journey! #150Leaders #2019Council",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "150Leaders",
+					"indices": [
+						81,
+						92
+					]
+				},
+				{
+					"text": "2019Council",
+					"indices": [
+						93,
+						105
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeekFatimah",
+					"name": "Fatimah Mohamied",
+					"id": 158409260,
+					"id_str": "158409260",
+					"indices": [
+						21,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1128656847555170300,
+		"in_reply_to_status_id_str": "1128656847555170304",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Nottingham, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1504,
+			"friends_count": 2875,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4738,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Brilliant keynote by @GeekFatimah discussing her research and education journey! #150Leaders #2019Council"
+	},
+	{
+		"created_at": "Wed May 15 13:42:16 +0000 2019",
+		"id": 1128656847555170300,
+		"id_str": "1128656847555170304",
+		"full_text": "“University should build you as a person not make you into a protocolised robot” 👏🤖 🎓 - @GeekFatimah #150leaders #2019Council",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "150leaders",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"text": "2019Council",
+					"indices": [
+						113,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeekFatimah",
+					"name": "Fatimah Mohamied",
+					"id": 158409260,
+					"id_str": "158409260",
+					"indices": [
+						88,
+						100
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Nottingham, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1504,
+			"friends_count": 2875,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4738,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "“University should build you as a person not make you into a protocolised robot” 👏🤖 🎓 - @GeekFatimah #150leaders #2019Council"
+	},
+	{
+		"created_at": "Wed May 15 13:13:01 +0000 2019",
+		"id": 1128621989537751000,
+		"id_str": "1128649485968728064",
+		"full_text": "Students as co-creators of their learning - Nigel Harrison addresses the Teaching leadership in pre-registration education workshop @councilofdeans Annual Summit #council2019",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "council2019",
+					"indices": [
+						162,
+						174
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "councilofdeans",
+					"name": "Council of Deans",
+					"id": 278442312,
+					"id_str": "278442312",
+					"indices": [
+						132,
+						147
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 905867976,
+			"id_str": "905867976",
+			"name": "Marc Griffiths",
+			"screen_name": "griffiths_marc",
+			"location": "Bristol, United Kingdom",
+			"description": "Deputy Dean, Faculty of Health and Applied Sciences, University of the West of England, Bristol.  All opinions are my own",
+			"url": "https://t.co/qEZSN5Zj3q",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qEZSN5Zj3q",
+							"expanded_url": "http://uwe.ac.uk",
+							"display_url": "uwe.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 555,
+			"friends_count": 135,
+			"listed_count": 21,
+			"created_at": "Fri Oct 26 12:14:24 +0000 2012",
+			"favourites_count": 1256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1473,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3277546239/db94b2f1b4a8e067f7a460bf53795d44_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3277546239/db94b2f1b4a8e067f7a460bf53795d44_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/905867976/1450394226",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Students as co-creators of their learning - Nigel Harrison addresses the Teaching leadership in pre-registration education workshop @councilofdeans Annual Summit #council2019"
+	},
+	{
 		"created_at": "Tue May 14 16:48:25 +0000 2019",
 		"id": 1128341307221524500,
 		"id_str": "1128341307221524481",
