@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Fri May 17 19:53:02 +0000 2019",
+		"id": 1127166695519457300,
+		"id_str": "1129474930666541058",
+		"full_text": "I know I've used a version of this before, but I'm not ashamed to repeat myself on this one.\n\n#leadership\n#quotes\n#humility https://t.co/LxJKmLolKD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "leadership",
+					"indices": [
+						94,
+						105
+					]
+				},
+				{
+					"text": "quotes",
+					"indices": [
+						106,
+						113
+					]
+				},
+				{
+					"text": "humility",
+					"indices": [
+						114,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1127166687005106200,
+					"id_str": "1127166687005106176",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/D6SAIT2X4AAA2bU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6SAIT2X4AAA2bU.jpg",
+					"url": "https://t.co/LxJKmLolKD",
+					"display_url": "pic.twitter.com/LxJKmLolKD",
+					"expanded_url": "https://twitter.com/Fletch12321/status/1127166695519457280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 714,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 506,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 714,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1127166687005106200,
+					"id_str": "1127166687005106176",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/D6SAIT2X4AAA2bU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D6SAIT2X4AAA2bU.jpg",
+					"url": "https://t.co/LxJKmLolKD",
+					"display_url": "pic.twitter.com/LxJKmLolKD",
+					"expanded_url": "https://twitter.com/Fletch12321/status/1127166695519457280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 714,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 506,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 714,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3248934623,
+			"id_str": "3248934623",
+			"name": "Graeme Fletcher",
+			"screen_name": "Fletch12321",
+			"location": "North East, England",
+			"description": "Proud husband & father of two boys.\nPassionate about Tech scene in the NE of England.\nCIO - Connect Health.\nVice Chair - Dynamo NE.\nBoard Member - Byte Night NE",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 966,
+			"friends_count": 1181,
+			"listed_count": 28,
+			"created_at": "Tue May 12 22:06:56 +0000 2015",
+			"favourites_count": 9303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5150,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1088183472408195073/PR2DdWgc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1088183472408195073/PR2DdWgc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3248934623/1556404140",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "4c9617680dec8914",
+			"url": "https://api.twitter.com/1.1/geo/id/4c9617680dec8914.json",
+			"place_type": "city",
+			"name": "Newburn",
+			"full_name": "Newburn, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.7807386,
+							54.9694396
+						],
+						[
+							-1.668453,
+							54.9694396
+						],
+						[
+							-1.668453,
+							55.008114
+						],
+						[
+							-1.7807386,
+							55.008114
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 35,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I know I've used a version of this before, but I'm not ashamed to repeat myself on this one.\n\n#leadership\n#quotes\n#humility https://t.co/LxJKmLolKD"
+	},
+	{
+		"created_at": "Fri May 17 16:58:43 +0000 2019",
+		"id": 1129431060041879600,
+		"id_str": "1129431060041879560",
+		"full_text": "@OP_Physio @JoeThomasPhysio Be @JoeThomasPhysio ? 👑",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OP_Physio",
+					"name": "Olivia Pollard",
+					"id": 1123972203194781700,
+					"id_str": "1123972203194781697",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "JoeThomasPhysio",
+					"name": "Joe Thomas",
+					"id": 989454211778797600,
+					"id_str": "989454211778797568",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "JoeThomasPhysio",
+					"name": "Joe Thomas",
+					"id": 989454211778797600,
+					"id_str": "989454211778797568",
+					"indices": [
+						31,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1129393260630298600,
+		"in_reply_to_status_id_str": "1129393260630298626",
+		"in_reply_to_user_id": 1123972203194781700,
+		"in_reply_to_user_id_str": "1123972203194781697",
+		"in_reply_to_screen_name": "OP_Physio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Nottingham, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1508,
+			"friends_count": 2880,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11887,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4744,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@OP_Physio @JoeThomasPhysio Be @JoeThomasPhysio ? 👑"
+	},
+	{
 		"created_at": "Thu May 16 17:28:48 +0000 2019",
 		"id": 1129076245025710100,
 		"id_str": "1129076245025710083",
@@ -230,7 +559,7 @@ Grailbird.data.tweets_2019_05 =
 			"name": "Joe Thomas",
 			"screen_name": "JoeThomasPhysio",
 			"location": "Bath",
-			"description": "University of Nottingham 3rd year physiotherapy student 🎓 | Welsh academics rugby player 🏉 | Bath 🏬 | CSP student 👨🏼‍🎓| Career aim = Bath Rugby Physio 🎯",
+			"description": "University of Nottingham 3rd year physiotherapy student 🎓 | Welsh academics rugby player 🏉 | Bath 🏬 | CSP student 👨🏼🎓| Career aim = Bath Rugby Physio 🎯",
 			"url": null,
 			"entities": {
 				"description": {
