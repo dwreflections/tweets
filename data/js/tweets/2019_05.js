@@ -1,6 +1,323 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sat May 18 11:01:11 +0000 2019",
+		"id": 1129703472964751400,
+		"id_str": "1129703472964751360",
+		"full_text": "@adamdobson123 I did! This is great timing (as I have my viva on Tuesday) so will be looking over the dissertation this weekend. \n\nWill share some refs! &amp; maybe some tweets with my findings next week if I get time",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adamdobson123",
+					"name": "Adam Dobson",
+					"id": 702962141800878100,
+					"id_str": "702962141800878081",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1129703030562148400,
+		"in_reply_to_status_id_str": "1129703030562148352",
+		"in_reply_to_user_id": 702962141800878100,
+		"in_reply_to_user_id_str": "702962141800878081",
+		"in_reply_to_screen_name": "adamdobson123",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Nottingham, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1510,
+			"friends_count": 2880,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@adamdobson123 I did! This is great timing (as I have my viva on Tuesday) so will be looking over the dissertation this weekend. \n\nWill share some refs! &amp; maybe some tweets with my findings next week if I get time"
+	},
+	{
+		"created_at": "Sat May 18 10:56:09 +0000 2019",
+		"id": 1129640270923018200,
+		"id_str": "1129702204867252224",
+		"full_text": "🇪🇺 is peace\n🇪🇺 is freedom\n🇪🇺 is solidarity\n🇪🇺 is diversity\n🇪🇺 is human rights\n🇪🇺 is opportunities\n🇪🇺 is Erasmus\n🇪🇺 is research\n🇪🇺 is protection\n🇪🇺 is equality\n🇪🇺 is the future.\n\nVote. #ThisTimeImVoting",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ThisTimeImVoting",
+					"indices": [
+						184,
+						201
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 157981564,
+			"id_str": "157981564",
+			"name": "European Commission 🇪🇺",
+			"screen_name": "EU_Commission",
+			"location": "Brussels, Belgium",
+			"description": "News and information from the European Commission. Tweets by the Social Media Team. Engaging on #TeamJunckerEU priorities: https://t.co/HDhTPYZYmg",
+			"url": "https://t.co/2HnQtKhvZ6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/2HnQtKhvZ6",
+							"expanded_url": "http://ec.europa.eu",
+							"display_url": "ec.europa.eu",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/HDhTPYZYmg",
+							"expanded_url": "http://ec.europa.eu/priorities/",
+							"display_url": "ec.europa.eu/priorities/",
+							"indices": [
+								123,
+								146
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1085993,
+			"friends_count": 824,
+			"listed_count": 11402,
+			"created_at": "Mon Jun 21 12:28:34 +0000 2010",
+			"favourites_count": 8763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 33201,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9DD3EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/926737476437397504/JPQJdxox_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/926737476437397504/JPQJdxox_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/157981564/1557842104",
+			"profile_link_color": "0C7DA6",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CFECF9",
+			"profile_text_color": "1D1E23",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6212,
+		"favorite_count": 14415,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "🇪🇺 is peace\n🇪🇺 is freedom\n🇪🇺 is solidarity\n🇪🇺 is diversity\n🇪🇺 is human rights\n🇪🇺 is opportunities\n🇪🇺 is Erasmus\n🇪🇺 is research\n🇪🇺 is protection\n🇪🇺 is equality\n🇪🇺 is the future.\n\nVote. #ThisTimeImVoting"
+	},
+	{
+		"created_at": "Sat May 18 10:55:41 +0000 2019",
+		"id": 1129702090476073000,
+		"id_str": "1129702090476072960",
+		"full_text": "@nybutt @GeekFatimah &amp; sorry I couldn't stay for the evening...\n\nYour all amazing! #150Leaders",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			98
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "150Leaders",
+					"indices": [
+						87,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nybutt",
+					"name": "Nadia Butt",
+					"id": 591230931,
+					"id_str": "591230931",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "GeekFatimah",
+					"name": "Fatimah Mohamied",
+					"id": 158409260,
+					"id_str": "158409260",
+					"indices": [
+						8,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1128778888576929800,
+		"in_reply_to_status_id_str": "1128778888576929792",
+		"in_reply_to_user_id": 591230931,
+		"in_reply_to_user_id_str": "591230931",
+		"in_reply_to_screen_name": "nybutt",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Nottingham, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1510,
+			"friends_count": 2880,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11903,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4748,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1091028176107696128/nL51pB0L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@nybutt @GeekFatimah &amp; sorry I couldn't stay for the evening...\n\nYour all amazing! #150Leaders"
+	},
+	{
 		"created_at": "Fri May 17 19:53:02 +0000 2019",
 		"id": 1127166695519457300,
 		"id_str": "1129474930666541058",
