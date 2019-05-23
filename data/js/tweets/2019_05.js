@@ -1,6 +1,1846 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 22 22:24:51 +0000 2019",
+		"id": 1131325074135494700,
+		"id_str": "1131325074135494657",
+		"full_text": "@ChrisMulvaneyPT @RogerKerry1 @TaylorAlanJ * for under grads",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisMulvaneyPT",
+					"name": "Chris Mulvaney",
+					"id": 553076220,
+					"id_str": "553076220",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"screen_name": "TaylorAlanJ",
+					"name": "Alan J Taylor",
+					"id": 412127340,
+					"id_str": "412127340",
+					"indices": [
+						30,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1131105865287782400,
+		"in_reply_to_status_id_str": "1131105865287782400",
+		"in_reply_to_user_id": 553076220,
+		"in_reply_to_user_id_str": "553076220",
+		"in_reply_to_screen_name": "ChrisMulvaneyPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1525,
+			"friends_count": 2889,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ChrisMulvaneyPT @RogerKerry1 @TaylorAlanJ * for under grads"
+	},
+	{
+		"created_at": "Wed May 22 22:24:28 +0000 2019",
+		"id": 1131324980363448300,
+		"id_str": "1131324980363448320",
+		"full_text": "@ChrisMulvaneyPT @RogerKerry1 @TaylorAlanJ Last year of vivas at @UoNPhysio \n\nIt was definitely an experience!",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisMulvaneyPT",
+					"name": "Chris Mulvaney",
+					"id": 553076220,
+					"id_str": "553076220",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"screen_name": "TaylorAlanJ",
+					"name": "Alan J Taylor",
+					"id": 412127340,
+					"id_str": "412127340",
+					"indices": [
+						30,
+						42
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						65,
+						75
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1131105865287782400,
+		"in_reply_to_status_id_str": "1131105865287782400",
+		"in_reply_to_user_id": 553076220,
+		"in_reply_to_user_id_str": "553076220",
+		"in_reply_to_screen_name": "ChrisMulvaneyPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1525,
+			"friends_count": 2889,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ChrisMulvaneyPT @RogerKerry1 @TaylorAlanJ Last year of vivas at @UoNPhysio \n\nIt was definitely an experience!"
+	},
+	{
+		"created_at": "Wed May 22 19:56:59 +0000 2019",
+		"id": 1131287863553929200,
+		"id_str": "1131287863553929216",
+		"full_text": "@RogerKerry1 * I have just looked how many emails sent ... 😬🙈 https://t.co/aeNUYFGsCX",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131287850580926500,
+					"id_str": "1131287850580926466",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D7MkTmiXYAIm9_R.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D7MkTmiXYAIm9_R.jpg",
+					"url": "https://t.co/aeNUYFGsCX",
+					"display_url": "pic.twitter.com/aeNUYFGsCX",
+					"expanded_url": "https://twitter.com/beardedPT/status/1131287863553929216/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 276,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 276,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 276,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131287850580926500,
+					"id_str": "1131287850580926466",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D7MkTmiXYAIm9_R.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D7MkTmiXYAIm9_R.jpg",
+					"url": "https://t.co/aeNUYFGsCX",
+					"display_url": "pic.twitter.com/aeNUYFGsCX",
+					"expanded_url": "https://twitter.com/beardedPT/status/1131287863553929216/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 276,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 276,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 276,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							40,
+							23
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D7MkTmiXYAIm9_R.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1131286202219409400,
+		"in_reply_to_status_id_str": "1131286202219409410",
+		"in_reply_to_user_id": 396832258,
+		"in_reply_to_user_id_str": "396832258",
+		"in_reply_to_screen_name": "RogerKerry1",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1525,
+			"friends_count": 2889,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@RogerKerry1 * I have just looked how many emails sent ... 😬🙈 https://t.co/aeNUYFGsCX"
+	},
+	{
+		"created_at": "Wed May 22 19:52:19 +0000 2019",
+		"id": 1131286687684988900,
+		"id_str": "1131286687684988928",
+		"full_text": "@RogerKerry1 I did apologise 🤣 🙀",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1131286202219409400,
+		"in_reply_to_status_id_str": "1131286202219409410",
+		"in_reply_to_user_id": 396832258,
+		"in_reply_to_user_id_str": "396832258",
+		"in_reply_to_screen_name": "RogerKerry1",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1525,
+			"friends_count": 2889,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RogerKerry1 I did apologise 🤣 🙀"
+	},
+	{
+		"created_at": "Wed May 22 18:17:32 +0000 2019",
+		"id": 1131240907276075000,
+		"id_str": "1131262834518757382",
+		"full_text": "Learning from todays @WeLearnOutLoud #StomaNursesAddingValue module 1 - we really really mustn't make assumptions that its only 'young people' using social media ....... @RoyLilley @Coloplast_UK @NatashaRolls1 @christheeagle1 @LadyTVE https://t.co/V555GQHpLG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StomaNursesAddingValue",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WeLearnOutLoud",
+					"name": "WeLearn",
+					"id": 927480028870467600,
+					"id_str": "927480028870467585",
+					"indices": [
+						21,
+						36
+					]
+				},
+				{
+					"screen_name": "RoyLilley",
+					"name": "Roy Lilley",
+					"id": 20433786,
+					"id_str": "20433786",
+					"indices": [
+						170,
+						180
+					]
+				},
+				{
+					"screen_name": "Coloplast_UK",
+					"name": "Coloplast UK",
+					"id": 632006526,
+					"id_str": "632006526",
+					"indices": [
+						181,
+						194
+					]
+				},
+				{
+					"screen_name": "NatashaRolls1",
+					"name": "Natasha Rolls RGN",
+					"id": 725413720961208300,
+					"id_str": "725413720961208321",
+					"indices": [
+						195,
+						209
+					]
+				},
+				{
+					"screen_name": "christheeagle1",
+					"name": "Chris Lewis",
+					"id": 417765138,
+					"id_str": "417765138",
+					"indices": [
+						210,
+						225
+					]
+				},
+				{
+					"screen_name": "LadyTVE",
+					"name": "Tracey Virgin-E",
+					"id": 4092651861,
+					"id_str": "4092651861",
+					"indices": [
+						226,
+						234
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1131240903471976400,
+					"id_str": "1131240903471976448",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/D7L5m67W0AAy3jH.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7L5m67W0AAy3jH.png",
+					"url": "https://t.co/V555GQHpLG",
+					"display_url": "pic.twitter.com/V555GQHpLG",
+					"expanded_url": "https://twitter.com/gbtpo/status/1131240907276075008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 456,
+							"h": 443,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 456,
+							"h": 443,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 456,
+							"h": 443,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1131240903471976400,
+					"id_str": "1131240903471976448",
+					"indices": [
+						235,
+						258
+					],
+					"media_url": "http://pbs.twimg.com/media/D7L5m67W0AAy3jH.png",
+					"media_url_https": "https://pbs.twimg.com/media/D7L5m67W0AAy3jH.png",
+					"url": "https://t.co/V555GQHpLG",
+					"display_url": "pic.twitter.com/V555GQHpLG",
+					"expanded_url": "https://twitter.com/gbtpo/status/1131240907276075008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 456,
+							"h": 443,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 456,
+							"h": 443,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 456,
+							"h": 443,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1481749603,
+			"id_str": "1481749603",
+			"name": "Dr Theresa Porrett",
+			"screen_name": "gbtpo",
+			"location": "The Metropolis",
+			"description": "Enabling Nurse Specialists demonstrate their value via Apollo. 'Would be photo journalist' Priviledged to be working on @FabNHSStuff - aka #TheBlonde",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7070,
+			"friends_count": 1952,
+			"listed_count": 180,
+			"created_at": "Tue Jun 04 08:34:50 +0000 2013",
+			"favourites_count": 20401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 72838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/980110233199693824/giaMDb77_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/980110233199693824/giaMDb77_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1481749603/1516899648",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Learning from todays @WeLearnOutLoud #StomaNursesAddingValue module 1 - we really really mustn't make assumptions that its only 'young people' using social media ....... @RoyLilley @Coloplast_UK @NatashaRolls1 @christheeagle1 @LadyTVE https://t.co/V555GQHpLG"
+	},
+	{
+		"created_at": "Wed May 22 17:55:27 +0000 2019",
+		"id": 1131257277787398100,
+		"id_str": "1131257277787398145",
+		"full_text": "@CharliLouRat @PicPod_Podcast @PhysioGates Great domain name!!",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CharliLouRat",
+					"name": "Charlotte Chew",
+					"id": 1575590024,
+					"id_str": "1575590024",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "PicPod_Podcast",
+					"name": "PICPOD",
+					"id": 968626548751421400,
+					"id_str": "968626548751421445",
+					"indices": [
+						14,
+						29
+					]
+				},
+				{
+					"screen_name": "PhysioGates",
+					"name": "Simon Gates",
+					"id": 337178008,
+					"id_str": "337178008",
+					"indices": [
+						30,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1131253877871927300,
+		"in_reply_to_status_id_str": "1131253877871927300",
+		"in_reply_to_user_id": 1575590024,
+		"in_reply_to_user_id_str": "1575590024",
+		"in_reply_to_screen_name": "CharliLouRat",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1525,
+			"friends_count": 2889,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CharliLouRat @PicPod_Podcast @PhysioGates Great domain name!!"
+	},
+	{
+		"created_at": "Wed May 22 14:31:27 +0000 2019",
+		"id": 1131205940353671200,
+		"id_str": "1131205940353671174",
+		"full_text": "@Caryswilliams__ Frailty, discharge planning, dementia, comprehensive geriatric Ax \n\nBut I’d just listen to @MDTea_podcast instead  - brilliant podcast series (if you don’t already...) 👍🤓",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Caryswilliams__",
+					"name": "Carys Williams",
+					"id": 919608376476229600,
+					"id_str": "919608376476229632",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "MDTea_podcast",
+					"name": "MDTea Podcast",
+					"id": 2946137297,
+					"id_str": "2946137297",
+					"indices": [
+						108,
+						122
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1131124481794220000,
+		"in_reply_to_status_id_str": "1131124481794220032",
+		"in_reply_to_user_id": 919608376476229600,
+		"in_reply_to_user_id_str": "919608376476229632",
+		"in_reply_to_screen_name": "Caryswilliams__",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1525,
+			"friends_count": 2889,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Caryswilliams__ Frailty, discharge planning, dementia, comprehensive geriatric Ax \n\nBut I’d just listen to @MDTea_podcast instead  - brilliant podcast series (if you don’t already...) 👍🤓"
+	},
+	{
+		"created_at": "Wed May 22 14:15:29 +0000 2019",
+		"id": 1131201922638258200,
+		"id_str": "1131201922638258177",
+		"full_text": "@marksia @kirstyhyndes @UoNSportRehab @UoNPhysio @UniofNottingham @colmankanPT Sea fish?",
+		"truncated": false,
+		"display_text_range": [
+			79,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marksia",
+					"name": "Mark Sia",
+					"id": 756889163987836900,
+					"id_str": "756889163987836928",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "kirstyhyndes",
+					"name": "kirsty hyndes",
+					"id": 203287084,
+					"id_str": "203287084",
+					"indices": [
+						9,
+						22
+					]
+				},
+				{
+					"screen_name": "UoNSportRehab",
+					"name": "UoNSportRehab",
+					"id": 2174322090,
+					"id_str": "2174322090",
+					"indices": [
+						23,
+						37
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						38,
+						48
+					]
+				},
+				{
+					"screen_name": "UniofNottingham",
+					"name": "Uni of Nottingham",
+					"id": 30196565,
+					"id_str": "30196565",
+					"indices": [
+						49,
+						65
+					]
+				},
+				{
+					"screen_name": "colmankanPT",
+					"name": "Colman Kan",
+					"id": 1024844579370033200,
+					"id_str": "1024844579370033157",
+					"indices": [
+						66,
+						78
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1131197462033719300,
+		"in_reply_to_status_id_str": "1131197462033719296",
+		"in_reply_to_user_id": 756889163987836900,
+		"in_reply_to_user_id_str": "756889163987836928",
+		"in_reply_to_screen_name": "marksia",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1525,
+			"friends_count": 2889,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@marksia @kirstyhyndes @UoNSportRehab @UoNPhysio @UniofNottingham @colmankanPT Sea fish?"
+	},
+	{
+		"created_at": "Wed May 22 14:15:14 +0000 2019",
+		"id": 1131201859832754200,
+		"id_str": "1131201859832754176",
+		"full_text": "@EMAHPInfo @RogerKerry1 @TaylorAlanJ @AdvanceHE Excellent! #DigitalPhysio 🙌",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigitalPhysio",
+					"indices": [
+						59,
+						73
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EMAHPInfo",
+					"name": "Euan McComiskie",
+					"id": 2438541736,
+					"id_str": "2438541736",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "TaylorAlanJ",
+					"name": "Alan J Taylor",
+					"id": 412127340,
+					"id_str": "412127340",
+					"indices": [
+						24,
+						36
+					]
+				},
+				{
+					"screen_name": "AdvanceHE",
+					"name": "Advance HE",
+					"id": 941587234465177600,
+					"id_str": "941587234465177600",
+					"indices": [
+						37,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1131200108073300000,
+		"in_reply_to_status_id_str": "1131200108073299969",
+		"in_reply_to_user_id": 2438541736,
+		"in_reply_to_user_id_str": "2438541736",
+		"in_reply_to_screen_name": "EMAHPInfo",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1525,
+			"friends_count": 2889,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@EMAHPInfo @RogerKerry1 @TaylorAlanJ @AdvanceHE Excellent! #DigitalPhysio 🙌"
+	},
+	{
+		"created_at": "Wed May 22 14:10:44 +0000 2019",
+		"id": 1131131263069380600,
+		"id_str": "1131200726678482945",
+		"full_text": "Tips for a career @UoN_SHS \n1 take opportunities\n2 be passionate about work\n3 network\n4 find a mentor\n5 know your abilities\n6 volunteer where you see an opportunity\n7 relax &amp; enjoy your work\n8 there are no rules\n9 the world is your oyster\n10 love it!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UoN_SHS",
+					"name": "UoN Health Sciences",
+					"id": 512054069,
+					"id_str": "512054069",
+					"indices": [
+						18,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 203287084,
+			"id_str": "203287084",
+			"name": "kirsty hyndes",
+			"screen_name": "kirstyhyndes",
+			"location": "Nottingham",
+			"description": "Director of IPE, Associate Professor, Physiotherapy, University of Nottingham. Love dancing, life & gardening. Passionate about care in health. Views my own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1467,
+			"friends_count": 1491,
+			"listed_count": 94,
+			"created_at": "Fri Oct 15 23:19:47 +0000 2010",
+			"favourites_count": 6634,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12447,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1047869603957940229/1MCVGVCv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047869603957940229/1MCVGVCv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/203287084/1498568956",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 53,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Tips for a career @UoN_SHS \n1 take opportunities\n2 be passionate about work\n3 network\n4 find a mentor\n5 know your abilities\n6 volunteer where you see an opportunity\n7 relax &amp; enjoy your work\n8 there are no rules\n9 the world is your oyster\n10 love it!"
+	},
+	{
+		"created_at": "Wed May 22 14:10:38 +0000 2019",
+		"id": 1131191847899078700,
+		"id_str": "1131200699478478849",
+		"full_text": "What an amazing 3 years ❤️\n@UoNPhysio @UoN_SHS @UoNSportRehab @UniofNottingham https://t.co/EEN66pVYTR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "UoN_SHS",
+					"name": "UoN Health Sciences",
+					"id": 512054069,
+					"id_str": "512054069",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"screen_name": "UoNSportRehab",
+					"name": "UoNSportRehab",
+					"id": 2174322090,
+					"id_str": "2174322090",
+					"indices": [
+						47,
+						61
+					]
+				},
+				{
+					"screen_name": "UniofNottingham",
+					"name": "Uni of Nottingham",
+					"id": 30196565,
+					"id_str": "30196565",
+					"indices": [
+						62,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EEN66pVYTR",
+					"expanded_url": "https://twitter.com/kirstyhyndes/status/1131150981289390080",
+					"display_url": "twitter.com/kirstyhyndes/s…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 756889163987836900,
+			"id_str": "756889163987836928",
+			"name": "Mark Sia",
+			"screen_name": "marksia",
+			"location": "",
+			"description": "3rd Year @UoNPhysio Student | 2018-2019 SUPRA President | Physio Student Ambassador | Course Rep | Peer Mentor | CSP Student | NHS Employee 10+ Years",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102,
+			"friends_count": 120,
+			"listed_count": 1,
+			"created_at": "Sat Jul 23 16:30:13 +0000 2016",
+			"favourites_count": 72,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1086399921006235651/6KSj_yWs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1086399921006235651/6KSj_yWs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/756889163987836928/1558540571",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1131150981289390100,
+		"quoted_status_id_str": "1131150981289390080",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EEN66pVYTR",
+			"expanded": "https://twitter.com/kirstyhyndes/status/1131150981289390080",
+			"display": "twitter.com/kirstyhyndes/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 22 10:53:04 +0000 2019",
+			"id": 1131150981289390100,
+			"id_str": "1131150981289390080",
+			"full_text": "End of an era! @UoNSportRehab @UoNPhysio Good luck in your future #career Keep in touch and remember the @UniofNottingham \nWe will miss you! https://t.co/26jJ4kRHmY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				140
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "career",
+						"indices": [
+							66,
+							73
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UoNSportRehab",
+						"name": "UoNSportRehab",
+						"id": 2174322090,
+						"id_str": "2174322090",
+						"indices": [
+							15,
+							29
+						]
+					},
+					{
+						"screen_name": "UoNPhysio",
+						"name": "UoN Physiotherapy",
+						"id": 3020424189,
+						"id_str": "3020424189",
+						"indices": [
+							30,
+							40
+						]
+					},
+					{
+						"screen_name": "UniofNottingham",
+						"name": "Uni of Nottingham",
+						"id": 30196565,
+						"id_str": "30196565",
+						"indices": [
+							105,
+							121
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1131150950746533900,
+						"id_str": "1131150950746533888",
+						"indices": [
+							141,
+							164
+						],
+						"media_url": "http://pbs.twimg.com/media/D7Kny-6XsAAolPz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7Kny-6XsAAolPz.jpg",
+						"url": "https://t.co/26jJ4kRHmY",
+						"display_url": "pic.twitter.com/26jJ4kRHmY",
+						"expanded_url": "https://twitter.com/kirstyhyndes/status/1131150981289390080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1131150950746533900,
+						"id_str": "1131150950746533888",
+						"indices": [
+							141,
+							164
+						],
+						"media_url": "http://pbs.twimg.com/media/D7Kny-6XsAAolPz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7Kny-6XsAAolPz.jpg",
+						"url": "https://t.co/26jJ4kRHmY",
+						"display_url": "pic.twitter.com/26jJ4kRHmY",
+						"expanded_url": "https://twitter.com/kirstyhyndes/status/1131150981289390080/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 203287084,
+				"id_str": "203287084",
+				"name": "kirsty hyndes",
+				"screen_name": "kirstyhyndes",
+				"location": "Nottingham",
+				"description": "Director of IPE, Associate Professor, Physiotherapy, University of Nottingham. Love dancing, life & gardening. Passionate about care in health. Views my own",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1467,
+				"friends_count": 1491,
+				"listed_count": 94,
+				"created_at": "Fri Oct 15 23:19:47 +0000 2010",
+				"favourites_count": 6634,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 12447,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1047869603957940229/1MCVGVCv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1047869603957940229/1MCVGVCv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/203287084/1498568956",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What an amazing 3 years ❤️\n@UoNPhysio @UoN_SHS @UoNSportRehab @UniofNottingham https://t.co/EEN66pVYTR"
+	},
+	{
+		"created_at": "Wed May 22 14:09:12 +0000 2019",
+		"id": 1131200338709631000,
+		"id_str": "1131200338709630976",
+		"full_text": "@exerciseworks @fimo18 @RogerKerry1 @UoNPhysio @UniofNottingham @JoeThomasPhysio @GatesPhysio @SallyPCovPhys It’s the culture at @UoNPhysio which makes it such a unique and rewarding place 👍",
+		"truncated": false,
+		"display_text_range": [
+			109,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "exerciseworks",
+					"name": "Exercise Works!",
+					"id": 256921454,
+					"id_str": "256921454",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "fimo18",
+					"name": "Dr Fiona Moffatt",
+					"id": 508806750,
+					"id_str": "508806750",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						23,
+						35
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"screen_name": "UniofNottingham",
+					"name": "Uni of Nottingham",
+					"id": 30196565,
+					"id_str": "30196565",
+					"indices": [
+						47,
+						63
+					]
+				},
+				{
+					"screen_name": "JoeThomasPhysio",
+					"name": "Joe Thomas",
+					"id": 989454211778797600,
+					"id_str": "989454211778797568",
+					"indices": [
+						64,
+						80
+					]
+				},
+				{
+					"screen_name": "GatesPhysio",
+					"name": "John Gates",
+					"id": 451401278,
+					"id_str": "451401278",
+					"indices": [
+						81,
+						93
+					]
+				},
+				{
+					"screen_name": "SallyPCovPhys",
+					"name": "Sally Parkes",
+					"id": 3184911336,
+					"id_str": "3184911336",
+					"indices": [
+						94,
+						108
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						129,
+						139
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1131197065437093900,
+		"in_reply_to_status_id_str": "1131197065437093893",
+		"in_reply_to_user_id": 256921454,
+		"in_reply_to_user_id_str": "256921454",
+		"in_reply_to_screen_name": "exerciseworks",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1525,
+			"friends_count": 2889,
+			"listed_count": 14,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 11964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@exerciseworks @fimo18 @RogerKerry1 @UoNPhysio @UniofNottingham @JoeThomasPhysio @GatesPhysio @SallyPCovPhys It’s the culture at @UoNPhysio which makes it such a unique and rewarding place 👍"
+	},
+	{
 		"created_at": "Tue May 21 20:06:35 +0000 2019",
 		"id": 1130927892806930400,
 		"id_str": "1130927892806930432",
