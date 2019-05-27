@@ -1,6 +1,713 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Sun May 26 23:19:23 +0000 2019",
+		"id": 1132613578522058800,
+		"id_str": "1132788348928577536",
+		"full_text": "Empathy is core trait of effective leaders, It helps them create bonds of trust, gives them insights into what others may be feeling or thinking, helps them understand how or why others are reacting to situations, it sharpens their \"people acumen\" and it informs their decisions.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1044933843084603400,
+			"id_str": "1044933843084603394",
+			"name": "Effective Leadership",
+			"screen_name": "effectleader",
+			"location": "London, England",
+			"description": "Training, Equipping and Inspiring Leaders and Managers of Private and Public Institutions for the future challenges of leadership.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5560,
+			"friends_count": 4517,
+			"listed_count": 42,
+			"created_at": "Wed Sep 26 12:56:56 +0000 2018",
+			"favourites_count": 3013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4005,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1044936864011030528/is5RFYHU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1044936864011030528/is5RFYHU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1044933843084603394/1537997448",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Empathy is core trait of effective leaders, It helps them create bonds of trust, gives them insights into what others may be feeling or thinking, helps them understand how or why others are reacting to situations, it sharpens their \"people acumen\" and it informs their decisions."
+	},
+	{
+		"created_at": "Sun May 26 22:10:02 +0000 2019",
+		"id": 1132770899038539800,
+		"id_str": "1132770899038539782",
+		"full_text": "Hello @UoEPhysioSoc the survey has ended! \n\nKeep tweeting 😊",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UoEPhysioSoc",
+					"name": "University of Essex Physiotherapy Society",
+					"id": 1087721612928008200,
+					"id_str": "1087721612928008193",
+					"indices": [
+						6,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1058360870240223200,
+		"in_reply_to_status_id_str": "1058360870240223232",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1531,
+			"friends_count": 2901,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Hello @UoEPhysioSoc the survey has ended! \n\nKeep tweeting 😊"
+	},
+	{
+		"created_at": "Sun May 26 21:38:58 +0000 2019",
+		"id": 1132763077932404700,
+		"id_str": "1132763077932404736",
+		"full_text": "@CalvinMoorley Thank you @CalvinMoorley 👍👍",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CalvinMoorley",
+					"name": "Calvin Moorley PhD",
+					"id": 23117879,
+					"id_str": "23117879",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "CalvinMoorley",
+					"name": "Calvin Moorley PhD",
+					"id": 23117879,
+					"id_str": "23117879",
+					"indices": [
+						25,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1132721648350761000,
+		"in_reply_to_status_id_str": "1132721648350760962",
+		"in_reply_to_user_id": 23117879,
+		"in_reply_to_user_id_str": "23117879",
+		"in_reply_to_screen_name": "CalvinMoorley",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1531,
+			"friends_count": 2901,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CalvinMoorley Thank you @CalvinMoorley 👍👍"
+	},
+	{
+		"created_at": "Sun May 26 18:45:17 +0000 2019",
+		"id": 1132719371560923100,
+		"id_str": "1132719371560923136",
+		"full_text": "Good to see some #socialmedia research in student nurses 👍👍\n\nGet involved #150Leaders 👇 https://t.co/hazSnQK8jX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "socialmedia",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"text": "150Leaders",
+					"indices": [
+						74,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hazSnQK8jX",
+					"expanded_url": "https://twitter.com/calvinmoorley/status/1131835465131286528",
+					"display_url": "twitter.com/calvinmoorley/…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1531,
+			"friends_count": 2901,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "31d801bc812e1356",
+			"url": "https://api.twitter.com/1.1/geo/id/31d801bc812e1356.json",
+			"place_type": "city",
+			"name": "Beeston",
+			"full_name": "Beeston, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.272419,
+							52.8998504
+						],
+						[
+							-1.187896,
+							52.8998504
+						],
+						[
+							-1.187896,
+							52.949038
+						],
+						[
+							-1.272419,
+							52.949038
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1131835465131286500,
+		"quoted_status_id_str": "1131835465131286528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hazSnQK8jX",
+			"expanded": "https://twitter.com/calvinmoorley/status/1131835465131286528",
+			"display": "twitter.com/calvinmoorley/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 24 08:12:58 +0000 2019",
+			"id": 1131835465131286500,
+			"id_str": "1131835465131286528",
+			"full_text": "#CathalaandMoorley Update we had no completions yesterday! Can all those lovely student nurses I met at #rcn19 please share our link https://t.co/K6uPvSST4P @WeStudentNurse @WeNurses @RCNStudents @GCUNursing @natalie_weetink we still need Scottish STNs @xabicathala",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				265
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CathalaandMoorley",
+						"indices": [
+							0,
+							18
+						]
+					},
+					{
+						"text": "rcn19",
+						"indices": [
+							104,
+							110
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WeStudentNurse",
+						"name": "WeStudentNurses",
+						"id": 939235274554560500,
+						"id_str": "939235274554560512",
+						"indices": [
+							157,
+							172
+						]
+					},
+					{
+						"screen_name": "WeNurses",
+						"name": "WeNurses",
+						"id": 599536551,
+						"id_str": "599536551",
+						"indices": [
+							173,
+							182
+						]
+					},
+					{
+						"screen_name": "RCNStudents",
+						"name": "RCN Students",
+						"id": 1105954730,
+						"id_str": "1105954730",
+						"indices": [
+							183,
+							195
+						]
+					},
+					{
+						"screen_name": "GCUNursing",
+						"name": "GCU Nursing",
+						"id": 3247741156,
+						"id_str": "3247741156",
+						"indices": [
+							196,
+							207
+						]
+					},
+					{
+						"screen_name": "natalie_weetink",
+						"name": "Natalie Elliott #UWSStN",
+						"id": 1063365953839398900,
+						"id_str": "1063365953839398912",
+						"indices": [
+							208,
+							224
+						]
+					},
+					{
+						"screen_name": "xabicathala",
+						"name": "Xabi Cathala",
+						"id": 390366559,
+						"id_str": "390366559",
+						"indices": [
+							253,
+							265
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/K6uPvSST4P",
+						"expanded_url": "https://lsbu.onlinesurveys.ac.uk/student-nurses-use-of-social-media",
+						"display_url": "lsbu.onlinesurveys.ac.uk/student-nurses…",
+						"indices": [
+							133,
+							156
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 23117879,
+				"id_str": "23117879",
+				"name": "Calvin Moorley PhD",
+				"screen_name": "CalvinMoorley",
+				"location": "London",
+				"description": "A/Professor in Nursing, culture gender, health, later life, stroke. Social media learning. #CathalaandMoorley work husband of @XabiCathala",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2378,
+				"friends_count": 1224,
+				"listed_count": 70,
+				"created_at": "Fri Mar 06 20:59:52 +0000 2009",
+				"favourites_count": 10736,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 25465,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1115568307267149824/tN9Hb71X_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115568307267149824/tN9Hb71X_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/23117879/1445761982",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good to see some #socialmedia research in student nurses 👍👍\n\nGet involved #150Leaders 👇 https://t.co/hazSnQK8jX"
+	},
+	{
+		"created_at": "Sun May 26 13:49:50 +0000 2019",
+		"id": 1132645017149988900,
+		"id_str": "1132645017149988864",
+		"full_text": "@CarylAPhysio @Srikesavan @UHDBTrust Thank you Caryl",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CarylAPhysio",
+					"name": "Caryl Hunter",
+					"id": 825667985876582400,
+					"id_str": "825667985876582400",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Srikesavan",
+					"name": "Srikesavan",
+					"id": 58153048,
+					"id_str": "58153048",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						26,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1132378563829801000,
+		"in_reply_to_status_id_str": "1132378563829800962",
+		"in_reply_to_user_id": 825667985876582400,
+		"in_reply_to_user_id_str": "825667985876582400",
+		"in_reply_to_screen_name": "CarylAPhysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1531,
+			"friends_count": 2901,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12053,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4799,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CarylAPhysio @Srikesavan @UHDBTrust Thank you Caryl"
+	},
+	{
 		"created_at": "Sat May 25 13:51:33 +0000 2019",
 		"id": 1132283061914296300,
 		"id_str": "1132283061914296320",
