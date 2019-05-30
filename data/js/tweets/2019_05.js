@@ -1,6 +1,428 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 29 16:11:04 +0000 2019",
+		"id": 1133723476269965300,
+		"id_str": "1133767723442475010",
+		"full_text": ".@natalie_weetink @kaylanlad @MartynWyres \n\n@beardedPT @fimo18 @RogerKerry1 @TaylorAlanJ @AgencyNurse @WeStudentNurse @WeAHPs https://t.co/eqaQ7YOdKf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "natalie_weetink",
+					"name": "Natalie Elliott #UWSStN",
+					"id": 1063365953839398900,
+					"id_str": "1063365953839398912",
+					"indices": [
+						1,
+						17
+					]
+				},
+				{
+					"screen_name": "kaylanlad",
+					"name": "Kaylan Lad",
+					"id": 1107660129644752900,
+					"id_str": "1107660129644752896",
+					"indices": [
+						18,
+						28
+					]
+				},
+				{
+					"screen_name": "MartynWyres",
+					"name": "Martyn Wyres",
+					"id": 820384807586828300,
+					"id_str": "820384807586828292",
+					"indices": [
+						29,
+						41
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams ✨",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						44,
+						54
+					]
+				},
+				{
+					"screen_name": "fimo18",
+					"name": "Dr Fiona Moffatt",
+					"id": 508806750,
+					"id_str": "508806750",
+					"indices": [
+						55,
+						62
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						63,
+						75
+					]
+				},
+				{
+					"screen_name": "TaylorAlanJ",
+					"name": "Alan J Taylor",
+					"id": 412127340,
+					"id_str": "412127340",
+					"indices": [
+						76,
+						88
+					]
+				},
+				{
+					"screen_name": "AgencyNurse",
+					"name": "Teresa Chinn MBE RN",
+					"id": 212935959,
+					"id_str": "212935959",
+					"indices": [
+						89,
+						101
+					]
+				},
+				{
+					"screen_name": "WeStudentNurse",
+					"name": "WeStudentNurses",
+					"id": 939235274554560500,
+					"id_str": "939235274554560512",
+					"indices": [
+						102,
+						117
+					]
+				},
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						118,
+						125
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eqaQ7YOdKf",
+					"expanded_url": "https://twitter.com/HarvardHealth/status/1133722669537529856",
+					"display_url": "twitter.com/HarvardHealth/…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 256921454,
+			"id_str": "256921454",
+			"name": "Exercise Works!",
+			"screen_name": "exerciseworks",
+			"location": "UK, World",
+			"description": "Exercise Works in the prevention & treatment of disease. One step for patients. One leap to health!\n \nhttps://t.co/Q4HTTTP8w6 \nby Ann Gates #MovementForMovement",
+			"url": "https://t.co/Q4HTTTP8w6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q4HTTTP8w6",
+							"expanded_url": "http://www.exercise-works.org",
+							"display_url": "exercise-works.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Q4HTTTP8w6",
+							"expanded_url": "http://www.exercise-works.org",
+							"display_url": "exercise-works.org",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 59717,
+			"friends_count": 48333,
+			"listed_count": 1213,
+			"created_at": "Thu Feb 24 10:22:04 +0000 2011",
+			"favourites_count": 127730,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 165835,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253185990/Exercise_Works_avatar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253185990/Exercise_Works_avatar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/256921454/1399040184",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1133722669537529900,
+		"quoted_status_id_str": "1133722669537529856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eqaQ7YOdKf",
+			"expanded": "https://twitter.com/HarvardHealth/status/1133722669537529856",
+			"display": "twitter.com/HarvardHealth/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 29 13:12:02 +0000 2019",
+			"id": 1133722669537529900,
+			"id_str": "1133722669537529856",
+			"full_text": "Anxiety in college - what we know and how to cope: https://t.co/WoGLlLFpj0 #HarvardHealth #MentalHealthAwareness https://t.co/XInQVDw4Iu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				112
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HarvardHealth",
+						"indices": [
+							75,
+							89
+						]
+					},
+					{
+						"text": "MentalHealthAwareness",
+						"indices": [
+							90,
+							112
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WoGLlLFpj0",
+						"expanded_url": "http://bit.ly/2WvueAe",
+						"display_url": "bit.ly/2WvueAe",
+						"indices": [
+							51,
+							74
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1133722668094697500,
+						"id_str": "1133722668094697473",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/D7vKwomXsAEuykY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7vKwomXsAEuykY.jpg",
+						"url": "https://t.co/XInQVDw4Iu",
+						"display_url": "pic.twitter.com/XInQVDw4Iu",
+						"expanded_url": "https://twitter.com/HarvardHealth/status/1133722669537529856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 454,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 683,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 683,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1133722668094697500,
+						"id_str": "1133722668094697473",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/D7vKwomXsAEuykY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D7vKwomXsAEuykY.jpg",
+						"url": "https://t.co/XInQVDw4Iu",
+						"display_url": "pic.twitter.com/XInQVDw4Iu",
+						"expanded_url": "https://twitter.com/HarvardHealth/status/1133722669537529856/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 454,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 683,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 683,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22708797,
+				"id_str": "22708797",
+				"name": "Harvard Health",
+				"screen_name": "HarvardHealth",
+				"location": "Boston, MA",
+				"description": "Knowledge is the best medicine. Providing you with trustworthy health information from the halls of @Harvardmed and world-famous affiliated hospitals.",
+				"url": "http://t.co/bKrCARUjg1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/bKrCARUjg1",
+								"expanded_url": "http://www.health.harvard.edu/",
+								"display_url": "health.harvard.edu",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2375026,
+				"friends_count": 857,
+				"listed_count": 11109,
+				"created_at": "Wed Mar 04 00:49:26 +0000 2009",
+				"favourites_count": 700,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 7710,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/897872949998387200/aLAkB7yk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/897872949998387200/aLAkB7yk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22708797/1552681699",
+				"profile_link_color": "960312",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 46,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": ".@natalie_weetink @kaylanlad @MartynWyres \n\n@beardedPT @fimo18 @RogerKerry1 @TaylorAlanJ @AgencyNurse @WeStudentNurse @WeAHPs https://t.co/eqaQ7YOdKf"
+	},
+	{
 		"created_at": "Tue May 28 18:31:31 +0000 2019",
 		"id": 1133440680083300400,
 		"id_str": "1133440680083300355",
