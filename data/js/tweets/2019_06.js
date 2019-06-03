@@ -1,6 +1,353 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 02 16:01:45 +0000 2019",
+		"id": 1135196805929603100,
+		"id_str": "1135214932990017537",
+		"full_text": "Oh ... 😑 https://t.co/c8iywygSZo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c8iywygSZo",
+					"expanded_url": "https://twitter.com/bbcpolitics/status/1135118137987223554",
+					"display_url": "twitter.com/bbcpolitics/st…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 412127340,
+			"id_str": "412127340",
+			"name": "Alan J Taylor",
+			"screen_name": "TaylorAlanJ",
+			"location": "Nottingham",
+			"description": "Ass' Prof, wordsmith, physio, educator, med-legal witness, haemodynamics. Ex-Pro Tour of Britain cyclist. Player of music/songs @LawrenceCounty RT's = random",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5569,
+			"friends_count": 1236,
+			"listed_count": 122,
+			"created_at": "Mon Nov 14 09:08:19 +0000 2011",
+			"favourites_count": 33063,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/691706861809209344/uCsn0x1s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/691706861809209344/uCsn0x1s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/412127340/1453843584",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1135118137987223600,
+		"quoted_status_id_str": "1135118137987223554",
+		"quoted_status_permalink": {
+			"url": "https://t.co/c8iywygSZo",
+			"expanded": "https://twitter.com/bbcpolitics/status/1135118137987223554",
+			"display": "twitter.com/bbcpolitics/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 02 09:37:08 +0000 2019",
+			"id": 1135118137987223600,
+			"id_str": "1135118137987223554",
+			"full_text": "US Ambassador to the UK Woody Johnson tells #Marr that the whole of the economy, including the #NHS, will be “on the table” in a future US-UK trade deal after Brexit \n\nhttps://t.co/OakG0Gu6Ro https://t.co/BlYJ9GKcuJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				191
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Marr",
+						"indices": [
+							44,
+							49
+						]
+					},
+					{
+						"text": "NHS",
+						"indices": [
+							95,
+							99
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OakG0Gu6Ro",
+						"expanded_url": "http://bbc.in/2Mn6Zof",
+						"display_url": "bbc.in/2Mn6Zof",
+						"indices": [
+							168,
+							191
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1135118027236597800,
+						"id_str": "1135118027236597760",
+						"indices": [
+							192,
+							215
+						],
+						"media_url": "http://pbs.twimg.com/media/D8C_7JZUcAASzib.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8C_7JZUcAASzib.jpg",
+						"url": "https://t.co/BlYJ9GKcuJ",
+						"display_url": "pic.twitter.com/BlYJ9GKcuJ",
+						"expanded_url": "https://twitter.com/BBCPolitics/status/1135118137987223554/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1135118027236597800,
+						"id_str": "1135118027236597760",
+						"indices": [
+							192,
+							215
+						],
+						"media_url": "http://pbs.twimg.com/media/D8C_7JZUcAASzib.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D8C_7JZUcAASzib.jpg",
+						"url": "https://t.co/BlYJ9GKcuJ",
+						"display_url": "pic.twitter.com/BlYJ9GKcuJ",
+						"expanded_url": "https://twitter.com/BBCPolitics/status/1135118137987223554/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 39205,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1135118027236597760/vid/640x360/zCSxY_SqWt5GdNPW.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1135118027236597760/vid/1280x720/Wj-Vlv3ZXbbaLbHC.mp4?tag=12"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1135118027236597760/vid/320x180/bz3QkpmRiblOR-IT.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1135118027236597760/pl/kXorWB3qB1wdex3x.m3u8?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Woody Johnson on the NHS",
+							"description": "Andrew Marr with papers, politics and culture: Most Sundays from 10am on BBC One  #marr",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "http://www.bbc.co.uk/programmes/b0080bbs/clips"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 621533,
+				"id_str": "621533",
+				"name": "BBC Politics",
+				"screen_name": "BBCPolitics",
+				"location": "London",
+				"description": "The best of the BBC's political coverage. Find us on Facebook too: https://t.co/acObBhqWpq",
+				"url": "https://t.co/TYcu9IVV2N",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/TYcu9IVV2N",
+								"expanded_url": "http://www.bbc.co.uk/politics",
+								"display_url": "bbc.co.uk/politics",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/acObBhqWpq",
+								"expanded_url": "https://www.facebook.com/BBCPolitics",
+								"display_url": "facebook.com/BBCPolitics",
+								"indices": [
+									67,
+									90
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 528295,
+				"friends_count": 317,
+				"listed_count": 7960,
+				"created_at": "Wed Jan 10 12:34:33 +0000 2007",
+				"favourites_count": 782,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 84268,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877405743326134272/6OV1yMCP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877405743326134272/6OV1yMCP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/621533/1527070087",
+				"profile_link_color": "1F527B",
+				"profile_sidebar_border_color": "CCCCCC",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "5A5A5A",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3688,
+			"favorite_count": 2502,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Oh ... 😑 https://t.co/c8iywygSZo"
+	},
+	{
 		"created_at": "Sat Jun 01 19:46:20 +0000 2019",
 		"id": 1134909060619427800,
 		"id_str": "1134909060619427840",
@@ -136,7 +483,7 @@ Grailbird.data.tweets_2019_06 =
 				"name": "Connor Woolley",
 				"screen_name": "ImConnorWoolley",
 				"location": "Slough, England",
-				"description": "@sportsgazette football editor ⚽ @hrbfc media 🎥 @NTU grad & @yourstmarys Ma Sports Journalism 👨‍🎓 Insta - connorw192 📸",
+				"description": "@sportsgazette football editor ⚽ @hrbfc media 🎥 @NTU grad & @yourstmarys Ma Sports Journalism 👨🎓 Insta - connorw192 📸",
 				"url": "https://t.co/LizJVxAIKp",
 				"entities": {
 					"url": {
