@@ -1,6 +1,312 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 05 16:54:34 +0000 2019",
+		"id": 1136173661294141400,
+		"id_str": "1136315386448814081",
+		"full_text": "This is amazing: the hierarchy of diseases studied in the last 70 years! From https://t.co/aANCZti0Io #research #clinicalresearch #letstalkaboutnets https://t.co/xWUe5Jq56P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "research",
+					"indices": [
+						102,
+						111
+					]
+				},
+				{
+					"text": "clinicalresearch",
+					"indices": [
+						112,
+						129
+					]
+				},
+				{
+					"text": "letstalkaboutnets",
+					"indices": [
+						130,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aANCZti0Io",
+					"expanded_url": "http://csbiology.com",
+					"display_url": "csbiology.com",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1136021593161961500,
+					"id_str": "1136021593161961473",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1136021593161961473/pu/img/8lDrpsFAXBGVMShK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1136021593161961473/pu/img/8lDrpsFAXBGVMShK.jpg",
+					"url": "https://t.co/xWUe5Jq56P",
+					"display_url": "pic.twitter.com/xWUe5Jq56P",
+					"expanded_url": "https://twitter.com/eldoctorbravo/status/1136021809990688768/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1136021809990688800,
+					"source_status_id_str": "1136021809990688768",
+					"source_user_id": 38084629,
+					"source_user_id_str": "38084629"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136021593161961500,
+					"id_str": "1136021593161961473",
+					"indices": [
+						149,
+						172
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1136021593161961473/pu/img/8lDrpsFAXBGVMShK.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1136021593161961473/pu/img/8lDrpsFAXBGVMShK.jpg",
+					"url": "https://t.co/xWUe5Jq56P",
+					"display_url": "pic.twitter.com/xWUe5Jq56P",
+					"expanded_url": "https://twitter.com/eldoctorbravo/status/1136021809990688768/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1136021809990688800,
+					"source_status_id_str": "1136021809990688768",
+					"source_user_id": 38084629,
+					"source_user_id_str": "38084629",
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"duration_millis": 139000,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1136021593161961473/pu/vid/360x270/434io0xAqeZ6q5--.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1136021593161961473/pu/pl/wddZmTvP8ho_-s9P.m3u8?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1136021593161961473/pu/vid/960x720/en2rVv3RRs1v2vzr.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1136021593161961473/pu/vid/480x360/EMg6nG7Vt6Lj6u2k.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 38084629,
+							"id_str": "38084629",
+							"name": "Julián Bravo Ⓥ",
+							"screen_name": "eldoctorbravo",
+							"location": "Canada",
+							"description": "Liberto, pero de los anarcos. Postmarxista y psiquiatra.",
+							"url": "https://t.co/usCJvBZCg3",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/usCJvBZCg3",
+											"expanded_url": "http://instagram.com/ejulianbravo/",
+											"display_url": "instagram.com/ejulianbravo/",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 4366,
+							"friends_count": 1059,
+							"listed_count": 9,
+							"created_at": "Wed May 06 01:57:48 +0000 2009",
+							"favourites_count": 16638,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": false,
+							"statuses_count": 13531,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1103443196082716675/qMo1z2Q3_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1103443196082716675/qMo1z2Q3_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/38084629/1553331447",
+							"profile_link_color": "ABB8C2",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": true,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 249280763,
+			"id_str": "249280763",
+			"name": "Dr Mohid Khan 🏴󠁧󠁢󠁷󠁬󠁳󠁿🇬🇧",
+			"screen_name": "DrMohidKhan",
+			"location": "Cardiff, Wales",
+			"description": "Gastroenterologist; Lead, Wales Neuroendocrine Tumours Service; GI Consequences of Cancer Therapy; Patient Reported Outcomes; Patient Advocacy; views my own",
+			"url": "https://t.co/4zGCBgc76N",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4zGCBgc76N",
+							"expanded_url": "http://www.linkedin.com/in/drmohidkhan",
+							"display_url": "linkedin.com/in/drmohidkhan",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 914,
+			"friends_count": 2128,
+			"listed_count": 11,
+			"created_at": "Tue Feb 08 18:42:46 +0000 2011",
+			"favourites_count": 2615,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 993,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/778701704795607042/pK4RHwNd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/778701704795607042/pK4RHwNd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/249280763/1468713808",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 265,
+		"favorite_count": 413,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is amazing: the hierarchy of diseases studied in the last 70 years! From https://t.co/aANCZti0Io #research #clinicalresearch #letstalkaboutnets https://t.co/xWUe5Jq56P"
+	},
+	{
 		"created_at": "Tue Jun 04 21:06:41 +0000 2019",
 		"id": 1136016446453100500,
 		"id_str": "1136016446453100545",
