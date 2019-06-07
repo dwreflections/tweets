@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 06 20:50:12 +0000 2019",
+		"id": 1136545241417310200,
+		"id_str": "1136737073958928384",
+		"full_text": "In 1996, I was a junior house officer (that’s an FY1 for the youngsters), in Dryburn Hospital in Durham.  I was 22, and full of all the excitement and doubts that come with youth and a new medical degree.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1320255517,
+			"id_str": "1320255517",
+			"name": "Dr Hugh Bishop",
+			"screen_name": "DrHughBishop",
+			"location": "",
+			"description": "Paediatric Oncologist. Clinical Director, Children, NHS Grampian. Views mine. No individual patient advice.  Made in Yorkhill.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 635,
+			"friends_count": 357,
+			"listed_count": 10,
+			"created_at": "Mon Apr 01 12:31:05 +0000 2013",
+			"favourites_count": 581,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1889,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1015328651661885440/sCswNeZG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1015328651661885440/sCswNeZG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1320255517/1364830517",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 244,
+		"favorite_count": 589,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "In 1996, I was a junior house officer (that’s an FY1 for the youngsters), in Dryburn Hospital in Durham.  I was 22, and full of all the excitement and doubts that come with youth and a new medical degree."
+	},
+	{
+		"created_at": "Thu Jun 06 18:55:33 +0000 2019",
+		"id": 1136708221819904000,
+		"id_str": "1136708221819904001",
+		"full_text": "@ClaireSweetman @UoNPhysio @supportthewalk @paulawoods5 It’s been a really good week! \nYep - Really excited to be starting rotations at @UHDBTrust this summer.",
+		"truncated": false,
+		"display_text_range": [
+			56,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ClaireSweetman",
+					"name": "Claire Horner",
+					"id": 519683915,
+					"id_str": "519683915",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "supportthewalk",
+					"name": "WWTW",
+					"id": 173807599,
+					"id_str": "173807599",
+					"indices": [
+						27,
+						42
+					]
+				},
+				{
+					"screen_name": "paulawoods5",
+					"name": "Paula Deacon",
+					"id": 485209939,
+					"id_str": "485209939",
+					"indices": [
+						43,
+						55
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						136,
+						146
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1136677271534735400,
+		"in_reply_to_status_id_str": "1136677271534735361",
+		"in_reply_to_user_id": 519683915,
+		"in_reply_to_user_id_str": "519683915",
+		"in_reply_to_screen_name": "ClaireSweetman",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1544,
+			"friends_count": 2912,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4854,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ClaireSweetman @UoNPhysio @supportthewalk @paulawoods5 It’s been a really good week! \nYep - Really excited to be starting rotations at @UHDBTrust this summer."
+	},
+	{
 		"created_at": "Wed Jun 05 16:54:34 +0000 2019",
 		"id": 1136173661294141400,
 		"id_str": "1136315386448814081",
