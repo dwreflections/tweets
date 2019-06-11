@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 10 20:24:26 +0000 2019",
+		"id": 1136626808890241000,
+		"id_str": "1138180138712088576",
+		"full_text": "Special tests for assessing meniscal tears within the knee: a systematic review and meta-analysis\n\nFree access. \n\nhttps://t.co/mywRBSKrck https://t.co/PIw6FcDt6E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mywRBSKrck",
+					"expanded_url": "https://ebm.bmj.com/content/20/3/88",
+					"display_url": "ebm.bmj.com/content/20/3/88",
+					"indices": [
+						114,
+						137
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1136626803395747800,
+					"id_str": "1136626803395747840",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/D8YcDjqXYAAWzn2.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8YcDjqXYAAWzn2.png",
+					"url": "https://t.co/PIw6FcDt6E",
+					"display_url": "pic.twitter.com/PIw6FcDt6E",
+					"expanded_url": "https://twitter.com/benedsmith/status/1136626808890241024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 665,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 665,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1136626803395747800,
+					"id_str": "1136626803395747840",
+					"indices": [
+						138,
+						161
+					],
+					"media_url": "http://pbs.twimg.com/media/D8YcDjqXYAAWzn2.png",
+					"media_url_https": "https://pbs.twimg.com/media/D8YcDjqXYAAWzn2.png",
+					"url": "https://t.co/PIw6FcDt6E",
+					"display_url": "pic.twitter.com/PIw6FcDt6E",
+					"expanded_url": "https://twitter.com/benedsmith/status/1136626808890241024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 720,
+							"h": 665,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 665,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22659623,
+			"id_str": "22659623",
+			"name": "Ben Smith",
+			"screen_name": "benedsmith",
+			"location": "Derby & Nottingham, UK",
+			"description": "PhD; NIHR Clinical Trials Fellow & MSK Physiotherapist @UHDBTrust @UniofNottingham",
+			"url": "https://t.co/wE0JgxXo3w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wE0JgxXo3w",
+							"expanded_url": "https://scholar.google.co.uk/citations?user=b6KgeNEAAAAJ&hl",
+							"display_url": "scholar.google.co.uk/citations?user…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2342,
+			"friends_count": 299,
+			"listed_count": 23,
+			"created_at": "Tue Mar 03 18:56:20 +0000 2009",
+			"favourites_count": 3353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1019323742491725824/TpNsOdN7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1019323742491725824/TpNsOdN7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22659623/1418382630",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 56,
+		"favorite_count": 151,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Special tests for assessing meniscal tears within the knee: a systematic review and meta-analysis\n\nFree access. \n\nhttps://t.co/mywRBSKrck https://t.co/PIw6FcDt6E"
+	},
+	{
 		"created_at": "Thu Jun 06 20:50:12 +0000 2019",
 		"id": 1136545241417310200,
 		"id_str": "1136737073958928384",
