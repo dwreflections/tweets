@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 13 19:11:40 +0000 2019",
+		"id": 1139248992561303600,
+		"id_str": "1139248992561303557",
+		"full_text": "@exerciseworks @Physio_massen @glikeria_sk @MartynWyres @FutureMDT @LMcBPhysio @SteelePippa @gerardgreenephy @JaneToms1 @GatesPhysio @DMGPhysio @BrendonStubbs It’s a little bit werid but I will be a physio then...  🤣👍\n\nHappy to help? Social media, maybe?",
+		"truncated": false,
+		"display_text_range": [
+			159,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "exerciseworks",
+					"name": "Exercise Works!",
+					"id": 256921454,
+					"id_str": "256921454",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Physio_massen",
+					"name": "Vicky Massen",
+					"id": 965591662545293300,
+					"id_str": "965591662545293313",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "glikeria_sk",
+					"name": "Glykeria Skamagki",
+					"id": 203911899,
+					"id_str": "203911899",
+					"indices": [
+						30,
+						42
+					]
+				},
+				{
+					"screen_name": "MartynWyres",
+					"name": "Martyn Wyres",
+					"id": 820384807586828300,
+					"id_str": "820384807586828292",
+					"indices": [
+						43,
+						55
+					]
+				},
+				{
+					"screen_name": "FutureMDT",
+					"name": "The Healthcare Student Placement",
+					"id": 1124399534245916700,
+					"id_str": "1124399534245916675",
+					"indices": [
+						56,
+						66
+					]
+				},
+				{
+					"screen_name": "LMcBPhysio",
+					"name": "Lesley McBride",
+					"id": 2238158953,
+					"id_str": "2238158953",
+					"indices": [
+						67,
+						78
+					]
+				},
+				{
+					"screen_name": "SteelePippa",
+					"name": "Pippa Steele",
+					"id": 4482748223,
+					"id_str": "4482748223",
+					"indices": [
+						79,
+						91
+					]
+				},
+				{
+					"screen_name": "gerardgreenephy",
+					"name": "Gerard Greene Physio",
+					"id": 966934172,
+					"id_str": "966934172",
+					"indices": [
+						92,
+						108
+					]
+				},
+				{
+					"screen_name": "JaneToms1",
+					"name": "Jane Toms",
+					"id": 1648046456,
+					"id_str": "1648046456",
+					"indices": [
+						109,
+						119
+					]
+				},
+				{
+					"screen_name": "GatesPhysio",
+					"name": "John Gates",
+					"id": 451401278,
+					"id_str": "451401278",
+					"indices": [
+						120,
+						132
+					]
+				},
+				{
+					"screen_name": "DMGPhysio",
+					"name": "Darragh Mc Gee",
+					"id": 1523450449,
+					"id_str": "1523450449",
+					"indices": [
+						133,
+						143
+					]
+				},
+				{
+					"screen_name": "BrendonStubbs",
+					"name": "Brendon Stubbs",
+					"id": 793177195,
+					"id_str": "793177195",
+					"indices": [
+						144,
+						158
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1139095386575069200,
+		"in_reply_to_status_id_str": "1139095386575069184",
+		"in_reply_to_user_id": 256921454,
+		"in_reply_to_user_id_str": "256921454",
+		"in_reply_to_screen_name": "exerciseworks",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1546,
+			"friends_count": 2925,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4858,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@exerciseworks @Physio_massen @glikeria_sk @MartynWyres @FutureMDT @LMcBPhysio @SteelePippa @gerardgreenephy @JaneToms1 @GatesPhysio @DMGPhysio @BrendonStubbs It’s a little bit werid but I will be a physio then...  🤣👍\n\nHappy to help? Social media, maybe?"
+	},
+	{
 		"created_at": "Wed Jun 12 17:07:30 +0000 2019",
 		"id": 1138855355881054200,
 		"id_str": "1138855355881054213",
