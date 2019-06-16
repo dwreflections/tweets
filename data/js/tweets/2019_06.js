@@ -1,6 +1,192 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sat Jun 15 10:08:59 +0000 2019",
+		"id": 1139837194997129200,
+		"id_str": "1139837194997129217",
+		"full_text": "@MattLowPT Thank you 😊👍👍",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MattLowPT",
+					"name": "Matthew Low",
+					"id": 1105433442,
+					"id_str": "1105433442",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1139835034922299400,
+		"in_reply_to_status_id_str": "1139835034922299394",
+		"in_reply_to_user_id": 1105433442,
+		"in_reply_to_user_id_str": "1105433442",
+		"in_reply_to_screen_name": "MattLowPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1545,
+			"friends_count": 2933,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MattLowPT Thank you 😊👍👍"
+	},
+	{
+		"created_at": "Sat Jun 15 10:00:26 +0000 2019",
+		"id": 1139835045596880900,
+		"id_str": "1139835045596880896",
+		"full_text": "@MattLowPT To add some wider reading to the narrow focus/reading to get through the UG degree? \n\nMaybe something for early career HCPs/physios...",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MattLowPT",
+					"name": "Matthew Low",
+					"id": 1105433442,
+					"id_str": "1105433442",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1139811085094178800,
+		"in_reply_to_status_id_str": "1139811085094178816",
+		"in_reply_to_user_id": 1105433442,
+		"in_reply_to_user_id_str": "1105433442",
+		"in_reply_to_screen_name": "MattLowPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1545,
+			"friends_count": 2933,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12287,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MattLowPT To add some wider reading to the narrow focus/reading to get through the UG degree? \n\nMaybe something for early career HCPs/physios..."
+	},
+	{
 		"created_at": "Fri Jun 14 21:08:51 +0000 2019",
 		"id": 1139634331377385500,
 		"id_str": "1139640869739540480",
