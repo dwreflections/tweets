@@ -1,6 +1,352 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Sun Jun 16 14:56:36 +0000 2019",
+		"id": 723913896692686800,
+		"id_str": "1140271966122840065",
+		"full_text": "New \"publication\": My CV of Failures! https://t.co/d8ot5vvynY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d8ot5vvynY",
+					"expanded_url": "http://princeton.edu/haushofer",
+					"display_url": "princeton.edu/haushofer",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 710350225,
+			"id_str": "710350225",
+			"name": "Johannes Haushofer",
+			"screen_name": "jhaushofer",
+			"location": "Princeton, NJ",
+			"description": "I randomize things",
+			"url": "https://t.co/xHLPx3CWqD",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/xHLPx3CWqD",
+							"expanded_url": "http://princeton.edu/haushofer",
+							"display_url": "princeton.edu/haushofer",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5779,
+			"friends_count": 1148,
+			"listed_count": 102,
+			"created_at": "Sun Jul 22 08:24:24 +0000 2012",
+			"favourites_count": 6619,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1070163731030650881/cIqgS2-9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070163731030650881/cIqgS2-9_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 884,
+		"favorite_count": 960,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New \"publication\": My CV of Failures! https://t.co/d8ot5vvynY"
+	},
+	{
+		"created_at": "Sun Jun 16 12:00:40 +0000 2019",
+		"id": 1140227690118766600,
+		"id_str": "1140227690118766592",
+		"full_text": "We have done something that Donald Trump hasn’t achieved. We built a wall!!! ✊ #Rugeley https://t.co/US2ZxLVFRQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Rugeley",
+					"indices": [
+						79,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1140227679444197400,
+					"id_str": "1140227679444197376",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/D9LnCIRW4AAxNFG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9LnCIRW4AAxNFG.jpg",
+					"url": "https://t.co/US2ZxLVFRQ",
+					"display_url": "pic.twitter.com/US2ZxLVFRQ",
+					"expanded_url": "https://twitter.com/beardedPT/status/1140227690118766592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140227679444197400,
+					"id_str": "1140227679444197376",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/D9LnCIRW4AAxNFG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9LnCIRW4AAxNFG.jpg",
+					"url": "https://t.co/US2ZxLVFRQ",
+					"display_url": "pic.twitter.com/US2ZxLVFRQ",
+					"expanded_url": "https://twitter.com/beardedPT/status/1140227690118766592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1140227679440031700,
+					"id_str": "1140227679440031744",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/D9LnCIQXUAAFOpI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9LnCIQXUAAFOpI.jpg",
+					"url": "https://t.co/US2ZxLVFRQ",
+					"display_url": "pic.twitter.com/US2ZxLVFRQ",
+					"expanded_url": "https://twitter.com/beardedPT/status/1140227690118766592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 564,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 995,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1698,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1140227679456759800,
+					"id_str": "1140227679456759808",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/D9LnCIUWkAACBUt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9LnCIUWkAACBUt.jpg",
+					"url": "https://t.co/US2ZxLVFRQ",
+					"display_url": "pic.twitter.com/US2ZxLVFRQ",
+					"expanded_url": "https://twitter.com/beardedPT/status/1140227690118766592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1140226938574966800,
+		"in_reply_to_status_id_str": "1140226938574966785",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1546,
+			"friends_count": 2934,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12305,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4876,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We have done something that Donald Trump hasn’t achieved. We built a wall!!! ✊ #Rugeley https://t.co/US2ZxLVFRQ"
+	},
+	{
 		"created_at": "Sat Jun 15 10:08:59 +0000 2019",
 		"id": 1139837194997129200,
 		"id_str": "1139837194997129217",
