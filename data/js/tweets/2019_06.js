@@ -1,6 +1,856 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 17 21:31:16 +0000 2019",
+		"id": 1140733676084441100,
+		"id_str": "1140733676084441088",
+		"full_text": "@RobTheOT @nhumilton @councilofdeans Indeed - but very few like you 🙈👍😊",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RobTheOT",
+					"name": "Rob Molloy",
+					"id": 45223444,
+					"id_str": "45223444",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "nhumilton",
+					"name": "Nhu Milton 🇻🇳 🇺🇸",
+					"id": 1021293705200918500,
+					"id_str": "1021293705200918528",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "councilofdeans",
+					"name": "Council of Deans",
+					"id": 278442312,
+					"id_str": "278442312",
+					"indices": [
+						21,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1140733524229722100,
+		"in_reply_to_status_id_str": "1140733524229722114",
+		"in_reply_to_user_id": 45223444,
+		"in_reply_to_user_id_str": "45223444",
+		"in_reply_to_screen_name": "RobTheOT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1545,
+			"friends_count": 2938,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RobTheOT @nhumilton @councilofdeans Indeed - but very few like you 🙈👍😊"
+	},
+	{
+		"created_at": "Mon Jun 17 21:14:27 +0000 2019",
+		"id": 1140729443041849300,
+		"id_str": "1140729443041849346",
+		"full_text": "@AdamMeakins @UoNPhysio Ha! I think I have some competition ... 👍👀🧔🏻",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdamMeakins",
+					"name": "The Sp⚽️rts Physio",
+					"id": 20363222,
+					"id_str": "20363222",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						13,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1140728304170938400,
+		"in_reply_to_status_id_str": "1140728304170938371",
+		"in_reply_to_user_id": 20363222,
+		"in_reply_to_user_id_str": "20363222",
+		"in_reply_to_screen_name": "AdamMeakins",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1545,
+			"friends_count": 2938,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AdamMeakins @UoNPhysio Ha! I think I have some competition ... 👍👀🧔🏻"
+	},
+	{
+		"created_at": "Mon Jun 17 20:55:47 +0000 2019",
+		"id": 1140724743928258600,
+		"id_str": "1140724743928258560",
+		"full_text": "I’m looking forward to this 👇 #SimpleSolutions\n\nGreat bookend to finish my studies at @UoNPhysio &amp; my elective placement at #IPOPS 🙌🤓 https://t.co/LuUH8H22Ho",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SimpleSolutions",
+					"indices": [
+						30,
+						46
+					]
+				},
+				{
+					"text": "IPOPS",
+					"indices": [
+						128,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						86,
+						96
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LuUH8H22Ho",
+					"expanded_url": "https://twitter.com/AdamMeakins/status/1132416402760118272",
+					"display_url": "twitter.com/AdamMeakins/st…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1545,
+			"friends_count": 2938,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12326,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4881,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52041af7b8001313",
+			"url": "https://api.twitter.com/1.1/geo/id/52041af7b8001313.json",
+			"place_type": "city",
+			"name": "Rugeley",
+			"full_name": "Rugeley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.971255,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.773708
+						],
+						[
+							-1.971255,
+							52.773708
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1132416402760118300,
+		"quoted_status_id_str": "1132416402760118272",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LuUH8H22Ho",
+			"expanded": "https://twitter.com/AdamMeakins/status/1132416402760118272",
+			"display": "twitter.com/AdamMeakins/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat May 25 22:41:24 +0000 2019",
+			"id": 1132416402760118300,
+			"id_str": "1132416402760118272",
+			"full_text": "It’s the last few weeks to book your place on #SimpleSolutions with @erikMeira and myself at Nottingham University on 22/23rd June! Don’t miss out... book here https://t.co/agKc8uHKhs https://t.co/q4srJmrb0o",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				183
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SimpleSolutions",
+						"indices": [
+							46,
+							62
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "erikMeira",
+						"name": "Erik Meira",
+						"id": 286220143,
+						"id_str": "286220143",
+						"indices": [
+							68,
+							78
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/agKc8uHKhs",
+						"expanded_url": "https://www.eventbrite.co.uk/e/complex-understanding-for-simple-solutions-nottingham-tickets-53746919483",
+						"display_url": "eventbrite.co.uk/e/complex-unde…",
+						"indices": [
+							160,
+							183
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1132416289757122600,
+						"id_str": "1132416289757122561",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1132416289757122561/pu/img/tfhhPZ_A82E2lrTX.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1132416289757122561/pu/img/tfhhPZ_A82E2lrTX.jpg",
+						"url": "https://t.co/q4srJmrb0o",
+						"display_url": "pic.twitter.com/q4srJmrb0o",
+						"expanded_url": "https://twitter.com/AdamMeakins/status/1132416402760118272/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1132416289757122600,
+						"id_str": "1132416289757122561",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1132416289757122561/pu/img/tfhhPZ_A82E2lrTX.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1132416289757122561/pu/img/tfhhPZ_A82E2lrTX.jpg",
+						"url": "https://t.co/q4srJmrb0o",
+						"display_url": "pic.twitter.com/q4srJmrb0o",
+						"expanded_url": "https://twitter.com/AdamMeakins/status/1132416402760118272/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 406,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								360,
+								203
+							],
+							"duration_millis": 59300,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1132416289757122561/pu/vid/720x406/n4-8JGIz-om0wrIQ.mp4?tag=9"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1132416289757122561/pu/vid/318x180/9lV9ROWUm1Pngau-.mp4?tag=9"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1132416289757122561/pu/pl/M_nppFiBMK-0e-bW.m3u8?tag=9"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20363222,
+				"id_str": "20363222",
+				"name": "The Sp⚽️rts Physio",
+				"screen_name": "AdamMeakins",
+				"location": "UK",
+				"description": "Physio and S&C specialist. Passionate about simple honest practical advice, not fads or gimmicks. Views my own, often strong and will eventually upset you!",
+				"url": "https://t.co/ppzFIrqWPj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ppzFIrqWPj",
+								"expanded_url": "http://thesports.physio",
+								"display_url": "thesports.physio",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 57426,
+				"friends_count": 1128,
+				"listed_count": 520,
+				"created_at": "Sun Feb 08 12:15:51 +0000 2009",
+				"favourites_count": 33113,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 52646,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1080048512484757504/QzrhWeWY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080048512484757504/QzrhWeWY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20363222/1552517205",
+				"profile_link_color": "000001",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m looking forward to this 👇 #SimpleSolutions\n\nGreat bookend to finish my studies at @UoNPhysio &amp; my elective placement at #IPOPS 🙌🤓 https://t.co/LuUH8H22Ho"
+	},
+	{
+		"created_at": "Mon Jun 17 16:31:06 +0000 2019",
+		"id": 1140656440874557400,
+		"id_str": "1140658135394332673",
+		"full_text": "The power of social media...lets get networking! #RCOT2019 #wmahp19 https://t.co/V2jHiVQZZu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RCOT2019",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"text": "wmahp19",
+					"indices": [
+						59,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1140656356241883100,
+					"id_str": "1140656356241883136",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/D9Rs6ZyWwAAdWQr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9Rs6ZyWwAAdWQr.jpg",
+					"url": "https://t.co/V2jHiVQZZu",
+					"display_url": "pic.twitter.com/V2jHiVQZZu",
+					"expanded_url": "https://twitter.com/AHPsWestMids/status/1140656440874557442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1140656356241883100,
+					"id_str": "1140656356241883136",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/D9Rs6ZyWwAAdWQr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9Rs6ZyWwAAdWQr.jpg",
+					"url": "https://t.co/V2jHiVQZZu",
+					"display_url": "pic.twitter.com/V2jHiVQZZu",
+					"expanded_url": "https://twitter.com/AHPsWestMids/status/1140656440874557442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1140656356225167400,
+					"id_str": "1140656356225167360",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/D9Rs6ZuXsAAmSKG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9Rs6ZuXsAAmSKG.jpg",
+					"url": "https://t.co/V2jHiVQZZu",
+					"display_url": "pic.twitter.com/V2jHiVQZZu",
+					"expanded_url": "https://twitter.com/AHPsWestMids/status/1140656440874557442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1140656356258701300,
+					"id_str": "1140656356258701313",
+					"indices": [
+						68,
+						91
+					],
+					"media_url": "http://pbs.twimg.com/media/D9Rs6Z2XYAED3Pf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D9Rs6Z2XYAED3Pf.jpg",
+					"url": "https://t.co/V2jHiVQZZu",
+					"display_url": "pic.twitter.com/V2jHiVQZZu",
+					"expanded_url": "https://twitter.com/AHPsWestMids/status/1140656440874557442/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1122806687025463300,
+			"id_str": "1122806687025463297",
+			"name": "ahpswestmids",
+			"screen_name": "AHPsWestMids",
+			"location": "West Midlands, England",
+			"description": "West Midlands Allied Health Professions’ network - supporting AHPs to lead, respond to & influence health care improvement and transformation across our region",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 441,
+			"friends_count": 322,
+			"listed_count": 2,
+			"created_at": "Mon Apr 29 10:15:49 +0000 2019",
+			"favourites_count": 353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1122817730275573763/2DtZ4DHC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1122817730275573763/2DtZ4DHC_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The power of social media...lets get networking! #RCOT2019 #wmahp19 https://t.co/V2jHiVQZZu"
+	},
+	{
 		"created_at": "Sun Jun 16 14:56:36 +0000 2019",
 		"id": 723913896692686800,
 		"id_str": "1140271966122840065",
