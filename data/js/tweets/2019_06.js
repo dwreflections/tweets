@@ -1,6 +1,620 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Wed Jun 19 20:30:07 +0000 2019",
+		"id": 1141398032430305300,
+		"id_str": "1141443060674498560",
+		"full_text": "This is fantastic. I love little things like this. Can we start a \"THREAD\" (see what I did) here of mnemonics used to help you remember certain things. \n\nEven better if they are your own and have helped you structure an assessment. Obvs theres SCREENDEM @pdkirwan #MediMnemonics https://t.co/z7UfR7HbJy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MediMnemonics",
+					"indices": [
+						264,
+						278
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pdkirwan",
+					"name": "Paul Kirwan",
+					"id": 338612628,
+					"id_str": "338612628",
+					"indices": [
+						254,
+						263
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/z7UfR7HbJy",
+					"expanded_url": "https://twitter.com/elliottwsharp/status/1141372618697781248",
+					"display_url": "twitter.com/elliottwsharp/…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1427250300,
+			"id_str": "1427250300",
+			"name": "Rob Tyer",
+			"screen_name": "CombatSportPhys",
+			"location": "Newcastle upon Tyne",
+			"description": "MSK Physiotherapist. Love Martial Arts. BSc (Hons) Sports Science, MSc Physio. MSc Advanced Clinical Practice MMACP. Views are my own. Fav/RT ≠ endorsements.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4348,
+			"friends_count": 2190,
+			"listed_count": 42,
+			"created_at": "Tue May 14 07:49:16 +0000 2013",
+			"favourites_count": 12612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3669159366/d13ae3b77038e356465b359236d6de4f_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3669159366/d13ae3b77038e356465b359236d6de4f_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1427250300/1368743596",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1141372618697781200,
+		"quoted_status_id_str": "1141372618697781248",
+		"quoted_status_permalink": {
+			"url": "https://t.co/z7UfR7HbJy",
+			"expanded": "https://twitter.com/elliottwsharp/status/1141372618697781248",
+			"display": "twitter.com/elliottwsharp/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 19 15:50:12 +0000 2019",
+			"id": 1141372618697781200,
+			"id_str": "1141372618697781248",
+			"full_text": "How do you make your poster stand out? \n\nThis is hands down one of the best posters out there. Entertaining, useful and above all memorable. Well done @drsarahedwards\n\n@AntonyTiernan @_tomabbott @hee_lisaBP @simonenright @MedCrisis @RCollEM #MedEd https://t.co/Y89hmvcXnA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MedEd",
+						"indices": [
+							241,
+							247
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "drsarahedwards",
+						"name": "Sarah E",
+						"id": 85640071,
+						"id_str": "85640071",
+						"indices": [
+							151,
+							166
+						]
+					},
+					{
+						"screen_name": "AntonyTiernan",
+						"name": "Antony Tiernan",
+						"id": 1341964250,
+						"id_str": "1341964250",
+						"indices": [
+							168,
+							182
+						]
+					},
+					{
+						"screen_name": "_tomabbott",
+						"name": "Tom Abbott",
+						"id": 1931265000,
+						"id_str": "1931265000",
+						"indices": [
+							183,
+							194
+						]
+					},
+					{
+						"screen_name": "hee_lisaBP",
+						"name": "Lisa Bayliss-Pratt",
+						"id": 861044791,
+						"id_str": "861044791",
+						"indices": [
+							195,
+							206
+						]
+					},
+					{
+						"screen_name": "simonenright",
+						"name": "#hellomynameisSimon",
+						"id": 13966402,
+						"id_str": "13966402",
+						"indices": [
+							207,
+							220
+						]
+					},
+					{
+						"screen_name": "MedCrisis",
+						"name": "Medlife Crisis (Rohin)",
+						"id": 2379518905,
+						"id_str": "2379518905",
+						"indices": [
+							221,
+							231
+						]
+					},
+					{
+						"screen_name": "RCollEM",
+						"name": "RCEM",
+						"id": 3017428265,
+						"id_str": "3017428265",
+						"indices": [
+							232,
+							240
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1141372612360187900,
+						"id_str": "1141372612360187905",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/media/D9b4V_wWsAEUX8z.png",
+						"media_url_https": "https://pbs.twimg.com/media/D9b4V_wWsAEUX8z.png",
+						"url": "https://t.co/Y89hmvcXnA",
+						"display_url": "pic.twitter.com/Y89hmvcXnA",
+						"expanded_url": "https://twitter.com/elliottwsharp/status/1141372618697781248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 906,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 906,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1141372612360187900,
+						"id_str": "1141372612360187905",
+						"indices": [
+							248,
+							271
+						],
+						"media_url": "http://pbs.twimg.com/media/D9b4V_wWsAEUX8z.png",
+						"media_url_https": "https://pbs.twimg.com/media/D9b4V_wWsAEUX8z.png",
+						"url": "https://t.co/Y89hmvcXnA",
+						"display_url": "pic.twitter.com/Y89hmvcXnA",
+						"expanded_url": "https://twitter.com/elliottwsharp/status/1141372618697781248/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 906,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 480,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 640,
+								"h": 906,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 928282322,
+				"id_str": "928282322",
+				"name": "Elliott Sharp",
+				"screen_name": "elliottwsharp",
+				"location": "Brighton, England",
+				"description": "Often branded as 'the medical student' | MSc Healthcare Leadership & Commissioning | Surgery",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 106,
+				"friends_count": 242,
+				"listed_count": 1,
+				"created_at": "Mon Nov 05 19:45:04 +0000 2012",
+				"favourites_count": 69,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 60,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1113458535742963712/Ijv1if5S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1113458535742963712/Ijv1if5S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/928282322/1560670170",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 55,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is fantastic. I love little things like this. Can we start a \"THREAD\" (see what I did) here of mnemonics used to help you remember certain things. \n\nEven better if they are your own and have helped you structure an assessment. Obvs theres SCREENDEM @pdkirwan #MediMnemonics https://t.co/z7UfR7HbJy"
+	},
+	{
+		"created_at": "Wed Jun 19 20:06:55 +0000 2019",
+		"id": 1141437223524548600,
+		"id_str": "1141437223524548610",
+		"full_text": "@PhysioArmstrong Anyone from @UoNPhysio attending?",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhysioArmstrong",
+					"name": "James Armstrong",
+					"id": 872165022704840700,
+					"id_str": "872165022704840705",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						29,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1141233688937713700,
+		"in_reply_to_status_id_str": "1141233688937713664",
+		"in_reply_to_user_id": 872165022704840700,
+		"in_reply_to_user_id_str": "872165022704840705",
+		"in_reply_to_screen_name": "PhysioArmstrong",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1549,
+			"friends_count": 2942,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PhysioArmstrong Anyone from @UoNPhysio attending?"
+	},
+	{
+		"created_at": "Wed Jun 19 09:59:41 +0000 2019",
+		"id": 1141284406201585700,
+		"id_str": "1141284406201585664",
+		"full_text": "@gds115gds @uworcphysio @thecspstudents @PhysioCj @worcester_uni @PhysioUow Great work @PhysioCj !",
+		"truncated": false,
+		"display_text_range": [
+			76,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gds115gds",
+					"name": "Gordon Smith",
+					"id": 3380452881,
+					"id_str": "3380452881",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "uworcphysio",
+					"name": "UoWPhysio",
+					"id": 2176252229,
+					"id_str": "2176252229",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "thecspstudents",
+					"name": "CSP Students & Learners",
+					"id": 444648690,
+					"id_str": "444648690",
+					"indices": [
+						24,
+						39
+					]
+				},
+				{
+					"screen_name": "PhysioCj",
+					"name": "Chris Jordan",
+					"id": 828062484359639000,
+					"id_str": "828062484359639041",
+					"indices": [
+						40,
+						49
+					]
+				},
+				{
+					"screen_name": "worcester_uni",
+					"name": "University of Worcester",
+					"id": 104789522,
+					"id_str": "104789522",
+					"indices": [
+						50,
+						64
+					]
+				},
+				{
+					"screen_name": "PhysioUow",
+					"name": "UOW Physio Society",
+					"id": 1042320225687920600,
+					"id_str": "1042320225687920640",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"screen_name": "PhysioCj",
+					"name": "Chris Jordan",
+					"id": 828062484359639000,
+					"id_str": "828062484359639041",
+					"indices": [
+						87,
+						96
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1141256467468734500,
+		"in_reply_to_status_id_str": "1141256467468734464",
+		"in_reply_to_user_id": 3380452881,
+		"in_reply_to_user_id_str": "3380452881",
+		"in_reply_to_screen_name": "gds115gds",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1549,
+			"friends_count": 2942,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12348,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4886,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gds115gds @uworcphysio @thecspstudents @PhysioCj @worcester_uni @PhysioUow Great work @PhysioCj !"
+	},
+	{
 		"created_at": "Tue Jun 18 20:36:04 +0000 2019",
 		"id": 1141057665323479000,
 		"id_str": "1141082169256886274",
