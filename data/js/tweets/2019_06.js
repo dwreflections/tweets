@@ -1,6 +1,193 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Thu Jun 20 20:49:07 +0000 2019",
+		"id": 1141810232055742500,
+		"id_str": "1141810232055742475",
+		"full_text": "@diarmuiddenneny Excellent candidates! Great to read the applications and to vote 🗳",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "diarmuiddenneny",
+					"name": "Diarmuid denneny",
+					"id": 981448568,
+					"id_str": "981448568",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1141794023113449500,
+		"in_reply_to_status_id_str": "1141794023113449472",
+		"in_reply_to_user_id": 981448568,
+		"in_reply_to_user_id_str": "981448568",
+		"in_reply_to_screen_name": "diarmuiddenneny",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1549,
+			"friends_count": 2942,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4888,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@diarmuiddenneny Excellent candidates! Great to read the applications and to vote 🗳"
+	},
+	{
+		"created_at": "Thu Jun 20 19:31:25 +0000 2019",
+		"id": 1141789857846636500,
+		"id_str": "1141790676075589633",
+		"full_text": "We have 6 great candidates standing for student/early career physiotherapist rep. Voting closes tomorrow 😬😬 Members, please check your emails for details of how to vote!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1054528794,
+			"id_str": "1054528794",
+			"name": "PPA",
+			"screen_name": "PhysioPainAssoc",
+			"location": "",
+			"description": "PPA  was formed in September 1994 in the UK at 3rd National PMP Conference.  We aim to facilitate exchange of ideas and promote Physio in mangement of pain",
+			"url": "http://t.co/84uL7Q7e",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/84uL7Q7e",
+							"expanded_url": "http://ppa.csp.org.uk",
+							"display_url": "ppa.csp.org.uk",
+							"indices": [
+								0,
+								20
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1582,
+			"friends_count": 307,
+			"listed_count": 20,
+			"created_at": "Wed Jan 02 08:25:57 +0000 2013",
+			"favourites_count": 733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1272,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3054077276/cace2679faab6bde1989751d2299daf2_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3054077276/cace2679faab6bde1989751d2299daf2_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We have 6 great candidates standing for student/early career physiotherapist rep. Voting closes tomorrow 😬😬 Members, please check your emails for details of how to vote!"
+	},
+	{
 		"created_at": "Wed Jun 19 20:30:07 +0000 2019",
 		"id": 1141398032430305300,
 		"id_str": "1141443060674498560",
