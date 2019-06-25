@@ -1,6 +1,596 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Mon Jun 24 17:26:31 +0000 2019",
+		"id": 1143208797491609600,
+		"id_str": "1143208797491609600",
+		"full_text": "@Nurse_Lecturer @PUNC18Becky This 👆",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nurse_Lecturer",
+					"name": "TheNurseLecturer",
+					"id": 4351296016,
+					"id_str": "4351296016",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "PUNC18Becky",
+					"name": "Becky Fairweather 🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+					"id": 1044153230459109400,
+					"id_str": "1044153230459109379",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1143207823855296500,
+		"in_reply_to_status_id_str": "1143207823855296513",
+		"in_reply_to_user_id": 4351296016,
+		"in_reply_to_user_id_str": "4351296016",
+		"in_reply_to_screen_name": "Nurse_Lecturer",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1553,
+			"friends_count": 2955,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Nurse_Lecturer @PUNC18Becky This 👆"
+	},
+	{
+		"created_at": "Mon Jun 24 16:27:08 +0000 2019",
+		"id": 1143193852725080000,
+		"id_str": "1143193852725080076",
+		"full_text": "@CrouchPhysio Well done Lewis 😊👍",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CrouchPhysio",
+					"name": "Lewis Crouch",
+					"id": 1132599615998578700,
+					"id_str": "1132599615998578688",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1143187770975895600,
+		"in_reply_to_status_id_str": "1143187770975895557",
+		"in_reply_to_user_id": 1132599615998578700,
+		"in_reply_to_user_id_str": "1132599615998578688",
+		"in_reply_to_screen_name": "CrouchPhysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1553,
+			"friends_count": 2955,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CrouchPhysio Well done Lewis 😊👍"
+	},
+	{
+		"created_at": "Mon Jun 24 14:56:03 +0000 2019",
+		"id": 1143170929008267300,
+		"id_str": "1143170929008267265",
+		"full_text": "Thank you Grahame for your teaching and wisdom!! Moreover, your leadership - the culture at @UoNPhysio fosters #success 🎓😊👍 https://t.co/Vlsi6QU4XW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "success",
+					"indices": [
+						111,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						92,
+						102
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Vlsi6QU4XW",
+					"expanded_url": "https://twitter.com/grahamepope/status/1143057790975598592",
+					"display_url": "twitter.com/grahamepope/st…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1553,
+			"friends_count": 2955,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7d7bdec12d2549d4",
+			"url": "https://api.twitter.com/1.1/geo/id/7d7bdec12d2549d4.json",
+			"place_type": "city",
+			"name": "Nottingham",
+			"full_name": "Nottingham, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.2501363,
+							52.921473
+						],
+						[
+							-1.094396,
+							52.921473
+						],
+						[
+							-1.094396,
+							53.017965
+						],
+						[
+							-1.2501363,
+							53.017965
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1143057790975598600,
+		"quoted_status_id_str": "1143057790975598592",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Vlsi6QU4XW",
+			"expanded": "https://twitter.com/grahamepope/status/1143057790975598592",
+			"display": "twitter.com/grahamepope/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 24 07:26:29 +0000 2019",
+			"id": 1143057790975598600,
+			"id_str": "1143057790975598592",
+			"full_text": "Congratulations  to the @UoNPhysio &amp; @UoNSportRehab   students receiving their results today. A fantastic group, and fantastic set of results\nWell done all! #success",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "success",
+						"indices": [
+							161,
+							169
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UoNPhysio",
+						"name": "UoN Physiotherapy",
+						"id": 3020424189,
+						"id_str": "3020424189",
+						"indices": [
+							24,
+							34
+						]
+					},
+					{
+						"screen_name": "UoNSportRehab",
+						"name": "UoNSportRehab",
+						"id": 2174322090,
+						"id_str": "2174322090",
+						"indices": [
+							41,
+							55
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 435210219,
+				"id_str": "435210219",
+				"name": "grahame david pope",
+				"screen_name": "GrahamePope",
+				"location": "Nottingham, Planet Earth ",
+				"description": "Some say friendly open & supportive others miserable introvert and unhelpful. You decide :-)",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 383,
+				"friends_count": 82,
+				"listed_count": 2,
+				"created_at": "Mon Dec 12 20:07:51 +0000 2011",
+				"favourites_count": 903,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4798,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1713215132/IMG-20110914-00013_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1713215132/IMG-20110914-00013_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you Grahame for your teaching and wisdom!! Moreover, your leadership - the culture at @UoNPhysio fosters #success 🎓😊👍 https://t.co/Vlsi6QU4XW"
+	},
+	{
+		"created_at": "Mon Jun 24 14:48:03 +0000 2019",
+		"id": 1143168917210353700,
+		"id_str": "1143168917210353665",
+		"full_text": "@VeloUK @kieran_frend @RSTRacingTeam @CycleDivision Chapeau @kieran_frend 🙌",
+		"truncated": false,
+		"display_text_range": [
+			52,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VeloUK",
+					"name": "British Cycle Sport",
+					"id": 34643184,
+					"id_str": "34643184",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "kieran_frend",
+					"name": "Kieran Frend",
+					"id": 138168347,
+					"id_str": "138168347",
+					"indices": [
+						8,
+						21
+					]
+				},
+				{
+					"screen_name": "RSTRacingTeam",
+					"name": "RST Racing Team",
+					"id": 465486378,
+					"id_str": "465486378",
+					"indices": [
+						22,
+						36
+					]
+				},
+				{
+					"screen_name": "CycleDivision",
+					"name": "Cycle Division",
+					"id": 412186286,
+					"id_str": "412186286",
+					"indices": [
+						37,
+						51
+					]
+				},
+				{
+					"screen_name": "kieran_frend",
+					"name": "Kieran Frend",
+					"id": 138168347,
+					"id_str": "138168347",
+					"indices": [
+						60,
+						73
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1143159210689142800,
+		"in_reply_to_status_id_str": "1143159210689142786",
+		"in_reply_to_user_id": 34643184,
+		"in_reply_to_user_id_str": "34643184",
+		"in_reply_to_screen_name": "VeloUK",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1553,
+			"friends_count": 2955,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12424,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@VeloUK @kieran_frend @RSTRacingTeam @CycleDivision Chapeau @kieran_frend 🙌"
+	},
+	{
 		"created_at": "Sun Jun 23 22:05:58 +0000 2019",
 		"id": 1142916735244410900,
 		"id_str": "1142916735244410880",
