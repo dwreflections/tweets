@@ -1,6 +1,119 @@
 Grailbird.data.tweets_2019_06 = 
 [
 	{
+		"created_at": "Fri Jun 28 18:44:39 +0000 2019",
+		"id": 1144678009515008000,
+		"id_str": "1144678009515008001",
+		"full_text": "@EJC507 @HSciences @The_HCPC Decent!!!  Any plans for your time off? \nI should be staring my rotational post at Royal Derby in August. \nHow time flies!!!",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EJC507",
+					"name": "Emma Jayne Coleman",
+					"id": 4135650785,
+					"id_str": "4135650785",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "HSciences",
+					"name": "Health Sciences, UoS",
+					"id": 607126704,
+					"id_str": "607126704",
+					"indices": [
+						8,
+						18
+					]
+				},
+				{
+					"screen_name": "The_HCPC",
+					"name": "HCPC",
+					"id": 248638030,
+					"id_str": "248638030",
+					"indices": [
+						19,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1144263492867973100,
+		"in_reply_to_status_id_str": "1144263492867973120",
+		"in_reply_to_user_id": 4135650785,
+		"in_reply_to_user_id_str": "4135650785",
+		"in_reply_to_screen_name": "EJC507",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1568,
+			"friends_count": 2972,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12550,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4976,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1131305717426728960/RpYbIkpj_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EJC507 @HSciences @The_HCPC Decent!!!  Any plans for your time off? \nI should be staring my rotational post at Royal Derby in August. \nHow time flies!!!"
+	},
+	{
 		"created_at": "Thu Jun 27 20:55:40 +0000 2019",
 		"id": 1144347680564555800,
 		"id_str": "1144348595635834881",
