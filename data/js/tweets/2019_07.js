@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 02 20:43:10 +0000 2019",
+		"id": 1146131815071125500,
+		"id_str": "1146157386966687745",
+		"full_text": "Indeed the opportunities are there for you to grab!! You certainly made an excellent start! https://t.co/tHPltUjxid",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tHPltUjxid",
+					"expanded_url": "https://twitter.com/jamesnnkophysio/status/1146105913075490818",
+					"display_url": "twitter.com/jamesnnkophysi…",
+					"indices": [
+						92,
+						115
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 791233063,
+			"id_str": "791233063",
+			"name": "Karen Middleton",
+			"screen_name": "KMiddletonCSP",
+			"location": "",
+			"description": "Chief Executive of the Chartered Society of Physiotherapy and Visiting Professor at Leeds Beckett University-very proud of both!",
+			"url": "https://t.co/0zvCGRCWPh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0zvCGRCWPh",
+							"expanded_url": "http://www.csp.org.uk",
+							"display_url": "csp.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14043,
+			"friends_count": 607,
+			"listed_count": 138,
+			"created_at": "Thu Aug 30 09:38:56 +0000 2012",
+			"favourites_count": 28159,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 43081,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136281315311939585/qcIstOyW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136281315311939585/qcIstOyW_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1146105913075490800,
+		"quoted_status_id_str": "1146105913075490818",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tHPltUjxid",
+			"expanded": "https://twitter.com/jamesnnkophysio/status/1146105913075490818",
+			"display": "twitter.com/jamesnnkophysi…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 02 17:18:37 +0000 2019",
+			"id": 1146105913075490800,
+			"id_str": "1146105913075490818",
+			"full_text": "Today will be a hard day to top as a physiotherapy student. I was even lucky enough to meet @RuthNewportWest ! With the individuals I have met today, it is clear that the possibilities for a physio are endless!\n\n@northwestcsp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				225
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RuthNewportWest",
+						"name": "Ruth Jones MP",
+						"id": 1093899576329801700,
+						"id_str": "1093899576329801729",
+						"indices": [
+							92,
+							108
+						]
+					},
+					{
+						"screen_name": "northwestcsp",
+						"name": "North West CSP",
+						"id": 1885973894,
+						"id_str": "1885973894",
+						"indices": [
+							212,
+							225
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": 1146104845633560600,
+			"in_reply_to_status_id_str": "1146104845633560576",
+			"in_reply_to_user_id": 1073219194622234600,
+			"in_reply_to_user_id_str": "1073219194622234624",
+			"in_reply_to_screen_name": "JamesNnkoPhysio",
+			"user": {
+				"id": 1073219194622234600,
+				"id_str": "1073219194622234624",
+				"name": "James Nnko",
+				"screen_name": "JamesNnkoPhysio",
+				"location": "Preston, England",
+				"description": "🇹🇿🇬🇧\nUCLAN Physiotherapy student,\nCSP Rep,\nMental healthworker..\nAll views are my own",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 59,
+				"friends_count": 133,
+				"listed_count": 0,
+				"created_at": "Thu Dec 13 14:12:50 +0000 2018",
+				"favourites_count": 242,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 66,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1142381481924448256/yk7KOtLw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1142381481924448256/yk7KOtLw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1073219194622234624/1546162466",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Indeed the opportunities are there for you to grab!! You certainly made an excellent start! https://t.co/tHPltUjxid"
+	},
+	{
+		"created_at": "Tue Jul 02 11:33:11 +0000 2019",
+		"id": 1146018979179368400,
+		"id_str": "1146018979179368448",
+		"full_text": "@IanUnitt @StNurseProject @RCNStudents @studentNT I graduate in a fortnight with the rest of the health school. Although, some are graduating in the autumn.",
+		"truncated": false,
+		"display_text_range": [
+			50,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IanUnitt",
+					"name": "Ian U",
+					"id": 2647281590,
+					"id_str": "2647281590",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "StNurseProject",
+					"name": "The Student Nurse Project",
+					"id": 943543366381375500,
+					"id_str": "943543366381375488",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"screen_name": "RCNStudents",
+					"name": "RCN Students",
+					"id": 1105954730,
+					"id_str": "1105954730",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "studentNT",
+					"name": "studentnursingtimes",
+					"id": 329052207,
+					"id_str": "329052207",
+					"indices": [
+						39,
+						49
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1146003152522625000,
+		"in_reply_to_status_id_str": "1146003152522625024",
+		"in_reply_to_user_id": 2647281590,
+		"in_reply_to_user_id_str": "2647281590",
+		"in_reply_to_screen_name": "IanUnitt",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1574,
+			"friends_count": 2984,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12619,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@IanUnitt @StNurseProject @RCNStudents @studentNT I graduate in a fortnight with the rest of the health school. Although, some are graduating in the autumn."
+	},
+	{
 		"created_at": "Mon Jul 01 21:02:09 +0000 2019",
 		"id": 1145793311766134800,
 		"id_str": "1145799778288185351",
