@@ -1,6 +1,715 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 03 17:27:36 +0000 2019",
+		"id": 1146470559628374000,
+		"id_str": "1146470559628374017",
+		"full_text": "&amp; congratulations @JCarsonLittle 🥳🙌",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JCarsonLittle",
+					"name": "Julia Carson Little",
+					"id": 721982010936401900,
+					"id_str": "721982010936401920",
+					"indices": [
+						22,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1146470274898059300,
+		"in_reply_to_status_id_str": "1146470274898059264",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1575,
+			"friends_count": 2985,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "&amp; congratulations @JCarsonLittle 🥳🙌"
+	},
+	{
+		"created_at": "Wed Jul 03 17:26:28 +0000 2019",
+		"id": 1146470274898059300,
+		"id_str": "1146470274898059264",
+		"full_text": "Oh wow! I’m a very proud (soon to be) graduate of @UoN_SHS / @UoNPhysio . A brilliant place to study and grown as a person! ✨\n\nThank you for the recognition @JoanneLymn https://t.co/NKO0yGb4qb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UoN_SHS",
+					"name": "UoN Health Sciences",
+					"id": 512054069,
+					"id_str": "512054069",
+					"indices": [
+						50,
+						58
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						61,
+						71
+					]
+				},
+				{
+					"screen_name": "JoanneLymn",
+					"name": "Joanne Lymn",
+					"id": 2411130605,
+					"id_str": "2411130605",
+					"indices": [
+						157,
+						168
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NKO0yGb4qb",
+					"expanded_url": "https://twitter.com/fimo18/status/1146344988520984576",
+					"display_url": "twitter.com/fimo18/status/…",
+					"indices": [
+						169,
+						192
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1575,
+			"friends_count": 2985,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1146344988520984600,
+		"quoted_status_id_str": "1146344988520984576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NKO0yGb4qb",
+			"expanded": "https://twitter.com/fimo18/status/1146344988520984576",
+			"display": "twitter.com/fimo18/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 03 09:08:37 +0000 2019",
+			"id": 1146344988520984600,
+			"id_str": "1146344988520984576",
+			"full_text": "@JoanneLymn celebrating our staff and students including @150midlands @beardedPT @UoN_SHS @UoNPhysio #SHSForum2019 #proud https://t.co/FWVGNyrFDu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				121
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SHSForum2019",
+						"indices": [
+							101,
+							114
+						]
+					},
+					{
+						"text": "proud",
+						"indices": [
+							115,
+							121
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JoanneLymn",
+						"name": "Joanne Lymn",
+						"id": 2411130605,
+						"id_str": "2411130605",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "150midlands",
+						"name": "StudentLeadershipMidlands",
+						"id": 992445012376981500,
+						"id_str": "992445012376981504",
+						"indices": [
+							57,
+							69
+						]
+					},
+					{
+						"screen_name": "beardedPT",
+						"name": "David Williams",
+						"id": 3377750235,
+						"id_str": "3377750235",
+						"indices": [
+							70,
+							80
+						]
+					},
+					{
+						"screen_name": "UoN_SHS",
+						"name": "UoN Health Sciences",
+						"id": 512054069,
+						"id_str": "512054069",
+						"indices": [
+							81,
+							89
+						]
+					},
+					{
+						"screen_name": "UoNPhysio",
+						"name": "UoN Physiotherapy",
+						"id": 3020424189,
+						"id_str": "3020424189",
+						"indices": [
+							90,
+							100
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1146344982732791800,
+						"id_str": "1146344982732791808",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/media/D-iisC3W4AAOF3F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D-iisC3W4AAOF3F.jpg",
+						"url": "https://t.co/FWVGNyrFDu",
+						"display_url": "pic.twitter.com/FWVGNyrFDu",
+						"expanded_url": "https://twitter.com/fimo18/status/1146344988520984576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1146344982732791800,
+						"id_str": "1146344982732791808",
+						"indices": [
+							122,
+							145
+						],
+						"media_url": "http://pbs.twimg.com/media/D-iisC3W4AAOF3F.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D-iisC3W4AAOF3F.jpg",
+						"url": "https://t.co/FWVGNyrFDu",
+						"display_url": "pic.twitter.com/FWVGNyrFDu",
+						"expanded_url": "https://twitter.com/fimo18/status/1146344988520984576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 2411130605,
+			"in_reply_to_user_id_str": "2411130605",
+			"in_reply_to_screen_name": "JoanneLymn",
+			"user": {
+				"id": 508806750,
+				"id_str": "508806750",
+				"name": "Dr Fiona Moffatt",
+				"screen_name": "fimo18",
+				"location": "Nottingham, UK",
+				"description": "Researcher, lecturer, physiotherapist & runner. Exercise; physical activity; critical care; qualitative methodologies; health service delivery; sociology",
+				"url": "https://t.co/kvJklC6HM3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kvJklC6HM3",
+								"expanded_url": "http://www.nottingham.ac.uk/healthsciences/people/fiona.moffatt",
+								"display_url": "nottingham.ac.uk/healthsciences…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2454,
+				"friends_count": 1053,
+				"listed_count": 52,
+				"created_at": "Wed Feb 29 12:35:08 +0000 2012",
+				"favourites_count": 5300,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4463,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/720951557156642816/GVQMOoTi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/720951557156642816/GVQMOoTi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/508806750/1463818894",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh wow! I’m a very proud (soon to be) graduate of @UoN_SHS / @UoNPhysio . A brilliant place to study and grown as a person! ✨\n\nThank you for the recognition @JoanneLymn https://t.co/NKO0yGb4qb"
+	},
+	{
+		"created_at": "Wed Jul 03 09:32:59 +0000 2019",
+		"id": 1146351117925855200,
+		"id_str": "1146351117925855232",
+		"full_text": "@kirstyhyndes Honoured 😊👍",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kirstyhyndes",
+					"name": "kirsty hyndes",
+					"id": 203287084,
+					"id_str": "203287084",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1146345399432749000,
+		"in_reply_to_status_id_str": "1146345399432749056",
+		"in_reply_to_user_id": 203287084,
+		"in_reply_to_user_id_str": "203287084",
+		"in_reply_to_screen_name": "kirstyhyndes",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1575,
+			"friends_count": 2985,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kirstyhyndes Honoured 😊👍"
+	},
+	{
+		"created_at": "Wed Jul 03 09:30:15 +0000 2019",
+		"id": 1146350432542965800,
+		"id_str": "1146350432542965760",
+		"full_text": "@fimo18 @JoanneLymn @150midlands @UoN_SHS @UoNPhysio Oh wow, proud to be at @UoN_SHS @UoNPhysio ! 🙌😍",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fimo18",
+					"name": "Dr Fiona Moffatt",
+					"id": 508806750,
+					"id_str": "508806750",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "JoanneLymn",
+					"name": "Joanne Lymn",
+					"id": 2411130605,
+					"id_str": "2411130605",
+					"indices": [
+						8,
+						19
+					]
+				},
+				{
+					"screen_name": "150midlands",
+					"name": "StudentLeadershipMidlands",
+					"id": 992445012376981500,
+					"id_str": "992445012376981504",
+					"indices": [
+						20,
+						32
+					]
+				},
+				{
+					"screen_name": "UoN_SHS",
+					"name": "UoN Health Sciences",
+					"id": 512054069,
+					"id_str": "512054069",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"screen_name": "UoN_SHS",
+					"name": "UoN Health Sciences",
+					"id": 512054069,
+					"id_str": "512054069",
+					"indices": [
+						76,
+						84
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						85,
+						95
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1146344988520984600,
+		"in_reply_to_status_id_str": "1146344988520984576",
+		"in_reply_to_user_id": 508806750,
+		"in_reply_to_user_id_str": "508806750",
+		"in_reply_to_screen_name": "fimo18",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Student Physiotherapist ▪️ Professional Committee at the Chartered Society of Physiotherapy▪️ #150leaders▪️Healthcare Leadership ▪️Social Media 🔁 Dissertation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1575,
+			"friends_count": 2985,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12651,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4992,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@fimo18 @JoanneLymn @150midlands @UoN_SHS @UoNPhysio Oh wow, proud to be at @UoN_SHS @UoNPhysio ! 🙌😍"
+	},
+	{
 		"created_at": "Tue Jul 02 20:43:10 +0000 2019",
 		"id": 1146131815071125500,
 		"id_str": "1146157386966687745",
