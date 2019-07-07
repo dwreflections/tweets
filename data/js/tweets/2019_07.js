@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 06 11:37:35 +0000 2019",
+		"id": 1147452784977035300,
+		"id_str": "1147469640165134337",
+		"full_text": "To all our @councilofdeans members, staff and @150Leaders students we wish you a happy #Pride2019 https://t.co/ofqtOGZUd3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Pride2019",
+					"indices": [
+						87,
+						97
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "councilofdeans",
+					"name": "Council of Deans",
+					"id": 278442312,
+					"id_str": "278442312",
+					"indices": [
+						11,
+						26
+					]
+				},
+				{
+					"screen_name": "150Leaders",
+					"name": "#150Leaders",
+					"id": 1139187039151280100,
+					"id_str": "1139187039151280128",
+					"indices": [
+						46,
+						57
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1147452771207123000,
+					"id_str": "1147452771207122944",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/D-ySN0hWkAAJQEU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-ySN0hWkAAJQEU.jpg",
+					"url": "https://t.co/ofqtOGZUd3",
+					"display_url": "pic.twitter.com/ofqtOGZUd3",
+					"expanded_url": "https://twitter.com/katerinakolyva/status/1147452784977035264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1147452771207123000,
+					"id_str": "1147452771207122944",
+					"indices": [
+						98,
+						121
+					],
+					"media_url": "http://pbs.twimg.com/media/D-ySN0hWkAAJQEU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D-ySN0hWkAAJQEU.jpg",
+					"url": "https://t.co/ofqtOGZUd3",
+					"display_url": "pic.twitter.com/ofqtOGZUd3",
+					"expanded_url": "https://twitter.com/katerinakolyva/status/1147452784977035264/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1350,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2156890678,
+			"id_str": "2156890678",
+			"name": "Dr Katerina Kolyva",
+			"screen_name": "katerinakolyva",
+			"location": "London, UK ",
+			"description": "Executive Director @councilofdeans #150Leaders. Politics addict, multilingual EUholic. Tweet about higher education, healthcare, leadership and EU affairs.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2789,
+			"friends_count": 2340,
+			"listed_count": 80,
+			"created_at": "Mon Oct 28 07:52:41 +0000 2013",
+			"favourites_count": 4212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 10701,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/930730069441548288/nDtmUi-w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/930730069441548288/nDtmUi-w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2156890678/1480930536",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 27,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "To all our @councilofdeans members, staff and @150Leaders students we wish you a happy #Pride2019 https://t.co/ofqtOGZUd3"
+	},
+	{
 		"created_at": "Fri Jul 05 11:58:19 +0000 2019",
 		"id": 1147112470580011000,
 		"id_str": "1147112470580011008",
