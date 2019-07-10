@@ -1,6 +1,1841 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 09 21:29:18 +0000 2019",
+		"id": 1148705713084125200,
+		"id_str": "1148705713084125185",
+		"full_text": "@marksia @The_HCPC There’s hope then 👍👍",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marksia",
+					"name": "Mark Sia",
+					"id": 756889163987836900,
+					"id_str": "756889163987836928",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "The_HCPC",
+					"name": "HCPC",
+					"id": 248638030,
+					"id_str": "248638030",
+					"indices": [
+						9,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1148659533566414800,
+		"in_reply_to_status_id_str": "1148659533566414849",
+		"in_reply_to_user_id": 756889163987836900,
+		"in_reply_to_user_id_str": "756889163987836928",
+		"in_reply_to_screen_name": "marksia",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1583,
+			"friends_count": 2498,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@marksia @The_HCPC There’s hope then 👍👍"
+	},
+	{
+		"created_at": "Tue Jul 09 17:47:36 +0000 2019",
+		"id": 1148649921140133900,
+		"id_str": "1148649921140133894",
+		"full_text": "@JonRoom @awgilbert11 @ConnectPhD @PhysioATOCP Sign me up 😂 https://t.co/CL7H926Tkj",
+		"truncated": false,
+		"display_text_range": [
+			47,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JonRoom",
+					"name": "Jon Room",
+					"id": 20102845,
+					"id_str": "20102845",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "awgilbert11",
+					"name": "Anthony Gilbert",
+					"id": 250321410,
+					"id_str": "250321410",
+					"indices": [
+						9,
+						21
+					]
+				},
+				{
+					"screen_name": "ConnectPhD",
+					"name": "The Connect Project",
+					"id": 756584340360945700,
+					"id_str": "756584340360945664",
+					"indices": [
+						22,
+						33
+					]
+				},
+				{
+					"screen_name": "PhysioATOCP",
+					"name": "ATOCP Physio",
+					"id": 2337054456,
+					"id_str": "2337054456",
+					"indices": [
+						34,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1148649914022412300,
+					"id_str": "1148649914022412289",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D_DTAtCWwAEhV3h.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D_DTAtCWwAEhV3h.jpg",
+					"url": "https://t.co/CL7H926Tkj",
+					"display_url": "pic.twitter.com/CL7H926Tkj",
+					"expanded_url": "https://twitter.com/beardedPT/status/1148649921140133894/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148649914022412300,
+					"id_str": "1148649914022412289",
+					"indices": [
+						60,
+						83
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D_DTAtCWwAEhV3h.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D_DTAtCWwAEhV3h.jpg",
+					"url": "https://t.co/CL7H926Tkj",
+					"display_url": "pic.twitter.com/CL7H926Tkj",
+					"expanded_url": "https://twitter.com/beardedPT/status/1148649921140133894/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D_DTAtCWwAEhV3h.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1148647831248523300,
+		"in_reply_to_status_id_str": "1148647831248523265",
+		"in_reply_to_user_id": 20102845,
+		"in_reply_to_user_id_str": "20102845",
+		"in_reply_to_screen_name": "JonRoom",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1583,
+			"friends_count": 2498,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JonRoom @awgilbert11 @ConnectPhD @PhysioATOCP Sign me up 😂 https://t.co/CL7H926Tkj"
+	},
+	{
+		"created_at": "Tue Jul 09 17:43:17 +0000 2019",
+		"id": 1148648833662029800,
+		"id_str": "1148648833662029825",
+		"full_text": "@_JoeMiddleton It’s not.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_JoeMiddleton",
+					"name": "Joe Middleton",
+					"id": 731361288,
+					"id_str": "731361288",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1148525279385702400,
+		"in_reply_to_status_id_str": "1148525279385702400",
+		"in_reply_to_user_id": 731361288,
+		"in_reply_to_user_id_str": "731361288",
+		"in_reply_to_screen_name": "_JoeMiddleton",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1583,
+			"friends_count": 2498,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@_JoeMiddleton It’s not."
+	},
+	{
+		"created_at": "Tue Jul 09 17:42:57 +0000 2019",
+		"id": 1148648751382368300,
+		"id_str": "1148648751382368256",
+		"full_text": "@nohandsup This is an excellent idea! 👍\n\nNot a nurse but if I can help in anyway let me know ... we put on @2019Leaders at @UoN_SHS this year",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nohandsup",
+					"name": "Stephen Charleston",
+					"id": 261285355,
+					"id_str": "261285355",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "2019Leaders",
+					"name": "#2019Leaders",
+					"id": 1080561802713419800,
+					"id_str": "1080561802713419776",
+					"indices": [
+						107,
+						119
+					]
+				},
+				{
+					"screen_name": "UoN_SHS",
+					"name": "UoN Health Sciences",
+					"id": 512054069,
+					"id_str": "512054069",
+					"indices": [
+						123,
+						131
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1148647926912213000,
+		"in_reply_to_status_id_str": "1148647926912212994",
+		"in_reply_to_user_id": 261285355,
+		"in_reply_to_user_id_str": "261285355",
+		"in_reply_to_screen_name": "nohandsup",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1583,
+			"friends_count": 2498,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@nohandsup This is an excellent idea! 👍\n\nNot a nurse but if I can help in anyway let me know ... we put on @2019Leaders at @UoN_SHS this year"
+	},
+	{
+		"created_at": "Tue Jul 09 17:37:43 +0000 2019",
+		"id": 1148647432265379800,
+		"id_str": "1148647432265379840",
+		"full_text": "@awgilbert11 @ConnectPhD @PhysioATOCP @JonRoom Can I be in on this business meeting? 🤔",
+		"truncated": false,
+		"display_text_range": [
+			47,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "awgilbert11",
+					"name": "Anthony Gilbert",
+					"id": 250321410,
+					"id_str": "250321410",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ConnectPhD",
+					"name": "The Connect Project",
+					"id": 756584340360945700,
+					"id_str": "756584340360945664",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "PhysioATOCP",
+					"name": "ATOCP Physio",
+					"id": 2337054456,
+					"id_str": "2337054456",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "JonRoom",
+					"name": "Jon Room",
+					"id": 20102845,
+					"id_str": "20102845",
+					"indices": [
+						38,
+						46
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1148642213938847700,
+		"in_reply_to_status_id_str": "1148642213938847746",
+		"in_reply_to_user_id": 250321410,
+		"in_reply_to_user_id_str": "250321410",
+		"in_reply_to_screen_name": "awgilbert11",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1583,
+			"friends_count": 2498,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@awgilbert11 @ConnectPhD @PhysioATOCP @JonRoom Can I be in on this business meeting? 🤔"
+	},
+	{
+		"created_at": "Tue Jul 09 17:06:42 +0000 2019",
+		"id": 1148639626082639900,
+		"id_str": "1148639626082639872",
+		"full_text": "@JoeThomasPhysio https://t.co/nyoK2criFT",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JoeThomasPhysio",
+					"name": "JT",
+					"id": 989454211778797600,
+					"id_str": "989454211778797568",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1148639616263700500,
+					"id_str": "1148639616263700481",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D_DJpS5WwAE9Xt0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D_DJpS5WwAE9Xt0.jpg",
+					"url": "https://t.co/nyoK2criFT",
+					"display_url": "pic.twitter.com/nyoK2criFT",
+					"expanded_url": "https://twitter.com/beardedPT/status/1148639626082639872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148639616263700500,
+					"id_str": "1148639616263700481",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D_DJpS5WwAE9Xt0.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D_DJpS5WwAE9Xt0.jpg",
+					"url": "https://t.co/nyoK2criFT",
+					"display_url": "pic.twitter.com/nyoK2criFT",
+					"expanded_url": "https://twitter.com/beardedPT/status/1148639626082639872/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 512,
+							"h": 288,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D_DJpS5WwAE9Xt0.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1148630971618644000,
+		"in_reply_to_status_id_str": "1148630971618643970",
+		"in_reply_to_user_id": 989454211778797600,
+		"in_reply_to_user_id_str": "989454211778797568",
+		"in_reply_to_screen_name": "JoeThomasPhysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1583,
+			"friends_count": 2498,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@JoeThomasPhysio https://t.co/nyoK2criFT"
+	},
+	{
+		"created_at": "Tue Jul 09 16:13:20 +0000 2019",
+		"id": 1148626195480764400,
+		"id_str": "1148626195480764417",
+		"full_text": "https://t.co/duyOphT2iB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/duyOphT2iB",
+					"expanded_url": "https://twitter.com/the_hcpc/status/1148625324235792384?s=21",
+					"display_url": "twitter.com/the_hcpc/statu…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1148623544399663100,
+		"in_reply_to_status_id_str": "1148623544399663105",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1583,
+			"friends_count": 2498,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1148625324235792400,
+		"quoted_status_id_str": "1148625324235792384",
+		"quoted_status_permalink": {
+			"url": "https://t.co/duyOphT2iB",
+			"expanded": "https://twitter.com/the_hcpc/status/1148625324235792384?s=21",
+			"display": "twitter.com/the_hcpc/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 09 16:09:52 +0000 2019",
+			"id": 1148625324235792400,
+			"id_str": "1148625324235792384",
+			"full_text": "@beardedPT Hi David, the process can take approximately 60 working days from receipt of your complete application. There is more helpful info on our website - see section titled 'Timescale' https://t.co/jJCUoriz8E HCPC Press Team",
+			"truncated": false,
+			"display_text_range": [
+				11,
+				229
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "beardedPT",
+						"name": "David Williams",
+						"id": 3377750235,
+						"id_str": "3377750235",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/jJCUoriz8E",
+						"expanded_url": "https://bit.ly/2S2nR2C",
+						"display_url": "bit.ly/2S2nR2C",
+						"indices": [
+							190,
+							213
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": 1148564122587553800,
+			"in_reply_to_status_id_str": "1148564122587553792",
+			"in_reply_to_user_id": 3377750235,
+			"in_reply_to_user_id_str": "3377750235",
+			"in_reply_to_screen_name": "beardedPT",
+			"user": {
+				"id": 248638030,
+				"id_str": "248638030",
+				"name": "HCPC",
+				"screen_name": "The_HCPC",
+				"location": "UK",
+				"description": "Set up to protect the public, the Health and Care Professions Council is a UK-wide multi profession regulator. We regulate 16 health and care professions.",
+				"url": "http://t.co/xHJTpYvYQn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/xHJTpYvYQn",
+								"expanded_url": "http://www.hcpc-uk.org",
+								"display_url": "hcpc-uk.org",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 26252,
+				"friends_count": 1349,
+				"listed_count": 212,
+				"created_at": "Mon Feb 07 12:22:01 +0000 2011",
+				"favourites_count": 601,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13360,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0D1261",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/841946986274295808/DDxdmt1K_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/841946986274295808/DDxdmt1K_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/248638030/1512989468",
+				"profile_link_color": "005FB3",
+				"profile_sidebar_border_color": "F57F31",
+				"profile_sidebar_fill_color": "FAFEFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/duyOphT2iB"
+	},
+	{
+		"created_at": "Tue Jul 09 16:12:46 +0000 2019",
+		"id": 1148626054757716000,
+		"id_str": "1148626054757715968",
+		"full_text": "@The_HCPC Thank you",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "The_HCPC",
+					"name": "HCPC",
+					"id": 248638030,
+					"id_str": "248638030",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1148625324235792400,
+		"in_reply_to_status_id_str": "1148625324235792384",
+		"in_reply_to_user_id": 248638030,
+		"in_reply_to_user_id_str": "248638030",
+		"in_reply_to_screen_name": "The_HCPC",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1583,
+			"friends_count": 2498,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@The_HCPC Thank you"
+	},
+	{
+		"created_at": "Tue Jul 09 16:04:28 +0000 2019",
+		"id": 1148623966975778800,
+		"id_str": "1148623966975778816",
+		"full_text": "@MattLowPT Bump 😊👍",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MattLowPT",
+					"name": "Matthew Low",
+					"id": 1105433442,
+					"id_str": "1105433442",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": 1139811085094178800,
+		"in_reply_to_status_id_str": "1139811085094178816",
+		"in_reply_to_user_id": 1105433442,
+		"in_reply_to_user_id_str": "1105433442",
+		"in_reply_to_screen_name": "MattLowPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1583,
+			"friends_count": 2498,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MattLowPT Bump 😊👍"
+	},
+	{
+		"created_at": "Tue Jul 09 16:02:48 +0000 2019",
+		"id": 1148623544399663100,
+		"id_str": "1148623544399663105",
+		"full_text": "HCPC Registration 👇🤔 @UoNPhysio https://t.co/UtiEGwxYTi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						21,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UtiEGwxYTi",
+					"expanded_url": "https://twitter.com/mswphysio/status/1148611860612206592",
+					"display_url": "twitter.com/mswphysio/stat…",
+					"indices": [
+						32,
+						55
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1583,
+			"friends_count": 2498,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1148611860612206600,
+		"quoted_status_id_str": "1148611860612206592",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UtiEGwxYTi",
+			"expanded": "https://twitter.com/mswphysio/status/1148611860612206592",
+			"display": "twitter.com/mswphysio/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 09 15:16:22 +0000 2019",
+			"id": 1148611860612206600,
+			"id_str": "1148611860612206592",
+			"full_text": "@beardedPT We were told roughly 6-8weeka but could be sooner",
+			"truncated": false,
+			"display_text_range": [
+				11,
+				60
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "beardedPT",
+						"name": "David Williams",
+						"id": 3377750235,
+						"id_str": "3377750235",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1148564122587553800,
+			"in_reply_to_status_id_str": "1148564122587553792",
+			"in_reply_to_user_id": 3377750235,
+			"in_reply_to_user_id_str": "3377750235",
+			"in_reply_to_screen_name": "beardedPT",
+			"user": {
+				"id": 918951598952534000,
+				"id_str": "918951598952534016",
+				"name": "Morgan Williams",
+				"screen_name": "mswphysio",
+				"location": "United Kingdom",
+				"description": "Female Student Physiotherapist at University of Worcester",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 80,
+				"friends_count": 276,
+				"listed_count": 0,
+				"created_at": "Fri Oct 13 21:28:29 +0000 2017",
+				"favourites_count": 727,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 214,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1053774265672237057/2zx6Uhcm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053774265672237057/2zx6Uhcm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/918951598952534016/1540074581",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "HCPC Registration 👇🤔 @UoNPhysio https://t.co/UtiEGwxYTi"
+	},
+	{
+		"created_at": "Tue Jul 09 14:43:01 +0000 2019",
+		"id": 1148602083429556200,
+		"id_str": "1148603467633766401",
+		"full_text": "▶ Both riders have worn the yellow jersey at @LeTour \n▶ AND they used to ride...\n\nWhat else do @MikeTeunissen and @alafpolak have in common? \n\n#TriviaTuesday https://t.co/jSD5PMhtKX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TriviaTuesday",
+					"indices": [
+						143,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LeTour",
+					"name": "Tour de France™",
+					"id": 153403071,
+					"id_str": "153403071",
+					"indices": [
+						45,
+						52
+					]
+				},
+				{
+					"screen_name": "MikeTeunissen",
+					"name": "Mike Teunissen",
+					"id": 150239135,
+					"id_str": "150239135",
+					"indices": [
+						95,
+						109
+					]
+				},
+				{
+					"screen_name": "alafpolak",
+					"name": "Julian Alaphilippe",
+					"id": 1415347837,
+					"id_str": "1415347837",
+					"indices": [
+						114,
+						124
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1148602077901459500,
+					"id_str": "1148602077901459457",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/D_CngRmXkAE6qe4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_CngRmXkAE6qe4.jpg",
+					"url": "https://t.co/jSD5PMhtKX",
+					"display_url": "pic.twitter.com/jSD5PMhtKX",
+					"expanded_url": "https://twitter.com/UCI_CX/status/1148602083429556225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1148602077901459500,
+					"id_str": "1148602077901459457",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/D_CngRmXkAE6qe4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_CngRmXkAE6qe4.jpg",
+					"url": "https://t.co/jSD5PMhtKX",
+					"display_url": "pic.twitter.com/jSD5PMhtKX",
+					"expanded_url": "https://twitter.com/UCI_CX/status/1148602083429556225/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://www.falcon.io\" rel=\"nofollow\">Falcon Social Media Management </a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2793911566,
+			"id_str": "2793911566",
+			"name": "UCI Cyclocross",
+			"screen_name": "UCI_CX",
+			"location": "Aigle, Switzerland",
+			"description": "Cyclo-cross provides a real education in cycling as it requires accomplished bike handling skills and unfailing physical fitness. Follow @uci_cycling for more.",
+			"url": "http://t.co/jMjpFz0PUX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/jMjpFz0PUX",
+							"expanded_url": "http://www.uci.ch/cyclo-cross/",
+							"display_url": "uci.ch/cyclo-cross/",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21948,
+			"friends_count": 140,
+			"listed_count": 297,
+			"created_at": "Tue Sep 30 08:23:26 +0000 2014",
+			"favourites_count": 1052,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/876786480852725761/_WlHujDt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/876786480852725761/_WlHujDt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2793911566/1485711546",
+			"profile_link_color": "4A913C",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 96,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "▶ Both riders have worn the yellow jersey at @LeTour \n▶ AND they used to ride...\n\nWhat else do @MikeTeunissen and @alafpolak have in common? \n\n#TriviaTuesday https://t.co/jSD5PMhtKX"
+	},
+	{
+		"created_at": "Tue Jul 09 12:18:18 +0000 2019",
+		"id": 1148567049955885000,
+		"id_str": "1148567049955885056",
+		"full_text": "@KMiddletonCSP @The_HCPC I’m just being impatient...",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KMiddletonCSP",
+					"name": "Karen Middleton",
+					"id": 791233063,
+					"id_str": "791233063",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "The_HCPC",
+					"name": "HCPC",
+					"id": 248638030,
+					"id_str": "248638030",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1148566730131812400,
+		"in_reply_to_status_id_str": "1148566730131812352",
+		"in_reply_to_user_id": 791233063,
+		"in_reply_to_user_id_str": "791233063",
+		"in_reply_to_screen_name": "KMiddletonCSP",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1583,
+			"friends_count": 2498,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KMiddletonCSP @The_HCPC I’m just being impatient..."
+	},
+	{
+		"created_at": "Tue Jul 09 12:06:40 +0000 2019",
+		"id": 1148564122587553800,
+		"id_str": "1148564122587553792",
+		"full_text": "Approximately, how long does it take for you to receive HCPC registration after applying?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1583,
+			"friends_count": 2498,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5021,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Approximately, how long does it take for you to receive HCPC registration after applying?"
+	},
+	{
 		"created_at": "Mon Jul 08 18:24:30 +0000 2019",
 		"id": 1148296753701118000,
 		"id_str": "1148296817798537221",
