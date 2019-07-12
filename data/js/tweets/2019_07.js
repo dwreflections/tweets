@@ -1,6 +1,365 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 11 21:40:59 +0000 2019",
+		"id": 1149433426979639300,
+		"id_str": "1149433426979639296",
+		"full_text": "@RobTheOT @OTBev @uni_essexhealth @SRES_UoE @nybutt @150Leaders Great work Bev! 👍👍👍",
+		"truncated": false,
+		"display_text_range": [
+			64,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RobTheOT",
+					"name": "Rob Molloy",
+					"id": 45223444,
+					"id_str": "45223444",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "OTBev",
+					"name": "Beverley Goodman",
+					"id": 204052925,
+					"id_str": "204052925",
+					"indices": [
+						10,
+						16
+					]
+				},
+				{
+					"screen_name": "uni_essexhealth",
+					"name": "Health & Social Care",
+					"id": 499186238,
+					"id_str": "499186238",
+					"indices": [
+						17,
+						33
+					]
+				},
+				{
+					"screen_name": "SRES_UoE",
+					"name": "Sport-Rehab-Ex UOE",
+					"id": 899625089376845800,
+					"id_str": "899625089376845825",
+					"indices": [
+						34,
+						43
+					]
+				},
+				{
+					"screen_name": "nybutt",
+					"name": "Nadia Butt",
+					"id": 591230931,
+					"id_str": "591230931",
+					"indices": [
+						44,
+						51
+					]
+				},
+				{
+					"screen_name": "150Leaders",
+					"name": "#150Leaders",
+					"id": 1139187039151280100,
+					"id_str": "1139187039151280128",
+					"indices": [
+						52,
+						63
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1149430968559820800,
+		"in_reply_to_status_id_str": "1149430968559820802",
+		"in_reply_to_user_id": 45223444,
+		"in_reply_to_user_id_str": "45223444",
+		"in_reply_to_screen_name": "RobTheOT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1585,
+			"friends_count": 2502,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12818,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RobTheOT @OTBev @uni_essexhealth @SRES_UoE @nybutt @150Leaders Great work Bev! 👍👍👍"
+	},
+	{
+		"created_at": "Thu Jul 11 17:24:19 +0000 2019",
+		"id": 1149367062416040000,
+		"id_str": "1149368837999136774",
+		"full_text": "Excellent resource for members to help influence. If not YOU then who and if not NOW then when!? A @KMiddletonCSP  quote that’s stuck with me “if you don’t have a chair at the table, bring your own” 👊 https://t.co/NuJlEs6uf6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KMiddletonCSP",
+					"name": "Karen Middleton",
+					"id": 791233063,
+					"id_str": "791233063",
+					"indices": [
+						99,
+						113
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NuJlEs6uf6",
+					"expanded_url": "https://twitter.com/thecsp/status/1149260039212937216",
+					"display_url": "twitter.com/thecsp/status/…",
+					"indices": [
+						201,
+						224
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 375320758,
+			"id_str": "375320758",
+			"name": "Nick Livadas",
+			"screen_name": "nicklivadas",
+			"location": "Newcastle Upon Tyne",
+			"description": "Senior Lecturer/Practitioner in Physiotherapy, Teesside Uni & Physiotherapy Matters. CSP Professional Committee Vice Chair. Chair of the NEMS.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 698,
+			"friends_count": 598,
+			"listed_count": 11,
+			"created_at": "Sat Sep 17 22:36:43 +0000 2011",
+			"favourites_count": 2206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 910,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948569387472171008/-KgxWMEp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948569387472171008/-KgxWMEp_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/375320758/1356467833",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1149260039212937200,
+		"quoted_status_id_str": "1149260039212937216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NuJlEs6uf6",
+			"expanded": "https://twitter.com/thecsp/status/1149260039212937216",
+			"display": "twitter.com/thecsp/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 11 10:12:00 +0000 2019",
+			"id": 1149260039212937200,
+			"id_str": "1149260039212937216",
+			"full_text": "Raise your profile and increase your power to influence - with CSP’s new toolkit and influencing network. Find out more at: https://t.co/mu3WXQ1gMi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				147
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mu3WXQ1gMi",
+						"expanded_url": "https://bit.ly/2G3UQPy",
+						"display_url": "bit.ly/2G3UQPy",
+						"indices": [
+							124,
+							147
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.contentcal.io\" rel=\"nofollow\">ContentCal Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 138098880,
+				"id_str": "138098880",
+				"name": "Chartered Society of Physiotherapy",
+				"screen_name": "thecsp",
+				"location": "United Kingdom",
+				"description": "Chartered Society of Physiotherapy (CSP) - the professional, educational and union body for 58,000 UK-chartered physiotherapists, students and support workers.",
+				"url": "https://t.co/0zvCGRCWPh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0zvCGRCWPh",
+								"expanded_url": "http://www.csp.org.uk",
+								"display_url": "csp.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 43020,
+				"friends_count": 1293,
+				"listed_count": 316,
+				"created_at": "Wed Apr 28 16:27:18 +0000 2010",
+				"favourites_count": 5165,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13299,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6E3DC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902851531388534785/RRRJKVa0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902851531388534785/RRRJKVa0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/138098880/1559381107",
+				"profile_link_color": "252673",
+				"profile_sidebar_border_color": "C9C9C9",
+				"profile_sidebar_fill_color": "E3E3E3",
+				"profile_text_color": "757575",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excellent resource for members to help influence. If not YOU then who and if not NOW then when!? A @KMiddletonCSP  quote that’s stuck with me “if you don’t have a chair at the table, bring your own” 👊 https://t.co/NuJlEs6uf6"
+	},
+	{
 		"created_at": "Wed Jul 10 09:46:44 +0000 2019",
 		"id": 1148891294682533900,
 		"id_str": "1148891294682533889",
