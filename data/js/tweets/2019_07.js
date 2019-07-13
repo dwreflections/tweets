@@ -1,6 +1,1190 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 12 22:59:00 +0000 2019",
+		"id": 1149636235356328000,
+		"id_str": "1149815451096145921",
+		"full_text": "Patient made this 😍 https://t.co/tWxF12FAqT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1149635881600372700,
+					"id_str": "1149635881600372736",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D_RTvkfVUAAJSVe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_RTvkfVUAAJSVe.jpg",
+					"url": "https://t.co/tWxF12FAqT",
+					"display_url": "pic.twitter.com/tWxF12FAqT",
+					"expanded_url": "https://twitter.com/thomas_jesson/status/1149636235356327942/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1154,
+							"h": 771,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1154,
+							"h": 771,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149635881600372700,
+					"id_str": "1149635881600372736",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/D_RTvkfVUAAJSVe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_RTvkfVUAAJSVe.jpg",
+					"url": "https://t.co/tWxF12FAqT",
+					"display_url": "pic.twitter.com/tWxF12FAqT",
+					"expanded_url": "https://twitter.com/thomas_jesson/status/1149636235356327942/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1154,
+							"h": 771,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1154,
+							"h": 771,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3091527256,
+			"id_str": "3091527256",
+			"name": "Tom Jesson",
+			"screen_name": "thomas_jesson",
+			"location": "",
+			"description": "Pain physio in Newcastle and Lincoln, UK.",
+			"url": "https://t.co/Qx8OGvO6Dm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qx8OGvO6Dm",
+							"expanded_url": "https://unfortunatetrivializations.wordpress.com/",
+							"display_url": "…ortunatetrivializations.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 927,
+			"friends_count": 203,
+			"listed_count": 11,
+			"created_at": "Fri Mar 13 22:30:50 +0000 2015",
+			"favourites_count": 7092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2109,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1137775578910789632/qFdcIvvB_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137775578910789632/qFdcIvvB_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3091527256/1560106488",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Patient made this 😍 https://t.co/tWxF12FAqT"
+	},
+	{
+		"created_at": "Fri Jul 12 21:46:19 +0000 2019",
+		"id": 1149797159300149200,
+		"id_str": "1149797159300149249",
+		"full_text": "@willfoth Great race 👍",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "willfoth",
+					"name": "William Fotheringham",
+					"id": 151005980,
+					"id_str": "151005980",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1149796135135010800,
+		"in_reply_to_status_id_str": "1149796135135010817",
+		"in_reply_to_user_id": 151005980,
+		"in_reply_to_user_id_str": "151005980",
+		"in_reply_to_screen_name": "willfoth",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1584,
+			"friends_count": 2501,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5032,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@willfoth Great race 👍"
+	},
+	{
+		"created_at": "Fri Jul 12 18:16:44 +0000 2019",
+		"id": 1149744416007045100,
+		"id_str": "1149744416007045120",
+		"full_text": "@JackAChew This is from 2011 👇 - same haircut 🤣👍 https://t.co/lZam2Dokkr",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JackAChew",
+					"name": "Jack Chew",
+					"id": 868558446,
+					"id_str": "868558446",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1149744411569512400,
+					"id_str": "1149744411569512450",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/D_S2c2IXYAIwfto.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_S2c2IXYAIwfto.jpg",
+					"url": "https://t.co/lZam2Dokkr",
+					"display_url": "pic.twitter.com/lZam2Dokkr",
+					"expanded_url": "https://twitter.com/beardedPT/status/1149744416007045120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149744411569512400,
+					"id_str": "1149744411569512450",
+					"indices": [
+						49,
+						72
+					],
+					"media_url": "http://pbs.twimg.com/media/D_S2c2IXYAIwfto.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_S2c2IXYAIwfto.jpg",
+					"url": "https://t.co/lZam2Dokkr",
+					"display_url": "pic.twitter.com/lZam2Dokkr",
+					"expanded_url": "https://twitter.com/beardedPT/status/1149744416007045120/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 540,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1149738438402461700,
+		"in_reply_to_status_id_str": "1149738438402461704",
+		"in_reply_to_user_id": 868558446,
+		"in_reply_to_user_id_str": "868558446",
+		"in_reply_to_screen_name": "JackAChew",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1584,
+			"friends_count": 2501,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5032,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JackAChew This is from 2011 👇 - same haircut 🤣👍 https://t.co/lZam2Dokkr"
+	},
+	{
+		"created_at": "Fri Jul 12 18:09:14 +0000 2019",
+		"id": 1149742527316156400,
+		"id_str": "1149742527316156416",
+		"full_text": "@JackAChew That’s true 👍😊🤷‍♂️",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JackAChew",
+					"name": "Jack Chew",
+					"id": 868558446,
+					"id_str": "868558446",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1149738438402461700,
+		"in_reply_to_status_id_str": "1149738438402461704",
+		"in_reply_to_user_id": 868558446,
+		"in_reply_to_user_id_str": "868558446",
+		"in_reply_to_screen_name": "JackAChew",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1584,
+			"friends_count": 2501,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5032,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JackAChew That’s true 👍😊🤷‍♂️"
+	},
+	{
+		"created_at": "Fri Jul 12 17:47:56 +0000 2019",
+		"id": 1149737167503220700,
+		"id_str": "1149737167503220736",
+		"full_text": "@JackAChew Where’s the wet look gel? 😉😂",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JackAChew",
+					"name": "Jack Chew",
+					"id": 868558446,
+					"id_str": "868558446",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1149736094067568600,
+		"in_reply_to_status_id_str": "1149736094067568641",
+		"in_reply_to_user_id": 868558446,
+		"in_reply_to_user_id_str": "868558446",
+		"in_reply_to_screen_name": "JackAChew",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1584,
+			"friends_count": 2501,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5032,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JackAChew Where’s the wet look gel? 😉😂"
+	},
+	{
+		"created_at": "Fri Jul 12 17:45:58 +0000 2019",
+		"id": 1149725864680153100,
+		"id_str": "1149736672755691520",
+		"full_text": "Let’s change the way we move 🚲\n\nEx-pro cyclist @Chris_Boardman talks sense on transport, mobility, sustainability and humanity in this video.\n\nHis choice to not wear a helmet stirs up a hornets nest of unconscious bias and vitriol. #Comments \n\n#Humans 😔\n\nhttps://t.co/6xiEHvkd5T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Comments",
+					"indices": [
+						232,
+						241
+					]
+				},
+				{
+					"text": "Humans",
+					"indices": [
+						244,
+						251
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Chris_Boardman",
+					"name": "Chris Boardman",
+					"id": 37397798,
+					"id_str": "37397798",
+					"indices": [
+						47,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6xiEHvkd5T",
+					"expanded_url": "https://twitter.com/britishcycling/status/1148622845695557632?s=21",
+					"display_url": "twitter.com/britishcycling…",
+					"indices": [
+						255,
+						278
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 412127340,
+			"id_str": "412127340",
+			"name": "Alan J Taylor",
+			"screen_name": "TaylorAlanJ",
+			"location": "Nottingham",
+			"description": "Ass' Prof, wordsmith, physio, educator, med-legal witness, haemodynamics. Ex-Pro Tour of Britain cyclist. Player of music/songs @LawrenceCounty RT's = random",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5650,
+			"friends_count": 1242,
+			"listed_count": 122,
+			"created_at": "Mon Nov 14 09:08:19 +0000 2011",
+			"favourites_count": 33510,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22834,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/691706861809209344/uCsn0x1s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/691706861809209344/uCsn0x1s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/412127340/1453843584",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1148622845695557600,
+		"quoted_status_id_str": "1148622845695557632",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6xiEHvkd5T",
+			"expanded": "https://twitter.com/britishcycling/status/1148622845695557632?s=21",
+			"display": "twitter.com/britishcycling…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 09 16:00:01 +0000 2019",
+			"id": 1148622845695557600,
+			"id_str": "1148622845695557632",
+			"full_text": "Cyclists aren’t the ‘scourge of the streets’. They are mothers, fathers, grandparents and children all doing their bit to make Britain a healthier, greener and more liveable place.\n\nShare this video from @Chris_Boardman to help us make our message loud and clear to @channel5_tv https://t.co/PDkRGEjsRi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Chris_Boardman",
+						"name": "Chris Boardman",
+						"id": 37397798,
+						"id_str": "37397798",
+						"indices": [
+							204,
+							219
+						]
+					},
+					{
+						"screen_name": "channel5_tv",
+						"name": "Channel 5",
+						"id": 20427376,
+						"id_str": "20427376",
+						"indices": [
+							266,
+							278
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1148610320832876500,
+						"id_str": "1148610320832876545",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/D_Cvwe9XUAADUT6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_Cvwe9XUAADUT6.jpg",
+						"url": "https://t.co/PDkRGEjsRi",
+						"display_url": "pic.twitter.com/PDkRGEjsRi",
+						"expanded_url": "https://twitter.com/BritishCycling/status/1148622845695557632/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1148610320832876500,
+						"id_str": "1148610320832876545",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/D_Cvwe9XUAADUT6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D_Cvwe9XUAADUT6.jpg",
+						"url": "https://t.co/PDkRGEjsRi",
+						"display_url": "pic.twitter.com/PDkRGEjsRi",
+						"expanded_url": "https://twitter.com/BritishCycling/status/1148622845695557632/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 72050,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1148610320832876545/vid/480x270/u-ASSul6-p3CyJ4n.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1148610320832876545/pl/k7UFFafjWp2QqJsx.m3u8?tag=13"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1148610320832876545/vid/1280x720/PVGQpZyBscr_uGqB.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1148610320832876545/vid/640x360/06kl_WuA5OInaeu_.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 299160581,
+				"id_str": "299160581",
+				"name": "British Cycling",
+				"screen_name": "BritishCycling",
+				"location": "Manchester",
+				"description": "The official account of British Cycling. Tweeting GB Cycling Team news, campaigning updates, membership offers & more.",
+				"url": "https://t.co/L3xIDvQYUQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/L3xIDvQYUQ",
+								"expanded_url": "http://www.britishcycling.org.uk/",
+								"display_url": "britishcycling.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 165255,
+				"friends_count": 909,
+				"listed_count": 1693,
+				"created_at": "Sun May 15 16:19:23 +0000 2011",
+				"favourites_count": 6749,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 37202,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/994920769506480129/52imBVfv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/994920769506480129/52imBVfv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/299160581/1549464743",
+				"profile_link_color": "4065D6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 14985,
+			"favorite_count": 14966,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Let’s change the way we move 🚲\n\nEx-pro cyclist @Chris_Boardman talks sense on transport, mobility, sustainability and humanity in this video.\n\nHis choice to not wear a helmet stirs up a hornets nest of unconscious bias and vitriol. #Comments \n\n#Humans 😔\n\nhttps://t.co/6xiEHvkd5T"
+	},
+	{
+		"created_at": "Fri Jul 12 14:44:31 +0000 2019",
+		"id": 1149691008671801300,
+		"id_str": "1149691008671801344",
+		"full_text": "@RogerKerry1 @TaylorAlanJ @DaniBrailsford https://t.co/wNul4IerNY",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "TaylorAlanJ",
+					"name": "Alan J Taylor",
+					"id": 412127340,
+					"id_str": "412127340",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "DaniBrailsford",
+					"name": "Danielle Brailsford",
+					"id": 928535403774267400,
+					"id_str": "928535403774267392",
+					"indices": [
+						26,
+						41
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1149691001088499700,
+					"id_str": "1149691001088499712",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D_SF38lX4AAFum8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D_SF38lX4AAFum8.jpg",
+					"url": "https://t.co/wNul4IerNY",
+					"display_url": "pic.twitter.com/wNul4IerNY",
+					"expanded_url": "https://twitter.com/beardedPT/status/1149691008671801344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 256,
+							"h": 190,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 256,
+							"h": 190,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 256,
+							"h": 190,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1149691001088499700,
+					"id_str": "1149691001088499712",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/D_SF38lX4AAFum8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/D_SF38lX4AAFum8.jpg",
+					"url": "https://t.co/wNul4IerNY",
+					"display_url": "pic.twitter.com/wNul4IerNY",
+					"expanded_url": "https://twitter.com/beardedPT/status/1149691008671801344/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 256,
+							"h": 190,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 256,
+							"h": 190,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 256,
+							"h": 190,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							128,
+							95
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/D_SF38lX4AAFum8.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1149678690185490400,
+		"in_reply_to_status_id_str": "1149678690185490434",
+		"in_reply_to_user_id": 396832258,
+		"in_reply_to_user_id_str": "396832258",
+		"in_reply_to_screen_name": "RogerKerry1",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1584,
+			"friends_count": 2501,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12824,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5032,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@RogerKerry1 @TaylorAlanJ @DaniBrailsford https://t.co/wNul4IerNY"
+	},
+	{
 		"created_at": "Thu Jul 11 21:40:59 +0000 2019",
 		"id": 1149433426979639300,
 		"id_str": "1149433426979639296",
