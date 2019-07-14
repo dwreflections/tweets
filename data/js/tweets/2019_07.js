@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 13 19:33:30 +0000 2019",
+		"id": 1150126124288106500,
+		"id_str": "1150126124288106496",
+		"full_text": "@JonRoom Nah... totally agree! WHY!",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JonRoom",
+					"name": "Jon Room",
+					"id": 20102845,
+					"id_str": "20102845",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1150124227502268400,
+		"in_reply_to_status_id_str": "1150124227502268417",
+		"in_reply_to_user_id": 20102845,
+		"in_reply_to_user_id_str": "20102845",
+		"in_reply_to_screen_name": "JonRoom",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1584,
+			"friends_count": 2502,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JonRoom Nah... totally agree! WHY!"
+	},
+	{
+		"created_at": "Sat Jul 13 08:19:30 +0000 2019",
+		"id": 1149956505233514500,
+		"id_str": "1149956505233514496",
+		"full_text": "@Prof_IeuanEllis @StaffsUni A good mate from my access course is one of them 🙌✨",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Prof_IeuanEllis",
+					"name": "Ieuan Ellis 🎓🏃🌍",
+					"id": 1315334306,
+					"id_str": "1315334306",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "StaffsUni",
+					"name": "Staffordshire Uni",
+					"id": 66952977,
+					"id_str": "66952977",
+					"indices": [
+						17,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1149691193380487200,
+		"in_reply_to_status_id_str": "1149691193380487171",
+		"in_reply_to_user_id": 1315334306,
+		"in_reply_to_user_id_str": "1315334306",
+		"in_reply_to_screen_name": "Prof_IeuanEllis",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1584,
+			"friends_count": 2502,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Prof_IeuanEllis @StaffsUni A good mate from my access course is one of them 🙌✨"
+	},
+	{
+		"created_at": "Sat Jul 13 08:17:58 +0000 2019",
+		"id": 1149956119097483300,
+		"id_str": "1149956119097483264",
+		"full_text": "@EMAHPInfo I have heard similar things about the women’s World Cup ... 🙄",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EMAHPInfo",
+					"name": "Euan McComiskie",
+					"id": 2438541736,
+					"id_str": "2438541736",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1149746935512862700,
+		"in_reply_to_status_id_str": "1149746935512862720",
+		"in_reply_to_user_id": 2438541736,
+		"in_reply_to_user_id_str": "2438541736",
+		"in_reply_to_screen_name": "EMAHPInfo",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1584,
+			"friends_count": 2502,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5036,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EMAHPInfo I have heard similar things about the women’s World Cup ... 🙄"
+	},
+	{
 		"created_at": "Fri Jul 12 22:59:00 +0000 2019",
 		"id": 1149636235356328000,
 		"id_str": "1149815451096145921",
@@ -443,7 +732,7 @@ Grailbird.data.tweets_2019_07 =
 		"created_at": "Fri Jul 12 18:09:14 +0000 2019",
 		"id": 1149742527316156400,
 		"id_str": "1149742527316156416",
-		"full_text": "@JackAChew That’s true 👍😊🤷‍♂️",
+		"full_text": "@JackAChew That’s true 👍😊🤷♂️",
 		"truncated": false,
 		"display_text_range": [
 			11,
@@ -530,7 +819,7 @@ Grailbird.data.tweets_2019_07 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@JackAChew That’s true 👍😊🤷‍♂️"
+		"text": "@JackAChew That’s true 👍😊🤷♂️"
 	},
 	{
 		"created_at": "Fri Jul 12 17:47:56 +0000 2019",
