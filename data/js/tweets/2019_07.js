@@ -1,6 +1,421 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 14 23:45:24 +0000 2019",
+		"id": 1150551901500530700,
+		"id_str": "1150551901500530689",
+		"full_text": "Do you remember when you joined Twitter? I do! #MyTwitterAnniversary https://t.co/CRb1o85I2j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MyTwitterAnniversary",
+					"indices": [
+						47,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1150551887697141800,
+					"id_str": "1150551887697141761",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/D_eU2JHX4AEQvbo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_eU2JHX4AEQvbo.jpg",
+					"url": "https://t.co/CRb1o85I2j",
+					"display_url": "pic.twitter.com/CRb1o85I2j",
+					"expanded_url": "https://twitter.com/beardedPT/status/1150551901500530689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1150551887697141800,
+					"id_str": "1150551887697141761",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/D_eU2JHX4AEQvbo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_eU2JHX4AEQvbo.jpg",
+					"url": "https://t.co/CRb1o85I2j",
+					"display_url": "pic.twitter.com/CRb1o85I2j",
+					"expanded_url": "https://twitter.com/beardedPT/status/1150551901500530689/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1585,
+			"friends_count": 2505,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do you remember when you joined Twitter? I do! #MyTwitterAnniversary https://t.co/CRb1o85I2j"
+	},
+	{
+		"created_at": "Sun Jul 14 15:11:00 +0000 2019",
+		"id": 1150422451186208800,
+		"id_str": "1150422451186208769",
+		"full_text": "@3PARA_MED @Jack_R_Potter @theRCN @RMayNurseDir Oh I missed the BFA! 🙄🤷‍♂️🙈\n🤣",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "3PARA_MED",
+					"name": "PREHOSP_Mil_FOAMed",
+					"id": 711299831260643300,
+					"id_str": "711299831260643328",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Jack_R_Potter",
+					"name": "Jack Potter",
+					"id": 4603404135,
+					"id_str": "4603404135",
+					"indices": [
+						11,
+						25
+					]
+				},
+				{
+					"screen_name": "theRCN",
+					"name": "The RCN",
+					"id": 54506896,
+					"id_str": "54506896",
+					"indices": [
+						26,
+						33
+					]
+				},
+				{
+					"screen_name": "RMayNurseDir",
+					"name": "Ruth May",
+					"id": 613328014,
+					"id_str": "613328014",
+					"indices": [
+						34,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1150421723352686600,
+		"in_reply_to_status_id_str": "1150421723352686592",
+		"in_reply_to_user_id": 711299831260643300,
+		"in_reply_to_user_id_str": "711299831260643328",
+		"in_reply_to_screen_name": "3PARA_MED",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1585,
+			"friends_count": 2505,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@3PARA_MED @Jack_R_Potter @theRCN @RMayNurseDir Oh I missed the BFA! 🙄🤷‍♂️🙈\n🤣"
+	},
+	{
+		"created_at": "Sun Jul 14 15:00:18 +0000 2019",
+		"id": 1150419756463349800,
+		"id_str": "1150419756463349761",
+		"full_text": "@3PARA_MED @Jack_R_Potter @theRCN @RMayNurseDir Ally!",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "3PARA_MED",
+					"name": "PREHOSP_Mil_FOAMed",
+					"id": 711299831260643300,
+					"id_str": "711299831260643328",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Jack_R_Potter",
+					"name": "Jack Potter",
+					"id": 4603404135,
+					"id_str": "4603404135",
+					"indices": [
+						11,
+						25
+					]
+				},
+				{
+					"screen_name": "theRCN",
+					"name": "The RCN",
+					"id": 54506896,
+					"id_str": "54506896",
+					"indices": [
+						26,
+						33
+					]
+				},
+				{
+					"screen_name": "RMayNurseDir",
+					"name": "Ruth May",
+					"id": 613328014,
+					"id_str": "613328014",
+					"indices": [
+						34,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1150206814266376200,
+		"in_reply_to_status_id_str": "1150206814266376192",
+		"in_reply_to_user_id": 711299831260643300,
+		"in_reply_to_user_id_str": "711299831260643328",
+		"in_reply_to_screen_name": "3PARA_MED",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1585,
+			"friends_count": 2505,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12866,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@3PARA_MED @Jack_R_Potter @theRCN @RMayNurseDir Ally!"
+	},
+	{
 		"created_at": "Sat Jul 13 19:33:30 +0000 2019",
 		"id": 1150126124288106500,
 		"id_str": "1150126124288106496",
