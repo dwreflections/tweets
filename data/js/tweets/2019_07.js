@@ -1,6 +1,442 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Mon Jul 15 20:56:56 +0000 2019",
+		"id": 1150871896508063700,
+		"id_str": "1150871896508063750",
+		"full_text": "@Nick_Leo81 Ask*",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nick_Leo81",
+					"name": "Niki S 🏎",
+					"id": 765870819385966600,
+					"id_str": "765870819385966593",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1150866802022461400,
+		"in_reply_to_status_id_str": "1150866802022461447",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1585,
+			"friends_count": 2509,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5044,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@Nick_Leo81 Ask*"
+	},
+	{
+		"created_at": "Mon Jul 15 20:38:18 +0000 2019",
+		"id": 1150777733385007100,
+		"id_str": "1150867207091568640",
+		"full_text": "What approaches/modalities are UK MSK physiotherapists using? What do you think should be included/removed from UK MSK undergraduate teaching? Add your voice= influence education https://t.co/EQcK5Fni9l @andypbennett79 @physio_andrew @neiljlangridge @NeilOConnell @Brad_Neal_07",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andypbennett79",
+					"name": "Andrew Bennett",
+					"id": 922882248,
+					"id_str": "922882248",
+					"indices": [
+						203,
+						218
+					]
+				},
+				{
+					"screen_name": "physio_andrew",
+					"name": "Andrew Oliver",
+					"id": 935092560774692900,
+					"id_str": "935092560774692865",
+					"indices": [
+						219,
+						233
+					]
+				},
+				{
+					"screen_name": "neiljlangridge",
+					"name": "Neil Langridge",
+					"id": 1890279319,
+					"id_str": "1890279319",
+					"indices": [
+						234,
+						249
+					]
+				},
+				{
+					"screen_name": "NeilOConnell",
+					"name": "Neil O'Connell",
+					"id": 149072907,
+					"id_str": "149072907",
+					"indices": [
+						250,
+						263
+					]
+				},
+				{
+					"screen_name": "Brad_Neal_07",
+					"name": "Dr Bradley Neal",
+					"id": 197556804,
+					"id_str": "197556804",
+					"indices": [
+						264,
+						277
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EQcK5Fni9l",
+					"expanded_url": "https://liverpool.onlinesurveys.ac.uk/mskcurriculumsurvey",
+					"display_url": "liverpool.onlinesurveys.ac.uk/mskcurriculums…",
+					"indices": [
+						179,
+						202
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 596564225,
+			"id_str": "596564225",
+			"name": "Cliona McRobert",
+			"screen_name": "ClionaMcR",
+			"location": "Merseyside, U.K.",
+			"description": "Physiotherapy Lecturer @LivUni. PhD in shoulder pain from @KeeleUniversity. Tea drinker ☘️. Views are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 560,
+			"friends_count": 635,
+			"listed_count": 17,
+			"created_at": "Fri Jun 01 15:40:59 +0000 2012",
+			"favourites_count": 862,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2068,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/763494727811493888/0qUku3E-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/763494727811493888/0qUku3E-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/596564225/1524869467",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What approaches/modalities are UK MSK physiotherapists using? What do you think should be included/removed from UK MSK undergraduate teaching? Add your voice= influence education https://t.co/EQcK5Fni9l @andypbennett79 @physio_andrew @neiljlangridge @NeilOConnell @Brad_Neal_07"
+	},
+	{
+		"created_at": "Mon Jul 15 20:36:42 +0000 2019",
+		"id": 1150866802022461400,
+		"id_str": "1150866802022461447",
+		"full_text": "@Nick_Leo81 👍👍... As him where he gets his shirts from? 👕",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nick_Leo81",
+					"name": "Niki S 🏎",
+					"id": 765870819385966600,
+					"id_str": "765870819385966593",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1150855938699681800,
+		"in_reply_to_status_id_str": "1150855938699681792",
+		"in_reply_to_user_id": 765870819385966600,
+		"in_reply_to_user_id_str": "765870819385966593",
+		"in_reply_to_screen_name": "Nick_Leo81",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1585,
+			"friends_count": 2509,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12893,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5044,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Nick_Leo81 👍👍... As him where he gets his shirts from? 👕"
+	},
+	{
+		"created_at": "Mon Jul 15 12:37:45 +0000 2019",
+		"id": 1150716489764413400,
+		"id_str": "1150746269956149248",
+		"full_text": "Alan Turing revealed as the new face of the Bank of England's £50 note \n\nThe computer pioneer is celebrated for his code-cracking work that proved vital in World War Two\n \nhttps://t.co/EPSWae9RAT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EPSWae9RAT",
+					"expanded_url": "http://bbc.in/32tDiWD",
+					"display_url": "bbc.in/32tDiWD",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 612473,
+			"id_str": "612473",
+			"name": "BBC News (UK)",
+			"screen_name": "BBCNews",
+			"location": "London",
+			"description": "News, features and analysis. For world news, follow @BBCWorld. Breaking news, follow @BBCBreaking. Latest sport news @BBCSport. Our Instagram: BBCNews",
+			"url": "https://t.co/vBzl7LNCCQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vBzl7LNCCQ",
+							"expanded_url": "http://www.bbc.co.uk/news",
+							"display_url": "bbc.co.uk/news",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10064883,
+			"friends_count": 101,
+			"listed_count": 41299,
+			"created_at": "Mon Jan 08 08:05:57 +0000 2007",
+			"favourites_count": 42,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 389660,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1150718511129477120/2N_GW7HR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1150718511129477120/2N_GW7HR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/612473/1529425670",
+			"profile_link_color": "1F527B",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "5A5A5A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 680,
+		"favorite_count": 2390,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Alan Turing revealed as the new face of the Bank of England's £50 note \n\nThe computer pioneer is celebrated for his code-cracking work that proved vital in World War Two\n \nhttps://t.co/EPSWae9RAT"
+	},
+	{
 		"created_at": "Sun Jul 14 23:45:24 +0000 2019",
 		"id": 1150551901500530700,
 		"id_str": "1150551901500530689",
@@ -173,7 +609,7 @@ Grailbird.data.tweets_2019_07 =
 		"created_at": "Sun Jul 14 15:11:00 +0000 2019",
 		"id": 1150422451186208800,
 		"id_str": "1150422451186208769",
-		"full_text": "@3PARA_MED @Jack_R_Potter @theRCN @RMayNurseDir Oh I missed the BFA! 🙄🤷‍♂️🙈\n🤣",
+		"full_text": "@3PARA_MED @Jack_R_Potter @theRCN @RMayNurseDir Oh I missed the BFA! 🙄🤷♂️🙈\n🤣",
 		"truncated": false,
 		"display_text_range": [
 			48,
@@ -290,7 +726,7 @@ Grailbird.data.tweets_2019_07 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@3PARA_MED @Jack_R_Potter @theRCN @RMayNurseDir Oh I missed the BFA! 🙄🤷‍♂️🙈\n🤣"
+		"text": "@3PARA_MED @Jack_R_Potter @theRCN @RMayNurseDir Oh I missed the BFA! 🙄🤷♂️🙈\n🤣"
 	},
 	{
 		"created_at": "Sun Jul 14 15:00:18 +0000 2019",
