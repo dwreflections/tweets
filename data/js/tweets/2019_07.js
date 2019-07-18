@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Wed Jul 17 14:53:17 +0000 2019",
+		"id": 1151505155860369400,
+		"id_str": "1151505155860369409",
+		"full_text": "Just catching up with the #EBMLive2019 tweets! Definitely something I need to put on my to do list for 2020. Shame, I missed \nJohn Ioannidis though 👑 https://t.co/OtsrIjxrB3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EBMLive2019",
+					"indices": [
+						26,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OtsrIjxrB3",
+					"expanded_url": "https://twitter.com/mgtmccartney/status/1151503300916891648",
+					"display_url": "twitter.com/mgtmccartney/s…",
+					"indices": [
+						150,
+						173
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1587,
+			"friends_count": 2515,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12965,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1151503300916891600,
+		"quoted_status_id_str": "1151503300916891648",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OtsrIjxrB3",
+			"expanded": "https://twitter.com/mgtmccartney/status/1151503300916891648",
+			"display": "twitter.com/mgtmccartney/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 17 14:45:55 +0000 2019",
+			"id": 1151503300916891600,
+			"id_str": "1151503300916891648",
+			"full_text": "#ebmlive2019 a treat right at the end of 3 brilliant/exhausting days https://t.co/UpDTiQVPNt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				68
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ebmlive2019",
+						"indices": [
+							0,
+							12
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/UpDTiQVPNt",
+						"expanded_url": "https://twitter.com/EBM_Live/status/1151499312398045186",
+						"display_url": "twitter.com/EBM_Live/statu…",
+						"indices": [
+							69,
+							92
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 134573771,
+				"id_str": "134573771",
+				"name": "Margaret McCartney",
+				"screen_name": "mgtmccartney",
+				"location": "Glasgow",
+				"description": "evidence    https://t.co/RcZuo5RJbq",
+				"url": "https://t.co/y3LQZhbuGF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/y3LQZhbuGF",
+								"expanded_url": "http://www.margaretmccartney.com/blog",
+								"display_url": "margaretmccartney.com/blog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/RcZuo5RJbq",
+								"expanded_url": "http://www.whopaysthisdoctor.org/doctor/6",
+								"display_url": "whopaysthisdoctor.org/doctor/6",
+								"indices": [
+									12,
+									35
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 19910,
+				"friends_count": 1718,
+				"listed_count": 406,
+				"created_at": "Sun Apr 18 20:47:46 +0000 2010",
+				"favourites_count": 7422,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 45267,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/542462522989621251/7KwpABXb_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/542462522989621251/7KwpABXb_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/134573771/1496993489",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1151499312398045200,
+			"quoted_status_id_str": "1151499312398045186",
+			"quoted_status_permalink": {
+				"url": "https://t.co/UpDTiQVPNt",
+				"expanded": "https://twitter.com/EBM_Live/status/1151499312398045186",
+				"display": "twitter.com/EBM_Live/statu…"
+			},
+			"retweet_count": 6,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just catching up with the #EBMLive2019 tweets! Definitely something I need to put on my to do list for 2020. Shame, I missed \nJohn Ioannidis though 👑 https://t.co/OtsrIjxrB3"
+	},
+	{
 		"created_at": "Tue Jul 16 22:46:11 +0000 2019",
 		"id": 1151261774542454800,
 		"id_str": "1151261774542454784",
