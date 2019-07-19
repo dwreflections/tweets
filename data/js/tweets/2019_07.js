@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 18 17:52:05 +0000 2019",
+		"id": 1151567475814948900,
+		"id_str": "1151912538214457344",
+		"full_text": "How to say this simply? I lived in the US until I was 37 &amp; had private health insurance most of my life. For the past 5 yrs I’ve lived in the UK &amp; use the NHS. The NHS is a HUGE part of why I might never move back to the US.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 22084427,
+			"id_str": "22084427",
+			"name": "rob delaney",
+			"screen_name": "robdelaney",
+			"location": "London, England",
+			"description": "🇬🇧UK • Watch all 4 series of #CATASTROPHE on @All4: https://t.co/mJ2KniUbb0 🇺🇸US • Watch it on @PrimeVideo: https://t.co/FrhexBZldI *I don’t often check DMs*",
+			"url": "https://t.co/ufmjKWRzV0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ufmjKWRzV0",
+							"expanded_url": "http://robdelaney.com",
+							"display_url": "robdelaney.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/mJ2KniUbb0",
+							"expanded_url": "http://bit.ly/1CKmZ3P",
+							"display_url": "bit.ly/1CKmZ3P",
+							"indices": [
+								52,
+								75
+							]
+						},
+						{
+							"url": "https://t.co/FrhexBZldI",
+							"expanded_url": "http://amzn.to/2o7OcQQ",
+							"display_url": "amzn.to/2o7OcQQ",
+							"indices": [
+								108,
+								131
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1572149,
+			"friends_count": 3090,
+			"listed_count": 17159,
+			"created_at": "Fri Feb 27 00:19:20 +0000 2009",
+			"favourites_count": 420234,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 55616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "9F9AE6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062264728804823045/mjWindTf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062264728804823045/mjWindTf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/22084427/1544621302",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6439,
+		"favorite_count": 43948,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "How to say this simply? I lived in the US until I was 37 &amp; had private health insurance most of my life. For the past 5 yrs I’ve lived in the UK &amp; use the NHS. The NHS is a HUGE part of why I might never move back to the US."
+	},
+	{
 		"created_at": "Wed Jul 17 14:53:17 +0000 2019",
 		"id": 1151505155860369400,
 		"id_str": "1151505155860369409",
