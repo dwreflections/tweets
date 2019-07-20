@@ -1,6 +1,269 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 19 16:36:26 +0000 2019",
+		"id": 1152255890759790600,
+		"id_str": "1152255890759790592",
+		"full_text": "Nottingham you have been First Class 👨‍🎓🎓🙌 - @UoNPhysio #uongraduation #Classof2019 #physiotherapist https://t.co/6PEFNNvmDl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "uongraduation",
+					"indices": [
+						56,
+						70
+					]
+				},
+				{
+					"text": "Classof2019",
+					"indices": [
+						71,
+						83
+					]
+				},
+				{
+					"text": "physiotherapist",
+					"indices": [
+						84,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						45,
+						55
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1152255843116695600,
+					"id_str": "1152255843116695554",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/D_2ilZtWwAIZwzz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_2ilZtWwAIZwzz.jpg",
+					"url": "https://t.co/6PEFNNvmDl",
+					"display_url": "pic.twitter.com/6PEFNNvmDl",
+					"expanded_url": "https://twitter.com/beardedPT/status/1152255890759790592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1152255843116695600,
+					"id_str": "1152255843116695554",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/D_2ilZtWwAIZwzz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_2ilZtWwAIZwzz.jpg",
+					"url": "https://t.co/6PEFNNvmDl",
+					"display_url": "pic.twitter.com/6PEFNNvmDl",
+					"expanded_url": "https://twitter.com/beardedPT/status/1152255890759790592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1152255842940534800,
+					"id_str": "1152255842940534785",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/D_2ilZDWwAEhotc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D_2ilZDWwAEhotc.jpg",
+					"url": "https://t.co/6PEFNNvmDl",
+					"display_url": "pic.twitter.com/6PEFNNvmDl",
+					"expanded_url": "https://twitter.com/beardedPT/status/1152255890759790592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Newly Qualified Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1590,
+			"friends_count": 2517,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 12988,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5058,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146043716387442688/PkPpaozN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "7d7bdec12d2549d4",
+			"url": "https://api.twitter.com/1.1/geo/id/7d7bdec12d2549d4.json",
+			"place_type": "city",
+			"name": "Nottingham",
+			"full_name": "Nottingham, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.2501363,
+							52.921473
+						],
+						[
+							-1.094396,
+							52.921473
+						],
+						[
+							-1.094396,
+							53.017965
+						],
+						[
+							-1.2501363,
+							53.017965
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nottingham you have been First Class 👨‍🎓🎓🙌 - @UoNPhysio #uongraduation #Classof2019 #physiotherapist https://t.co/6PEFNNvmDl"
+	},
+	{
 		"created_at": "Thu Jul 18 17:52:05 +0000 2019",
 		"id": 1151567475814948900,
 		"id_str": "1151912538214457344",
