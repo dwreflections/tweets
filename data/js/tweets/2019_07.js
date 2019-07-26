@@ -1,6 +1,491 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Thu Jul 25 21:03:54 +0000 2019",
+		"id": 1154497526357213200,
+		"id_str": "1154497526357213184",
+		"full_text": "@AnyaPhysio1417 @thecsp See you there #PhysioUK2019",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PhysioUK2019",
+					"indices": [
+						38,
+						51
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnyaPhysio1417",
+					"name": "Anya Lotay",
+					"id": 855539502412156900,
+					"id_str": "855539502412156928",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						16,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1154489891939426300,
+		"in_reply_to_status_id_str": "1154489891939426304",
+		"in_reply_to_user_id": 855539502412156900,
+		"in_reply_to_user_id_str": "855539502412156928",
+		"in_reply_to_screen_name": "AnyaPhysio1417",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational  Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1601,
+			"friends_count": 2538,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AnyaPhysio1417 @thecsp See you there #PhysioUK2019"
+	},
+	{
+		"created_at": "Thu Jul 25 20:19:18 +0000 2019",
+		"id": 1154486303448170500,
+		"id_str": "1154486303448170496",
+		"full_text": "Hubris https://t.co/FV90aDPx20",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			6
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FV90aDPx20",
+					"expanded_url": "https://twitter.com/jenidubs/status/1154433552810946561",
+					"display_url": "twitter.com/jenidubs/statu…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational  Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1601,
+			"friends_count": 2538,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13118,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1154433552810946600,
+		"quoted_status_id_str": "1154433552810946561",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FV90aDPx20",
+			"expanded": "https://twitter.com/jenidubs/status/1154433552810946561",
+			"display": "twitter.com/jenidubs/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 25 16:49:41 +0000 2019",
+			"id": 1154433552810946600,
+			"id_str": "1154433552810946561",
+			"full_text": "Here’s @Jacob_Rees_Mogg alleging the government has has had success with nursing numbers.\n\nWeird cos last week he walked past me &amp; 50 nurses in parliament who were telling MPs about the nursing CRISIS, I guess he didn’t see us  🤷🏻‍♀️ \n\n#SafeStaffingSavesLives https://t.co/9TSyu6cXmE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				287
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SafeStaffingSavesLives",
+						"indices": [
+							240,
+							263
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Jacob_Rees_Mogg",
+						"name": "Jacob Rees-Mogg",
+						"id": 885838630928994300,
+						"id_str": "885838630928994304",
+						"indices": [
+							7,
+							23
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1154400515209539600,
+						"id_str": "1154400515209539584",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1154400515209539584/pu/img/6HhnRSzglIesV-nE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1154400515209539584/pu/img/6HhnRSzglIesV-nE.jpg",
+						"url": "https://t.co/9TSyu6cXmE",
+						"display_url": "pic.twitter.com/9TSyu6cXmE",
+						"expanded_url": "https://twitter.com/TheSimonGilbert/status/1154405948569587712/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 404,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 404,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1154405948569587700,
+						"source_status_id_str": "1154405948569587712",
+						"source_user_id": 167417966,
+						"source_user_id_str": "167417966"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1154400515209539600,
+						"id_str": "1154400515209539584",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1154400515209539584/pu/img/6HhnRSzglIesV-nE.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1154400515209539584/pu/img/6HhnRSzglIesV-nE.jpg",
+						"url": "https://t.co/9TSyu6cXmE",
+						"display_url": "pic.twitter.com/9TSyu6cXmE",
+						"expanded_url": "https://twitter.com/TheSimonGilbert/status/1154405948569587712/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 720,
+								"h": 404,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 404,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1154405948569587700,
+						"source_status_id_str": "1154405948569587712",
+						"source_user_id": 167417966,
+						"source_user_id_str": "167417966",
+						"video_info": {
+							"aspect_ratio": [
+								180,
+								101
+							],
+							"duration_millis": 50040,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1154400515209539584/pu/vid/480x270/TCTZehIvwKa-PSBK.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1154400515209539584/pu/pl/Sl3Dv_QWHNMNAfpP.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1154400515209539584/pu/vid/720x404/_A1qeZ7XM-Mwyafr.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 167417966,
+								"id_str": "167417966",
+								"name": "Simon Gilbert",
+								"screen_name": "TheSimonGilbert",
+								"location": "Coventry / Warwickshire",
+								"description": "BBC Political Journalist on 📻&📺 Author, was @covtelegraph chief reporter / @DailyMirror contributor. Insta & 👻: TheSimonGilbert.\nDon't shoot the messenger!",
+								"url": "https://t.co/VqDI8ygTMr",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/VqDI8ygTMr",
+												"expanded_url": "http://www.facebook.com/thesimongilbert",
+												"display_url": "facebook.com/thesimongilbert",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": []
+									}
+								},
+								"protected": false,
+								"followers_count": 9182,
+								"friends_count": 934,
+								"listed_count": 132,
+								"created_at": "Fri Jul 16 14:55:53 +0000 2010",
+								"favourites_count": 7116,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 3680,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "000000",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+								"profile_background_tile": false,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1148949708997627904/sJ-0mC0m_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148949708997627904/sJ-0mC0m_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/167417966/1531483870",
+								"profile_link_color": "1B95E0",
+								"profile_sidebar_border_color": "000000",
+								"profile_sidebar_fill_color": "000000",
+								"profile_text_color": "000000",
+								"profile_use_background_image": false,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "regular"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3342452651,
+				"id_str": "3342452651",
+				"name": "Jeni Watts",
+				"screen_name": "jenidubs",
+				"location": "",
+				"description": "Registered Nurse, @theRCN activist, @WeRGlobalNurses coordinator, she/her. Personal account and all views are my own ✌️",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3670,
+				"friends_count": 5002,
+				"listed_count": 42,
+				"created_at": "Tue Jun 23 08:21:02 +0000 2015",
+				"favourites_count": 13763,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9188,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1129839136180002816/jM23_TRh_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1129839136180002816/jM23_TRh_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3342452651/1561196505",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 91,
+			"favorite_count": 112,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "Hubris https://t.co/FV90aDPx20"
+	},
+	{
 		"created_at": "Tue Jul 23 20:54:59 +0000 2019",
 		"id": 1153770507260584000,
 		"id_str": "1153770507260583937",
