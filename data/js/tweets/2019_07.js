@@ -1,6 +1,826 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Fri Jul 26 20:12:54 +0000 2019",
+		"id": 1154847080525025300,
+		"id_str": "1154847080525025280",
+		"full_text": "If you do one thing this weekend 👇\n#socialmedia #brexit @carolecadwalla https://t.co/Lal7n5VgZ6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "socialmedia",
+					"indices": [
+						35,
+						47
+					]
+				},
+				{
+					"text": "brexit",
+					"indices": [
+						48,
+						55
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "carolecadwalla",
+					"name": "Carole Cadwalladr",
+					"id": 722242009,
+					"id_str": "722242009",
+					"indices": [
+						56,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Lal7n5VgZ6",
+					"expanded_url": "https://twitter.com/netflixuk/status/1154076408890712064",
+					"display_url": "twitter.com/netflixuk/stat…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational  Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1604,
+			"friends_count": 2542,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13134,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1154076408890712000,
+		"quoted_status_id_str": "1154076408890712064",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Lal7n5VgZ6",
+			"expanded": "https://twitter.com/netflixuk/status/1154076408890712064",
+			"display": "twitter.com/netflixuk/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 24 17:10:32 +0000 2019",
+			"id": 1154076408890712000,
+			"id_str": "1154076408890712064",
+			"full_text": "the great hack is now streaming.\n(we're aware that posting this on social media is deeply ironic) https://t.co/TWb2BXoH40",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				97
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1154074163377836000,
+						"id_str": "1154074163377836032",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/EAQaFTkXoAAbNkQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EAQaFTkXoAAbNkQ.jpg",
+						"url": "https://t.co/TWb2BXoH40",
+						"display_url": "pic.twitter.com/TWb2BXoH40",
+						"expanded_url": "https://twitter.com/NetflixUK/status/1154076408890712064/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1154074163377836000,
+						"id_str": "1154074163377836032",
+						"indices": [
+							98,
+							121
+						],
+						"media_url": "http://pbs.twimg.com/media/EAQaFTkXoAAbNkQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EAQaFTkXoAAbNkQ.jpg",
+						"url": "https://t.co/TWb2BXoH40",
+						"display_url": "pic.twitter.com/TWb2BXoH40",
+						"expanded_url": "https://twitter.com/NetflixUK/status/1154076408890712064/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 15015,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1154074163377836032/pl/ZMvqRhDx9ZFZEh4J.m3u8?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1154074163377836032/vid/480x480/v6qJOE271UQM46Qk.mp4?tag=13"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1154074163377836032/vid/320x320/dW3VHiik6EzG7GtP.mp4?tag=13"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1154074163377836032/vid/720x720/vswGmBcnHPZykaKB.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 231183280,
+				"id_str": "231183280",
+				"name": "Netflix UK & Ireland",
+				"screen_name": "NetflixUK",
+				"location": "UK & Ireland",
+				"description": "wannabe member of the scoops troop",
+				"url": "https://t.co/i4spceybKj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/i4spceybKj",
+								"expanded_url": "http://netflix.com",
+								"display_url": "netflix.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 634637,
+				"friends_count": 1846,
+				"listed_count": 1939,
+				"created_at": "Mon Dec 27 20:54:09 +0000 2010",
+				"favourites_count": 12283,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 47913,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/877554474776244224/Hx0FkfBI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/877554474776244224/Hx0FkfBI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/231183280/1562225193",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 109,
+			"favorite_count": 420,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you do one thing this weekend 👇\n#socialmedia #brexit @carolecadwalla https://t.co/Lal7n5VgZ6"
+	},
+	{
+		"created_at": "Fri Jul 26 17:56:32 +0000 2019",
+		"id": 1154778558537044000,
+		"id_str": "1154812760586379264",
+		"full_text": "#HappyFriday We cant wait for#NottsPride tomorrow! 🏳️‍🌈 See what's happening here -   https://t.co/3jkwGaFhm9 🌈 https://t.co/0gMEhaQJEy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HappyFriday",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3jkwGaFhm9",
+					"expanded_url": "https://crowd.in/PCxEZb",
+					"display_url": "crowd.in/PCxEZb",
+					"indices": [
+						86,
+						109
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1154778550085533700,
+					"id_str": "1154778550085533696",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EAaY-RgWwAAEupt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAaY-RgWwAAEupt.jpg",
+					"url": "https://t.co/0gMEhaQJEy",
+					"display_url": "pic.twitter.com/0gMEhaQJEy",
+					"expanded_url": "https://twitter.com/MyNottingham/status/1154778558537043968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1154778550085533700,
+					"id_str": "1154778550085533696",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EAaY-RgWwAAEupt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAaY-RgWwAAEupt.jpg",
+					"url": "https://t.co/0gMEhaQJEy",
+					"display_url": "pic.twitter.com/0gMEhaQJEy",
+					"expanded_url": "https://twitter.com/MyNottingham/status/1154778558537043968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1154778552149119000,
+					"id_str": "1154778552149118978",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EAaY-ZMWkAIM9I3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAaY-ZMWkAIM9I3.jpg",
+					"url": "https://t.co/0gMEhaQJEy",
+					"display_url": "pic.twitter.com/0gMEhaQJEy",
+					"expanded_url": "https://twitter.com/MyNottingham/status/1154778558537043968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1154778554388963300,
+					"id_str": "1154778554388963330",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EAaY-hiX4AIqZuH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAaY-hiX4AIqZuH.jpg",
+					"url": "https://t.co/0gMEhaQJEy",
+					"display_url": "pic.twitter.com/0gMEhaQJEy",
+					"expanded_url": "https://twitter.com/MyNottingham/status/1154778558537043968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1154778556540567600,
+					"id_str": "1154778556540567553",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/media/EAaY-pjWwAE_rfl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EAaY-pjWwAE_rfl.jpg",
+					"url": "https://t.co/0gMEhaQJEy",
+					"display_url": "pic.twitter.com/0gMEhaQJEy",
+					"expanded_url": "https://twitter.com/MyNottingham/status/1154778558537043968/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://crowdcontrolhq.com/\" rel=\"nofollow\">CrowdControlHQ</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 19226303,
+			"id_str": "19226303",
+			"name": "My Nottingham 🏳️‍🌈",
+			"screen_name": "MyNottingham",
+			"location": "Nottingham",
+			"description": "Official twitter page of Nottingham City Council. For customer service enquiries please tweet @AskMyNottingham",
+			"url": "https://t.co/6MdrXpVzLr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6MdrXpVzLr",
+							"expanded_url": "http://www.nottinghamcity.gov.uk",
+							"display_url": "nottinghamcity.gov.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 114196,
+			"friends_count": 1336,
+			"listed_count": 664,
+			"created_at": "Tue Jan 20 09:41:54 +0000 2009",
+			"favourites_count": 8851,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27511,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1148262304699621376/UtOTnFHq_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1148262304699621376/UtOTnFHq_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/19226303/1562662937",
+			"profile_link_color": "A9C215",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "3D393A",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 47,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#HappyFriday We cant wait for#NottsPride tomorrow! 🏳️‍🌈 See what's happening here -   https://t.co/3jkwGaFhm9 🌈 https://t.co/0gMEhaQJEy"
+	},
+	{
+		"created_at": "Fri Jul 26 15:23:37 +0000 2019",
+		"id": 1154767727304876000,
+		"id_str": "1154774279105462278",
+		"full_text": "Cycling https://t.co/TdBJuVTezb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1154767719587340300,
+					"id_str": "1154767719587340290",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EAaPH2wXYAIAuvq.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EAaPH2wXYAIAuvq.jpg",
+					"url": "https://t.co/TdBJuVTezb",
+					"display_url": "pic.twitter.com/TdBJuVTezb",
+					"expanded_url": "https://twitter.com/rouleur/status/1154767727304876032/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 184,
+							"h": 128,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 184,
+							"h": 128,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 128,
+							"h": 128,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 184,
+							"h": 128,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1154767719587340300,
+					"id_str": "1154767719587340290",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EAaPH2wXYAIAuvq.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EAaPH2wXYAIAuvq.jpg",
+					"url": "https://t.co/TdBJuVTezb",
+					"display_url": "pic.twitter.com/TdBJuVTezb",
+					"expanded_url": "https://twitter.com/rouleur/status/1154767727304876032/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 184,
+							"h": 128,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 184,
+							"h": 128,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 128,
+							"h": 128,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 184,
+							"h": 128,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							23,
+							16
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EAaPH2wXYAIAuvq.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 131102467,
+			"id_str": "131102467",
+			"name": "Rouleur",
+			"screen_name": "rouleur",
+			"location": "London",
+			"description": "Inside The Peloton - Emporium | Journal | Experience",
+			"url": "https://t.co/O1auhOEjs8",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O1auhOEjs8",
+							"expanded_url": "http://www.rouleur.cc",
+							"display_url": "rouleur.cc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51738,
+			"friends_count": 2439,
+			"listed_count": 1184,
+			"created_at": "Fri Apr 09 08:05:10 +0000 2010",
+			"favourites_count": 3783,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20398,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/854981324884647937/k6EhHKrr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/854981324884647937/k6EhHKrr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/131102467/1559732841",
+			"profile_link_color": "1893D0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 82,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cycling https://t.co/TdBJuVTezb"
+	},
+	{
 		"created_at": "Thu Jul 25 21:03:54 +0000 2019",
 		"id": 1154497526357213200,
 		"id_str": "1154497526357213184",
@@ -207,7 +1027,7 @@ Grailbird.data.tweets_2019_07 =
 			"created_at": "Thu Jul 25 16:49:41 +0000 2019",
 			"id": 1154433552810946600,
 			"id_str": "1154433552810946561",
-			"full_text": "Here’s @Jacob_Rees_Mogg alleging the government has has had success with nursing numbers.\n\nWeird cos last week he walked past me &amp; 50 nurses in parliament who were telling MPs about the nursing CRISIS, I guess he didn’t see us  🤷🏻‍♀️ \n\n#SafeStaffingSavesLives https://t.co/9TSyu6cXmE",
+			"full_text": "Here’s @Jacob_Rees_Mogg alleging the government has has had success with nursing numbers.\n\nWeird cos last week he walked past me &amp; 50 nurses in parliament who were telling MPs about the nursing CRISIS, I guess he didn’t see us  🤷🏻♀️ \n\n#SafeStaffingSavesLives https://t.co/9TSyu6cXmE",
 			"truncated": false,
 			"display_text_range": [
 				0,
