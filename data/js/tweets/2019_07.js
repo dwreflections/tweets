@@ -1,6 +1,888 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 27 17:17:01 +0000 2019",
+		"id": 1155165206009565200,
+		"id_str": "1155165206009565184",
+		"full_text": "@thomas_jesson It was featured on @VictoriaLIVE about a week ago, I think ?\n\nhttps://t.co/2jCpO0QmrG\n\n* I have some time on my hands &amp; have been indulging in day time TV  📺 👍😎",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thomas_jesson",
+					"name": "Tom Jesson",
+					"id": 3091527256,
+					"id_str": "3091527256",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "VictoriaLIVE",
+					"name": "Victoria Derbyshire",
+					"id": 3082499172,
+					"id_str": "3082499172",
+					"indices": [
+						34,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2jCpO0QmrG",
+					"expanded_url": "https://www.bbc.com/news/health-49033715",
+					"display_url": "bbc.com/news/health-49…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1155164659726598100,
+		"in_reply_to_status_id_str": "1155164659726598144",
+		"in_reply_to_user_id": 3091527256,
+		"in_reply_to_user_id_str": "3091527256",
+		"in_reply_to_screen_name": "thomas_jesson",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational  Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1606,
+			"friends_count": 2547,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13174,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@thomas_jesson It was featured on @VictoriaLIVE about a week ago, I think ?\n\nhttps://t.co/2jCpO0QmrG\n\n* I have some time on my hands &amp; have been indulging in day time TV  📺 👍😎"
+	},
+	{
+		"created_at": "Sat Jul 27 16:55:09 +0000 2019",
+		"id": 1155159702952718300,
+		"id_str": "1155159702952718336",
+		"full_text": "@NickFerran @Retlouping I never knew? 🦴🦴🦴",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NickFerran",
+					"name": "Nick Ferran",
+					"id": 622182578,
+					"id_str": "622182578",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Retlouping",
+					"name": "David Poulter 🚲🚴🏻‍♂️",
+					"id": 3246132338,
+					"id_str": "3246132338",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1155137615101931500,
+		"in_reply_to_status_id_str": "1155137615101931520",
+		"in_reply_to_user_id": 622182578,
+		"in_reply_to_user_id_str": "622182578",
+		"in_reply_to_screen_name": "NickFerran",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational  Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1606,
+			"friends_count": 2547,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13174,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NickFerran @Retlouping I never knew? 🦴🦴🦴"
+	},
+	{
+		"created_at": "Sat Jul 27 16:50:09 +0000 2019",
+		"id": 1155158443105357800,
+		"id_str": "1155158443105357831",
+		"full_text": "@thomas_jesson “This Lyme is a kind of identity. Lyme is a label for a state of being, a word that conveys your understanding of your lived experience.”\nReally interesting 👍 \n\nI wonder if there is some parallels with breast implant illness (BII)..?",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thomas_jesson",
+					"name": "Tom Jesson",
+					"id": 3091527256,
+					"id_str": "3091527256",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1155092046044176400,
+		"in_reply_to_status_id_str": "1155092046044176386",
+		"in_reply_to_user_id": 3091527256,
+		"in_reply_to_user_id_str": "3091527256",
+		"in_reply_to_screen_name": "thomas_jesson",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational  Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1606,
+			"friends_count": 2547,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13174,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thomas_jesson “This Lyme is a kind of identity. Lyme is a label for a state of being, a word that conveys your understanding of your lived experience.”\nReally interesting 👍 \n\nI wonder if there is some parallels with breast implant illness (BII)..?"
+	},
+	{
+		"created_at": "Sat Jul 27 16:16:24 +0000 2019",
+		"id": 1155149948624785400,
+		"id_str": "1155149948624785408",
+		"full_text": "@Retlouping Witnessed some posts recently promoting cupping which was more like blood letting... 🤢",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Retlouping",
+					"name": "David Poulter 🚲🚴🏻‍♂️",
+					"id": 3246132338,
+					"id_str": "3246132338",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1155123780160827400,
+		"in_reply_to_status_id_str": "1155123780160827395",
+		"in_reply_to_user_id": 3246132338,
+		"in_reply_to_user_id_str": "3246132338",
+		"in_reply_to_screen_name": "Retlouping",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational  Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1606,
+			"friends_count": 2547,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13174,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Retlouping Witnessed some posts recently promoting cupping which was more like blood letting... 🤢"
+	},
+	{
+		"created_at": "Sat Jul 27 10:10:05 +0000 2019",
+		"id": 1155057763896176600,
+		"id_str": "1155057763896176646",
+		"full_text": "@dantowey Did you remember you can’t freewheel? 👀😯",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dantowey",
+					"name": "Dan Towey",
+					"id": 54679174,
+					"id_str": "54679174",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1155055118661890000,
+		"in_reply_to_status_id_str": "1155055118661890050",
+		"in_reply_to_user_id": 54679174,
+		"in_reply_to_user_id_str": "54679174",
+		"in_reply_to_screen_name": "dantowey",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational  Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1606,
+			"friends_count": 2547,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13174,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dantowey Did you remember you can’t freewheel? 👀😯"
+	},
+	{
+		"created_at": "Sat Jul 27 10:06:41 +0000 2019",
+		"id": 1155056906278506500,
+		"id_str": "1155056906278506499",
+		"full_text": "Emojis 👇🤔👏🙌👌👀 https://t.co/E6ufHJQAFY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E6ufHJQAFY",
+					"expanded_url": "https://twitter.com/jessfoulkes_slt/status/1154455910388867072",
+					"display_url": "twitter.com/jessfoulkes_sl…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational  Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1606,
+			"friends_count": 2547,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13174,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1154455910388867000,
+		"quoted_status_id_str": "1154455910388867072",
+		"quoted_status_permalink": {
+			"url": "https://t.co/E6ufHJQAFY",
+			"expanded": "https://twitter.com/jessfoulkes_slt/status/1154455910388867072",
+			"display": "twitter.com/jessfoulkes_sl…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 25 18:18:32 +0000 2019",
+			"id": 1154455910388867000,
+			"id_str": "1154455910388867072",
+			"full_text": "😀 Very happy to share my poster about emoji use in aphasia intervention at the neuro rehab showcase this evening and see the renovations at The Royal Hospital for Neurodisability. https://t.co/AAeXRPTxFK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				179
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1154455903023837200,
+						"id_str": "1154455903023837185",
+						"indices": [
+							180,
+							203
+						],
+						"media_url": "http://pbs.twimg.com/media/EAVzhviWsAE8ysz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EAVzhviWsAE8ysz.jpg",
+						"url": "https://t.co/AAeXRPTxFK",
+						"display_url": "pic.twitter.com/AAeXRPTxFK",
+						"expanded_url": "https://twitter.com/JessFoulkes_SLT/status/1154455910388867072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1154455903023837200,
+						"id_str": "1154455903023837185",
+						"indices": [
+							180,
+							203
+						],
+						"media_url": "http://pbs.twimg.com/media/EAVzhviWsAE8ysz.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EAVzhviWsAE8ysz.jpg",
+						"url": "https://t.co/AAeXRPTxFK",
+						"display_url": "pic.twitter.com/AAeXRPTxFK",
+						"expanded_url": "https://twitter.com/JessFoulkes_SLT/status/1154455910388867072/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 879796874965856300,
+				"id_str": "879796874965856257",
+				"name": "Jess Foulkes",
+				"screen_name": "JessFoulkes_SLT",
+				"location": "London, England",
+				"description": "Speech and Language Therapist. Professional interests: Neuro rehab & aphasia. Typically found open water swimming. Very bad surfer. Excellent tea drinker.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 175,
+				"friends_count": 356,
+				"listed_count": 0,
+				"created_at": "Tue Jun 27 20:21:35 +0000 2017",
+				"favourites_count": 158,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 134,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1070767653126578176/FGQ8qEHn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070767653126578176/FGQ8qEHn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/879796874965856257/1528405641",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "460c5314e8a33c64",
+				"url": "https://api.twitter.com/1.1/geo/id/460c5314e8a33c64.json",
+				"place_type": "city",
+				"name": "Wandsworth",
+				"full_name": "Wandsworth, London",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.259465,
+								51.417277
+							],
+							[
+								-0.127974,
+								51.417277
+							],
+							[
+								-0.127974,
+								51.486036
+							],
+							[
+								-0.259465,
+								51.486036
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 48,
+			"favorite_count": 166,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "lt",
+		"text": "Emojis 👇🤔👏🙌👌👀 https://t.co/E6ufHJQAFY"
+	},
+	{
+		"created_at": "Sat Jul 27 10:05:15 +0000 2019",
+		"id": 1155056549242581000,
+		"id_str": "1155056549242580992",
+		"full_text": "@dan26wales Ban Fax machines: buy colour printers.  🌈👍",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dan26wales",
+					"name": "Dan Thomas",
+					"id": 400276868,
+					"id_str": "400276868",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1155036585517310000,
+		"in_reply_to_status_id_str": "1155036585517309955",
+		"in_reply_to_user_id": 400276868,
+		"in_reply_to_user_id_str": "400276868",
+		"in_reply_to_screen_name": "dan26wales",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational  Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1606,
+			"friends_count": 2547,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13174,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dan26wales Ban Fax machines: buy colour printers.  🌈👍"
+	},
+	{
 		"created_at": "Fri Jul 26 20:12:54 +0000 2019",
 		"id": 1154847080525025300,
 		"id_str": "1154847080525025280",
@@ -337,7 +1219,7 @@ Grailbird.data.tweets_2019_07 =
 		"created_at": "Fri Jul 26 17:56:32 +0000 2019",
 		"id": 1154778558537044000,
 		"id_str": "1154812760586379264",
-		"full_text": "#HappyFriday We cant wait for#NottsPride tomorrow! 🏳️‍🌈 See what's happening here -   https://t.co/3jkwGaFhm9 🌈 https://t.co/0gMEhaQJEy",
+		"full_text": "#HappyFriday We cant wait for#NottsPride tomorrow! 🏳️🌈 See what's happening here -   https://t.co/3jkwGaFhm9 🌈 https://t.co/0gMEhaQJEy",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -562,7 +1444,7 @@ Grailbird.data.tweets_2019_07 =
 		"user": {
 			"id": 19226303,
 			"id_str": "19226303",
-			"name": "My Nottingham 🏳️‍🌈",
+			"name": "My Nottingham 🏳️🌈",
 			"screen_name": "MyNottingham",
 			"location": "Nottingham",
 			"description": "Official twitter page of Nottingham City Council. For customer service enquiries please tweet @AskMyNottingham",
@@ -631,7 +1513,7 @@ Grailbird.data.tweets_2019_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "#HappyFriday We cant wait for#NottsPride tomorrow! 🏳️‍🌈 See what's happening here -   https://t.co/3jkwGaFhm9 🌈 https://t.co/0gMEhaQJEy"
+		"text": "#HappyFriday We cant wait for#NottsPride tomorrow! 🏳️🌈 See what's happening here -   https://t.co/3jkwGaFhm9 🌈 https://t.co/0gMEhaQJEy"
 	},
 	{
 		"created_at": "Fri Jul 26 15:23:37 +0000 2019",
