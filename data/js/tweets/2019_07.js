@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sun Jul 28 21:11:43 +0000 2019",
+		"id": 1155586656835186700,
+		"id_str": "1155586656835186690",
+		"full_text": "@thomas_jesson @VictoriaLIVE So many similarities",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thomas_jesson",
+					"name": "Tom Jesson",
+					"id": 3091527256,
+					"id_str": "3091527256",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "VictoriaLIVE",
+					"name": "Victoria Derbyshire",
+					"id": 3082499172,
+					"id_str": "3082499172",
+					"indices": [
+						15,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1155167200292016000,
+		"in_reply_to_status_id_str": "1155167200292016128",
+		"in_reply_to_user_id": 3091527256,
+		"in_reply_to_user_id_str": "3091527256",
+		"in_reply_to_screen_name": "thomas_jesson",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational  Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1608,
+			"friends_count": 2552,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thomas_jesson @VictoriaLIVE So many similarities"
+	},
+	{
+		"created_at": "Sun Jul 28 10:17:59 +0000 2019",
+		"id": 1155422139153113000,
+		"id_str": "1155422139153113088",
+		"full_text": "@dantowey https://t.co/8vYwto91DE",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dantowey",
+					"name": "Dan Towey",
+					"id": 54679174,
+					"id_str": "54679174",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1155422110434697200,
+					"id_str": "1155422110434697217",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EAjiSaoXoAEnM2Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EAjiSaoXoAEnM2Y.jpg",
+					"url": "https://t.co/8vYwto91DE",
+					"display_url": "pic.twitter.com/8vYwto91DE",
+					"expanded_url": "https://twitter.com/beardedPT/status/1155422139153113088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 438,
+							"h": 340,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 438,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 438,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1155422110434697200,
+					"id_str": "1155422110434697217",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EAjiSaoXoAEnM2Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EAjiSaoXoAEnM2Y.jpg",
+					"url": "https://t.co/8vYwto91DE",
+					"display_url": "pic.twitter.com/8vYwto91DE",
+					"expanded_url": "https://twitter.com/beardedPT/status/1155422139153113088/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 438,
+							"h": 340,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 438,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 438,
+							"h": 340,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							219,
+							170
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EAjiSaoXoAEnM2Y.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1155420381500645400,
+		"in_reply_to_status_id_str": "1155420381500645376",
+		"in_reply_to_user_id": 54679174,
+		"in_reply_to_user_id_str": "54679174",
+		"in_reply_to_screen_name": "dantowey",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational  Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1608,
+			"friends_count": 2552,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13203,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@dantowey https://t.co/8vYwto91DE"
+	},
+	{
 		"created_at": "Sat Jul 27 17:17:01 +0000 2019",
 		"id": 1155165206009565200,
 		"id_str": "1155165206009565184",
@@ -140,7 +428,7 @@ Grailbird.data.tweets_2019_07 =
 				},
 				{
 					"screen_name": "Retlouping",
-					"name": "David Poulter 🚲🚴🏻‍♂️",
+					"name": "David Poulter 🚲🚴🏻♂️",
 					"id": 3246132338,
 					"id_str": "3246132338",
 					"indices": [
@@ -326,7 +614,7 @@ Grailbird.data.tweets_2019_07 =
 			"user_mentions": [
 				{
 					"screen_name": "Retlouping",
-					"name": "David Poulter 🚲🚴🏻‍♂️",
+					"name": "David Poulter 🚲🚴🏻♂️",
 					"id": 3246132338,
 					"id_str": "3246132338",
 					"indices": [
