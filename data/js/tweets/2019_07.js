@@ -1,6 +1,399 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Tue Jul 30 20:06:28 +0000 2019",
+		"id": 1156295013946540000,
+		"id_str": "1156295013946540032",
+		"full_text": "When I joined my father on the building site, I saw a different side to him 👇 https://t.co/Avg9UjUNhQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Avg9UjUNhQ",
+					"expanded_url": "https://www.theguardian.com/commentisfree/2019/jul/30/father-building-site-teachers-cv-job-hard-work?CMP=Share_iOSApp_Other",
+					"display_url": "theguardian.com/commentisfree/…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational  Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1610,
+			"friends_count": 2565,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When I joined my father on the building site, I saw a different side to him 👇 https://t.co/Avg9UjUNhQ"
+	},
+	{
+		"created_at": "Tue Jul 30 19:09:16 +0000 2019",
+		"id": 1156280619174899700,
+		"id_str": "1156280619174899713",
+		"full_text": "@PhysioNatalie See you there #physiouk19",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			40
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "physiouk19",
+					"indices": [
+						29,
+						40
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhysioNatalie",
+					"name": "Natalie Patterson",
+					"id": 4902562102,
+					"id_str": "4902562102",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1156279251299197000,
+		"in_reply_to_status_id_str": "1156279251299196928",
+		"in_reply_to_user_id": 4902562102,
+		"in_reply_to_user_id_str": "4902562102",
+		"in_reply_to_screen_name": "PhysioNatalie",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational  Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1610,
+			"friends_count": 2565,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PhysioNatalie See you there #physiouk19"
+	},
+	{
+		"created_at": "Tue Jul 30 18:02:32 +0000 2019",
+		"id": 1156250906758975500,
+		"id_str": "1156263823621480448",
+		"full_text": "@DannGooding Being political doesn’t have to be an either or. If you live and breath a particular political or ethical standpoint it sort of radiates; there’s so much which can be achieved politically as a nurse [both inside the the profession and beyond] its just seldom followed through.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			289
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DannGooding",
+					"name": "Dann Gooding RNChild",
+					"id": 84831127,
+					"id_str": "84831127",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1156166042126835700,
+		"in_reply_to_status_id_str": "1156166042126835712",
+		"in_reply_to_user_id": 84831127,
+		"in_reply_to_user_id_str": "84831127",
+		"in_reply_to_screen_name": "DannGooding",
+		"user": {
+			"id": 901055791515435000,
+			"id_str": "901055791515435008",
+			"name": "Shaun Williams",
+			"screen_name": "Shaun_LDNurse",
+			"location": "Stoke-on-Trent and Birmingham ",
+			"description": "StN LD nurse @KeeleUniversity; @councilofdeans #150Leaders; @RCN SIO; primary care, equality, and healthcare for all; neurodiverse. 🌈☕️🦄",
+			"url": "https://t.co/7w7u43jgD5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7w7u43jgD5",
+							"expanded_url": "https://theneurodiversenurse.wordpress.com/",
+							"display_url": "theneurodiversenurse.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 907,
+			"friends_count": 1353,
+			"listed_count": 8,
+			"created_at": "Fri Aug 25 12:16:56 +0000 2017",
+			"favourites_count": 6766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3650,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/972013590768070656/fpLB_pZ1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/972013590768070656/fpLB_pZ1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/901055791515435008/1506266745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@DannGooding Being political doesn’t have to be an either or. If you live and breath a particular political or ethical standpoint it sort of radiates; there’s so much which can be achieved politically as a nurse [both inside the the profession and beyond] its just seldom followed through."
+	},
+	{
+		"created_at": "Tue Jul 30 09:38:59 +0000 2019",
+		"id": 1156137099999010800,
+		"id_str": "1156137099999010816",
+		"full_text": "@drandrewmackay 🤣🤣🙈",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drandrewmackay",
+					"name": "Dr Andrew Mackay",
+					"id": 399681342,
+					"id_str": "399681342",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1155949040149749800,
+		"in_reply_to_status_id_str": "1155949040149749762",
+		"in_reply_to_user_id": 399681342,
+		"in_reply_to_user_id_str": "399681342",
+		"in_reply_to_screen_name": "drandrewmackay",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational  Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1610,
+			"friends_count": 2565,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5138,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@drandrewmackay 🤣🤣🙈"
+	},
+	{
 		"created_at": "Mon Jul 29 21:34:06 +0000 2019",
 		"id": 1155954678309388300,
 		"id_str": "1155954678309388288",
@@ -107,7 +500,7 @@ Grailbird.data.tweets_2019_07 =
 		"created_at": "Mon Jul 29 21:22:28 +0000 2019",
 		"id": 1155951751305891800,
 		"id_str": "1155951751305891840",
-		"full_text": "I know how you feel 👨‍🚀🚀 \n\nThank you @OllyThorn for being so honest \nGive these 2 videos a watch. \nJust brilliant! 😢\n\n- https://t.co/bT59DTT4Cs\n- https://t.co/CBznFzDGDW\n#mentalhealth https://t.co/8sQOj6ZxNm",
+		"full_text": "I know how you feel 👨🚀🚀 \n\nThank you @OllyThorn for being so honest \nGive these 2 videos a watch. \nJust brilliant! 😢\n\n- https://t.co/bT59DTT4Cs\n- https://t.co/CBznFzDGDW\n#mentalhealth https://t.co/8sQOj6ZxNm",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -362,7 +755,7 @@ Grailbird.data.tweets_2019_07 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "I know how you feel 👨‍🚀🚀 \n\nThank you @OllyThorn for being so honest \nGive these 2 videos a watch. \nJust brilliant! 😢\n\n- https://t.co/bT59DTT4Cs\n- https://t.co/CBznFzDGDW\n#mentalhealth https://t.co/8sQOj6ZxNm"
+		"text": "I know how you feel 👨🚀🚀 \n\nThank you @OllyThorn for being so honest \nGive these 2 videos a watch. \nJust brilliant! 😢\n\n- https://t.co/bT59DTT4Cs\n- https://t.co/CBznFzDGDW\n#mentalhealth https://t.co/8sQOj6ZxNm"
 	},
 	{
 		"created_at": "Mon Jul 29 19:44:09 +0000 2019",
