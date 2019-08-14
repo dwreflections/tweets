@@ -1,6 +1,429 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Tue Aug 13 19:36:12 +0000 2019",
+		"id": 1161360826588115000,
+		"id_str": "1161360826588114946",
+		"full_text": "@ChrisLittlew00d @bendotellis You have made me find my UG dissertation @ChrisLittlew00d .. 👍\n\nUsage of Social media (n=164 physio students) for personal, curricular &amp; physio educational related purpose 👇 https://t.co/1BJKV0DFRQ",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisLittlew00d",
+					"name": "Chris Littlewood",
+					"id": 1493914087,
+					"id_str": "1493914087",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "bendotellis",
+					"name": "Ben Ellis",
+					"id": 424907352,
+					"id_str": "424907352",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"screen_name": "ChrisLittlew00d",
+					"name": "Chris Littlewood",
+					"id": 1493914087,
+					"id_str": "1493914087",
+					"indices": [
+						71,
+						87
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1161360803922157600,
+					"id_str": "1161360803922157569",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EB37f33XoAEVtxS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB37f33XoAEVtxS.jpg",
+					"url": "https://t.co/1BJKV0DFRQ",
+					"display_url": "pic.twitter.com/1BJKV0DFRQ",
+					"expanded_url": "https://twitter.com/beardedPT/status/1161360826588114946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1014,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1296,
+							"h": 1534,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 574,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1161360803922157600,
+					"id_str": "1161360803922157569",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EB37f33XoAEVtxS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB37f33XoAEVtxS.jpg",
+					"url": "https://t.co/1BJKV0DFRQ",
+					"display_url": "pic.twitter.com/1BJKV0DFRQ",
+					"expanded_url": "https://twitter.com/beardedPT/status/1161360826588114946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1014,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1296,
+							"h": 1534,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 574,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1161360803901186000,
+					"id_str": "1161360803901186048",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EB37f3yXoAAw9Il.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB37f3yXoAAw9Il.jpg",
+					"url": "https://t.co/1BJKV0DFRQ",
+					"display_url": "pic.twitter.com/1BJKV0DFRQ",
+					"expanded_url": "https://twitter.com/beardedPT/status/1161360826588114946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 437,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 771,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1556,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1161360803922108400,
+					"id_str": "1161360803922108416",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EB37f33W4AAzfH0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB37f33W4AAzfH0.jpg",
+					"url": "https://t.co/1BJKV0DFRQ",
+					"display_url": "pic.twitter.com/1BJKV0DFRQ",
+					"expanded_url": "https://twitter.com/beardedPT/status/1161360826588114946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 978,
+							"h": 1398,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 839,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1161360803896942600,
+					"id_str": "1161360803896942594",
+					"indices": [
+						208,
+						231
+					],
+					"media_url": "http://pbs.twimg.com/media/EB37f3xW4AIHXgg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EB37f3xW4AIHXgg.jpg",
+					"url": "https://t.co/1BJKV0DFRQ",
+					"display_url": "pic.twitter.com/1BJKV0DFRQ",
+					"expanded_url": "https://twitter.com/beardedPT/status/1161360826588114946/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 810,
+							"h": 464,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 390,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 810,
+							"h": 464,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1161346503107108900,
+		"in_reply_to_status_id_str": "1161346503107108864",
+		"in_reply_to_user_id": 1493914087,
+		"in_reply_to_user_id_str": "1493914087",
+		"in_reply_to_screen_name": "ChrisLittlew00d",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1619,
+			"friends_count": 2593,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13422,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5166,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ChrisLittlew00d @bendotellis You have made me find my UG dissertation @ChrisLittlew00d .. 👍\n\nUsage of Social media (n=164 physio students) for personal, curricular &amp; physio educational related purpose 👇 https://t.co/1BJKV0DFRQ"
+	},
+	{
+		"created_at": "Tue Aug 13 19:27:55 +0000 2019",
+		"id": 1161358741792579600,
+		"id_str": "1161358741792579586",
+		"full_text": "@ChrisLittlew00d @Seth0Neill @bendotellis @UoLPhysio Do share that interesting talk?",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChrisLittlew00d",
+					"name": "Chris Littlewood",
+					"id": 1493914087,
+					"id_str": "1493914087",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Seth0Neill",
+					"name": "Achilles Tendons",
+					"id": 593740586,
+					"id_str": "593740586",
+					"indices": [
+						17,
+						28
+					]
+				},
+				{
+					"screen_name": "bendotellis",
+					"name": "Ben Ellis",
+					"id": 424907352,
+					"id_str": "424907352",
+					"indices": [
+						29,
+						41
+					]
+				},
+				{
+					"screen_name": "UoLPhysio",
+					"name": "UoL Physio Society",
+					"id": 2222145420,
+					"id_str": "2222145420",
+					"indices": [
+						42,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1161352337035866000,
+		"in_reply_to_status_id_str": "1161352337035866112",
+		"in_reply_to_user_id": 1493914087,
+		"in_reply_to_user_id_str": "1493914087",
+		"in_reply_to_screen_name": "ChrisLittlew00d",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1619,
+			"friends_count": 2593,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13422,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5166,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ChrisLittlew00d @Seth0Neill @bendotellis @UoLPhysio Do share that interesting talk?"
+	},
+	{
 		"created_at": "Sat Aug 10 22:49:08 +0000 2019",
 		"id": 1160322214388019200,
 		"id_str": "1160322214388019201",
