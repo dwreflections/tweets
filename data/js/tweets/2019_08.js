@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 16 22:11:16 +0000 2019",
+		"id": 1162487012349399000,
+		"id_str": "1162487012349399042",
+		"full_text": "@rachaelmoses @GussieGrips @thecsp Have to make the trip next year!",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rachaelmoses",
+					"name": "rachael moses",
+					"id": 107548705,
+					"id_str": "107548705",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "GussieGrips",
+					"name": "Gusset Grippers",
+					"id": 805403773,
+					"id_str": "805403773",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						27,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1162453479358644200,
+		"in_reply_to_status_id_str": "1162453479358644225",
+		"in_reply_to_user_id": 107548705,
+		"in_reply_to_user_id_str": "107548705",
+		"in_reply_to_screen_name": "rachaelmoses",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physio - Professional Committee Member at the Chartered Society of Physiotherapy - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1621,
+			"friends_count": 2597,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13509,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5185,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@rachaelmoses @GussieGrips @thecsp Have to make the trip next year!"
+	},
+	{
+		"created_at": "Fri Aug 16 19:28:40 +0000 2019",
+		"id": 1162404401274863600,
+		"id_str": "1162446093810110464",
+		"full_text": "Look what I found myself reading and loving this evening... @mancunianmedic thanks for this! \n\nDavid Oliver: Fighting phantom policies in hospitals https://t.co/AVRYoweIeO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mancunianmedic",
+					"name": "david oliver",
+					"id": 2582596082,
+					"id_str": "2582596082",
+					"indices": [
+						60,
+						75
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AVRYoweIeO",
+					"expanded_url": "https://www.bmj.com/content/366/bmj.l4949",
+					"display_url": "bmj.com/content/366/bm…",
+					"indices": [
+						148,
+						171
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 181497250,
+			"id_str": "181497250",
+			"name": "Dornu Lebari",
+			"screen_name": "dornu_doc",
+			"location": "England, UK",
+			"description": "GUM doctor, GPST Cumbria @rcgp @rcgpait rep, baking, sewing, knitting enthusiast, hippie mama to 1",
+			"url": "https://t.co/BZYgMQUYiF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/BZYgMQUYiF",
+							"expanded_url": "http://www.thebakingdoctor.com",
+							"display_url": "thebakingdoctor.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 287,
+			"friends_count": 257,
+			"listed_count": 9,
+			"created_at": "Sun Aug 22 10:31:39 +0000 2010",
+			"favourites_count": 2425,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1042722039898025984/GvNexkIB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042722039898025984/GvNexkIB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/181497250/1537439283",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Look what I found myself reading and loving this evening... @mancunianmedic thanks for this! \n\nDavid Oliver: Fighting phantom policies in hospitals https://t.co/AVRYoweIeO"
+	},
+	{
 		"created_at": "Thu Aug 15 21:48:22 +0000 2019",
 		"id": 1162118862147506200,
 		"id_str": "1162118862147506176",
