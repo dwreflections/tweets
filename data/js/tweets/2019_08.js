@@ -1,6 +1,127 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Sun Aug 18 19:15:50 +0000 2019",
+		"id": 1163167639277113300,
+		"id_str": "1163167639277113346",
+		"full_text": "@physio_lewis @UHDBTrust @CUPhysios Happy days! Welcome to #teamUHDB  : I  started a couple of weeks ago &amp; it's a great place to work. 😊",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			140
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "teamUHDB",
+					"indices": [
+						59,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "physio_lewis",
+					"name": "𝙇𝙚𝙬𝙞𝙨 𝘾𝙤𝙡𝙡𝙞𝙣𝙨",
+					"id": 1094993852375679000,
+					"id_str": "1094993852375678976",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "CUPhysios",
+					"name": "Coventry Uni Physios",
+					"id": 2826741576,
+					"id_str": "2826741576",
+					"indices": [
+						25,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1163166763468693500,
+		"in_reply_to_status_id_str": "1163166763468693506",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1622,
+			"friends_count": 2598,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13531,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5187,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152707284063182849/PILIH2Mc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@physio_lewis @UHDBTrust @CUPhysios Happy days! Welcome to #teamUHDB  : I  started a couple of weeks ago &amp; it's a great place to work. 😊"
+	},
+	{
 		"created_at": "Fri Aug 16 22:11:16 +0000 2019",
 		"id": 1162487012349399000,
 		"id_str": "1162487012349399042",
