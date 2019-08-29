@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Wed Aug 28 21:26:12 +0000 2019",
+		"id": 1166773641738117000,
+		"id_str": "1166824324248014848",
+		"full_text": "RETWEET TO WIN! #TheBigRs 😱\n1 x Full Conf Ticket\n1 x Virtual Attendance\nTo be drawn Mon 2nd Sept! 🗳\n\nEXTRA CHANCES by sharing this post on FB &amp; Insta. ✅\n\nBEST CHANCE of winning is by booking!\nAll ticket buyers get 5 extra entries &amp; would be refunded! 🥳\nhttps://t.co/JoPMBZqzC4 https://t.co/zDZXKyYfcV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheBigRs",
+					"indices": [
+						16,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JoPMBZqzC4",
+					"expanded_url": "http://buytickets.at/reformingmsk",
+					"display_url": "buytickets.at/reformingmsk",
+					"indices": [
+						261,
+						284
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1166773635631263700,
+					"id_str": "1166773635631263749",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/EDE2cJUXsAU4C2g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDE2cJUXsAU4C2g.jpg",
+					"url": "https://t.co/zDZXKyYfcV",
+					"display_url": "pic.twitter.com/zDZXKyYfcV",
+					"expanded_url": "https://twitter.com/TPMPodcast/status/1166773641738117123/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 571,
+							"h": 777,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 571,
+							"h": 777,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1166773635631263700,
+					"id_str": "1166773635631263749",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/EDE2cJUXsAU4C2g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDE2cJUXsAU4C2g.jpg",
+					"url": "https://t.co/zDZXKyYfcV",
+					"display_url": "pic.twitter.com/zDZXKyYfcV",
+					"expanded_url": "https://twitter.com/TPMPodcast/status/1166773641738117123/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 571,
+							"h": 777,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 571,
+							"h": 777,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1166773635530547200,
+					"id_str": "1166773635530547201",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/EDE2cI8W4AEgMUZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDE2cI8W4AEgMUZ.jpg",
+					"url": "https://t.co/zDZXKyYfcV",
+					"display_url": "pic.twitter.com/zDZXKyYfcV",
+					"expanded_url": "https://twitter.com/TPMPodcast/status/1166773641738117123/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 574,
+							"h": 781,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 574,
+							"h": 781,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1914280350,
+			"id_str": "1914280350",
+			"name": "Physio Matters",
+			"screen_name": "TPMPodcast",
+			"location": "United Kingdom",
+			"description": "Confronting Bad Ideas With Good Ones since 2013 | Brain-child of @JackAChew | Tweets by team #TPMP | #TheBigRs tickets: https://t.co/cVbRgwX1ua",
+			"url": "https://t.co/qWMSyCCcZA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qWMSyCCcZA",
+							"expanded_url": "http://chewshealth.co.uk/the-physio-matters-podcast/",
+							"display_url": "chewshealth.co.uk/the-physio-mat…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cVbRgwX1ua",
+							"expanded_url": "http://reform.physio/conference/",
+							"display_url": "reform.physio/conference/",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 17961,
+			"friends_count": 330,
+			"listed_count": 101,
+			"created_at": "Sat Sep 28 14:30:49 +0000 2013",
+			"favourites_count": 9539,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 17628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080205037303984129/sUcVPZvR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080205037303984129/sUcVPZvR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1914280350/1564732346",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0cbfb5dccb8131b8",
+			"url": "https://api.twitter.com/1.1/geo/id/0cbfb5dccb8131b8.json",
+			"place_type": "admin",
+			"name": "North West",
+			"full_name": "North West, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-3.64063699761414,
+							52.9471313094526
+						],
+						[
+							-1.90962598338825,
+							52.9471313094526
+						],
+						[
+							-1.90962598338825,
+							55.1888787527094
+						],
+						[
+							-3.64063699761414,
+							55.1888787527094
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 47,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "RETWEET TO WIN! #TheBigRs 😱\n1 x Full Conf Ticket\n1 x Virtual Attendance\nTo be drawn Mon 2nd Sept! 🗳\n\nEXTRA CHANCES by sharing this post on FB &amp; Insta. ✅\n\nBEST CHANCE of winning is by booking!\nAll ticket buyers get 5 extra entries &amp; would be refunded! 🥳\nhttps://t.co/JoPMBZqzC4 https://t.co/zDZXKyYfcV"
+	},
+	{
 		"created_at": "Tue Aug 27 19:38:14 +0000 2019",
 		"id": 1166434767996412000,
 		"id_str": "1166434767996411906",
