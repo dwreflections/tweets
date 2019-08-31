@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 30 19:49:17 +0000 2019",
+		"id": 1167524713410814000,
+		"id_str": "1167524713410813952",
+		"full_text": "@mellojonny Hope your safe!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mellojonny",
+					"name": "#hellomynameis JT",
+					"id": 65575742,
+					"id_str": "65575742",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1167524228008226800,
+		"in_reply_to_status_id_str": "1167524228008226818",
+		"in_reply_to_user_id": 65575742,
+		"in_reply_to_user_id_str": "65575742",
+		"in_reply_to_screen_name": "mellojonny",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1629,
+			"friends_count": 2605,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mellojonny Hope your safe!"
+	},
+	{
+		"created_at": "Fri Aug 30 19:45:27 +0000 2019",
+		"id": 1167523748557271000,
+		"id_str": "1167523748557271041",
+		"full_text": "👇 @thecspstudents you know what to do #CSPempowers https://t.co/1892uhu7HY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CSPempowers",
+					"indices": [
+						38,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thecspstudents",
+					"name": "CSP Students & Learners",
+					"id": 444648690,
+					"id_str": "444648690",
+					"indices": [
+						2,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1892uhu7HY",
+					"expanded_url": "https://twitter.com/150leaders/status/1167358041550774272",
+					"display_url": "twitter.com/150leaders/sta…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1629,
+			"friends_count": 2605,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5208,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1167358041550774300,
+		"quoted_status_id_str": "1167358041550774272",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1892uhu7HY",
+			"expanded": "https://twitter.com/150leaders/status/1167358041550774272",
+			"display": "twitter.com/150leaders/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 30 08:47:00 +0000 2019",
+			"id": 1167358041550774300,
+			"id_str": "1167358041550774272",
+			"full_text": "We will be opening applications for the Student Leadership Programme 2020 on 10 October. See our website for further information about applications: https://t.co/L4gFiDfsYJ #150Leaders",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				184
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "150Leaders",
+						"indices": [
+							173,
+							184
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/L4gFiDfsYJ",
+						"expanded_url": "https://councilofdeans.org.uk/studentleadership/",
+						"display_url": "councilofdeans.org.uk/studentleaders…",
+						"indices": [
+							149,
+							172
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1139187039151280100,
+				"id_str": "1139187039151280128",
+				"name": "#150Leaders",
+				"screen_name": "150Leaders",
+				"location": "United Kingdom",
+				"description": "@councilofdeans Student Leadership Programme | co-funded by @BurdettTrust | designed for student nurses, midwives and AHPs across the UK",
+				"url": "https://t.co/AxAGczzJZw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AxAGczzJZw",
+								"expanded_url": "http://www.councilofdeans.org.uk/studentleadership",
+								"display_url": "councilofdeans.org.uk/studentleaders…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 266,
+				"friends_count": 56,
+				"listed_count": 0,
+				"created_at": "Thu Jun 13 15:05:29 +0000 2019",
+				"favourites_count": 165,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 168,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1141695642672279552/rf-wEzoI_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141695642672279552/rf-wEzoI_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1139187039151280128/1561107033",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 22,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "👇 @thecspstudents you know what to do #CSPempowers https://t.co/1892uhu7HY"
+	},
+	{
 		"created_at": "Thu Aug 29 21:22:28 +0000 2019",
 		"id": 1167185772727996400,
 		"id_str": "1167185772727996417",
