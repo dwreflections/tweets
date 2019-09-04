@@ -1,6 +1,111 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Tue Sep 03 21:16:16 +0000 2019",
+		"id": 1168994840450936800,
+		"id_str": "1168996151909060612",
+		"full_text": "Control of Order Paper vote\n\nAYES: 328\nNOES: 301\n\nMaj: 27\n\nGOVT LOSS\n\nOne MP shouts: “not a good start, Boris.” Indeed not.\n\nBoris Johnson is the first prime minister in modern history (possibly ever) to lose his first Commons vote.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 335312037,
+			"id_str": "335312037",
+			"name": "Lewis Goodall",
+			"screen_name": "lewis_goodall",
+			"location": "Lewis.goodall@sky.uk",
+			"description": "Political Correspondent @SkyNews | Author: Left for Dead. Buy here- https://t.co/DEPhrgKNxI | Part time activity: Boxer. Full time aspiration: Time Lord.",
+			"url": "https://t.co/dsBwu4neJN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dsBwu4neJN",
+							"expanded_url": "http://www.instagram.com/lewis_goodall1",
+							"display_url": "instagram.com/lewis_goodall1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/DEPhrgKNxI",
+							"expanded_url": "https://bit.ly/2KEYHSk",
+							"display_url": "bit.ly/2KEYHSk",
+							"indices": [
+								68,
+								91
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 61938,
+			"friends_count": 3674,
+			"listed_count": 874,
+			"created_at": "Thu Jul 14 13:56:30 +0000 2011",
+			"favourites_count": 7478,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17456,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162370759773294598/FpMctEgW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162370759773294598/FpMctEgW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/335312037/1537435517",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 736,
+		"favorite_count": 2166,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Control of Order Paper vote\n\nAYES: 328\nNOES: 301\n\nMaj: 27\n\nGOVT LOSS\n\nOne MP shouts: “not a good start, Boris.” Indeed not.\n\nBoris Johnson is the first prime minister in modern history (possibly ever) to lose his first Commons vote."
+	},
+	{
 		"created_at": "Mon Sep 02 21:04:24 +0000 2019",
 		"id": 1168630778806374400,
 		"id_str": "1168630778806374400",
