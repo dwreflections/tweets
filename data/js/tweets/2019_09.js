@@ -1,6 +1,761 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 05 20:25:20 +0000 2019",
+		"id": 1169708112045121500,
+		"id_str": "1169708112045121537",
+		"full_text": "@Srikesavan @UCLan @thecsp Brilliant news! Well done Sri 😊👍",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Srikesavan",
+					"name": "Srikesavan Sabapathy",
+					"id": 58153048,
+					"id_str": "58153048",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "UCLan",
+					"name": "Uni of Central Lancs",
+					"id": 15559763,
+					"id_str": "15559763",
+					"indices": [
+						12,
+						18
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						19,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1169665330819604500,
+		"in_reply_to_status_id_str": "1169665330819604484",
+		"in_reply_to_user_id": 58153048,
+		"in_reply_to_user_id_str": "58153048",
+		"in_reply_to_screen_name": "Srikesavan",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1636,
+			"friends_count": 2621,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Srikesavan @UCLan @thecsp Brilliant news! Well done Sri 😊👍"
+	},
+	{
+		"created_at": "Thu Sep 05 20:01:44 +0000 2019",
+		"id": 1169702170020761600,
+		"id_str": "1169702170020761602",
+		"full_text": "Hear hear 👏 https://t.co/27kr0FASWl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/27kr0FASWl",
+					"expanded_url": "https://twitter.com/cmo_england/status/1169673321522388995",
+					"display_url": "twitter.com/cmo_england/st…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1636,
+			"friends_count": 2621,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1169673321522389000,
+		"quoted_status_id_str": "1169673321522388995",
+		"quoted_status_permalink": {
+			"url": "https://t.co/27kr0FASWl",
+			"expanded": "https://twitter.com/cmo_england/status/1169673321522388995",
+			"display": "twitter.com/cmo_england/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 05 18:07:05 +0000 2019",
+			"id": 1169673321522389000,
+			"id_str": "1169673321522388995",
+			"full_text": "I have written to @Jacob_Rees_Mogg to express my sincere disappointment and show my support for doctors across the country, particularly @djnicholl. \n\nDoctors are amongst the most trusted people in our country; it is worth listening to what they have to say with respect. https://t.co/WPGLcWIgSz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				271
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Jacob_Rees_Mogg",
+						"name": "Jacob Rees-Mogg",
+						"id": 885838630928994300,
+						"id_str": "885838630928994304",
+						"indices": [
+							18,
+							34
+						]
+					},
+					{
+						"screen_name": "djnicholl",
+						"name": "Dr David Nicholl, Esq",
+						"id": 19443658,
+						"id_str": "19443658",
+						"indices": [
+							137,
+							147
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1169673316468187100,
+						"id_str": "1169673316468187137",
+						"indices": [
+							272,
+							295
+						],
+						"media_url": "http://pbs.twimg.com/media/EDuDryNW4AEgspD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDuDryNW4AEgspD.jpg",
+						"url": "https://t.co/WPGLcWIgSz",
+						"display_url": "pic.twitter.com/WPGLcWIgSz",
+						"expanded_url": "https://twitter.com/CMO_England/status/1169673321522388995/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 589,
+								"h": 854,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 469,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 589,
+								"h": 854,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1169673316468187100,
+						"id_str": "1169673316468187137",
+						"indices": [
+							272,
+							295
+						],
+						"media_url": "http://pbs.twimg.com/media/EDuDryNW4AEgspD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDuDryNW4AEgspD.jpg",
+						"url": "https://t.co/WPGLcWIgSz",
+						"display_url": "pic.twitter.com/WPGLcWIgSz",
+						"expanded_url": "https://twitter.com/CMO_England/status/1169673321522388995/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 589,
+								"h": 854,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 469,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 589,
+								"h": 854,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4524846597,
+				"id_str": "4524846597",
+				"name": "Prof Sally Davies",
+				"screen_name": "CMO_England",
+				"location": "London, England",
+				"description": "Official page of the Chief Medical Officer, Professor Dame Sally C Davies.",
+				"url": "https://t.co/f61iGbN1U4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/f61iGbN1U4",
+								"expanded_url": "http://www.gov.uk/dh",
+								"display_url": "gov.uk/dh",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18104,
+				"friends_count": 304,
+				"listed_count": 145,
+				"created_at": "Fri Dec 18 13:11:56 +0000 2015",
+				"favourites_count": 180,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 504,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/679318045651812354/tCf3uaNy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/679318045651812354/tCf3uaNy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4524846597/1481019704",
+				"profile_link_color": "00AD93",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8250,
+			"favorite_count": 23048,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hear hear 👏 https://t.co/27kr0FASWl"
+	},
+	{
+		"created_at": "Thu Sep 05 15:49:03 +0000 2019",
+		"id": 1169638581071229000,
+		"id_str": "1169638581071228929",
+		"full_text": "@PhilCharlesBar @RogerKerry1 @UoNPhysio Done ✅ \n\nGet on this @UoNPhysio ☝️🤓",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhilCharlesBar",
+					"name": "Phil Barber",
+					"id": 55323285,
+					"id_str": "55323285",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						16,
+						28
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						29,
+						39
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						61,
+						71
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1169631045903425500,
+		"in_reply_to_status_id_str": "1169631045903425536",
+		"in_reply_to_user_id": 55323285,
+		"in_reply_to_user_id_str": "55323285",
+		"in_reply_to_screen_name": "PhilCharlesBar",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1636,
+			"friends_count": 2621,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13743,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5234,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PhilCharlesBar @RogerKerry1 @UoNPhysio Done ✅ \n\nGet on this @UoNPhysio ☝️🤓"
+	},
+	{
+		"created_at": "Thu Sep 05 15:48:32 +0000 2019",
+		"id": 1169524156410597400,
+		"id_str": "1169638451848863745",
+		"full_text": "Free MSK educational seminar exploring 'Anterior Knee Pain: A Practical Approach' - Nottingham, 26th September presented by Clinical Lead @PhilCharlesBar! Register here https://t.co/NDSYDiDfpu https://t.co/lN04ZSFKGA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhilCharlesBar",
+					"name": "Phil Barber",
+					"id": 55323285,
+					"id_str": "55323285",
+					"indices": [
+						138,
+						153
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/NDSYDiDfpu",
+					"expanded_url": "http://bit.ly/2k4zhXg",
+					"display_url": "bit.ly/2k4zhXg",
+					"indices": [
+						169,
+						192
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1169524149192155100,
+					"id_str": "1169524149192155137",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/EDr8BGzW4AE-EDr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDr8BGzW4AE-EDr.jpg",
+					"url": "https://t.co/lN04ZSFKGA",
+					"display_url": "pic.twitter.com/lN04ZSFKGA",
+					"expanded_url": "https://twitter.com/MSKEdNet/status/1169524156410597376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169524149192155100,
+					"id_str": "1169524149192155137",
+					"indices": [
+						193,
+						216
+					],
+					"media_url": "http://pbs.twimg.com/media/EDr8BGzW4AE-EDr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDr8BGzW4AE-EDr.jpg",
+					"url": "https://t.co/lN04ZSFKGA",
+					"display_url": "pic.twitter.com/lN04ZSFKGA",
+					"expanded_url": "https://twitter.com/MSKEdNet/status/1169524156410597376/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1448,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 848,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 841603309970546700,
+			"id_str": "841603309970546688",
+			"name": "Connect Education",
+			"screen_name": "MSKEdNet",
+			"location": "United Kingdom",
+			"description": "A hub for info on upcoming MSK educational events across England. Associated w @Connect_Health_ Likes/Retweets ≠ endorsements. MSKEducation@connecthealth.co.uk",
+			"url": "https://t.co/ICOW5BoBec",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ICOW5BoBec",
+							"expanded_url": "http://www.connecthealth.co.uk/careers/",
+							"display_url": "connecthealth.co.uk/careers/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1246,
+			"friends_count": 99,
+			"listed_count": 0,
+			"created_at": "Tue Mar 14 10:54:00 +0000 2017",
+			"favourites_count": 362,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 550,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/940874946296893440/q_7wsmmq_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/940874946296893440/q_7wsmmq_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/841603309970546688/1513158115",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Free MSK educational seminar exploring 'Anterior Knee Pain: A Practical Approach' - Nottingham, 26th September presented by Clinical Lead @PhilCharlesBar! Register here https://t.co/NDSYDiDfpu https://t.co/lN04ZSFKGA"
+	},
+	{
 		"created_at": "Wed Sep 04 21:53:38 +0000 2019",
 		"id": 1169342981897445400,
 		"id_str": "1169367945618870272",
