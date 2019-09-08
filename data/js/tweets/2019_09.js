@@ -1,6 +1,718 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 07 21:51:03 +0000 2019",
+		"id": 1170454457575977000,
+		"id_str": "1170454457575976965",
+		"full_text": "@GeorgiaSul99 @UoN_SHS That’s my middle name 🤣👍",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GeorgiaSul99",
+					"name": "Georgia Sullivan",
+					"id": 1159566323271295000,
+					"id_str": "1159566323271294977",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "UoN_SHS",
+					"name": "UoN Health Sciences",
+					"id": 512054069,
+					"id_str": "512054069",
+					"indices": [
+						14,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1170449962171322400,
+		"in_reply_to_status_id_str": "1170449962171322368",
+		"in_reply_to_user_id": 1159566323271295000,
+		"in_reply_to_user_id_str": "1159566323271294977",
+		"in_reply_to_screen_name": "GeorgiaSul99",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1637,
+			"friends_count": 2622,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13776,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GeorgiaSul99 @UoN_SHS That’s my middle name 🤣👍"
+	},
+	{
+		"created_at": "Sat Sep 07 12:31:26 +0000 2019",
+		"id": 1170313626806292500,
+		"id_str": "1170313626806292485",
+		"full_text": "Super #tweetorial on #SoMe 👇👍\n\nHT @GatesPhysio https://t.co/j6CRrt8WzO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "tweetorial",
+					"indices": [
+						6,
+						17
+					]
+				},
+				{
+					"text": "SoMe",
+					"indices": [
+						21,
+						26
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GatesPhysio",
+					"name": "John Gates",
+					"id": 451401278,
+					"id_str": "451401278",
+					"indices": [
+						34,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/j6CRrt8WzO",
+					"expanded_url": "https://twitter.com/steffangriffin/status/1170080608447606785",
+					"display_url": "twitter.com/steffangriffin…",
+					"indices": [
+						47,
+						70
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1637,
+			"friends_count": 2622,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13776,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5241,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1170080608447606800,
+		"quoted_status_id_str": "1170080608447606785",
+		"quoted_status_permalink": {
+			"url": "https://t.co/j6CRrt8WzO",
+			"expanded": "https://twitter.com/steffangriffin/status/1170080608447606785",
+			"display": "twitter.com/steffangriffin…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 06 21:05:30 +0000 2019",
+			"id": 1170080608447606800,
+			"id_str": "1170080608447606785",
+			"full_text": "#SoMe, or not #SoMe - why bother with social media in Sport &amp; Exercise Medicine/Science (and how to get maximal bang for buck)\n\nA #tweetorial following interest from my talks to @TheOfficialSST and @FASIC_SportsMed, and featuring some animation magic from @JenniferDunca10 💫\n\n1/ https://t.co/UTPRKAQ7NI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				282
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SoMe",
+						"indices": [
+							0,
+							5
+						]
+					},
+					{
+						"text": "SoMe",
+						"indices": [
+							14,
+							19
+						]
+					},
+					{
+						"text": "tweetorial",
+						"indices": [
+							134,
+							145
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "FASIC_SportsMed",
+						"name": "FASIC SportsMedicine",
+						"id": 627315471,
+						"id_str": "627315471",
+						"indices": [
+							202,
+							218
+						]
+					},
+					{
+						"screen_name": "JenniferDunca10",
+						"name": "Jennifer Duncan",
+						"id": 429252025,
+						"id_str": "429252025",
+						"indices": [
+							260,
+							276
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1170080533486981000,
+						"id_str": "1170080533486981127",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/EDz2C70XUAcsedR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDz2C70XUAcsedR.jpg",
+						"url": "https://t.co/UTPRKAQ7NI",
+						"display_url": "pic.twitter.com/UTPRKAQ7NI",
+						"expanded_url": "https://twitter.com/SteffanGriffin/status/1170080608447606785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1520,
+								"h": 854,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1170080533486981000,
+						"id_str": "1170080533486981127",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/EDz2C70XUAcsedR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDz2C70XUAcsedR.jpg",
+						"url": "https://t.co/UTPRKAQ7NI",
+						"display_url": "pic.twitter.com/UTPRKAQ7NI",
+						"expanded_url": "https://twitter.com/SteffanGriffin/status/1170080608447606785/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1520,
+								"h": 854,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1318375694,
+				"id_str": "1318375694",
+				"name": "Steffan Griffin",
+				"screen_name": "SteffanGriffin",
+				"location": "London, England",
+				"description": "Junior Doctor, developing skills to specialise in Sport & Exercise Medicine | RFU Sports Medicine Training Fellow | Editorial Fellow @BJSM_BMJ",
+				"url": "https://t.co/3cYBigzsDn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3cYBigzsDn",
+								"expanded_url": "https://m.facebook.com/BJSM.BMJ/",
+								"display_url": "m.facebook.com/BJSM.BMJ/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2137,
+				"friends_count": 3320,
+				"listed_count": 40,
+				"created_at": "Sun Mar 31 13:17:51 +0000 2013",
+				"favourites_count": 8541,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2359,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1134233074118615043/q-6ZS3og_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134233074118615043/q-6ZS3og_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1318375694/1559257214",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Super #tweetorial on #SoMe 👇👍\n\nHT @GatesPhysio https://t.co/j6CRrt8WzO"
+	},
+	{
+		"created_at": "Sat Sep 07 09:32:56 +0000 2019",
+		"id": 1170012570343919600,
+		"id_str": "1170268704875192321",
+		"full_text": "STUDENTS!\n\nYOU ARE ALLOWED TO REGISTER TWICE: once at home, AND once at your uni address.\n\nYou are allowed to vote in BOTH places in LOCAL elections.\n\nYou are allowed to vote in ONE place in NATIONAL elections, but you can CHOOSE WHICH at the last minute.\n\nhttps://t.co/VbSBkbLYzR https://t.co/0cVkNtpaJG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VbSBkbLYzR",
+					"expanded_url": "https://www.gov.uk/register-to-vote",
+					"display_url": "gov.uk/register-to-vo…",
+					"indices": [
+						257,
+						280
+					]
+				},
+				{
+					"url": "https://t.co/0cVkNtpaJG",
+					"expanded_url": "https://twitter.com/bengoldacre/status/1170005706310934528",
+					"display_url": "twitter.com/bengoldacre/st…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 6705042,
+			"id_str": "6705042",
+			"name": "ben goldacre",
+			"screen_name": "bengoldacre",
+			"location": "Oxford, England",
+			"description": "Doctor, nerd cheerleader, Bad Science person, stats geek, procrastinator. I run https://t.co/0JWfxEVIE9 at @uniofoxford making tools+papers from data ben@badscience.net",
+			"url": "https://t.co/OMQcmqGpuf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OMQcmqGpuf",
+							"expanded_url": "http://www.badscience.net",
+							"display_url": "badscience.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0JWfxEVIE9",
+							"expanded_url": "http://ebmdatalab.net",
+							"display_url": "ebmdatalab.net",
+							"indices": [
+								80,
+								103
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 482386,
+			"friends_count": 2981,
+			"listed_count": 8101,
+			"created_at": "Sat Jun 09 23:51:43 +0000 2007",
+			"favourites_count": 2763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 67295,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "5C0599",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/523118410419286016/qXTUFTZR_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/523118410419286016/qXTUFTZR_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/6705042/1348086154",
+			"profile_link_color": "960861",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "0ADDFF",
+			"profile_text_color": "0E0746",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1170005706310934500,
+		"quoted_status_id_str": "1170005706310934528",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0cVkNtpaJG",
+			"expanded": "https://twitter.com/bengoldacre/status/1170005706310934528",
+			"display": "twitter.com/bengoldacre/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 06 16:07:52 +0000 2019",
+			"id": 1170005706310934500,
+			"id_str": "1170005706310934528",
+			"full_text": "REGISTER TO VOTE.\n\nStudents. Young people. People who rent and move a lot.\n\nREGISTER TO VOTE.\n\nREGISTER TO VOTE.\n\nREGISTER TO VOTE.\n\nREGISTER TO VOTE.\n\nREGISTER TO VOTE.\n\nREGISTER TO VOTE.\n\nREGISTER TO VOTE.\n\nREGISTER TO VOTE.\n\nIt takes five minutes here:\n\nhttps://t.co/VbSBkbLYzR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VbSBkbLYzR",
+						"expanded_url": "https://www.gov.uk/register-to-vote",
+						"display_url": "gov.uk/register-to-vo…",
+						"indices": [
+							257,
+							280
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 6705042,
+				"id_str": "6705042",
+				"name": "ben goldacre",
+				"screen_name": "bengoldacre",
+				"location": "Oxford, England",
+				"description": "Doctor, nerd cheerleader, Bad Science person, stats geek, procrastinator. I run https://t.co/0JWfxEVIE9 at @uniofoxford making tools+papers from data ben@badscience.net",
+				"url": "https://t.co/OMQcmqGpuf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OMQcmqGpuf",
+								"expanded_url": "http://www.badscience.net",
+								"display_url": "badscience.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/0JWfxEVIE9",
+								"expanded_url": "http://ebmdatalab.net",
+								"display_url": "ebmdatalab.net",
+								"indices": [
+									80,
+									103
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 482386,
+				"friends_count": 2981,
+				"listed_count": 8101,
+				"created_at": "Sat Jun 09 23:51:43 +0000 2007",
+				"favourites_count": 2763,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 67295,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "5C0599",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/523118410419286016/qXTUFTZR_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/523118410419286016/qXTUFTZR_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/6705042/1348086154",
+				"profile_link_color": "960861",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "0ADDFF",
+				"profile_text_color": "0E0746",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5572,
+			"favorite_count": 5078,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5231,
+		"favorite_count": 4127,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "STUDENTS!\n\nYOU ARE ALLOWED TO REGISTER TWICE: once at home, AND once at your uni address.\n\nYou are allowed to vote in BOTH places in LOCAL elections.\n\nYou are allowed to vote in ONE place in NATIONAL elections, but you can CHOOSE WHICH at the last minute.\n\nhttps://t.co/VbSBkbLYzR https://t.co/0cVkNtpaJG"
+	},
+	{
 		"created_at": "Fri Sep 06 18:55:49 +0000 2019",
 		"id": 1170047973151166500,
 		"id_str": "1170047973151166464",
