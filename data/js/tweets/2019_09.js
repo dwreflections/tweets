@@ -1,6 +1,360 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sun Sep 08 19:59:26 +0000 2019",
+		"id": 1170788758041632800,
+		"id_str": "1170788758041632769",
+		"full_text": "@BillingMartin @RogerKerry1 Come on... they’re better than Carling 🤦🏻‍♂️",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BillingMartin",
+					"name": "Martin Billing",
+					"id": 1114684759,
+					"id_str": "1114684759",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						15,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1170760534133792800,
+		"in_reply_to_status_id_str": "1170760534133792768",
+		"in_reply_to_user_id": 1114684759,
+		"in_reply_to_user_id_str": "1114684759",
+		"in_reply_to_screen_name": "BillingMartin",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1639,
+			"friends_count": 2625,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13796,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BillingMartin @RogerKerry1 Come on... they’re better than Carling 🤦🏻‍♂️"
+	},
+	{
+		"created_at": "Sun Sep 08 17:08:27 +0000 2019",
+		"id": 1170669265445445600,
+		"id_str": "1170745726411968512",
+		"full_text": "Happy #WorldPhysiotherapyDay to everyone out there. It's fair to say our message is, whatever you like doing, do it more. Smile and move and watch others do the same in return. https://t.co/bAY1wAf617",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorldPhysiotherapyDay",
+					"indices": [
+						6,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1170669233962926000,
+					"id_str": "1170669233962926081",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/ED8Ndz_WwAEVTBB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED8Ndz_WwAEVTBB.jpg",
+					"url": "https://t.co/bAY1wAf617",
+					"display_url": "pic.twitter.com/bAY1wAf617",
+					"expanded_url": "https://twitter.com/ChrisMulvaneyPT/status/1170669265445445637/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170669233962926000,
+					"id_str": "1170669233962926081",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/ED8Ndz_WwAEVTBB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED8Ndz_WwAEVTBB.jpg",
+					"url": "https://t.co/bAY1wAf617",
+					"display_url": "pic.twitter.com/bAY1wAf617",
+					"expanded_url": "https://twitter.com/ChrisMulvaneyPT/status/1170669265445445637/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1365,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170669244746539000,
+					"id_str": "1170669244746539008",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/ED8NecKXoAA1xS9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED8NecKXoAA1xS9.jpg",
+					"url": "https://t.co/bAY1wAf617",
+					"display_url": "pic.twitter.com/bAY1wAf617",
+					"expanded_url": "https://twitter.com/ChrisMulvaneyPT/status/1170669265445445637/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 429,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1291,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 756,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1170669256129810400,
+					"id_str": "1170669256129810433",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/ED8NfGkWkAEQl-v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED8NfGkWkAEQl-v.jpg",
+					"url": "https://t.co/bAY1wAf617",
+					"display_url": "pic.twitter.com/bAY1wAf617",
+					"expanded_url": "https://twitter.com/ChrisMulvaneyPT/status/1170669265445445637/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 553076220,
+			"id_str": "553076220",
+			"name": "Chris Mulvaney",
+			"screen_name": "ChrisMulvaneyPT",
+			"location": "",
+			"description": "Sport & Exercise Physiotherapist 📊🧬\nAthletics Coach (Middle Distance)🏃‍♂️\nS&C coach 🏋️‍♂️\nI only tweet my own views...",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 321,
+			"friends_count": 662,
+			"listed_count": 8,
+			"created_at": "Fri Apr 13 20:39:16 +0000 2012",
+			"favourites_count": 2848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1095059813539766273/90MuuYq2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095059813539766273/90MuuYq2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/553076220/1563965816",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy #WorldPhysiotherapyDay to everyone out there. It's fair to say our message is, whatever you like doing, do it more. Smile and move and watch others do the same in return. https://t.co/bAY1wAf617"
+	},
+	{
 		"created_at": "Sat Sep 07 21:51:03 +0000 2019",
 		"id": 1170454457575977000,
 		"id_str": "1170454457575976965",
