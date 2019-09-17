@@ -1,6 +1,452 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Mon Sep 16 21:39:15 +0000 2019",
+		"id": 1173700182308864000,
+		"id_str": "1173712981403811840",
+		"full_text": "Are you SoMe savvy or know someone who is who'd want to work with us at Retrain Pain? We're good at the curating information and resources bit, not so good at the making it social media friendly &amp; actually posting it bit, so we need some help! Any leads would be appreciated, ty!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1452139974,
+			"id_str": "1452139974",
+			"name": "Joletta Belton",
+			"screen_name": "MyCuppaJo",
+			"location": "",
+			"description": "Making sense of pain through science and stories.\nWriter: https://t.co/NI1WiXcK70 \nCofounder: https://t.co/Hm2UNR4cM2\nPatient Partner Editor: @JOSPT\nEducator: https://t.co/htJymIkagX",
+			"url": "https://t.co/pv15gQTrM6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pv15gQTrM6",
+							"expanded_url": "https://www.retrainpain.org/certification",
+							"display_url": "retrainpain.org/certification",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/NI1WiXcK70",
+							"expanded_url": "http://mycuppajo.com",
+							"display_url": "mycuppajo.com",
+							"indices": [
+								58,
+								81
+							]
+						},
+						{
+							"url": "https://t.co/Hm2UNR4cM2",
+							"expanded_url": "http://EPIcolorado.org",
+							"display_url": "EPIcolorado.org",
+							"indices": [
+								94,
+								117
+							]
+						},
+						{
+							"url": "https://t.co/htJymIkagX",
+							"expanded_url": "http://RetrainPain.org",
+							"display_url": "RetrainPain.org",
+							"indices": [
+								159,
+								182
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3725,
+			"friends_count": 1614,
+			"listed_count": 88,
+			"created_at": "Thu May 23 18:12:36 +0000 2013",
+			"favourites_count": 13727,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14631,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B8BADB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1060992524246933510/2BQI5r01_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1060992524246933510/2BQI5r01_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1452139974/1549999996",
+			"profile_link_color": "2C42CF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Are you SoMe savvy or know someone who is who'd want to work with us at Retrain Pain? We're good at the curating information and resources bit, not so good at the making it social media friendly &amp; actually posting it bit, so we need some help! Any leads would be appreciated, ty!"
+	},
+	{
+		"created_at": "Mon Sep 16 20:31:33 +0000 2019",
+		"id": 1173695941389574100,
+		"id_str": "1173695941389574144",
+		"full_text": "@paulawoods5 @StaffsUni Happy belated birthdays 🥳 🙌🙌",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paulawoods5",
+					"name": "Paula Deacon",
+					"id": 485209939,
+					"id_str": "485209939",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "StaffsUni",
+					"name": "Staffordshire Uni",
+					"id": 66952977,
+					"id_str": "66952977",
+					"indices": [
+						13,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1172393590837825500,
+		"in_reply_to_status_id_str": "1172393590837825536",
+		"in_reply_to_user_id": 485209939,
+		"in_reply_to_user_id_str": "485209939",
+		"in_reply_to_screen_name": "paulawoods5",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1649,
+			"friends_count": 2644,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@paulawoods5 @StaffsUni Happy belated birthdays 🥳 🙌🙌"
+	},
+	{
+		"created_at": "Mon Sep 16 19:59:56 +0000 2019",
+		"id": 1173687987248488400,
+		"id_str": "1173687987248488449",
+		"full_text": "How can you be the best you can be? \n\nStudents follow this advice 👇 #physiotalk https://t.co/qRlHWmiELZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "physiotalk",
+					"indices": [
+						68,
+						79
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qRlHWmiELZ",
+					"expanded_url": "https://twitter.com/timg77shovel/status/1068230290403979264",
+					"display_url": "twitter.com/timg77shovel/s…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1649,
+			"friends_count": 2644,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1068230290403979300,
+		"quoted_status_id_str": "1068230290403979264",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qRlHWmiELZ",
+			"expanded": "https://twitter.com/timg77shovel/status/1068230290403979264",
+			"display": "twitter.com/timg77shovel/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 29 19:48:42 +0000 2018",
+			"id": 1068230290403979300,
+			"id_str": "1068230290403979264",
+			"full_text": "@nohandsup I would add to this, give yourself an hour every day. No nursing, no studying, nothing to do with school at all. Give yourself that 1 hour to focus on you. Go riding, go to the gym, do anything that isn’t school related. If you can’t give yourself 1 hour you’re in trouble anyway.",
+			"truncated": false,
+			"display_text_range": [
+				11,
+				291
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "nohandsup",
+						"name": "Stephen Charleston",
+						"id": 261285355,
+						"id_str": "261285355",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1068189921410773000,
+			"in_reply_to_status_id_str": "1068189921410772994",
+			"in_reply_to_user_id": 261285355,
+			"in_reply_to_user_id_str": "261285355",
+			"in_reply_to_screen_name": "nohandsup",
+			"user": {
+				"id": 89811599,
+				"id_str": "89811599",
+				"name": "Tim Graves",
+				"screen_name": "Timg77shovel",
+				"location": "Kentucky",
+				"description": "Master Sergeant Retired..RN, #BBN,#REDS and #METAL and family...oh, and my 09 Electra Glide I'm not politically correct either...Snapchat: tacklberry63",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 93,
+				"friends_count": 189,
+				"listed_count": 1,
+				"created_at": "Fri Nov 13 22:38:52 +0000 2009",
+				"favourites_count": 427,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4239,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/968297838575747072/vgjAGnaT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/968297838575747072/vgjAGnaT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/89811599/1560294288",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How can you be the best you can be? \n\nStudents follow this advice 👇 #physiotalk https://t.co/qRlHWmiELZ"
+	},
+	{
 		"created_at": "Fri Sep 13 16:59:57 +0000 2019",
 		"id": 1172555525780885500,
 		"id_str": "1172555525780885504",
@@ -270,7 +716,7 @@ Grailbird.data.tweets_2019_09 =
 		"created_at": "Fri Sep 13 16:26:24 +0000 2019",
 		"id": 1172547083380973600,
 		"id_str": "1172547083380973569",
-		"full_text": "@GatesPhysio @TPMPodcast I should of Googled that 🤣🤷‍♂️",
+		"full_text": "@GatesPhysio @TPMPodcast I should of Googled that 🤣🤷♂️",
 		"truncated": false,
 		"display_text_range": [
 			25,
@@ -377,7 +823,7 @@ Grailbird.data.tweets_2019_09 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@GatesPhysio @TPMPodcast I should of Googled that 🤣🤷‍♂️"
+		"text": "@GatesPhysio @TPMPodcast I should of Googled that 🤣🤷♂️"
 	},
 	{
 		"created_at": "Fri Sep 13 15:59:07 +0000 2019",
@@ -627,7 +1073,7 @@ Grailbird.data.tweets_2019_09 =
 		"created_at": "Fri Sep 13 12:10:32 +0000 2019",
 		"id": 1172482695127031800,
 		"id_str": "1172482695127031808",
-		"full_text": "@GatesPhysio I got trigged by a mate who’s studying an allied MSK degree. I challenged him being able to “break down tissue”.. anyway he gets “good results results with STR”... so I gave up &amp; sent him a link to @TPMPodcast ... 🤷‍♂️👍",
+		"full_text": "@GatesPhysio I got trigged by a mate who’s studying an allied MSK degree. I challenged him being able to “break down tissue”.. anyway he gets “good results results with STR”... so I gave up &amp; sent him a link to @TPMPodcast ... 🤷♂️👍",
 		"truncated": false,
 		"display_text_range": [
 			13,
@@ -734,7 +1180,7 @@ Grailbird.data.tweets_2019_09 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@GatesPhysio I got trigged by a mate who’s studying an allied MSK degree. I challenged him being able to “break down tissue”.. anyway he gets “good results results with STR”... so I gave up &amp; sent him a link to @TPMPodcast ... 🤷‍♂️👍"
+		"text": "@GatesPhysio I got trigged by a mate who’s studying an allied MSK degree. I challenged him being able to “break down tissue”.. anyway he gets “good results results with STR”... so I gave up &amp; sent him a link to @TPMPodcast ... 🤷♂️👍"
 	},
 	{
 		"created_at": "Thu Sep 12 20:27:34 +0000 2019",
