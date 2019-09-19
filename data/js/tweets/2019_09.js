@@ -1,6 +1,179 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 18 20:31:49 +0000 2019",
+		"id": 1174420785311768600,
+		"id_str": "1174420785311768576",
+		"full_text": "@UoNSU @Ed_cook_ @BenShannonPT @UoNPhysio @UoNSU_Community @UoNSUMakeChange No one from the university ever came to our Learning Community Forum meetings last semester to discuss the hopper bus? It is in the minutes... You pay lip service to “student engagement” if you will not engage ?\n\nSolidarity with @UoNPhysio &amp; @uonsportrehab",
+		"truncated": false,
+		"display_text_range": [
+			76,
+			336
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UoNSU",
+					"name": "UoN Students' Union",
+					"id": 36632407,
+					"id_str": "36632407",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "Ed_cook_",
+					"name": "Ed Cook",
+					"id": 2413346261,
+					"id_str": "2413346261",
+					"indices": [
+						7,
+						16
+					]
+				},
+				{
+					"screen_name": "BenShannonPT",
+					"name": "Ben Shannon",
+					"id": 45407152,
+					"id_str": "45407152",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						31,
+						41
+					]
+				},
+				{
+					"screen_name": "UoNSU_Community",
+					"name": "Jacob Collier SU",
+					"id": 368272985,
+					"id_str": "368272985",
+					"indices": [
+						42,
+						58
+					]
+				},
+				{
+					"screen_name": "UoNSUMakeChange",
+					"name": "UoN SU Make Change",
+					"id": 2785676231,
+					"id_str": "2785676231",
+					"indices": [
+						59,
+						75
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						305,
+						315
+					]
+				},
+				{
+					"screen_name": "UoNSportRehab",
+					"name": "UoNSportRehab",
+					"id": 2174322090,
+					"id_str": "2174322090",
+					"indices": [
+						322,
+						336
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1174353463695814700,
+		"in_reply_to_status_id_str": "1174353463695814656",
+		"in_reply_to_user_id": 36632407,
+		"in_reply_to_user_id_str": "36632407",
+		"in_reply_to_screen_name": "UoNSU",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1652,
+			"friends_count": 2646,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13906,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5271,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@UoNSU @Ed_cook_ @BenShannonPT @UoNPhysio @UoNSU_Community @UoNSUMakeChange No one from the university ever came to our Learning Community Forum meetings last semester to discuss the hopper bus? It is in the minutes... You pay lip service to “student engagement” if you will not engage ?\n\nSolidarity with @UoNPhysio &amp; @uonsportrehab"
+	},
+	{
 		"created_at": "Tue Sep 17 18:32:12 +0000 2019",
 		"id": 1174028296729874400,
 		"id_str": "1174028296729874433",
