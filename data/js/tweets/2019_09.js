@@ -1,6 +1,778 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 21 17:29:58 +0000 2019",
+		"id": 1175305773708120000,
+		"id_str": "1175462186552123392",
+		"full_text": "Yesssss Marcus! Check out the Derby Shoulder Instability Protocol https://t.co/IVtfSxwRAN https://t.co/Sh8q6BCiW5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IVtfSxwRAN",
+					"expanded_url": "http://derbyshoulderunit.co.uk/download/derby-shoulder-instability-rehabilitation-programme/",
+					"display_url": "derbyshoulderunit.co.uk/download/derby…",
+					"indices": [
+						66,
+						89
+					]
+				},
+				{
+					"url": "https://t.co/Sh8q6BCiW5",
+					"expanded_url": "https://twitter.com/uhdbtrust/status/1175166453722624005",
+					"display_url": "twitter.com/uhdbtrust/stat…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 330511872,
+			"id_str": "330511872",
+			"name": "ali crewesmith",
+			"screen_name": "alicrewe",
+			"location": "UK",
+			"description": "UHDB AHP Preceptorship Lead, Senior NHS Physiotherapist, exercise enthusiast. Will do anything for cake. Opinions are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 370,
+			"friends_count": 365,
+			"listed_count": 7,
+			"created_at": "Wed Jul 06 18:44:21 +0000 2011",
+			"favourites_count": 578,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1361,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ACDED6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1159765663935868933/bOVyNBvR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159765663935868933/bOVyNBvR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/330511872/1524290881",
+			"profile_link_color": "038543",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1175166453722624000,
+		"quoted_status_id_str": "1175166453722624005",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Sh8q6BCiW5",
+			"expanded": "https://twitter.com/uhdbtrust/status/1175166453722624005",
+			"display": "twitter.com/uhdbtrust/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 20 21:54:50 +0000 2019",
+			"id": 1175166453722624000,
+			"id_str": "1175166453722624005",
+			"full_text": "The winner of our Research and Innovation Award is Marcus Bateman, Consultant Physiotherapist, Derby Shoulder Unit!\n\n@marcusbatemanPT #UHDBMakesADifference https://t.co/r7HYpuc4wp",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				155
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "UHDBMakesADifference",
+						"indices": [
+							134,
+							155
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "marcusbatemanPT",
+						"name": "Marcus Bateman",
+						"id": 2865972280,
+						"id_str": "2865972280",
+						"indices": [
+							117,
+							133
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1175166445879287800,
+						"id_str": "1175166445879287808",
+						"indices": [
+							156,
+							179
+						],
+						"media_url": "http://pbs.twimg.com/media/EE8Hp_6X4AAjsDn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EE8Hp_6X4AAjsDn.jpg",
+						"url": "https://t.co/r7HYpuc4wp",
+						"display_url": "pic.twitter.com/r7HYpuc4wp",
+						"expanded_url": "https://twitter.com/UHDBTrust/status/1175166453722624005/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1175166445879287800,
+						"id_str": "1175166445879287808",
+						"indices": [
+							156,
+							179
+						],
+						"media_url": "http://pbs.twimg.com/media/EE8Hp_6X4AAjsDn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EE8Hp_6X4AAjsDn.jpg",
+						"url": "https://t.co/r7HYpuc4wp",
+						"display_url": "pic.twitter.com/r7HYpuc4wp",
+						"expanded_url": "https://twitter.com/UHDBTrust/status/1175166453722624005/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 429877936,
+				"id_str": "429877936",
+				"name": "University Hospitals of Derby and Burton NHS FT",
+				"screen_name": "UHDBTrust",
+				"location": "Derby, Burton, Tamworth, Lichfield",
+				"description": "Official Twitter page of University Hospitals of Derby and Burton NHS Foundation Trust. 🏥",
+				"url": "https://t.co/x70bd3ATs0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/x70bd3ATs0",
+								"expanded_url": "http://www.uhdb.nhs.uk",
+								"display_url": "uhdb.nhs.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10870,
+				"friends_count": 1004,
+				"listed_count": 136,
+				"created_at": "Tue Dec 06 14:09:36 +0000 2011",
+				"favourites_count": 4084,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18535,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1170975172972748801/izEL9DoP_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170975172972748801/izEL9DoP_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/429877936/1567596159",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yesssss Marcus! Check out the Derby Shoulder Instability Protocol https://t.co/IVtfSxwRAN https://t.co/Sh8q6BCiW5"
+	},
+	{
+		"created_at": "Sat Sep 21 17:15:16 +0000 2019",
+		"id": 1175458483753365500,
+		"id_str": "1175458483753365504",
+		"full_text": "🤦🏻‍♂️🤷‍♂️ https://t.co/6Q0o7WVibR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6Q0o7WVibR",
+					"expanded_url": "https://twitter.com/guardiannews/status/1175451775320694785",
+					"display_url": "twitter.com/guardiannews/s…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1660,
+			"friends_count": 2649,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1175451775320694800,
+		"quoted_status_id_str": "1175451775320694785",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6Q0o7WVibR",
+			"expanded": "https://twitter.com/guardiannews/status/1175451775320694785",
+			"display": "twitter.com/guardiannews/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 21 16:48:36 +0000 2019",
+			"id": 1175451775320694800,
+			"id_str": "1175451775320694785",
+			"full_text": "John Humphrys attacks BBC's 'liberal bias' days after retiring from Radio 4 https://t.co/YjwvCgPq1O",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				99
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YjwvCgPq1O",
+						"expanded_url": "https://www.theguardian.com/media/2019/sep/21/john-humphrys-attacks-bbcs-liberal-bias-days-after-retiring-from-radio-4?utm_term=Autofeed&CMP=twt_b-gdnnews&utm_medium=Social&utm_source=Twitter#Echobox=1569084185",
+						"display_url": "theguardian.com/media/2019/sep…",
+						"indices": [
+							76,
+							99
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 788524,
+				"id_str": "788524",
+				"name": "Guardian news",
+				"screen_name": "guardiannews",
+				"location": "",
+				"description": "The need for independent journalism has never been greater. Become a Guardian supporter: https://t.co/KXycIPGfHd",
+				"url": "https://t.co/PJxUC0RWyr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/PJxUC0RWyr",
+								"expanded_url": "http://www.theguardian.com",
+								"display_url": "theguardian.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/KXycIPGfHd",
+								"expanded_url": "http://gu.com/supporter/guardiannews",
+								"display_url": "gu.com/supporter/guar…",
+								"indices": [
+									89,
+									112
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2913472,
+				"friends_count": 1261,
+				"listed_count": 32297,
+				"created_at": "Thu Feb 22 12:32:47 +0000 2007",
+				"favourites_count": 12,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 209070,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1061915596328263680/EcBjYl5z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061915596328263680/EcBjYl5z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/788524/1542015319",
+				"profile_link_color": "005789",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "CAE3F3",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 51,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "🤦🏻‍♂️🤷‍♂️ https://t.co/6Q0o7WVibR"
+	},
+	{
+		"created_at": "Sat Sep 21 11:39:26 +0000 2019",
+		"id": 1175373970843021300,
+		"id_str": "1175373970843021313",
+		"full_text": "@CSPstdntofficer @thecsp @thecspstudents @theLINCDublin Good luck Ciara 😊👍",
+		"truncated": false,
+		"display_text_range": [
+			56,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CSPstdntofficer",
+					"name": "CSP Student Officer",
+					"id": 1348785632,
+					"id_str": "1348785632",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						17,
+						24
+					]
+				},
+				{
+					"screen_name": "thecspstudents",
+					"name": "CSP Students & Learners",
+					"id": 444648690,
+					"id_str": "444648690",
+					"indices": [
+						25,
+						40
+					]
+				},
+				{
+					"screen_name": "theLINCDublin",
+					"name": "The LINC at TU Dublin",
+					"id": 113383563,
+					"id_str": "113383563",
+					"indices": [
+						41,
+						55
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1175075795515183000,
+		"in_reply_to_status_id_str": "1175075795515183104",
+		"in_reply_to_user_id": 1348785632,
+		"in_reply_to_user_id_str": "1348785632",
+		"in_reply_to_screen_name": "CSPstdntofficer",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1660,
+			"friends_count": 2649,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CSPstdntofficer @thecsp @thecspstudents @theLINCDublin Good luck Ciara 😊👍"
+	},
+	{
+		"created_at": "Sat Sep 21 10:52:15 +0000 2019",
+		"id": 1175362096151912400,
+		"id_str": "1175362096151912449",
+		"full_text": "@SiobhanAbrahams @davidwalliams That’s not really what we do 🤷‍♂️🤦🏻‍♂️👍",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SiobhanAbrahams",
+					"name": "hellomynameissiobhan",
+					"id": 438464360,
+					"id_str": "438464360",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "davidwalliams",
+					"name": "David Walliams",
+					"id": 17441447,
+					"id_str": "17441447",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1175352078602002400,
+		"in_reply_to_status_id_str": "1175352078602002432",
+		"in_reply_to_user_id": 438464360,
+		"in_reply_to_user_id_str": "438464360",
+		"in_reply_to_screen_name": "SiobhanAbrahams",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1660,
+			"friends_count": 2649,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 13951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SiobhanAbrahams @davidwalliams That’s not really what we do 🤷‍♂️🤦🏻‍♂️👍"
+	},
+	{
 		"created_at": "Fri Sep 20 17:52:24 +0000 2019",
 		"id": 1175105440205738000,
 		"id_str": "1175105440205737985",
