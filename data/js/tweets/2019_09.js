@@ -1,10 +1,585 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Wed Sep 25 20:34:53 +0000 2019",
+		"id": 1176958272038981600,
+		"id_str": "1176958272038981641",
+		"full_text": "I had no idea it was #NationalFitnessDay2019 ? \n\nAnyway, here’s some Victorian’ish children cracking some IMF or is that Swedish Gymnastics? 🕺💃\n\n@consultantPT @djwalker587 https://t.co/YwtTg3cSgp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			171
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NationalFitnessDay2019",
+					"indices": [
+						21,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "consultantPT",
+					"name": "Uzo Ehiogu",
+					"id": 1039521456,
+					"id_str": "1039521456",
+					"indices": [
+						145,
+						158
+					]
+				},
+				{
+					"screen_name": "djwalker587",
+					"name": "Dale Walker",
+					"id": 3300412427,
+					"id_str": "3300412427",
+					"indices": [
+						159,
+						171
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YwtTg3cSgp",
+					"expanded_url": "https://twitter.com/bfi/status/1176790948086517760",
+					"display_url": "twitter.com/bfi/status/117…",
+					"indices": [
+						172,
+						195
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtqpCl) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtqpCl",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1664,
+			"friends_count": 2657,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1176790948086517800,
+		"quoted_status_id_str": "1176790948086517760",
+		"quoted_status_permalink": {
+			"url": "https://t.co/YwtTg3cSgp",
+			"expanded": "https://twitter.com/bfi/status/1176790948086517760",
+			"display": "twitter.com/bfi/status/117…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 25 09:30:00 +0000 2019",
+			"id": 1176790948086517800,
+			"id_str": "1176790948086517760",
+			"full_text": "Are you getting involved with #NationalFitnessDay? \n\nThese Lancashire children would recommend doing something akin to calisthenics, as they demonstrate here in (almost) perfect unison. \n\n#BritainOnFilm https://t.co/Zb1eIjBHDo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				202
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NationalFitnessDay",
+						"indices": [
+							30,
+							49
+						]
+					},
+					{
+						"text": "BritainOnFilm",
+						"indices": [
+							188,
+							202
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1176785721820160000,
+						"id_str": "1176785721820160001",
+						"indices": [
+							203,
+							226
+						],
+						"media_url": "http://pbs.twimg.com/media/EFTL5AcXkAIQVoW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFTL5AcXkAIQVoW.jpg",
+						"url": "https://t.co/Zb1eIjBHDo",
+						"display_url": "pic.twitter.com/Zb1eIjBHDo",
+						"expanded_url": "https://twitter.com/BFI/status/1176790948086517760/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1176785721820160000,
+						"id_str": "1176785721820160001",
+						"indices": [
+							203,
+							226
+						],
+						"media_url": "http://pbs.twimg.com/media/EFTL5AcXkAIQVoW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFTL5AcXkAIQVoW.jpg",
+						"url": "https://t.co/Zb1eIjBHDo",
+						"display_url": "pic.twitter.com/Zb1eIjBHDo",
+						"expanded_url": "https://twitter.com/BFI/status/1176790948086517760/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 36840,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1176785721820160001/vid/320x320/Aq3W1k3nIMXbgOrH.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1176785721820160001/pl/aaAkVIP4VThaO7jt.m3u8?tag=13"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1176785721820160001/vid/720x720/CV5LntPg-zgOiVgt.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1176785721820160001/vid/480x480/0JMKw1PzzkJzlm5Z.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Audley Range School, Blackburn (c.1905) | Britain On Film",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15687399,
+				"id_str": "15687399",
+				"name": "BFI",
+				"screen_name": "BFI",
+				"location": "UK",
+				"description": "We are the British Film Institute. Passionate about film. We use #NationalLottery funding to inspire people to watch, make and learn about film. 🎥 🎬📺📽🎞",
+				"url": "https://t.co/SYMucuZNvq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SYMucuZNvq",
+								"expanded_url": "https://www.bfi.org.uk/",
+								"display_url": "bfi.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 828334,
+				"friends_count": 2669,
+				"listed_count": 6550,
+				"created_at": "Fri Aug 01 09:48:14 +0000 2008",
+				"favourites_count": 5887,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 65381,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "010101",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1155871250692091905/SnSihAe8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155871250692091905/SnSihAe8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15687399/1568391824",
+				"profile_link_color": "EB6A0F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 36,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I had no idea it was #NationalFitnessDay2019 ? \n\nAnyway, here’s some Victorian’ish children cracking some IMF or is that Swedish Gymnastics? 🕺💃\n\n@consultantPT @djwalker587 https://t.co/YwtTg3cSgp"
+	},
+	{
+		"created_at": "Wed Sep 25 19:59:55 +0000 2019",
+		"id": 1176949470203994000,
+		"id_str": "1176949470203994112",
+		"full_text": "@TPMPodcast Not received an email? \n\nWhat’s an enjoyable ... 🤣",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TPMPodcast",
+					"name": "Physio Matters",
+					"id": 1914280350,
+					"id_str": "1914280350",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1176948973111783400,
+		"in_reply_to_status_id_str": "1176948973111783424",
+		"in_reply_to_user_id": 1914280350,
+		"in_reply_to_user_id_str": "1914280350",
+		"in_reply_to_screen_name": "TPMPodcast",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtqpCl) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtqpCl",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1664,
+			"friends_count": 2657,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TPMPodcast Not received an email? \n\nWhat’s an enjoyable ... 🤣"
+	},
+	{
+		"created_at": "Wed Sep 25 19:57:01 +0000 2019",
+		"id": 1176948744182481000,
+		"id_str": "1176948744182480897",
+		"full_text": "@TPMPodcast how do we go about booking onto the workshops #thebigrs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "thebigrs",
+					"indices": [
+						58,
+						67
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TPMPodcast",
+					"name": "Physio Matters",
+					"id": 1914280350,
+					"id_str": "1914280350",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 1914280350,
+		"in_reply_to_user_id_str": "1914280350",
+		"in_reply_to_screen_name": "TPMPodcast",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtqpCl) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtqpCl",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1664,
+			"friends_count": 2657,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14033,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5310,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TPMPodcast how do we go about booking onto the workshops #thebigrs"
+	},
+	{
 		"created_at": "Tue Sep 24 19:15:57 +0000 2019",
 		"id": 1176576018297102300,
 		"id_str": "1176576018297102338",
-		"full_text": "@registrarism @UniofNottingham @UoNStudentLife I still haven’t found it 🤷‍♂️🤦🏻‍♂️",
+		"full_text": "@registrarism @UniofNottingham @UoNStudentLife I still haven’t found it 🤷♂️🤦🏻♂️",
 		"truncated": false,
 		"display_text_range": [
 			47,
@@ -121,7 +696,7 @@ Grailbird.data.tweets_2019_09 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@registrarism @UniofNottingham @UoNStudentLife I still haven’t found it 🤷‍♂️🤦🏻‍♂️"
+		"text": "@registrarism @UniofNottingham @UoNStudentLife I still haven’t found it 🤷♂️🤦🏻♂️"
 	},
 	{
 		"created_at": "Mon Sep 23 20:05:46 +0000 2019",
