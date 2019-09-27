@@ -1,6 +1,686 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 26 20:29:05 +0000 2019",
+		"id": 1177319198969729000,
+		"id_str": "1177319198969729028",
+		"full_text": "@Adrian30530030 @JackAChew Bed of nails?",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Adrian30530030",
+					"name": "Adrian McGregor",
+					"id": 2502204621,
+					"id_str": "2502204621",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "JackAChew",
+					"name": "Jack Chew",
+					"id": 868558446,
+					"id_str": "868558446",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1177233214106218500,
+		"in_reply_to_status_id_str": "1177233214106218498",
+		"in_reply_to_user_id": 2502204621,
+		"in_reply_to_user_id_str": "2502204621",
+		"in_reply_to_screen_name": "Adrian30530030",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtqpCl) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtqpCl",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1664,
+			"friends_count": 2659,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14051,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Adrian30530030 @JackAChew Bed of nails?"
+	},
+	{
+		"created_at": "Thu Sep 26 16:42:05 +0000 2019",
+		"id": 1177141360299827200,
+		"id_str": "1177262075397255169",
+		"full_text": "It is frankly unacceptable that, except in Wales, every Trust or Health Board does not have an AHP director, responsible for AHPs. AHPs critical to transforming care and integration but their expertise and perspective is lost to the top table. #AHPLeadership https://t.co/M6COWOJyQO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AHPLeadership",
+					"indices": [
+						244,
+						258
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M6COWOJyQO",
+					"expanded_url": "https://twitter.com/dangroves_nhs/status/1177122760398651392",
+					"display_url": "twitter.com/dangroves_nhs/…",
+					"indices": [
+						259,
+						282
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 722676146,
+			"id_str": "722676146",
+			"name": "Rob Yeldham",
+			"screen_name": "RobYeldham",
+			"location": "London",
+			"description": "Transforming lives as director @theCSP (prof body/TU) & Vice-Chair @WeAreARMA (charity). Chart. PR. Like wetlands. Only my views. RTs/likes no endorsement",
+			"url": "https://t.co/0zvCGRCWPh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0zvCGRCWPh",
+							"expanded_url": "http://www.csp.org.uk",
+							"display_url": "csp.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5385,
+			"friends_count": 5891,
+			"listed_count": 157,
+			"created_at": "Sat Jul 28 19:09:12 +0000 2012",
+			"favourites_count": 127832,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50043,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/919662388475039744/lR84f_M5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/919662388475039744/lR84f_M5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/722676146/1508666725",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1177122760398651400,
+		"quoted_status_id_str": "1177122760398651392",
+		"quoted_status_permalink": {
+			"url": "https://t.co/M6COWOJyQO",
+			"expanded": "https://twitter.com/dangroves_nhs/status/1177122760398651392",
+			"display": "twitter.com/dangroves_nhs/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 26 07:28:30 +0000 2019",
+			"id": 1177122760398651400,
+			"id_str": "1177122760398651392",
+			"full_text": "Disappointing that AHP’s can’t apply for this post☹️ ⬇️ Executive Director of Nursing, AHPs and Quality job with Nottinghamshire Healthcare NHS Foundation Trust Nottinghamshire https://t.co/5ohkhHccYf #jobs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				206
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "jobs",
+						"indices": [
+							201,
+							206
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5ohkhHccYf",
+						"expanded_url": "https://www.hsjjobs.com/job/2601696/executive-director-of-nursing-ahps-and-quality/?TrackID=1307",
+						"display_url": "hsjjobs.com/job/2601696/ex…",
+						"indices": [
+							177,
+							200
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3313040055,
+				"id_str": "3313040055",
+				"name": "Dan Groves",
+				"screen_name": "dangroves_nhs",
+				"location": "South East, England",
+				"description": "Physiotherapy Professional Lead for Unscheduled Care Services and AIS secondment in Berkshire Healthcare NHS Foundation Trust. Views are my own",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 120,
+				"friends_count": 154,
+				"listed_count": 0,
+				"created_at": "Mon Jun 08 11:48:08 +0000 2015",
+				"favourites_count": 150,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 218,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1051775952341147648/LD44bRLb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1051775952341147648/LD44bRLb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3313040055/1558295218",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 76,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 14,
+		"favorite_count": 36,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It is frankly unacceptable that, except in Wales, every Trust or Health Board does not have an AHP director, responsible for AHPs. AHPs critical to transforming care and integration but their expertise and perspective is lost to the top table. #AHPLeadership https://t.co/M6COWOJyQO"
+	},
+	{
+		"created_at": "Thu Sep 26 07:57:50 +0000 2019",
+		"id": 1177126628587184000,
+		"id_str": "1177130142939918337",
+		"full_text": "Please note change of venue for tonight’s @MSKEdNet talk due to unforeseen circumstances. Please retweet:\n\n@Cockingclaire @beardedPT @RogerKerry1 \n\n👇👇👇 https://t.co/1feck8BxBl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MSKEdNet",
+					"name": "Connect Education",
+					"id": 841603309970546700,
+					"id_str": "841603309970546688",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"screen_name": "Cockingclaire",
+					"name": "Claire cocking",
+					"id": 200427891,
+					"id_str": "200427891",
+					"indices": [
+						107,
+						121
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						122,
+						132
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						133,
+						145
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1feck8BxBl",
+					"expanded_url": "https://twitter.com/neil_marshall1/status/1176912057112940545",
+					"display_url": "twitter.com/neil_marshall1…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 55323285,
+			"id_str": "55323285",
+			"name": "Phil Barber",
+			"screen_name": "PhilCharlesBar",
+			"location": "Colchester, England",
+			"description": "Developing Consultant and Clinical Lead for Essex @connect_health_ Passionate about delivering great quality care. All views my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 440,
+			"friends_count": 173,
+			"listed_count": 0,
+			"created_at": "Thu Jul 09 18:48:52 +0000 2009",
+			"favourites_count": 1722,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1049008755537588224/0kYo3VMy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049008755537588224/0kYo3VMy_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1176912057112940500,
+		"quoted_status_id_str": "1176912057112940545",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1feck8BxBl",
+			"expanded": "https://twitter.com/neil_marshall1/status/1176912057112940545",
+			"display": "twitter.com/neil_marshall1…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 25 17:31:15 +0000 2019",
+			"id": 1176912057112940500,
+			"id_str": "1176912057112940545",
+			"full_text": "Last minute update out of our control, we have had to change venue but that won’t stop us ⁦@Connect_Health_⁩  \n\nNEW VENUE\n\nKilpin Room, \nNTU Events and Conferencing, \nBurton Street, Nottingham, \nNG1 4BU\n#seeyouthere #msk #physiotherapy https://t.co/7bCL4yw2yR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				235
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "seeyouthere",
+						"indices": [
+							203,
+							215
+						]
+					},
+					{
+						"text": "msk",
+						"indices": [
+							216,
+							220
+						]
+					},
+					{
+						"text": "physiotherapy",
+						"indices": [
+							221,
+							235
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Connect_Health_",
+						"name": "Connect Health",
+						"id": 172671338,
+						"id_str": "172671338",
+						"indices": [
+							91,
+							107
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1176912049315729400,
+						"id_str": "1176912049315729408",
+						"indices": [
+							236,
+							259
+						],
+						"media_url": "http://pbs.twimg.com/media/EFU7RfdXUAA5CPC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFU7RfdXUAA5CPC.jpg",
+						"url": "https://t.co/7bCL4yw2yR",
+						"display_url": "pic.twitter.com/7bCL4yw2yR",
+						"expanded_url": "https://twitter.com/Neil_Marshall1/status/1176912057112940545/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1448,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1176912049315729400,
+						"id_str": "1176912049315729408",
+						"indices": [
+							236,
+							259
+						],
+						"media_url": "http://pbs.twimg.com/media/EFU7RfdXUAA5CPC.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EFU7RfdXUAA5CPC.jpg",
+						"url": "https://t.co/7bCL4yw2yR",
+						"display_url": "pic.twitter.com/7bCL4yw2yR",
+						"expanded_url": "https://twitter.com/Neil_Marshall1/status/1176912057112940545/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1448,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1514397811,
+				"id_str": "1514397811",
+				"name": "Neil Marshall",
+				"screen_name": "Neil_Marshall1",
+				"location": "Nottingham UK",
+				"description": "Regional Manager MSK Services (Central) #family #msk #physiotherapy #pain #patientcentredcare @Connect_Health_ Views are my own. Always known for smiling  😀",
+				"url": "https://t.co/3oSInq2tY4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3oSInq2tY4",
+								"expanded_url": "http://www.connecthealth.co.uk",
+								"display_url": "connecthealth.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 270,
+				"friends_count": 288,
+				"listed_count": 1,
+				"created_at": "Thu Jun 13 20:24:38 +0000 2013",
+				"favourites_count": 2085,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 657,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1173255511468314624/MdvmZ7O7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173255511468314624/MdvmZ7O7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1514397811/1530602764",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please note change of venue for tonight’s @MSKEdNet talk due to unforeseen circumstances. Please retweet:\n\n@Cockingclaire @beardedPT @RogerKerry1 \n\n👇👇👇 https://t.co/1feck8BxBl"
+	},
+	{
 		"created_at": "Wed Sep 25 20:34:53 +0000 2019",
 		"id": 1176958272038981600,
 		"id_str": "1176958272038981641",
