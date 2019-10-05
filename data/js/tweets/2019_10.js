@@ -1,6 +1,116 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 04 20:08:13 +0000 2019",
+		"id": 1180099334832033800,
+		"id_str": "1180213053155098624",
+		"full_text": "Coming to the end of week 1 for our rotational band 5’s in their new areas. It’s always exciting to have new people in our teams to shake things up a bit! WELCOME! #band5 #physiotherapists",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			188
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "band5",
+					"indices": [
+						164,
+						170
+					]
+				},
+				{
+					"text": "physiotherapists",
+					"indices": [
+						171,
+						188
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 923868733034106900,
+			"id_str": "923868733034106880",
+			"name": "Derby Therapies OPD",
+			"screen_name": "DerbyPhysioOPD",
+			"location": "LRCH, Derby, England",
+			"description": "Physiotherapy, Occupational Therapy and Group Rehabilitation at University Hospitals of Derby and Burton NHS Foundation Trust",
+			"url": "https://t.co/aQfRaNeFSL",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aQfRaNeFSL",
+							"expanded_url": "http://www.derbyhospitals.nhs.uk/about/depts/physiotherapy/physiotherapy-outpatients/",
+							"display_url": "derbyhospitals.nhs.uk/about/depts/ph…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 237,
+			"friends_count": 115,
+			"listed_count": 0,
+			"created_at": "Fri Oct 27 11:07:25 +0000 2017",
+			"favourites_count": 303,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/923887426011062273/htD9mAaZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/923887426011062273/htD9mAaZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/923868733034106880/1509104054",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Coming to the end of week 1 for our rotational band 5’s in their new areas. It’s always exciting to have new people in our teams to shake things up a bit! WELCOME! #band5 #physiotherapists"
+	},
+	{
 		"created_at": "Wed Oct 02 17:28:17 +0000 2019",
 		"id": 1179448028090032000,
 		"id_str": "1179448028090032129",
