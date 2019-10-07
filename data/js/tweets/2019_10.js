@@ -1,6 +1,667 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sun Oct 06 20:41:37 +0000 2019",
+		"id": 1180946233747222500,
+		"id_str": "1180946233747222529",
+		"full_text": "Proud brother 👏🕺 https://t.co/AFWIDyJsNq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AFWIDyJsNq",
+					"expanded_url": "https://twitter.com/shaun_ldnurse/status/1179377604450832384",
+					"display_url": "twitter.com/shaun_ldnurse/…",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtqpCl) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtqpCl",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1671,
+			"friends_count": 2665,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1179377604450832400,
+		"quoted_status_id_str": "1179377604450832384",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AFWIDyJsNq",
+			"expanded": "https://twitter.com/shaun_ldnurse/status/1179377604450832384",
+			"display": "twitter.com/shaun_ldnurse/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 02 12:48:27 +0000 2019",
+			"id": 1179377604450832400,
+			"id_str": "1179377604450832384",
+			"full_text": "So will be one of the @NursingTimes student editors this academic year and very much looking forward to it and raising the profile or #LDNursing @WeLDnurses #StudentNurse #Nursing #LearningDisabilityNursing https://t.co/xZluBzB29X",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				206
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "LDNursing",
+						"indices": [
+							134,
+							144
+						]
+					},
+					{
+						"text": "StudentNurse",
+						"indices": [
+							157,
+							170
+						]
+					},
+					{
+						"text": "Nursing",
+						"indices": [
+							171,
+							179
+						]
+					},
+					{
+						"text": "LearningDisabilityNursing",
+						"indices": [
+							180,
+							206
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NursingTimes",
+						"name": "Nursing Times",
+						"id": 15881875,
+						"id_str": "15881875",
+						"indices": [
+							22,
+							35
+						]
+					},
+					{
+						"screen_name": "WeLDnurses",
+						"name": "WeLDNurses",
+						"id": 807627110,
+						"id_str": "807627110",
+						"indices": [
+							145,
+							156
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/xZluBzB29X",
+						"expanded_url": "https://twitter.com/stevejford/status/1179376269613522946",
+						"display_url": "twitter.com/stevejford/sta…",
+						"indices": [
+							207,
+							230
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 901055791515435000,
+				"id_str": "901055791515435008",
+				"name": "Shaun Williams",
+				"screen_name": "Shaun_LDNurse",
+				"location": "Birmingham, England",
+				"description": "StN LD nurse @KeeleUniversity; @councilofdeans #150Leaders; @RCN SIO; primary care, equality, and healthcare for all; neurodiverse. 🌈☕️🦄",
+				"url": "https://t.co/7w7u43jgD5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7w7u43jgD5",
+								"expanded_url": "https://theneurodiversenurse.wordpress.com/",
+								"display_url": "theneurodiversenurse.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1072,
+				"friends_count": 1563,
+				"listed_count": 7,
+				"created_at": "Fri Aug 25 12:16:56 +0000 2017",
+				"favourites_count": 8015,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4489,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/972013590768070656/fpLB_pZ1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/972013590768070656/fpLB_pZ1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/901055791515435008/1506266745",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1179376269613523000,
+			"quoted_status_id_str": "1179376269613522946",
+			"quoted_status_permalink": {
+				"url": "https://t.co/xZluBzB29X",
+				"expanded": "https://twitter.com/stevejford/status/1179376269613522946",
+				"display": "twitter.com/stevejford/sta…"
+			},
+			"retweet_count": 7,
+			"favorite_count": 45,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Proud brother 👏🕺 https://t.co/AFWIDyJsNq"
+	},
+	{
+		"created_at": "Sun Oct 06 20:39:08 +0000 2019",
+		"id": 1180945607231451100,
+		"id_str": "1180945607231451137",
+		"full_text": "@jess_woolley @wlv_physio @ReenaPatel2120 @wlv_uni The BNF app is pretty good too",
+		"truncated": false,
+		"display_text_range": [
+			51,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jess_woolley",
+					"name": "Jess Woolley",
+					"id": 1049263602543333400,
+					"id_str": "1049263602543333377",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "wlv_physio",
+					"name": "For students, by students.",
+					"id": 934855922949771300,
+					"id_str": "934855922949771265",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "ReenaPatel2120",
+					"name": "Reena Patel",
+					"id": 898175025739640800,
+					"id_str": "898175025739640835",
+					"indices": [
+						26,
+						41
+					]
+				},
+				{
+					"screen_name": "wlv_uni",
+					"name": "Uni of Wolverhampton",
+					"id": 40088191,
+					"id_str": "40088191",
+					"indices": [
+						42,
+						50
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1180758152305885200,
+		"in_reply_to_status_id_str": "1180758152305885184",
+		"in_reply_to_user_id": 1049263602543333400,
+		"in_reply_to_user_id_str": "1049263602543333377",
+		"in_reply_to_screen_name": "jess_woolley",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtqpCl) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtqpCl",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1671,
+			"friends_count": 2665,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jess_woolley @wlv_physio @ReenaPatel2120 @wlv_uni The BNF app is pretty good too"
+	},
+	{
+		"created_at": "Sun Oct 06 20:38:26 +0000 2019",
+		"id": 1180945430399475700,
+		"id_str": "1180945430399475712",
+		"full_text": "@paulawoods5 @StaffsUni Ordered 🤓🛒",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "paulawoods5",
+					"name": "Paula Deacon",
+					"id": 485209939,
+					"id_str": "485209939",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "StaffsUni",
+					"name": "Staffordshire Uni",
+					"id": 66952977,
+					"id_str": "66952977",
+					"indices": [
+						13,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1179449918802600000,
+		"in_reply_to_status_id_str": "1179449918802599937",
+		"in_reply_to_user_id": 485209939,
+		"in_reply_to_user_id_str": "485209939",
+		"in_reply_to_screen_name": "paulawoods5",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtqpCl) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtqpCl",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1671,
+			"friends_count": 2665,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@paulawoods5 @StaffsUni Ordered 🤓🛒"
+	},
+	{
+		"created_at": "Sun Oct 06 09:54:44 +0000 2019",
+		"id": 1180783439894732800,
+		"id_str": "1180783439894732800",
+		"full_text": "@LivingWellPain @thomas_jesson @diarmuiddenneny @keith_meldrum @PhysioPainAssoc 👏🙌",
+		"truncated": false,
+		"display_text_range": [
+			80,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LivingWellPain",
+					"name": "Tina",
+					"id": 1008439629912166400,
+					"id_str": "1008439629912166401",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "thomas_jesson",
+					"name": "Tom Jesson",
+					"id": 3091527256,
+					"id_str": "3091527256",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "diarmuiddenneny",
+					"name": "#hellomynameis Diarmuid",
+					"id": 981448568,
+					"id_str": "981448568",
+					"indices": [
+						31,
+						47
+					]
+				},
+				{
+					"screen_name": "keith_meldrum",
+					"name": "Keith Meldrum",
+					"id": 1011380631735959600,
+					"id_str": "1011380631735959552",
+					"indices": [
+						48,
+						62
+					]
+				},
+				{
+					"screen_name": "PhysioPainAssoc",
+					"name": "PPA",
+					"id": 1054528794,
+					"id_str": "1054528794",
+					"indices": [
+						63,
+						79
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1180777430455332900,
+		"in_reply_to_status_id_str": "1180777430455332864",
+		"in_reply_to_user_id": 1008439629912166400,
+		"in_reply_to_user_id_str": "1008439629912166401",
+		"in_reply_to_screen_name": "LivingWellPain",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtqpCl) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtqpCl",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1671,
+			"friends_count": 2665,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5326,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1164286377523068929/RvF93R26_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@LivingWellPain @thomas_jesson @diarmuiddenneny @keith_meldrum @PhysioPainAssoc 👏🙌"
+	},
+	{
 		"created_at": "Fri Oct 04 20:08:13 +0000 2019",
 		"id": 1180099334832033800,
 		"id_str": "1180213053155098624",
