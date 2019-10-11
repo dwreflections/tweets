@@ -1,6 +1,339 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 10 21:57:07 +0000 2019",
+		"id": 1182209681592336400,
+		"id_str": "1182414782894399490",
+		"full_text": "One of the highlights of my University experience. I gained so much from it! \n\nGet applying before 10th of November!! @UOB_Physio @BradfordSRPS https://t.co/qxzuauim9v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UOB_Physio",
+					"name": "University of Bradford Physiotherapy Programmes",
+					"id": 26543747,
+					"id_str": "26543747",
+					"indices": [
+						118,
+						129
+					]
+				},
+				{
+					"screen_name": "BradfordSRPS",
+					"name": "Bradford SRPS",
+					"id": 806468358199803900,
+					"id_str": "806468358199803904",
+					"indices": [
+						130,
+						143
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qxzuauim9v",
+					"expanded_url": "https://twitter.com/150leaders/status/1182177691992121344",
+					"display_url": "twitter.com/150leaders/sta…",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1523450449,
+			"id_str": "1523450449",
+			"name": "Darragh Mc Gee",
+			"screen_name": "DMGPhysio",
+			"location": "",
+			"description": "Newly Qualified Physiotherapist, 1 of the #150Leaders @councilofdeans Student Leadership Programme. Co.Donegal | West Yorkshire",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 544,
+			"friends_count": 560,
+			"listed_count": 2,
+			"created_at": "Sun Jun 16 23:03:50 +0000 2013",
+			"favourites_count": 1308,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1029043086599639040/f1vAcBiH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1029043086599639040/f1vAcBiH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1523450449/1520436072",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1182177691992121300,
+		"quoted_status_id_str": "1182177691992121344",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qxzuauim9v",
+			"expanded": "https://twitter.com/150leaders/status/1182177691992121344",
+			"display": "twitter.com/150leaders/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 10 06:15:00 +0000 2019",
+			"id": 1182177691992121300,
+			"id_str": "1182177691992121344",
+			"full_text": "Applications for the @councilofdeans Student Leadership Programme 2020 are now open! Please see our website for further information and guidance on how to apply: https://t.co/PFOHIgu5YV \nDeadline - 10 November #150Leaders @BurdettTrust https://t.co/oDi2fzt9cR",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				235
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "150Leaders",
+						"indices": [
+							210,
+							221
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "councilofdeans",
+						"name": "Council of Deans",
+						"id": 278442312,
+						"id_str": "278442312",
+						"indices": [
+							21,
+							36
+						]
+					},
+					{
+						"screen_name": "BurdettTrust",
+						"name": "Burdett Trust",
+						"id": 1227571489,
+						"id_str": "1227571489",
+						"indices": [
+							222,
+							235
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/PFOHIgu5YV",
+						"expanded_url": "https://councilofdeans.org.uk/studentleadership",
+						"display_url": "councilofdeans.org.uk/studentleaders…",
+						"indices": [
+							162,
+							185
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1181137661656027100,
+						"id_str": "1181137661656027136",
+						"indices": [
+							236,
+							259
+						],
+						"media_url": "http://pbs.twimg.com/media/EGQ-cgHX0AAwDA6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGQ-cgHX0AAwDA6.jpg",
+						"url": "https://t.co/oDi2fzt9cR",
+						"display_url": "pic.twitter.com/oDi2fzt9cR",
+						"expanded_url": "https://twitter.com/150Leaders/status/1182177691992121344/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1254,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 735,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 416,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1181137661656027100,
+						"id_str": "1181137661656027136",
+						"indices": [
+							236,
+							259
+						],
+						"media_url": "http://pbs.twimg.com/media/EGQ-cgHX0AAwDA6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGQ-cgHX0AAwDA6.jpg",
+						"url": "https://t.co/oDi2fzt9cR",
+						"display_url": "pic.twitter.com/oDi2fzt9cR",
+						"expanded_url": "https://twitter.com/150Leaders/status/1182177691992121344/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1254,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 735,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 416,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1139187039151280100,
+				"id_str": "1139187039151280128",
+				"name": "#150Leaders",
+				"screen_name": "150Leaders",
+				"location": "United Kingdom",
+				"description": "@councilofdeans Student Leadership Programme | co-funded by @BurdettTrust | designed for student nurses, midwives & AHPs across the UK | co-created by students",
+				"url": "https://t.co/AxAGczzJZw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AxAGczzJZw",
+								"expanded_url": "http://www.councilofdeans.org.uk/studentleadership",
+								"display_url": "councilofdeans.org.uk/studentleaders…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 401,
+				"friends_count": 79,
+				"listed_count": 0,
+				"created_at": "Thu Jun 13 15:05:29 +0000 2019",
+				"favourites_count": 254,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 304,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1141695642672279552/rf-wEzoI_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141695642672279552/rf-wEzoI_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1139187039151280128/1570013576",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One of the highlights of my University experience. I gained so much from it! \n\nGet applying before 10th of November!! @UOB_Physio @BradfordSRPS https://t.co/qxzuauim9v"
+	},
+	{
 		"created_at": "Wed Oct 09 20:23:09 +0000 2019",
 		"id": 1182028748729847800,
 		"id_str": "1182028748729847809",
