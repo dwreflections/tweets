@@ -1,6 +1,141 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 14 07:48:55 +0000 2019",
+		"id": 1183638433631223800,
+		"id_str": "1183650880274468864",
+		"full_text": "Happy #AHPsDay to all those wonderful #AHPs out there (including my big bro @beardedPT)! We’re all better because of each other in #Healthcare. #AlliedHealthProfessionals",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AHPsDay",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "AHPs",
+					"indices": [
+						38,
+						43
+					]
+				},
+				{
+					"text": "Healthcare",
+					"indices": [
+						131,
+						142
+					]
+				},
+				{
+					"text": "AlliedHealthProfessionals",
+					"indices": [
+						144,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						76,
+						86
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 901055791515435000,
+			"id_str": "901055791515435008",
+			"name": "Shaun Williams",
+			"screen_name": "Shaun_LDNurse",
+			"location": "Birmingham, England",
+			"description": "StN LD nurse @KeeleUniversity; @councilofdeans #150Leaders; @NursingTimes Student Editor 19-20; @RCN SIO; equality, and healthcare for all; neurodiverse. 🌈☕️🦄",
+			"url": "https://t.co/7w7u43jgD5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7w7u43jgD5",
+							"expanded_url": "https://theneurodiversenurse.wordpress.com/",
+							"display_url": "theneurodiversenurse.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1098,
+			"friends_count": 1581,
+			"listed_count": 7,
+			"created_at": "Fri Aug 25 12:16:56 +0000 2017",
+			"favourites_count": 8226,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4581,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/972013590768070656/fpLB_pZ1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/972013590768070656/fpLB_pZ1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/901055791515435008/1506266745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Happy #AHPsDay to all those wonderful #AHPs out there (including my big bro @beardedPT)! We’re all better because of each other in #Healthcare. #AlliedHealthProfessionals"
+	},
+	{
 		"created_at": "Fri Oct 11 20:10:17 +0000 2019",
 		"id": 1182750285954990000,
 		"id_str": "1182750285954990080",
