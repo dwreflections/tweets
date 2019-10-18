@@ -1,6 +1,106 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 17 19:37:06 +0000 2019",
+		"id": 1184916263274983400,
+		"id_str": "1184916263274983425",
+		"full_text": "Anyone, In Manchester already? 😎🤔#theBigRs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "theBigRs",
+					"indices": [
+						33,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1678,
+			"friends_count": 2669,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14185,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5350,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Anyone, In Manchester already? 😎🤔#theBigRs"
+	},
+	{
 		"created_at": "Wed Oct 16 20:07:06 +0000 2019",
 		"id": 1184561425848684500,
 		"id_str": "1184561425848684544",
@@ -107,7 +207,7 @@ Grailbird.data.tweets_2019_10 =
 		"created_at": "Wed Oct 16 19:42:15 +0000 2019",
 		"id": 1184555172325929000,
 		"id_str": "1184555172325928960",
-		"full_text": "@fimo18 @arcadiatherapy @UoN_SHS @UoNPhysio @UoNSportRehab @RogerKerry1 Exercise in specific populations was a great module 🏃‍♀️🙌",
+		"full_text": "@fimo18 @arcadiatherapy @UoN_SHS @UoNPhysio @UoNSportRehab @RogerKerry1 Exercise in specific populations was a great module 🏃♀️🙌",
 		"truncated": false,
 		"display_text_range": [
 			72,
@@ -254,7 +354,7 @@ Grailbird.data.tweets_2019_10 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@fimo18 @arcadiatherapy @UoN_SHS @UoNPhysio @UoNSportRehab @RogerKerry1 Exercise in specific populations was a great module 🏃‍♀️🙌"
+		"text": "@fimo18 @arcadiatherapy @UoN_SHS @UoNPhysio @UoNSportRehab @RogerKerry1 Exercise in specific populations was a great module 🏃♀️🙌"
 	},
 	{
 		"created_at": "Mon Oct 14 07:48:55 +0000 2019",
