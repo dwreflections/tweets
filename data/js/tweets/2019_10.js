@@ -1,6 +1,915 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Fri Oct 18 16:23:45 +0000 2019",
+		"id": 1185210718414655500,
+		"id_str": "1185229994508869633",
+		"full_text": "Final session of the day here at #TheBigRs \nReforming Clinical Education - @ReenaPatel2120 \nInvited critic - Sally Gosling \n@beardedPT and @JackAChew also on the panel https://t.co/SzGRUUU2tW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheBigRs",
+					"indices": [
+						33,
+						42
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ReenaPatel2120",
+					"name": "Reena Patel",
+					"id": 898175025739640800,
+					"id_str": "898175025739640835",
+					"indices": [
+						75,
+						90
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						124,
+						134
+					]
+				},
+				{
+					"screen_name": "JackAChew",
+					"name": "Jack Chew",
+					"id": 868558446,
+					"id_str": "868558446",
+					"indices": [
+						139,
+						149
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1185210707371057200,
+					"id_str": "1185210707371057152",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EHK229zXYAAmatk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHK229zXYAAmatk.jpg",
+					"url": "https://t.co/SzGRUUU2tW",
+					"display_url": "pic.twitter.com/SzGRUUU2tW",
+					"expanded_url": "https://twitter.com/MSKReform/status/1185210718414655488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1185210707371057200,
+					"id_str": "1185210707371057152",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/media/EHK229zXYAAmatk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EHK229zXYAAmatk.jpg",
+					"url": "https://t.co/SzGRUUU2tW",
+					"display_url": "pic.twitter.com/SzGRUUU2tW",
+					"expanded_url": "https://twitter.com/MSKReform/status/1185210718414655488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1173641102701793300,
+			"id_str": "1173641102701793280",
+			"name": "MSKReform",
+			"screen_name": "MSKReform",
+			"location": "",
+			"description": "The movement best known as #TheBigRs has been formalised. We are the grass-roots MSK think-tank. We are MSKReform. Join from 19/10/19 at: https://t.co/Ci3oYtSHK1",
+			"url": "https://t.co/31SCtD4LhJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/31SCtD4LhJ",
+							"expanded_url": "http://www.mskreform.org.uk",
+							"display_url": "mskreform.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Ci3oYtSHK1",
+							"expanded_url": "http://MSKReform.org.uk",
+							"display_url": "MSKReform.org.uk",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 474,
+			"friends_count": 10,
+			"listed_count": 1,
+			"created_at": "Mon Sep 16 16:53:49 +0000 2019",
+			"favourites_count": 7,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 33,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1173641205089013760/yjfXIGaO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173641205089013760/yjfXIGaO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1173641102701793280/1568652880",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Final session of the day here at #TheBigRs \nReforming Clinical Education - @ReenaPatel2120 \nInvited critic - Sally Gosling \n@beardedPT and @JackAChew also on the panel https://t.co/SzGRUUU2tW"
+	},
+	{
+		"created_at": "Fri Oct 18 09:41:15 +0000 2019",
+		"id": 1185107116358619100,
+		"id_str": "1185128699156410369",
+		"full_text": "You will be able to download the \"Manifesto for Reform\" in full at the end of play of the conference (Open Access)\nhead to https://t.co/SGwLS7utr8 :)\n\n#TheBigRs #MSKR @MSKReform https://t.co/q8TSsZMxyM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheBigRs",
+					"indices": [
+						151,
+						160
+					]
+				},
+				{
+					"text": "MSKR",
+					"indices": [
+						161,
+						166
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MSKReform",
+					"name": "MSKReform",
+					"id": 1173641102701793300,
+					"id_str": "1173641102701793280",
+					"indices": [
+						167,
+						177
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SGwLS7utr8",
+					"expanded_url": "http://MSKReform.org.uk",
+					"display_url": "MSKReform.org.uk",
+					"indices": [
+						123,
+						146
+					]
+				},
+				{
+					"url": "https://t.co/q8TSsZMxyM",
+					"expanded_url": "https://twitter.com/TPMPodcast/status/1185106341737779200",
+					"display_url": "twitter.com/TPMPodcast/sta…",
+					"indices": [
+						178,
+						201
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1914280350,
+			"id_str": "1914280350",
+			"name": "Physio Matters",
+			"screen_name": "TPMPodcast",
+			"location": "United Kingdom",
+			"description": "Confronting Bad Ideas With Good Ones since 2013 | Brain-child of @JackAChew | Tweets by team #TPMP | #TheBigRs tickets: https://t.co/cVbRgwX1ua",
+			"url": "https://t.co/qWMSyCCcZA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qWMSyCCcZA",
+							"expanded_url": "http://chewshealth.co.uk/the-physio-matters-podcast/",
+							"display_url": "chewshealth.co.uk/the-physio-mat…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cVbRgwX1ua",
+							"expanded_url": "http://reform.physio/conference/",
+							"display_url": "reform.physio/conference/",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18549,
+			"friends_count": 334,
+			"listed_count": 104,
+			"created_at": "Sat Sep 28 14:30:49 +0000 2013",
+			"favourites_count": 9663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080205037303984129/sUcVPZvR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080205037303984129/sUcVPZvR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1914280350/1564732346",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1185106341737779200,
+		"quoted_status_id_str": "1185106341737779200",
+		"quoted_status_permalink": {
+			"url": "https://t.co/q8TSsZMxyM",
+			"expanded": "https://twitter.com/TPMPodcast/status/1185106341737779200",
+			"display": "twitter.com/TPMPodcast/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 18 08:12:24 +0000 2019",
+			"id": 1185106341737779200,
+			"id_str": "1185106341737779200",
+			"full_text": "@Emmajsalt has the job of telling us all about chapter 1 of the Manifesto for Reform - Reforming Evidence.\n@NeilOConnell is the invited critic for this topic. \n#TheBigRs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TheBigRs",
+						"indices": [
+							160,
+							169
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Emmajsalt",
+						"name": "Emma Salt",
+						"id": 529768682,
+						"id_str": "529768682",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "NeilOConnell",
+						"name": "Neil O'Connell",
+						"id": 149072907,
+						"id_str": "149072907",
+						"indices": [
+							107,
+							120
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 529768682,
+			"in_reply_to_user_id_str": "529768682",
+			"in_reply_to_screen_name": "Emmajsalt",
+			"user": {
+				"id": 1914280350,
+				"id_str": "1914280350",
+				"name": "Physio Matters",
+				"screen_name": "TPMPodcast",
+				"location": "United Kingdom",
+				"description": "Confronting Bad Ideas With Good Ones since 2013 | Brain-child of @JackAChew | Tweets by team #TPMP | #TheBigRs tickets: https://t.co/cVbRgwX1ua",
+				"url": "https://t.co/qWMSyCCcZA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qWMSyCCcZA",
+								"expanded_url": "http://chewshealth.co.uk/the-physio-matters-podcast/",
+								"display_url": "chewshealth.co.uk/the-physio-mat…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/cVbRgwX1ua",
+								"expanded_url": "http://reform.physio/conference/",
+								"display_url": "reform.physio/conference/",
+								"indices": [
+									120,
+									143
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 18549,
+				"friends_count": 334,
+				"listed_count": 104,
+				"created_at": "Sat Sep 28 14:30:49 +0000 2013",
+				"favourites_count": 9663,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18065,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1080205037303984129/sUcVPZvR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080205037303984129/sUcVPZvR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1914280350/1564732346",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You will be able to download the \"Manifesto for Reform\" in full at the end of play of the conference (Open Access)\nhead to https://t.co/SGwLS7utr8 :)\n\n#TheBigRs #MSKR @MSKReform https://t.co/q8TSsZMxyM"
+	},
+	{
+		"created_at": "Fri Oct 18 09:26:12 +0000 2019",
+		"id": 1185124659760652300,
+		"id_str": "1185124913360834560",
+		"full_text": "Hi ALL,\n\nyou might notice there are 2 hashtags running #TheBigRs and #MSKR \n\n#MSKR is for Manifesto for reform document related info and #TheBigRs is for clinical/conference related info.\n\nFor best results use both!!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			216
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheBigRs",
+					"indices": [
+						55,
+						64
+					]
+				},
+				{
+					"text": "MSKR",
+					"indices": [
+						69,
+						74
+					]
+				},
+				{
+					"text": "MSKR",
+					"indices": [
+						77,
+						82
+					]
+				},
+				{
+					"text": "TheBigRs",
+					"indices": [
+						137,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1914280350,
+			"id_str": "1914280350",
+			"name": "Physio Matters",
+			"screen_name": "TPMPodcast",
+			"location": "United Kingdom",
+			"description": "Confronting Bad Ideas With Good Ones since 2013 | Brain-child of @JackAChew | Tweets by team #TPMP | #TheBigRs tickets: https://t.co/cVbRgwX1ua",
+			"url": "https://t.co/qWMSyCCcZA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qWMSyCCcZA",
+							"expanded_url": "http://chewshealth.co.uk/the-physio-matters-podcast/",
+							"display_url": "chewshealth.co.uk/the-physio-mat…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cVbRgwX1ua",
+							"expanded_url": "http://reform.physio/conference/",
+							"display_url": "reform.physio/conference/",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18549,
+			"friends_count": 334,
+			"listed_count": 104,
+			"created_at": "Sat Sep 28 14:30:49 +0000 2013",
+			"favourites_count": 9663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080205037303984129/sUcVPZvR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080205037303984129/sUcVPZvR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1914280350/1564732346",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hi ALL,\n\nyou might notice there are 2 hashtags running #TheBigRs and #MSKR \n\n#MSKR is for Manifesto for reform document related info and #TheBigRs is for clinical/conference related info.\n\nFor best results use both!!"
+	},
+	{
+		"created_at": "Fri Oct 18 09:18:01 +0000 2019",
+		"id": 1185122855073308700,
+		"id_str": "1185122855073308673",
+		"full_text": "@LiftForLifePT @Seth0Neill So good 🤓",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LiftForLifePT",
+					"name": "Tom the Physio",
+					"id": 100032434,
+					"id_str": "100032434",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Seth0Neill",
+					"name": "Achilles Tendons",
+					"id": 593740586,
+					"id_str": "593740586",
+					"indices": [
+						15,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1185119781348921300,
+		"in_reply_to_status_id_str": "1185119781348921344",
+		"in_reply_to_user_id": 100032434,
+		"in_reply_to_user_id_str": "100032434",
+		"in_reply_to_screen_name": "LiftForLifePT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1681,
+			"friends_count": 2672,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LiftForLifePT @Seth0Neill So good 🤓"
+	},
+	{
+		"created_at": "Fri Oct 18 08:57:41 +0000 2019",
+		"id": 1185117735728140300,
+		"id_str": "1185117735728140290",
+		"full_text": "@RogerKerry1 @MaryOKeeffe007 @NeilOConnell @kieranosull This topic is being discussed literally now at #TheBigRs #serendipity 🤓",
+		"truncated": false,
+		"display_text_range": [
+			56,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheBigRs",
+					"indices": [
+						103,
+						112
+					]
+				},
+				{
+					"text": "serendipity",
+					"indices": [
+						113,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "MaryOKeeffe007",
+					"name": "Mary O'Keeffe",
+					"id": 1380394272,
+					"id_str": "1380394272",
+					"indices": [
+						13,
+						28
+					]
+				},
+				{
+					"screen_name": "NeilOConnell",
+					"name": "Neil O'Connell",
+					"id": 149072907,
+					"id_str": "149072907",
+					"indices": [
+						29,
+						42
+					]
+				},
+				{
+					"screen_name": "kieranosull",
+					"name": "Kieran O'Sullivan",
+					"id": 315323836,
+					"id_str": "315323836",
+					"indices": [
+						43,
+						55
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1185098241597169700,
+		"in_reply_to_status_id_str": "1185098241597169665",
+		"in_reply_to_user_id": 396832258,
+		"in_reply_to_user_id_str": "396832258",
+		"in_reply_to_screen_name": "RogerKerry1",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1681,
+			"friends_count": 2672,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14222,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RogerKerry1 @MaryOKeeffe007 @NeilOConnell @kieranosull This topic is being discussed literally now at #TheBigRs #serendipity 🤓"
+	},
+	{
 		"created_at": "Thu Oct 17 19:37:06 +0000 2019",
 		"id": 1184916263274983400,
 		"id_str": "1184916263274983425",
