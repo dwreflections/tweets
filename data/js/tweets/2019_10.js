@@ -1,6 +1,1657 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 19 20:46:32 +0000 2019",
+		"id": 1185658513122582500,
+		"id_str": "1185658513122582529",
+		"full_text": "@baxterphysio @Mercephysio This 👆👏",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "baxterphysio",
+					"name": "Jo Baxter",
+					"id": 51852221,
+					"id_str": "51852221",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Mercephysio",
+					"name": "Chris mercer",
+					"id": 1300949420,
+					"id_str": "1300949420",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1185595610868736000,
+		"in_reply_to_status_id_str": "1185595610868736000",
+		"in_reply_to_user_id": 51852221,
+		"in_reply_to_user_id_str": "51852221",
+		"in_reply_to_screen_name": "baxterphysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1690,
+			"friends_count": 2683,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@baxterphysio @Mercephysio This 👆👏"
+	},
+	{
+		"created_at": "Sat Oct 19 20:40:26 +0000 2019",
+		"id": 1185656978984571000,
+		"id_str": "1185656978984570880",
+		"full_text": "#TheBigRs you have been awesome!! 🤩\n\nIt has been great working with @ReenaPatel2120 &amp; the whole #reformingeducation squad. TY 🙌\n\nHopefully I did it justice. It’s not ever day you get asked to speak panel with 1 hours notice 😬👍\nOnwards with #MSKR ✊ https://t.co/RktUbcuhuk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheBigRs",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"text": "reformingeducation",
+					"indices": [
+						100,
+						119
+					]
+				},
+				{
+					"text": "MSKR",
+					"indices": [
+						244,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ReenaPatel2120",
+					"name": "Reena Patel",
+					"id": 898175025739640800,
+					"id_str": "898175025739640835",
+					"indices": [
+						68,
+						83
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RktUbcuhuk",
+					"expanded_url": "https://twitter.com/mskreform/status/1185210718414655488",
+					"display_url": "twitter.com/mskreform/stat…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1690,
+			"friends_count": 2683,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1185210718414655500,
+		"quoted_status_id_str": "1185210718414655488",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RktUbcuhuk",
+			"expanded": "https://twitter.com/mskreform/status/1185210718414655488",
+			"display": "twitter.com/mskreform/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 18 15:07:10 +0000 2019",
+			"id": 1185210718414655500,
+			"id_str": "1185210718414655488",
+			"full_text": "Final session of the day here at #TheBigRs \nReforming Clinical Education - @ReenaPatel2120 \nInvited critic - Sally Gosling \n@beardedPT and @JackAChew also on the panel https://t.co/SzGRUUU2tW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				167
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TheBigRs",
+						"indices": [
+							33,
+							42
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ReenaPatel2120",
+						"name": "Reena Patel",
+						"id": 898175025739640800,
+						"id_str": "898175025739640835",
+						"indices": [
+							75,
+							90
+						]
+					},
+					{
+						"screen_name": "beardedPT",
+						"name": "David Williams",
+						"id": 3377750235,
+						"id_str": "3377750235",
+						"indices": [
+							124,
+							134
+						]
+					},
+					{
+						"screen_name": "JackAChew",
+						"name": "Jack Chew",
+						"id": 868558446,
+						"id_str": "868558446",
+						"indices": [
+							139,
+							149
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1185210707371057200,
+						"id_str": "1185210707371057152",
+						"indices": [
+							168,
+							191
+						],
+						"media_url": "http://pbs.twimg.com/media/EHK229zXYAAmatk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHK229zXYAAmatk.jpg",
+						"url": "https://t.co/SzGRUUU2tW",
+						"display_url": "pic.twitter.com/SzGRUUU2tW",
+						"expanded_url": "https://twitter.com/MSKReform/status/1185210718414655488/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1185210707371057200,
+						"id_str": "1185210707371057152",
+						"indices": [
+							168,
+							191
+						],
+						"media_url": "http://pbs.twimg.com/media/EHK229zXYAAmatk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHK229zXYAAmatk.jpg",
+						"url": "https://t.co/SzGRUUU2tW",
+						"display_url": "pic.twitter.com/SzGRUUU2tW",
+						"expanded_url": "https://twitter.com/MSKReform/status/1185210718414655488/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1173641102701793300,
+				"id_str": "1173641102701793280",
+				"name": "MSKReform",
+				"screen_name": "MSKReform",
+				"location": "",
+				"description": "The movement best known as #TheBigRs has been formalised. We are the grass-roots MSK think-tank. We are MSKReform. Join from 19/10/19 at: https://t.co/Ci3oYtSHK1",
+				"url": "https://t.co/31SCtD4LhJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/31SCtD4LhJ",
+								"expanded_url": "http://www.mskreform.org.uk",
+								"display_url": "mskreform.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Ci3oYtSHK1",
+								"expanded_url": "http://MSKReform.org.uk",
+								"display_url": "MSKReform.org.uk",
+								"indices": [
+									138,
+									161
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 622,
+				"friends_count": 13,
+				"listed_count": 1,
+				"created_at": "Mon Sep 16 16:53:49 +0000 2019",
+				"favourites_count": 36,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 60,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1173641205089013760/yjfXIGaO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173641205089013760/yjfXIGaO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1173641102701793280/1568652880",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#TheBigRs you have been awesome!! 🤩\n\nIt has been great working with @ReenaPatel2120 &amp; the whole #reformingeducation squad. TY 🙌\n\nHopefully I did it justice. It’s not ever day you get asked to speak panel with 1 hours notice 😬👍\nOnwards with #MSKR ✊ https://t.co/RktUbcuhuk"
+	},
+	{
+		"created_at": "Sat Oct 19 20:32:18 +0000 2019",
+		"id": 1185654932130750500,
+		"id_str": "1185654932130750465",
+		"full_text": "@MRWPhysio I’m just about to lie down to in a dark room too 🤯... \n\n#TheBigRs was bloody brilliant! &amp; Janine’s story still has me shook. So brave 😭\n\nOnwards with #MSKR ✊",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheBigRs",
+					"indices": [
+						67,
+						76
+					]
+				},
+				{
+					"text": "MSKR",
+					"indices": [
+						165,
+						170
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MRWPhysio",
+					"name": "Matthew Wyatt",
+					"id": 863516326723301400,
+					"id_str": "863516326723301377",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1185622426803228700,
+		"in_reply_to_status_id_str": "1185622426803228672",
+		"in_reply_to_user_id": 863516326723301400,
+		"in_reply_to_user_id_str": "863516326723301377",
+		"in_reply_to_screen_name": "MRWPhysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1690,
+			"friends_count": 2683,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MRWPhysio I’m just about to lie down to in a dark room too 🤯... \n\n#TheBigRs was bloody brilliant! &amp; Janine’s story still has me shook. So brave 😭\n\nOnwards with #MSKR ✊"
+	},
+	{
+		"created_at": "Sat Oct 19 15:42:48 +0000 2019",
+		"id": 1185580575903666200,
+		"id_str": "1185582076973715456",
+		"full_text": "@JackAChew IS LIVE NOW \n\n#TheBigRs call to action!!!\n\nhttps://t.co/0ABkqsw2gq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheBigRs",
+					"indices": [
+						25,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JackAChew",
+					"name": "Jack Chew",
+					"id": 868558446,
+					"id_str": "868558446",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0ABkqsw2gq",
+					"expanded_url": "https://m.facebook.com/TPMPodcast/videos/935761383446669/",
+					"display_url": "m.facebook.com/TPMPodcast/vid…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 868558446,
+		"in_reply_to_user_id_str": "868558446",
+		"in_reply_to_screen_name": "JackAChew",
+		"user": {
+			"id": 1914280350,
+			"id_str": "1914280350",
+			"name": "Physio Matters",
+			"screen_name": "TPMPodcast",
+			"location": "United Kingdom",
+			"description": "Confronting Bad Ideas With Good Ones since 2013 | Brain-child of @JackAChew | Tweets by team #TPMP | #TheBigRs tickets: https://t.co/cVbRgwX1ua",
+			"url": "https://t.co/qWMSyCCcZA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/qWMSyCCcZA",
+							"expanded_url": "http://chewshealth.co.uk/the-physio-matters-podcast/",
+							"display_url": "chewshealth.co.uk/the-physio-mat…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cVbRgwX1ua",
+							"expanded_url": "http://reform.physio/conference/",
+							"display_url": "reform.physio/conference/",
+							"indices": [
+								120,
+								143
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 18570,
+			"friends_count": 334,
+			"listed_count": 104,
+			"created_at": "Sat Sep 28 14:30:49 +0000 2013",
+			"favourites_count": 9680,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1080205037303984129/sUcVPZvR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080205037303984129/sUcVPZvR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1914280350/1564732346",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JackAChew IS LIVE NOW \n\n#TheBigRs call to action!!!\n\nhttps://t.co/0ABkqsw2gq"
+	},
+	{
+		"created_at": "Sat Oct 19 10:56:25 +0000 2019",
+		"id": 1185510006453690400,
+		"id_str": "1185510006453690368",
+		"full_text": "https://t.co/OSY2445rqG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OSY2445rqG",
+					"expanded_url": "https://twitter.com/alirogan/status/1185505144152178688?s=21",
+					"display_url": "twitter.com/alirogan/statu…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1185507491863548000,
+		"in_reply_to_status_id_str": "1185507491863547904",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1690,
+			"friends_count": 2683,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1185505144152178700,
+		"quoted_status_id_str": "1185505144152178688",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OSY2445rqG",
+			"expanded": "https://twitter.com/alirogan/status/1185505144152178688?s=21",
+			"display": "twitter.com/alirogan/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 19 10:37:06 +0000 2019",
+			"id": 1185505144152178700,
+			"id_str": "1185505144152178688",
+			"full_text": "Evidence base - It would be revolutionary if we all developed our research literacy and critical thinking skills . There are lots of resources out there (see slide). The biggest barrier to doing it is you. @NeilOConnell @MSKReform #TheBigRs https://t.co/I3w3ZZ3vWn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				240
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TheBigRs",
+						"indices": [
+							231,
+							240
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NeilOConnell",
+						"name": "Neil O'Connell",
+						"id": 149072907,
+						"id_str": "149072907",
+						"indices": [
+							206,
+							219
+						]
+					},
+					{
+						"screen_name": "MSKReform",
+						"name": "MSKReform",
+						"id": 1173641102701793300,
+						"id_str": "1173641102701793280",
+						"indices": [
+							220,
+							230
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1185505135121834000,
+						"id_str": "1185505135121833984",
+						"indices": [
+							241,
+							264
+						],
+						"media_url": "http://pbs.twimg.com/media/EHPCo6pWoAA3mk9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHPCo6pWoAA3mk9.jpg",
+						"url": "https://t.co/I3w3ZZ3vWn",
+						"display_url": "pic.twitter.com/I3w3ZZ3vWn",
+						"expanded_url": "https://twitter.com/AliRogan/status/1185505144152178688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1185505135121834000,
+						"id_str": "1185505135121833984",
+						"indices": [
+							241,
+							264
+						],
+						"media_url": "http://pbs.twimg.com/media/EHPCo6pWoAA3mk9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHPCo6pWoAA3mk9.jpg",
+						"url": "https://t.co/I3w3ZZ3vWn",
+						"display_url": "pic.twitter.com/I3w3ZZ3vWn",
+						"expanded_url": "https://twitter.com/AliRogan/status/1185505144152178688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 368438429,
+				"id_str": "368438429",
+				"name": "Ali Rogan",
+				"screen_name": "AliRogan",
+				"location": "",
+				"description": "No matter the size of the mountain, there's no better incentive to keep climbing, than knowing the impact of what we do on people's lives",
+				"url": "https://t.co/dhwe1N12A4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dhwe1N12A4",
+								"expanded_url": "http://www.hornseyconsulting.co.uk",
+								"display_url": "hornseyconsulting.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 694,
+				"friends_count": 678,
+				"listed_count": 28,
+				"created_at": "Mon Sep 05 16:54:43 +0000 2011",
+				"favourites_count": 126,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1889,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BADFCD",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/447007355918491649/eiXPWGwr_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/447007355918491649/eiXPWGwr_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/368438429/1439890007",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "F2E195",
+				"profile_sidebar_fill_color": "FFF7CC",
+				"profile_text_color": "0C3E53",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/OSY2445rqG"
+	},
+	{
+		"created_at": "Sat Oct 19 10:46:26 +0000 2019",
+		"id": 1185507491863548000,
+		"id_str": "1185507491863547904",
+		"full_text": "Do this 👇 #EBP #EBM\n\nBrilliant talk by @NeilOConnell\n\n... oh &amp; give @Students4BE a follow 🤓📚 \n\n#TheBigRs #MSKR https://t.co/PcqvZQFE8a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EBP",
+					"indices": [
+						10,
+						14
+					]
+				},
+				{
+					"text": "EBM",
+					"indices": [
+						15,
+						19
+					]
+				},
+				{
+					"text": "TheBigRs",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"text": "MSKR",
+					"indices": [
+						109,
+						114
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NeilOConnell",
+					"name": "Neil O'Connell",
+					"id": 149072907,
+					"id_str": "149072907",
+					"indices": [
+						39,
+						52
+					]
+				},
+				{
+					"screen_name": "Students4BE",
+					"name": "Students4BE",
+					"id": 1098569960,
+					"id_str": "1098569960",
+					"indices": [
+						72,
+						84
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PcqvZQFE8a",
+					"expanded_url": "https://twitter.com/tpmpodcast/status/1185504633688596480",
+					"display_url": "twitter.com/tpmpodcast/sta…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1690,
+			"friends_count": 2683,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1185504633688596500,
+		"quoted_status_id_str": "1185504633688596480",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PcqvZQFE8a",
+			"expanded": "https://twitter.com/tpmpodcast/status/1185504633688596480",
+			"display": "twitter.com/tpmpodcast/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 19 10:35:04 +0000 2019",
+			"id": 1185504633688596500,
+			"id_str": "1185504633688596480",
+			"full_text": "#TheBigRs - @NeilOConnell 😍\n\n\"It would be revolutionary if we...\" https://t.co/7KJvIu9uDD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				65
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TheBigRs",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NeilOConnell",
+						"name": "Neil O'Connell",
+						"id": 149072907,
+						"id_str": "149072907",
+						"indices": [
+							12,
+							25
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1185504624440234000,
+						"id_str": "1185504624440233986",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/EHPCLMNX0AIC-y6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHPCLMNX0AIC-y6.jpg",
+						"url": "https://t.co/7KJvIu9uDD",
+						"display_url": "pic.twitter.com/7KJvIu9uDD",
+						"expanded_url": "https://twitter.com/TPMPodcast/status/1185504633688596480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1185504624440234000,
+						"id_str": "1185504624440233986",
+						"indices": [
+							66,
+							89
+						],
+						"media_url": "http://pbs.twimg.com/media/EHPCLMNX0AIC-y6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHPCLMNX0AIC-y6.jpg",
+						"url": "https://t.co/7KJvIu9uDD",
+						"display_url": "pic.twitter.com/7KJvIu9uDD",
+						"expanded_url": "https://twitter.com/TPMPodcast/status/1185504633688596480/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1914280350,
+				"id_str": "1914280350",
+				"name": "Physio Matters",
+				"screen_name": "TPMPodcast",
+				"location": "United Kingdom",
+				"description": "Confronting Bad Ideas With Good Ones since 2013 | Brain-child of @JackAChew | Tweets by team #TPMP | #TheBigRs tickets: https://t.co/cVbRgwX1ua",
+				"url": "https://t.co/qWMSyCCcZA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qWMSyCCcZA",
+								"expanded_url": "http://chewshealth.co.uk/the-physio-matters-podcast/",
+								"display_url": "chewshealth.co.uk/the-physio-mat…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/cVbRgwX1ua",
+								"expanded_url": "http://reform.physio/conference/",
+								"display_url": "reform.physio/conference/",
+								"indices": [
+									120,
+									143
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 18570,
+				"friends_count": 334,
+				"listed_count": 104,
+				"created_at": "Sat Sep 28 14:30:49 +0000 2013",
+				"favourites_count": 9680,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18186,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1080205037303984129/sUcVPZvR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1080205037303984129/sUcVPZvR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1914280350/1564732346",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do this 👇 #EBP #EBM\n\nBrilliant talk by @NeilOConnell\n\n... oh &amp; give @Students4BE a follow 🤓📚 \n\n#TheBigRs #MSKR https://t.co/PcqvZQFE8a"
+	},
+	{
+		"created_at": "Sat Oct 19 08:40:20 +0000 2019",
+		"id": 1185470605413572600,
+		"id_str": "1185475757432287233",
+		"full_text": "Evidence for effectiveness of loading for achilles is not as strong as we think - nowhere near. 😶\n\n@DrDylanM goes controversial? \n\nOr is it really?\n\n@MSKReform #TheBigRs #MSKReform",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheBigRs",
+					"indices": [
+						160,
+						169
+					]
+				},
+				{
+					"text": "MSKReform",
+					"indices": [
+						170,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrDylanM",
+					"name": "Dylan Morrissey",
+					"id": 710675729,
+					"id_str": "710675729",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"screen_name": "MSKReform",
+					"name": "MSKReform",
+					"id": 1173641102701793300,
+					"id_str": "1173641102701793280",
+					"indices": [
+						149,
+						159
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 498307558,
+			"id_str": "498307558",
+			"name": "Andrew McMullan",
+			"screen_name": "themcmullansNI",
+			"location": "",
+			"description": "Just another wassock.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 274,
+			"friends_count": 407,
+			"listed_count": 2,
+			"created_at": "Mon Feb 20 22:22:43 +0000 2012",
+			"favourites_count": 7644,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/527930542012919808/U8kReHQ-_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/527930542012919808/U8kReHQ-_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/498307558/1462737650",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Evidence for effectiveness of loading for achilles is not as strong as we think - nowhere near. 😶\n\n@DrDylanM goes controversial? \n\nOr is it really?\n\n@MSKReform #TheBigRs #MSKReform"
+	},
+	{
+		"created_at": "Sat Oct 19 08:31:06 +0000 2019",
+		"id": 1185473434639319000,
+		"id_str": "1185473434639319045",
+		"full_text": "Great question by @AGreenCovPhysio\nHow do we engage students with research methods? 🤔📚🤓\n\n@DrDylanM : Its’s skills / ? All students should do a systematic review ? / it is not a dichotomy: you cannot treat patients &amp; not understand the evidence. \n\n#MSKR #TheBigRs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MSKR",
+					"indices": [
+						251,
+						256
+					]
+				},
+				{
+					"text": "TheBigRs",
+					"indices": [
+						257,
+						266
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AGreenCovPhysio",
+					"name": "Ann Green",
+					"id": 2714908192,
+					"id_str": "2714908192",
+					"indices": [
+						18,
+						34
+					]
+				},
+				{
+					"screen_name": "DrDylanM",
+					"name": "Dylan Morrissey",
+					"id": 710675729,
+					"id_str": "710675729",
+					"indices": [
+						89,
+						98
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1690,
+			"friends_count": 2683,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Great question by @AGreenCovPhysio\nHow do we engage students with research methods? 🤔📚🤓\n\n@DrDylanM : Its’s skills / ? All students should do a systematic review ? / it is not a dichotomy: you cannot treat patients &amp; not understand the evidence. \n\n#MSKR #TheBigRs"
+	},
+	{
 		"created_at": "Fri Oct 18 16:23:45 +0000 2019",
 		"id": 1185210718414655500,
 		"id_str": "1185229994508869633",
