@@ -1,6 +1,454 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Wed Oct 23 20:40:32 +0000 2019",
+		"id": 1187106554258055200,
+		"id_str": "1187106554258055173",
+		"full_text": "@dan26wales @MDTea_podcast On my playlist for tomorrow’s commute 👍",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dan26wales",
+					"name": "Dan Thomas",
+					"id": 400276868,
+					"id_str": "400276868",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "MDTea_podcast",
+					"name": "MDTea Podcast",
+					"id": 2946137297,
+					"id_str": "2946137297",
+					"indices": [
+						12,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1186892530195095600,
+		"in_reply_to_status_id_str": "1186892530195095552",
+		"in_reply_to_user_id": 400276868,
+		"in_reply_to_user_id_str": "400276868",
+		"in_reply_to_screen_name": "dan26wales",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1701,
+			"friends_count": 2696,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dan26wales @MDTea_podcast On my playlist for tomorrow’s commute 👍"
+	},
+	{
+		"created_at": "Wed Oct 23 17:31:25 +0000 2019",
+		"id": 1187058962467905500,
+		"id_str": "1187058962467905536",
+		"full_text": "Brilliant to see the this 👇 \n\nSimply explains the changes to @thecspstudents group 💥. \n\nStudents/SRG we want to hear your voice 💬. \nHMU, if you want your views fed into the Proffessional Committee... ✅\n#CSPEmpowers #MSKR https://t.co/odsD1u7l4W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CSPEmpowers",
+					"indices": [
+						202,
+						214
+					]
+				},
+				{
+					"text": "MSKR",
+					"indices": [
+						215,
+						220
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thecspstudents",
+					"name": "CSP Students",
+					"id": 444648690,
+					"id_str": "444648690",
+					"indices": [
+						61,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/odsD1u7l4W",
+					"expanded_url": "https://twitter.com/chloedooley99/status/1187041376971771904",
+					"display_url": "twitter.com/chloedooley99/…",
+					"indices": [
+						221,
+						244
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1701,
+			"friends_count": 2696,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1187041376971772000,
+		"quoted_status_id_str": "1187041376971771904",
+		"quoted_status_permalink": {
+			"url": "https://t.co/odsD1u7l4W",
+			"expanded": "https://twitter.com/chloedooley99/status/1187041376971771904",
+			"display": "twitter.com/chloedooley99/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 23 16:21:33 +0000 2019",
+			"id": 1187041376971772000,
+			"id_str": "1187041376971771904",
+			"full_text": "Want to know how @theCSP reaches and engages with CSP student members at universities? Check out this graphic to find out https://t.co/vW9NgwouFs… Should you have any questions, please email studentenquiries@csp.org.uk @CSPStudentCoord #CSPempowers https://t.co/KY42BlrLWu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				248
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CSPempowers",
+						"indices": [
+							236,
+							248
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thecsp",
+						"name": "Chartered Society of Physiotherapy",
+						"id": 138098880,
+						"id_str": "138098880",
+						"indices": [
+							17,
+							24
+						]
+					},
+					{
+						"screen_name": "CSPStudentCoord",
+						"name": "CSP Student Coordinator",
+						"id": 1348785632,
+						"id_str": "1348785632",
+						"indices": [
+							219,
+							235
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/vW9NgwouFs",
+						"expanded_url": "http://csp.org.uk/documents/csp-",
+						"display_url": "csp.org.uk/documents/csp-",
+						"indices": [
+							122,
+							145
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1187041369061232600,
+						"id_str": "1187041369061232640",
+						"indices": [
+							249,
+							272
+						],
+						"media_url": "http://pbs.twimg.com/media/EHk31gCWkAAx-h9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHk31gCWkAAx-h9.jpg",
+						"url": "https://t.co/KY42BlrLWu",
+						"display_url": "pic.twitter.com/KY42BlrLWu",
+						"expanded_url": "https://twitter.com/chloedooley99/status/1187041376971771904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 349,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 615,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1050,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1187041369061232600,
+						"id_str": "1187041369061232640",
+						"indices": [
+							249,
+							272
+						],
+						"media_url": "http://pbs.twimg.com/media/EHk31gCWkAAx-h9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EHk31gCWkAAx-h9.jpg",
+						"url": "https://t.co/KY42BlrLWu",
+						"display_url": "pic.twitter.com/KY42BlrLWu",
+						"expanded_url": "https://twitter.com/chloedooley99/status/1187041376971771904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 349,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 615,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1050,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1091970360633897000,
+				"id_str": "1091970360633896960",
+				"name": "Chloe Dooley",
+				"screen_name": "chloedooley99",
+				"location": "",
+				"description": "3rd year physio student at Cardiff Uni / PACS committee president / Play therapy volunteer/ Welsh rep CSP SRG / Endurance athlete 🏃🏽‍♀️/ all views are my own",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 160,
+				"friends_count": 215,
+				"listed_count": 2,
+				"created_at": "Sun Feb 03 08:03:16 +0000 2019",
+				"favourites_count": 734,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 520,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1181220251587026945/TbLkAQp__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181220251587026945/TbLkAQp__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1091970360633896960/1564761474",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Brilliant to see the this 👇 \n\nSimply explains the changes to @thecspstudents group 💥. \n\nStudents/SRG we want to hear your voice 💬. \nHMU, if you want your views fed into the Proffessional Committee... ✅\n#CSPEmpowers #MSKR https://t.co/odsD1u7l4W"
+	},
+	{
 		"created_at": "Tue Oct 22 19:48:55 +0000 2019",
 		"id": 1186731178226794500,
 		"id_str": "1186731178226794496",
