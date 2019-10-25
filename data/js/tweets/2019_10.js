@@ -1,6 +1,428 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 24 20:31:02 +0000 2019",
+		"id": 1187466551273783300,
+		"id_str": "1187466551273783303",
+		"full_text": "Very few physiotherapy students apply! #bethechange 👇✅\n\n@UoNPhysio #MSKR https://t.co/qVCyRXrDoG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bethechange",
+					"indices": [
+						39,
+						51
+					]
+				},
+				{
+					"text": "MSKR",
+					"indices": [
+						67,
+						72
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						56,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qVCyRXrDoG",
+					"expanded_url": "https://twitter.com/thecspstudents/status/1187465365393068034",
+					"display_url": "twitter.com/thecspstudents…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1701,
+			"friends_count": 2704,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1187465365393068000,
+		"quoted_status_id_str": "1187465365393068034",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qVCyRXrDoG",
+			"expanded": "https://twitter.com/thecspstudents/status/1187465365393068034",
+			"display": "twitter.com/thecspstudents…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 24 20:26:19 +0000 2019",
+			"id": 1187465365393068000,
+			"id_str": "1187465365393068034",
+			"full_text": "📢Apply to the Council of Deans' Student Leadership Programme 📢 (Deadline: 10 November)\n\nDeveloping your leadership skills through training, networking and coaching 👌\n\nLink here for more information: https://t.co/YjaM4Z5pmX https://t.co/MUmMVgbkll",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				222
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/YjaM4Z5pmX",
+						"expanded_url": "https://www.csp.org.uk/icsp/news/apply-council-deans-student-leadership-programme-deadline-10-november",
+						"display_url": "csp.org.uk/icsp/news/appl…",
+						"indices": [
+							199,
+							222
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1187465359005077500,
+						"id_str": "1187465359005077504",
+						"indices": [
+							223,
+							246
+						],
+						"media_url": "http://pbs.twimg.com/media/EHq5c9qUUAAMYEI.png",
+						"media_url_https": "https://pbs.twimg.com/media/EHq5c9qUUAAMYEI.png",
+						"url": "https://t.co/MUmMVgbkll",
+						"display_url": "pic.twitter.com/MUmMVgbkll",
+						"expanded_url": "https://twitter.com/thecspstudents/status/1187465365393068034/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 400,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 338,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 400,
+								"h": 338,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1187465359005077500,
+						"id_str": "1187465359005077504",
+						"indices": [
+							223,
+							246
+						],
+						"media_url": "http://pbs.twimg.com/media/EHq5c9qUUAAMYEI.png",
+						"media_url_https": "https://pbs.twimg.com/media/EHq5c9qUUAAMYEI.png",
+						"url": "https://t.co/MUmMVgbkll",
+						"display_url": "pic.twitter.com/MUmMVgbkll",
+						"expanded_url": "https://twitter.com/thecspstudents/status/1187465365393068034/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 400,
+								"h": 338,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 338,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 400,
+								"h": 338,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 444648690,
+				"id_str": "444648690",
+				"name": "CSP Students",
+				"screen_name": "thecspstudents",
+				"location": "UK",
+				"description": "@theCSP’s Student Reference Group (SRG) are busy planning for #Physio19 over the next couple of weeks, keep your eyes peeled for what’s to come!",
+				"url": "https://t.co/JLWoO1nLFj",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JLWoO1nLFj",
+								"expanded_url": "http://www.csp.org.uk/students",
+								"display_url": "csp.org.uk/students",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6580,
+				"friends_count": 454,
+				"listed_count": 33,
+				"created_at": "Fri Dec 23 13:46:11 +0000 2011",
+				"favourites_count": 5150,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5881,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1185315500240314368/65hCSkBl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1185315500240314368/65hCSkBl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/444648690/1568618209",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very few physiotherapy students apply! #bethechange 👇✅\n\n@UoNPhysio #MSKR https://t.co/qVCyRXrDoG"
+	},
+	{
+		"created_at": "Thu Oct 24 20:00:24 +0000 2019",
+		"id": 1187458842772283400,
+		"id_str": "1187458842772283392",
+		"full_text": "@JackAChew Spot on 😎👍",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JackAChew",
+					"name": "Jack Chew",
+					"id": 868558446,
+					"id_str": "868558446",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1187452822243164200,
+		"in_reply_to_status_id_str": "1187452822243164161",
+		"in_reply_to_user_id": 868558446,
+		"in_reply_to_user_id_str": "868558446",
+		"in_reply_to_screen_name": "JackAChew",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1701,
+			"friends_count": 2704,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14350,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JackAChew Spot on 😎👍"
+	},
+	{
 		"created_at": "Wed Oct 23 20:40:32 +0000 2019",
 		"id": 1187106554258055200,
 		"id_str": "1187106554258055173",
@@ -386,7 +808,7 @@ Grailbird.data.tweets_2019_10 =
 				"name": "Chloe Dooley",
 				"screen_name": "chloedooley99",
 				"location": "",
-				"description": "3rd year physio student at Cardiff Uni / PACS committee president / Play therapy volunteer/ Welsh rep CSP SRG / Endurance athlete 🏃🏽‍♀️/ all views are my own",
+				"description": "3rd year physio student at Cardiff Uni / PACS committee president / Play therapy volunteer/ Welsh rep CSP SRG / Endurance athlete 🏃🏽♀️/ all views are my own",
 				"url": null,
 				"entities": {
 					"description": {
