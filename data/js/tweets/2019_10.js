@@ -1,6 +1,280 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Sat Oct 26 00:37:12 +0000 2019",
+		"id": 1187755253510348800,
+		"id_str": "1187890886753116161",
+		"full_text": "Extraordinary clip from 20 years ago. David Bowie sharing what he feels about what the internet is going to turn into. And he’s not wrong. \nPaxman: it’s just a tool tho isn’t it? \nBowie: No it’s not. \n https://t.co/zypoJEVJCN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1160941360867766300,
+					"id_str": "1160941360867766272",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1160941360867766272/pu/img/jXJhV-pzwn_Ux2PE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1160941360867766272/pu/img/jXJhV-pzwn_Ux2PE.jpg",
+					"url": "https://t.co/zypoJEVJCN",
+					"display_url": "pic.twitter.com/zypoJEVJCN",
+					"expanded_url": "https://twitter.com/BrianRoemmele/status/1160941417339863041/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1160941417339863000,
+					"source_status_id_str": "1160941417339863041",
+					"source_user_id": 101584084,
+					"source_user_id_str": "101584084"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1160941360867766300,
+					"id_str": "1160941360867766272",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1160941360867766272/pu/img/jXJhV-pzwn_Ux2PE.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1160941360867766272/pu/img/jXJhV-pzwn_Ux2PE.jpg",
+					"url": "https://t.co/zypoJEVJCN",
+					"display_url": "pic.twitter.com/zypoJEVJCN",
+					"expanded_url": "https://twitter.com/BrianRoemmele/status/1160941417339863041/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1160941417339863000,
+					"source_status_id_str": "1160941417339863041",
+					"source_user_id": 101584084,
+					"source_user_id_str": "101584084",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59685,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1160941360867766272/pu/pl/CFzE5qnvYPcmWtwy.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1160941360867766272/pu/vid/480x480/96fTkrxyi9dwhD3q.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1160941360867766272/pu/vid/320x320/D3Jcquo2Modo7YAc.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1160941360867766272/pu/vid/720x720/QXJC65J-WoCV9Eh4.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 101584084,
+							"id_str": "101584084",
+							"name": "Brian Roemmele",
+							"screen_name": "BrianRoemmele",
+							"location": "transcendence",
+							"description": "we can only see what we think is possible...",
+							"url": "https://t.co/i9oM6p7PHi",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/i9oM6p7PHi",
+											"expanded_url": "http://VoiceFirst.expert",
+											"display_url": "VoiceFirst.expert",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": []
+								}
+							},
+							"protected": false,
+							"followers_count": 78381,
+							"friends_count": 16944,
+							"listed_count": 746,
+							"created_at": "Sun Jan 03 22:04:29 +0000 2010",
+							"favourites_count": 119374,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": false,
+							"verified": false,
+							"statuses_count": 39847,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "000000",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1492616506/Brian-Med-Green-Fin_normal.png",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1492616506/Brian-Med-Green-Fin_normal.png",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/101584084/1414798559",
+							"profile_link_color": "000000",
+							"profile_sidebar_border_color": "000000",
+							"profile_sidebar_fill_color": "000000",
+							"profile_text_color": "000000",
+							"profile_use_background_image": false,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 41084386,
+			"id_str": "41084386",
+			"name": "Omid Djalili",
+			"screen_name": "omid9",
+			"location": "West London",
+			"description": "Stand up. A few films. A documentary or two. Bit of Tv. Couple of musicals. Bald.",
+			"url": "https://t.co/vRZxjoPOni",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vRZxjoPOni",
+							"expanded_url": "http://www.omiddjalili.com",
+							"display_url": "omiddjalili.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 275377,
+			"friends_count": 2908,
+			"listed_count": 2130,
+			"created_at": "Tue May 19 09:18:21 +0000 2009",
+			"favourites_count": 18236,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 36351,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106356995232284673/Q5R8X_GG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106356995232284673/Q5R8X_GG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/41084386/1556055996",
+			"profile_link_color": "D02B55",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2057,
+		"favorite_count": 6482,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Extraordinary clip from 20 years ago. David Bowie sharing what he feels about what the internet is going to turn into. And he’s not wrong. \nPaxman: it’s just a tool tho isn’t it? \nBowie: No it’s not. \n https://t.co/zypoJEVJCN"
+	},
+	{
 		"created_at": "Thu Oct 24 20:31:02 +0000 2019",
 		"id": 1187466551273783300,
 		"id_str": "1187466551273783303",
