@@ -1,6 +1,815 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Mon Oct 28 20:34:59 +0000 2019",
+		"id": 1188917095515472000,
+		"id_str": "1188917095515471872",
+		"full_text": "@thomas_jesson @CombatSportPhys I didn’t even think to have RSS feeds in @zotero 👍👍💭🤯",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thomas_jesson",
+					"name": "Tom Jesson",
+					"id": 3091527256,
+					"id_str": "3091527256",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "CombatSportPhys",
+					"name": "Rob Tyer",
+					"id": 1427250300,
+					"id_str": "1427250300",
+					"indices": [
+						15,
+						31
+					]
+				},
+				{
+					"screen_name": "zotero",
+					"name": "Zotero",
+					"id": 9893772,
+					"id_str": "9893772",
+					"indices": [
+						73,
+						80
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1188911544362512400,
+		"in_reply_to_status_id_str": "1188911544362512391",
+		"in_reply_to_user_id": 3091527256,
+		"in_reply_to_user_id_str": "3091527256",
+		"in_reply_to_screen_name": "thomas_jesson",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1700,
+			"friends_count": 2709,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14393,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thomas_jesson @CombatSportPhys I didn’t even think to have RSS feeds in @zotero 👍👍💭🤯"
+	},
+	{
+		"created_at": "Mon Oct 28 18:29:38 +0000 2019",
+		"id": 1188885551333687300,
+		"id_str": "1188885551333687297",
+		"full_text": "👇 @UoNPhysio https://t.co/6uBwmpWj0y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						2,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6uBwmpWj0y",
+					"expanded_url": "https://twitter.com/uoephysiosoc/status/1188874088200261632",
+					"display_url": "twitter.com/uoephysiosoc/s…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1700,
+			"friends_count": 2709,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14393,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5390,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1188874088200261600,
+		"quoted_status_id_str": "1188874088200261632",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6uBwmpWj0y",
+			"expanded": "https://twitter.com/uoephysiosoc/status/1188874088200261632",
+			"display": "twitter.com/uoephysiosoc/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 28 17:44:05 +0000 2019",
+			"id": 1188874088200261600,
+			"id_str": "1188874088200261632",
+			"full_text": "Physio based Halloween 😂 if you do any physio related dressing up please share with us we would love to see it #Halloween #Halloween19 #essexuni #studentphysio #physiotherapy #sres https://t.co/Fu1nhO1ENX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Halloween",
+						"indices": [
+							111,
+							121
+						]
+					},
+					{
+						"text": "Halloween19",
+						"indices": [
+							122,
+							134
+						]
+					},
+					{
+						"text": "essexuni",
+						"indices": [
+							135,
+							144
+						]
+					},
+					{
+						"text": "studentphysio",
+						"indices": [
+							145,
+							159
+						]
+					},
+					{
+						"text": "physiotherapy",
+						"indices": [
+							160,
+							174
+						]
+					},
+					{
+						"text": "sres",
+						"indices": [
+							175,
+							180
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1188874074530992000,
+						"id_str": "1188874074530992131",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/media/EH-6q_8XUAMScg4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EH-6q_8XUAMScg4.jpg",
+						"url": "https://t.co/Fu1nhO1ENX",
+						"display_url": "pic.twitter.com/Fu1nhO1ENX",
+						"expanded_url": "https://twitter.com/UoEPhysioSoc/status/1188874088200261632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 954,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 954,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 601,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1188874074530992000,
+						"id_str": "1188874074530992131",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/media/EH-6q_8XUAMScg4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EH-6q_8XUAMScg4.jpg",
+						"url": "https://t.co/Fu1nhO1ENX",
+						"display_url": "pic.twitter.com/Fu1nhO1ENX",
+						"expanded_url": "https://twitter.com/UoEPhysioSoc/status/1188874088200261632/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1080,
+								"h": 954,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 954,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 601,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1087721612928008200,
+				"id_str": "1087721612928008193",
+				"name": "University of Essex Physiotherapy Society",
+				"screen_name": "UoEPhysioSoc",
+				"location": "Colchester, England",
+				"description": "Official account of the newly formed Physiotherapy Society at the University of Essex.\n\n#motionislotion",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 121,
+				"friends_count": 152,
+				"listed_count": 1,
+				"created_at": "Tue Jan 22 14:40:16 +0000 2019",
+				"favourites_count": 104,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 94,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1087727831092785153/A9fI-2Ck_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1087727831092785153/A9fI-2Ck_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1087721612928008193/1548169059",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 69,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "👇 @UoNPhysio https://t.co/6uBwmpWj0y"
+	},
+	{
+		"created_at": "Mon Oct 28 18:28:49 +0000 2019",
+		"id": 1188760682285670400,
+		"id_str": "1188885344646774786",
+		"full_text": "5 days to go until Physiotherapy UK #Physio19\n\nWe can't wait to see you all there at our student stand 😀",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Physio19",
+					"indices": [
+						36,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 444648690,
+			"id_str": "444648690",
+			"name": "CSP Students",
+			"screen_name": "thecspstudents",
+			"location": "UK",
+			"description": "@theCSP’s Student Reference Group (SRG) are busy planning for #Physio19 over the next couple of weeks, keep your eyes peeled for what’s to come!",
+			"url": "https://t.co/JLWoO1nLFj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JLWoO1nLFj",
+							"expanded_url": "http://www.csp.org.uk/students",
+							"display_url": "csp.org.uk/students",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6592,
+			"friends_count": 455,
+			"listed_count": 33,
+			"created_at": "Fri Dec 23 13:46:11 +0000 2011",
+			"favourites_count": 5157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5897,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1185315500240314368/65hCSkBl_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1185315500240314368/65hCSkBl_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/444648690/1568618209",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "5 days to go until Physiotherapy UK #Physio19\n\nWe can't wait to see you all there at our student stand 😀"
+	},
+	{
+		"created_at": "Mon Oct 28 18:12:12 +0000 2019",
+		"id": 1188737161962635300,
+		"id_str": "1188881163445850121",
+		"full_text": "A very important message often forgotten close to an election when we hear talk from our political leaders about how many more doctors and nurses we will get on their watch!  For every £1 spent on physio services the NHS saves £4 ..... no bank offers that much interest! https://t.co/48EYn7kQwM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/48EYn7kQwM",
+					"expanded_url": "https://twitter.com/physiotalbot/status/1188556776540659713",
+					"display_url": "twitter.com/physiotalbot/s…",
+					"indices": [
+						271,
+						294
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1039521456,
+			"id_str": "1039521456",
+			"name": "Uzo Ehiogu",
+			"screen_name": "consultantPT",
+			"location": "Birmingham, England",
+			"description": "Climbing & Extreme Sports Physio| NHS Clinical Teaching Fellow ROH| MMACP | S&C & Physical Preparation MSc Student| Former Commando|❤️Family| Discipline=Freedom",
+			"url": "https://t.co/I9OA9EztIZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I9OA9EztIZ",
+							"expanded_url": "https://www.insideedgephysio.com",
+							"display_url": "insideedgephysio.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2080,
+			"friends_count": 760,
+			"listed_count": 23,
+			"created_at": "Thu Dec 27 12:34:40 +0000 2012",
+			"favourites_count": 1912,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3708,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1144902328715272192/igqV9U0Z_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144902328715272192/igqV9U0Z_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1039521456/1552320542",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6bc1630ac15fbcaa",
+			"url": "https://api.twitter.com/1.1/geo/id/6bc1630ac15fbcaa.json",
+			"place_type": "city",
+			"name": "West Bromwich",
+			"full_name": "West Bromwich, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-2.0971002,
+							52.460709
+						],
+						[
+							-1.921566,
+							52.460709
+						],
+						[
+							-1.921566,
+							52.569037
+						],
+						[
+							-2.0971002,
+							52.569037
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1188556776540659700,
+		"quoted_status_id_str": "1188556776540659713",
+		"quoted_status_permalink": {
+			"url": "https://t.co/48EYn7kQwM",
+			"expanded": "https://twitter.com/physiotalbot/status/1188556776540659713",
+			"display": "twitter.com/physiotalbot/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Oct 27 20:43:12 +0000 2019",
+			"id": 1188556776540659700,
+			"id_str": "1188556776540659713",
+			"full_text": "A common finding across patient populations- investing in therapy saves money long term; reduced acute bed days, lower social care costs, fewer re-admissions. In case quality of life isn't a good enough reason #PhysioWorks #RehabMatters https://t.co/tT4W6bVWaj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				236
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PhysioWorks",
+						"indices": [
+							210,
+							222
+						]
+					},
+					{
+						"text": "RehabMatters",
+						"indices": [
+							223,
+							236
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/tT4W6bVWaj",
+						"expanded_url": "https://twitter.com/PhysioSamMcIver/status/1187991975426961408",
+						"display_url": "twitter.com/PhysioSamMcIve…",
+						"indices": [
+							237,
+							260
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1188153576738164700,
+				"id_str": "1188153576738164737",
+				"name": "Physio F Talbot",
+				"screen_name": "PhysioTalbot",
+				"location": "",
+				"description": "Specialist in Upper Limb Injuries, Rehab Physio, Accredited Hand Therapist, Enthusiatic Dancer.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 19,
+				"friends_count": 87,
+				"listed_count": 0,
+				"created_at": "Sat Oct 26 18:01:11 +0000 2019",
+				"favourites_count": 19,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1188166359345180673/c3TqVHig_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1188166359345180673/c3TqVHig_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1187991975426961400,
+			"quoted_status_id_str": "1187991975426961408",
+			"quoted_status_permalink": {
+				"url": "https://t.co/tT4W6bVWaj",
+				"expanded": "https://twitter.com/PhysioSamMcIver/status/1187991975426961408",
+				"display": "twitter.com/PhysioSamMcIve…"
+			},
+			"retweet_count": 10,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A very important message often forgotten close to an election when we hear talk from our political leaders about how many more doctors and nurses we will get on their watch!  For every £1 spent on physio services the NHS saves £4 ..... no bank offers that much interest! https://t.co/48EYn7kQwM"
+	},
+	{
 		"created_at": "Sat Oct 26 17:08:43 +0000 2019",
 		"id": 1188140414102057000,
 		"id_str": "1188140414102056962",
