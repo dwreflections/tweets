@@ -1,6 +1,510 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 06 20:37:26 +0000 2019",
+		"id": 1192156731499073500,
+		"id_str": "1192179206014324737",
+		"full_text": "If you haven’t already, DO THIS NOW!!! https://t.co/QbFwDCmgLB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QbFwDCmgLB",
+					"expanded_url": "https://twitter.com/150leaders/status/1192091768377921537",
+					"display_url": "twitter.com/150leaders/sta…",
+					"indices": [
+						39,
+						62
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 953713420880183300,
+			"id_str": "953713420880183296",
+			"name": "Samuel Richards",
+			"screen_name": "SamuelOftenSam",
+			"location": "Wales, United Kingdom",
+			"description": "#studentnurse #mentalhealth Cyclist, Runner, Dad, Husband, Hispanophile. Intern with @MHAWSNAG. Views mine. @HumanandHealth @150leaders @SWANSLA @HCPNetwork",
+			"url": "https://t.co/SawaKMUV2h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SawaKMUV2h",
+							"expanded_url": "https://twitter.com/SWANSLA",
+							"display_url": "twitter.com/SWANSLA",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 948,
+			"friends_count": 1637,
+			"listed_count": 9,
+			"created_at": "Wed Jan 17 19:39:33 +0000 2018",
+			"favourites_count": 13164,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1134121116132417536/0YQ2fpuj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1134121116132417536/0YQ2fpuj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/953713420880183296/1572900308",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1192091768377921500,
+		"quoted_status_id_str": "1192091768377921537",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QbFwDCmgLB",
+			"expanded": "https://twitter.com/150leaders/status/1192091768377921537",
+			"display": "twitter.com/150leaders/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 06 14:50:00 +0000 2019",
+			"id": 1192091768377921500,
+			"id_str": "1192091768377921537",
+			"full_text": "#150Leaders student @Natalie_StN reminds us of the importance of #studentleadership and recognises the need to challenged.\nhttps://t.co/oOqbK8gECe\n\nTo any aspiring #150Leaders, applications close in 4 days: https://t.co/L4gFiDfsYJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				230
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "150Leaders",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"text": "studentleadership",
+						"indices": [
+							65,
+							83
+						]
+					},
+					{
+						"text": "150Leaders",
+						"indices": [
+							164,
+							175
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Natalie_StN",
+						"name": "Natalie Elliott",
+						"id": 1063365953839398900,
+						"id_str": "1063365953839398912",
+						"indices": [
+							20,
+							32
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/oOqbK8gECe",
+						"expanded_url": "https://councilofdeans.org.uk/studentleadership/i-cant-be-a-leader-because/",
+						"display_url": "councilofdeans.org.uk/studentleaders…",
+						"indices": [
+							123,
+							146
+						]
+					},
+					{
+						"url": "https://t.co/L4gFiDfsYJ",
+						"expanded_url": "https://councilofdeans.org.uk/studentleadership/",
+						"display_url": "councilofdeans.org.uk/studentleaders…",
+						"indices": [
+							207,
+							230
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1139187039151280100,
+				"id_str": "1139187039151280128",
+				"name": "#150Leaders",
+				"screen_name": "150Leaders",
+				"location": "United Kingdom",
+				"description": "@councilofdeans Student Leadership Programme | co-funded by @BurdettTrust | designed for student nurses, midwives & AHPs across the UK | co-created by students",
+				"url": "https://t.co/AxAGczzJZw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AxAGczzJZw",
+								"expanded_url": "http://www.councilofdeans.org.uk/studentleadership",
+								"display_url": "councilofdeans.org.uk/studentleaders…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 535,
+				"friends_count": 85,
+				"listed_count": 1,
+				"created_at": "Thu Jun 13 15:05:29 +0000 2019",
+				"favourites_count": 342,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 370,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1141695642672279552/rf-wEzoI_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141695642672279552/rf-wEzoI_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1139187039151280128/1570013576",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you haven’t already, DO THIS NOW!!! https://t.co/QbFwDCmgLB"
+	},
+	{
+		"created_at": "Wed Nov 06 20:21:33 +0000 2019",
+		"id": 1192175205747187700,
+		"id_str": "1192175205747187713",
+		"full_text": "@PhilsClinsChat @laurarathbone @AdamJShriver @RogerKerry1 Looking forward to this!",
+		"truncated": false,
+		"display_text_range": [
+			58,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhilsClinsChat",
+					"name": "Philosophers Chatting With Clinicians",
+					"id": 1169160713694253000,
+					"id_str": "1169160713694253061",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "laurarathbone",
+					"name": "Laura Rathbone🥦🌱✌",
+					"id": 32357102,
+					"id_str": "32357102",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "AdamJShriver",
+					"name": "Adam Shriver",
+					"id": 22833978,
+					"id_str": "22833978",
+					"indices": [
+						31,
+						44
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						45,
+						57
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1192008300767961000,
+		"in_reply_to_status_id_str": "1192008300767961089",
+		"in_reply_to_user_id": 1169160713694253000,
+		"in_reply_to_user_id_str": "1169160713694253061",
+		"in_reply_to_screen_name": "PhilsClinsChat",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB -Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) -Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1710,
+			"friends_count": 2725,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PhilsClinsChat @laurarathbone @AdamJShriver @RogerKerry1 Looking forward to this!"
+	},
+	{
+		"created_at": "Wed Nov 06 20:11:14 +0000 2019",
+		"id": 1192172610274177000,
+		"id_str": "1192172610274177024",
+		"full_text": "@bcuphysiosoc It’s a very exciting time to be in the profession that’s for sure!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bcuphysiosoc",
+					"name": "BCUPhysioSoc",
+					"id": 1101210232057925600,
+					"id_str": "1101210232057925633",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1192139955939754000,
+		"in_reply_to_status_id_str": "1192139955939753986",
+		"in_reply_to_user_id": 1101210232057925600,
+		"in_reply_to_user_id_str": "1101210232057925633",
+		"in_reply_to_screen_name": "bcuphysiosoc",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB -Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) -Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1710,
+			"friends_count": 2725,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bcuphysiosoc It’s a very exciting time to be in the profession that’s for sure!"
+	},
+	{
 		"created_at": "Tue Nov 05 19:07:06 +0000 2019",
 		"id": 1191794082261143600,
 		"id_str": "1191794082261143552",
