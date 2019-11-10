@@ -1,10 +1,1050 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 09 14:55:20 +0000 2019",
+		"id": 1193180276752552000,
+		"id_str": "1193180276752551936",
+		"full_text": "@helengoth @parkrun @UKLabour ??",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "helengoth",
+					"name": "Helen Russell",
+					"id": 20301054,
+					"id_str": "20301054",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "parkrun",
+					"name": "parkrun 🌳",
+					"id": 69870134,
+					"id_str": "69870134",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "UKLabour",
+					"name": "The Labour Party",
+					"id": 14291684,
+					"id_str": "14291684",
+					"indices": [
+						20,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1193154795151868000,
+		"in_reply_to_status_id_str": "1193154795151867909",
+		"in_reply_to_user_id": 20301054,
+		"in_reply_to_user_id_str": "20301054",
+		"in_reply_to_screen_name": "helengoth",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB -Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) -Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1716,
+			"friends_count": 2728,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@helengoth @parkrun @UKLabour ??"
+	},
+	{
+		"created_at": "Sat Nov 09 13:58:23 +0000 2019",
+		"id": 1193154795151868000,
+		"id_str": "1193165942714490881",
+		"full_text": "Good question! Any other #PPCs across the country who also ran a @parkrun today? #ParkRun #RunningForOffice #Running https://t.co/nE7qCb9fLa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PPCs",
+					"indices": [
+						25,
+						30
+					]
+				},
+				{
+					"text": "ParkRun",
+					"indices": [
+						81,
+						89
+					]
+				},
+				{
+					"text": "RunningForOffice",
+					"indices": [
+						90,
+						107
+					]
+				},
+				{
+					"text": "Running",
+					"indices": [
+						108,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "parkrun",
+					"name": "parkrun 🌳",
+					"id": 69870134,
+					"id_str": "69870134",
+					"indices": [
+						65,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nE7qCb9fLa",
+					"expanded_url": "https://twitter.com/beardedpt/status/1193121833719095297",
+					"display_url": "twitter.com/beardedpt/stat…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20301054,
+			"id_str": "20301054",
+			"name": "Helen Russell",
+			"screen_name": "helengoth",
+			"location": "Evesham ",
+			"description": "Labour Party Parliamentary Candidate for Mid Worcestershire. Promoted on behalf of Helen Russell by Steve Ainsworth both at 6 Sandles Close, Droitwich, WR9 8RB",
+			"url": "https://t.co/D942kHD6iv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D942kHD6iv",
+							"expanded_url": "http://www.hrussell.co.uk",
+							"display_url": "hrussell.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3148,
+			"friends_count": 1011,
+			"listed_count": 103,
+			"created_at": "Sat Feb 07 09:29:01 +0000 2009",
+			"favourites_count": 44177,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189630884321910786/oGxDVGDd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189630884321910786/oGxDVGDd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20301054/1572976997",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1193121833719095300,
+		"quoted_status_id_str": "1193121833719095297",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nE7qCb9fLa",
+			"expanded": "https://twitter.com/beardedpt/status/1193121833719095297",
+			"display": "twitter.com/beardedpt/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 09 11:03:06 +0000 2019",
+			"id": 1193121833719095300,
+			"id_str": "1193121833719095297",
+			"full_text": "@helengoth @parkrunUK Any other PPC’s ran #parkrun today?",
+			"truncated": false,
+			"display_text_range": [
+				22,
+				57
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "parkrun",
+						"indices": [
+							42,
+							50
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "helengoth",
+						"name": "Helen Russell",
+						"id": 20301054,
+						"id_str": "20301054",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "parkrunUK",
+						"name": "parkrun UK",
+						"id": 884180960,
+						"id_str": "884180960",
+						"indices": [
+							11,
+							21
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1193105866674909200,
+			"in_reply_to_status_id_str": "1193105866674909186",
+			"in_reply_to_user_id": 20301054,
+			"in_reply_to_user_id_str": "20301054",
+			"in_reply_to_screen_name": "helengoth",
+			"user": {
+				"id": 3377750235,
+				"id_str": "3377750235",
+				"name": "David Williams",
+				"screen_name": "beardedPT",
+				"location": "Staffordshire, England",
+				"description": "Rotational Physiotherapist #TeamUHDB -Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) -Social Media - #150Leaders",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Bwu7xtI10V",
+								"expanded_url": "http://bit.ly/2b3pt",
+								"display_url": "bit.ly/2b3pt",
+								"indices": [
+									111,
+									134
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1716,
+				"friends_count": 2728,
+				"listed_count": 16,
+				"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+				"favourites_count": 14663,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5457,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Good question! Any other #PPCs across the country who also ran a @parkrun today? #ParkRun #RunningForOffice #Running https://t.co/nE7qCb9fLa"
+	},
+	{
+		"created_at": "Sat Nov 09 11:03:06 +0000 2019",
+		"id": 1193121833719095300,
+		"id_str": "1193121833719095297",
+		"full_text": "@helengoth @parkrunUK Any other PPC’s ran #parkrun today?",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "parkrun",
+					"indices": [
+						42,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "helengoth",
+					"name": "Helen Russell",
+					"id": 20301054,
+					"id_str": "20301054",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "parkrunUK",
+					"name": "parkrun UK",
+					"id": 884180960,
+					"id_str": "884180960",
+					"indices": [
+						11,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1193105866674909200,
+		"in_reply_to_status_id_str": "1193105866674909186",
+		"in_reply_to_user_id": 20301054,
+		"in_reply_to_user_id_str": "20301054",
+		"in_reply_to_screen_name": "helengoth",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB -Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) -Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1716,
+			"friends_count": 2728,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@helengoth @parkrunUK Any other PPC’s ran #parkrun today?"
+	},
+	{
+		"created_at": "Sat Nov 09 11:00:30 +0000 2019",
+		"id": 1193121178585587700,
+		"id_str": "1193121178585587712",
+		"full_text": "@HollyGossettPT @KMiddletonCSP I’m with you on that @HollyGossettPT ☕️",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HollyGossettPT",
+					"name": "Holly Gossett",
+					"id": 827849240672092200,
+					"id_str": "827849240672092160",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "KMiddletonCSP",
+					"name": "Karen Middleton",
+					"id": 791233063,
+					"id_str": "791233063",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "HollyGossettPT",
+					"name": "Holly Gossett",
+					"id": 827849240672092200,
+					"id_str": "827849240672092160",
+					"indices": [
+						52,
+						67
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1192960573635514400,
+		"in_reply_to_status_id_str": "1192960573635514370",
+		"in_reply_to_user_id": 827849240672092200,
+		"in_reply_to_user_id_str": "827849240672092160",
+		"in_reply_to_screen_name": "HollyGossettPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB -Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) -Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1716,
+			"friends_count": 2728,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@HollyGossettPT @KMiddletonCSP I’m with you on that @HollyGossettPT ☕️"
+	},
+	{
+		"created_at": "Sat Nov 09 10:59:21 +0000 2019",
+		"id": 1193120889937825800,
+		"id_str": "1193120889937825793",
+		"full_text": "@PippaJL01 I believe I am more a lion. 🦁",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PippaJL01",
+					"name": "Pippa Chillman",
+					"id": 882001291240714200,
+					"id_str": "882001291240714240",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1192896420497543200,
+		"in_reply_to_status_id_str": "1192896420497543169",
+		"in_reply_to_user_id": 882001291240714200,
+		"in_reply_to_user_id_str": "882001291240714240",
+		"in_reply_to_screen_name": "PippaJL01",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB -Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) -Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1716,
+			"friends_count": 2728,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PippaJL01 I believe I am more a lion. 🦁"
+	},
+	{
+		"created_at": "Sat Nov 09 10:58:49 +0000 2019",
+		"id": 1193120755661377500,
+		"id_str": "1193120755661377536",
+		"full_text": "@LivingWellPain @laurarathbone @neiljlangridge @ShoulderGeek1 @MattLowPT @PeteOSullivanPT @RogerKerry1 @goodyrob @ashjamesphysio @MKargelaDPT @Jerry_DurhamPT @JeremyLewisPT @AmandaHensman @tomgoom @MelroseStewart1 @PhysioMACP @thecsp @PhysioPainAssoc I hope the @PhysioPainAssoc helps 😊🙌",
+		"truncated": false,
+		"display_text_range": [
+			251,
+			287
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LivingWellPain",
+					"name": "Tina",
+					"id": 1008439629912166400,
+					"id_str": "1008439629912166401",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "laurarathbone",
+					"name": "Laura Rathbone🥦🌱✌",
+					"id": 32357102,
+					"id_str": "32357102",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "neiljlangridge",
+					"name": "Neil Langridge",
+					"id": 1890279319,
+					"id_str": "1890279319",
+					"indices": [
+						31,
+						46
+					]
+				},
+				{
+					"screen_name": "ShoulderGeek1",
+					"name": "Jo Gibson",
+					"id": 1335169814,
+					"id_str": "1335169814",
+					"indices": [
+						47,
+						61
+					]
+				},
+				{
+					"screen_name": "MattLowPT",
+					"name": "Matthew Low",
+					"id": 1105433442,
+					"id_str": "1105433442",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"screen_name": "PeteOSullivanPT",
+					"name": "Peter O'Sullivan",
+					"id": 1678452938,
+					"id_str": "1678452938",
+					"indices": [
+						73,
+						89
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						90,
+						102
+					]
+				},
+				{
+					"screen_name": "goodyrob",
+					"name": "rob goodwin",
+					"id": 121197556,
+					"id_str": "121197556",
+					"indices": [
+						103,
+						112
+					]
+				},
+				{
+					"screen_name": "ashjamesphysio",
+					"name": "Ash James 💭",
+					"id": 597553260,
+					"id_str": "597553260",
+					"indices": [
+						113,
+						128
+					]
+				},
+				{
+					"screen_name": "MKargelaDPT",
+					"name": "Mark Kargela",
+					"id": 235568668,
+					"id_str": "235568668",
+					"indices": [
+						129,
+						141
+					]
+				},
+				{
+					"screen_name": "Jerry_DurhamPT",
+					"name": "Jerry Durham",
+					"id": 19120080,
+					"id_str": "19120080",
+					"indices": [
+						142,
+						157
+					]
+				},
+				{
+					"screen_name": "JeremyLewisPT",
+					"name": "Jeremy Lewis",
+					"id": 2967837520,
+					"id_str": "2967837520",
+					"indices": [
+						158,
+						172
+					]
+				},
+				{
+					"screen_name": "AmandaHensman",
+					"name": "Amanda Hensman-Crook",
+					"id": 735530844299878400,
+					"id_str": "735530844299878404",
+					"indices": [
+						173,
+						187
+					]
+				},
+				{
+					"screen_name": "tomgoom",
+					"name": "RunningPhysio",
+					"id": 365600467,
+					"id_str": "365600467",
+					"indices": [
+						188,
+						196
+					]
+				},
+				{
+					"screen_name": "MelroseStewart1",
+					"name": "Dr Melrose Stewart",
+					"id": 2731031316,
+					"id_str": "2731031316",
+					"indices": [
+						197,
+						213
+					]
+				},
+				{
+					"screen_name": "PhysioMACP",
+					"name": "MACP",
+					"id": 1028269513,
+					"id_str": "1028269513",
+					"indices": [
+						214,
+						225
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						226,
+						233
+					]
+				},
+				{
+					"screen_name": "PhysioPainAssoc",
+					"name": "PPA",
+					"id": 1054528794,
+					"id_str": "1054528794",
+					"indices": [
+						234,
+						250
+					]
+				},
+				{
+					"screen_name": "PhysioPainAssoc",
+					"name": "PPA",
+					"id": 1054528794,
+					"id_str": "1054528794",
+					"indices": [
+						262,
+						278
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1192896474570481700,
+		"in_reply_to_status_id_str": "1192896474570481696",
+		"in_reply_to_user_id": 1008439629912166400,
+		"in_reply_to_user_id_str": "1008439629912166401",
+		"in_reply_to_screen_name": "LivingWellPain",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB -Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) -Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1716,
+			"friends_count": 2728,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14663,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5457,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LivingWellPain @laurarathbone @neiljlangridge @ShoulderGeek1 @MattLowPT @PeteOSullivanPT @RogerKerry1 @goodyrob @ashjamesphysio @MKargelaDPT @Jerry_DurhamPT @JeremyLewisPT @AmandaHensman @tomgoom @MelroseStewart1 @PhysioMACP @thecsp @PhysioPainAssoc I hope the @PhysioPainAssoc helps 😊🙌"
+	},
+	{
 		"created_at": "Fri Nov 08 20:07:39 +0000 2019",
 		"id": 1192896484343271400,
 		"id_str": "1192896484343271427",
-		"full_text": "@KMiddletonCSP I imagined this ... 👍🧘‍♀️ https://t.co/pciPNSNe6G",
+		"full_text": "@KMiddletonCSP I imagined this ... 👍🧘♀️ https://t.co/pciPNSNe6G",
 		"truncated": false,
 		"display_text_range": [
 			15,
@@ -197,7 +1237,7 @@ Grailbird.data.tweets_2019_11 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "@KMiddletonCSP I imagined this ... 👍🧘‍♀️ https://t.co/pciPNSNe6G"
+		"text": "@KMiddletonCSP I imagined this ... 👍🧘♀️ https://t.co/pciPNSNe6G"
 	},
 	{
 		"created_at": "Fri Nov 08 20:02:55 +0000 2019",
@@ -877,7 +1917,7 @@ Grailbird.data.tweets_2019_11 =
 				"name": "Chloe Dooley",
 				"screen_name": "chloedooley99",
 				"location": "",
-				"description": "3rd year physio student at Cardiff Uni / PACS committee president / Play therapy volunteer/ Welsh rep CSP SRG / Endurance athlete 🏃🏽‍♀️/ all views are my own",
+				"description": "3rd year physio student at Cardiff Uni / PACS committee president / Play therapy volunteer/ Welsh rep CSP SRG / Endurance athlete 🏃🏽♀️/ all views are my own",
 				"url": null,
 				"entities": {
 					"description": {
