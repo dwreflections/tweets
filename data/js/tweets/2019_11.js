@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 10 10:17:33 +0000 2019",
+		"id": 1193453540263506000,
+		"id_str": "1193472755074768896",
+		"full_text": "Today we honour the fallen and remember all those who continue to serve in defence of our freedoms. \n\n#LestWeForget | #RemembranceSunday https://t.co/beR5JRTIWf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LestWeForget",
+					"indices": [
+						102,
+						115
+					]
+				},
+				{
+					"text": "RemembranceSunday",
+					"indices": [
+						118,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1192852916517949400,
+					"id_str": "1192852916517949441",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EI8fwd0XsAAPxNq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI8fwd0XsAAPxNq.jpg",
+					"url": "https://t.co/beR5JRTIWf",
+					"display_url": "pic.twitter.com/beR5JRTIWf",
+					"expanded_url": "https://twitter.com/foreignoffice/status/1193453540263505920/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1192852916517949400,
+					"id_str": "1192852916517949441",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/media/EI8fwd0XsAAPxNq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EI8fwd0XsAAPxNq.jpg",
+					"url": "https://t.co/beR5JRTIWf",
+					"display_url": "pic.twitter.com/beR5JRTIWf",
+					"expanded_url": "https://twitter.com/foreignoffice/status/1193453540263505920/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 51051,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1192852916517949441/vid/320x320/KQ7x6daSiePhz7UC.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1192852916517949441/pl/SVJRBUy2ctAhe_hT.m3u8?tag=13"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1192852916517949441/vid/720x720/wKGXjFkomwawdF99.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1192852916517949441/vid/480x480/6icPNpwJRPoN-G9C.mp4?tag=13"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14353202,
+			"id_str": "14353202",
+			"name": "Foreign Office 🇬🇧 #LestWeForget",
+			"screen_name": "foreignoffice",
+			"location": "London",
+			"description": "We work on world affairs for the UK Government and lead on promoting & protecting British people, prosperity & influence. #LestWeForget",
+			"url": "https://t.co/FTt7vQrU9K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FTt7vQrU9K",
+							"expanded_url": "http://www.gov.uk/fco",
+							"display_url": "gov.uk/fco",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 926241,
+			"friends_count": 2893,
+			"listed_count": 6108,
+			"created_at": "Thu Apr 10 17:21:52 +0000 2008",
+			"favourites_count": 4017,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 37105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "003F72",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189178086425690112/8t_Q1hr-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189178086425690112/8t_Q1hr-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14353202/1573144857",
+			"profile_link_color": "003F72",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EBEBEB",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1444,
+		"favorite_count": 4144,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today we honour the fallen and remember all those who continue to serve in defence of our freedoms. \n\n#LestWeForget | #RemembranceSunday https://t.co/beR5JRTIWf"
+	},
+	{
 		"created_at": "Sat Nov 09 14:55:20 +0000 2019",
 		"id": 1193180276752552000,
 		"id_str": "1193180276752551936",
