@@ -1,6 +1,284 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 12 19:10:35 +0000 2019",
+		"id": 1194300988418646000,
+		"id_str": "1194331672965189633",
+		"full_text": "We call on the next Government to grow the healthcare workforce #GeneralElection2019 https://t.co/nybiJWki5g https://t.co/VdUB8t879T",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GeneralElection2019",
+					"indices": [
+						64,
+						84
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nybiJWki5g",
+					"expanded_url": "http://bit.ly/33NbmNK",
+					"display_url": "bit.ly/33NbmNK",
+					"indices": [
+						85,
+						108
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1194300983335104500,
+					"id_str": "1194300983335104514",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EJMCaqqWsAIvYB2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJMCaqqWsAIvYB2.jpg",
+					"url": "https://t.co/VdUB8t879T",
+					"display_url": "pic.twitter.com/VdUB8t879T",
+					"expanded_url": "https://twitter.com/councilofdeans/status/1194300988418646021/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1100,
+							"h": 619,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1100,
+							"h": 619,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 67,
+									"y": 254,
+									"h": 145,
+									"w": 145
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 67,
+									"y": 254,
+									"h": 145,
+									"w": 145
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 41,
+									"y": 157,
+									"h": 89,
+									"w": 89
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 67,
+									"y": 254,
+									"h": 145,
+									"w": 145
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194300983335104500,
+					"id_str": "1194300983335104514",
+					"indices": [
+						109,
+						132
+					],
+					"media_url": "http://pbs.twimg.com/media/EJMCaqqWsAIvYB2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJMCaqqWsAIvYB2.jpg",
+					"url": "https://t.co/VdUB8t879T",
+					"display_url": "pic.twitter.com/VdUB8t879T",
+					"expanded_url": "https://twitter.com/councilofdeans/status/1194300988418646021/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1100,
+							"h": 619,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1100,
+							"h": 619,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 67,
+									"y": 254,
+									"h": 145,
+									"w": 145
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 67,
+									"y": 254,
+									"h": 145,
+									"w": 145
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 41,
+									"y": 157,
+									"h": 89,
+									"w": 89
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 67,
+									"y": 254,
+									"h": 145,
+									"w": 145
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 278442312,
+			"id_str": "278442312",
+			"name": "Council of Deans",
+			"screen_name": "councilofdeans",
+			"location": "",
+			"description": "The Council of Deans of Health is the voice of UK university faculties for nursing, midwifery and the allied health professions. Retweets are not an endorsement",
+			"url": "http://t.co/jhJqsBGPtT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/jhJqsBGPtT",
+							"expanded_url": "http://www.councilofdeans.org.uk/",
+							"display_url": "councilofdeans.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6556,
+			"friends_count": 1700,
+			"listed_count": 100,
+			"created_at": "Thu Apr 07 08:43:33 +0000 2011",
+			"favourites_count": 1489,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9E5EB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034784924451172355/J6RjhEvF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034784924451172355/J6RjhEvF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/278442312/1535548579",
+			"profile_link_color": "00B3A4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 35,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We call on the next Government to grow the healthcare workforce #GeneralElection2019 https://t.co/nybiJWki5g https://t.co/VdUB8t879T"
+	},
+	{
 		"created_at": "Sun Nov 10 10:17:33 +0000 2019",
 		"id": 1193453540263506000,
 		"id_str": "1193472755074768896",
