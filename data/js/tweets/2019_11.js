@@ -1,6 +1,513 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 14 20:15:37 +0000 2019",
+		"id": 1194728047620116500,
+		"id_str": "1195072815764033536",
+		"full_text": "It’s almost time for our members to vote on our 2020 policy priorities!\n\nThe 41 policies you found in the Manifesto for Reform will be soon refined to 15 priorities. Have your say by joining the movement at https://t.co/egnYeXimgV\n\nThe sooner you join, the greater your influence! https://t.co/FbmsozoHe3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/egnYeXimgV",
+					"expanded_url": "http://MSKReform.org.uk/join",
+					"display_url": "MSKReform.org.uk/join",
+					"indices": [
+						207,
+						230
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1194728041773248500,
+					"id_str": "1194728041773248518",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EJSG0vUXsAYoU_c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJSG0vUXsAYoU_c.jpg",
+					"url": "https://t.co/FbmsozoHe3",
+					"display_url": "pic.twitter.com/FbmsozoHe3",
+					"expanded_url": "https://twitter.com/MSKReform/status/1194728047620116480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 773,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 438,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1929,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "17868564",
+									"screen_name": "elizabethjenn",
+									"name": "elizabethjenn"
+								},
+								{
+									"type": "user",
+									"user_id": "702848940220227585",
+									"screen_name": "rosiephysio",
+									"name": "Rosie Wills"
+								},
+								{
+									"type": "user",
+									"user_id": "48334060",
+									"screen_name": "beejjay",
+									"name": "Bernadette J Johnson"
+								},
+								{
+									"type": "user",
+									"user_id": "1920654684",
+									"screen_name": "MSK_management",
+									"name": "Paul Allan"
+								},
+								{
+									"type": "user",
+									"user_id": "55323285",
+									"screen_name": "PhilCharlesBar",
+									"name": "Phil Barber"
+								},
+								{
+									"type": "user",
+									"user_id": "3377750235",
+									"screen_name": "beardedPT",
+									"name": "David Williams"
+								},
+								{
+									"type": "user",
+									"user_id": "1335169814",
+									"screen_name": "ShoulderGeek1",
+									"name": "Jo Gibson"
+								},
+								{
+									"type": "user",
+									"user_id": "485209939",
+									"screen_name": "paulawoods5",
+									"name": "Paula Deacon"
+								},
+								{
+									"type": "user",
+									"user_id": "529768682",
+									"screen_name": "Emmajsalt",
+									"name": "Emma Salt"
+								},
+								{
+									"type": "user",
+									"user_id": "863516326723301377",
+									"screen_name": "MRWPhysio",
+									"name": "Matthew Wyatt"
+								}
+							]
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194728041773248500,
+					"id_str": "1194728041773248518",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EJSG0vUXsAYoU_c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJSG0vUXsAYoU_c.jpg",
+					"url": "https://t.co/FbmsozoHe3",
+					"display_url": "pic.twitter.com/FbmsozoHe3",
+					"expanded_url": "https://twitter.com/MSKReform/status/1194728047620116480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 773,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 438,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1242,
+							"h": 1929,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "17868564",
+									"screen_name": "elizabethjenn",
+									"name": "elizabethjenn"
+								},
+								{
+									"type": "user",
+									"user_id": "702848940220227585",
+									"screen_name": "rosiephysio",
+									"name": "Rosie Wills"
+								},
+								{
+									"type": "user",
+									"user_id": "48334060",
+									"screen_name": "beejjay",
+									"name": "Bernadette J Johnson"
+								},
+								{
+									"type": "user",
+									"user_id": "1920654684",
+									"screen_name": "MSK_management",
+									"name": "Paul Allan"
+								},
+								{
+									"type": "user",
+									"user_id": "55323285",
+									"screen_name": "PhilCharlesBar",
+									"name": "Phil Barber"
+								},
+								{
+									"type": "user",
+									"user_id": "3377750235",
+									"screen_name": "beardedPT",
+									"name": "David Williams"
+								},
+								{
+									"type": "user",
+									"user_id": "1335169814",
+									"screen_name": "ShoulderGeek1",
+									"name": "Jo Gibson"
+								},
+								{
+									"type": "user",
+									"user_id": "485209939",
+									"screen_name": "paulawoods5",
+									"name": "Paula Deacon"
+								},
+								{
+									"type": "user",
+									"user_id": "529768682",
+									"screen_name": "Emmajsalt",
+									"name": "Emma Salt"
+								},
+								{
+									"type": "user",
+									"user_id": "863516326723301377",
+									"screen_name": "MRWPhysio",
+									"name": "Matthew Wyatt"
+								}
+							]
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1173641102701793300,
+			"id_str": "1173641102701793280",
+			"name": "MSKReform",
+			"screen_name": "MSKReform",
+			"location": "",
+			"description": "The movement best known as #TheBigRs has been formalised! We are the grass-roots MSK think-tank. We are MSKReform.  Download our Manifesto for Reform for free👇",
+			"url": "https://t.co/31SCtD4LhJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/31SCtD4LhJ",
+							"expanded_url": "http://www.mskreform.org.uk",
+							"display_url": "mskreform.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1028,
+			"friends_count": 66,
+			"listed_count": 1,
+			"created_at": "Mon Sep 16 16:53:49 +0000 2019",
+			"favourites_count": 202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 203,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1173641205089013760/yjfXIGaO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1173641205089013760/yjfXIGaO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1173641102701793280/1568652880",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s almost time for our members to vote on our 2020 policy priorities!\n\nThe 41 policies you found in the Manifesto for Reform will be soon refined to 15 priorities. Have your say by joining the movement at https://t.co/egnYeXimgV\n\nThe sooner you join, the greater your influence! https://t.co/FbmsozoHe3"
+	},
+	{
+		"created_at": "Thu Nov 14 19:27:47 +0000 2019",
+		"id": 1195060779512467500,
+		"id_str": "1195060779512467456",
+		"full_text": "@666Dunst @EMthoracic @TheACPRC @UoNPhysio @kirstyhyndes @UoN_SHS @eleanormdoug Well done Holly 😊🙌",
+		"truncated": false,
+		"display_text_range": [
+			80,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "666Dunst",
+					"name": "Theresa Harvey-Dunstan",
+					"id": 1858701115,
+					"id_str": "1858701115",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "EMthoracic",
+					"name": "EMTS",
+					"id": 3291842824,
+					"id_str": "3291842824",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"screen_name": "TheACPRC",
+					"name": "ACPRC",
+					"id": 1728120193,
+					"id_str": "1728120193",
+					"indices": [
+						22,
+						31
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						32,
+						42
+					]
+				},
+				{
+					"screen_name": "kirstyhyndes",
+					"name": "kirsty hyndes",
+					"id": 203287084,
+					"id_str": "203287084",
+					"indices": [
+						43,
+						56
+					]
+				},
+				{
+					"screen_name": "UoN_SHS",
+					"name": "UoN Health Sciences",
+					"id": 512054069,
+					"id_str": "512054069",
+					"indices": [
+						57,
+						65
+					]
+				},
+				{
+					"screen_name": "eleanormdoug",
+					"name": "Eleanor Douglas",
+					"id": 775348658124517400,
+					"id_str": "775348658124517376",
+					"indices": [
+						66,
+						79
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1194994833045229600,
+		"in_reply_to_status_id_str": "1194994833045229570",
+		"in_reply_to_user_id": 1858701115,
+		"in_reply_to_user_id_str": "1858701115",
+		"in_reply_to_screen_name": "666Dunst",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB -Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) -Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1717,
+			"friends_count": 2745,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5469,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@666Dunst @EMthoracic @TheACPRC @UoNPhysio @kirstyhyndes @UoN_SHS @eleanormdoug Well done Holly 😊🙌"
+	},
+	{
 		"created_at": "Wed Nov 13 21:00:52 +0000 2019",
 		"id": 1194721816092299300,
 		"id_str": "1194721816092299269",
@@ -297,7 +804,7 @@ Grailbird.data.tweets_2019_11 =
 		"created_at": "Wed Nov 13 20:15:02 +0000 2019",
 		"id": 1194710281324302300,
 		"id_str": "1194710281324302337",
-		"full_text": "@MSKReform Me 🙋🏻‍♂️",
+		"full_text": "@MSKReform Me 🙋🏻♂️",
 		"truncated": false,
 		"display_text_range": [
 			11,
@@ -396,7 +903,7 @@ Grailbird.data.tweets_2019_11 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "und",
-		"text": "@MSKReform Me 🙋🏻‍♂️"
+		"text": "@MSKReform Me 🙋🏻♂️"
 	},
 	{
 		"created_at": "Wed Nov 13 19:57:08 +0000 2019",
