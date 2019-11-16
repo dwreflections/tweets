@@ -1,6 +1,373 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 16 00:41:02 +0000 2019",
+		"id": 1195501997664936000,
+		"id_str": "1195501997664935937",
+		"full_text": "@HarrietShannon @uclphysio @UCL_teaching @ICH_Education I still google this every other day when writing notes 📝 🤦🏻",
+		"truncated": false,
+		"display_text_range": [
+			56,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HarrietShannon",
+					"name": "Harriet Shannon",
+					"id": 319216046,
+					"id_str": "319216046",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "uclphysio",
+					"name": "UCL Physiotherapy",
+					"id": 431598798,
+					"id_str": "431598798",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "UCL_teaching",
+					"name": "UCL teaching",
+					"id": 386521417,
+					"id_str": "386521417",
+					"indices": [
+						27,
+						40
+					]
+				},
+				{
+					"screen_name": "ICH_Education",
+					"name": "UCLGOS ICH Education",
+					"id": 1359364351,
+					"id_str": "1359364351",
+					"indices": [
+						41,
+						55
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1195373904107364400,
+		"in_reply_to_status_id_str": "1195373904107364352",
+		"in_reply_to_user_id": 319216046,
+		"in_reply_to_user_id_str": "319216046",
+		"in_reply_to_screen_name": "HarrietShannon",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB -Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) -Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1718,
+			"friends_count": 2744,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@HarrietShannon @uclphysio @UCL_teaching @ICH_Education I still google this every other day when writing notes 📝 🤦🏻"
+	},
+	{
+		"created_at": "Fri Nov 15 22:14:08 +0000 2019",
+		"id": 1195465029530857500,
+		"id_str": "1195465029530857473",
+		"full_text": "There’s two bearded PT in Twitter Town 🤠 🧔🏻 👋 @NAbeardedPT https://t.co/sIl8yqiZnf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NAbeardedPT",
+					"name": "Bobby Montana",
+					"id": 1144320063627059200,
+					"id_str": "1144320063627059200",
+					"indices": [
+						46,
+						58
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1195465016838934500,
+					"id_str": "1195465016838934529",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EJclGVYXUAEwhib.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EJclGVYXUAEwhib.jpg",
+					"url": "https://t.co/sIl8yqiZnf",
+					"display_url": "pic.twitter.com/sIl8yqiZnf",
+					"expanded_url": "https://twitter.com/beardedPT/status/1195465029530857473/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 356,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 356,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195465016838934500,
+					"id_str": "1195465016838934529",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EJclGVYXUAEwhib.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EJclGVYXUAEwhib.jpg",
+					"url": "https://t.co/sIl8yqiZnf",
+					"display_url": "pic.twitter.com/sIl8yqiZnf",
+					"expanded_url": "https://twitter.com/beardedPT/status/1195465029530857473/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 356,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 356,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							178
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EJclGVYXUAEwhib.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB -Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) -Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1718,
+			"friends_count": 2744,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14755,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5472,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6a0a3474d8c5113c",
+			"url": "https://api.twitter.com/1.1/geo/id/6a0a3474d8c5113c.json",
+			"place_type": "city",
+			"name": "El Paso",
+			"full_name": "El Paso, TX",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-106.634874,
+							31.6206683
+						],
+						[
+							-106.199987,
+							31.6206683
+						],
+						[
+							-106.199987,
+							31.966068
+						],
+						[
+							-106.634874,
+							31.966068
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There’s two bearded PT in Twitter Town 🤠 🧔🏻 👋 @NAbeardedPT https://t.co/sIl8yqiZnf"
+	},
+	{
 		"created_at": "Thu Nov 14 20:15:37 +0000 2019",
 		"id": 1194728047620116500,
 		"id_str": "1195072815764033536",
