@@ -1,6 +1,741 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sun Nov 17 09:24:52 +0000 2019",
+		"id": 1195796173115838500,
+		"id_str": "1195996213633523712",
+		"full_text": "Finally put a beard to the name @beardedPT developing #boldvisibility with #MyLocalCSP @CSPEastMidlands @EMAHPInfo @susanjritchie. Big thanks to @cathy_physio @CChappellCSP @lauhols https://t.co/EV0y4LaxkE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			181
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "boldvisibility",
+					"indices": [
+						54,
+						69
+					]
+				},
+				{
+					"text": "MyLocalCSP",
+					"indices": [
+						75,
+						86
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						32,
+						42
+					]
+				},
+				{
+					"screen_name": "CSPEastMidlands",
+					"name": "CSPEastMidlands",
+					"id": 1280624264,
+					"id_str": "1280624264",
+					"indices": [
+						87,
+						103
+					]
+				},
+				{
+					"screen_name": "EMAHPInfo",
+					"name": "Euan McComiskie",
+					"id": 2438541736,
+					"id_str": "2438541736",
+					"indices": [
+						104,
+						114
+					]
+				},
+				{
+					"screen_name": "susanjritchie",
+					"name": "Susan Ritchie",
+					"id": 220306653,
+					"id_str": "220306653",
+					"indices": [
+						115,
+						129
+					]
+				},
+				{
+					"screen_name": "cathy_physio",
+					"name": "Cathy Burton",
+					"id": 736238390492991500,
+					"id_str": "736238390492991489",
+					"indices": [
+						145,
+						158
+					]
+				},
+				{
+					"screen_name": "CChappellCSP",
+					"name": "Catherine Chappell",
+					"id": 737622299520696300,
+					"id_str": "737622299520696320",
+					"indices": [
+						159,
+						172
+					]
+				},
+				{
+					"screen_name": "lauhols",
+					"name": "Laura Breach",
+					"id": 20471975,
+					"id_str": "20471975",
+					"indices": [
+						173,
+						181
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EV0y4LaxkE",
+					"expanded_url": "https://twitter.com/beardedPT/status/1195744419078692864",
+					"display_url": "twitter.com/beardedPT/stat…",
+					"indices": [
+						182,
+						205
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 821850913614823400,
+			"id_str": "821850913614823424",
+			"name": "Ross Clifford",
+			"screen_name": "thehealthphysio",
+			"location": "",
+			"description": "Senior lecturer Physiotherapy. Extended Scope Practitioner MSK. Author. Promoting health and wellbeing through physical activity. MSK Champion @VersusArthritis",
+			"url": "https://t.co/blyCj5wj3F",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/blyCj5wj3F",
+							"expanded_url": "https://www.amazon.co.uk/Bulletproof-Bodies-Body-weight-Prevention-Rehabilitation/dp/1905367899/ref=",
+							"display_url": "amazon.co.uk/Bulletproof-Bo…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 408,
+			"friends_count": 270,
+			"listed_count": 3,
+			"created_at": "Wed Jan 18 22:45:01 +0000 2017",
+			"favourites_count": 1708,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 984,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1062659943915048966/JBrHw4z2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1062659943915048966/JBrHw4z2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/821850913614823424/1532205871",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1195744419078692900,
+		"quoted_status_id_str": "1195744419078692864",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EV0y4LaxkE",
+			"expanded": "https://twitter.com/beardedPT/status/1195744419078692864",
+			"display": "twitter.com/beardedPT/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 16 16:44:20 +0000 2019",
+			"id": 1195744419078692900,
+			"id_str": "1195744419078692864",
+			"full_text": "Engagement bingo! Super day @ #boldvisibility #mylocalcsp @CSPEastMidlands \n\nNice to put a face to a name too! Hey @thehealthphysio 👋 https://t.co/JymqExe8PV https://t.co/IxL4IEseBw",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				157
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "boldvisibility",
+						"indices": [
+							30,
+							45
+						]
+					},
+					{
+						"text": "mylocalcsp",
+						"indices": [
+							46,
+							57
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CSPEastMidlands",
+						"name": "CSPEastMidlands",
+						"id": 1280624264,
+						"id_str": "1280624264",
+						"indices": [
+							58,
+							74
+						]
+					},
+					{
+						"screen_name": "thehealthphysio",
+						"name": "Ross Clifford",
+						"id": 821850913614823400,
+						"id_str": "821850913614823424",
+						"indices": [
+							115,
+							131
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/JymqExe8PV",
+						"expanded_url": "https://twitter.com/cchappellcsp/status/1195690673099464705",
+						"display_url": "twitter.com/cchappellcsp/s…",
+						"indices": [
+							134,
+							157
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1195744326300655600,
+						"id_str": "1195744326300655616",
+						"indices": [
+							158,
+							181
+						],
+						"media_url": "http://pbs.twimg.com/media/EJgjISNW4AA-MeX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJgjISNW4AA-MeX.jpg",
+						"url": "https://t.co/IxL4IEseBw",
+						"display_url": "pic.twitter.com/IxL4IEseBw",
+						"expanded_url": "https://twitter.com/beardedPT/status/1195744419078692864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 304,
+										"y": 499,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 57,
+										"y": 416,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 127,
+										"y": 201,
+										"h": 39,
+										"w": 39
+									},
+									{
+										"x": 58,
+										"y": 122,
+										"h": 61,
+										"w": 61
+									},
+									{
+										"x": 51,
+										"y": 184,
+										"h": 87,
+										"w": 87
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 918,
+										"y": 1504,
+										"h": 102,
+										"w": 102
+									},
+									{
+										"x": 172,
+										"y": 1254,
+										"h": 116,
+										"w": 116
+									},
+									{
+										"x": 384,
+										"y": 606,
+										"h": 120,
+										"w": 120
+									},
+									{
+										"x": 176,
+										"y": 368,
+										"h": 184,
+										"w": 184
+									},
+									{
+										"x": 156,
+										"y": 556,
+										"h": 264,
+										"w": 264
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 537,
+										"y": 881,
+										"h": 59,
+										"w": 59
+									},
+									{
+										"x": 100,
+										"y": 734,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 225,
+										"y": 355,
+										"h": 70,
+										"w": 70
+									},
+									{
+										"x": 103,
+										"y": 215,
+										"h": 107,
+										"w": 107
+									},
+									{
+										"x": 91,
+										"y": 325,
+										"h": 154,
+										"w": 154
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 918,
+										"y": 1504,
+										"h": 102,
+										"w": 102
+									},
+									{
+										"x": 172,
+										"y": 1254,
+										"h": 116,
+										"w": 116
+									},
+									{
+										"x": 384,
+										"y": 606,
+										"h": 120,
+										"w": 120
+									},
+									{
+										"x": 176,
+										"y": 368,
+										"h": 184,
+										"w": 184
+									},
+									{
+										"x": 156,
+										"y": 556,
+										"h": 264,
+										"w": 264
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1195744326300655600,
+						"id_str": "1195744326300655616",
+						"indices": [
+							158,
+							181
+						],
+						"media_url": "http://pbs.twimg.com/media/EJgjISNW4AA-MeX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJgjISNW4AA-MeX.jpg",
+						"url": "https://t.co/IxL4IEseBw",
+						"display_url": "pic.twitter.com/IxL4IEseBw",
+						"expanded_url": "https://twitter.com/beardedPT/status/1195744419078692864/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 304,
+										"y": 499,
+										"h": 33,
+										"w": 33
+									},
+									{
+										"x": 57,
+										"y": 416,
+										"h": 38,
+										"w": 38
+									},
+									{
+										"x": 127,
+										"y": 201,
+										"h": 39,
+										"w": 39
+									},
+									{
+										"x": 58,
+										"y": 122,
+										"h": 61,
+										"w": 61
+									},
+									{
+										"x": 51,
+										"y": 184,
+										"h": 87,
+										"w": 87
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 918,
+										"y": 1504,
+										"h": 102,
+										"w": 102
+									},
+									{
+										"x": 172,
+										"y": 1254,
+										"h": 116,
+										"w": 116
+									},
+									{
+										"x": 384,
+										"y": 606,
+										"h": 120,
+										"w": 120
+									},
+									{
+										"x": 176,
+										"y": 368,
+										"h": 184,
+										"w": 184
+									},
+									{
+										"x": 156,
+										"y": 556,
+										"h": 264,
+										"w": 264
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 537,
+										"y": 881,
+										"h": 59,
+										"w": 59
+									},
+									{
+										"x": 100,
+										"y": 734,
+										"h": 67,
+										"w": 67
+									},
+									{
+										"x": 225,
+										"y": 355,
+										"h": 70,
+										"w": 70
+									},
+									{
+										"x": 103,
+										"y": 215,
+										"h": 107,
+										"w": 107
+									},
+									{
+										"x": 91,
+										"y": 325,
+										"h": 154,
+										"w": 154
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 918,
+										"y": 1504,
+										"h": 102,
+										"w": 102
+									},
+									{
+										"x": 172,
+										"y": 1254,
+										"h": 116,
+										"w": 116
+									},
+									{
+										"x": 384,
+										"y": 606,
+										"h": 120,
+										"w": 120
+									},
+									{
+										"x": 176,
+										"y": 368,
+										"h": 184,
+										"w": 184
+									},
+									{
+										"x": 156,
+										"y": 556,
+										"h": 264,
+										"w": 264
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3377750235,
+				"id_str": "3377750235",
+				"name": "David Williams",
+				"screen_name": "beardedPT",
+				"location": "Staffordshire, England",
+				"description": "Rotational Physiotherapist #TeamUHDB -Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) -Social Media - #150Leaders",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Bwu7xtI10V",
+								"expanded_url": "http://bit.ly/2b3pt",
+								"display_url": "bit.ly/2b3pt",
+								"indices": [
+									111,
+									134
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1727,
+				"friends_count": 2749,
+				"listed_count": 16,
+				"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+				"favourites_count": 14777,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5486,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "3554e1ec5e78353e",
+				"url": "https://api.twitter.com/1.1/geo/id/3554e1ec5e78353e.json",
+				"place_type": "city",
+				"name": "Clifton",
+				"full_name": "Clifton, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-1.20166,
+								52.8892839
+							],
+							[
+								-1.165387,
+								52.8892839
+							],
+							[
+								-1.165387,
+								52.917812
+							],
+							[
+								-1.20166,
+								52.917812
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1195690673099464700,
+			"quoted_status_id_str": "1195690673099464705",
+			"quoted_status_permalink": {
+				"url": "https://t.co/JymqExe8PV",
+				"expanded": "https://twitter.com/cchappellcsp/status/1195690673099464705",
+				"display": "twitter.com/cchappellcsp/s…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Finally put a beard to the name @beardedPT developing #boldvisibility with #MyLocalCSP @CSPEastMidlands @EMAHPInfo @susanjritchie. Big thanks to @cathy_physio @CChappellCSP @lauhols https://t.co/EV0y4LaxkE"
+	},
+	{
 		"created_at": "Sat Nov 16 16:44:20 +0000 2019",
 		"id": 1195744419078692900,
 		"id_str": "1195744419078692864",
@@ -1571,7 +2306,7 @@ Grailbird.data.tweets_2019_11 =
 		"created_at": "Sat Nov 16 12:55:11 +0000 2019",
 		"id": 1195686752759033900,
 		"id_str": "1195686752759033856",
-		"full_text": "@EMAHPInfo I nearly stood up to the “Do you want Euan’s job?” question 😅🙋🏻‍♂️\n\nGreat so far!",
+		"full_text": "@EMAHPInfo I nearly stood up to the “Do you want Euan’s job?” question 😅🙋🏻♂️\n\nGreat so far!",
 		"truncated": false,
 		"display_text_range": [
 			11,
@@ -1670,7 +2405,7 @@ Grailbird.data.tweets_2019_11 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@EMAHPInfo I nearly stood up to the “Do you want Euan’s job?” question 😅🙋🏻‍♂️\n\nGreat so far!"
+		"text": "@EMAHPInfo I nearly stood up to the “Do you want Euan’s job?” question 😅🙋🏻♂️\n\nGreat so far!"
 	},
 	{
 		"created_at": "Sat Nov 16 11:12:41 +0000 2019",
