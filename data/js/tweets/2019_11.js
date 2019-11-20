@@ -1,6 +1,318 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 19 22:30:03 +0000 2019",
+		"id": 1196918588470370300,
+		"id_str": "1196918588470370304",
+		"full_text": "@MSKReform @Emmajsalt @xfitphysio @Lorna_physio @k8purcellphysio @FBillingham @TPMPodcast @MyCuppaJo @jenna_bardsley @JackAChew @felicitythow ✅ 🗳 https://t.co/kzbMs4H3Gc",
+		"truncated": false,
+		"display_text_range": [
+			142,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MSKReform",
+					"name": "MSKReform",
+					"id": 1173641102701793300,
+					"id_str": "1173641102701793280",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Emmajsalt",
+					"name": "Emma Salt",
+					"id": 529768682,
+					"id_str": "529768682",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "xfitphysio",
+					"name": "Donald Todd",
+					"id": 741469266,
+					"id_str": "741469266",
+					"indices": [
+						22,
+						33
+					]
+				},
+				{
+					"screen_name": "Lorna_physio",
+					"name": "Lorna Owens",
+					"id": 1014747776842981400,
+					"id_str": "1014747776842981377",
+					"indices": [
+						34,
+						47
+					]
+				},
+				{
+					"screen_name": "k8purcellphysio",
+					"name": "Kate Purcell",
+					"id": 755786753580134400,
+					"id_str": "755786753580134400",
+					"indices": [
+						48,
+						64
+					]
+				},
+				{
+					"screen_name": "FBillingham",
+					"name": "Faye Billingham",
+					"id": 599416270,
+					"id_str": "599416270",
+					"indices": [
+						65,
+						77
+					]
+				},
+				{
+					"screen_name": "TPMPodcast",
+					"name": "Physio Matters",
+					"id": 1914280350,
+					"id_str": "1914280350",
+					"indices": [
+						78,
+						89
+					]
+				},
+				{
+					"screen_name": "MyCuppaJo",
+					"name": "Joletta Belton",
+					"id": 1452139974,
+					"id_str": "1452139974",
+					"indices": [
+						90,
+						100
+					]
+				},
+				{
+					"screen_name": "jenna_bardsley",
+					"name": "Jenna Bardsley 🐝",
+					"id": 3333384215,
+					"id_str": "3333384215",
+					"indices": [
+						101,
+						116
+					]
+				},
+				{
+					"screen_name": "JackAChew",
+					"name": "Jack Chew",
+					"id": 868558446,
+					"id_str": "868558446",
+					"indices": [
+						117,
+						127
+					]
+				},
+				{
+					"screen_name": "felicitythow",
+					"name": "Felicity Thow",
+					"id": 897464797,
+					"id_str": "897464797",
+					"indices": [
+						128,
+						141
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1196918584036995000,
+					"id_str": "1196918584036995072",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EJxPHFKWsAA99J3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJxPHFKWsAA99J3.jpg",
+					"url": "https://t.co/kzbMs4H3Gc",
+					"display_url": "pic.twitter.com/kzbMs4H3Gc",
+					"expanded_url": "https://twitter.com/beardedPT/status/1196918588470370304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 551,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 1531,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 973,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1196918584036995000,
+					"id_str": "1196918584036995072",
+					"indices": [
+						146,
+						169
+					],
+					"media_url": "http://pbs.twimg.com/media/EJxPHFKWsAA99J3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJxPHFKWsAA99J3.jpg",
+					"url": "https://t.co/kzbMs4H3Gc",
+					"display_url": "pic.twitter.com/kzbMs4H3Gc",
+					"expanded_url": "https://twitter.com/beardedPT/status/1196918588470370304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 551,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 1531,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 973,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1196716337176989700,
+		"in_reply_to_status_id_str": "1196716337176989696",
+		"in_reply_to_user_id": 1173641102701793300,
+		"in_reply_to_user_id_str": "1173641102701793280",
+		"in_reply_to_screen_name": "MSKReform",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Rotational Physiotherapist #TeamUHDB -Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) -Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								111,
+								134
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1727,
+			"friends_count": 2752,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14793,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5489,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@MSKReform @Emmajsalt @xfitphysio @Lorna_physio @k8purcellphysio @FBillingham @TPMPodcast @MyCuppaJo @jenna_bardsley @JackAChew @felicitythow ✅ 🗳 https://t.co/kzbMs4H3Gc"
+	},
+	{
 		"created_at": "Mon Nov 18 19:22:38 +0000 2019",
 		"id": 1196509033789886500,
 		"id_str": "1196509033789886464",
