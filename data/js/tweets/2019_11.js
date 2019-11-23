@@ -1,6 +1,359 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 22 20:21:36 +0000 2019",
+		"id": 1197973427212161000,
+		"id_str": "1197973427212161024",
+		"full_text": "@Prof_IeuanEllis Safe journey!",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Prof_IeuanEllis",
+					"name": "Ieuan Ellis 🎓🏃🌍",
+					"id": 1315334306,
+					"id_str": "1315334306",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1197925557255757800,
+		"in_reply_to_status_id_str": "1197925557255757825",
+		"in_reply_to_user_id": 1315334306,
+		"in_reply_to_user_id_str": "1315334306",
+		"in_reply_to_screen_name": "Prof_IeuanEllis",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1736,
+			"friends_count": 2763,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14831,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5497,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Prof_IeuanEllis Safe journey!"
+	},
+	{
+		"created_at": "Fri Nov 22 18:43:14 +0000 2019",
+		"id": 1197940685351067600,
+		"id_str": "1197948669913436160",
+		"full_text": "Interesting discussions today at the UK Healthcare Education Advisory Committee (HEAC) covering recruitment, retention, 'long-term' health workforce people plan, REF and building clinical-academic capacity. Valued contributions from student reps including outgoing @beardedPT https://t.co/FgaO3D2wTf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						265,
+						275
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1197940682998112300,
+					"id_str": "1197940682998112257",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ_wtEgXYAEYjDy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ_wtEgXYAEYjDy.jpg",
+					"url": "https://t.co/FgaO3D2wTf",
+					"display_url": "pic.twitter.com/FgaO3D2wTf",
+					"expanded_url": "https://twitter.com/Prof_IeuanEllis/status/1197940685351067648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 387,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 387,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 387,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1197940682998112300,
+					"id_str": "1197940682998112257",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EJ_wtEgXYAEYjDy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJ_wtEgXYAEYjDy.jpg",
+					"url": "https://t.co/FgaO3D2wTf",
+					"display_url": "pic.twitter.com/FgaO3D2wTf",
+					"expanded_url": "https://twitter.com/Prof_IeuanEllis/status/1197940685351067648/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 620,
+							"h": 387,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 620,
+							"h": 387,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 620,
+							"h": 387,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1315334306,
+			"id_str": "1315334306",
+			"name": "Ieuan Ellis 🎓🏃🌍",
+			"screen_name": "Prof_IeuanEllis",
+			"location": "Ponteland & Staffordshire, UK",
+			"description": "Global citizen. Professor. Pro Vice Chancellor @StaffsUni. Physiotherapist. Former 2:13 international marathon runner. Tweeting personal reflections on life ...",
+			"url": "https://t.co/Y3Yigh2Ft9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y3Yigh2Ft9",
+							"expanded_url": "http://www.staffs.ac.uk/staff/profiles/professor-ieuan-ellis.jsp",
+							"display_url": "staffs.ac.uk/staff/profiles…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4661,
+			"friends_count": 250,
+			"listed_count": 259,
+			"created_at": "Fri Mar 29 22:17:45 +0000 2013",
+			"favourites_count": 9661,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23065,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/867084102406688768/u1gxZZmc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/867084102406688768/u1gxZZmc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1315334306/1436113522",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "4f854c83732cf4f5",
+			"url": "https://api.twitter.com/1.1/geo/id/4f854c83732cf4f5.json",
+			"place_type": "city",
+			"name": "Watford",
+			"full_name": "Watford, East",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.4444586,
+							51.6322356
+						],
+						[
+							-0.340092,
+							51.6322356
+						],
+						[
+							-0.340092,
+							51.703921
+						],
+						[
+							-0.4444586,
+							51.703921
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interesting discussions today at the UK Healthcare Education Advisory Committee (HEAC) covering recruitment, retention, 'long-term' health workforce people plan, REF and building clinical-academic capacity. Valued contributions from student reps including outgoing @beardedPT https://t.co/FgaO3D2wTf"
+	},
+	{
 		"created_at": "Thu Nov 21 13:47:19 +0000 2019",
 		"id": 1197511812578721800,
 		"id_str": "1197511812578721793",
