@@ -1,6 +1,1450 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Sat Nov 23 18:31:53 +0000 2019",
+		"id": 1198308201537646600,
+		"id_str": "1198308201537646595",
+		"full_text": "@bjw46 @Prof_IeuanEllis Nothing to worry about 🤣👍",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bjw46",
+					"name": "Brian Webster-Henderson",
+					"id": 148766789,
+					"id_str": "148766789",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "Prof_IeuanEllis",
+					"name": "Ieuan Ellis 🎓🏃🌍",
+					"id": 1315334306,
+					"id_str": "1315334306",
+					"indices": [
+						7,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1198304858396414000,
+		"in_reply_to_status_id_str": "1198304858396413953",
+		"in_reply_to_user_id": 148766789,
+		"in_reply_to_user_id_str": "148766789",
+		"in_reply_to_screen_name": "bjw46",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1734,
+			"friends_count": 2763,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bjw46 @Prof_IeuanEllis Nothing to worry about 🤣👍"
+	},
+	{
+		"created_at": "Sat Nov 23 11:25:22 +0000 2019",
+		"id": 1198200863568908300,
+		"id_str": "1198200863568908288",
+		"full_text": "@Prof_IeuanEllis Indeed! 👍",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Prof_IeuanEllis",
+					"name": "Ieuan Ellis 🎓🏃🌍",
+					"id": 1315334306,
+					"id_str": "1315334306",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1198200025765032000,
+		"in_reply_to_status_id_str": "1198200025765031936",
+		"in_reply_to_user_id": 1315334306,
+		"in_reply_to_user_id_str": "1315334306",
+		"in_reply_to_screen_name": "Prof_IeuanEllis",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1734,
+			"friends_count": 2763,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Prof_IeuanEllis Indeed! 👍"
+	},
+	{
+		"created_at": "Sat Nov 23 11:25:09 +0000 2019",
+		"id": 1198200025765032000,
+		"id_str": "1198200808971677697",
+		"full_text": "@beardedPT Important for leaders to always walk the talk !",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1198187942491119600,
+		"in_reply_to_status_id_str": "1198187942491119616",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 1315334306,
+			"id_str": "1315334306",
+			"name": "Ieuan Ellis 🎓🏃🌍",
+			"screen_name": "Prof_IeuanEllis",
+			"location": "Ponteland & Staffordshire, UK",
+			"description": "Global citizen. Professor. Pro Vice Chancellor @StaffsUni. Physiotherapist. Former 2:13 international marathon runner. Tweeting personal reflections on life ...",
+			"url": "https://t.co/Y3Yigh2Ft9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y3Yigh2Ft9",
+							"expanded_url": "http://www.staffs.ac.uk/staff/profiles/professor-ieuan-ellis.jsp",
+							"display_url": "staffs.ac.uk/staff/profiles…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4661,
+			"friends_count": 250,
+			"listed_count": 259,
+			"created_at": "Fri Mar 29 22:17:45 +0000 2013",
+			"favourites_count": 9667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23069,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/867084102406688768/u1gxZZmc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/867084102406688768/u1gxZZmc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1315334306/1436113522",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6dd4aeb802da9f28",
+			"url": "https://api.twitter.com/1.1/geo/id/6dd4aeb802da9f28.json",
+			"place_type": "city",
+			"name": "Newcastle Upon Tyne",
+			"full_name": "Newcastle Upon Tyne, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.6937923,
+							54.960055
+						],
+						[
+							-1.596931,
+							54.960055
+						],
+						[
+							-1.596931,
+							55.0240558
+						],
+						[
+							-1.6937923,
+							55.0240558
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@beardedPT Important for leaders to always walk the talk !"
+	},
+	{
+		"created_at": "Sat Nov 23 10:50:59 +0000 2019",
+		"id": 1198192213584490500,
+		"id_str": "1198192213584490496",
+		"full_text": "A busy but rewarding few days! \n\n▪️Particular highlights were @DavidBehan15 vision 4 the NHS people plan &amp;the discussion around the future of healthcare. I absolutely share that vision!\n\n▪️Catching up with @tolanAHP and reminding me to “be human”\n\n▪️Experiencing some “politics” https://t.co/LZXHl4m3wq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DavidBehan15",
+					"name": "David Behan",
+					"id": 1059511559670714400,
+					"id_str": "1059511559670714368",
+					"indices": [
+						62,
+						75
+					]
+				},
+				{
+					"screen_name": "tolanAHP",
+					"name": "Steve Tolan",
+					"id": 1550254940,
+					"id_str": "1550254940",
+					"indices": [
+						210,
+						219
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1198192204621201400,
+					"id_str": "1198192204621201408",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/EKDVdjkWwAA4kOp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKDVdjkWwAA4kOp.jpg",
+					"url": "https://t.co/LZXHl4m3wq",
+					"display_url": "pic.twitter.com/LZXHl4m3wq",
+					"expanded_url": "https://twitter.com/beardedPT/status/1198192213584490496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1198192204621201400,
+					"id_str": "1198192204621201408",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/EKDVdjkWwAA4kOp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKDVdjkWwAA4kOp.jpg",
+					"url": "https://t.co/LZXHl4m3wq",
+					"display_url": "pic.twitter.com/LZXHl4m3wq",
+					"expanded_url": "https://twitter.com/beardedPT/status/1198192213584490496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1198192205502066700,
+					"id_str": "1198192205502066688",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/EKDVdm2XsAAu6lL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKDVdm2XsAAu6lL.jpg",
+					"url": "https://t.co/LZXHl4m3wq",
+					"display_url": "pic.twitter.com/LZXHl4m3wq",
+					"expanded_url": "https://twitter.com/beardedPT/status/1198192213584490496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 11,
+									"y": 670,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 85,
+									"y": 689,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 20,
+									"y": 1144,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 146,
+									"y": 1176,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 20,
+									"y": 1144,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 146,
+									"y": 1176,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 6,
+									"y": 379,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 48,
+									"y": 390,
+									"h": 23,
+									"w": 23
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1198192206168891400,
+					"id_str": "1198192206168891392",
+					"indices": [
+						283,
+						306
+					],
+					"media_url": "http://pbs.twimg.com/media/EKDVdpVWoAAvQkK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKDVdpVWoAAvQkK.jpg",
+					"url": "https://t.co/LZXHl4m3wq",
+					"display_url": "pic.twitter.com/LZXHl4m3wq",
+					"expanded_url": "https://twitter.com/beardedPT/status/1198192213584490496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 977,
+							"h": 1023,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 649,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 977,
+							"h": 1023,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 119,
+									"y": 195,
+									"h": 314,
+									"w": 314
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 119,
+									"y": 195,
+									"h": 314,
+									"w": 314
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 79,
+									"y": 129,
+									"h": 208,
+									"w": 208
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 119,
+									"y": 195,
+									"h": 314,
+									"w": 314
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1734,
+			"friends_count": 2763,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "457b4814b4240d87",
+			"url": "https://api.twitter.com/1.1/geo/id/457b4814b4240d87.json",
+			"place_type": "city",
+			"name": "London",
+			"full_name": "London, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.187894,
+							51.483718
+						],
+						[
+							-0.109978,
+							51.483718
+						],
+						[
+							-0.109978,
+							51.5164655
+						],
+						[
+							-0.187894,
+							51.5164655
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A busy but rewarding few days! \n\n▪️Particular highlights were @DavidBehan15 vision 4 the NHS people plan &amp;the discussion around the future of healthcare. I absolutely share that vision!\n\n▪️Catching up with @tolanAHP and reminding me to “be human”\n\n▪️Experiencing some “politics” https://t.co/LZXHl4m3wq"
+	},
+	{
+		"created_at": "Sat Nov 23 10:38:49 +0000 2019",
+		"id": 1198189151784513500,
+		"id_str": "1198189151784513536",
+		"full_text": "@amybabs87 @officestudents @150Leaders @katerinakolyva @JessicaCorner @Prof_IeuanEllis @Clionaoneill1 @BetsiCadwaladr @WalesHSF @SHSBangor @RCNWales Absolutely great meeting you @amybabs87 ! You made some really brilliant points yesterday. \n\nKeep being you! 😊👍 #150Leaders",
+		"truncated": false,
+		"display_text_range": [
+			149,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "150Leaders",
+					"indices": [
+						261,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amybabs87",
+					"name": "Amy Hughes",
+					"id": 537101645,
+					"id_str": "537101645",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "officestudents",
+					"name": "The Office for Students (OfS)",
+					"id": 801389270485307400,
+					"id_str": "801389270485307392",
+					"indices": [
+						11,
+						26
+					]
+				},
+				{
+					"screen_name": "150Leaders",
+					"name": "#150Leaders",
+					"id": 1139187039151280100,
+					"id_str": "1139187039151280128",
+					"indices": [
+						27,
+						38
+					]
+				},
+				{
+					"screen_name": "katerinakolyva",
+					"name": "Dr Katerina Kolyva",
+					"id": 2156890678,
+					"id_str": "2156890678",
+					"indices": [
+						39,
+						54
+					]
+				},
+				{
+					"screen_name": "JessicaCorner",
+					"name": "Dame Jessica Corner",
+					"id": 231203203,
+					"id_str": "231203203",
+					"indices": [
+						55,
+						69
+					]
+				},
+				{
+					"screen_name": "Prof_IeuanEllis",
+					"name": "Ieuan Ellis 🎓🏃🌍",
+					"id": 1315334306,
+					"id_str": "1315334306",
+					"indices": [
+						70,
+						86
+					]
+				},
+				{
+					"screen_name": "Clionaoneill1",
+					"name": "Cliona O'neill",
+					"id": 618101033,
+					"id_str": "618101033",
+					"indices": [
+						87,
+						101
+					]
+				},
+				{
+					"screen_name": "BetsiCadwaladr",
+					"name": "Betsi Cadwaladr",
+					"id": 309128487,
+					"id_str": "309128487",
+					"indices": [
+						102,
+						117
+					]
+				},
+				{
+					"screen_name": "WalesHSF",
+					"name": "WHSF",
+					"id": 1580323140,
+					"id_str": "1580323140",
+					"indices": [
+						118,
+						127
+					]
+				},
+				{
+					"screen_name": "SHSBangor",
+					"name": "Health Sciences Bangor",
+					"id": 2383562504,
+					"id_str": "2383562504",
+					"indices": [
+						128,
+						138
+					]
+				},
+				{
+					"screen_name": "RCNWales",
+					"name": "RCN Wales",
+					"id": 2313746102,
+					"id_str": "2313746102",
+					"indices": [
+						139,
+						148
+					]
+				},
+				{
+					"screen_name": "amybabs87",
+					"name": "Amy Hughes",
+					"id": 537101645,
+					"id_str": "537101645",
+					"indices": [
+						178,
+						188
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1197979318376382500,
+		"in_reply_to_status_id_str": "1197979318376382465",
+		"in_reply_to_user_id": 537101645,
+		"in_reply_to_user_id_str": "537101645",
+		"in_reply_to_screen_name": "amybabs87",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1734,
+			"friends_count": 2763,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@amybabs87 @officestudents @150Leaders @katerinakolyva @JessicaCorner @Prof_IeuanEllis @Clionaoneill1 @BetsiCadwaladr @WalesHSF @SHSBangor @RCNWales Absolutely great meeting you @amybabs87 ! You made some really brilliant points yesterday. \n\nKeep being you! 😊👍 #150Leaders"
+	},
+	{
+		"created_at": "Sat Nov 23 10:34:01 +0000 2019",
+		"id": 1198187942491119600,
+		"id_str": "1198187942491119616",
+		"full_text": "Great to see you again @Prof_IeuanEllis especially to see #AHPs / #physio in Leadership’s positions in HE. Positive discussions yesterday! \n\n&amp; the discussion continued as we got some #PhysicalActivity in on the walk to the station..! https://t.co/m6HbIh3wdH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AHPs",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"text": "physio",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"text": "PhysicalActivity",
+					"indices": [
+						187,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Prof_IeuanEllis",
+					"name": "Ieuan Ellis 🎓🏃🌍",
+					"id": 1315334306,
+					"id_str": "1315334306",
+					"indices": [
+						23,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/m6HbIh3wdH",
+					"expanded_url": "https://twitter.com/prof_ieuanellis/status/1197940685351067648",
+					"display_url": "twitter.com/prof_ieuanelli…",
+					"indices": [
+						238,
+						261
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1734,
+			"friends_count": 2763,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14844,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52041af7b8001313",
+			"url": "https://api.twitter.com/1.1/geo/id/52041af7b8001313.json",
+			"place_type": "city",
+			"name": "Rugeley",
+			"full_name": "Rugeley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.971255,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.773708
+						],
+						[
+							-1.971255,
+							52.773708
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1197940685351067600,
+		"quoted_status_id_str": "1197940685351067648",
+		"quoted_status_permalink": {
+			"url": "https://t.co/m6HbIh3wdH",
+			"expanded": "https://twitter.com/prof_ieuanellis/status/1197940685351067648",
+			"display": "twitter.com/prof_ieuanelli…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 22 18:11:30 +0000 2019",
+			"id": 1197940685351067600,
+			"id_str": "1197940685351067648",
+			"full_text": "Interesting discussions today at the UK Healthcare Education Advisory Committee (HEAC) covering recruitment, retention, 'long-term' health workforce people plan, REF and building clinical-academic capacity. Valued contributions from student reps including outgoing @beardedPT https://t.co/FgaO3D2wTf",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "beardedPT",
+						"name": "David Williams",
+						"id": 3377750235,
+						"id_str": "3377750235",
+						"indices": [
+							265,
+							275
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1197940682998112300,
+						"id_str": "1197940682998112257",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/EJ_wtEgXYAEYjDy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJ_wtEgXYAEYjDy.jpg",
+						"url": "https://t.co/FgaO3D2wTf",
+						"display_url": "pic.twitter.com/FgaO3D2wTf",
+						"expanded_url": "https://twitter.com/Prof_IeuanEllis/status/1197940685351067648/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 620,
+								"h": 387,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 620,
+								"h": 387,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 620,
+								"h": 387,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1197940682998112300,
+						"id_str": "1197940682998112257",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/EJ_wtEgXYAEYjDy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EJ_wtEgXYAEYjDy.jpg",
+						"url": "https://t.co/FgaO3D2wTf",
+						"display_url": "pic.twitter.com/FgaO3D2wTf",
+						"expanded_url": "https://twitter.com/Prof_IeuanEllis/status/1197940685351067648/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 620,
+								"h": 387,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 620,
+								"h": 387,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 620,
+								"h": 387,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1315334306,
+				"id_str": "1315334306",
+				"name": "Ieuan Ellis 🎓🏃🌍",
+				"screen_name": "Prof_IeuanEllis",
+				"location": "Ponteland & Staffordshire, UK",
+				"description": "Global citizen. Professor. Pro Vice Chancellor @StaffsUni. Physiotherapist. Former 2:13 international marathon runner. Tweeting personal reflections on life ...",
+				"url": "https://t.co/Y3Yigh2Ft9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Y3Yigh2Ft9",
+								"expanded_url": "http://www.staffs.ac.uk/staff/profiles/professor-ieuan-ellis.jsp",
+								"display_url": "staffs.ac.uk/staff/profiles…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4661,
+				"friends_count": 250,
+				"listed_count": 259,
+				"created_at": "Fri Mar 29 22:17:45 +0000 2013",
+				"favourites_count": 9667,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23069,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/867084102406688768/u1gxZZmc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/867084102406688768/u1gxZZmc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1315334306/1436113522",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "4f854c83732cf4f5",
+				"url": "https://api.twitter.com/1.1/geo/id/4f854c83732cf4f5.json",
+				"place_type": "city",
+				"name": "Watford",
+				"full_name": "Watford, East",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.4444586,
+								51.6322356
+							],
+							[
+								-0.340092,
+								51.6322356
+							],
+							[
+								-0.340092,
+								51.703921
+							],
+							[
+								-0.4444586,
+								51.703921
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great to see you again @Prof_IeuanEllis especially to see #AHPs / #physio in Leadership’s positions in HE. Positive discussions yesterday! \n\n&amp; the discussion continued as we got some #PhysicalActivity in on the walk to the station..! https://t.co/m6HbIh3wdH"
+	},
+	{
 		"created_at": "Fri Nov 22 20:21:36 +0000 2019",
 		"id": 1197973427212161000,
 		"id_str": "1197973427212161024",
