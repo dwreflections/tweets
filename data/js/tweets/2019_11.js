@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 29 18:42:56 +0000 2019",
+		"id": 1200485309080854500,
+		"id_str": "1200485309080854528",
+		"full_text": "@rehabrich CX is the best sport!!! Many fond memories of muddy fields as a youngster. Chapeu!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rehabrich",
+					"name": "Rich Barnes",
+					"id": 821941266,
+					"id_str": "821941266",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1200150709209043000,
+		"in_reply_to_status_id_str": "1200150709209042944",
+		"in_reply_to_user_id": 821941266,
+		"in_reply_to_user_id_str": "821941266",
+		"in_reply_to_screen_name": "rehabrich",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1741,
+			"friends_count": 2767,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5516,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@rehabrich CX is the best sport!!! Many fond memories of muddy fields as a youngster. Chapeu!"
+	},
+	{
+		"created_at": "Fri Nov 29 18:41:38 +0000 2019",
+		"id": 1200119978583842800,
+		"id_str": "1200484982814318598",
+		"full_text": "I am supporting the call for equal access to high quality community rehabilitation services. Read the Manifesto for Community Rehabilitation.  https://t.co/F3zVy47wWD #RightToRehab via @theCSP @Sue_Ryder @theRCOT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RightToRehab",
+					"indices": [
+						167,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						185,
+						192
+					]
+				},
+				{
+					"screen_name": "Sue_Ryder",
+					"name": "Sue Ryder",
+					"id": 21771439,
+					"id_str": "21771439",
+					"indices": [
+						193,
+						203
+					]
+				},
+				{
+					"screen_name": "theRCOT",
+					"name": "Royal College of Occupational Therapists",
+					"id": 48659527,
+					"id_str": "48659527",
+					"indices": [
+						204,
+						212
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/F3zVy47wWD",
+					"expanded_url": "https://www.csp.org.uk/publications/manifesto-community-rehabilitation",
+					"display_url": "csp.org.uk/publications/m…",
+					"indices": [
+						143,
+						166
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1168646567714263000,
+			"id_str": "1168646567714263040",
+			"name": "Georgie Tonks",
+			"screen_name": "TonksGeorgie",
+			"location": "Stanwick, England",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5,
+			"friends_count": 21,
+			"listed_count": 0,
+			"created_at": "Mon Sep 02 22:07:30 +0000 2019",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1168649254207983616/OJdEF-QN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168649254207983616/OJdEF-QN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1168646567714263040/1567462694",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I am supporting the call for equal access to high quality community rehabilitation services. Read the Manifesto for Community Rehabilitation.  https://t.co/F3zVy47wWD #RightToRehab via @theCSP @Sue_Ryder @theRCOT"
+	},
+	{
 		"created_at": "Thu Nov 28 20:17:45 +0000 2019",
 		"id": 1200146784376541200,
 		"id_str": "1200146784376541189",
