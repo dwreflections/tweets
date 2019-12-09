@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 08 14:13:50 +0000 2019",
+		"id": 1203679077640687600,
+		"id_str": "1203679077640687617",
+		"full_text": "@CalvinMoorley @xabicathala @WeStudentNurse @WeNurses @We__NAs https://t.co/3WWGkUiGAW",
+		"truncated": false,
+		"display_text_range": [
+			62,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CalvinMoorley",
+					"name": "Calvin Moorley PhD",
+					"id": 23117879,
+					"id_str": "23117879",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "xabicathala",
+					"name": "Xabi Cathala",
+					"id": 390366559,
+					"id_str": "390366559",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"screen_name": "WeStudentNurse",
+					"name": "WeStudentNurses",
+					"id": 939235274554560500,
+					"id_str": "939235274554560512",
+					"indices": [
+						28,
+						43
+					]
+				},
+				{
+					"screen_name": "WeNurses",
+					"name": "WeNurses 🌍",
+					"id": 599536551,
+					"id_str": "599536551",
+					"indices": [
+						44,
+						53
+					]
+				},
+				{
+					"screen_name": "We__NAs",
+					"name": "WeNursingAssociates",
+					"id": 1108753129196187600,
+					"id_str": "1108753129196187648",
+					"indices": [
+						54,
+						62
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1203679070644527000,
+					"id_str": "1203679070644527105",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELRTvMVW4AEGnVM.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELRTvMVW4AEGnVM.jpg",
+					"url": "https://t.co/3WWGkUiGAW",
+					"display_url": "pic.twitter.com/3WWGkUiGAW",
+					"expanded_url": "https://twitter.com/beardedPT/status/1203679077640687617/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 328,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 328,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 328,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1203679070644527000,
+					"id_str": "1203679070644527105",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELRTvMVW4AEGnVM.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELRTvMVW4AEGnVM.jpg",
+					"url": "https://t.co/3WWGkUiGAW",
+					"display_url": "pic.twitter.com/3WWGkUiGAW",
+					"expanded_url": "https://twitter.com/beardedPT/status/1203679077640687617/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 498,
+							"h": 328,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 328,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 328,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							164
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ELRTvMVW4AEGnVM.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1203678669962711000,
+		"in_reply_to_status_id_str": "1203678669962711041",
+		"in_reply_to_user_id": 23117879,
+		"in_reply_to_user_id_str": "23117879",
+		"in_reply_to_screen_name": "CalvinMoorley",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1746,
+			"friends_count": 2771,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14944,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5527,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@CalvinMoorley @xabicathala @WeStudentNurse @WeNurses @We__NAs https://t.co/3WWGkUiGAW"
+	},
+	{
 		"created_at": "Thu Dec 05 22:10:15 +0000 2019",
 		"id": 1202711808160813000,
 		"id_str": "1202711808160813057",
