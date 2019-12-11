@@ -1,6 +1,1109 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 10 11:27:59 +0000 2019",
+		"id": 1204362119052963800,
+		"id_str": "1204362119052963840",
+		"full_text": "@JonRoom @nntaleb https://t.co/bWXFPVVJ2H",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JonRoom",
+					"name": "Jon Room",
+					"id": 20102845,
+					"id_str": "20102845",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "nntaleb",
+					"name": "Nassim Nicholas Taleb",
+					"id": 381289719,
+					"id_str": "381289719",
+					"indices": [
+						9,
+						17
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1204362112283402200,
+					"id_str": "1204362112283402240",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELbA9cuXYAACBxp.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELbA9cuXYAACBxp.jpg",
+					"url": "https://t.co/bWXFPVVJ2H",
+					"display_url": "pic.twitter.com/bWXFPVVJ2H",
+					"expanded_url": "https://twitter.com/beardedPT/status/1204362119052963840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1204362112283402200,
+					"id_str": "1204362112283402240",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELbA9cuXYAACBxp.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELbA9cuXYAACBxp.jpg",
+					"url": "https://t.co/bWXFPVVJ2H",
+					"display_url": "pic.twitter.com/bWXFPVVJ2H",
+					"expanded_url": "https://twitter.com/beardedPT/status/1204362119052963840/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ELbA9cuXYAACBxp.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1204361443757441000,
+		"in_reply_to_status_id_str": "1204361443757441024",
+		"in_reply_to_user_id": 20102845,
+		"in_reply_to_user_id_str": "20102845",
+		"in_reply_to_screen_name": "JonRoom",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1745,
+			"friends_count": 2773,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5536,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@JonRoom @nntaleb https://t.co/bWXFPVVJ2H"
+	},
+	{
+		"created_at": "Tue Dec 10 11:25:36 +0000 2019",
+		"id": 1204361517703090200,
+		"id_str": "1204361517703090176",
+		"full_text": "@Sproutlore99 @marcowenjones &amp; they’ll be on 15L 🤷‍♂️",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Sproutlore99",
+					"name": "Sean #VoteLabour",
+					"id": 3172419590,
+					"id_str": "3172419590",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "marcowenjones",
+					"name": "Marc Owen Jones",
+					"id": 21088417,
+					"id_str": "21088417",
+					"indices": [
+						14,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1204312735900733400,
+		"in_reply_to_status_id_str": "1204312735900733440",
+		"in_reply_to_user_id": 3172419590,
+		"in_reply_to_user_id_str": "3172419590",
+		"in_reply_to_screen_name": "Sproutlore99",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1745,
+			"friends_count": 2773,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5536,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52041af7b8001313",
+			"url": "https://api.twitter.com/1.1/geo/id/52041af7b8001313.json",
+			"place_type": "city",
+			"name": "Rugeley",
+			"full_name": "Rugeley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.971255,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.773708
+						],
+						[
+							-1.971255,
+							52.773708
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Sproutlore99 @marcowenjones &amp; they’ll be on 15L 🤷‍♂️"
+	},
+	{
+		"created_at": "Tue Dec 10 11:22:20 +0000 2019",
+		"id": 1204360697947263000,
+		"id_str": "1204360697947262977",
+		"full_text": "@JonRoom @nntaleb I have a commute! So I’ll take a proper look... \n\nBeen listening to politics, current affairs, history and philosophy podcasts recently... not so much physio - but this might be the thing 👍",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JonRoom",
+					"name": "Jon Room",
+					"id": 20102845,
+					"id_str": "20102845",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "nntaleb",
+					"name": "Nassim Nicholas Taleb",
+					"id": 381289719,
+					"id_str": "381289719",
+					"indices": [
+						9,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1204359557776117800,
+		"in_reply_to_status_id_str": "1204359557776117763",
+		"in_reply_to_user_id": 20102845,
+		"in_reply_to_user_id_str": "20102845",
+		"in_reply_to_screen_name": "JonRoom",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1745,
+			"friends_count": 2773,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5536,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JonRoom @nntaleb I have a commute! So I’ll take a proper look... \n\nBeen listening to politics, current affairs, history and philosophy podcasts recently... not so much physio - but this might be the thing 👍"
+	},
+	{
+		"created_at": "Tue Dec 10 11:16:21 +0000 2019",
+		"id": 1204359188488605700,
+		"id_str": "1204359188488605696",
+		"full_text": "@JonRoom @nntaleb 👍👍 ... more importantly is audible any good?",
+		"truncated": false,
+		"display_text_range": [
+			18,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JonRoom",
+					"name": "Jon Room",
+					"id": 20102845,
+					"id_str": "20102845",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "nntaleb",
+					"name": "Nassim Nicholas Taleb",
+					"id": 381289719,
+					"id_str": "381289719",
+					"indices": [
+						9,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1204358773919436800,
+		"in_reply_to_status_id_str": "1204358773919436801",
+		"in_reply_to_user_id": 20102845,
+		"in_reply_to_user_id_str": "20102845",
+		"in_reply_to_screen_name": "JonRoom",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1745,
+			"friends_count": 2773,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5536,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JonRoom @nntaleb 👍👍 ... more importantly is audible any good?"
+	},
+	{
+		"created_at": "Tue Dec 10 10:53:20 +0000 2019",
+		"id": 1204353398293831700,
+		"id_str": "1204353398293831681",
+		"full_text": "@marcowenjones @bbclaurak @Peston Very interesting! What tool are you using to analyse the tweets? - @marcowenjones",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marcowenjones",
+					"name": "Marc Owen Jones",
+					"id": 21088417,
+					"id_str": "21088417",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "bbclaurak",
+					"name": "Laura Kuenssberg",
+					"id": 61183568,
+					"id_str": "61183568",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "Peston",
+					"name": "Robert Peston",
+					"id": 14157134,
+					"id_str": "14157134",
+					"indices": [
+						26,
+						33
+					]
+				},
+				{
+					"screen_name": "marcowenjones",
+					"name": "Marc Owen Jones",
+					"id": 21088417,
+					"id_str": "21088417",
+					"indices": [
+						101,
+						115
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1204149569082331100,
+		"in_reply_to_status_id_str": "1204149569082331137",
+		"in_reply_to_user_id": 21088417,
+		"in_reply_to_user_id_str": "21088417",
+		"in_reply_to_screen_name": "marcowenjones",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1745,
+			"friends_count": 2773,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 14984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5536,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@marcowenjones @bbclaurak @Peston Very interesting! What tool are you using to analyse the tweets? - @marcowenjones"
+	},
+	{
+		"created_at": "Tue Dec 10 10:25:34 +0000 2019",
+		"id": 1202381523904798700,
+		"id_str": "1204346410071666688",
+		"full_text": "University?\nHow to access and use the #MovementForMovement undergraduate student health care professionals Resources for physical activity, exercise, health and making every patient contact count and every strategic nfluence matter: https://t.co/hQKZOqlFfS #NCDs #SDGs #MedEd https://t.co/33Yf8kkA54",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MovementForMovement",
+					"indices": [
+						38,
+						58
+					]
+				},
+				{
+					"text": "NCDs",
+					"indices": [
+						257,
+						262
+					]
+				},
+				{
+					"text": "SDGs",
+					"indices": [
+						263,
+						268
+					]
+				},
+				{
+					"text": "MedEd",
+					"indices": [
+						269,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hQKZOqlFfS",
+					"expanded_url": "https://councilofdeans.org.uk/wp-content/uploads/2019/12/2020-VERSION-HOW-TO-USE-THE-MOVEMENT-FOR-MOVEMENT-RESOURCES-GUIDE-and-terms-and-conditions.pdf",
+					"display_url": "councilofdeans.org.uk/wp-content/upl…",
+					"indices": [
+						233,
+						256
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1202381518733226000,
+					"id_str": "1202381518733225984",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EK-3nuyWsAAY6h0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK-3nuyWsAAY6h0.jpg",
+					"url": "https://t.co/33Yf8kkA54",
+					"display_url": "pic.twitter.com/33Yf8kkA54",
+					"expanded_url": "https://twitter.com/exerciseworks/status/1202381523904798720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 870,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 870,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "278442312",
+									"screen_name": "councilofdeans",
+									"name": "Council of Deans"
+								},
+								{
+									"type": "user",
+									"user_id": "1706064764",
+									"screen_name": "DJ_Lipman",
+									"name": "David Lipman"
+								},
+								{
+									"type": "user",
+									"user_id": "448280009",
+									"screen_name": "mgswainson",
+									"name": "Dr Michelle Swainson"
+								},
+								{
+									"type": "user",
+									"user_id": "354230305",
+									"screen_name": "jelliott1989",
+									"name": "Jonny Elliott"
+								},
+								{
+									"type": "user",
+									"user_id": "508806750",
+									"screen_name": "fimo18",
+									"name": "Dr Fiona Moffatt"
+								},
+								{
+									"type": "user",
+									"user_id": "2363146506",
+									"screen_name": "HealthPhysio",
+									"name": "Christopher Tuckett"
+								},
+								{
+									"type": "user",
+									"user_id": "981641767186567169",
+									"screen_name": "Strength4_Life",
+									"name": "Strength For Life"
+								},
+								{
+									"type": "user",
+									"user_id": "788820556795748352",
+									"screen_name": "betterageing",
+									"name": "Amit Arora"
+								},
+								{
+									"type": "user",
+									"user_id": "3030091713",
+									"screen_name": "marlizedv",
+									"name": "Dr Marlize de Vivo"
+								},
+								{
+									"type": "user",
+									"user_id": "173891406",
+									"screen_name": "tomwilks444",
+									"name": "Dr Tom Wilkinson"
+								}
+							]
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1202381518733226000,
+					"id_str": "1202381518733225984",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EK-3nuyWsAAY6h0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EK-3nuyWsAAY6h0.jpg",
+					"url": "https://t.co/33Yf8kkA54",
+					"display_url": "pic.twitter.com/33Yf8kkA54",
+					"expanded_url": "https://twitter.com/exerciseworks/status/1202381523904798720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 870,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 640,
+							"h": 870,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "278442312",
+									"screen_name": "councilofdeans",
+									"name": "Council of Deans"
+								},
+								{
+									"type": "user",
+									"user_id": "1706064764",
+									"screen_name": "DJ_Lipman",
+									"name": "David Lipman"
+								},
+								{
+									"type": "user",
+									"user_id": "448280009",
+									"screen_name": "mgswainson",
+									"name": "Dr Michelle Swainson"
+								},
+								{
+									"type": "user",
+									"user_id": "354230305",
+									"screen_name": "jelliott1989",
+									"name": "Jonny Elliott"
+								},
+								{
+									"type": "user",
+									"user_id": "508806750",
+									"screen_name": "fimo18",
+									"name": "Dr Fiona Moffatt"
+								},
+								{
+									"type": "user",
+									"user_id": "2363146506",
+									"screen_name": "HealthPhysio",
+									"name": "Christopher Tuckett"
+								},
+								{
+									"type": "user",
+									"user_id": "981641767186567169",
+									"screen_name": "Strength4_Life",
+									"name": "Strength For Life"
+								},
+								{
+									"type": "user",
+									"user_id": "788820556795748352",
+									"screen_name": "betterageing",
+									"name": "Amit Arora"
+								},
+								{
+									"type": "user",
+									"user_id": "3030091713",
+									"screen_name": "marlizedv",
+									"name": "Dr Marlize de Vivo"
+								},
+								{
+									"type": "user",
+									"user_id": "173891406",
+									"screen_name": "tomwilks444",
+									"name": "Dr Tom Wilkinson"
+								}
+							]
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 256921454,
+			"id_str": "256921454",
+			"name": "Exercise Works!",
+			"screen_name": "exerciseworks",
+			"location": "UK, World",
+			"description": "Exercise Works in the prevention & treatment of disease. One step for patients. One leap to health!\n \nhttps://t.co/Q4HTTTP8w6 \nby Ann Gates #MovementForMovement",
+			"url": "https://t.co/Q4HTTTP8w6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q4HTTTP8w6",
+							"expanded_url": "http://www.exercise-works.org",
+							"display_url": "exercise-works.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Q4HTTTP8w6",
+							"expanded_url": "http://www.exercise-works.org",
+							"display_url": "exercise-works.org",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 61781,
+			"friends_count": 51529,
+			"listed_count": 1213,
+			"created_at": "Thu Feb 24 10:22:04 +0000 2011",
+			"favourites_count": 138757,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 170464,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253185990/Exercise_Works_avatar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253185990/Exercise_Works_avatar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/256921454/1399040184",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 50,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "University?\nHow to access and use the #MovementForMovement undergraduate student health care professionals Resources for physical activity, exercise, health and making every patient contact count and every strategic nfluence matter: https://t.co/hQKZOqlFfS #NCDs #SDGs #MedEd https://t.co/33Yf8kkA54"
+	},
+	{
 		"created_at": "Mon Dec 09 22:32:20 +0000 2019",
 		"id": 1204166920599199700,
 		"id_str": "1204166920599199744",
