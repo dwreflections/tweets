@@ -1,6 +1,211 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 21 21:35:40 +0000 2019",
+		"id": 1208501312020721700,
+		"id_str": "1208501312020721669",
+		"full_text": "@exerciseworks @GeorgeMetsios @fimo18 @RogerKerry1 @JoaoBreda2 @AnnMarieRiley10 @EuSport @WHO_Europe @mgswainson @DJ_Lipman @swimmers_health Have a good one Ann!",
+		"truncated": false,
+		"display_text_range": [
+			141,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "exerciseworks",
+					"name": "Exercise Works!",
+					"id": 256921454,
+					"id_str": "256921454",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "GeorgeMetsios",
+					"name": "George Metsios, PhD",
+					"id": 319693256,
+					"id_str": "319693256",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "fimo18",
+					"name": "Dr Fiona Moffatt",
+					"id": 508806750,
+					"id_str": "508806750",
+					"indices": [
+						30,
+						37
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"screen_name": "JoaoBreda2",
+					"name": "João Breda",
+					"id": 854505078,
+					"id_str": "854505078",
+					"indices": [
+						51,
+						62
+					]
+				},
+				{
+					"screen_name": "AnnMarieRiley10",
+					"name": "Ann-Marie Riley RN",
+					"id": 994654592,
+					"id_str": "994654592",
+					"indices": [
+						63,
+						79
+					]
+				},
+				{
+					"screen_name": "EuSport",
+					"name": "EUSport",
+					"id": 703206854495756300,
+					"id_str": "703206854495756288",
+					"indices": [
+						80,
+						88
+					]
+				},
+				{
+					"screen_name": "WHO_Europe",
+					"name": "WHO/Europe",
+					"id": 125403342,
+					"id_str": "125403342",
+					"indices": [
+						89,
+						100
+					]
+				},
+				{
+					"screen_name": "mgswainson",
+					"name": "Dr Michelle Swainson",
+					"id": 448280009,
+					"id_str": "448280009",
+					"indices": [
+						101,
+						112
+					]
+				},
+				{
+					"screen_name": "DJ_Lipman",
+					"name": "David Lipman",
+					"id": 1706064764,
+					"id_str": "1706064764",
+					"indices": [
+						113,
+						123
+					]
+				},
+				{
+					"screen_name": "swimmers_health",
+					"name": "Swimmer's Health",
+					"id": 746684282454827000,
+					"id_str": "746684282454827009",
+					"indices": [
+						124,
+						140
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1208294740506099700,
+		"in_reply_to_status_id_str": "1208294740506099712",
+		"in_reply_to_user_id": 256921454,
+		"in_reply_to_user_id_str": "256921454",
+		"in_reply_to_screen_name": "exerciseworks",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1751,
+			"friends_count": 2775,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15076,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@exerciseworks @GeorgeMetsios @fimo18 @RogerKerry1 @JoaoBreda2 @AnnMarieRiley10 @EuSport @WHO_Europe @mgswainson @DJ_Lipman @swimmers_health Have a good one Ann!"
+	},
+	{
 		"created_at": "Fri Dec 20 21:47:17 +0000 2019",
 		"id": 1208072117239140400,
 		"id_str": "1208141847639601152",
