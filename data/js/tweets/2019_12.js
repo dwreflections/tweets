@@ -1,6 +1,743 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sun Dec 22 18:44:37 +0000 2019",
+		"id": 1208820653853425700,
+		"id_str": "1208820653853425664",
+		"full_text": "@consultantPT Thanks again ... I will keep chipping away 🔨 👍",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "consultantPT",
+					"name": "Uzo Ehiogu",
+					"id": 1039521456,
+					"id_str": "1039521456",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1208800338867900400,
+		"in_reply_to_status_id_str": "1208800338867900417",
+		"in_reply_to_user_id": 1039521456,
+		"in_reply_to_user_id_str": "1039521456",
+		"in_reply_to_screen_name": "consultantPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1754,
+			"friends_count": 2778,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15085,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@consultantPT Thanks again ... I will keep chipping away 🔨 👍"
+	},
+	{
+		"created_at": "Sun Dec 22 17:14:51 +0000 2019",
+		"id": 1208798063130796000,
+		"id_str": "1208798063130796032",
+		"full_text": "@Shaun_LDNurse It’s been taken down now ...",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Shaun_LDNurse",
+					"name": "Shaun Williams",
+					"id": 901055791515435000,
+					"id_str": "901055791515435008",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1208781853186019300,
+		"in_reply_to_status_id_str": "1208781853186019330",
+		"in_reply_to_user_id": 901055791515435000,
+		"in_reply_to_user_id_str": "901055791515435008",
+		"in_reply_to_screen_name": "Shaun_LDNurse",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1754,
+			"friends_count": 2778,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15085,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Shaun_LDNurse It’s been taken down now ..."
+	},
+	{
+		"created_at": "Sun Dec 22 16:58:04 +0000 2019",
+		"id": 1208793838334161000,
+		"id_str": "1208793838334160896",
+		"full_text": "&amp; Merry Christmas to you and the family 😊🎄",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1208793836534849500,
+		"in_reply_to_status_id_str": "1208793836534849536",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1754,
+			"friends_count": 2778,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15085,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52041af7b8001313",
+			"url": "https://api.twitter.com/1.1/geo/id/52041af7b8001313.json",
+			"place_type": "city",
+			"name": "Rugeley",
+			"full_name": "Rugeley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.971255,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.773708
+						],
+						[
+							-1.971255,
+							52.773708
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "&amp; Merry Christmas to you and the family 😊🎄"
+	},
+	{
+		"created_at": "Sun Dec 22 16:58:03 +0000 2019",
+		"id": 1208793836534849500,
+		"id_str": "1208793836534849536",
+		"full_text": "Brilliant reflection, Uzo! I needed this today 👍👍 https://t.co/v9yho8PApn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v9yho8PApn",
+					"expanded_url": "https://twitter.com/consultantpt/status/1182598470869377025",
+					"display_url": "twitter.com/consultantpt/s…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1754,
+			"friends_count": 2778,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15085,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5553,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52041af7b8001313",
+			"url": "https://api.twitter.com/1.1/geo/id/52041af7b8001313.json",
+			"place_type": "city",
+			"name": "Rugeley",
+			"full_name": "Rugeley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.971255,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.773708
+						],
+						[
+							-1.971255,
+							52.773708
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1182598470869377000,
+		"quoted_status_id_str": "1182598470869377025",
+		"quoted_status_permalink": {
+			"url": "https://t.co/v9yho8PApn",
+			"expanded": "https://twitter.com/consultantpt/status/1182598470869377025",
+			"display": "twitter.com/consultantpt/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 11 10:07:01 +0000 2019",
+			"id": 1182598470869377000,
+			"id_str": "1182598470869377025",
+			"full_text": "Not taking no for an answer ! ... My reflections as physiotherapist during #BlackHistoryMonth @ROHNHSFT https://t.co/Xi2il3HeRK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				103
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BlackHistoryMonth",
+						"indices": [
+							75,
+							93
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "ROHNHSFT",
+						"name": "The Royal Orthopaedic Hospital, Birmingham",
+						"id": 334015462,
+						"id_str": "334015462",
+						"indices": [
+							94,
+							103
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1182598464183722000,
+						"id_str": "1182598464183721984",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/EGlvCZmX4AAAtVp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGlvCZmX4AAAtVp.jpg",
+						"url": "https://t.co/Xi2il3HeRK",
+						"display_url": "pic.twitter.com/Xi2il3HeRK",
+						"expanded_url": "https://twitter.com/consultantPT/status/1182598470869377025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 331,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 498,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 498,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1182598464183722000,
+						"id_str": "1182598464183721984",
+						"indices": [
+							104,
+							127
+						],
+						"media_url": "http://pbs.twimg.com/media/EGlvCZmX4AAAtVp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EGlvCZmX4AAAtVp.jpg",
+						"url": "https://t.co/Xi2il3HeRK",
+						"display_url": "pic.twitter.com/Xi2il3HeRK",
+						"expanded_url": "https://twitter.com/consultantPT/status/1182598470869377025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 331,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 498,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 498,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1039521456,
+				"id_str": "1039521456",
+				"name": "Uzo Ehiogu",
+				"screen_name": "consultantPT",
+				"location": "Birmingham, England",
+				"description": "Climbing & Sports Rehab Physio|NHS Clinical Teaching Fellow ROH| Visiting Fellow@ClinAppSciLBU|MMACP|S&C MSc Student|Former Commando|❤️Family|Discipline=Freedom",
+				"url": "https://t.co/I9OA9EztIZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/I9OA9EztIZ",
+								"expanded_url": "https://www.insideedgephysio.com",
+								"display_url": "insideedgephysio.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2155,
+				"friends_count": 811,
+				"listed_count": 23,
+				"created_at": "Thu Dec 27 12:34:40 +0000 2012",
+				"favourites_count": 2128,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3912,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1144902328715272192/igqV9U0Z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1144902328715272192/igqV9U0Z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1039521456/1552320542",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "53b67b1d1cc81a51",
+				"url": "https://api.twitter.com/1.1/geo/id/53b67b1d1cc81a51.json",
+				"place_type": "city",
+				"name": "Birmingham",
+				"full_name": "Birmingham, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-2.033651,
+								52.381063
+							],
+							[
+								-1.74763,
+								52.381063
+							],
+							[
+								-1.74763,
+								52.60687
+							],
+							[
+								-2.033651,
+								52.60687
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 29,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Brilliant reflection, Uzo! I needed this today 👍👍 https://t.co/v9yho8PApn"
+	},
+	{
 		"created_at": "Sat Dec 21 21:35:40 +0000 2019",
 		"id": 1208501312020721700,
 		"id_str": "1208501312020721669",
