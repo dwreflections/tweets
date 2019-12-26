@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 25 11:46:05 +0000 2019",
+		"id": 1209802489576509400,
+		"id_str": "1209802489576509441",
+		"full_text": "@ffolliet @SheffChildrens https://t.co/XWP1R0ruge",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ffolliet",
+					"name": "#hellomynameisRoss",
+					"id": 18506826,
+					"id_str": "18506826",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "SheffChildrens",
+					"name": "Sheffield Children's",
+					"id": 370728345,
+					"id_str": "370728345",
+					"indices": [
+						10,
+						25
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1209802476809011200,
+					"id_str": "1209802476809011202",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EMoU8V6WwAI5ORn.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EMoU8V6WwAI5ORn.jpg",
+					"url": "https://t.co/XWP1R0ruge",
+					"display_url": "pic.twitter.com/XWP1R0ruge",
+					"expanded_url": "https://twitter.com/beardedPT/status/1209802489576509441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 454,
+							"h": 256,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 256,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 454,
+							"h": 256,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1209802476809011200,
+					"id_str": "1209802476809011202",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EMoU8V6WwAI5ORn.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EMoU8V6WwAI5ORn.jpg",
+					"url": "https://t.co/XWP1R0ruge",
+					"display_url": "pic.twitter.com/XWP1R0ruge",
+					"expanded_url": "https://twitter.com/beardedPT/status/1209802489576509441/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 454,
+							"h": 256,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 256,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 454,
+							"h": 256,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							227,
+							128
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EMoU8V6WwAI5ORn.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1209427782536761300,
+		"in_reply_to_status_id_str": "1209427782536761344",
+		"in_reply_to_user_id": 18506826,
+		"in_reply_to_user_id_str": "18506826",
+		"in_reply_to_screen_name": "ffolliet",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist - Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) - Social Media - #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1756,
+			"friends_count": 2778,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5555,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@ffolliet @SheffChildrens https://t.co/XWP1R0ruge"
+	},
+	{
 		"created_at": "Tue Dec 24 20:27:56 +0000 2019",
 		"id": 1209571428829409300,
 		"id_str": "1209571428829409280",
