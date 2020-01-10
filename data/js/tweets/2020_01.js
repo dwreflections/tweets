@@ -1,6 +1,619 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 09 21:07:39 +0000 2020",
+		"id": 1215177309537345500,
+		"id_str": "1215379630129123330",
+		"full_text": "Recommended clinical practices to foster connection with patients https://t.co/FbBTV98cGB via @JAMA_current \nGreat article to foster physical activity brief interventions and connect! @UoNPhysio @fimo18 @RogerKerry1 https://t.co/lCnSo5vkFM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JAMA_current",
+					"name": "JAMA",
+					"id": 38489678,
+					"id_str": "38489678",
+					"indices": [
+						94,
+						107
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						184,
+						194
+					]
+				},
+				{
+					"screen_name": "fimo18",
+					"name": "Dr Fiona Moffatt",
+					"id": 508806750,
+					"id_str": "508806750",
+					"indices": [
+						195,
+						202
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						203,
+						215
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FbBTV98cGB",
+					"expanded_url": "https://jamanetwork.com/journals/jama/fullarticle/2758456",
+					"display_url": "jamanetwork.com/journals/jama/…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1215177303451410400,
+					"id_str": "1215177303451410432",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0tUbdWoAADM8j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0tUbdWoAADM8j.jpg",
+					"url": "https://t.co/lCnSo5vkFM",
+					"display_url": "pic.twitter.com/lCnSo5vkFM",
+					"expanded_url": "https://twitter.com/exerciseworks/status/1215177309537345536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 988,
+							"h": 1532,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "38489678",
+									"screen_name": "JAMA_current",
+									"name": "JAMA"
+								},
+								{
+									"type": "user",
+									"user_id": "138753057",
+									"screen_name": "BJSM_BMJ",
+									"name": "BJSM"
+								},
+								{
+									"type": "user",
+									"user_id": "994654592",
+									"screen_name": "AnnMarieRiley10",
+									"name": "Ann-Marie Riley RN"
+								},
+								{
+									"type": "user",
+									"user_id": "788820556795748352",
+									"screen_name": "betterageing",
+									"name": "Amit Arora"
+								},
+								{
+									"type": "user",
+									"user_id": "570930215",
+									"screen_name": "GeriSoc",
+									"name": "BritishGeriatricsSoc"
+								},
+								{
+									"type": "user",
+									"user_id": "278442312",
+									"screen_name": "councilofdeans",
+									"name": "Council of Deans"
+								},
+								{
+									"type": "user",
+									"user_id": "195146976",
+									"screen_name": "JaneSThornton",
+									"name": "Dr. Jane Thornton"
+								},
+								{
+									"type": "user",
+									"user_id": "1173641102701793280",
+									"screen_name": "MSKReform",
+									"name": "MSKReform"
+								},
+								{
+									"type": "user",
+									"user_id": "20363222",
+									"screen_name": "AdamMeakins",
+									"name": "The Sp⚽️rts Physio"
+								},
+								{
+									"type": "user",
+									"user_id": "2364573882",
+									"screen_name": "WeAHPs",
+									"name": "WeAHPs"
+								}
+							]
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215177303451410400,
+					"id_str": "1215177303451410432",
+					"indices": [
+						216,
+						239
+					],
+					"media_url": "http://pbs.twimg.com/media/EN0tUbdWoAADM8j.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN0tUbdWoAADM8j.jpg",
+					"url": "https://t.co/lCnSo5vkFM",
+					"display_url": "pic.twitter.com/lCnSo5vkFM",
+					"expanded_url": "https://twitter.com/exerciseworks/status/1215177309537345536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 988,
+							"h": 1532,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 439,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 774,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "38489678",
+									"screen_name": "JAMA_current",
+									"name": "JAMA"
+								},
+								{
+									"type": "user",
+									"user_id": "138753057",
+									"screen_name": "BJSM_BMJ",
+									"name": "BJSM"
+								},
+								{
+									"type": "user",
+									"user_id": "994654592",
+									"screen_name": "AnnMarieRiley10",
+									"name": "Ann-Marie Riley RN"
+								},
+								{
+									"type": "user",
+									"user_id": "788820556795748352",
+									"screen_name": "betterageing",
+									"name": "Amit Arora"
+								},
+								{
+									"type": "user",
+									"user_id": "570930215",
+									"screen_name": "GeriSoc",
+									"name": "BritishGeriatricsSoc"
+								},
+								{
+									"type": "user",
+									"user_id": "278442312",
+									"screen_name": "councilofdeans",
+									"name": "Council of Deans"
+								},
+								{
+									"type": "user",
+									"user_id": "195146976",
+									"screen_name": "JaneSThornton",
+									"name": "Dr. Jane Thornton"
+								},
+								{
+									"type": "user",
+									"user_id": "1173641102701793280",
+									"screen_name": "MSKReform",
+									"name": "MSKReform"
+								},
+								{
+									"type": "user",
+									"user_id": "20363222",
+									"screen_name": "AdamMeakins",
+									"name": "The Sp⚽️rts Physio"
+								},
+								{
+									"type": "user",
+									"user_id": "2364573882",
+									"screen_name": "WeAHPs",
+									"name": "WeAHPs"
+								}
+							]
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 256921454,
+			"id_str": "256921454",
+			"name": "Exercise Works!",
+			"screen_name": "exerciseworks",
+			"location": "UK, World",
+			"description": "Exercise Works in the prevention & treatment of disease. One step for patients. One leap to health!\n \nhttps://t.co/Q4HTTTP8w6 \nby Ann Gates #MovementForMovement",
+			"url": "https://t.co/Q4HTTTP8w6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q4HTTTP8w6",
+							"expanded_url": "http://www.exercise-works.org",
+							"display_url": "exercise-works.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Q4HTTTP8w6",
+							"expanded_url": "http://www.exercise-works.org",
+							"display_url": "exercise-works.org",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 62042,
+			"friends_count": 51940,
+			"listed_count": 1216,
+			"created_at": "Thu Feb 24 10:22:04 +0000 2011",
+			"favourites_count": 139969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 170908,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253185990/Exercise_Works_avatar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253185990/Exercise_Works_avatar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/256921454/1399040184",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 27,
+		"favorite_count": 35,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Recommended clinical practices to foster connection with patients https://t.co/FbBTV98cGB via @JAMA_current \nGreat article to foster physical activity brief interventions and connect! @UoNPhysio @fimo18 @RogerKerry1 https://t.co/lCnSo5vkFM"
+	},
+	{
+		"created_at": "Thu Jan 09 21:06:01 +0000 2020",
+		"id": 1215379219582279700,
+		"id_str": "1215379219582279680",
+		"full_text": "@craiglees94 Amen 👏",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "craiglees94",
+					"name": "Craig Lees PUNC",
+					"id": 1051806547062460400,
+					"id_str": "1051806547062460421",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215203966331555800,
+		"in_reply_to_status_id_str": "1215203966331555841",
+		"in_reply_to_user_id": 1051806547062460400,
+		"in_reply_to_user_id_str": "1051806547062460421",
+		"in_reply_to_screen_name": "craiglees94",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1771,
+			"friends_count": 2810,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@craiglees94 Amen 👏"
+	},
+	{
+		"created_at": "Thu Jan 09 13:12:17 +0000 2020",
+		"id": 1215260000232321000,
+		"id_str": "1215260000232321024",
+		"full_text": "@KMiddletonCSP So, myopic! \nA friend was considering studying in Europe .. I will have have to convince him to come to @UoNPhysio instead 🤔",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KMiddletonCSP",
+					"name": "Karen Middleton",
+					"id": 791233063,
+					"id_str": "791233063",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						119,
+						129
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215223307588526000,
+		"in_reply_to_status_id_str": "1215223307588526080",
+		"in_reply_to_user_id": 791233063,
+		"in_reply_to_user_id_str": "791233063",
+		"in_reply_to_screen_name": "KMiddletonCSP",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1771,
+			"friends_count": 2810,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KMiddletonCSP So, myopic! \nA friend was considering studying in Europe .. I will have have to convince him to come to @UoNPhysio instead 🤔"
+	},
+	{
 		"created_at": "Wed Jan 08 22:14:18 +0000 2020",
 		"id": 1215034018598654000,
 		"id_str": "1215034018598653952",
