@@ -1,6 +1,275 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 10 21:34:47 +0000 2020",
+		"id": 1215748849735815200,
+		"id_str": "1215748849735815168",
+		"full_text": "@colmankanPT @rlsadler1 @JudePT @Alisonjelley1 @HayleyK_Physio @vicky_l_hood @UHDB_PLSU @UoNPhysio https://t.co/WZeurzkja5",
+		"truncated": false,
+		"display_text_range": [
+			98,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "colmankanPT",
+					"name": "Colman Kan",
+					"id": 1024844579370033200,
+					"id_str": "1024844579370033157",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "rlsadler1",
+					"name": "Rachel Sadler",
+					"id": 1191411404970037200,
+					"id_str": "1191411404970037248",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "JudePT",
+					"name": "Jude Navesey",
+					"id": 931158749829615600,
+					"id_str": "931158749829615616",
+					"indices": [
+						24,
+						31
+					]
+				},
+				{
+					"screen_name": "Alisonjelley1",
+					"name": "Alison jelley",
+					"id": 4727730273,
+					"id_str": "4727730273",
+					"indices": [
+						32,
+						46
+					]
+				},
+				{
+					"screen_name": "HayleyK_Physio",
+					"name": "Hayley Kidger",
+					"id": 1192132418381238300,
+					"id_str": "1192132418381238273",
+					"indices": [
+						47,
+						62
+					]
+				},
+				{
+					"screen_name": "vicky_l_hood",
+					"name": "Moore Associates Physiotherapy Nottingham",
+					"id": 2516581361,
+					"id_str": "2516581361",
+					"indices": [
+						63,
+						76
+					]
+				},
+				{
+					"screen_name": "UHDB_PLSU",
+					"name": "UHDB Practice Learning Support Unit",
+					"id": 3092710233,
+					"id_str": "3092710233",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						88,
+						98
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215748837261955000,
+					"id_str": "1215748837261955073",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EN81IE0X0AE0SQP.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EN81IE0X0AE0SQP.jpg",
+					"url": "https://t.co/WZeurzkja5",
+					"display_url": "pic.twitter.com/WZeurzkja5",
+					"expanded_url": "https://twitter.com/beardedPT/status/1215748849735815168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 454,
+							"h": 256,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 256,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 454,
+							"h": 256,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215748837261955000,
+					"id_str": "1215748837261955073",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EN81IE0X0AE0SQP.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EN81IE0X0AE0SQP.jpg",
+					"url": "https://t.co/WZeurzkja5",
+					"display_url": "pic.twitter.com/WZeurzkja5",
+					"expanded_url": "https://twitter.com/beardedPT/status/1215748849735815168/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 454,
+							"h": 256,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 454,
+							"h": 256,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 454,
+							"h": 256,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							227,
+							128
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EN81IE0X0AE0SQP.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1215687116774158300,
+		"in_reply_to_status_id_str": "1215687116774158336",
+		"in_reply_to_user_id": 1024844579370033200,
+		"in_reply_to_user_id_str": "1024844579370033157",
+		"in_reply_to_screen_name": "colmankanPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1776,
+			"friends_count": 2814,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@colmankanPT @rlsadler1 @JudePT @Alisonjelley1 @HayleyK_Physio @vicky_l_hood @UHDB_PLSU @UoNPhysio https://t.co/WZeurzkja5"
+	},
+	{
 		"created_at": "Thu Jan 09 21:07:39 +0000 2020",
 		"id": 1215177309537345500,
 		"id_str": "1215379630129123330",
