@@ -1,6 +1,295 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 13 21:38:03 +0000 2020",
+		"id": 1216836835151876000,
+		"id_str": "1216836835151876097",
+		"full_text": "Great to chat with you tonight! Apart from that lag... 📞 \n\nI hope I managed to answer your questions. You will be a fantastic asset on the #150Leaders programme &amp; I hope I have quelled some nerves.\n\nSee you in March 🙋🏻‍♂️ #leadership #AHPsintoAction #CSPLDP https://t.co/RJVuGzkAKg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "150Leaders",
+					"indices": [
+						139,
+						150
+					]
+				},
+				{
+					"text": "leadership",
+					"indices": [
+						226,
+						237
+					]
+				},
+				{
+					"text": "AHPsintoAction",
+					"indices": [
+						238,
+						253
+					]
+				},
+				{
+					"text": "CSPLDP",
+					"indices": [
+						254,
+						261
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RJVuGzkAKg",
+					"expanded_url": "https://twitter.com/physio_back/status/1216823844415197193",
+					"display_url": "twitter.com/physio_back/st…",
+					"indices": [
+						262,
+						285
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1786,
+			"friends_count": 2825,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5587,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52041af7b8001313",
+			"url": "https://api.twitter.com/1.1/geo/id/52041af7b8001313.json",
+			"place_type": "city",
+			"name": "Rugeley",
+			"full_name": "Rugeley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.971255,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.773708
+						],
+						[
+							-1.971255,
+							52.773708
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1216823844415197200,
+		"quoted_status_id_str": "1216823844415197193",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RJVuGzkAKg",
+			"expanded": "https://twitter.com/physio_back/status/1216823844415197193",
+			"display": "twitter.com/physio_back/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 13 20:46:26 +0000 2020",
+			"id": 1216823844415197200,
+			"id_str": "1216823844415197193",
+			"full_text": "Fantastic to chat to my #150Leaders buddy @beardedPT. Cheers for the insight and great to hear about your journey. Look forward to meeting you in March. #studentphysio #studentparent",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				182
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "150Leaders",
+						"indices": [
+							24,
+							35
+						]
+					},
+					{
+						"text": "studentphysio",
+						"indices": [
+							153,
+							167
+						]
+					},
+					{
+						"text": "studentparent",
+						"indices": [
+							168,
+							182
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "beardedPT",
+						"name": "David Williams",
+						"id": 3377750235,
+						"id_str": "3377750235",
+						"indices": [
+							42,
+							52
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1048100165582839800,
+				"id_str": "1048100165582839808",
+				"name": "ThePhysioBack",
+				"screen_name": "physio_back",
+				"location": "South West, England",
+				"description": "2nd year Physio student at BU. Was a Chiro for 10years, teacher for 1. Father of 2, enthusiastic cricketer. My views are my own. #150Leaders",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 84,
+				"friends_count": 187,
+				"listed_count": 0,
+				"created_at": "Fri Oct 05 06:38:47 +0000 2018",
+				"favourites_count": 364,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 265,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1048106705123508229/XCPMHixy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048106705123508229/XCPMHixy_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great to chat with you tonight! Apart from that lag... 📞 \n\nI hope I managed to answer your questions. You will be a fantastic asset on the #150Leaders programme &amp; I hope I have quelled some nerves.\n\nSee you in March 🙋🏻‍♂️ #leadership #AHPsintoAction #CSPLDP https://t.co/RJVuGzkAKg"
+	},
+	{
 		"created_at": "Fri Jan 10 21:34:47 +0000 2020",
 		"id": 1215748849735815200,
 		"id_str": "1215748849735815168",
