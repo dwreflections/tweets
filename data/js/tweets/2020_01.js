@@ -1,10 +1,126 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 14 12:47:52 +0000 2020",
+		"id": 1216823844415197200,
+		"id_str": "1217065796708503552",
+		"full_text": "Fantastic to chat to my #150Leaders buddy @beardedPT. Cheers for the insight and great to hear about your journey. Look forward to meeting you in March. #studentphysio #studentparent",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "150Leaders",
+					"indices": [
+						24,
+						35
+					]
+				},
+				{
+					"text": "studentphysio",
+					"indices": [
+						153,
+						167
+					]
+				},
+				{
+					"text": "studentparent",
+					"indices": [
+						168,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						42,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1048100165582839800,
+			"id_str": "1048100165582839808",
+			"name": "ThePhysioBack",
+			"screen_name": "physio_back",
+			"location": "South West, England",
+			"description": "2nd year Physio student at BU. Was a Chiro for 10years, teacher for 1. Father of 2, enthusiastic cricketer. My views are my own. #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 85,
+			"friends_count": 190,
+			"listed_count": 0,
+			"created_at": "Fri Oct 05 06:38:47 +0000 2018",
+			"favourites_count": 368,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 265,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1048106705123508229/XCPMHixy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1048106705123508229/XCPMHixy_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Fantastic to chat to my #150Leaders buddy @beardedPT. Cheers for the insight and great to hear about your journey. Look forward to meeting you in March. #studentphysio #studentparent"
+	},
+	{
 		"created_at": "Mon Jan 13 21:38:03 +0000 2020",
 		"id": 1216836835151876000,
 		"id_str": "1216836835151876097",
-		"full_text": "Great to chat with you tonight! Apart from that lag... 📞 \n\nI hope I managed to answer your questions. You will be a fantastic asset on the #150Leaders programme &amp; I hope I have quelled some nerves.\n\nSee you in March 🙋🏻‍♂️ #leadership #AHPsintoAction #CSPLDP https://t.co/RJVuGzkAKg",
+		"full_text": "Great to chat with you tonight! Apart from that lag... 📞 \n\nI hope I managed to answer your questions. You will be a fantastic asset on the #150Leaders programme &amp; I hope I have quelled some nerves.\n\nSee you in March 🙋🏻♂️ #leadership #AHPsintoAction #CSPLDP https://t.co/RJVuGzkAKg",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -287,7 +403,7 @@ Grailbird.data.tweets_2020_01 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Great to chat with you tonight! Apart from that lag... 📞 \n\nI hope I managed to answer your questions. You will be a fantastic asset on the #150Leaders programme &amp; I hope I have quelled some nerves.\n\nSee you in March 🙋🏻‍♂️ #leadership #AHPsintoAction #CSPLDP https://t.co/RJVuGzkAKg"
+		"text": "Great to chat with you tonight! Apart from that lag... 📞 \n\nI hope I managed to answer your questions. You will be a fantastic asset on the #150Leaders programme &amp; I hope I have quelled some nerves.\n\nSee you in March 🙋🏻♂️ #leadership #AHPsintoAction #CSPLDP https://t.co/RJVuGzkAKg"
 	},
 	{
 		"created_at": "Fri Jan 10 21:34:47 +0000 2020",
