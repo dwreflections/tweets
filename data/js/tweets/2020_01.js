@@ -1,6 +1,413 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Wed Jan 15 09:48:42 +0000 2020",
+		"id": 1217369779356479500,
+		"id_str": "1217383097450233857",
+		"full_text": "NEW @BJSM_BMJ Editorial\n\n“Undergraduate examination and assessment of knowledge and skills is crucial in capacity planning for the future healthcare workforce in physical activity interventions”\n\nhttps://t.co/XsVITkcYPz\nGates, Swainson et al. https://t.co/ade0bY8CSl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BJSM_BMJ",
+					"name": "BJSM",
+					"id": 138753057,
+					"id_str": "138753057",
+					"indices": [
+						4,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XsVITkcYPz",
+					"expanded_url": "https://bjsm.bmj.com/content/early/2020/01/13/bjsports-2019-101646",
+					"display_url": "bjsm.bmj.com/content/early/…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1217369775199879200,
+					"id_str": "1217369775199879168",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/EOT3XFMWAAAn57H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOT3XFMWAAAn57H.jpg",
+					"url": "https://t.co/ade0bY8CSl",
+					"display_url": "pic.twitter.com/ade0bY8CSl",
+					"expanded_url": "https://twitter.com/exerciseworks/status/1217369779356479488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 417,
+							"h": 773,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 417,
+							"h": 773,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 367,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "448280009",
+									"screen_name": "mgswainson",
+									"name": "Dr Michelle Swainson"
+								},
+								{
+									"type": "user",
+									"user_id": "508806750",
+									"screen_name": "fimo18",
+									"name": "Dr Fiona Moffatt"
+								},
+								{
+									"type": "user",
+									"user_id": "396832258",
+									"screen_name": "RogerKerry1",
+									"name": "Roger Kerry"
+								},
+								{
+									"type": "user",
+									"user_id": "319693256",
+									"screen_name": "GeorgeMetsios",
+									"name": "George Metsios, PhD"
+								},
+								{
+									"type": "user",
+									"user_id": "3020424189",
+									"screen_name": "UoNPhysio",
+									"name": "UoN Physiotherapy"
+								},
+								{
+									"type": "user",
+									"user_id": "278442312",
+									"screen_name": "councilofdeans",
+									"name": "Council of Deans"
+								},
+								{
+									"type": "user",
+									"user_id": "30196565",
+									"screen_name": "UniofNottingham",
+									"name": "Uni of Nottingham"
+								},
+								{
+									"type": "user",
+									"user_id": "325563534",
+									"screen_name": "u21news",
+									"name": "Universitas 21"
+								},
+								{
+									"type": "user",
+									"user_id": "1926904148",
+									"screen_name": "ukmedschools",
+									"name": "MSC"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 451,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 451,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 451,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 3,
+									"y": 396,
+									"h": 92,
+									"w": 92
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1217369775199879200,
+					"id_str": "1217369775199879168",
+					"indices": [
+						243,
+						266
+					],
+					"media_url": "http://pbs.twimg.com/media/EOT3XFMWAAAn57H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOT3XFMWAAAn57H.jpg",
+					"url": "https://t.co/ade0bY8CSl",
+					"display_url": "pic.twitter.com/ade0bY8CSl",
+					"expanded_url": "https://twitter.com/exerciseworks/status/1217369779356479488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 417,
+							"h": 773,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 417,
+							"h": 773,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 367,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"all": {
+							"tags": [
+								{
+									"type": "user",
+									"user_id": "448280009",
+									"screen_name": "mgswainson",
+									"name": "Dr Michelle Swainson"
+								},
+								{
+									"type": "user",
+									"user_id": "508806750",
+									"screen_name": "fimo18",
+									"name": "Dr Fiona Moffatt"
+								},
+								{
+									"type": "user",
+									"user_id": "396832258",
+									"screen_name": "RogerKerry1",
+									"name": "Roger Kerry"
+								},
+								{
+									"type": "user",
+									"user_id": "319693256",
+									"screen_name": "GeorgeMetsios",
+									"name": "George Metsios, PhD"
+								},
+								{
+									"type": "user",
+									"user_id": "3020424189",
+									"screen_name": "UoNPhysio",
+									"name": "UoN Physiotherapy"
+								},
+								{
+									"type": "user",
+									"user_id": "278442312",
+									"screen_name": "councilofdeans",
+									"name": "Council of Deans"
+								},
+								{
+									"type": "user",
+									"user_id": "30196565",
+									"screen_name": "UniofNottingham",
+									"name": "Uni of Nottingham"
+								},
+								{
+									"type": "user",
+									"user_id": "325563534",
+									"screen_name": "u21news",
+									"name": "Universitas 21"
+								},
+								{
+									"type": "user",
+									"user_id": "1926904148",
+									"screen_name": "ukmedschools",
+									"name": "MSC"
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 451,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 451,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 4,
+									"y": 451,
+									"h": 105,
+									"w": 105
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 3,
+									"y": 396,
+									"h": 92,
+									"w": 92
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 256921454,
+			"id_str": "256921454",
+			"name": "Exercise Works!",
+			"screen_name": "exerciseworks",
+			"location": "UK, World",
+			"description": "Exercise Works in the prevention & treatment of disease. One step for patients. One leap to health!\n \nhttps://t.co/Q4HTTTP8w6 \nby Ann Gates #MovementForMovement",
+			"url": "https://t.co/Q4HTTTP8w6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q4HTTTP8w6",
+							"expanded_url": "http://www.exercise-works.org",
+							"display_url": "exercise-works.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Q4HTTTP8w6",
+							"expanded_url": "http://www.exercise-works.org",
+							"display_url": "exercise-works.org",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 62128,
+			"friends_count": 52040,
+			"listed_count": 1215,
+			"created_at": "Thu Feb 24 10:22:04 +0000 2011",
+			"favourites_count": 140239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 171013,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253185990/Exercise_Works_avatar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253185990/Exercise_Works_avatar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/256921454/1399040184",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 37,
+		"favorite_count": 48,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW @BJSM_BMJ Editorial\n\n“Undergraduate examination and assessment of knowledge and skills is crucial in capacity planning for the future healthcare workforce in physical activity interventions”\n\nhttps://t.co/XsVITkcYPz\nGates, Swainson et al. https://t.co/ade0bY8CSl"
+	},
+	{
 		"created_at": "Tue Jan 14 12:47:52 +0000 2020",
 		"id": 1216823844415197200,
 		"id_str": "1217065796708503552",
