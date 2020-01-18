@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 17 08:28:42 +0000 2020",
+		"id": 1218087737783390200,
+		"id_str": "1218087737783390208",
+		"full_text": "@Hartey_PT @ACPOHE @thecsp My @PhysioMACP one is better 👍🤣 https://t.co/i0681cmz5P",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Hartey_PT",
+					"name": "Helen Harte",
+					"id": 751495287487758300,
+					"id_str": "751495287487758336",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "ACPOHE",
+					"name": "ACPOHE",
+					"id": 229037752,
+					"id_str": "229037752",
+					"indices": [
+						11,
+						18
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						19,
+						26
+					]
+				},
+				{
+					"screen_name": "PhysioMACP",
+					"name": "MACP",
+					"id": 1028269513,
+					"id_str": "1028269513",
+					"indices": [
+						30,
+						41
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1218087724302905300,
+					"id_str": "1218087724302905344",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EOeEVOBWsAAbSbP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOeEVOBWsAAbSbP.jpg",
+					"url": "https://t.co/i0681cmz5P",
+					"display_url": "pic.twitter.com/i0681cmz5P",
+					"expanded_url": "https://twitter.com/beardedPT/status/1218087737783390208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218087724302905300,
+					"id_str": "1218087724302905344",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/EOeEVOBWsAAbSbP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOeEVOBWsAAbSbP.jpg",
+					"url": "https://t.co/i0681cmz5P",
+					"display_url": "pic.twitter.com/i0681cmz5P",
+					"expanded_url": "https://twitter.com/beardedPT/status/1218087737783390208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1216995419386982400,
+		"in_reply_to_status_id_str": "1216995419386982400",
+		"in_reply_to_user_id": 751495287487758300,
+		"in_reply_to_user_id_str": "751495287487758336",
+		"in_reply_to_screen_name": "Hartey_PT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1794,
+			"friends_count": 2836,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15311,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5593,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Hartey_PT @ACPOHE @thecsp My @PhysioMACP one is better 👍🤣 https://t.co/i0681cmz5P"
+	},
+	{
 		"created_at": "Thu Jan 16 22:31:36 +0000 2020",
 		"id": 1217937472711250000,
 		"id_str": "1217937472711249928",
