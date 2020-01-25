@@ -1,6 +1,161 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 24 12:56:44 +0000 2020",
+		"id": 1220691905157193700,
+		"id_str": "1220691905157193728",
+		"full_text": "@bendotellis @brookeshls @OBUPhysio @unibirmingham @UBSportExR @UoB_PhysioSoc Congratulations, Ben! 🍻\nThat’s definitely less of a commute ...",
+		"truncated": false,
+		"display_text_range": [
+			78,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bendotellis",
+					"name": "Ben Ellis",
+					"id": 424907352,
+					"id_str": "424907352",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "brookeshls",
+					"name": "Oxford Brookes HLS",
+					"id": 55229695,
+					"id_str": "55229695",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "OBUPhysio",
+					"name": "OBU Physiotherapy",
+					"id": 2724275660,
+					"id_str": "2724275660",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"screen_name": "unibirmingham",
+					"name": "Uni of Birmingham",
+					"id": 17865542,
+					"id_str": "17865542",
+					"indices": [
+						36,
+						50
+					]
+				},
+				{
+					"screen_name": "UBSportExR",
+					"name": "UBSportExR",
+					"id": 404326750,
+					"id_str": "404326750",
+					"indices": [
+						51,
+						62
+					]
+				},
+				{
+					"screen_name": "UoB_PhysioSoc",
+					"name": "University of Birmingham PhysioSoc",
+					"id": 973349946501058600,
+					"id_str": "973349946501058560",
+					"indices": [
+						63,
+						77
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1220635046413029400,
+		"in_reply_to_status_id_str": "1220635046413029377",
+		"in_reply_to_user_id": 424907352,
+		"in_reply_to_user_id_str": "424907352",
+		"in_reply_to_screen_name": "bendotellis",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1801,
+			"friends_count": 2853,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15410,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bendotellis @brookeshls @OBUPhysio @unibirmingham @UBSportExR @UoB_PhysioSoc Congratulations, Ben! 🍻\nThat’s definitely less of a commute ..."
+	},
+	{
 		"created_at": "Thu Jan 23 21:37:36 +0000 2020",
 		"id": 1220460598003228700,
 		"id_str": "1220460598003228680",
