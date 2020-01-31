@@ -1,6 +1,480 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Thu Jan 30 21:27:53 +0000 2020",
+		"id": 1222994867590180900,
+		"id_str": "1222994867590180866",
+		"full_text": "@adamdobson123 @HelenRobson19 @CChappellCSP @evluni @DaraRoisin @PhysioDaveA @curlyk28 @proglead @FarrellRuth I’m sure it will! https://t.co/ffHRCXYzYI",
+		"truncated": false,
+		"display_text_range": [
+			110,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adamdobson123",
+					"name": "Adam Dobson",
+					"id": 702962141800878100,
+					"id_str": "702962141800878081",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "HelenRobson19",
+					"name": "Helen Robson",
+					"id": 4098305411,
+					"id_str": "4098305411",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "CChappellCSP",
+					"name": "Catherine Chappell",
+					"id": 737622299520696300,
+					"id_str": "737622299520696320",
+					"indices": [
+						30,
+						43
+					]
+				},
+				{
+					"screen_name": "evluni",
+					"name": "Rob Goddard",
+					"id": 1472761122,
+					"id_str": "1472761122",
+					"indices": [
+						44,
+						51
+					]
+				},
+				{
+					"screen_name": "DaraRoisin",
+					"name": "Roisin Fallen-Bailey",
+					"id": 448290408,
+					"id_str": "448290408",
+					"indices": [
+						52,
+						63
+					]
+				},
+				{
+					"screen_name": "PhysioDaveA",
+					"name": "PhysioDave",
+					"id": 130578174,
+					"id_str": "130578174",
+					"indices": [
+						64,
+						76
+					]
+				},
+				{
+					"screen_name": "curlyk28",
+					"name": "Claire Kell",
+					"id": 838788583066648600,
+					"id_str": "838788583066648577",
+					"indices": [
+						77,
+						86
+					]
+				},
+				{
+					"screen_name": "proglead",
+					"name": "jill kent",
+					"id": 1264451005,
+					"id_str": "1264451005",
+					"indices": [
+						87,
+						96
+					]
+				},
+				{
+					"screen_name": "FarrellRuth",
+					"name": "Ruth Mckeown",
+					"id": 476948075,
+					"id_str": "476948075",
+					"indices": [
+						97,
+						109
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1222994859889479700,
+					"id_str": "1222994859889479680",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EPjzWGnXUAAtfaV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EPjzWGnXUAAtfaV.jpg",
+					"url": "https://t.co/ffHRCXYzYI",
+					"display_url": "pic.twitter.com/ffHRCXYzYI",
+					"expanded_url": "https://twitter.com/beardedPT/status/1222994867590180866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 244,
+							"h": 124,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 124,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 124,
+							"h": 124,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 244,
+							"h": 124,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1222994859889479700,
+					"id_str": "1222994859889479680",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EPjzWGnXUAAtfaV.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EPjzWGnXUAAtfaV.jpg",
+					"url": "https://t.co/ffHRCXYzYI",
+					"display_url": "pic.twitter.com/ffHRCXYzYI",
+					"expanded_url": "https://twitter.com/beardedPT/status/1222994867590180866/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 244,
+							"h": 124,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 124,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 124,
+							"h": 124,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 244,
+							"h": 124,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							61,
+							31
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EPjzWGnXUAAtfaV.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1222994645875142700,
+		"in_reply_to_status_id_str": "1222994645875142664",
+		"in_reply_to_user_id": 702962141800878100,
+		"in_reply_to_user_id_str": "702962141800878081",
+		"in_reply_to_screen_name": "adamdobson123",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1810,
+			"friends_count": 2875,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@adamdobson123 @HelenRobson19 @CChappellCSP @evluni @DaraRoisin @PhysioDaveA @curlyk28 @proglead @FarrellRuth I’m sure it will! https://t.co/ffHRCXYzYI"
+	},
+	{
+		"created_at": "Thu Jan 30 21:23:19 +0000 2020",
+		"id": 1222993718950625300,
+		"id_str": "1222993718950625280",
+		"full_text": "@HelenRobson19 @CChappellCSP @evluni @DaraRoisin @PhysioDaveA @adamdobson123 @curlyk28 @proglead @FarrellRuth @adamdobson123 what’s happened to the beard 👀 almost didn’t recognise you 😉",
+		"truncated": false,
+		"display_text_range": [
+			110,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HelenRobson19",
+					"name": "Helen Robson",
+					"id": 4098305411,
+					"id_str": "4098305411",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "CChappellCSP",
+					"name": "Catherine Chappell",
+					"id": 737622299520696300,
+					"id_str": "737622299520696320",
+					"indices": [
+						15,
+						28
+					]
+				},
+				{
+					"screen_name": "evluni",
+					"name": "Rob Goddard",
+					"id": 1472761122,
+					"id_str": "1472761122",
+					"indices": [
+						29,
+						36
+					]
+				},
+				{
+					"screen_name": "DaraRoisin",
+					"name": "Roisin Fallen-Bailey",
+					"id": 448290408,
+					"id_str": "448290408",
+					"indices": [
+						37,
+						48
+					]
+				},
+				{
+					"screen_name": "PhysioDaveA",
+					"name": "PhysioDave",
+					"id": 130578174,
+					"id_str": "130578174",
+					"indices": [
+						49,
+						61
+					]
+				},
+				{
+					"screen_name": "adamdobson123",
+					"name": "Adam Dobson",
+					"id": 702962141800878100,
+					"id_str": "702962141800878081",
+					"indices": [
+						62,
+						76
+					]
+				},
+				{
+					"screen_name": "curlyk28",
+					"name": "Claire Kell",
+					"id": 838788583066648600,
+					"id_str": "838788583066648577",
+					"indices": [
+						77,
+						86
+					]
+				},
+				{
+					"screen_name": "proglead",
+					"name": "jill kent",
+					"id": 1264451005,
+					"id_str": "1264451005",
+					"indices": [
+						87,
+						96
+					]
+				},
+				{
+					"screen_name": "FarrellRuth",
+					"name": "Ruth Mckeown",
+					"id": 476948075,
+					"id_str": "476948075",
+					"indices": [
+						97,
+						109
+					]
+				},
+				{
+					"screen_name": "adamdobson123",
+					"name": "Adam Dobson",
+					"id": 702962141800878100,
+					"id_str": "702962141800878081",
+					"indices": [
+						110,
+						124
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1222952518449234000,
+		"in_reply_to_status_id_str": "1222952518449233921",
+		"in_reply_to_user_id": 4098305411,
+		"in_reply_to_user_id_str": "4098305411",
+		"in_reply_to_screen_name": "HelenRobson19",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1810,
+			"friends_count": 2875,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5619,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184179216990003200/QKs-uz_y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@HelenRobson19 @CChappellCSP @evluni @DaraRoisin @PhysioDaveA @adamdobson123 @curlyk28 @proglead @FarrellRuth @adamdobson123 what’s happened to the beard 👀 almost didn’t recognise you 😉"
+	},
+	{
 		"created_at": "Tue Jan 28 22:12:08 +0000 2020",
 		"id": 1222260227204178000,
 		"id_str": "1222281229728387075",
