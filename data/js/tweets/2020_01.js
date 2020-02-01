@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 31 08:34:01 +0000 2020",
+		"id": 1223153250507088000,
+		"id_str": "1223162505062645760",
+		"full_text": "Timely update on the advance practice agenda and how you can influence!\nESP’s, you are an ‘Advanced Practice Physiotherapist’ (APP)!! https://t.co/4Dh5W7UMSN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4Dh5W7UMSN",
+					"expanded_url": "https://twitter.com/thecsp/status/1222833849245278208",
+					"display_url": "twitter.com/thecsp/status/…",
+					"indices": [
+						134,
+						157
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 375320758,
+			"id_str": "375320758",
+			"name": "Nick Livadas",
+			"screen_name": "nicklivadas",
+			"location": "Newcastle Upon Tyne",
+			"description": "Senior Lecturer/Practitioner in Physiotherapy, Teesside Uni. CSP Professional Committee Vice Chair. Chair of the NEMS.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 875,
+			"friends_count": 772,
+			"listed_count": 14,
+			"created_at": "Sat Sep 17 22:36:43 +0000 2011",
+			"favourites_count": 2917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1059,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184376290201223169/ppVxAfqu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184376290201223169/ppVxAfqu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/375320758/1356467833",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1222833849245278200,
+		"quoted_status_id_str": "1222833849245278208",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4Dh5W7UMSN",
+			"expanded": "https://twitter.com/thecsp/status/1222833849245278208",
+			"display": "twitter.com/thecsp/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jan 30 10:48:03 +0000 2020",
+			"id": 1222833849245278200,
+			"id_str": "1222833849245278208",
+			"full_text": "The advanced practice agenda throughout the UK is fast-paced and constantly evolving. \n\n⬇️ A briefing statement on advanced practice in physiotherapy is now available\nhttps://t.co/DVqFvmXdfS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				190
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DVqFvmXdfS",
+						"expanded_url": "https://www.csp.org.uk/documents/csp-policy-briefing-statement-advanced-practice-physiotherapy",
+						"display_url": "csp.org.uk/documents/csp-…",
+						"indices": [
+							167,
+							190
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 138098880,
+				"id_str": "138098880",
+				"name": "Chartered Society of Physiotherapy",
+				"screen_name": "thecsp",
+				"location": "United Kingdom",
+				"description": "Chartered Society of Physiotherapy (CSP) - the professional, educational and union body for 59,000 UK-chartered physiotherapists, students and support workers.",
+				"url": "https://t.co/0zvCGRCWPh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0zvCGRCWPh",
+								"expanded_url": "http://www.csp.org.uk",
+								"display_url": "csp.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 46964,
+				"friends_count": 1323,
+				"listed_count": 328,
+				"created_at": "Wed Apr 28 16:27:18 +0000 2010",
+				"favourites_count": 5430,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13868,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6E3DC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902851531388534785/RRRJKVa0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902851531388534785/RRRJKVa0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/138098880/1574942464",
+				"profile_link_color": "252673",
+				"profile_sidebar_border_color": "C9C9C9",
+				"profile_sidebar_fill_color": "E3E3E3",
+				"profile_text_color": "757575",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": true,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 36,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Timely update on the advance practice agenda and how you can influence!\nESP’s, you are an ‘Advanced Practice Physiotherapist’ (APP)!! https://t.co/4Dh5W7UMSN"
+	},
+	{
 		"created_at": "Thu Jan 30 21:27:53 +0000 2020",
 		"id": 1222994867590180900,
 		"id_str": "1222994867590180866",
