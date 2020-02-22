@@ -1,6 +1,1315 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 21 20:43:44 +0000 2020",
+		"id": 1230952245270896600,
+		"id_str": "1230956290802929666",
+		"full_text": "@DavidBehan15 @beardedPT @KMiddletonCSP @mikechitty @tolanAHP @Anniecoops @SuzanneRastrick @misssdjohnson @exerciseworks @WeAHPs Thank you for this David. In 2009\n@KMiddletonCSP was asked at her Chief AHP conference her top tip for leadership.....Emotional Intelligance was the answer. \n\nIt’s stayed with me. I wish I’d heard the message as a newly qualified Physiotherapist.\n\nStill a #workinprogress",
+		"truncated": false,
+		"display_text_range": [
+			129,
+			400
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "workinprogress",
+					"indices": [
+						385,
+						400
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DavidBehan15",
+					"name": "David Behan",
+					"id": 1059511559670714400,
+					"id_str": "1059511559670714368",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "KMiddletonCSP",
+					"name": "Karen Middleton",
+					"id": 791233063,
+					"id_str": "791233063",
+					"indices": [
+						25,
+						39
+					]
+				},
+				{
+					"screen_name": "mikechitty",
+					"name": "Mike Chitty",
+					"id": 21009225,
+					"id_str": "21009225",
+					"indices": [
+						40,
+						51
+					]
+				},
+				{
+					"screen_name": "tolanAHP",
+					"name": "Steve Tolan",
+					"id": 1550254940,
+					"id_str": "1550254940",
+					"indices": [
+						52,
+						61
+					]
+				},
+				{
+					"screen_name": "Anniecoops",
+					"name": "Anne Cooper",
+					"id": 20327119,
+					"id_str": "20327119",
+					"indices": [
+						62,
+						73
+					]
+				},
+				{
+					"screen_name": "SuzanneRastrick",
+					"name": "Suzanne Rastrick",
+					"id": 1596992540,
+					"id_str": "1596992540",
+					"indices": [
+						74,
+						90
+					]
+				},
+				{
+					"screen_name": "misssdjohnson",
+					"name": "Stacy Johnson MBE",
+					"id": 170450545,
+					"id_str": "170450545",
+					"indices": [
+						91,
+						105
+					]
+				},
+				{
+					"screen_name": "exerciseworks",
+					"name": "Exercise Works!",
+					"id": 256921454,
+					"id_str": "256921454",
+					"indices": [
+						106,
+						120
+					]
+				},
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						121,
+						128
+					]
+				},
+				{
+					"screen_name": "KMiddletonCSP",
+					"name": "Karen Middleton",
+					"id": 791233063,
+					"id_str": "791233063",
+					"indices": [
+						163,
+						177
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1230901034626801700,
+		"in_reply_to_status_id_str": "1230901034626801664",
+		"in_reply_to_user_id": 1059511559670714400,
+		"in_reply_to_user_id_str": "1059511559670714368",
+		"in_reply_to_screen_name": "DavidBehan15",
+		"user": {
+			"id": 66102452,
+			"id_str": "66102452",
+			"name": "Iain Beith",
+			"screen_name": "iainbeith",
+			"location": "London, England",
+			"description": "Professor in Health Education \n\n         For the pleasure of finding things out\n\n@KingstonUni @StgeorgesUni @KUStGeorges",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1052,
+			"friends_count": 1134,
+			"listed_count": 51,
+			"created_at": "Sun Aug 16 11:44:54 +0000 2009",
+			"favourites_count": 15795,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183407899558567936/BpGw0osW_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183407899558567936/BpGw0osW_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/66102452/1526549085",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@DavidBehan15 @beardedPT @KMiddletonCSP @mikechitty @tolanAHP @Anniecoops @SuzanneRastrick @misssdjohnson @exerciseworks @WeAHPs Thank you for this David. In 2009\n@KMiddletonCSP was asked at her Chief AHP conference her top tip for leadership.....Emotional Intelligance was the answer. \n\nIt’s stayed with me. I wish I’d heard the message as a newly qualified Physiotherapist.\n\nStill a #workinprogress"
+	},
+	{
+		"created_at": "Fri Feb 21 19:29:22 +0000 2020",
+		"id": 1230933826353975300,
+		"id_str": "1230937575516491779",
+		"full_text": "@beardedPT @KMiddletonCSP @mikechitty @tolanAHP @Anniecoops @SuzanneRastrick @misssdjohnson @DavidBehan15 @exerciseworks @WeAHPs Emotionally engaging narratives all the way. Narrative over normative. Tell your story",
+		"truncated": false,
+		"display_text_range": [
+			129,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "KMiddletonCSP",
+					"name": "Karen Middleton",
+					"id": 791233063,
+					"id_str": "791233063",
+					"indices": [
+						11,
+						25
+					]
+				},
+				{
+					"screen_name": "mikechitty",
+					"name": "Mike Chitty",
+					"id": 21009225,
+					"id_str": "21009225",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"screen_name": "tolanAHP",
+					"name": "Steve Tolan",
+					"id": 1550254940,
+					"id_str": "1550254940",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"screen_name": "Anniecoops",
+					"name": "Anne Cooper",
+					"id": 20327119,
+					"id_str": "20327119",
+					"indices": [
+						48,
+						59
+					]
+				},
+				{
+					"screen_name": "SuzanneRastrick",
+					"name": "Suzanne Rastrick",
+					"id": 1596992540,
+					"id_str": "1596992540",
+					"indices": [
+						60,
+						76
+					]
+				},
+				{
+					"screen_name": "misssdjohnson",
+					"name": "Stacy Johnson MBE",
+					"id": 170450545,
+					"id_str": "170450545",
+					"indices": [
+						77,
+						91
+					]
+				},
+				{
+					"screen_name": "DavidBehan15",
+					"name": "David Behan",
+					"id": 1059511559670714400,
+					"id_str": "1059511559670714368",
+					"indices": [
+						92,
+						105
+					]
+				},
+				{
+					"screen_name": "exerciseworks",
+					"name": "Exercise Works!",
+					"id": 256921454,
+					"id_str": "256921454",
+					"indices": [
+						106,
+						120
+					]
+				},
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						121,
+						128
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1230839311479734300,
+		"in_reply_to_status_id_str": "1230839311479734272",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 508806750,
+			"id_str": "508806750",
+			"name": "Dr Fiona Moffatt",
+			"screen_name": "fimo18",
+			"location": "Nottingham, UK",
+			"description": "Researcher, lecturer, physiotherapist & runner. Exercise; physical activity; critical care; qualitative methodologies; health service delivery; sociology",
+			"url": "https://t.co/kvJklC6HM3",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kvJklC6HM3",
+							"expanded_url": "http://www.nottingham.ac.uk/healthsciences/people/fiona.moffatt",
+							"display_url": "nottingham.ac.uk/healthsciences…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2592,
+			"friends_count": 1126,
+			"listed_count": 53,
+			"created_at": "Wed Feb 29 12:35:08 +0000 2012",
+			"favourites_count": 5556,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4652,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/720951557156642816/GVQMOoTi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/720951557156642816/GVQMOoTi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/508806750/1463818894",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@beardedPT @KMiddletonCSP @mikechitty @tolanAHP @Anniecoops @SuzanneRastrick @misssdjohnson @DavidBehan15 @exerciseworks @WeAHPs Emotionally engaging narratives all the way. Narrative over normative. Tell your story"
+	},
+	{
+		"created_at": "Fri Feb 21 18:33:50 +0000 2020",
+		"id": 1230844647058092000,
+		"id_str": "1230923598979903488",
+		"full_text": "@beardedPT @KMiddletonCSP @mikechitty @tolanAHP @Anniecoops @SuzanneRastrick @misssdjohnson @DavidBehan15 @WeAHPs Purpose, values and beliefs.  Everything flows from that. When people align with that then everybody leads. Leadership is collective. Not a followership. Everyone can lead in a values based society.",
+		"truncated": false,
+		"display_text_range": [
+			114,
+			312
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "KMiddletonCSP",
+					"name": "Karen Middleton",
+					"id": 791233063,
+					"id_str": "791233063",
+					"indices": [
+						11,
+						25
+					]
+				},
+				{
+					"screen_name": "mikechitty",
+					"name": "Mike Chitty",
+					"id": 21009225,
+					"id_str": "21009225",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"screen_name": "tolanAHP",
+					"name": "Steve Tolan",
+					"id": 1550254940,
+					"id_str": "1550254940",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"screen_name": "Anniecoops",
+					"name": "Anne Cooper",
+					"id": 20327119,
+					"id_str": "20327119",
+					"indices": [
+						48,
+						59
+					]
+				},
+				{
+					"screen_name": "SuzanneRastrick",
+					"name": "Suzanne Rastrick",
+					"id": 1596992540,
+					"id_str": "1596992540",
+					"indices": [
+						60,
+						76
+					]
+				},
+				{
+					"screen_name": "misssdjohnson",
+					"name": "Stacy Johnson MBE",
+					"id": 170450545,
+					"id_str": "170450545",
+					"indices": [
+						77,
+						91
+					]
+				},
+				{
+					"screen_name": "DavidBehan15",
+					"name": "David Behan",
+					"id": 1059511559670714400,
+					"id_str": "1059511559670714368",
+					"indices": [
+						92,
+						105
+					]
+				},
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						106,
+						113
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1230839311479734300,
+		"in_reply_to_status_id_str": "1230839311479734272",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 256921454,
+			"id_str": "256921454",
+			"name": "Exercise Works!",
+			"screen_name": "exerciseworks",
+			"location": "UK, World",
+			"description": "Exercise Works in the prevention & treatment of disease. One step for patients. One leap to health!\n \nhttps://t.co/Q4HTTTP8w6 \nby Ann Gates #MovementForMovement",
+			"url": "https://t.co/Q4HTTTP8w6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q4HTTTP8w6",
+							"expanded_url": "http://www.exercise-works.org",
+							"display_url": "exercise-works.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Q4HTTTP8w6",
+							"expanded_url": "http://www.exercise-works.org",
+							"display_url": "exercise-works.org",
+							"indices": [
+								102,
+								125
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 62575,
+			"friends_count": 52490,
+			"listed_count": 1215,
+			"created_at": "Thu Feb 24 10:22:04 +0000 2011",
+			"favourites_count": 141987,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 171646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1253185990/Exercise_Works_avatar_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253185990/Exercise_Works_avatar_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/256921454/1399040184",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@beardedPT @KMiddletonCSP @mikechitty @tolanAHP @Anniecoops @SuzanneRastrick @misssdjohnson @DavidBehan15 @WeAHPs Purpose, values and beliefs.  Everything flows from that. When people align with that then everybody leads. Leadership is collective. Not a followership. Everyone can lead in a values based society."
+	},
+	{
+		"created_at": "Fri Feb 21 18:32:49 +0000 2020",
+		"id": 1230923343735509000,
+		"id_str": "1230923343735508992",
+		"full_text": "What a fantastic response - thank you all! Currently scrolling through wisdom...  \n\nThere’s a very definite theme running through the replies 🙌 https://t.co/PQ2K0PVunC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1230923336722587600,
+					"id_str": "1230923336722587650",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ERUeQMcWoAI1Vg5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ERUeQMcWoAI1Vg5.jpg",
+					"url": "https://t.co/PQ2K0PVunC",
+					"display_url": "pic.twitter.com/PQ2K0PVunC",
+					"expanded_url": "https://twitter.com/beardedPT/status/1230923343735508992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1230923336722587600,
+					"id_str": "1230923336722587650",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ERUeQMcWoAI1Vg5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ERUeQMcWoAI1Vg5.jpg",
+					"url": "https://t.co/PQ2K0PVunC",
+					"display_url": "pic.twitter.com/PQ2K0PVunC",
+					"expanded_url": "https://twitter.com/beardedPT/status/1230923343735508992/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 300,
+							"h": 168,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							14
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ERUeQMcWoAI1Vg5.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1230841489275719700,
+		"in_reply_to_status_id_str": "1230841489275719680",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1828,
+			"friends_count": 2904,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52041af7b8001313",
+			"url": "https://api.twitter.com/1.1/geo/id/52041af7b8001313.json",
+			"place_type": "city",
+			"name": "Rugeley",
+			"full_name": "Rugeley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.971255,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.773708
+						],
+						[
+							-1.971255,
+							52.773708
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What a fantastic response - thank you all! Currently scrolling through wisdom...  \n\nThere’s a very definite theme running through the replies 🙌 https://t.co/PQ2K0PVunC"
+	},
+	{
+		"created_at": "Fri Feb 21 18:26:19 +0000 2020",
+		"id": 1230921711073341400,
+		"id_str": "1230921711073341441",
+		"full_text": "@misssdjohnson @KMiddletonCSP @mikechitty @tolanAHP @Anniecoops @SuzanneRastrick @DavidBehan15 @exerciseworks @WeAHPs Honestly, I have been blown away with the response! 😀 #twitter at it’s best ...",
+		"truncated": false,
+		"display_text_range": [
+			118,
+			197
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "twitter",
+					"indices": [
+						172,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "misssdjohnson",
+					"name": "Stacy Johnson MBE",
+					"id": 170450545,
+					"id_str": "170450545",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "KMiddletonCSP",
+					"name": "Karen Middleton",
+					"id": 791233063,
+					"id_str": "791233063",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "mikechitty",
+					"name": "Mike Chitty",
+					"id": 21009225,
+					"id_str": "21009225",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"screen_name": "tolanAHP",
+					"name": "Steve Tolan",
+					"id": 1550254940,
+					"id_str": "1550254940",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"screen_name": "Anniecoops",
+					"name": "Anne Cooper",
+					"id": 20327119,
+					"id_str": "20327119",
+					"indices": [
+						52,
+						63
+					]
+				},
+				{
+					"screen_name": "SuzanneRastrick",
+					"name": "Suzanne Rastrick",
+					"id": 1596992540,
+					"id_str": "1596992540",
+					"indices": [
+						64,
+						80
+					]
+				},
+				{
+					"screen_name": "DavidBehan15",
+					"name": "David Behan",
+					"id": 1059511559670714400,
+					"id_str": "1059511559670714368",
+					"indices": [
+						81,
+						94
+					]
+				},
+				{
+					"screen_name": "exerciseworks",
+					"name": "Exercise Works!",
+					"id": 256921454,
+					"id_str": "256921454",
+					"indices": [
+						95,
+						109
+					]
+				},
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						110,
+						117
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1230890682547568600,
+		"in_reply_to_status_id_str": "1230890682547568641",
+		"in_reply_to_user_id": 170450545,
+		"in_reply_to_user_id_str": "170450545",
+		"in_reply_to_screen_name": "misssdjohnson",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1828,
+			"friends_count": 2904,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@misssdjohnson @KMiddletonCSP @mikechitty @tolanAHP @Anniecoops @SuzanneRastrick @DavidBehan15 @exerciseworks @WeAHPs Honestly, I have been blown away with the response! 😀 #twitter at it’s best ..."
+	},
+	{
+		"created_at": "Fri Feb 21 18:25:34 +0000 2020",
+		"id": 1230901034626801700,
+		"id_str": "1230921519678869505",
+		"full_text": "@beardedPT @KMiddletonCSP @mikechitty @tolanAHP @Anniecoops @SuzanneRastrick @misssdjohnson @exerciseworks @WeAHPs So much to say ....be clear about your personal purpose , be authentic , develop your emotional intelligence and the ability to see an issue through the eyes of others , engage with your colleagues ( this is more than listening ) and enjoy the privilege of leading .",
+		"truncated": false,
+		"display_text_range": [
+			115,
+			381
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "KMiddletonCSP",
+					"name": "Karen Middleton",
+					"id": 791233063,
+					"id_str": "791233063",
+					"indices": [
+						11,
+						25
+					]
+				},
+				{
+					"screen_name": "mikechitty",
+					"name": "Mike Chitty",
+					"id": 21009225,
+					"id_str": "21009225",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"screen_name": "tolanAHP",
+					"name": "Steve Tolan",
+					"id": 1550254940,
+					"id_str": "1550254940",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"screen_name": "Anniecoops",
+					"name": "Anne Cooper",
+					"id": 20327119,
+					"id_str": "20327119",
+					"indices": [
+						48,
+						59
+					]
+				},
+				{
+					"screen_name": "SuzanneRastrick",
+					"name": "Suzanne Rastrick",
+					"id": 1596992540,
+					"id_str": "1596992540",
+					"indices": [
+						60,
+						76
+					]
+				},
+				{
+					"screen_name": "misssdjohnson",
+					"name": "Stacy Johnson MBE",
+					"id": 170450545,
+					"id_str": "170450545",
+					"indices": [
+						77,
+						91
+					]
+				},
+				{
+					"screen_name": "exerciseworks",
+					"name": "Exercise Works!",
+					"id": 256921454,
+					"id_str": "256921454",
+					"indices": [
+						92,
+						106
+					]
+				},
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						107,
+						114
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1230839311479734300,
+		"in_reply_to_status_id_str": "1230839311479734272",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 1059511559670714400,
+			"id_str": "1059511559670714368",
+			"name": "David Behan",
+			"screen_name": "DavidBehan15",
+			"location": "",
+			"description": "40+ years in care and health : practice , delivery , regulation , policy , education and leadership . Committed to  social justice and making a difference .",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 638,
+			"friends_count": 149,
+			"listed_count": 1,
+			"created_at": "Mon Nov 05 18:23:35 +0000 2018",
+			"favourites_count": 41,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189655387722702848/B3o6KvLh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189655387722702848/B3o6KvLh_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@beardedPT @KMiddletonCSP @mikechitty @tolanAHP @Anniecoops @SuzanneRastrick @misssdjohnson @exerciseworks @WeAHPs So much to say ....be clear about your personal purpose , be authentic , develop your emotional intelligence and the ability to see an issue through the eyes of others , engage with your colleagues ( this is more than listening ) and enjoy the privilege of leading ."
+	},
+	{
+		"created_at": "Fri Feb 21 13:07:33 +0000 2020",
+		"id": 1230841489275719700,
+		"id_str": "1230841489275719680",
+		"full_text": "I would love to hear your thoughts to @neiljlangridge 😊👍",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "neiljlangridge",
+					"name": "Neil Langridge",
+					"id": 1890279319,
+					"id_str": "1890279319",
+					"indices": [
+						38,
+						53
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1230839311479734300,
+		"in_reply_to_status_id_str": "1230839311479734272",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1828,
+			"friends_count": 2904,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15605,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5643,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1f592b82aea688ff",
+			"url": "https://api.twitter.com/1.1/geo/id/1f592b82aea688ff.json",
+			"place_type": "city",
+			"name": "Derby",
+			"full_name": "Derby, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.556856,
+							52.870587
+						],
+						[
+							-1.384701,
+							52.870587
+						],
+						[
+							-1.384701,
+							52.960473
+						],
+						[
+							-1.556856,
+							52.960473
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I would love to hear your thoughts to @neiljlangridge 😊👍"
+	},
+	{
 		"created_at": "Thu Feb 20 23:15:01 +0000 2020",
 		"id": 1230631975645479000,
 		"id_str": "1230631975645478912",
