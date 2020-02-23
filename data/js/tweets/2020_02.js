@@ -1,6 +1,567 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Sat Feb 22 22:10:48 +0000 2020",
+		"id": 1231340589481971700,
+		"id_str": "1231340589481971712",
+		"full_text": "@Srikesavan @oxfordhealthAHP @OUHospitals You handled this with poise!  👍",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Srikesavan",
+					"name": "Srikesavan Sabapathy 🇱🇰🇮🇳🇨🇦🇬🇧",
+					"id": 58153048,
+					"id_str": "58153048",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "oxfordhealthAHP",
+					"name": "@OxfordHealthAHPs",
+					"id": 927490130918674400,
+					"id_str": "927490130918674432",
+					"indices": [
+						12,
+						28
+					]
+				},
+				{
+					"screen_name": "OUHospitals",
+					"name": "OUH",
+					"id": 18226657,
+					"id_str": "18226657",
+					"indices": [
+						29,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1231272483434659800,
+		"in_reply_to_status_id_str": "1231272483434659840",
+		"in_reply_to_user_id": 58153048,
+		"in_reply_to_user_id_str": "58153048",
+		"in_reply_to_screen_name": "Srikesavan",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1835,
+			"friends_count": 2908,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Srikesavan @oxfordhealthAHP @OUHospitals You handled this with poise!  👍"
+	},
+	{
+		"created_at": "Sat Feb 22 10:11:41 +0000 2020",
+		"id": 1231159560787955700,
+		"id_str": "1231159616354103298",
+		"full_text": "The cat is out of the bag 🐈 - see you soon @SocietyTeesside 👋\n\nThis thread is a thread that keeps giving 🧵 ⬇️ ... https://t.co/Fz4yOhjyf6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SocietyTeesside",
+					"name": "Teesside University Physiotherapy Society",
+					"id": 1184909467978260500,
+					"id_str": "1184909467978260480",
+					"indices": [
+						43,
+						59
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Fz4yOhjyf6",
+					"expanded_url": "https://twitter.com/nicklivadas/status/1230931449429319681",
+					"display_url": "twitter.com/nicklivadas/st…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1230923343735509000,
+		"in_reply_to_status_id_str": "1230923343735508992",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1835,
+			"friends_count": 2908,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "60160252aeb7e3e5",
+			"url": "https://api.twitter.com/1.1/geo/id/60160252aeb7e3e5.json",
+			"place_type": "admin",
+			"name": "West Midlands",
+			"full_name": "West Midlands, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-3.23560072135158,
+							51.8259029271059
+						],
+						[
+							-1.17213601934124,
+							51.8259029271059
+						],
+						[
+							-1.17213601934124,
+							53.2262100153425
+						],
+						[
+							-3.23560072135158,
+							53.2262100153425
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1230931449429319700,
+		"quoted_status_id_str": "1230931449429319681",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Fz4yOhjyf6",
+			"expanded": "https://twitter.com/nicklivadas/status/1230931449429319681",
+			"display": "twitter.com/nicklivadas/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 21 19:05:01 +0000 2020",
+			"id": 1230931449429319700,
+			"id_str": "1230931449429319681",
+			"full_text": "@beardedPT @KMiddletonCSP @mikechitty @tolanAHP @Anniecoops @SuzanneRastrick @misssdjohnson @DavidBehan15 @exerciseworks @WeAHPs David, tell them ‘your’ story! @SocietyTeesside you are in for a treat 👌 https://t.co/yZ800KkeGY",
+			"truncated": false,
+			"display_text_range": [
+				129,
+				201
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "beardedPT",
+						"name": "David Williams",
+						"id": 3377750235,
+						"id_str": "3377750235",
+						"indices": [
+							0,
+							10
+						]
+					},
+					{
+						"screen_name": "KMiddletonCSP",
+						"name": "Karen Middleton",
+						"id": 791233063,
+						"id_str": "791233063",
+						"indices": [
+							11,
+							25
+						]
+					},
+					{
+						"screen_name": "mikechitty",
+						"name": "Mike Chitty",
+						"id": 21009225,
+						"id_str": "21009225",
+						"indices": [
+							26,
+							37
+						]
+					},
+					{
+						"screen_name": "tolanAHP",
+						"name": "Steve Tolan",
+						"id": 1550254940,
+						"id_str": "1550254940",
+						"indices": [
+							38,
+							47
+						]
+					},
+					{
+						"screen_name": "Anniecoops",
+						"name": "Anne Cooper",
+						"id": 20327119,
+						"id_str": "20327119",
+						"indices": [
+							48,
+							59
+						]
+					},
+					{
+						"screen_name": "SuzanneRastrick",
+						"name": "Suzanne Rastrick",
+						"id": 1596992540,
+						"id_str": "1596992540",
+						"indices": [
+							60,
+							76
+						]
+					},
+					{
+						"screen_name": "misssdjohnson",
+						"name": "Stacy Johnson MBE",
+						"id": 170450545,
+						"id_str": "170450545",
+						"indices": [
+							77,
+							91
+						]
+					},
+					{
+						"screen_name": "DavidBehan15",
+						"name": "David Behan",
+						"id": 1059511559670714400,
+						"id_str": "1059511559670714368",
+						"indices": [
+							92,
+							105
+						]
+					},
+					{
+						"screen_name": "exerciseworks",
+						"name": "Exercise Works!",
+						"id": 256921454,
+						"id_str": "256921454",
+						"indices": [
+							106,
+							120
+						]
+					},
+					{
+						"screen_name": "WeAHPs",
+						"name": "WeAHPs",
+						"id": 2364573882,
+						"id_str": "2364573882",
+						"indices": [
+							121,
+							128
+						]
+					},
+					{
+						"screen_name": "SocietyTeesside",
+						"name": "Teesside University Physiotherapy Society",
+						"id": 1184909467978260500,
+						"id_str": "1184909467978260480",
+						"indices": [
+							160,
+							176
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1230931442596765700,
+						"id_str": "1230931442596765696",
+						"indices": [
+							202,
+							225
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/ERUloBLW4AAAtWd.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ERUloBLW4AAAtWd.jpg",
+						"url": "https://t.co/yZ800KkeGY",
+						"display_url": "pic.twitter.com/yZ800KkeGY",
+						"expanded_url": "https://twitter.com/nicklivadas/status/1230931449429319681/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 374,
+								"h": 196,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 374,
+								"h": 196,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 374,
+								"h": 196,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1230931442596765700,
+						"id_str": "1230931442596765696",
+						"indices": [
+							202,
+							225
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/ERUloBLW4AAAtWd.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ERUloBLW4AAAtWd.jpg",
+						"url": "https://t.co/yZ800KkeGY",
+						"display_url": "pic.twitter.com/yZ800KkeGY",
+						"expanded_url": "https://twitter.com/nicklivadas/status/1230931449429319681/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"medium": {
+								"w": 374,
+								"h": 196,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 374,
+								"h": 196,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 374,
+								"h": 196,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								187,
+								98
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/ERUloBLW4AAAtWd.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1230839311479734300,
+			"in_reply_to_status_id_str": "1230839311479734272",
+			"in_reply_to_user_id": 3377750235,
+			"in_reply_to_user_id_str": "3377750235",
+			"in_reply_to_screen_name": "beardedPT",
+			"user": {
+				"id": 375320758,
+				"id_str": "375320758",
+				"name": "Nick Livadas",
+				"screen_name": "nicklivadas",
+				"location": "Newcastle Upon Tyne",
+				"description": "Senior Lecturer/Practitioner in Physiotherapy, Teesside Uni. CSP Professional Committee Vice Chair. Chair of the NEMS.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 904,
+				"friends_count": 787,
+				"listed_count": 14,
+				"created_at": "Sat Sep 17 22:36:43 +0000 2011",
+				"favourites_count": 2978,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1065,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1184376290201223169/ppVxAfqu_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184376290201223169/ppVxAfqu_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/375320758/1356467833",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The cat is out of the bag 🐈 - see you soon @SocietyTeesside 👋\n\nThis thread is a thread that keeps giving 🧵 ⬇️ ... https://t.co/Fz4yOhjyf6"
+	},
+	{
 		"created_at": "Fri Feb 21 20:43:44 +0000 2020",
 		"id": 1230952245270896600,
 		"id_str": "1230956290802929666",
