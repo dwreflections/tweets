@@ -1,6 +1,679 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Mon Feb 24 21:48:38 +0000 2020",
+		"id": 1232059788105846800,
+		"id_str": "1232059788105846785",
+		"full_text": "@uworcphysio @gds115gds @SpotifyUK https://t.co/VH1Ohlbnhg",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "uworcphysio",
+					"name": "UoWPhysio",
+					"id": 2176252229,
+					"id_str": "2176252229",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "gds115gds",
+					"name": "Gordon Smith",
+					"id": 3380452881,
+					"id_str": "3380452881",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "SpotifyUK",
+					"name": "Spotify UK & Ireland",
+					"id": 479315245,
+					"id_str": "479315245",
+					"indices": [
+						24,
+						34
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1232059525055819800,
+					"id_str": "1232059525055819776",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ERknnD0WsAA9gFD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ERknnD0WsAA9gFD.jpg",
+					"url": "https://t.co/VH1Ohlbnhg",
+					"display_url": "pic.twitter.com/VH1Ohlbnhg",
+					"expanded_url": "https://twitter.com/beardedPT/status/1232059788105846785/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 318,
+							"h": 214,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 318,
+							"h": 214,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 318,
+							"h": 214,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1232059525055819800,
+					"id_str": "1232059525055819776",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ERknnD0WsAA9gFD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ERknnD0WsAA9gFD.jpg",
+					"url": "https://t.co/VH1Ohlbnhg",
+					"display_url": "pic.twitter.com/VH1Ohlbnhg",
+					"expanded_url": "https://twitter.com/beardedPT/status/1232059788105846785/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 318,
+							"h": 214,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 318,
+							"h": 214,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 318,
+							"h": 214,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							159,
+							107
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ERknnD0WsAA9gFD.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1232054231802294300,
+		"in_reply_to_status_id_str": "1232054231802294281",
+		"in_reply_to_user_id": 2176252229,
+		"in_reply_to_user_id_str": "2176252229",
+		"in_reply_to_screen_name": "uworcphysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1839,
+			"friends_count": 2912,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@uworcphysio @gds115gds @SpotifyUK https://t.co/VH1Ohlbnhg"
+	},
+	{
+		"created_at": "Mon Feb 24 21:00:45 +0000 2020",
+		"id": 1232047735878176800,
+		"id_str": "1232047735878176771",
+		"full_text": "One for @gds115gds ⚡️👩‍🎤#TheThinWhiteBeardedPT @SpotifyUK https://t.co/aJ7ALtJw8q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TheThinWhiteBeardedPT",
+					"indices": [
+						24,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gds115gds",
+					"name": "Gordon Smith",
+					"id": 3380452881,
+					"id_str": "3380452881",
+					"indices": [
+						8,
+						18
+					]
+				},
+				{
+					"screen_name": "SpotifyUK",
+					"name": "Spotify UK & Ireland",
+					"id": 479315245,
+					"id_str": "479315245",
+					"indices": [
+						47,
+						57
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1232047728970125300,
+					"id_str": "1232047728970125318",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/ERkc4b-XUAYUH_m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERkc4b-XUAYUH_m.jpg",
+					"url": "https://t.co/aJ7ALtJw8q",
+					"display_url": "pic.twitter.com/aJ7ALtJw8q",
+					"expanded_url": "https://twitter.com/beardedPT/status/1232047735878176771/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 332,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 344,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 188,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1232047728970125300,
+					"id_str": "1232047728970125318",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/ERkc4b-XUAYUH_m.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ERkc4b-XUAYUH_m.jpg",
+					"url": "https://t.co/aJ7ALtJw8q",
+					"display_url": "pic.twitter.com/aJ7ALtJw8q",
+					"expanded_url": "https://twitter.com/beardedPT/status/1232047735878176771/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 332,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1242,
+							"h": 344,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 188,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1839,
+			"friends_count": 2912,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52041af7b8001313",
+			"url": "https://api.twitter.com/1.1/geo/id/52041af7b8001313.json",
+			"place_type": "city",
+			"name": "Rugeley",
+			"full_name": "Rugeley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.971255,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.773708
+						],
+						[
+							-1.971255,
+							52.773708
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "One for @gds115gds ⚡️👩‍🎤#TheThinWhiteBeardedPT @SpotifyUK https://t.co/aJ7ALtJw8q"
+	},
+	{
+		"created_at": "Mon Feb 24 20:14:21 +0000 2020",
+		"id": 1232036060324155400,
+		"id_str": "1232036060324155392",
+		"full_text": "@PickersPT @brookeshls @OBUPhysio @OBU_OT https://t.co/R5ipkBXBgQ",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PickersPT",
+					"name": "Rachael Pickers",
+					"id": 1040238145,
+					"id_str": "1040238145",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "brookeshls",
+					"name": "Oxford Brookes HLS",
+					"id": 55229695,
+					"id_str": "55229695",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "OBUPhysio",
+					"name": "OBU Physiotherapy",
+					"id": 2724275660,
+					"id_str": "2724275660",
+					"indices": [
+						23,
+						33
+					]
+				},
+				{
+					"screen_name": "OBU_OT",
+					"name": "OxfordBrookesOT",
+					"id": 1085924221602197500,
+					"id_str": "1085924221602197505",
+					"indices": [
+						34,
+						41
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1232036052497567700,
+					"id_str": "1232036052497567744",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ERkSQxuXkAAlopS.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ERkSQxuXkAAlopS.jpg",
+					"url": "https://t.co/R5ipkBXBgQ",
+					"display_url": "pic.twitter.com/R5ipkBXBgQ",
+					"expanded_url": "https://twitter.com/beardedPT/status/1232036060324155392/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 244,
+							"h": 244,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 244,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 244,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1232036052497567700,
+					"id_str": "1232036052497567744",
+					"indices": [
+						42,
+						65
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ERkSQxuXkAAlopS.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ERkSQxuXkAAlopS.jpg",
+					"url": "https://t.co/R5ipkBXBgQ",
+					"display_url": "pic.twitter.com/R5ipkBXBgQ",
+					"expanded_url": "https://twitter.com/beardedPT/status/1232036060324155392/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 244,
+							"h": 244,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 244,
+							"h": 244,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 244,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ERkSQxuXkAAlopS.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1231951199424991200,
+		"in_reply_to_status_id_str": "1231951199424991234",
+		"in_reply_to_user_id": 1040238145,
+		"in_reply_to_user_id_str": "1040238145",
+		"in_reply_to_screen_name": "PickersPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1839,
+			"friends_count": 2912,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5653,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@PickersPT @brookeshls @OBUPhysio @OBU_OT https://t.co/R5ipkBXBgQ"
+	},
+	{
 		"created_at": "Sun Feb 23 15:44:45 +0000 2020",
 		"id": 1231605825178865700,
 		"id_str": "1231605825178865664",
