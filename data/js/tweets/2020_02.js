@@ -1,6 +1,519 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Tue Feb 25 22:43:30 +0000 2020",
+		"id": 1232435982621765600,
+		"id_str": "1232435982621765634",
+		"full_text": "@AnyaPhysio1417 We are being discouraged to use the word “baseline” ..",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnyaPhysio1417",
+					"name": "Anya Lotay",
+					"id": 855539502412156900,
+					"id_str": "855539502412156928",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1231745308989837300,
+		"in_reply_to_status_id_str": "1231745308989837315",
+		"in_reply_to_user_id": 855539502412156900,
+		"in_reply_to_user_id_str": "855539502412156928",
+		"in_reply_to_screen_name": "AnyaPhysio1417",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1842,
+			"friends_count": 2915,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AnyaPhysio1417 We are being discouraged to use the word “baseline” .."
+	},
+	{
+		"created_at": "Tue Feb 25 22:41:09 +0000 2020",
+		"id": 1232435392483184600,
+		"id_str": "1232435392483184640",
+		"full_text": "@thecsp @amandamilling  - please support this event and back the #RightToRehab",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RightToRehab",
+					"indices": [
+						65,
+						78
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "amandamilling",
+					"name": "Amanda Milling",
+					"id": 381433782,
+					"id_str": "381433782",
+					"indices": [
+						8,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1231965926158983200,
+		"in_reply_to_status_id_str": "1231965926158983168",
+		"in_reply_to_user_id": 138098880,
+		"in_reply_to_user_id_str": "138098880",
+		"in_reply_to_screen_name": "thecsp",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1842,
+			"friends_count": 2915,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52041af7b8001313",
+			"url": "https://api.twitter.com/1.1/geo/id/52041af7b8001313.json",
+			"place_type": "city",
+			"name": "Rugeley",
+			"full_name": "Rugeley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.971255,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.773708
+						],
+						[
+							-1.971255,
+							52.773708
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@thecsp @amandamilling  - please support this event and back the #RightToRehab"
+	},
+	{
+		"created_at": "Tue Feb 25 22:01:36 +0000 2020",
+		"id": 1232425438808592400,
+		"id_str": "1232425438808592384",
+		"full_text": "@Jessmorris25 @wlv_health @wlv_physio Yes please. I have DM’ed you 😊👍",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jessmorris25",
+					"name": "Jessica Clough",
+					"id": 219058007,
+					"id_str": "219058007",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "wlv_health",
+					"name": "WLV Health",
+					"id": 2772820878,
+					"id_str": "2772820878",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "wlv_physio",
+					"name": "For students, by students.",
+					"id": 934855922949771300,
+					"id_str": "934855922949771265",
+					"indices": [
+						26,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1232403625437270000,
+		"in_reply_to_status_id_str": "1232403625437270018",
+		"in_reply_to_user_id": 219058007,
+		"in_reply_to_user_id_str": "219058007",
+		"in_reply_to_screen_name": "Jessmorris25",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1842,
+			"friends_count": 2915,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Jessmorris25 @wlv_health @wlv_physio Yes please. I have DM’ed you 😊👍"
+	},
+	{
+		"created_at": "Tue Feb 25 19:55:08 +0000 2020",
+		"id": 1232393610785644500,
+		"id_str": "1232393610785644548",
+		"full_text": "@Jessmorris25 @wlv_health @wlv_physio It’s been such a fascinating discussion &amp; I did not expect such a response.\n\nIs this a module on the @wlv_physio course? I would  like to see the syllabus - encouraging to hear it matches the responses.",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jessmorris25",
+					"name": "Jessica Clough",
+					"id": 219058007,
+					"id_str": "219058007",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "wlv_health",
+					"name": "WLV Health",
+					"id": 2772820878,
+					"id_str": "2772820878",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "wlv_physio",
+					"name": "For students, by students.",
+					"id": 934855922949771300,
+					"id_str": "934855922949771265",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"screen_name": "wlv_physio",
+					"name": "For students, by students.",
+					"id": 934855922949771300,
+					"id_str": "934855922949771265",
+					"indices": [
+						143,
+						154
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1232350597803913200,
+		"in_reply_to_status_id_str": "1232350597803913222",
+		"in_reply_to_user_id": 219058007,
+		"in_reply_to_user_id_str": "219058007",
+		"in_reply_to_screen_name": "Jessmorris25",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1842,
+			"friends_count": 2915,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Jessmorris25 @wlv_health @wlv_physio It’s been such a fascinating discussion &amp; I did not expect such a response.\n\nIs this a module on the @wlv_physio course? I would  like to see the syllabus - encouraging to hear it matches the responses."
+	},
+	{
 		"created_at": "Mon Feb 24 21:48:38 +0000 2020",
 		"id": 1232059788105846800,
 		"id_str": "1232059788105846785",
@@ -219,7 +732,7 @@ Grailbird.data.tweets_2020_02 =
 		"created_at": "Mon Feb 24 21:00:45 +0000 2020",
 		"id": 1232047735878176800,
 		"id_str": "1232047735878176771",
-		"full_text": "One for @gds115gds ⚡️👩‍🎤#TheThinWhiteBeardedPT @SpotifyUK https://t.co/aJ7ALtJw8q",
+		"full_text": "One for @gds115gds ⚡️👩🎤#TheThinWhiteBeardedPT @SpotifyUK https://t.co/aJ7ALtJw8q",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -446,7 +959,7 @@ Grailbird.data.tweets_2020_02 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "One for @gds115gds ⚡️👩‍🎤#TheThinWhiteBeardedPT @SpotifyUK https://t.co/aJ7ALtJw8q"
+		"text": "One for @gds115gds ⚡️👩🎤#TheThinWhiteBeardedPT @SpotifyUK https://t.co/aJ7ALtJw8q"
 	},
 	{
 		"created_at": "Mon Feb 24 20:14:21 +0000 2020",
