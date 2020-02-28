@@ -1,6 +1,493 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Thu Feb 27 17:42:24 +0000 2020",
+		"id": 1233083617775104000,
+		"id_str": "1233084983390220289",
+		"full_text": "@beardedPT @CharlotteHayers Thinking I recognise you from somewhere... oh yeah, Twitter! 😆",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "CharlotteHayers",
+					"name": "Charlotte Hayers",
+					"id": 417851867,
+					"id_str": "417851867",
+					"indices": [
+						11,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1233070660206964700,
+		"in_reply_to_status_id_str": "1233070660206964736",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 196719130,
+			"id_str": "196719130",
+			"name": "Lewis Lovegrove",
+			"screen_name": "_lewadam",
+			"location": "Lincoln",
+			"description": "MSc Physiotherapy Student @yorkstjohn | BSc Sports Therapist @leedsbeckett | @physiotalk Student | #exerciseismedicine",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 435,
+			"friends_count": 460,
+			"listed_count": 5,
+			"created_at": "Wed Sep 29 19:13:44 +0000 2010",
+			"favourites_count": 4750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1219710278574780416/BWkP-7lG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219710278574780416/BWkP-7lG_normal.jpg",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "2252832f3c4f1a3a",
+			"url": "https://api.twitter.com/1.1/geo/id/2252832f3c4f1a3a.json",
+			"place_type": "city",
+			"name": "Spilsby",
+			"full_name": "Spilsby, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							0.088442,
+							53.165767
+						],
+						[
+							0.104664,
+							53.165767
+						],
+						[
+							0.104664,
+							53.178597
+						],
+						[
+							0.088442,
+							53.178597
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@beardedPT @CharlotteHayers Thinking I recognise you from somewhere... oh yeah, Twitter! 😆"
+	},
+	{
+		"created_at": "Thu Feb 27 16:57:50 +0000 2020",
+		"id": 1233073770388217900,
+		"id_str": "1233073770388217856",
+		"full_text": "@CharlotteHayers * that meant to say: face to face ... 🤦🏻‍♂️👍",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CharlotteHayers",
+					"name": "Charlotte Hayers",
+					"id": 417851867,
+					"id_str": "417851867",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1233070660206964700,
+		"in_reply_to_status_id_str": "1233070660206964736",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1848,
+			"friends_count": 2918,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15702,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1f592b82aea688ff",
+			"url": "https://api.twitter.com/1.1/geo/id/1f592b82aea688ff.json",
+			"place_type": "city",
+			"name": "Derby",
+			"full_name": "Derby, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.556856,
+							52.870587
+						],
+						[
+							-1.384701,
+							52.870587
+						],
+						[
+							-1.384701,
+							52.960473
+						],
+						[
+							-1.556856,
+							52.960473
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CharlotteHayers * that meant to say: face to face ... 🤦🏻‍♂️👍"
+	},
+	{
+		"created_at": "Thu Feb 27 16:45:29 +0000 2020",
+		"id": 1233070660206964700,
+		"id_str": "1233070660206964736",
+		"full_text": "@CharlotteHayers Soon, you will be having those awkward introductions at events where you have interacted with them on Twitter but now your meeting first to face! \n\nSadly, Instagram is in the Facebook ecosystem &amp; Twitter is Twitter...",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CharlotteHayers",
+					"name": "Charlotte Hayers",
+					"id": 417851867,
+					"id_str": "417851867",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1232751170265010200,
+		"in_reply_to_status_id_str": "1232751170265010176",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1848,
+			"friends_count": 2918,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15702,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CharlotteHayers Soon, you will be having those awkward introductions at events where you have interacted with them on Twitter but now your meeting first to face! \n\nSadly, Instagram is in the Facebook ecosystem &amp; Twitter is Twitter..."
+	},
+	{
+		"created_at": "Thu Feb 27 13:07:38 +0000 2020",
+		"id": 1233015837138866200,
+		"id_str": "1233015837138866177",
+		"full_text": "@misssdjohnson @UniofNottingham Oh, the first drill! I hope it wasn’t too early...",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "misssdjohnson",
+					"name": "Stacy Johnson MBE",
+					"id": 170450545,
+					"id_str": "170450545",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "UniofNottingham",
+					"name": "Uni of Nottingham",
+					"id": 30196565,
+					"id_str": "30196565",
+					"indices": [
+						15,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1232947552988864500,
+		"in_reply_to_status_id_str": "1232947552988864516",
+		"in_reply_to_user_id": 170450545,
+		"in_reply_to_user_id_str": "170450545",
+		"in_reply_to_screen_name": "misssdjohnson",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1848,
+			"friends_count": 2918,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15702,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5667,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228786991996768256/OFX9cl82_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@misssdjohnson @UniofNottingham Oh, the first drill! I hope it wasn’t too early..."
+	},
+	{
 		"created_at": "Wed Feb 26 19:44:48 +0000 2020",
 		"id": 1232753401190109200,
 		"id_str": "1232753401190109192",
