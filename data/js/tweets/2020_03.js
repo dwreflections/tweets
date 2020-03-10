@@ -1,6 +1,863 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Mon Mar 09 21:34:12 +0000 2020",
+		"id": 1237079744564387800,
+		"id_str": "1237129586523209730",
+		"full_text": "@_lewadam Zotero 😍 - if you know you know",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_lewadam",
+					"name": "Lewis Lovegrove",
+					"id": 196719130,
+					"id_str": "196719130",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1237077556073021400,
+		"in_reply_to_status_id_str": "1237077556073021441",
+		"in_reply_to_user_id": 196719130,
+		"in_reply_to_user_id_str": "196719130",
+		"in_reply_to_screen_name": "_lewadam",
+		"user": {
+			"id": 167470751,
+			"id_str": "167470751",
+			"name": "Jack Morton",
+			"screen_name": "_JMorton",
+			"location": "London, England",
+			"description": "Doctoral Researcher at @StoryFutures • Geographer • @RHULGeography • Tech • Politics • Creativity • Views are my own •",
+			"url": "https://t.co/MlC9y4v84y",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MlC9y4v84y",
+							"expanded_url": "https://Instagram.com/_JMORTON",
+							"display_url": "Instagram.com/_JMORTON",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 494,
+			"friends_count": 267,
+			"listed_count": 2,
+			"created_at": "Fri Jul 16 17:37:39 +0000 2010",
+			"favourites_count": 2937,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225426572456448002/K2B9_weY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225426572456448002/K2B9_weY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/167470751/1576146171",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C9C9C9",
+			"profile_text_color": "1C1F23",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@_lewadam Zotero 😍 - if you know you know"
+	},
+	{
+		"created_at": "Mon Mar 09 21:23:10 +0000 2020",
+		"id": 1236277329212702700,
+		"id_str": "1237126806488129543",
+		"full_text": "Find out more about what our fantastic physiotherapist do “physios change lives” #WearetheNHS #physiotherapy @thecsp @DorsetAhps @RBCH_NHS https://t.co/VMEyZc68Q8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WearetheNHS",
+					"indices": [
+						81,
+						93
+					]
+				},
+				{
+					"text": "physiotherapy",
+					"indices": [
+						94,
+						108
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"screen_name": "DorsetAhps",
+					"name": "Dorset AHPs",
+					"id": 1026923699302219800,
+					"id_str": "1026923699302219776",
+					"indices": [
+						117,
+						128
+					]
+				},
+				{
+					"screen_name": "RBCH_NHS",
+					"name": "Bournemouth Hospital",
+					"id": 1248783444,
+					"id_str": "1248783444",
+					"indices": [
+						129,
+						138
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VMEyZc68Q8",
+					"expanded_url": "https://twitter.com/thecsp/status/1236239670092038145",
+					"display_url": "twitter.com/thecsp/status/…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 143410224,
+			"id_str": "143410224",
+			"name": "Amanda Weaver",
+			"screen_name": "amandaweaves",
+			"location": "Bournemouth",
+			"description": "Professional Lead - Physiotherapy Passionate about Newly Qualified Therapists, staff training & development, staff wellbeing, Preceptorship & Leadership skills.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 641,
+			"friends_count": 1435,
+			"listed_count": 6,
+			"created_at": "Thu May 13 11:41:03 +0000 2010",
+			"favourites_count": 10345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3130,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183076342813749250/fvRoc4A-_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183076342813749250/fvRoc4A-_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/143410224/1581619713",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1236239670092038100,
+		"quoted_status_id_str": "1236239670092038145",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VMEyZc68Q8",
+			"expanded": "https://twitter.com/thecsp/status/1236239670092038145",
+			"display": "twitter.com/thecsp/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 07 10:38:00 +0000 2020",
+			"id": 1236239670092038100,
+			"id_str": "1236239670092038145",
+			"full_text": "'Physios change lives' - fantastic to see physiotherapy featured in the new #WearetheNHS campaign by @DHSCgovuk. \n\nFind out more: https://t.co/c4X716zR2U https://t.co/tvumzRwqYB",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				153
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WearetheNHS",
+						"indices": [
+							76,
+							88
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DHSCgovuk",
+						"name": "Department of Health and Social Care",
+						"id": 37963496,
+						"id_str": "37963496",
+						"indices": [
+							101,
+							111
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/c4X716zR2U",
+						"expanded_url": "https://engage.dhsc.gov.uk/ournhs/nhscareers/",
+						"display_url": "engage.dhsc.gov.uk/ournhs/nhscare…",
+						"indices": [
+							130,
+							153
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1235913581486657500,
+						"id_str": "1235913581486657537",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/media/ESbZCVjWkAE9RiW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESbZCVjWkAE9RiW.jpg",
+						"url": "https://t.co/tvumzRwqYB",
+						"display_url": "pic.twitter.com/tvumzRwqYB",
+						"expanded_url": "https://twitter.com/thecsp/status/1236239670092038145/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1235913581486657500,
+						"id_str": "1235913581486657537",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/media/ESbZCVjWkAE9RiW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/ESbZCVjWkAE9RiW.jpg",
+						"url": "https://t.co/tvumzRwqYB",
+						"display_url": "pic.twitter.com/tvumzRwqYB",
+						"expanded_url": "https://twitter.com/thecsp/status/1236239670092038145/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 47920,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1235913581486657537/vid/720x720/2vSrhXN6-7iRc7WL.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1235913581486657537/pl/W-UQJuEdXxsr2F9I.m3u8?tag=13"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1235913581486657537/vid/320x320/9DFWB_H8Yph_KCi8.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1235913581486657537/vid/480x480/xr5rMgwbYSUyEMC1.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 138098880,
+				"id_str": "138098880",
+				"name": "Chartered Society of Physiotherapy",
+				"screen_name": "thecsp",
+				"location": "United Kingdom",
+				"description": "Chartered Society of Physiotherapy (CSP) - the professional, educational and union body for 59,000 UK-chartered physiotherapists, students and support workers.",
+				"url": "https://t.co/0zvCGRCWPh",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0zvCGRCWPh",
+								"expanded_url": "http://www.csp.org.uk",
+								"display_url": "csp.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 47899,
+				"friends_count": 1328,
+				"listed_count": 332,
+				"created_at": "Wed Apr 28 16:27:18 +0000 2010",
+				"favourites_count": 5591,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 13986,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "E6E3DC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/902851531388534785/RRRJKVa0_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/902851531388534785/RRRJKVa0_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/138098880/1582703122",
+				"profile_link_color": "252673",
+				"profile_sidebar_border_color": "C9C9C9",
+				"profile_sidebar_fill_color": "E3E3E3",
+				"profile_text_color": "757575",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 592,
+			"favorite_count": 948,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Find out more about what our fantastic physiotherapist do “physios change lives” #WearetheNHS #physiotherapy @thecsp @DorsetAhps @RBCH_NHS https://t.co/VMEyZc68Q8"
+	},
+	{
+		"created_at": "Mon Mar 09 19:32:48 +0000 2020",
+		"id": 1237099033853821000,
+		"id_str": "1237099033853820929",
+		"full_text": "@LHicksPhysio @JoeThomasPhysio @DerbyPhysioOPD https://t.co/2QvwGpb6Te",
+		"truncated": false,
+		"display_text_range": [
+			46,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LHicksPhysio",
+					"name": "Louis Hicks",
+					"id": 1088876549691109400,
+					"id_str": "1088876549691109378",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "JoeThomasPhysio",
+					"name": "Joe Thomas",
+					"id": 989454211778797600,
+					"id_str": "989454211778797568",
+					"indices": [
+						14,
+						30
+					]
+				},
+				{
+					"screen_name": "DerbyPhysioOPD",
+					"name": "Derby Therapies OPD",
+					"id": 923868733034106900,
+					"id_str": "923868733034106880",
+					"indices": [
+						31,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1237099026258047000,
+					"id_str": "1237099026258046983",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ESsPAowXsAc-GS3.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ESsPAowXsAc-GS3.jpg",
+					"url": "https://t.co/2QvwGpb6Te",
+					"display_url": "pic.twitter.com/2QvwGpb6Te",
+					"expanded_url": "https://twitter.com/beardedPT/status/1237099033853820929/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1237099026258047000,
+					"id_str": "1237099026258046983",
+					"indices": [
+						47,
+						70
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ESsPAowXsAc-GS3.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ESsPAowXsAc-GS3.jpg",
+					"url": "https://t.co/2QvwGpb6Te",
+					"display_url": "pic.twitter.com/2QvwGpb6Te",
+					"expanded_url": "https://twitter.com/beardedPT/status/1237099033853820929/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ESsPAowXsAc-GS3.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1237094514231304200,
+		"in_reply_to_status_id_str": "1237094514231304193",
+		"in_reply_to_user_id": 1088876549691109400,
+		"in_reply_to_user_id_str": "1088876549691109378",
+		"in_reply_to_screen_name": "LHicksPhysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1881,
+			"friends_count": 2943,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@LHicksPhysio @JoeThomasPhysio @DerbyPhysioOPD https://t.co/2QvwGpb6Te"
+	},
+	{
+		"created_at": "Mon Mar 09 19:16:52 +0000 2020",
+		"id": 1237095022782288000,
+		"id_str": "1237095022782287873",
+		"full_text": "@GatesPhysio @Conor_Harris_ @MaxVanDerVelden @benedsmith @Prof_Littlewood https://t.co/7SDqsbRRey",
+		"truncated": false,
+		"display_text_range": [
+			74,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GatesPhysio",
+					"name": "John Gates",
+					"id": 451401278,
+					"id_str": "451401278",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Conor_Harris_",
+					"name": "Conor Harris",
+					"id": 780100976816468000,
+					"id_str": "780100976816467968",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"screen_name": "MaxVanDerVelden",
+					"name": "Max van der Velden",
+					"id": 743786478,
+					"id_str": "743786478",
+					"indices": [
+						28,
+						44
+					]
+				},
+				{
+					"screen_name": "benedsmith",
+					"name": "Ben Smith",
+					"id": 22659623,
+					"id_str": "22659623",
+					"indices": [
+						45,
+						56
+					]
+				},
+				{
+					"screen_name": "Prof_Littlewood",
+					"name": "Chris Littlewood",
+					"id": 1210990599618220000,
+					"id_str": "1210990599618220032",
+					"indices": [
+						57,
+						73
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7SDqsbRRey",
+					"expanded_url": "https://casp-uk.net/casp-tools-checklists/",
+					"display_url": "casp-uk.net/casp-tools-che…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1236913595541225500,
+		"in_reply_to_status_id_str": "1236913595541225472",
+		"in_reply_to_user_id": 451401278,
+		"in_reply_to_user_id_str": "451401278",
+		"in_reply_to_screen_name": "GatesPhysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1881,
+			"friends_count": 2943,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@GatesPhysio @Conor_Harris_ @MaxVanDerVelden @benedsmith @Prof_Littlewood https://t.co/7SDqsbRRey"
+	},
+	{
 		"created_at": "Sun Mar 08 13:19:47 +0000 2020",
 		"id": 1236642771143983000,
 		"id_str": "1236642771143983105",
