@@ -1,6 +1,96 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 12 17:52:03 +0000 2020",
+		"id": 1237802822500057000,
+		"id_str": "1238160841805123584",
+		"full_text": "Also to all those who aren’t confident, I’m not either! It’s a fake it till you make it thing and knowing that ultimately you are okay with being you. Perfection is not necessary and is very very overrated! #150Leaders",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "150Leaders",
+					"indices": [
+						207,
+						218
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 596698312,
+			"id_str": "596698312",
+			"name": "countryptstudent",
+			"screen_name": "G_e_o_r_g_i_a_1",
+			"location": "",
+			"description": "Student and lover of pups",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 87,
+			"friends_count": 59,
+			"listed_count": 1,
+			"created_at": "Fri Jun 01 18:36:43 +0000 2012",
+			"favourites_count": 462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1215238564755144707/TpSKWezi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1215238564755144707/TpSKWezi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/596698312/1507588338",
+			"profile_link_color": "89C9FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Also to all those who aren’t confident, I’m not either! It’s a fake it till you make it thing and knowing that ultimately you are okay with being you. Perfection is not necessary and is very very overrated! #150Leaders"
+	},
+	{
 		"created_at": "Wed Mar 11 20:07:04 +0000 2020",
 		"id": 1237832432025505800,
 		"id_str": "1237832432025505792",
