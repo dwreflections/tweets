@@ -1,6 +1,341 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 17 20:13:06 +0000 2020",
+		"id": 1240008278215663600,
+		"id_str": "1240008278215663621",
+		"full_text": "💪 stay strong alll! https://t.co/WM9x5u6wUX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WM9x5u6wUX",
+					"expanded_url": "https://twitter.com/physio_sydney/status/1239838621575905282",
+					"display_url": "twitter.com/physio_sydney/…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1889,
+			"friends_count": 2951,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5725,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1239838621575905300,
+		"quoted_status_id_str": "1239838621575905282",
+		"quoted_status_permalink": {
+			"url": "https://t.co/WM9x5u6wUX",
+			"expanded": "https://twitter.com/physio_sydney/status/1239838621575905282",
+			"display": "twitter.com/physio_sydney/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 17 08:58:57 +0000 2020",
+			"id": 1239838621575905300,
+			"id_str": "1239838621575905282",
+			"full_text": "Physiotherapy cohort 2017 have had the brunt of everything over the past 3 years. Being in the unknown of what is going to happen with our degree is distressing for all of us 😩",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				176
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 927642873587290100,
+				"id_str": "927642873587290113",
+				"name": "Sydney Cox",
+				"screen_name": "Physio_Sydney",
+				"location": "Coventry, England",
+				"description": "3rd year Physiotherapy Student at Coventry University. CSP rep. Level 5 sports masseuse ☺️",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 212,
+				"friends_count": 320,
+				"listed_count": 1,
+				"created_at": "Mon Nov 06 21:04:30 +0000 2017",
+				"favourites_count": 765,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 435,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1040256514760564736/KGi1Wd7k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040256514760564736/KGi1Wd7k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/927642873587290113/1517870150",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 48,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "💪 stay strong alll! https://t.co/WM9x5u6wUX"
+	},
+	{
+		"created_at": "Tue Mar 17 19:37:26 +0000 2020",
+		"id": 1239599074120216600,
+		"id_str": "1239999304774934528",
+		"full_text": "FAO #ICU #Respiratory Doctors and Nurses all over the world\n\nYour #Physiotherapists are planning &amp; preparing to support you during the #COVID19 crisis\n\nWe are willing, able and upskilling our colleagues to support the potential increase in patients requiring admission 1/4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ICU",
+					"indices": [
+						4,
+						8
+					]
+				},
+				{
+					"text": "Respiratory",
+					"indices": [
+						9,
+						21
+					]
+				},
+				{
+					"text": "Physiotherapists",
+					"indices": [
+						66,
+						83
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						139,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 107548705,
+			"id_str": "107548705",
+			"name": "rachael moses",
+			"screen_name": "rachaelmoses",
+			"location": "Lancashire Teaching Hospitals",
+			"description": "Consultant Respiratory Physio. Passionate about patients, education, leadership #gmbhealthstar #HSJAwards #NWCAwards2018 #AHAwards #HealthHero #NHS70 finalist",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9098,
+			"friends_count": 1272,
+			"listed_count": 39,
+			"created_at": "Fri Jan 22 23:15:52 +0000 2010",
+			"favourites_count": 14724,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11347,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1154461452197126145/H1AzB9z5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154461452197126145/H1AzB9z5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/107548705/1493115352",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6b3c65dcd61dbec3",
+			"url": "https://api.twitter.com/1.1/geo/id/6b3c65dcd61dbec3.json",
+			"place_type": "city",
+			"name": "Whitley Bay",
+			"full_name": "Whitley Bay, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.498746,
+							54.988178
+						],
+						[
+							-1.417312,
+							54.988178
+						],
+						[
+							-1.417312,
+							55.0678405
+						],
+						[
+							-1.498746,
+							55.0678405
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 107,
+		"favorite_count": 417,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "FAO #ICU #Respiratory Doctors and Nurses all over the world\n\nYour #Physiotherapists are planning &amp; preparing to support you during the #COVID19 crisis\n\nWe are willing, able and upskilling our colleagues to support the potential increase in patients requiring admission 1/4"
+	},
+	{
 		"created_at": "Mon Mar 16 20:37:24 +0000 2020",
 		"id": 1239652004651241500,
 		"id_str": "1239652004651241473",
