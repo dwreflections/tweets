@@ -1,6 +1,442 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Thu Mar 19 22:18:51 +0000 2020",
+		"id": 1240764699664318500,
+		"id_str": "1240764699664318464",
+		"full_text": "@jemhug_ @150Leaders @Deli_1102 Definitely! Needed more now than ever... 👍👍",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jemhug_",
+					"name": "Jemma",
+					"id": 1234935339489398800,
+					"id_str": "1234935339489398787",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "150Leaders",
+					"name": "#150Leaders",
+					"id": 1139187039151280100,
+					"id_str": "1139187039151280128",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"screen_name": "Deli_1102",
+					"name": "Adele Nightingale",
+					"id": 322821191,
+					"id_str": "322821191",
+					"indices": [
+						21,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1240726878488539100,
+		"in_reply_to_status_id_str": "1240726878488539137",
+		"in_reply_to_user_id": 1234935339489398800,
+		"in_reply_to_user_id_str": "1234935339489398787",
+		"in_reply_to_screen_name": "jemhug_",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1892,
+			"friends_count": 2953,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jemhug_ @150Leaders @Deli_1102 Definitely! Needed more now than ever... 👍👍"
+	},
+	{
+		"created_at": "Thu Mar 19 19:24:53 +0000 2020",
+		"id": 1240720918059589600,
+		"id_str": "1240720918059589634",
+		"full_text": "Brilliant to see ⬇️👍 @thecsp @thecspstudents #Leadership https://t.co/4IoRFDKb1S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Leadership",
+					"indices": [
+						45,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"screen_name": "thecspstudents",
+					"name": "CSP Students",
+					"id": 444648690,
+					"id_str": "444648690",
+					"indices": [
+						29,
+						44
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4IoRFDKb1S",
+					"expanded_url": "https://twitter.com/gillrphysio/status/1240567190748909569",
+					"display_url": "twitter.com/gillrphysio/st…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1892,
+			"friends_count": 2953,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15926,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5733,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1240567190748909600,
+		"quoted_status_id_str": "1240567190748909569",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4IoRFDKb1S",
+			"expanded": "https://twitter.com/gillrphysio/status/1240567190748909569",
+			"display": "twitter.com/gillrphysio/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 19 09:14:01 +0000 2020",
+			"id": 1240567190748909600,
+			"id_str": "1240567190748909569",
+			"full_text": "I just want to assure @thecspstudents that at the @thecsp we working hard with national #ahp leads &amp; @The_HCPC look to at how final yr #physio students can be #safe #proficient &amp; sup the frontline workforce\nIn close contact with prog leaders.  \n🙏🏻at this v difficult time 😊",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				281
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ahp",
+						"indices": [
+							88,
+							92
+						]
+					},
+					{
+						"text": "physio",
+						"indices": [
+							139,
+							146
+						]
+					},
+					{
+						"text": "safe",
+						"indices": [
+							163,
+							168
+						]
+					},
+					{
+						"text": "proficient",
+						"indices": [
+							169,
+							180
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thecspstudents",
+						"name": "CSP Students",
+						"id": 444648690,
+						"id_str": "444648690",
+						"indices": [
+							22,
+							37
+						]
+					},
+					{
+						"screen_name": "thecsp",
+						"name": "Chartered Society of Physiotherapy",
+						"id": 138098880,
+						"id_str": "138098880",
+						"indices": [
+							50,
+							57
+						]
+					},
+					{
+						"screen_name": "The_HCPC",
+						"name": "HCPC",
+						"id": 248638030,
+						"id_str": "248638030",
+						"indices": [
+							105,
+							114
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3389030231,
+				"id_str": "3389030231",
+				"name": "Gillian Rawlinson",
+				"screen_name": "GillRphysio",
+				"location": "North West, England",
+				"description": "Asst Director Prac & Development @thecsp #edu #workforce |Ex HEE fellow| Adv MSK physio @Salfordroyalnhs |PhD stu | Baker| mum| netballer | #acp #msk |views own",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1949,
+				"friends_count": 1323,
+				"listed_count": 13,
+				"created_at": "Thu Jul 23 11:35:04 +0000 2015",
+				"favourites_count": 4985,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3324,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1220704591005847553/bcl2GLcK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220704591005847553/bcl2GLcK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3389030231/1579873630",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0cbfb5dccb8131b8",
+				"url": "https://api.twitter.com/1.1/geo/id/0cbfb5dccb8131b8.json",
+				"place_type": "admin",
+				"name": "North West",
+				"full_name": "North West, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-3.64063699761414,
+								52.9471313094526
+							],
+							[
+								-1.90962598338825,
+								52.9471313094526
+							],
+							[
+								-1.90962598338825,
+								55.1888787527094
+							],
+							[
+								-3.64063699761414,
+								55.1888787527094
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 43,
+			"favorite_count": 142,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Brilliant to see ⬇️👍 @thecsp @thecspstudents #Leadership https://t.co/4IoRFDKb1S"
+	},
+	{
 		"created_at": "Wed Mar 18 21:24:38 +0000 2020",
 		"id": 1240388668684206000,
 		"id_str": "1240388668684206082",
