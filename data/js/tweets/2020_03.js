@@ -1,6 +1,588 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 22 16:48:36 +0000 2020",
+		"id": 1241768754091970600,
+		"id_str": "1241768754091970560",
+		"full_text": "@SportsRehabber Well aware 👍 ... it could of probably been mitigated by delaying the start time slightly. Several hundred NHS queuing in close proximity for 20 minutes is far from ideal.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SportsRehabber",
+					"name": "Hope",
+					"id": 903254103622549500,
+					"id_str": "903254103622549504",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1241764432407117800,
+		"in_reply_to_status_id_str": "1241764432407117828",
+		"in_reply_to_user_id": 903254103622549500,
+		"in_reply_to_user_id_str": "903254103622549504",
+		"in_reply_to_screen_name": "SportsRehabber",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1895,
+			"friends_count": 2957,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SportsRehabber Well aware 👍 ... it could of probably been mitigated by delaying the start time slightly. Several hundred NHS queuing in close proximity for 20 minutes is far from ideal."
+	},
+	{
+		"created_at": "Sun Mar 22 15:59:46 +0000 2020",
+		"id": 1241756463799898000,
+		"id_str": "1241756463799898112",
+		"full_text": "@quickphysio @Tesco It was the not opening of the tills till 1000 that was more of the problem...",
+		"truncated": false,
+		"display_text_range": [
+			20,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "quickphysio",
+					"name": "Robert Quick",
+					"id": 708301585986809900,
+					"id_str": "708301585986809856",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Tesco",
+					"name": "Tesco",
+					"id": 271986064,
+					"id_str": "271986064",
+					"indices": [
+						13,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1241658854724829200,
+		"in_reply_to_status_id_str": "1241658854724829185",
+		"in_reply_to_user_id": 708301585986809900,
+		"in_reply_to_user_id_str": "708301585986809856",
+		"in_reply_to_screen_name": "quickphysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1895,
+			"friends_count": 2957,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@quickphysio @Tesco It was the not opening of the tills till 1000 that was more of the problem..."
+	},
+	{
+		"created_at": "Sun Mar 22 14:16:15 +0000 2020",
+		"id": 1241730412461858800,
+		"id_str": "1241730412461858816",
+		"full_text": "@Shaun_LDNurse @StNurseProject @WeStudentNurse I’m still baffled by the guy queuing up with his partner in the #NHS hour @tescos in his ambulance uniform...",
+		"truncated": false,
+		"display_text_range": [
+			47,
+			156
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NHS",
+					"indices": [
+						111,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Shaun_LDNurse",
+					"name": "Shaun Williams",
+					"id": 901055791515435000,
+					"id_str": "901055791515435008",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "StNurseProject",
+					"name": "The Student Nurse Project",
+					"id": 943543366381375500,
+					"id_str": "943543366381375488",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "WeStudentNurse",
+					"name": "WeStudentNurses",
+					"id": 939235274554560500,
+					"id_str": "939235274554560512",
+					"indices": [
+						31,
+						46
+					]
+				},
+				{
+					"screen_name": "Tescos",
+					"name": "Tesco CCTV",
+					"id": 19822725,
+					"id_str": "19822725",
+					"indices": [
+						121,
+						128
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1241654482263515100,
+		"in_reply_to_status_id_str": "1241654482263515136",
+		"in_reply_to_user_id": 901055791515435000,
+		"in_reply_to_user_id_str": "901055791515435008",
+		"in_reply_to_screen_name": "Shaun_LDNurse",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1895,
+			"friends_count": 2957,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15946,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Shaun_LDNurse @StNurseProject @WeStudentNurse I’m still baffled by the guy queuing up with his partner in the #NHS hour @tescos in his ambulance uniform..."
+	},
+	{
+		"created_at": "Sun Mar 22 13:07:37 +0000 2020",
+		"id": 1241469059822170000,
+		"id_str": "1241713142918516737",
+		"full_text": "RIP @_KennyRogers you and @DollyParton have given us #inspiration for managing during #Covid_19 #SelfIsolation https://t.co/N7jFr0wcgC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "inspiration",
+					"indices": [
+						53,
+						65
+					]
+				},
+				{
+					"text": "Covid_19",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"text": "SelfIsolation",
+					"indices": [
+						96,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_KennyRogers",
+					"name": "Kenny Rogers",
+					"id": 299335572,
+					"id_str": "299335572",
+					"indices": [
+						4,
+						17
+					]
+				},
+				{
+					"screen_name": "DollyParton",
+					"name": "Dolly Parton",
+					"id": 14790966,
+					"id_str": "14790966",
+					"indices": [
+						26,
+						38
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1241468531348320300,
+					"id_str": "1241468531348320264",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241468531348320264/pu/img/jnYX-295qaOdWS2G.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241468531348320264/pu/img/jnYX-295qaOdWS2G.jpg",
+					"url": "https://t.co/N7jFr0wcgC",
+					"display_url": "pic.twitter.com/N7jFr0wcgC",
+					"expanded_url": "https://twitter.com/johnishappier/status/1241469059822170112/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1241468531348320300,
+					"id_str": "1241468531348320264",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1241468531348320264/pu/img/jnYX-295qaOdWS2G.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1241468531348320264/pu/img/jnYX-295qaOdWS2G.jpg",
+					"url": "https://t.co/N7jFr0wcgC",
+					"display_url": "pic.twitter.com/N7jFr0wcgC",
+					"expanded_url": "https://twitter.com/johnishappier/status/1241469059822170112/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							30,
+							17
+						],
+						"duration_millis": 140001,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1241468531348320264/pu/pl/WgBr0xQMJtUXQGfv.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1241468531348320264/pu/vid/480x272/NCKSYcJ-DzW0fm02.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3121854597,
+			"id_str": "3121854597",
+			"name": "John A. Hammond",
+			"screen_name": "johnishappier",
+			"location": "London, England",
+			"description": "physiotherapy educator for social justice. Prounouns: he him his",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 620,
+			"friends_count": 574,
+			"listed_count": 0,
+			"created_at": "Fri Mar 27 18:10:43 +0000 2015",
+			"favourites_count": 1416,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 756,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/586201799612313602/IX8w7QC__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/586201799612313602/IX8w7QC__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3121854597/1569077626",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 43,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "RIP @_KennyRogers you and @DollyParton have given us #inspiration for managing during #Covid_19 #SelfIsolation https://t.co/N7jFr0wcgC"
+	},
+	{
 		"created_at": "Sat Mar 21 07:48:56 +0000 2020",
 		"id": 1241270552481824800,
 		"id_str": "1241270552481824768",
