@@ -1,6 +1,715 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 24 22:06:38 +0000 2020",
+		"id": 1242573565301530600,
+		"id_str": "1242573565301530627",
+		"full_text": "@KMiddletonCSP @SuzanneRastrick @RuthCr @Carolyncahpo @jennykeaneCAHPO 👏",
+		"truncated": false,
+		"display_text_range": [
+			71,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KMiddletonCSP",
+					"name": "Karen Middleton",
+					"id": 791233063,
+					"id_str": "791233063",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "SuzanneRastrick",
+					"name": "Suzanne Rastrick",
+					"id": 1596992540,
+					"id_str": "1596992540",
+					"indices": [
+						15,
+						31
+					]
+				},
+				{
+					"screen_name": "RuthCr",
+					"name": "Ruth Crowder",
+					"id": 158678111,
+					"id_str": "158678111",
+					"indices": [
+						32,
+						39
+					]
+				},
+				{
+					"screen_name": "Carolyncahpo",
+					"name": "Carolyn McDonald",
+					"id": 557624352,
+					"id_str": "557624352",
+					"indices": [
+						40,
+						53
+					]
+				},
+				{
+					"screen_name": "jennykeaneCAHPO",
+					"name": "Jennifer Keane",
+					"id": 4136155768,
+					"id_str": "4136155768",
+					"indices": [
+						54,
+						70
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1242409374150262800,
+		"in_reply_to_status_id_str": "1242409374150262785",
+		"in_reply_to_user_id": 791233063,
+		"in_reply_to_user_id_str": "791233063",
+		"in_reply_to_screen_name": "KMiddletonCSP",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1898,
+			"friends_count": 2959,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@KMiddletonCSP @SuzanneRastrick @RuthCr @Carolyncahpo @jennykeaneCAHPO 👏"
+	},
+	{
+		"created_at": "Tue Mar 24 22:06:25 +0000 2020",
+		"id": 1242409374150262800,
+		"id_str": "1242573510280646656",
+		"full_text": "This thread explains why we are pushing for this to be sorted ASAP-and not just in England! @SuzanneRastrick @RuthCr @Carolyncahpo @jennykeaneCAHPO \nThis is now critical! https://t.co/QJEvqvMYar",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SuzanneRastrick",
+					"name": "Suzanne Rastrick",
+					"id": 1596992540,
+					"id_str": "1596992540",
+					"indices": [
+						92,
+						108
+					]
+				},
+				{
+					"screen_name": "RuthCr",
+					"name": "Ruth Crowder",
+					"id": 158678111,
+					"id_str": "158678111",
+					"indices": [
+						109,
+						116
+					]
+				},
+				{
+					"screen_name": "Carolyncahpo",
+					"name": "Carolyn McDonald",
+					"id": 557624352,
+					"id_str": "557624352",
+					"indices": [
+						117,
+						130
+					]
+				},
+				{
+					"screen_name": "jennykeaneCAHPO",
+					"name": "Jennifer Keane",
+					"id": 4136155768,
+					"id_str": "4136155768",
+					"indices": [
+						131,
+						147
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QJEvqvMYar",
+					"expanded_url": "https://twitter.com/rachaelmoses/status/1240727321893654529",
+					"display_url": "twitter.com/rachaelmoses/s…",
+					"indices": [
+						171,
+						194
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 791233063,
+			"id_str": "791233063",
+			"name": "Karen Middleton",
+			"screen_name": "KMiddletonCSP",
+			"location": "",
+			"description": "Chief Executive of the Chartered Society of Physiotherapy and Visiting Professor at Leeds Beckett University-very proud of both!",
+			"url": "https://t.co/0zvCGRCWPh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0zvCGRCWPh",
+							"expanded_url": "http://www.csp.org.uk",
+							"display_url": "csp.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16015,
+			"friends_count": 663,
+			"listed_count": 144,
+			"created_at": "Thu Aug 30 09:38:56 +0000 2012",
+			"favourites_count": 34977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 50764,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136281315311939585/qcIstOyW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136281315311939585/qcIstOyW_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1240727321893654500,
+		"quoted_status_id_str": "1240727321893654529",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QJEvqvMYar",
+			"expanded": "https://twitter.com/rachaelmoses/status/1240727321893654529",
+			"display": "twitter.com/rachaelmoses/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 19 19:50:19 +0000 2020",
+			"id": 1240727321893654500,
+			"id_str": "1240727321893654529",
+			"full_text": "@NHSEngland @PHE_uk NHS Managers:\nCan I kindly make this really clear why #Respiratory #Physiotherapy is an Aerosol Generating Procedure and your staff need correct and ineffective protective equipment during #COVID19 1/8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				221
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Respiratory",
+						"indices": [
+							74,
+							86
+						]
+					},
+					{
+						"text": "Physiotherapy",
+						"indices": [
+							87,
+							101
+						]
+					},
+					{
+						"text": "COVID19",
+						"indices": [
+							209,
+							217
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NHSEngland",
+						"name": "NHS England and NHS Improvement",
+						"id": 551426814,
+						"id_str": "551426814",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"screen_name": "PHE_uk",
+						"name": "Public Health England",
+						"id": 41822696,
+						"id_str": "41822696",
+						"indices": [
+							12,
+							19
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": 551426814,
+			"in_reply_to_user_id_str": "551426814",
+			"in_reply_to_screen_name": "NHSEngland",
+			"user": {
+				"id": 107548705,
+				"id_str": "107548705",
+				"name": "rachael moses",
+				"screen_name": "rachaelmoses",
+				"location": "Lancashire Teaching Hospitals",
+				"description": "Consultant Respiratory Physio. Passionate about patients, education, leadership #gmbhealthstar #HSJAwards #NWCAwards2018 #AHAwards #HealthHero #NHS70 finalist",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10246,
+				"friends_count": 1286,
+				"listed_count": 41,
+				"created_at": "Fri Jan 22 23:15:52 +0000 2010",
+				"favourites_count": 14985,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11563,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1154461452197126145/H1AzB9z5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154461452197126145/H1AzB9z5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/107548705/1493115352",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "232d6454d6094e9b",
+				"url": "https://api.twitter.com/1.1/geo/id/232d6454d6094e9b.json",
+				"place_type": "city",
+				"name": "Preston",
+				"full_name": "Preston, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-2.775262,
+								53.74809
+							],
+							[
+								-2.628013,
+								53.74809
+							],
+							[
+								-2.628013,
+								53.8000915
+							],
+							[
+								-2.775262,
+								53.8000915
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 221,
+			"favorite_count": 401,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 28,
+		"favorite_count": 59,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This thread explains why we are pushing for this to be sorted ASAP-and not just in England! @SuzanneRastrick @RuthCr @Carolyncahpo @jennykeaneCAHPO \nThis is now critical! https://t.co/QJEvqvMYar"
+	},
+	{
+		"created_at": "Tue Mar 24 18:35:41 +0000 2020",
+		"id": 1242520477622509600,
+		"id_str": "1242520477622509568",
+		"full_text": "@saz1420 @sajajohnson @ClareMcPlus4 @rachaelmoses 💯",
+		"truncated": false,
+		"display_text_range": [
+			50,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "saz1420",
+					"name": "Sarah 🦄",
+					"id": 2968451458,
+					"id_str": "2968451458",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "sajajohnson",
+					"name": "Sarah Johnson",
+					"id": 380416371,
+					"id_str": "380416371",
+					"indices": [
+						9,
+						21
+					]
+				},
+				{
+					"screen_name": "ClareMcPlus4",
+					"name": "Clare McIntyre 🌹#StayHomeSaveLives",
+					"id": 141729088,
+					"id_str": "141729088",
+					"indices": [
+						22,
+						35
+					]
+				},
+				{
+					"screen_name": "rachaelmoses",
+					"name": "rachael moses",
+					"id": 107548705,
+					"id_str": "107548705",
+					"indices": [
+						36,
+						49
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1242519939141034000,
+		"in_reply_to_status_id_str": "1242519939141033984",
+		"in_reply_to_user_id": 2968451458,
+		"in_reply_to_user_id_str": "2968451458",
+		"in_reply_to_screen_name": "saz1420",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1898,
+			"friends_count": 2959,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@saz1420 @sajajohnson @ClareMcPlus4 @rachaelmoses 💯"
+	},
+	{
+		"created_at": "Tue Mar 24 17:22:46 +0000 2020",
+		"id": 1242502129094361000,
+		"id_str": "1242502129094361089",
+		"full_text": "@sajajohnson @ClareMcPlus4 @rachaelmoses ⬆️",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sajajohnson",
+					"name": "Sarah Johnson",
+					"id": 380416371,
+					"id_str": "380416371",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "ClareMcPlus4",
+					"name": "Clare McIntyre 🌹#StayHomeSaveLives",
+					"id": 141729088,
+					"id_str": "141729088",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "rachaelmoses",
+					"name": "rachael moses",
+					"id": 107548705,
+					"id_str": "107548705",
+					"indices": [
+						27,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1242421298673975300,
+		"in_reply_to_status_id_str": "1242421298673975301",
+		"in_reply_to_user_id": 380416371,
+		"in_reply_to_user_id_str": "380416371",
+		"in_reply_to_screen_name": "sajajohnson",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1898,
+			"friends_count": 2959,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15969,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5747,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@sajajohnson @ClareMcPlus4 @rachaelmoses ⬆️"
+	},
+	{
 		"created_at": "Mon Mar 23 20:30:25 +0000 2020",
 		"id": 1242167149432656000,
 		"id_str": "1242186961621790720",
