@@ -1,6 +1,584 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Fri Mar 27 22:23:23 +0000 2020",
+		"id": 1243664942575779800,
+		"id_str": "1243664942575779843",
+		"full_text": "@PhysioArmstrong @bt_uk Did they cancel?",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhysioArmstrong",
+					"name": "James Armstrong",
+					"id": 872165022704840700,
+					"id_str": "872165022704840705",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "bt_uk",
+					"name": "BT",
+					"id": 118750085,
+					"id_str": "118750085",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1243664810824392700,
+		"in_reply_to_status_id_str": "1243664810824392705",
+		"in_reply_to_user_id": 872165022704840700,
+		"in_reply_to_user_id_str": "872165022704840705",
+		"in_reply_to_screen_name": "PhysioArmstrong",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1899,
+			"friends_count": 2963,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PhysioArmstrong @bt_uk Did they cancel?"
+	},
+	{
+		"created_at": "Fri Mar 27 16:16:08 +0000 2020",
+		"id": 1243572522966306800,
+		"id_str": "1243572522966306817",
+		"full_text": "⬆️ @virginmedia",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "virginmedia",
+					"name": "Virgin Media",
+					"id": 17872077,
+					"id_str": "17872077",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1243523015951990800,
+		"in_reply_to_status_id_str": "1243523015951990784",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1899,
+			"friends_count": 2963,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "⬆️ @virginmedia"
+	},
+	{
+		"created_at": "Fri Mar 27 12:59:25 +0000 2020",
+		"id": 1243523015951990800,
+		"id_str": "1243523015951990784",
+		"full_text": "It would be nice if you valued your #nhs customers? \nBooked annual leave 2 move into new 🏡 &amp; get broadband sorted. After having 2 chase (1 hour+ on hold) several time. Now told my installation will be on the 7th of April? I will be at work.. #AllInThisTogether #clapforourcarers https://t.co/rIikZTraiF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "nhs",
+					"indices": [
+						36,
+						40
+					]
+				},
+				{
+					"text": "AllInThisTogether",
+					"indices": [
+						246,
+						264
+					]
+				},
+				{
+					"text": "clapforourcarers",
+					"indices": [
+						265,
+						282
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rIikZTraiF",
+					"expanded_url": "https://twitter.com/virginmedia/status/1243256227292942345",
+					"display_url": "twitter.com/virginmedia/st…",
+					"indices": [
+						283,
+						306
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1899,
+			"friends_count": 2963,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 15993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1243256227292942300,
+		"quoted_status_id_str": "1243256227292942345",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rIikZTraiF",
+			"expanded": "https://twitter.com/virginmedia/status/1243256227292942345",
+			"display": "twitter.com/virginmedia/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 26 19:19:17 +0000 2020",
+			"id": 1243256227292942300,
+			"id_str": "1243256227292942345",
+			"full_text": "Let’s show our support for hero carers everywhere by joining #ClapForOurCarers tonight at 8pm. 👏🌈 Big love to @sinb for letting us share your photo. 💞\n#CovidKindness #AllInThisTogether #StayHomeStaysafe #ThankYou https://t.co/KxW9td8D6T",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				212
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ClapForOurCarers",
+						"indices": [
+							61,
+							78
+						]
+					},
+					{
+						"text": "CovidKindness",
+						"indices": [
+							151,
+							165
+						]
+					},
+					{
+						"text": "AllInThisTogether",
+						"indices": [
+							166,
+							184
+						]
+					},
+					{
+						"text": "StayHomeStaysafe",
+						"indices": [
+							185,
+							202
+						]
+					},
+					{
+						"text": "ThankYou",
+						"indices": [
+							203,
+							212
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "sinb",
+						"name": "Sinéad Beverland",
+						"id": 33085022,
+						"id_str": "33085022",
+						"indices": [
+							110,
+							115
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1243256207193845800,
+						"id_str": "1243256207193845760",
+						"indices": [
+							213,
+							236
+						],
+						"media_url": "http://pbs.twimg.com/media/EUDu7vKWsAAa165.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUDu7vKWsAAa165.jpg",
+						"url": "https://t.co/KxW9td8D6T",
+						"display_url": "pic.twitter.com/KxW9td8D6T",
+						"expanded_url": "https://twitter.com/virginmedia/status/1243256227292942345/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1243256207193845800,
+						"id_str": "1243256207193845760",
+						"indices": [
+							213,
+							236
+						],
+						"media_url": "http://pbs.twimg.com/media/EUDu7vKWsAAa165.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EUDu7vKWsAAa165.jpg",
+						"url": "https://t.co/KxW9td8D6T",
+						"display_url": "pic.twitter.com/KxW9td8D6T",
+						"expanded_url": "https://twitter.com/virginmedia/status/1243256227292942345/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17872077,
+				"id_str": "17872077",
+				"name": "Virgin Media",
+				"screen_name": "virginmedia",
+				"location": "",
+				"description": "We’re here for the box set bingers, telly ninjas, all-night gamers and biggest streamers. Need help? Please head here https://t.co/miHNuCVIn0",
+				"url": "https://t.co/rMMsJ2L1Fu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rMMsJ2L1Fu",
+								"expanded_url": "http://www.virginmedia.com",
+								"display_url": "virginmedia.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/miHNuCVIn0",
+								"expanded_url": "https://bit.ly/2WqpkEf",
+								"display_url": "bit.ly/2WqpkEf",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 293034,
+				"friends_count": 173,
+				"listed_count": 1454,
+				"created_at": "Thu Dec 04 17:01:54 +0000 2008",
+				"favourites_count": 8066,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3401688,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CCCCCC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1209066250615369729/6jx216L4_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1209066250615369729/6jx216L4_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17872077/1582026006",
+				"profile_link_color": "FF0000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFA694",
+				"profile_text_color": "212121",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It would be nice if you valued your #nhs customers? \nBooked annual leave 2 move into new 🏡 &amp; get broadband sorted. After having 2 chase (1 hour+ on hold) several time. Now told my installation will be on the 7th of April? I will be at work.. #AllInThisTogether #clapforourcarers https://t.co/rIikZTraiF"
+	},
+	{
 		"created_at": "Wed Mar 25 18:31:10 +0000 2020",
 		"id": 1242881728387186700,
 		"id_str": "1242881728387186698",
