@@ -1,10 +1,432 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sun Mar 29 21:54:47 +0000 2020",
+		"id": 1244382523339214800,
+		"id_str": "1244382523339214852",
+		"full_text": "@beckybeckyfish https://t.co/ZiXPFJ4XMP",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beckybeckyfish",
+					"name": "Becky Fisher",
+					"id": 25163678,
+					"id_str": "25163678",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1244382518410981400,
+					"id_str": "1244382518410981376",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/EUTvTraXsAARoVF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUTvTraXsAARoVF.jpg",
+					"url": "https://t.co/ZiXPFJ4XMP",
+					"display_url": "pic.twitter.com/ZiXPFJ4XMP",
+					"expanded_url": "https://twitter.com/beardedPT/status/1244382523339214852/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244382518410981400,
+					"id_str": "1244382518410981376",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/media/EUTvTraXsAARoVF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUTvTraXsAARoVF.jpg",
+					"url": "https://t.co/ZiXPFJ4XMP",
+					"display_url": "pic.twitter.com/ZiXPFJ4XMP",
+					"expanded_url": "https://twitter.com/beardedPT/status/1244382523339214852/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 682,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 499,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 682,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1244375189376434200,
+		"in_reply_to_status_id_str": "1244375189376434176",
+		"in_reply_to_user_id": 25163678,
+		"in_reply_to_user_id_str": "25163678",
+		"in_reply_to_screen_name": "beckybeckyfish",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1901,
+			"friends_count": 2967,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@beckybeckyfish https://t.co/ZiXPFJ4XMP"
+	},
+	{
+		"created_at": "Sun Mar 29 21:34:49 +0000 2020",
+		"id": 1244377497132773400,
+		"id_str": "1244377497132773377",
+		"full_text": "🦠 My annual leave was spent coordinating aid for vulnerable people in #Rugeley. An absolute privilege &amp; thank you to all the volunteers that helped!\n🦠 Feeling slight apprehensive about returning to the day job but I’ve got this 💪 #NHS #Covid_19 #COVID19 #AllInThisTogether https://t.co/b7LU4fS3tO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Rugeley",
+					"indices": [
+						70,
+						78
+					]
+				},
+				{
+					"text": "NHS",
+					"indices": [
+						234,
+						238
+					]
+				},
+				{
+					"text": "Covid_19",
+					"indices": [
+						239,
+						248
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						249,
+						257
+					]
+				},
+				{
+					"text": "AllInThisTogether",
+					"indices": [
+						258,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1244377488362479600,
+					"id_str": "1244377488362479617",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EUTqu5BWoAE-agH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUTqu5BWoAE-agH.jpg",
+					"url": "https://t.co/b7LU4fS3tO",
+					"display_url": "pic.twitter.com/b7LU4fS3tO",
+					"expanded_url": "https://twitter.com/beardedPT/status/1244377497132773377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1244377488362479600,
+					"id_str": "1244377488362479617",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/EUTqu5BWoAE-agH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EUTqu5BWoAE-agH.jpg",
+					"url": "https://t.co/b7LU4fS3tO",
+					"display_url": "pic.twitter.com/b7LU4fS3tO",
+					"expanded_url": "https://twitter.com/beardedPT/status/1244377497132773377/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1638,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1901,
+			"friends_count": 2967,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16022,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5761,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52041af7b8001313",
+			"url": "https://api.twitter.com/1.1/geo/id/52041af7b8001313.json",
+			"place_type": "city",
+			"name": "Rugeley",
+			"full_name": "Rugeley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.971255,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.773708
+						],
+						[
+							-1.971255,
+							52.773708
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🦠 My annual leave was spent coordinating aid for vulnerable people in #Rugeley. An absolute privilege &amp; thank you to all the volunteers that helped!\n🦠 Feeling slight apprehensive about returning to the day job but I’ve got this 💪 #NHS #Covid_19 #COVID19 #AllInThisTogether https://t.co/b7LU4fS3tO"
+	},
+	{
 		"created_at": "Sat Mar 28 10:37:31 +0000 2020",
 		"id": 1243849695606292500,
 		"id_str": "1243849695606292481",
-		"full_text": "@PhysioArmstrong @bt_uk They are stuck but yeah 🤷‍♂️\n\nVirgin still honouring their outstanding work, for now. This had been booked for weeks. There was an issue on Monday but no one communicated it. Now have the wires to my wall? Ah well .... hope you get it sorted, quick! 😊",
+		"full_text": "@PhysioArmstrong @bt_uk They are stuck but yeah 🤷♂️\n\nVirgin still honouring their outstanding work, for now. This had been booked for weeks. There was an issue on Monday but no one communicated it. Now have the wires to my wall? Ah well .... hope you get it sorted, quick! 😊",
 		"truncated": false,
 		"display_text_range": [
 			24,
@@ -111,7 +533,7 @@ Grailbird.data.tweets_2020_03 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@PhysioArmstrong @bt_uk They are stuck but yeah 🤷‍♂️\n\nVirgin still honouring their outstanding work, for now. This had been booked for weeks. There was an issue on Monday but no one communicated it. Now have the wires to my wall? Ah well .... hope you get it sorted, quick! 😊"
+		"text": "@PhysioArmstrong @bt_uk They are stuck but yeah 🤷♂️\n\nVirgin still honouring their outstanding work, for now. This had been booked for weeks. There was an issue on Monday but no one communicated it. Now have the wires to my wall? Ah well .... hope you get it sorted, quick! 😊"
 	},
 	{
 		"created_at": "Fri Mar 27 22:23:23 +0000 2020",
