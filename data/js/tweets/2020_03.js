@@ -1,6 +1,910 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Tue Mar 31 20:35:33 +0000 2020",
+		"id": 1245029362556121000,
+		"id_str": "1245087356710985730",
+		"full_text": "⁦.⁦@thecsp⁩ demands urgent action on PPE ⁦@MattHancock⁩  https://t.co/8MDMKLbxpG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						3,
+						10
+					]
+				},
+				{
+					"screen_name": "MattHancock",
+					"name": "Matt Hancock",
+					"id": 19825835,
+					"id_str": "19825835",
+					"indices": [
+						42,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8MDMKLbxpG",
+					"expanded_url": "https://www.csp.org.uk/news/2020-03-31-csp-demands-urgent-action-ppe",
+					"display_url": "csp.org.uk/news/2020-03-3…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 722676146,
+			"id_str": "722676146",
+			"name": "Rob Yeldham",
+			"screen_name": "RobYeldham",
+			"location": "London",
+			"description": "Transforming lives as strategy director @theCSP & vice-chair @WeAreARMA Found. Chart. PR. Like islands and wetlands. Only my views. RTs/likes no endorsement.",
+			"url": "https://t.co/0zvCGRCWPh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0zvCGRCWPh",
+							"expanded_url": "http://www.csp.org.uk",
+							"display_url": "csp.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6070,
+			"friends_count": 6663,
+			"listed_count": 153,
+			"created_at": "Sat Jul 28 19:09:12 +0000 2012",
+			"favourites_count": 147238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/919662388475039744/lR84f_M5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/919662388475039744/lR84f_M5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/722676146/1584636538",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 59,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⁦.⁦@thecsp⁩ demands urgent action on PPE ⁦@MattHancock⁩  https://t.co/8MDMKLbxpG"
+	},
+	{
+		"created_at": "Tue Mar 31 17:50:22 +0000 2020",
+		"id": 1245045788704673800,
+		"id_str": "1245045788704673795",
+		"full_text": "@G_e_o_r_g_i_a_1 @BevMatthewsRN https://t.co/g5reTfCOeI",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "G_e_o_r_g_i_a_1",
+					"name": "countryptstudent",
+					"id": 596698312,
+					"id_str": "596698312",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "BevMatthewsRN",
+					"name": "Bev Matthews RN 🧍🏼‍♂️↔️🧍🏼↔️🧍🏽‍♀️↔️🧍🏿↔️",
+					"id": 623693184,
+					"id_str": "623693184",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1245045781242970000,
+					"id_str": "1245045781242970112",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUdKiqAWAAA44Lp.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUdKiqAWAAA44Lp.jpg",
+					"url": "https://t.co/g5reTfCOeI",
+					"display_url": "pic.twitter.com/g5reTfCOeI",
+					"expanded_url": "https://twitter.com/beardedPT/status/1245045788704673795/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1245045781242970000,
+					"id_str": "1245045781242970112",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUdKiqAWAAA44Lp.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUdKiqAWAAA44Lp.jpg",
+					"url": "https://t.co/g5reTfCOeI",
+					"display_url": "pic.twitter.com/g5reTfCOeI",
+					"expanded_url": "https://twitter.com/beardedPT/status/1245045788704673795/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EUdKiqAWAAA44Lp.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1244988420516188200,
+		"in_reply_to_status_id_str": "1244988420516188160",
+		"in_reply_to_user_id": 596698312,
+		"in_reply_to_user_id_str": "596698312",
+		"in_reply_to_screen_name": "G_e_o_r_g_i_a_1",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1907,
+			"friends_count": 2969,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16057,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@G_e_o_r_g_i_a_1 @BevMatthewsRN https://t.co/g5reTfCOeI"
+	},
+	{
+		"created_at": "Tue Mar 31 16:39:47 +0000 2020",
+		"id": 1245023600739901400,
+		"id_str": "1245028027781840897",
+		"full_text": "@AlexMacKenzie11 has today written to the health ministers in each of the UK countries calling for them to step in on PPE for physios. Thread. #PhysioPPE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PhysioPPE",
+					"indices": [
+						143,
+						153
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlexMacKenzie11",
+					"name": "Alex MacKenzie",
+					"id": 457442958,
+					"id_str": "457442958",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 457442958,
+		"in_reply_to_user_id_str": "457442958",
+		"in_reply_to_screen_name": "AlexMacKenzie11",
+		"user": {
+			"id": 722676146,
+			"id_str": "722676146",
+			"name": "Rob Yeldham",
+			"screen_name": "RobYeldham",
+			"location": "London",
+			"description": "Transforming lives as strategy director @theCSP & vice-chair @WeAreARMA Found. Chart. PR. Like islands and wetlands. Only my views. RTs/likes no endorsement.",
+			"url": "https://t.co/0zvCGRCWPh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0zvCGRCWPh",
+							"expanded_url": "http://www.csp.org.uk",
+							"display_url": "csp.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6070,
+			"friends_count": 6663,
+			"listed_count": 153,
+			"created_at": "Sat Jul 28 19:09:12 +0000 2012",
+			"favourites_count": 147238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 56388,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/919662388475039744/lR84f_M5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/919662388475039744/lR84f_M5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/722676146/1584636538",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@AlexMacKenzie11 has today written to the health ministers in each of the UK countries calling for them to step in on PPE for physios. Thread. #PhysioPPE"
+	},
+	{
+		"created_at": "Tue Mar 31 15:15:05 +0000 2020",
+		"id": 1244722550569078800,
+		"id_str": "1245006710273703941",
+		"full_text": "Coronavirus: Physiotherapists help COVID-19 patients in intensive care https://t.co/9GRVkvKvEN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9GRVkvKvEN",
+					"expanded_url": "http://news.sky.com/story/coronavirus-physiotherapists-help-covid-19-patients-in-intensive-care-11965973",
+					"display_url": "news.sky.com/story/coronavi…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://news.sky.com\" rel=\"nofollow\">SkyNews Alerts - Latest</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7587032,
+			"id_str": "7587032",
+			"name": "Sky News",
+			"screen_name": "SkyNews",
+			"location": "London, UK",
+			"description": "We take you to the heart of the stories that shape our world. \n\nFor breaking news, follow @SkyNewsBreak",
+			"url": "https://t.co/SnOv0usOtw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SnOv0usOtw",
+							"expanded_url": "http://news.sky.com/",
+							"display_url": "news.sky.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5781167,
+			"friends_count": 27,
+			"listed_count": 26401,
+			"created_at": "Thu Jul 19 14:42:53 +0000 2007",
+			"favourites_count": 24,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 386353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/953341660813021185/o2IGXWqj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/953341660813021185/o2IGXWqj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7587032/1516873161",
+			"profile_link_color": "385FAC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EDEDED",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 445,
+		"favorite_count": 809,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Coronavirus: Physiotherapists help COVID-19 patients in intensive care https://t.co/9GRVkvKvEN"
+	},
+	{
+		"created_at": "Tue Mar 31 15:09:50 +0000 2020",
+		"id": 1245005388266832000,
+		"id_str": "1245005388266831873",
+		"full_text": "Not just a #Physiotherapy resource for students ⬇️👌 https://t.co/UQbZeNWD0N",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Physiotherapy",
+					"indices": [
+						11,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UQbZeNWD0N",
+					"expanded_url": "https://twitter.com/fimo18/status/1244997842500026369",
+					"display_url": "twitter.com/fimo18/status/…",
+					"indices": [
+						52,
+						75
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) ▪️ #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								91,
+								114
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1907,
+			"friends_count": 2969,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16057,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5767,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52041af7b8001313",
+			"url": "https://api.twitter.com/1.1/geo/id/52041af7b8001313.json",
+			"place_type": "city",
+			"name": "Rugeley",
+			"full_name": "Rugeley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.971255,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.773708
+						],
+						[
+							-1.971255,
+							52.773708
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1244997842500026400,
+		"quoted_status_id_str": "1244997842500026369",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UQbZeNWD0N",
+			"expanded": "https://twitter.com/fimo18/status/1244997842500026369",
+			"display": "twitter.com/fimo18/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 31 14:39:51 +0000 2020",
+			"id": 1244997842500026400,
+			"id_str": "1244997842500026369",
+			"full_text": "Fabulous resource page being established for #physiotherapy #students by the amazing @tomgoom https://t.co/CRVcq3kLdO Please share! @UoNPhysio @RogerKerry1 @TaylorAlanJ @CSPLondon @thecspstudents @beardedPT @BenShannonPT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				220
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "physiotherapy",
+						"indices": [
+							45,
+							59
+						]
+					},
+					{
+						"text": "students",
+						"indices": [
+							60,
+							69
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tomgoom",
+						"name": "RunningPhysio",
+						"id": 365600467,
+						"id_str": "365600467",
+						"indices": [
+							85,
+							93
+						]
+					},
+					{
+						"screen_name": "UoNPhysio",
+						"name": "UoN Physiotherapy",
+						"id": 3020424189,
+						"id_str": "3020424189",
+						"indices": [
+							132,
+							142
+						]
+					},
+					{
+						"screen_name": "RogerKerry1",
+						"name": "Roger Kerry",
+						"id": 396832258,
+						"id_str": "396832258",
+						"indices": [
+							143,
+							155
+						]
+					},
+					{
+						"screen_name": "TaylorAlanJ",
+						"name": "Alan J Taylor",
+						"id": 412127340,
+						"id_str": "412127340",
+						"indices": [
+							156,
+							168
+						]
+					},
+					{
+						"screen_name": "CSPLondon",
+						"name": "Physiotherapy",
+						"id": 251678811,
+						"id_str": "251678811",
+						"indices": [
+							169,
+							179
+						]
+					},
+					{
+						"screen_name": "thecspstudents",
+						"name": "CSP Students",
+						"id": 444648690,
+						"id_str": "444648690",
+						"indices": [
+							180,
+							195
+						]
+					},
+					{
+						"screen_name": "beardedPT",
+						"name": "David Williams",
+						"id": 3377750235,
+						"id_str": "3377750235",
+						"indices": [
+							196,
+							206
+						]
+					},
+					{
+						"screen_name": "BenShannonPT",
+						"name": "Ben Shannon",
+						"id": 45407152,
+						"id_str": "45407152",
+						"indices": [
+							207,
+							220
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/CRVcq3kLdO",
+						"expanded_url": "https://www.running-physio.com/student-resource-page/",
+						"display_url": "running-physio.com/student-resour…",
+						"indices": [
+							94,
+							117
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 508806750,
+				"id_str": "508806750",
+				"name": "Dr Fiona Moffatt",
+				"screen_name": "fimo18",
+				"location": "Nottingham, UK",
+				"description": "Researcher, lecturer, physiotherapist & runner. Exercise; physical activity; critical care; qualitative methodologies; health service delivery; sociology",
+				"url": "https://t.co/kvJklC6HM3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/kvJklC6HM3",
+								"expanded_url": "http://www.nottingham.ac.uk/healthsciences/people/fiona.moffatt",
+								"display_url": "nottingham.ac.uk/healthsciences…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2605,
+				"friends_count": 1133,
+				"listed_count": 53,
+				"created_at": "Wed Feb 29 12:35:08 +0000 2012",
+				"favourites_count": 5599,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4672,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/720951557156642816/GVQMOoTi_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/720951557156642816/GVQMOoTi_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/508806750/1463818894",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not just a #Physiotherapy resource for students ⬇️👌 https://t.co/UQbZeNWD0N"
+	},
+	{
 		"created_at": "Sun Mar 29 21:54:47 +0000 2020",
 		"id": 1244382523339214800,
 		"id_str": "1244382523339214852",
