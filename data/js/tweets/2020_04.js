@@ -1,6 +1,517 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 03 20:36:35 +0000 2020",
+		"id": 1246174783907287000,
+		"id_str": "1246174783907287045",
+		"full_text": "@_lewadam I’ll be looking like a early 2000 Beckham - as there’s no way I can do a “sick fade” with my Aldi clippers 👍🤣 https://t.co/uUcvU9vuse",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_lewadam",
+					"name": "Lewis Lovegrove",
+					"id": 196719130,
+					"id_str": "196719130",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246174776172908500,
+					"id_str": "1246174776172908545",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUtNWz3WkAE1Hbu.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUtNWz3WkAE1Hbu.jpg",
+					"url": "https://t.co/uUcvU9vuse",
+					"display_url": "pic.twitter.com/uUcvU9vuse",
+					"expanded_url": "https://twitter.com/beardedPT/status/1246174783907287045/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246174776172908500,
+					"id_str": "1246174776172908545",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUtNWz3WkAE1Hbu.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUtNWz3WkAE1Hbu.jpg",
+					"url": "https://t.co/uUcvU9vuse",
+					"display_url": "pic.twitter.com/uUcvU9vuse",
+					"expanded_url": "https://twitter.com/beardedPT/status/1246174783907287045/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 272,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							136
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EUtNWz3WkAE1Hbu.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1246173746437795800,
+		"in_reply_to_status_id_str": "1246173746437795840",
+		"in_reply_to_user_id": 196719130,
+		"in_reply_to_user_id_str": "196719130",
+		"in_reply_to_screen_name": "_lewadam",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1925,
+			"friends_count": 2976,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@_lewadam I’ll be looking like a early 2000 Beckham - as there’s no way I can do a “sick fade” with my Aldi clippers 👍🤣 https://t.co/uUcvU9vuse"
+	},
+	{
+		"created_at": "Fri Apr 03 20:31:15 +0000 2020",
+		"id": 1246173441885196300,
+		"id_str": "1246173441885196288",
+		"full_text": "@_lewadam Tell me about!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_lewadam",
+					"name": "Lewis Lovegrove",
+					"id": 196719130,
+					"id_str": "196719130",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1245815252094201900,
+		"in_reply_to_status_id_str": "1245815252094201860",
+		"in_reply_to_user_id": 196719130,
+		"in_reply_to_user_id_str": "196719130",
+		"in_reply_to_screen_name": "_lewadam",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1925,
+			"friends_count": 2976,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@_lewadam Tell me about!"
+	},
+	{
+		"created_at": "Fri Apr 03 20:21:26 +0000 2020",
+		"id": 1246170969103794200,
+		"id_str": "1246170969103794184",
+		"full_text": "@RogerKerry1 @awgilbert11 He’s gotta play at the annual stifle show after the COVID hiatus...\n\nMove over the pied piper! #PhysioPiper you’re booked 🌟 https://t.co/Xj03UtCqoC",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			149
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PhysioPiper",
+					"indices": [
+						121,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "awgilbert11",
+					"name": "Anthony Gilbert",
+					"id": 250321410,
+					"id_str": "250321410",
+					"indices": [
+						13,
+						25
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1246170961247961000,
+					"id_str": "1246170961247961088",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUtJ4wKXgAAe8NU.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUtJ4wKXgAAe8NU.jpg",
+					"url": "https://t.co/Xj03UtCqoC",
+					"display_url": "pic.twitter.com/Xj03UtCqoC",
+					"expanded_url": "https://twitter.com/beardedPT/status/1246170969103794184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 250,
+							"h": 190,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 250,
+							"h": 190,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 250,
+							"h": 190,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1246170961247961000,
+					"id_str": "1246170961247961088",
+					"indices": [
+						150,
+						173
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EUtJ4wKXgAAe8NU.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EUtJ4wKXgAAe8NU.jpg",
+					"url": "https://t.co/Xj03UtCqoC",
+					"display_url": "pic.twitter.com/Xj03UtCqoC",
+					"expanded_url": "https://twitter.com/beardedPT/status/1246170969103794184/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 250,
+							"h": 190,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 250,
+							"h": 190,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 250,
+							"h": 190,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							25,
+							19
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EUtJ4wKXgAAe8NU.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1246169585499414500,
+		"in_reply_to_status_id_str": "1246169585499414528",
+		"in_reply_to_user_id": 396832258,
+		"in_reply_to_user_id_str": "396832258",
+		"in_reply_to_screen_name": "RogerKerry1",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1925,
+			"friends_count": 2976,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16119,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5786,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@RogerKerry1 @awgilbert11 He’s gotta play at the annual stifle show after the COVID hiatus...\n\nMove over the pied piper! #PhysioPiper you’re booked 🌟 https://t.co/Xj03UtCqoC"
+	},
+	{
 		"created_at": "Thu Apr 02 20:50:20 +0000 2020",
 		"id": 1245815855558078500,
 		"id_str": "1245815855558078465",
@@ -991,7 +1502,7 @@ Grailbird.data.tweets_2020_04 =
 		"created_at": "Thu Apr 02 18:31:16 +0000 2020",
 		"id": 1245780855571787800,
 		"id_str": "1245780855571787776",
-		"full_text": "@gds115gds @tolanAHP Having to carry ID with me, now. 🤷‍♂️",
+		"full_text": "@gds115gds @tolanAHP Having to carry ID with me, now. 🤷♂️",
 		"truncated": false,
 		"display_text_range": [
 			21,
@@ -1098,7 +1609,7 @@ Grailbird.data.tweets_2020_04 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@gds115gds @tolanAHP Having to carry ID with me, now. 🤷‍♂️"
+		"text": "@gds115gds @tolanAHP Having to carry ID with me, now. 🤷♂️"
 	},
 	{
 		"created_at": "Thu Apr 02 11:59:18 +0000 2020",
