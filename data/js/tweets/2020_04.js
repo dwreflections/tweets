@@ -1,6 +1,535 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 06 21:26:25 +0000 2020",
+		"id": 1247274485448933400,
+		"id_str": "1247274485448933378",
+		"full_text": "@DrRosena @Keir_Starmer @JonAshworth Congratulations Rosena 👏\nKeep safe 😊",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrRosena",
+					"name": "DrRosena",
+					"id": 2382227424,
+					"id_str": "2382227424",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "Keir_Starmer",
+					"name": "Keir Starmer",
+					"id": 2425571623,
+					"id_str": "2425571623",
+					"indices": [
+						10,
+						23
+					]
+				},
+				{
+					"screen_name": "JonAshworth",
+					"name": "Jonathan Ashworth",
+					"id": 143212610,
+					"id_str": "143212610",
+					"indices": [
+						24,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1247156296316403700,
+		"in_reply_to_status_id_str": "1247156296316403714",
+		"in_reply_to_user_id": 2382227424,
+		"in_reply_to_user_id_str": "2382227424",
+		"in_reply_to_screen_name": "DrRosena",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1930,
+			"friends_count": 2986,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrRosena @Keir_Starmer @JonAshworth Congratulations Rosena 👏\nKeep safe 😊"
+	},
+	{
+		"created_at": "Mon Apr 06 19:53:48 +0000 2020",
+		"id": 1247251178909503500,
+		"id_str": "1247251178909503493",
+		"full_text": "@GilletteUK Sent message 👍\nUnable to live chat in office hours",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GilletteUK",
+					"name": "Gillette UK",
+					"id": 112687215,
+					"id_str": "112687215",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1247082190262931500,
+		"in_reply_to_status_id_str": "1247082190262931457",
+		"in_reply_to_user_id": 112687215,
+		"in_reply_to_user_id_str": "112687215",
+		"in_reply_to_screen_name": "GilletteUK",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1930,
+			"friends_count": 2986,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GilletteUK Sent message 👍\nUnable to live chat in office hours"
+	},
+	{
+		"created_at": "Mon Apr 06 19:35:05 +0000 2020",
+		"id": 1247244198723694600,
+		"id_str": "1247246467284242433",
+		"full_text": "@sianiepowell The CSP infographic was updated this afternoon. Now on CSP website https://t.co/6ivNQNWeYb\n#physiotalk https://t.co/5BW2YycaMr",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "physiotalk",
+					"indices": [
+						105,
+						116
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sianiepowell",
+					"name": "Sianpowellphysio",
+					"id": 746314303876259800,
+					"id_str": "746314303876259840",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6ivNQNWeYb",
+					"expanded_url": "https://www.csp.org.uk/news/coronavirus/clinical-guidance",
+					"display_url": "csp.org.uk/news/coronavir…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247244181166329900,
+					"id_str": "1247244181166329859",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EU8Z-X6XkAMNe5i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU8Z-X6XkAMNe5i.jpg",
+					"url": "https://t.co/5BW2YycaMr",
+					"display_url": "pic.twitter.com/5BW2YycaMr",
+					"expanded_url": "https://twitter.com/physiotalk/status/1247244198723694594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 622,
+							"h": 886,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 622,
+							"h": 886,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247244181166329900,
+					"id_str": "1247244181166329859",
+					"indices": [
+						117,
+						140
+					],
+					"media_url": "http://pbs.twimg.com/media/EU8Z-X6XkAMNe5i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EU8Z-X6XkAMNe5i.jpg",
+					"url": "https://t.co/5BW2YycaMr",
+					"display_url": "pic.twitter.com/5BW2YycaMr",
+					"expanded_url": "https://twitter.com/physiotalk/status/1247244198723694594/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 622,
+							"h": 886,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 622,
+							"h": 886,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 477,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1247243809370574800,
+		"in_reply_to_status_id_str": "1247243809370574848",
+		"in_reply_to_user_id": 746314303876259800,
+		"in_reply_to_user_id_str": "746314303876259840",
+		"in_reply_to_screen_name": "sianiepowell",
+		"user": {
+			"id": 2212530852,
+			"id_str": "2212530852",
+			"name": "physiotalk",
+			"screen_name": "physiotalk",
+			"location": "UK",
+			"description": "Helping physiotherapists around the world to learn, share, network & influence I #physiotalk tweetchats I Fortnightly Mondays 20:00 Instagram: _physiotalk",
+			"url": "https://t.co/9z38Mj1Cil",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9z38Mj1Cil",
+							"expanded_url": "http://physiotalk.co.uk",
+							"display_url": "physiotalk.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 32685,
+			"friends_count": 3390,
+			"listed_count": 248,
+			"created_at": "Sun Nov 24 14:04:08 +0000 2013",
+			"favourites_count": 17624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26000,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189294171326222337/hRhBsmza_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189294171326222337/hRhBsmza_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2212530852/1496058963",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@sianiepowell The CSP infographic was updated this afternoon. Now on CSP website https://t.co/6ivNQNWeYb\n#physiotalk https://t.co/5BW2YycaMr"
+	},
+	{
+		"created_at": "Mon Apr 06 19:07:28 +0000 2020",
+		"id": 1247239520254386200,
+		"id_str": "1247239520254386179",
+		"full_text": "Hello 👋 #physiotalk Rotational physiotherapist based in Staffordshire and works in Derby",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "physiotalk",
+					"indices": [
+						8,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1930,
+			"friends_count": 2986,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Hello 👋 #physiotalk Rotational physiotherapist based in Staffordshire and works in Derby"
+	},
+	{
 		"created_at": "Sun Apr 05 21:53:19 +0000 2020",
 		"id": 1246918867491917800,
 		"id_str": "1246918867491917828",
