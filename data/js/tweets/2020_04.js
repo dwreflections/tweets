@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 08 20:54:50 +0000 2020",
+		"id": 1247991314085527600,
+		"id_str": "1247991314085527553",
+		"full_text": "@KhaiSengCheng @TeamNUH Yes Khai!!!!!! 👌✨\n\nCongratulations 🥂",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KhaiSengCheng",
+					"name": "Cheng Khai Seng (a.k.a. Khai)",
+					"id": 963856216421208000,
+					"id_str": "963856216421208072",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "TeamNUH",
+					"name": "Team NUH 🏳️‍🌈",
+					"id": 932516509,
+					"id_str": "932516509",
+					"indices": [
+						15,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1247985610469630000,
+		"in_reply_to_status_id_str": "1247985610469629957",
+		"in_reply_to_user_id": 963856216421208000,
+		"in_reply_to_user_id_str": "963856216421208072",
+		"in_reply_to_screen_name": "KhaiSengCheng",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1934,
+			"friends_count": 2989,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KhaiSengCheng @TeamNUH Yes Khai!!!!!! 👌✨\n\nCongratulations 🥂"
+	},
+	{
+		"created_at": "Wed Apr 08 19:58:51 +0000 2020",
+		"id": 1247977223837102000,
+		"id_str": "1247977223837102080",
+		"full_text": "@GracePhysio @TeamNUH @UoNPhysio Congratulations! 🥂🥂It’s a really interesting time to begin your career, you got this 💪",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GracePhysio",
+					"name": "Grace Fielding",
+					"id": 924584523135967200,
+					"id_str": "924584523135967233",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "TeamNUH",
+					"name": "Team NUH 🏳️‍🌈",
+					"id": 932516509,
+					"id_str": "932516509",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						22,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1247966834453876700,
+		"in_reply_to_status_id_str": "1247966834453876737",
+		"in_reply_to_user_id": 924584523135967200,
+		"in_reply_to_user_id_str": "924584523135967233",
+		"in_reply_to_screen_name": "GracePhysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1934,
+			"friends_count": 2989,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16198,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5808,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GracePhysio @TeamNUH @UoNPhysio Congratulations! 🥂🥂It’s a really interesting time to begin your career, you got this 💪"
+	},
+	{
+		"created_at": "Wed Apr 08 19:43:04 +0000 2020",
+		"id": 1247896222049792000,
+		"id_str": "1247973254402379777",
+		"full_text": "We need a Nightingale model for rehab after covid-19 https://t.co/88mlx5MITw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/88mlx5MITw",
+					"expanded_url": "https://www.hsj.co.uk/commissioning/we-need-a-nightingale-model-for-rehab-after-covid-19-/7027335.article#.Xo3hfYOpfbM.twitter",
+					"display_url": "hsj.co.uk/commissioning/…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 720701591993643000,
+			"id_str": "720701591993643008",
+			"name": "Rachel Botell",
+			"screen_name": "RachelBotell",
+			"location": "Devon, England",
+			"description": "Rehabilitation Medicine Consultant at Mardon Neuro-Rehabilitation Centre. Passionate about rehabilitation for all and working with brilliant teams. Views my own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 489,
+			"friends_count": 557,
+			"listed_count": 1,
+			"created_at": "Thu Apr 14 19:53:44 +0000 2016",
+			"favourites_count": 7260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2342,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/978153188246384641/UalISmKb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/978153188246384641/UalISmKb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/720701591993643008/1521894678",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 63,
+		"favorite_count": 162,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We need a Nightingale model for rehab after covid-19 https://t.co/88mlx5MITw"
+	},
+	{
 		"created_at": "Tue Apr 07 17:14:23 +0000 2020",
 		"id": 1247573446118252500,
 		"id_str": "1247573446118252545",
