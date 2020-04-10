@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 09 17:05:15 +0000 2020",
+		"id": 1248245277183496200,
+		"id_str": "1248295926772490243",
+		"full_text": "Physios of twitter- we need your help! Please retreat widely. Can you describe the needs of COVID 19 survivors coming into your setting? Please give me the top 3  issues on your problem list and include the setting you are working in...... Ready, Steady, Go!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 751495287487758300,
+			"id_str": "751495287487758336",
+			"name": "Helen Harte",
+			"screen_name": "Hartey_PT",
+			"location": "Potters Bar, East",
+			"description": "Professional Adviser @theCSP. Part time Doctoral student. Mum. Views my own. Tweeting about health & society & stuff.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 940,
+			"friends_count": 393,
+			"listed_count": 17,
+			"created_at": "Fri Jul 08 19:16:53 +0000 2016",
+			"favourites_count": 13100,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5197,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1190688056942235649/jGXtvLv4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1190688056942235649/jGXtvLv4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/751495287487758336/1572717500",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 181,
+		"favorite_count": 203,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Physios of twitter- we need your help! Please retreat widely. Can you describe the needs of COVID 19 survivors coming into your setting? Please give me the top 3  issues on your problem list and include the setting you are working in...... Ready, Steady, Go!"
+	},
+	{
+		"created_at": "Thu Apr 09 15:06:49 +0000 2020",
+		"id": 1248266121238556700,
+		"id_str": "1248266121238556672",
+		"full_text": "@rachlardner Serious PPE that 👌",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rachlardner",
+					"name": "Rachel Lardner",
+					"id": 361420018,
+					"id_str": "361420018",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1247990074442240000,
+		"in_reply_to_status_id_str": "1247990074442240005",
+		"in_reply_to_user_id": 361420018,
+		"in_reply_to_user_id_str": "361420018",
+		"in_reply_to_screen_name": "rachlardner",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1934,
+			"friends_count": 2991,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5811,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@rachlardner Serious PPE that 👌"
+	},
+	{
 		"created_at": "Wed Apr 08 20:54:50 +0000 2020",
 		"id": 1247991314085527600,
 		"id_str": "1247991314085527553",
@@ -26,7 +211,7 @@ Grailbird.data.tweets_2020_04 =
 				},
 				{
 					"screen_name": "TeamNUH",
-					"name": "Team NUH 🏳️‍🌈",
+					"name": "Team NUH 🏳️🌈",
 					"id": 932516509,
 					"id_str": "932516509",
 					"indices": [
@@ -139,7 +324,7 @@ Grailbird.data.tweets_2020_04 =
 				},
 				{
 					"screen_name": "TeamNUH",
-					"name": "Team NUH 🏳️‍🌈",
+					"name": "Team NUH 🏳️🌈",
 					"id": 932516509,
 					"id_str": "932516509",
 					"indices": [
