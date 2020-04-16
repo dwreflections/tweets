@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 15 14:38:26 +0000 2020",
+		"id": 1250401766686052400,
+		"id_str": "1250433302990745600",
+		"full_text": "We are saddened to hear of the death of student nurse Ade Raymond &amp; extend our deepest sympathies to his family, friends &amp; colleagues. Like everyone, we value immensely the contribution being made every day by healthcare students and staff under incredibly difficult circumstances",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			288
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 278442312,
+			"id_str": "278442312",
+			"name": "Council of Deans",
+			"screen_name": "councilofdeans",
+			"location": "",
+			"description": "The Council of Deans of Health is the voice of UK university faculties for nursing, midwifery and the allied health professions. Retweets are not an endorsement",
+			"url": "http://t.co/jhJqsBGPtT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/jhJqsBGPtT",
+							"expanded_url": "http://www.councilofdeans.org.uk/",
+							"display_url": "councilofdeans.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7283,
+			"friends_count": 1733,
+			"listed_count": 102,
+			"created_at": "Thu Apr 07 08:43:33 +0000 2011",
+			"favourites_count": 1631,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6899,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9E5EB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034784924451172355/J6RjhEvF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034784924451172355/J6RjhEvF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/278442312/1535548579",
+			"profile_link_color": "00B3A4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 44,
+		"favorite_count": 148,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "We are saddened to hear of the death of student nurse Ade Raymond &amp; extend our deepest sympathies to his family, friends &amp; colleagues. Like everyone, we value immensely the contribution being made every day by healthcare students and staff under incredibly difficult circumstances"
+	},
+	{
 		"created_at": "Sun Apr 12 17:55:25 +0000 2020",
 		"id": 1249395713366245400,
 		"id_str": "1249395713366245379",
@@ -220,7 +315,7 @@ Grailbird.data.tweets_2020_04 =
 		"created_at": "Sun Apr 12 17:42:57 +0000 2020",
 		"id": 1249392576597233700,
 		"id_str": "1249392576597233671",
-		"full_text": "@Prof_IeuanEllis 30 more miles than me! Great effort @Prof_IeuanEllis 🚴‍♂️",
+		"full_text": "@Prof_IeuanEllis 30 more miles than me! Great effort @Prof_IeuanEllis 🚴♂️",
 		"truncated": false,
 		"display_text_range": [
 			17,
@@ -327,7 +422,7 @@ Grailbird.data.tweets_2020_04 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@Prof_IeuanEllis 30 more miles than me! Great effort @Prof_IeuanEllis 🚴‍♂️"
+		"text": "@Prof_IeuanEllis 30 more miles than me! Great effort @Prof_IeuanEllis 🚴♂️"
 	},
 	{
 		"created_at": "Sun Apr 12 17:34:16 +0000 2020",
