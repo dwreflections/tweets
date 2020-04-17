@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 16 19:23:59 +0000 2020",
+		"id": 1250867554974929000,
+		"id_str": "1250867554974928897",
+		"full_text": "Hey All You Cool Cats and Kittens! 🐅\nHere is some super #COVID19 resources:\n\n🦠https://t.co/I2muAcfQI8\n🦠https://t.co/eW1nsKWUyj\n🦠https://t.co/UskNUoLljL\n🦠https://t.co/rKEiowpC30\n🦠https://t.co/SElfDr1EbF https://t.co/Z9FDhAoQah",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						56,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I2muAcfQI8",
+					"expanded_url": "https://bit.ly/critcarefl",
+					"display_url": "bit.ly/critcarefl",
+					"indices": [
+						78,
+						101
+					]
+				},
+				{
+					"url": "https://t.co/eW1nsKWUyj",
+					"expanded_url": "https://bit.ly/physiopediaC19",
+					"display_url": "bit.ly/physiopediaC19",
+					"indices": [
+						103,
+						126
+					]
+				},
+				{
+					"url": "https://t.co/UskNUoLljL",
+					"expanded_url": "https://bit.ly/CSPcv19",
+					"display_url": "bit.ly/CSPcv19",
+					"indices": [
+						128,
+						151
+					]
+				},
+				{
+					"url": "https://t.co/rKEiowpC30",
+					"expanded_url": "https://bit.ly/BTSCV19",
+					"display_url": "bit.ly/BTSCV19",
+					"indices": [
+						153,
+						176
+					]
+				},
+				{
+					"url": "https://t.co/SElfDr1EbF",
+					"expanded_url": "https://youtu.be/t7DXH8cvYUc",
+					"display_url": "youtu.be/t7DXH8cvYUc",
+					"indices": [
+						178,
+						201
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1250867541154697200,
+					"id_str": "1250867541154697221",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EVv5ZruXkAUBdcA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVv5ZruXkAUBdcA.jpg",
+					"url": "https://t.co/Z9FDhAoQah",
+					"display_url": "pic.twitter.com/Z9FDhAoQah",
+					"expanded_url": "https://twitter.com/beardedPT/status/1250867554974928897/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250867541154697200,
+					"id_str": "1250867541154697221",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EVv5ZruXkAUBdcA.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVv5ZruXkAUBdcA.jpg",
+					"url": "https://t.co/Z9FDhAoQah",
+					"display_url": "pic.twitter.com/Z9FDhAoQah",
+					"expanded_url": "https://twitter.com/beardedPT/status/1250867554974928897/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							140
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EVv5ZruXkAUBdcA.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1948,
+			"friends_count": 3014,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hey All You Cool Cats and Kittens! 🐅\nHere is some super #COVID19 resources:\n\n🦠https://t.co/I2muAcfQI8\n🦠https://t.co/eW1nsKWUyj\n🦠https://t.co/UskNUoLljL\n🦠https://t.co/rKEiowpC30\n🦠https://t.co/SElfDr1EbF https://t.co/Z9FDhAoQah"
+	},
+	{
 		"created_at": "Wed Apr 15 14:38:26 +0000 2020",
 		"id": 1250401766686052400,
 		"id_str": "1250433302990745600",
