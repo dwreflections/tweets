@@ -1,6 +1,553 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 17 20:37:57 +0000 2020",
+		"id": 1251248554729001000,
+		"id_str": "1251248554729000960",
+		"full_text": "@estranney @Justine32023121 The best team 👌👏",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "estranney",
+					"name": "Emily Stranney",
+					"id": 993637980,
+					"id_str": "993637980",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Justine32023121",
+					"name": "Justine Williams 🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+					"id": 1169164893452415000,
+					"id_str": "1169164893452414976",
+					"indices": [
+						11,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1250855418638803000,
+		"in_reply_to_status_id_str": "1250855418638802947",
+		"in_reply_to_user_id": 993637980,
+		"in_reply_to_user_id_str": "993637980",
+		"in_reply_to_screen_name": "estranney",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1951,
+			"friends_count": 3021,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16339,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@estranney @Justine32023121 The best team 👌👏"
+	},
+	{
+		"created_at": "Fri Apr 17 20:30:59 +0000 2020",
+		"id": 1250855418638803000,
+		"id_str": "1251246801446932484",
+		"full_text": "So proud of this Physio team. They have risen to the COVID challenge responding with such positivity &amp; passion. We’ve extended our service, lengthened hours to support CPAP HDU’s across 7 days to help our patients &amp; colleagues &amp; have up-skilled staff. Thank you👏🏻@Justine32023121 https://t.co/9bt2EN4oa8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			291
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Justine32023121",
+					"name": "Justine Williams 🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+					"id": 1169164893452415000,
+					"id_str": "1169164893452414976",
+					"indices": [
+						275,
+						291
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1250855408626999300,
+					"id_str": "1250855408626999298",
+					"indices": [
+						292,
+						315
+					],
+					"media_url": "http://pbs.twimg.com/media/EVvuXeiWoAIleUT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVvuXeiWoAIleUT.jpg",
+					"url": "https://t.co/9bt2EN4oa8",
+					"display_url": "pic.twitter.com/9bt2EN4oa8",
+					"expanded_url": "https://twitter.com/estranney/status/1250855418638802947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1250855408626999300,
+					"id_str": "1250855408626999298",
+					"indices": [
+						292,
+						315
+					],
+					"media_url": "http://pbs.twimg.com/media/EVvuXeiWoAIleUT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVvuXeiWoAIleUT.jpg",
+					"url": "https://t.co/9bt2EN4oa8",
+					"display_url": "pic.twitter.com/9bt2EN4oa8",
+					"expanded_url": "https://twitter.com/estranney/status/1250855418638802947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1250855408660549600,
+					"id_str": "1250855408660549638",
+					"indices": [
+						292,
+						315
+					],
+					"media_url": "http://pbs.twimg.com/media/EVvuXeqWkAYNtNX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVvuXeqWkAYNtNX.jpg",
+					"url": "https://t.co/9bt2EN4oa8",
+					"display_url": "pic.twitter.com/9bt2EN4oa8",
+					"expanded_url": "https://twitter.com/estranney/status/1250855418638802947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 993637980,
+			"id_str": "993637980",
+			"name": "Emily Stranney",
+			"screen_name": "estranney",
+			"location": "",
+			"description": "Senior Respiratory Physiotherapist @UHDBTrust",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76,
+			"friends_count": 176,
+			"listed_count": 1,
+			"created_at": "Thu Dec 06 19:07:18 +0000 2012",
+			"favourites_count": 107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1181999243982200834/2AtrKfUi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181999243982200834/2AtrKfUi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/993637980/1471280083",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 99,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So proud of this Physio team. They have risen to the COVID challenge responding with such positivity &amp; passion. We’ve extended our service, lengthened hours to support CPAP HDU’s across 7 days to help our patients &amp; colleagues &amp; have up-skilled staff. Thank you👏🏻@Justine32023121 https://t.co/9bt2EN4oa8"
+	},
+	{
+		"created_at": "Fri Apr 17 17:44:16 +0000 2020",
+		"id": 1251204848462246000,
+		"id_str": "1251204848462245888",
+		"full_text": "@inezxvi @GrumpyOldDoc You will appreciate this @rachajbailey",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "inezxvi",
+					"name": "Apocalypse Frau",
+					"id": 167850472,
+					"id_str": "167850472",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "GrumpyOldDoc",
+					"name": "Donal",
+					"id": 106597045,
+					"id_str": "106597045",
+					"indices": [
+						9,
+						22
+					]
+				},
+				{
+					"screen_name": "rachajbailey",
+					"name": "Rachael 🐝",
+					"id": 406244015,
+					"id_str": "406244015",
+					"indices": [
+						48,
+						61
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1251063946779508700,
+		"in_reply_to_status_id_str": "1251063946779508737",
+		"in_reply_to_user_id": 167850472,
+		"in_reply_to_user_id_str": "167850472",
+		"in_reply_to_screen_name": "inezxvi",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1951,
+			"friends_count": 3021,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16339,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@inezxvi @GrumpyOldDoc You will appreciate this @rachajbailey"
+	},
+	{
+		"created_at": "Fri Apr 17 17:33:18 +0000 2020",
+		"id": 1251202089394614300,
+		"id_str": "1251202089394614272",
+		"full_text": "@katerinakolyva I hope it begins to change the narrative.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "katerinakolyva",
+					"name": "Dr Katerina Kolyva",
+					"id": 2156890678,
+					"id_str": "2156890678",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1251073693314359300,
+		"in_reply_to_status_id_str": "1251073693314359296",
+		"in_reply_to_user_id": 2156890678,
+		"in_reply_to_user_id_str": "2156890678",
+		"in_reply_to_screen_name": "katerinakolyva",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1951,
+			"friends_count": 3021,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16339,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1234189090494525441/ZriLbdW0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1445373889",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@katerinakolyva I hope it begins to change the narrative."
+	},
+	{
 		"created_at": "Thu Apr 16 19:23:59 +0000 2020",
 		"id": 1250867554974929000,
 		"id_str": "1250867554974928897",
