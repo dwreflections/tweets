@@ -1,6 +1,861 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Sun Apr 19 19:41:18 +0000 2020",
+		"id": 1251959074138308600,
+		"id_str": "1251959074138308611",
+		"full_text": "@physiorachajb @KhaiSengCheng https://t.co/QP3urHrPew",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "physiorachajb",
+					"name": "Rachael Bailey",
+					"id": 904470732373143600,
+					"id_str": "904470732373143553",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "KhaiSengCheng",
+					"name": "Cheng Khai Seng (a.k.a. Khai)",
+					"id": 963856216421208000,
+					"id_str": "963856216421208072",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1251959066735362000,
+					"id_str": "1251959066735362050",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EV_aI1YXQAIudLQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EV_aI1YXQAIudLQ.jpg",
+					"url": "https://t.co/QP3urHrPew",
+					"display_url": "pic.twitter.com/QP3urHrPew",
+					"expanded_url": "https://twitter.com/beardedPT/status/1251959074138308611/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 270,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1251959066735362000,
+					"id_str": "1251959066735362050",
+					"indices": [
+						30,
+						53
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EV_aI1YXQAIudLQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EV_aI1YXQAIudLQ.jpg",
+					"url": "https://t.co/QP3urHrPew",
+					"display_url": "pic.twitter.com/QP3urHrPew",
+					"expanded_url": "https://twitter.com/beardedPT/status/1251959074138308611/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 200,
+							"h": 270,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 200,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 200,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							20,
+							27
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EV_aI1YXQAIudLQ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1251955125616337000,
+		"in_reply_to_status_id_str": "1251955125616336901",
+		"in_reply_to_user_id": 904470732373143600,
+		"in_reply_to_user_id_str": "904470732373143553",
+		"in_reply_to_screen_name": "physiorachajb",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1959,
+			"friends_count": 3035,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@physiorachajb @KhaiSengCheng https://t.co/QP3urHrPew"
+	},
+	{
+		"created_at": "Sun Apr 19 19:13:40 +0000 2020",
+		"id": 1251952121056055300,
+		"id_str": "1251952121056055301",
+		"full_text": "@physiorachajb How did you get in the lake? 🤔\n\n🤣👍",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "physiorachajb",
+					"name": "Rachael Bailey",
+					"id": 904470732373143600,
+					"id_str": "904470732373143553",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1251950555578208300,
+		"in_reply_to_status_id_str": "1251950555578208258",
+		"in_reply_to_user_id": 904470732373143600,
+		"in_reply_to_user_id_str": "904470732373143553",
+		"in_reply_to_screen_name": "physiorachajb",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1959,
+			"friends_count": 3035,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@physiorachajb How did you get in the lake? 🤔\n\n🤣👍"
+	},
+	{
+		"created_at": "Sun Apr 19 19:06:43 +0000 2020",
+		"id": 1251950372496846800,
+		"id_str": "1251950372496846848",
+		"full_text": "@TaylorAlanJ 👏👏👏",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TaylorAlanJ",
+					"name": "Alan J Taylor",
+					"id": 412127340,
+					"id_str": "412127340",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1251867038156492800,
+		"in_reply_to_status_id_str": "1251867038156492801",
+		"in_reply_to_user_id": 412127340,
+		"in_reply_to_user_id_str": "412127340",
+		"in_reply_to_screen_name": "TaylorAlanJ",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1959,
+			"friends_count": 3035,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@TaylorAlanJ 👏👏👏"
+	},
+	{
+		"created_at": "Sun Apr 19 16:04:11 +0000 2020",
+		"id": 1251904436768833500,
+		"id_str": "1251904436768833536",
+		"full_text": "⬇️ the BEST photoshop skills! \n\nCongratulations @physiorachajb 🥂 https://t.co/KxzYI7Hx7e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "physiorachajb",
+					"name": "Rachael Bailey",
+					"id": 904470732373143600,
+					"id_str": "904470732373143553",
+					"indices": [
+						48,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KxzYI7Hx7e",
+					"expanded_url": "https://twitter.com/physiorachajb/status/1251865196013989888",
+					"display_url": "twitter.com/physiorachajb/…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1959,
+			"friends_count": 3035,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16398,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5856,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1f592b82aea688ff",
+			"url": "https://api.twitter.com/1.1/geo/id/1f592b82aea688ff.json",
+			"place_type": "city",
+			"name": "Derby",
+			"full_name": "Derby, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.556856,
+							52.870587
+						],
+						[
+							-1.384701,
+							52.870587
+						],
+						[
+							-1.384701,
+							52.960473
+						],
+						[
+							-1.556856,
+							52.960473
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1251865196013990000,
+		"quoted_status_id_str": "1251865196013989888",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KxzYI7Hx7e",
+			"expanded": "https://twitter.com/physiorachajb/status/1251865196013989888",
+			"display": "twitter.com/physiorachajb/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 19 13:28:15 +0000 2020",
+			"id": 1251865196013990000,
+			"id_str": "1251865196013989888",
+			"full_text": "I finished my #dissertation today; I’m a little sad I can’t do the official hand in &amp; have a proper photo so... #physiotherapystudent #3rdyear https://t.co/dTqVi9VF8L",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				146
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "dissertation",
+						"indices": [
+							14,
+							27
+						]
+					},
+					{
+						"text": "physiotherapystudent",
+						"indices": [
+							116,
+							137
+						]
+					},
+					{
+						"text": "3rdyear",
+						"indices": [
+							138,
+							146
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1251865189810667500,
+						"id_str": "1251865189810667520",
+						"indices": [
+							147,
+							170
+						],
+						"media_url": "http://pbs.twimg.com/media/EV-EwelXgAA6Tmk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EV-EwelXgAA6Tmk.jpg",
+						"url": "https://t.co/dTqVi9VF8L",
+						"display_url": "pic.twitter.com/dTqVi9VF8L",
+						"expanded_url": "https://twitter.com/physiorachajb/status/1251865196013989888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1251865189810667500,
+						"id_str": "1251865189810667520",
+						"indices": [
+							147,
+							170
+						],
+						"media_url": "http://pbs.twimg.com/media/EV-EwelXgAA6Tmk.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EV-EwelXgAA6Tmk.jpg",
+						"url": "https://t.co/dTqVi9VF8L",
+						"display_url": "pic.twitter.com/dTqVi9VF8L",
+						"expanded_url": "https://twitter.com/physiorachajb/status/1251865196013989888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1251865189806477300,
+						"id_str": "1251865189806477313",
+						"indices": [
+							147,
+							170
+						],
+						"media_url": "http://pbs.twimg.com/media/EV-EwekXkAEqmH4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EV-EwekXkAEqmH4.jpg",
+						"url": "https://t.co/dTqVi9VF8L",
+						"display_url": "pic.twitter.com/dTqVi9VF8L",
+						"expanded_url": "https://twitter.com/physiorachajb/status/1251865196013989888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 802,
+								"h": 802,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 802,
+								"h": 802,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1251865190129418200,
+						"id_str": "1251865190129418241",
+						"indices": [
+							147,
+							170
+						],
+						"media_url": "http://pbs.twimg.com/media/EV-EwfxXQAEo4SB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EV-EwfxXQAEo4SB.jpg",
+						"url": "https://t.co/dTqVi9VF8L",
+						"display_url": "pic.twitter.com/dTqVi9VF8L",
+						"expanded_url": "https://twitter.com/physiorachajb/status/1251865196013989888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 836,
+								"h": 836,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 836,
+								"h": 836,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1251865190230036500,
+						"id_str": "1251865190230036484",
+						"indices": [
+							147,
+							170
+						],
+						"media_url": "http://pbs.twimg.com/media/EV-EwgJWkAQZWlj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EV-EwgJWkAQZWlj.jpg",
+						"url": "https://t.co/dTqVi9VF8L",
+						"display_url": "pic.twitter.com/dTqVi9VF8L",
+						"expanded_url": "https://twitter.com/physiorachajb/status/1251865196013989888/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1233,
+								"h": 1233,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 904470732373143600,
+				"id_str": "904470732373143553",
+				"name": "Rachael Bailey",
+				"screen_name": "physiorachajb",
+				"location": "Nottingham, England",
+				"description": "3rd year physiotherapy student, course rep, mature student mentor & digital ambassador at the University of Nottingham 🤸🏻‍♂️",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 190,
+				"friends_count": 242,
+				"listed_count": 0,
+				"created_at": "Sun Sep 03 22:26:41 +0000 2017",
+				"favourites_count": 274,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 154,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1219172752411611136/aD9fw4yY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1219172752411611136/aD9fw4yY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/904470732373143553/1584617493",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 135,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "⬇️ the BEST photoshop skills! \n\nCongratulations @physiorachajb 🥂 https://t.co/KxzYI7Hx7e"
+	},
+	{
 		"created_at": "Sat Apr 18 20:47:19 +0000 2020",
 		"id": 1251335358677225500,
 		"id_str": "1251613300024107010",
