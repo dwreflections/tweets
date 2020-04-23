@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 22 15:33:15 +0000 2020",
+		"id": 1252983813665370000,
+		"id_str": "1252983813665370113",
+		"full_text": "@distinctphysio You too! 🥳",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "distinctphysio",
+					"name": "Distinct Physio",
+					"id": 3640404735,
+					"id_str": "3640404735",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1252573638924042200,
+		"in_reply_to_status_id_str": "1252573638924042240",
+		"in_reply_to_user_id": 3640404735,
+		"in_reply_to_user_id_str": "3640404735",
+		"in_reply_to_screen_name": "distinctphysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1964,
+			"friends_count": 3040,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16417,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@distinctphysio You too! 🥳"
+	},
+	{
 		"created_at": "Tue Apr 21 11:05:11 +0000 2020",
 		"id": 1252553964299718700,
 		"id_str": "1252553964299718658",
@@ -137,7 +240,7 @@ Grailbird.data.tweets_2020_04 =
 		"created_at": "Tue Apr 21 09:51:38 +0000 2020",
 		"id": 1252535454668337200,
 		"id_str": "1252535454668337152",
-		"full_text": "@distinctphysio Me 🙋🏻‍♂️",
+		"full_text": "@distinctphysio Me 🙋🏻♂️",
 		"truncated": false,
 		"display_text_range": [
 			16,
@@ -234,7 +337,7 @@ Grailbird.data.tweets_2020_04 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "und",
-		"text": "@distinctphysio Me 🙋🏻‍♂️"
+		"text": "@distinctphysio Me 🙋🏻♂️"
 	},
 	{
 		"created_at": "Sun Apr 19 19:41:18 +0000 2020",
