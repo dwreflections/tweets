@@ -1,6 +1,188 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 23 20:50:29 +0000 2020",
+		"id": 1252951634923204600,
+		"id_str": "1253426037481811968",
+		"full_text": "We all need a little extra help sometimes, especially when we are dealing with something so alien to us. Below are some wise words and advice from Commandant General Royal Marines, Major General Matt Holmes CBE DSO\n\n“We are living in quite extraordinary times; but no... #RMfamily https://t.co/hCjElgeAyI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RMfamily",
+					"indices": [
+						271,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1252951632805007400,
+					"id_str": "1252951632805007361",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EWNg3yIWkAEHcad.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWNg3yIWkAEHcad.jpg",
+					"url": "https://t.co/hCjElgeAyI",
+					"display_url": "pic.twitter.com/hCjElgeAyI",
+					"expanded_url": "https://twitter.com/theRMcharity/status/1252951634923204608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1252951632805007400,
+					"id_str": "1252951632805007361",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EWNg3yIWkAEHcad.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWNg3yIWkAEHcad.jpg",
+					"url": "https://t.co/hCjElgeAyI",
+					"display_url": "pic.twitter.com/hCjElgeAyI",
+					"expanded_url": "https://twitter.com/theRMcharity/status/1252951634923204608/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://coschedule.com\" rel=\"nofollow\">CoSchedule</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 190272480,
+			"id_str": "190272480",
+			"name": "Royal Marines Charity",
+			"screen_name": "theRMcharity",
+			"location": "Lympstone, England",
+			"description": "RMA - The Royal Marines Charity; providing a better quality of life to serving and retired #RoyalMarines and their families - #RMfamily",
+			"url": "https://t.co/D4T5Dbw9JH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/D4T5Dbw9JH",
+							"expanded_url": "http://www.rma-trmc.org",
+							"display_url": "rma-trmc.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15547,
+			"friends_count": 2964,
+			"listed_count": 112,
+			"created_at": "Mon Sep 13 14:47:06 +0000 2010",
+			"favourites_count": 6771,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 7975,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "136839",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1112639155052400640/W-vj73jL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1112639155052400640/W-vj73jL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/190272480/1554110243",
+			"profile_link_color": "136839",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 95,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We all need a little extra help sometimes, especially when we are dealing with something so alien to us. Below are some wise words and advice from Commandant General Royal Marines, Major General Matt Holmes CBE DSO\n\n“We are living in quite extraordinary times; but no... #RMfamily https://t.co/hCjElgeAyI"
+	},
+	{
 		"created_at": "Wed Apr 22 15:33:15 +0000 2020",
 		"id": 1252983813665370000,
 		"id_str": "1252983813665370113",
