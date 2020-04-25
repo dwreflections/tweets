@@ -1,6 +1,953 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Fri Apr 24 22:55:40 +0000 2020",
+		"id": 1253743424769011700,
+		"id_str": "1253819927955415041",
+		"full_text": "Another great insight into the work of clinicians in the #NHS on @BBCNews with @UHS_Therapy’s Tom Meredith. A credit to the service along with his colleagues. Short clip below &amp; catch it again on the 10pm programme. Thanks @cathburns for another superb item #coronavirus #COVID19 https://t.co/LAf1RiP8E0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NHS",
+					"indices": [
+						57,
+						61
+					]
+				},
+				{
+					"text": "coronavirus",
+					"indices": [
+						262,
+						274
+					]
+				},
+				{
+					"text": "COVID19",
+					"indices": [
+						275,
+						283
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BBCNews",
+					"name": "BBC News (UK)",
+					"id": 612473,
+					"id_str": "612473",
+					"indices": [
+						65,
+						73
+					]
+				},
+				{
+					"screen_name": "UHS_Therapy",
+					"name": "UHS Therapy Services",
+					"id": 1024624281618186200,
+					"id_str": "1024624281618186242",
+					"indices": [
+						79,
+						91
+					]
+				},
+				{
+					"screen_name": "cathburns",
+					"name": "catherine burns",
+					"id": 20606436,
+					"id_str": "20606436",
+					"indices": [
+						227,
+						237
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1253743197383266300,
+					"id_str": "1253743197383266304",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253743197383266304/pu/img/7IkflRgIrh4rxqPI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253743197383266304/pu/img/7IkflRgIrh4rxqPI.jpg",
+					"url": "https://t.co/LAf1RiP8E0",
+					"display_url": "pic.twitter.com/LAf1RiP8E0",
+					"expanded_url": "https://twitter.com/MattWattsMedia/status/1253743424769011718/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1253743197383266300,
+					"id_str": "1253743197383266304",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1253743197383266304/pu/img/7IkflRgIrh4rxqPI.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1253743197383266304/pu/img/7IkflRgIrh4rxqPI.jpg",
+					"url": "https://t.co/LAf1RiP8E0",
+					"display_url": "pic.twitter.com/LAf1RiP8E0",
+					"expanded_url": "https://twitter.com/MattWattsMedia/status/1253743424769011718/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 140017,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1253743197383266304/pu/vid/1280x720/P8UXEYxyLYpBIBqr.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1253743197383266304/pu/vid/480x270/rbZmJlU-ReLoc42c.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1253743197383266304/pu/pl/3dGVP6IPx0F60Y4y.m3u8?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1253743197383266304/pu/vid/640x360/tA6rrisuYwIHqf6f.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1174061277959901200,
+			"id_str": "1174061277959901185",
+			"name": "Matthew Watts",
+			"screen_name": "MattWattsMedia",
+			"location": "",
+			"description": "Passion for news, writing and media relations. Head of news @UHSFT and @SouthamptonFC fan. All views my own.",
+			"url": "https://t.co/wmFAtov3zm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/wmFAtov3zm",
+							"expanded_url": "http://linkedin.com/in/matthew-watts1",
+							"display_url": "linkedin.com/in/matthew-wat…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 385,
+			"friends_count": 611,
+			"listed_count": 1,
+			"created_at": "Tue Sep 17 20:43:24 +0000 2019",
+			"favourites_count": 650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 338,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1180912941908074496/wRvpII2G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180912941908074496/wRvpII2G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1174061277959901185/1568753676",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 19,
+		"favorite_count": 60,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Another great insight into the work of clinicians in the #NHS on @BBCNews with @UHS_Therapy’s Tom Meredith. A credit to the service along with his colleagues. Short clip below &amp; catch it again on the 10pm programme. Thanks @cathburns for another superb item #coronavirus #COVID19 https://t.co/LAf1RiP8E0"
+	},
+	{
+		"created_at": "Fri Apr 24 21:29:12 +0000 2020",
+		"id": 1253798168057315300,
+		"id_str": "1253798168057315330",
+		"full_text": "@_Sanaaaah Ramadan Mubarak 💫",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_Sanaaaah",
+					"name": "Sanaa",
+					"id": 41573015,
+					"id_str": "41573015",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1253796650948182000,
+		"in_reply_to_status_id_str": "1253796650948182023",
+		"in_reply_to_user_id": 41573015,
+		"in_reply_to_user_id_str": "41573015",
+		"in_reply_to_screen_name": "_Sanaaaah",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1967,
+			"friends_count": 3058,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tr",
+		"text": "@_Sanaaaah Ramadan Mubarak 💫"
+	},
+	{
+		"created_at": "Fri Apr 24 17:37:27 +0000 2020",
+		"id": 1253739847040340000,
+		"id_str": "1253739847040339969",
+		"full_text": "Well done @captaintommoore on the Number 1! Well deserved 👏\n\nCongratulations &amp; thank you from the Specialist Medicine Therapy Team at @UHDBTrust ✨\n\n#CaptainTomMoore #NHSheroes #AHP #TeamUHDB #physiotherapy #OccupationalTherapy https://t.co/0LWQd9bHgR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CaptainTomMoore",
+					"indices": [
+						152,
+						168
+					]
+				},
+				{
+					"text": "NHSheroes",
+					"indices": [
+						169,
+						179
+					]
+				},
+				{
+					"text": "AHP",
+					"indices": [
+						180,
+						184
+					]
+				},
+				{
+					"text": "TeamUHDB",
+					"indices": [
+						185,
+						194
+					]
+				},
+				{
+					"text": "physiotherapy",
+					"indices": [
+						195,
+						209
+					]
+				},
+				{
+					"text": "OccupationalTherapy",
+					"indices": [
+						210,
+						230
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "captaintommoore",
+					"name": "Captain Tom Moore",
+					"id": 1247966591205195800,
+					"id_str": "1247966591205195784",
+					"indices": [
+						10,
+						26
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						138,
+						148
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1253739842141335600,
+					"id_str": "1253739842141335559",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/EWYtvmuWsAceFkT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWYtvmuWsAceFkT.jpg",
+					"url": "https://t.co/0LWQd9bHgR",
+					"display_url": "pic.twitter.com/0LWQd9bHgR",
+					"expanded_url": "https://twitter.com/beardedPT/status/1253739847040339969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 882,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 735,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 417,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1253739842141335600,
+					"id_str": "1253739842141335559",
+					"indices": [
+						231,
+						254
+					],
+					"media_url": "http://pbs.twimg.com/media/EWYtvmuWsAceFkT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWYtvmuWsAceFkT.jpg",
+					"url": "https://t.co/0LWQd9bHgR",
+					"display_url": "pic.twitter.com/0LWQd9bHgR",
+					"expanded_url": "https://twitter.com/beardedPT/status/1253739847040339969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1440,
+							"h": 882,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 735,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 417,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1967,
+			"friends_count": 3058,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "0fc267a029d41000",
+			"url": "https://api.twitter.com/1.1/geo/id/0fc267a029d41000.json",
+			"place_type": "poi",
+			"name": "Royal Derby Hospital",
+			"full_name": "Royal Derby Hospital",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.5141394882359358,
+							52.910327731110876
+						],
+						[
+							-1.5141394882359358,
+							52.910327731110876
+						],
+						[
+							-1.5141394882359358,
+							52.910327731110876
+						],
+						[
+							-1.5141394882359358,
+							52.910327731110876
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well done @captaintommoore on the Number 1! Well deserved 👏\n\nCongratulations &amp; thank you from the Specialist Medicine Therapy Team at @UHDBTrust ✨\n\n#CaptainTomMoore #NHSheroes #AHP #TeamUHDB #physiotherapy #OccupationalTherapy https://t.co/0LWQd9bHgR"
+	},
+	{
+		"created_at": "Fri Apr 24 11:00:56 +0000 2020",
+		"id": 1253640061758967800,
+		"id_str": "1253640061758967810",
+		"full_text": "@RogerKerry1 Ah... damm! I was to busy burning 5G pylons to get me bleach for ‘tha covids... https://t.co/JzhgyhILrx",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1253640054230126600,
+					"id_str": "1253640054230126599",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EWXS_LyWkAcaNJI.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWXS_LyWkAcaNJI.jpg",
+					"url": "https://t.co/JzhgyhILrx",
+					"display_url": "pic.twitter.com/JzhgyhILrx",
+					"expanded_url": "https://twitter.com/beardedPT/status/1253640061758967810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 270,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 270,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1253640054230126600,
+					"id_str": "1253640054230126599",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EWXS_LyWkAcaNJI.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EWXS_LyWkAcaNJI.jpg",
+					"url": "https://t.co/JzhgyhILrx",
+					"display_url": "pic.twitter.com/JzhgyhILrx",
+					"expanded_url": "https://twitter.com/beardedPT/status/1253640061758967810/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 270,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 270,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							50,
+							27
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EWXS_LyWkAcaNJI.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1253616775528415200,
+		"in_reply_to_status_id_str": "1253616775528415233",
+		"in_reply_to_user_id": 396832258,
+		"in_reply_to_user_id_str": "396832258",
+		"in_reply_to_screen_name": "RogerKerry1",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1967,
+			"friends_count": 3058,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@RogerKerry1 Ah... damm! I was to busy burning 5G pylons to get me bleach for ‘tha covids... https://t.co/JzhgyhILrx"
+	},
+	{
+		"created_at": "Fri Apr 24 07:52:40 +0000 2020",
+		"id": 1253592680875073500,
+		"id_str": "1253592680875073536",
+		"full_text": "@RobYeldham This needs to be discussed 👏 \nTotally agree @RobYeldham &amp; @goodyrob",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RobYeldham",
+					"name": "Rob Yeldham",
+					"id": 722676146,
+					"id_str": "722676146",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "RobYeldham",
+					"name": "Rob Yeldham",
+					"id": 722676146,
+					"id_str": "722676146",
+					"indices": [
+						56,
+						67
+					]
+				},
+				{
+					"screen_name": "goodyrob",
+					"name": "rob goodwin",
+					"id": 121197556,
+					"id_str": "121197556",
+					"indices": [
+						74,
+						83
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1253563778186317800,
+		"in_reply_to_status_id_str": "1253563778186317825",
+		"in_reply_to_user_id": 722676146,
+		"in_reply_to_user_id_str": "722676146",
+		"in_reply_to_screen_name": "RobYeldham",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1967,
+			"friends_count": 3058,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16448,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5868,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RobYeldham This needs to be discussed 👏 \nTotally agree @RobYeldham &amp; @goodyrob"
+	},
+	{
 		"created_at": "Thu Apr 23 20:50:29 +0000 2020",
 		"id": 1252951634923204600,
 		"id_str": "1253426037481811968",
