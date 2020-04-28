@@ -1,10 +1,123 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 27 18:39:22 +0000 2020",
+		"id": 1254842592874938400,
+		"id_str": "1254842592874938370",
+		"full_text": "@physio_back @150Leaders Excellent 👏🏻",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "physio_back",
+					"name": "ThePhysioBack",
+					"id": 1048100165582839800,
+					"id_str": "1048100165582839808",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "150Leaders",
+					"name": "#150Leaders 💙",
+					"id": 1139187039151280100,
+					"id_str": "1139187039151280128",
+					"indices": [
+						13,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1253026041590923300,
+		"in_reply_to_status_id_str": "1253026041590923273",
+		"in_reply_to_user_id": 1048100165582839800,
+		"in_reply_to_user_id_str": "1048100165582839808",
+		"in_reply_to_screen_name": "physio_back",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1968,
+			"friends_count": 3070,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16485,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@physio_back @150Leaders Excellent 👏🏻"
+	},
+	{
 		"created_at": "Sun Apr 26 21:23:52 +0000 2020",
 		"id": 1254521601892253700,
 		"id_str": "1254521601892253696",
-		"full_text": "@cate_langley @hayleymagill CP to a physio = cerebral palsy \nCP to a medic = chest pain \nAbbreviations 🤷‍♂️",
+		"full_text": "@cate_langley @hayleymagill CP to a physio = cerebral palsy \nCP to a medic = chest pain \nAbbreviations 🤷♂️",
 		"truncated": false,
 		"display_text_range": [
 			28,
@@ -111,7 +224,7 @@ Grailbird.data.tweets_2020_04 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@cate_langley @hayleymagill CP to a physio = cerebral palsy \nCP to a medic = chest pain \nAbbreviations 🤷‍♂️"
+		"text": "@cate_langley @hayleymagill CP to a physio = cerebral palsy \nCP to a medic = chest pain \nAbbreviations 🤷♂️"
 	},
 	{
 		"created_at": "Sun Apr 26 17:51:57 +0000 2020",
