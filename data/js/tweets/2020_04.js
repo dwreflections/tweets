@@ -1,6 +1,996 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Thu Apr 30 20:14:27 +0000 2020",
+		"id": 1255953682618818600,
+		"id_str": "1255953682618818560",
+		"full_text": "@AmberRosePhysio @GatesPhysio It will never die ✊",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmberRosePhysio",
+					"name": "Amber Roberts",
+					"id": 963499944081535000,
+					"id_str": "963499944081534976",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "GatesPhysio",
+					"name": "John Gates",
+					"id": 451401278,
+					"id_str": "451401278",
+					"indices": [
+						17,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1255947147708694500,
+		"in_reply_to_status_id_str": "1255947147708694528",
+		"in_reply_to_user_id": 963499944081535000,
+		"in_reply_to_user_id_str": "963499944081534976",
+		"in_reply_to_screen_name": "AmberRosePhysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1974,
+			"friends_count": 3083,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AmberRosePhysio @GatesPhysio It will never die ✊"
+	},
+	{
+		"created_at": "Thu Apr 30 20:14:05 +0000 2020",
+		"id": 1255953593611554800,
+		"id_str": "1255953593611554817",
+		"full_text": "⬆️ @GatesPhysio 👌",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GatesPhysio",
+					"name": "John Gates",
+					"id": 451401278,
+					"id_str": "451401278",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1247530299220586500,
+		"in_reply_to_status_id_str": "1247530299220586498",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1974,
+			"friends_count": 3083,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "⬆️ @GatesPhysio 👌"
+	},
+	{
+		"created_at": "Thu Apr 30 19:45:41 +0000 2020",
+		"id": 1255946443292135400,
+		"id_str": "1255946443292135424",
+		"full_text": "⬆️Shout out the #SpecialistMedicineTherapyTeam \nA fine body of therapists! Couldn’t be more proud of my brilliant team ✨⬆️",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SpecialistMedicineTherapyTeam",
+					"indices": [
+						16,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1255946441144569900,
+		"in_reply_to_status_id_str": "1255946441144569863",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1974,
+			"friends_count": 3083,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52041af7b8001313",
+			"url": "https://api.twitter.com/1.1/geo/id/52041af7b8001313.json",
+			"place_type": "city",
+			"name": "Rugeley",
+			"full_name": "Rugeley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.971255,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.773708
+						],
+						[
+							-1.971255,
+							52.773708
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "⬆️Shout out the #SpecialistMedicineTherapyTeam \nA fine body of therapists! Couldn’t be more proud of my brilliant team ✨⬆️"
+	},
+	{
+		"created_at": "Thu Apr 30 19:45:40 +0000 2020",
+		"id": 1255946441144569900,
+		"id_str": "1255946441144569863",
+		"full_text": "Happy birthday Sir &amp; BZ on the promotion 👏🥂#HappyBirthdayColonelTom https://t.co/uXGO58wqS8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HappyBirthdayColonelTom",
+					"indices": [
+						47,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uXGO58wqS8",
+					"expanded_url": "https://twitter.com/uhdbtrust/status/1255837929844412418",
+					"display_url": "twitter.com/uhdbtrust/stat…",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1974,
+			"friends_count": 3083,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52041af7b8001313",
+			"url": "https://api.twitter.com/1.1/geo/id/52041af7b8001313.json",
+			"place_type": "city",
+			"name": "Rugeley",
+			"full_name": "Rugeley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.971255,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.773708
+						],
+						[
+							-1.971255,
+							52.773708
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1255837929844412400,
+		"quoted_status_id_str": "1255837929844412418",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uXGO58wqS8",
+			"expanded": "https://twitter.com/uhdbtrust/status/1255837929844412418",
+			"display": "twitter.com/uhdbtrust/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 30 12:34:29 +0000 2020",
+			"id": 1255837929844412400,
+			"id_str": "1255837929844412418",
+			"full_text": "Happy 100th Birthday #CaptainTomMoore from all of #TeamUHDB. \n\nYou've inspired us all 💙\n\nWe’ll be clapping for you tonight 👏🏼👏🏼👏🏼\n\n#HappyBirthdayCaptainTom https://t.co/neUzmcjv4m",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				155
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CaptainTomMoore",
+						"indices": [
+							21,
+							37
+						]
+					},
+					{
+						"text": "TeamUHDB",
+						"indices": [
+							50,
+							59
+						]
+					},
+					{
+						"text": "HappyBirthdayCaptainTom",
+						"indices": [
+							131,
+							155
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1255837673329242000,
+						"id_str": "1255837673329242113",
+						"indices": [
+							156,
+							179
+						],
+						"media_url": "http://pbs.twimg.com/media/EW2htc5XsAEALqY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EW2htc5XsAEALqY.jpg",
+						"url": "https://t.co/neUzmcjv4m",
+						"display_url": "pic.twitter.com/neUzmcjv4m",
+						"expanded_url": "https://twitter.com/UHDBTrust/status/1255837929844412418/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 924,
+								"h": 561,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 413,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 924,
+								"h": 561,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1255837673329242000,
+						"id_str": "1255837673329242113",
+						"indices": [
+							156,
+							179
+						],
+						"media_url": "http://pbs.twimg.com/media/EW2htc5XsAEALqY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EW2htc5XsAEALqY.jpg",
+						"url": "https://t.co/neUzmcjv4m",
+						"display_url": "pic.twitter.com/neUzmcjv4m",
+						"expanded_url": "https://twitter.com/UHDBTrust/status/1255837929844412418/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 924,
+								"h": 561,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 413,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 924,
+								"h": 561,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 429877936,
+				"id_str": "429877936",
+				"name": "University Hospitals of Derby and Burton NHS FT",
+				"screen_name": "UHDBTrust",
+				"location": "Derby, Burton, Tamworth, Lichfield",
+				"description": "Official Twitter page of University Hospitals of Derby and Burton NHS Foundation Trust. 🏥",
+				"url": "https://t.co/x70bd3ATs0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/x70bd3ATs0",
+								"expanded_url": "http://www.uhdb.nhs.uk",
+								"display_url": "uhdb.nhs.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13264,
+				"friends_count": 1167,
+				"listed_count": 147,
+				"created_at": "Tue Dec 06 14:09:36 +0000 2011",
+				"favourites_count": 6308,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19952,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1194905016840196098/utwEIHoG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1194905016840196098/utwEIHoG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/429877936/1583772098",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 56,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy birthday Sir &amp; BZ on the promotion 👏🥂#HappyBirthdayColonelTom https://t.co/uXGO58wqS8"
+	},
+	{
+		"created_at": "Thu Apr 30 19:38:54 +0000 2020",
+		"id": 1255944738269802500,
+		"id_str": "1255944738269802498",
+		"full_text": "@GatesPhysio @AmberRosePhysio RIP 😢",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GatesPhysio",
+					"name": "John Gates",
+					"id": 451401278,
+					"id_str": "451401278",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "AmberRosePhysio",
+					"name": "Amber Roberts",
+					"id": 963499944081535000,
+					"id_str": "963499944081534976",
+					"indices": [
+						13,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1255942011313676300,
+		"in_reply_to_status_id_str": "1255942011313676288",
+		"in_reply_to_user_id": 451401278,
+		"in_reply_to_user_id_str": "451401278",
+		"in_reply_to_screen_name": "GatesPhysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1974,
+			"friends_count": 3083,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@GatesPhysio @AmberRosePhysio RIP 😢"
+	},
+	{
+		"created_at": "Thu Apr 30 19:23:45 +0000 2020",
+		"id": 1255940925844570000,
+		"id_str": "1255940925844570113",
+		"full_text": "@AmberRosePhysio The memorial to the beard 🧔🏻 https://t.co/OevxPEdNfT",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmberRosePhysio",
+					"name": "Amber Roberts",
+					"id": 963499944081535000,
+					"id_str": "963499944081534976",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1255940913043570700,
+					"id_str": "1255940913043570691",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EW3_myzXgAMTNUB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW3_myzXgAMTNUB.jpg",
+					"url": "https://t.co/OevxPEdNfT",
+					"display_url": "pic.twitter.com/OevxPEdNfT",
+					"expanded_url": "https://twitter.com/beardedPT/status/1255940925844570113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1255940913043570700,
+					"id_str": "1255940913043570691",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EW3_myzXgAMTNUB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EW3_myzXgAMTNUB.jpg",
+					"url": "https://t.co/OevxPEdNfT",
+					"display_url": "pic.twitter.com/OevxPEdNfT",
+					"expanded_url": "https://twitter.com/beardedPT/status/1255940925844570113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1255898504427458600,
+		"in_reply_to_status_id_str": "1255898504427458563",
+		"in_reply_to_user_id": 963499944081535000,
+		"in_reply_to_user_id_str": "963499944081534976",
+		"in_reply_to_screen_name": "AmberRosePhysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1974,
+			"friends_count": 3083,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@AmberRosePhysio The memorial to the beard 🧔🏻 https://t.co/OevxPEdNfT"
+	},
+	{
 		"created_at": "Wed Apr 29 19:07:44 +0000 2020",
 		"id": 1255574504723697700,
 		"id_str": "1255574504723697666",
