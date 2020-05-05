@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 04 21:07:18 +0000 2020",
+		"id": 1257416534982525000,
+		"id_str": "1257416534982524930",
+		"full_text": "@shona_physio Not really?",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shona_physio",
+					"name": "#hellomynameis Shona",
+					"id": 1229533966715277300,
+					"id_str": "1229533966715277314",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1257410665410592800,
+		"in_reply_to_status_id_str": "1257410665410592769",
+		"in_reply_to_user_id": 1229533966715277300,
+		"in_reply_to_user_id_str": "1229533966715277314",
+		"in_reply_to_screen_name": "shona_physio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1977,
+			"friends_count": 3107,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16556,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@shona_physio Not really?"
+	},
+	{
 		"created_at": "Sat May 02 19:40:48 +0000 2020",
 		"id": 1256669993296711700,
 		"id_str": "1256669993296711682",
@@ -387,7 +490,7 @@ Grailbird.data.tweets_2020_05 =
 		"created_at": "Sat May 02 16:36:08 +0000 2020",
 		"id": 1256623518395089000,
 		"id_str": "1256623518395088907",
-		"full_text": "@ElunedAnderson Be kind always 🤷‍♂️👍",
+		"full_text": "@ElunedAnderson Be kind always 🤷♂️👍",
 		"truncated": false,
 		"display_text_range": [
 			16,
@@ -484,7 +587,7 @@ Grailbird.data.tweets_2020_05 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@ElunedAnderson Be kind always 🤷‍♂️👍"
+		"text": "@ElunedAnderson Be kind always 🤷♂️👍"
 	},
 	{
 		"created_at": "Sat May 02 14:15:12 +0000 2020",
