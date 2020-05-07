@@ -1,6 +1,277 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Wed May 06 17:28:16 +0000 2020",
+		"id": 1258086190315683800,
+		"id_str": "1258086190315683841",
+		"full_text": "Fantastic news ⬇️👏!\n\n@eleanormdoug will be a fantastic ambassador for the profession in these unprecedented times ✨\n\nIf the #COVID19 pandemic has taught us anything it is the essential and brilliant contribution respiratory physio has in the #NHS 🙌 https://t.co/FuTiO4GqkS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID19",
+					"indices": [
+						124,
+						132
+					]
+				},
+				{
+					"text": "NHS",
+					"indices": [
+						242,
+						246
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "eleanormdoug",
+					"name": "Eleanor Douglas",
+					"id": 775348658124517400,
+					"id_str": "775348658124517376",
+					"indices": [
+						21,
+						34
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FuTiO4GqkS",
+					"expanded_url": "https://twitter.com/eleanormdoug/status/1257775917591605250",
+					"display_url": "twitter.com/eleanormdoug/s…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 1980,
+			"friends_count": 3112,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16593,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1251509557244944387/8x6CJFv8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52041af7b8001313",
+			"url": "https://api.twitter.com/1.1/geo/id/52041af7b8001313.json",
+			"place_type": "city",
+			"name": "Rugeley",
+			"full_name": "Rugeley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.971255,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.773708
+						],
+						[
+							-1.971255,
+							52.773708
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1257775917591605200,
+		"quoted_status_id_str": "1257775917591605250",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FuTiO4GqkS",
+			"expanded": "https://twitter.com/eleanormdoug/status/1257775917591605250",
+			"display": "twitter.com/eleanormdoug/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 05 20:55:21 +0000 2020",
+			"id": 1257775917591605200,
+			"id_str": "1257775917591605250",
+			"full_text": "I’m looking forward to working with @TheACPRC as the Chair of the Respiratory Physiotherapy Leaders Network. Thank you @rachaelmoses for the vision, passion and commitment you had setting up and leading this group. Very best wishes in your new adventure😍🤩",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				255
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TheACPRC",
+						"name": "ACPRC",
+						"id": 1728120193,
+						"id_str": "1728120193",
+						"indices": [
+							36,
+							45
+						]
+					},
+					{
+						"screen_name": "rachaelmoses",
+						"name": "rachael moses",
+						"id": 107548705,
+						"id_str": "107548705",
+						"indices": [
+							119,
+							132
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 775348658124517400,
+				"id_str": "775348658124517376",
+				"name": "Eleanor Douglas",
+				"screen_name": "eleanormdoug",
+				"location": "Nottingham, England",
+				"description": "Lecturer/Practitioner Physiotherapist in Cardiorespiratory Care and Qualified Iyengar Yoga Teacher. Loves live music, dressmaking, culture & arts",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 382,
+				"friends_count": 315,
+				"listed_count": 2,
+				"created_at": "Mon Sep 12 15:01:40 +0000 2016",
+				"favourites_count": 1137,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 234,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/933360427811135489/S76B7v0T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/933360427811135489/S76B7v0T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/775348658124517376/1587722698",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 130,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fantastic news ⬇️👏!\n\n@eleanormdoug will be a fantastic ambassador for the profession in these unprecedented times ✨\n\nIf the #COVID19 pandemic has taught us anything it is the essential and brilliant contribution respiratory physio has in the #NHS 🙌 https://t.co/FuTiO4GqkS"
+	},
+	{
 		"created_at": "Tue May 05 21:44:11 +0000 2020",
 		"id": 1257788204285137000,
 		"id_str": "1257788204285136897",
@@ -1126,7 +1397,7 @@ Grailbird.data.tweets_2020_05 =
 		"created_at": "Tue May 05 11:50:19 +0000 2020",
 		"id": 1257638754237497300,
 		"id_str": "1257638754237497345",
-		"full_text": "@shona_physio @RogerKerry1 * connecting 🤷‍♂️😌👍",
+		"full_text": "@shona_physio @RogerKerry1 * connecting 🤷♂️😌👍",
 		"truncated": false,
 		"display_text_range": [
 			27,
@@ -1233,7 +1504,7 @@ Grailbird.data.tweets_2020_05 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@shona_physio @RogerKerry1 * connecting 🤷‍♂️😌👍"
+		"text": "@shona_physio @RogerKerry1 * connecting 🤷♂️😌👍"
 	},
 	{
 		"created_at": "Tue May 05 11:22:52 +0000 2020",
