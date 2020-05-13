@@ -1,6 +1,1368 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 12 19:54:16 +0000 2020",
+		"id": 1260297258798583800,
+		"id_str": "1260297258798583814",
+		"full_text": "@RogerKerry1 @laurarathbone ⬆️ A lesson in being human 👌",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "laurarathbone",
+					"name": "Laura Rathbone🥦🌱✌🇪🇺",
+					"id": 32357102,
+					"id_str": "32357102",
+					"indices": [
+						13,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1260132595859423200,
+		"in_reply_to_status_id_str": "1260132595859423237",
+		"in_reply_to_user_id": 396832258,
+		"in_reply_to_user_id_str": "396832258",
+		"in_reply_to_screen_name": "RogerKerry1",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2003,
+			"friends_count": 3160,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16797,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RogerKerry1 @laurarathbone ⬆️ A lesson in being human 👌"
+	},
+	{
+		"created_at": "Tue May 12 19:32:06 +0000 2020",
+		"id": 1260291681309479000,
+		"id_str": "1260291681309478912",
+		"full_text": "@PaulChapman09 @NHS_HealthEdEng @teamtouchdesign @BeverleyHarden @NHSEArmedForces @ashh133 @Vicky_553 @HealthCareersUK @questmagazine Save the best to last, hey ... 😆",
+		"truncated": false,
+		"display_text_range": [
+			134,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PaulChapman09",
+					"name": "Paul_Chapman09",
+					"id": 735562813146533900,
+					"id_str": "735562813146533888",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "NHS_HealthEdEng",
+					"name": "NHS HEE #StayHomeSaveLives",
+					"id": 637008966,
+					"id_str": "637008966",
+					"indices": [
+						15,
+						31
+					]
+				},
+				{
+					"screen_name": "teamtouchdesign",
+					"name": "Touch Design",
+					"id": 175411546,
+					"id_str": "175411546",
+					"indices": [
+						32,
+						48
+					]
+				},
+				{
+					"screen_name": "BeverleyHarden",
+					"name": "Beverley Harden",
+					"id": 1641141318,
+					"id_str": "1641141318",
+					"indices": [
+						49,
+						64
+					]
+				},
+				{
+					"screen_name": "NHSEArmedForces",
+					"name": "NHSE Armed Forces",
+					"id": 2831648813,
+					"id_str": "2831648813",
+					"indices": [
+						65,
+						81
+					]
+				},
+				{
+					"screen_name": "ashh133",
+					"name": "ashRD",
+					"id": 30861050,
+					"id_str": "30861050",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"screen_name": "Vicky_553",
+					"name": "Victoria Hain",
+					"id": 2273556668,
+					"id_str": "2273556668",
+					"indices": [
+						91,
+						101
+					]
+				},
+				{
+					"screen_name": "HealthCareersUK",
+					"name": "Health Careers",
+					"id": 198861182,
+					"id_str": "198861182",
+					"indices": [
+						102,
+						118
+					]
+				},
+				{
+					"screen_name": "questmagazine",
+					"name": "Quest Magazine",
+					"id": 87697132,
+					"id_str": "87697132",
+					"indices": [
+						119,
+						133
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1260288387912794000,
+		"in_reply_to_status_id_str": "1260288387912794118",
+		"in_reply_to_user_id": 735562813146533900,
+		"in_reply_to_user_id_str": "735562813146533888",
+		"in_reply_to_screen_name": "PaulChapman09",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2003,
+			"friends_count": 3160,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16797,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PaulChapman09 @NHS_HealthEdEng @teamtouchdesign @BeverleyHarden @NHSEArmedForces @ashh133 @Vicky_553 @HealthCareersUK @questmagazine Save the best to last, hey ... 😆"
+	},
+	{
+		"created_at": "Tue May 12 18:52:20 +0000 2020",
+		"id": 1260281675352879000,
+		"id_str": "1260281675352879107",
+		"full_text": "@_lewadam So many things... ZERO time! \n\nLooks 👌👍",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_lewadam",
+					"name": "Lewis Lovegrove",
+					"id": 196719130,
+					"id_str": "196719130",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1260280698302337000,
+		"in_reply_to_status_id_str": "1260280698302337025",
+		"in_reply_to_user_id": 196719130,
+		"in_reply_to_user_id_str": "196719130",
+		"in_reply_to_screen_name": "_lewadam",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2003,
+			"friends_count": 3160,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16797,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@_lewadam So many things... ZERO time! \n\nLooks 👌👍"
+	},
+	{
+		"created_at": "Tue May 12 18:00:57 +0000 2020",
+		"id": 1260268740555550700,
+		"id_str": "1260268740555550720",
+		"full_text": "@PaulChapman09 @NHS_HealthEdEng @teamtouchdesign @BeverleyHarden @NHSEArmedForces @ashh133 @Vicky_553 @HealthCareersUK @questmagazine Looking forward to the bigger and better campaign but brilliant to hear! #StepIntoHealth https://t.co/XCc8N0DwVC",
+		"truncated": false,
+		"display_text_range": [
+			134,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StepIntoHealth",
+					"indices": [
+						207,
+						222
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PaulChapman09",
+					"name": "Paul_Chapman09",
+					"id": 735562813146533900,
+					"id_str": "735562813146533888",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "NHS_HealthEdEng",
+					"name": "NHS HEE #StayHomeSaveLives",
+					"id": 637008966,
+					"id_str": "637008966",
+					"indices": [
+						15,
+						31
+					]
+				},
+				{
+					"screen_name": "teamtouchdesign",
+					"name": "Touch Design",
+					"id": 175411546,
+					"id_str": "175411546",
+					"indices": [
+						32,
+						48
+					]
+				},
+				{
+					"screen_name": "BeverleyHarden",
+					"name": "Beverley Harden",
+					"id": 1641141318,
+					"id_str": "1641141318",
+					"indices": [
+						49,
+						64
+					]
+				},
+				{
+					"screen_name": "NHSEArmedForces",
+					"name": "NHSE Armed Forces",
+					"id": 2831648813,
+					"id_str": "2831648813",
+					"indices": [
+						65,
+						81
+					]
+				},
+				{
+					"screen_name": "ashh133",
+					"name": "ashRD",
+					"id": 30861050,
+					"id_str": "30861050",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"screen_name": "Vicky_553",
+					"name": "Victoria Hain",
+					"id": 2273556668,
+					"id_str": "2273556668",
+					"indices": [
+						91,
+						101
+					]
+				},
+				{
+					"screen_name": "HealthCareersUK",
+					"name": "Health Careers",
+					"id": 198861182,
+					"id_str": "198861182",
+					"indices": [
+						102,
+						118
+					]
+				},
+				{
+					"screen_name": "questmagazine",
+					"name": "Quest Magazine",
+					"id": 87697132,
+					"id_str": "87697132",
+					"indices": [
+						119,
+						133
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1260268728337473500,
+					"id_str": "1260268728337473542",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EX1fuzIWoAYoJG8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EX1fuzIWoAYoJG8.jpg",
+					"url": "https://t.co/XCc8N0DwVC",
+					"display_url": "pic.twitter.com/XCc8N0DwVC",
+					"expanded_url": "https://twitter.com/beardedPT/status/1260268740555550720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 314,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 314,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 314,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1260268728337473500,
+					"id_str": "1260268728337473542",
+					"indices": [
+						223,
+						246
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EX1fuzIWoAYoJG8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EX1fuzIWoAYoJG8.jpg",
+					"url": "https://t.co/XCc8N0DwVC",
+					"display_url": "pic.twitter.com/XCc8N0DwVC",
+					"expanded_url": "https://twitter.com/beardedPT/status/1260268740555550720/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 314,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 314,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 314,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							200,
+							157
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EX1fuzIWoAYoJG8.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1260243666058297300,
+		"in_reply_to_status_id_str": "1260243666058297345",
+		"in_reply_to_user_id": 735562813146533900,
+		"in_reply_to_user_id_str": "735562813146533888",
+		"in_reply_to_screen_name": "PaulChapman09",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2003,
+			"friends_count": 3160,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16797,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@PaulChapman09 @NHS_HealthEdEng @teamtouchdesign @BeverleyHarden @NHSEArmedForces @ashh133 @Vicky_553 @HealthCareersUK @questmagazine Looking forward to the bigger and better campaign but brilliant to hear! #StepIntoHealth https://t.co/XCc8N0DwVC"
+	},
+	{
+		"created_at": "Tue May 12 17:57:36 +0000 2020",
+		"id": 1260267897336860700,
+		"id_str": "1260267897336860673",
+		"full_text": "@IcuRemote ⬆️@colmankanPT⬆️",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IcuRemote",
+					"name": "COVID19 ICU remote learning course",
+					"id": 1250414286951682000,
+					"id_str": "1250414286951682050",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "colmankanPT",
+					"name": "Colman Kan",
+					"id": 1024844579370033200,
+					"id_str": "1024844579370033157",
+					"indices": [
+						13,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1258046461998239700,
+		"in_reply_to_status_id_str": "1258046461998239744",
+		"in_reply_to_user_id": 1250414286951682000,
+		"in_reply_to_user_id_str": "1250414286951682050",
+		"in_reply_to_screen_name": "IcuRemote",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2003,
+			"friends_count": 3160,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16797,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@IcuRemote ⬆️@colmankanPT⬆️"
+	},
+	{
+		"created_at": "Tue May 12 17:56:46 +0000 2020",
+		"id": 1260267689857159200,
+		"id_str": "1260267689857159175",
+		"full_text": "Happy #InternationalNursesDay2020 to all my wonderful nursing colleagues! Big shout out to my partner who has joined the temporary register - Absolutely bossing it!  🙌🏻\n\n#IND2020 #studentnurse https://t.co/BjpB152ppx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InternationalNursesDay2020",
+					"indices": [
+						6,
+						33
+					]
+				},
+				{
+					"text": "IND2020",
+					"indices": [
+						170,
+						178
+					]
+				},
+				{
+					"text": "studentnurse",
+					"indices": [
+						179,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BjpB152ppx",
+					"expanded_url": "https://twitter.com/alisonleary1/status/1260100424356564992",
+					"display_url": "twitter.com/alisonleary1/s…",
+					"indices": [
+						193,
+						216
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2003,
+			"friends_count": 3160,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16797,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1260100424356565000,
+		"quoted_status_id_str": "1260100424356564992",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BjpB152ppx",
+			"expanded": "https://twitter.com/alisonleary1/status/1260100424356564992",
+			"display": "twitter.com/alisonleary1/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 12 06:52:07 +0000 2020",
+			"id": 1260100424356565000,
+			"id_str": "1260100424356564992",
+			"full_text": "Nursing is the largest safety critical profession in healthcare 📶\n\nNurses are highly educated skilled professional people not superheroes, angels  martyrs or widgets❌\n\nNurses do remarkable work in difficult circumstances ⛑\n\nHappy #InternationalNursesDay2020 #IND2020 https://t.co/JMM5vnFsTz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				266
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "InternationalNursesDay2020",
+						"indices": [
+							230,
+							257
+						]
+					},
+					{
+						"text": "IND2020",
+						"indices": [
+							258,
+							266
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1260098020328251400,
+						"id_str": "1260098020328251393",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/EXzEeSPWoAEYxcX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXzEeSPWoAEYxcX.jpg",
+						"url": "https://t.co/JMM5vnFsTz",
+						"display_url": "pic.twitter.com/JMM5vnFsTz",
+						"expanded_url": "https://twitter.com/alisonleary1/status/1260100424356564992/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 449,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 793,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1934,
+								"h": 1278,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1260098020328251400,
+						"id_str": "1260098020328251393",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/EXzEeSPWoAEYxcX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXzEeSPWoAEYxcX.jpg",
+						"url": "https://t.co/JMM5vnFsTz",
+						"display_url": "pic.twitter.com/JMM5vnFsTz",
+						"expanded_url": "https://twitter.com/alisonleary1/status/1260100424356564992/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 449,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 793,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1934,
+								"h": 1278,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1260098541848060000,
+						"id_str": "1260098541848059904",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/EXzE8pDXYAAIcJg.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXzE8pDXYAAIcJg.jpg",
+						"url": "https://t.co/JMM5vnFsTz",
+						"display_url": "pic.twitter.com/JMM5vnFsTz",
+						"expanded_url": "https://twitter.com/alisonleary1/status/1260100424356564992/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 583,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 330,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 995,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1260098829313085400,
+						"id_str": "1260098829313085440",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/EXzFNX8XkAAMY5E.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXzFNX8XkAAMY5E.jpg",
+						"url": "https://t.co/JMM5vnFsTz",
+						"display_url": "pic.twitter.com/JMM5vnFsTz",
+						"expanded_url": "https://twitter.com/alisonleary1/status/1260100424356564992/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 330,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 583,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 995,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1260099537399660500,
+						"id_str": "1260099537399660549",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/media/EXzF2lxXQAUTKR6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EXzF2lxXQAUTKR6.jpg",
+						"url": "https://t.co/JMM5vnFsTz",
+						"display_url": "pic.twitter.com/JMM5vnFsTz",
+						"expanded_url": "https://twitter.com/alisonleary1/status/1260100424356564992/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1535,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 912853116,
+				"id_str": "912853116",
+				"name": "Prof Alison Leary 💙",
+				"screen_name": "alisonleary1",
+				"location": "London",
+				"description": "Safety thru maths. Professor of healthcare & workforce modelling during the week & clinical lead match-day medical service @MillwallFC every other Saturday.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16063,
+				"friends_count": 14425,
+				"listed_count": 191,
+				"created_at": "Mon Oct 29 17:17:02 +0000 2012",
+				"favourites_count": 72574,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 73439,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0099B9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1232592768981139458/0vpm5SJR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232592768981139458/0vpm5SJR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/912853116/1428496005",
+				"profile_link_color": "0099B9",
+				"profile_sidebar_border_color": "5ED4DC",
+				"profile_sidebar_fill_color": "95E8EC",
+				"profile_text_color": "3C3940",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 181,
+			"favorite_count": 471,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy #InternationalNursesDay2020 to all my wonderful nursing colleagues! Big shout out to my partner who has joined the temporary register - Absolutely bossing it!  🙌🏻\n\n#IND2020 #studentnurse https://t.co/BjpB152ppx"
+	},
+	{
+		"created_at": "Tue May 12 17:52:26 +0000 2020",
+		"id": 1260266599468105700,
+		"id_str": "1260266599468105728",
+		"full_text": "Anyone else using WhatsApp for CPD within their departments? ⬇️📲 #physiotalk @WeAHPs @thecspstudents @generationAHP @thecspstudents \n\n🔗https://t.co/HNDrhtikMa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "physiotalk",
+					"indices": [
+						65,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs 💙",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						77,
+						84
+					]
+				},
+				{
+					"screen_name": "thecspstudents",
+					"name": "CSP Students",
+					"id": 444648690,
+					"id_str": "444648690",
+					"indices": [
+						85,
+						100
+					]
+				},
+				{
+					"screen_name": "generationAHP",
+					"name": "generationAHP",
+					"id": 1159177540189196300,
+					"id_str": "1159177540189196289",
+					"indices": [
+						101,
+						115
+					]
+				},
+				{
+					"screen_name": "thecspstudents",
+					"name": "CSP Students",
+					"id": 444648690,
+					"id_str": "444648690",
+					"indices": [
+						116,
+						131
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HNDrhtikMa",
+					"expanded_url": "https://www.csp.org.uk/frontline/article/whatsapp-tool-cpd",
+					"display_url": "csp.org.uk/frontline/arti…",
+					"indices": [
+						135,
+						158
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2003,
+			"friends_count": 3160,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16797,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5938,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Anyone else using WhatsApp for CPD within their departments? ⬇️📲 #physiotalk @WeAHPs @thecspstudents @generationAHP @thecspstudents \n\n🔗https://t.co/HNDrhtikMa"
+	},
+	{
 		"created_at": "Mon May 11 21:42:56 +0000 2020",
 		"id": 1259962220345245700,
 		"id_str": "1259962220345245696",
