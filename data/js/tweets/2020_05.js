@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 17 20:44:25 +0000 2020",
+		"id": 1262121820154671000,
+		"id_str": "1262121820154671104",
+		"full_text": "@soontobemrswood Nice 👍",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "soontobemrswood",
+					"name": "Emma Hodgson ❤️",
+					"id": 29591947,
+					"id_str": "29591947",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1261410928035164200,
+		"in_reply_to_status_id_str": "1261410928035164161",
+		"in_reply_to_user_id": 29591947,
+		"in_reply_to_user_id_str": "29591947",
+		"in_reply_to_screen_name": "soontobemrswood",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2021,
+			"friends_count": 3176,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5956,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@soontobemrswood Nice 👍"
+	},
+	{
 		"created_at": "Sat May 16 21:01:19 +0000 2020",
 		"id": 1261763685221089300,
 		"id_str": "1261763685221089280",
@@ -687,7 +790,7 @@ Grailbird.data.tweets_2020_05 =
 		"created_at": "Sat May 16 09:54:18 +0000 2020",
 		"id": 1261595824733200400,
 		"id_str": "1261595824733200384",
-		"full_text": "@receivingconsnt 🙋🏻‍♂️",
+		"full_text": "@receivingconsnt 🙋🏻♂️",
 		"truncated": false,
 		"display_text_range": [
 			17,
@@ -784,7 +887,7 @@ Grailbird.data.tweets_2020_05 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "und",
-		"text": "@receivingconsnt 🙋🏻‍♂️"
+		"text": "@receivingconsnt 🙋🏻♂️"
 	},
 	{
 		"created_at": "Sat May 16 09:51:04 +0000 2020",
