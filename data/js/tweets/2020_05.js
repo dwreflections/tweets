@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 18 21:03:14 +0000 2020",
+		"id": 1262488944022892500,
+		"id_str": "1262488944022892551",
+		"full_text": "@KhaiSengCheng @trentsimulation @eleanormdoug @666Dunst @fimo18 Great to see this continuing! Was it via MS teams??",
+		"truncated": false,
+		"display_text_range": [
+			64,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KhaiSengCheng",
+					"name": "Cheng Khai Seng (a.k.a. Khai)",
+					"id": 963856216421208000,
+					"id_str": "963856216421208072",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "trentsimulation",
+					"name": "Trent Simulation",
+					"id": 620830202,
+					"id_str": "620830202",
+					"indices": [
+						15,
+						31
+					]
+				},
+				{
+					"screen_name": "eleanormdoug",
+					"name": "Eleanor Douglas",
+					"id": 775348658124517400,
+					"id_str": "775348658124517376",
+					"indices": [
+						32,
+						45
+					]
+				},
+				{
+					"screen_name": "666Dunst",
+					"name": "Theresa Harvey-Dunstan",
+					"id": 1858701115,
+					"id_str": "1858701115",
+					"indices": [
+						46,
+						55
+					]
+				},
+				{
+					"screen_name": "fimo18",
+					"name": "Dr Fiona Moffatt",
+					"id": 508806750,
+					"id_str": "508806750",
+					"indices": [
+						56,
+						63
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1262476896471834600,
+		"in_reply_to_status_id_str": "1262476896471834631",
+		"in_reply_to_user_id": 963856216421208000,
+		"in_reply_to_user_id_str": "963856216421208072",
+		"in_reply_to_screen_name": "KhaiSengCheng",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2021,
+			"friends_count": 3176,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16885,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5957,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KhaiSengCheng @trentsimulation @eleanormdoug @666Dunst @fimo18 Great to see this continuing! Was it via MS teams??"
+	},
+	{
 		"created_at": "Sun May 17 20:44:25 +0000 2020",
 		"id": 1262121820154671000,
 		"id_str": "1262121820154671104",
