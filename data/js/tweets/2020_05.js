@@ -1,6 +1,883 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sat May 23 20:29:52 +0000 2020",
+		"id": 1264292484965896200,
+		"id_str": "1264292484965896192",
+		"full_text": "@CalvinMoorley Get it done, people!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CalvinMoorley",
+					"name": "Calvin Moorley PhD",
+					"id": 23117879,
+					"id_str": "23117879",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1264292377432330200,
+		"in_reply_to_status_id_str": "1264292377432330242",
+		"in_reply_to_user_id": 23117879,
+		"in_reply_to_user_id_str": "23117879",
+		"in_reply_to_screen_name": "CalvinMoorley",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2032,
+			"friends_count": 3187,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CalvinMoorley Get it done, people!"
+	},
+	{
+		"created_at": "Sat May 23 14:43:58 +0000 2020",
+		"id": 1264205436242329600,
+		"id_str": "1264205436242329600",
+		"full_text": "@mikechitty It is relational ✨ \n(HT @KarenLynas2012 )",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mikechitty",
+					"name": "Mike Chitty",
+					"id": 21009225,
+					"id_str": "21009225",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "KarenLynas2012",
+					"name": "Karen Lynas",
+					"id": 713046217,
+					"id_str": "713046217",
+					"indices": [
+						36,
+						51
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1264204627630854100,
+		"in_reply_to_status_id_str": "1264204627630854144",
+		"in_reply_to_user_id": 21009225,
+		"in_reply_to_user_id_str": "21009225",
+		"in_reply_to_screen_name": "mikechitty",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2032,
+			"friends_count": 3187,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mikechitty It is relational ✨ \n(HT @KarenLynas2012 )"
+	},
+	{
+		"created_at": "Sat May 23 12:20:08 +0000 2020",
+		"id": 1264169238861942800,
+		"id_str": "1264169238861942784",
+		"full_text": "@consultantPT @Telegraph @SallySingh_ Exactly ... let’s call it Rehabilitation!",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "consultantPT",
+					"name": "Uzo Ehiogu",
+					"id": 1039521456,
+					"id_str": "1039521456",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Telegraph",
+					"name": "The Telegraph",
+					"id": 16343974,
+					"id_str": "16343974",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "SallySingh_",
+					"name": "Sally Singh",
+					"id": 2294582659,
+					"id_str": "2294582659",
+					"indices": [
+						25,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1264149804910862300,
+		"in_reply_to_status_id_str": "1264149804910862336",
+		"in_reply_to_user_id": 1039521456,
+		"in_reply_to_user_id_str": "1039521456",
+		"in_reply_to_screen_name": "consultantPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2032,
+			"friends_count": 3187,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@consultantPT @Telegraph @SallySingh_ Exactly ... let’s call it Rehabilitation!"
+	},
+	{
+		"created_at": "Sat May 23 12:19:40 +0000 2020",
+		"id": 1264169122297974800,
+		"id_str": "1264169122297974784",
+		"full_text": "@GLQuin @NHS_HealthEdEng @UHDBTrust @thecsp @KMiddletonCSP @amrawlings @PaulChapman09 @theRMcharity @supportthewalk @VIPhysio_pike Excellent! You’re uni is in a really fortunate location 2 capitilise on links\n\nIt’s not in the interview but I felt I had 2overcome a lot of inertia to begin my studies &amp; it was quite a lonely journey. If you can capture people’s thoughts during resettlement you’re onto something",
+		"truncated": false,
+		"display_text_range": [
+			131,
+			415
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GLQuin",
+					"name": "Gemma Quin",
+					"id": 434844027,
+					"id_str": "434844027",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "NHS_HealthEdEng",
+					"name": "NHS HEE #StayHomeSaveLives",
+					"id": 637008966,
+					"id_str": "637008966",
+					"indices": [
+						8,
+						24
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						36,
+						43
+					]
+				},
+				{
+					"screen_name": "KMiddletonCSP",
+					"name": "Karen Middleton",
+					"id": 791233063,
+					"id_str": "791233063",
+					"indices": [
+						44,
+						58
+					]
+				},
+				{
+					"screen_name": "amrawlings",
+					"name": "amanda rawlings",
+					"id": 631943465,
+					"id_str": "631943465",
+					"indices": [
+						59,
+						70
+					]
+				},
+				{
+					"screen_name": "PaulChapman09",
+					"name": "Paul_Chapman09",
+					"id": 735562813146533900,
+					"id_str": "735562813146533888",
+					"indices": [
+						71,
+						85
+					]
+				},
+				{
+					"screen_name": "theRMcharity",
+					"name": "Royal Marines Charity",
+					"id": 190272480,
+					"id_str": "190272480",
+					"indices": [
+						86,
+						99
+					]
+				},
+				{
+					"screen_name": "supportthewalk",
+					"name": "WWTW",
+					"id": 173807599,
+					"id_str": "173807599",
+					"indices": [
+						100,
+						115
+					]
+				},
+				{
+					"screen_name": "VIPhysio_pike",
+					"name": "Mandy Pike",
+					"id": 2987815013,
+					"id_str": "2987815013",
+					"indices": [
+						116,
+						130
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1264150993350070300,
+		"in_reply_to_status_id_str": "1264150993350070272",
+		"in_reply_to_user_id": 434844027,
+		"in_reply_to_user_id_str": "434844027",
+		"in_reply_to_screen_name": "GLQuin",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2032,
+			"friends_count": 3187,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GLQuin @NHS_HealthEdEng @UHDBTrust @thecsp @KMiddletonCSP @amrawlings @PaulChapman09 @theRMcharity @supportthewalk @VIPhysio_pike Excellent! You’re uni is in a really fortunate location 2 capitilise on links\n\nIt’s not in the interview but I felt I had 2overcome a lot of inertia to begin my studies &amp; it was quite a lonely journey. If you can capture people’s thoughts during resettlement you’re onto something"
+	},
+	{
+		"created_at": "Sat May 23 10:30:45 +0000 2020",
+		"id": 1264141713070796800,
+		"id_str": "1264141713070796800",
+		"full_text": "@consultantPT @Telegraph @SallySingh_ It’s will be a massive ongoing challenge &amp; we all deserve a #RightToRehab as survivorship is not enough.\n\nTime for large scale functional scaled rehabilitation in the community..?",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			221
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RightToRehab",
+					"indices": [
+						102,
+						115
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "consultantPT",
+					"name": "Uzo Ehiogu",
+					"id": 1039521456,
+					"id_str": "1039521456",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Telegraph",
+					"name": "The Telegraph",
+					"id": 16343974,
+					"id_str": "16343974",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "SallySingh_",
+					"name": "Sally Singh",
+					"id": 2294582659,
+					"id_str": "2294582659",
+					"indices": [
+						25,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1264100544727130000,
+		"in_reply_to_status_id_str": "1264100544727130113",
+		"in_reply_to_user_id": 1039521456,
+		"in_reply_to_user_id_str": "1039521456",
+		"in_reply_to_screen_name": "consultantPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2032,
+			"friends_count": 3187,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@consultantPT @Telegraph @SallySingh_ It’s will be a massive ongoing challenge &amp; we all deserve a #RightToRehab as survivorship is not enough.\n\nTime for large scale functional scaled rehabilitation in the community..?"
+	},
+	{
+		"created_at": "Sat May 23 09:48:21 +0000 2020",
+		"id": 1264131043843588000,
+		"id_str": "1264131043843588096",
+		"full_text": "@alicrewe Likewise ✨💪",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alicrewe",
+					"name": "ali crewesmith",
+					"id": 330511872,
+					"id_str": "330511872",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1264078006831677400,
+		"in_reply_to_status_id_str": "1264078006831677445",
+		"in_reply_to_user_id": 330511872,
+		"in_reply_to_user_id_str": "330511872",
+		"in_reply_to_screen_name": "alicrewe",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2032,
+			"friends_count": 3187,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@alicrewe Likewise ✨💪"
+	},
+	{
+		"created_at": "Sat May 23 09:26:36 +0000 2020",
+		"id": 1264125567864934400,
+		"id_str": "1264125567864934400",
+		"full_text": "@DMS_DefRehab Thank you! \nAbsolutely... we make the difference! #RehabWorks",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RehabWorks",
+					"indices": [
+						64,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DMS_DefRehab",
+					"name": "Department of Defence Rehab",
+					"id": 4009779089,
+					"id_str": "4009779089",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1263953642173980700,
+		"in_reply_to_status_id_str": "1263953642173980673",
+		"in_reply_to_user_id": 4009779089,
+		"in_reply_to_user_id_str": "4009779089",
+		"in_reply_to_screen_name": "DMS_DefRehab",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2032,
+			"friends_count": 3187,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DMS_DefRehab Thank you! \nAbsolutely... we make the difference! #RehabWorks"
+	},
+	{
 		"created_at": "Fri May 22 20:57:34 +0000 2020",
 		"id": 1263937066859143200,
 		"id_str": "1263937066859143173",
