@@ -1,6 +1,209 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Sun May 24 13:41:49 +0000 2020",
+		"id": 1264552182726213600,
+		"id_str": "1264552182726213639",
+		"full_text": "@theEndurancePT @UKCycleChat @EnduranceCoach @TriathlonCoach @WelshCycling @cycling_podcast @CyclingWorlduk @Cycle_Specific @STRCycling @CycleShow @NjingaCycling Mapei",
+		"truncated": false,
+		"display_text_range": [
+			162,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "theEndurancePT",
+					"name": "The Endurance Physio",
+					"id": 3319174982,
+					"id_str": "3319174982",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "UKCycleChat",
+					"name": "UKCycleChat™",
+					"id": 2285543003,
+					"id_str": "2285543003",
+					"indices": [
+						16,
+						28
+					]
+				},
+				{
+					"screen_name": "EnduranceCoach",
+					"name": "The Endurance Store",
+					"id": 45388388,
+					"id_str": "45388388",
+					"indices": [
+						29,
+						44
+					]
+				},
+				{
+					"screen_name": "TriathlonCoach",
+					"name": "Simon Ward",
+					"id": 18510865,
+					"id_str": "18510865",
+					"indices": [
+						45,
+						60
+					]
+				},
+				{
+					"screen_name": "WelshCycling",
+					"name": "Welsh Cycling",
+					"id": 359942853,
+					"id_str": "359942853",
+					"indices": [
+						61,
+						74
+					]
+				},
+				{
+					"screen_name": "cycling_podcast",
+					"name": "The Cycling Podcast",
+					"id": 2424103778,
+					"id_str": "2424103778",
+					"indices": [
+						75,
+						91
+					]
+				},
+				{
+					"screen_name": "CyclingWorlduk",
+					"name": "Cycling World",
+					"id": 492061378,
+					"id_str": "492061378",
+					"indices": [
+						92,
+						107
+					]
+				},
+				{
+					"screen_name": "Cycle_Specific",
+					"name": "Cycle Specific",
+					"id": 2666653321,
+					"id_str": "2666653321",
+					"indices": [
+						108,
+						123
+					]
+				},
+				{
+					"screen_name": "STRCycling",
+					"name": "Share the Road",
+					"id": 250792315,
+					"id_str": "250792315",
+					"indices": [
+						124,
+						135
+					]
+				},
+				{
+					"screen_name": "CycleShow",
+					"name": "@cycleshow",
+					"id": 23779033,
+					"id_str": "23779033",
+					"indices": [
+						136,
+						146
+					]
+				},
+				{
+					"screen_name": "NjingaCycling",
+					"name": "Njinga Cycling",
+					"id": 1136754265,
+					"id_str": "1136754265",
+					"indices": [
+						147,
+						161
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1264551475977560000,
+		"in_reply_to_status_id_str": "1264551475977560064",
+		"in_reply_to_user_id": 3319174982,
+		"in_reply_to_user_id_str": "3319174982",
+		"in_reply_to_screen_name": "theEndurancePT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2032,
+			"friends_count": 3195,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 16984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5982,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "eu",
+		"text": "@theEndurancePT @UKCycleChat @EnduranceCoach @TriathlonCoach @WelshCycling @cycling_podcast @CyclingWorlduk @Cycle_Specific @STRCycling @CycleShow @NjingaCycling Mapei"
+	},
+	{
 		"created_at": "Sat May 23 20:29:52 +0000 2020",
 		"id": 1264292484965896200,
 		"id_str": "1264292484965896192",
