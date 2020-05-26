@@ -1,6 +1,461 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Mon May 25 20:21:47 +0000 2020",
+		"id": 1265015228431024000,
+		"id_str": "1265015228431024128",
+		"full_text": "Nurses rock 🤘 @WeNurses https://t.co/2xV36bDfDc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WeNurses",
+					"name": "WeNurses 💙",
+					"id": 599536551,
+					"id_str": "599536551",
+					"indices": [
+						14,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2xV36bDfDc",
+					"expanded_url": "https://twitter.com/drlindseyfitz/status/1264967212328157184",
+					"display_url": "twitter.com/drlindseyfitz/…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2034,
+			"friends_count": 3197,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52041af7b8001313",
+			"url": "https://api.twitter.com/1.1/geo/id/52041af7b8001313.json",
+			"place_type": "city",
+			"name": "Rugeley",
+			"full_name": "Rugeley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.971255,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.773708
+						],
+						[
+							-1.971255,
+							52.773708
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1264967212328157200,
+		"quoted_status_id_str": "1264967212328157184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/2xV36bDfDc",
+			"expanded": "https://twitter.com/drlindseyfitz/status/1264967212328157184",
+			"display": "twitter.com/drlindseyfitz/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 25 17:11:00 +0000 2020",
+			"id": 1264967212328157200,
+			"id_str": "1264967212328157184",
+			"full_text": "(1/16) It’s #MemorialDay in the USA. In preparation for my next book on the history of plastic surgery, I’m immersing myself in diaries, letters, &amp; literature from #WWI. Today's THREAD is in honor of the nurses who played an integral part in the war effort. 👇 https://t.co/9qLsfhKBpX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				263
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MemorialDay",
+						"indices": [
+							12,
+							24
+						]
+					},
+					{
+						"text": "WWI",
+						"indices": [
+							168,
+							172
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1264966850632396800,
+						"id_str": "1264966850632396800",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/EY4QpgiWsAAH7UM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EY4QpgiWsAAH7UM.jpg",
+						"url": "https://t.co/9qLsfhKBpX",
+						"display_url": "pic.twitter.com/9qLsfhKBpX",
+						"expanded_url": "https://twitter.com/DrLindseyFitz/status/1264967212328157184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 660,
+								"h": 371,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 660,
+								"h": 371,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 660,
+								"h": 371,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1264966850632396800,
+						"id_str": "1264966850632396800",
+						"indices": [
+							264,
+							287
+						],
+						"media_url": "http://pbs.twimg.com/media/EY4QpgiWsAAH7UM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EY4QpgiWsAAH7UM.jpg",
+						"url": "https://t.co/9qLsfhKBpX",
+						"display_url": "pic.twitter.com/9qLsfhKBpX",
+						"expanded_url": "https://twitter.com/DrLindseyFitz/status/1264967212328157184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 660,
+								"h": 371,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 660,
+								"h": 371,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 660,
+								"h": 371,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 229509740,
+				"id_str": "229509740",
+				"name": "Lindsey Fitzharris",
+				"screen_name": "DrLindseyFitz",
+				"location": "United Kingdom",
+				"description": "Storyteller. Medical historian (Oxford, PhD). Conveyor of nightmarish history. Author: THE BUTCHERING ART. Host: @SmithsonianChan's CURIOUS LIFE AND DEATH OF...",
+				"url": "https://t.co/e40Bn4YG9k",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/e40Bn4YG9k",
+								"expanded_url": "http://drlindseyfitzharris.com",
+								"display_url": "drlindseyfitzharris.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 110660,
+				"friends_count": 903,
+				"listed_count": 1303,
+				"created_at": "Wed Dec 22 15:53:01 +0000 2010",
+				"favourites_count": 70224,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 64346,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1213543448445362177/j20M9yR6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1213543448445362177/j20M9yR6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/229509740/1487503629",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 111,
+			"favorite_count": 397,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nurses rock 🤘 @WeNurses https://t.co/2xV36bDfDc"
+	},
+	{
+		"created_at": "Mon May 25 10:30:59 +0000 2020",
+		"id": 1264866544909238300,
+		"id_str": "1264866544909238272",
+		"full_text": "@OllieCoburnGSR @LinearProbe I imagine the the Nolan Principles are quickly skipped over ...",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OllieCoburnGSR",
+					"name": "Ollie Coburn",
+					"id": 454731390,
+					"id_str": "454731390",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "LinearProbe",
+					"name": "Dr Richard Collins",
+					"id": 3355389009,
+					"id_str": "3355389009",
+					"indices": [
+						16,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1264862257198043100,
+		"in_reply_to_status_id_str": "1264862257198043136",
+		"in_reply_to_user_id": 454731390,
+		"in_reply_to_user_id_str": "454731390",
+		"in_reply_to_screen_name": "OllieCoburnGSR",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2034,
+			"friends_count": 3197,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17008,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5985,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@OllieCoburnGSR @LinearProbe I imagine the the Nolan Principles are quickly skipped over ..."
+	},
+	{
 		"created_at": "Sun May 24 13:41:49 +0000 2020",
 		"id": 1264552182726213600,
 		"id_str": "1264552182726213639",
