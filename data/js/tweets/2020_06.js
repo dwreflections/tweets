@@ -1,6 +1,2194 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 08 21:40:09 +0000 2020",
+		"id": 1270089965943296000,
+		"id_str": "1270108378958893056",
+		"full_text": "Here is the initial transcript from tonights #physiotalk with @Manni_O \n\nIf you missed the chat I can only suggest that you give it a read - essential reading even \n\nhttps://t.co/FQu73RES17",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			189
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "physiotalk",
+					"indices": [
+						45,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Manni_O",
+					"name": "Emmanuel Ovola",
+					"id": 57151739,
+					"id_str": "57151739",
+					"indices": [
+						62,
+						70
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FQu73RES17",
+					"expanded_url": "https://www.symplur.com/healthcare-hashtags/PhysioTalk/transcript/?hashtag=PhysioTalk&fdate=6%2F8%2F2020&shour=12&smin=0&tdate=6%2F8%2F2020&thour=13&tmin=20",
+					"display_url": "symplur.com/healthcare-has…",
+					"indices": [
+						166,
+						189
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2212530852,
+			"id_str": "2212530852",
+			"name": "physiotalk",
+			"screen_name": "physiotalk",
+			"location": "UK",
+			"description": "Helping physiotherapists around the world to learn, share, network & influence I #physiotalk tweetchats I Mondays 20:00GMT I Instagram: _physiotalk",
+			"url": "https://t.co/9z38Mj1Cil",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/9z38Mj1Cil",
+							"expanded_url": "http://physiotalk.co.uk",
+							"display_url": "physiotalk.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 34025,
+			"friends_count": 3422,
+			"listed_count": 246,
+			"created_at": "Sun Nov 24 14:04:08 +0000 2013",
+			"favourites_count": 18993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 27039,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1189294171326222337/hRhBsmza_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1189294171326222337/hRhBsmza_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2212530852/1496058963",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 26,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here is the initial transcript from tonights #physiotalk with @Manni_O \n\nIf you missed the chat I can only suggest that you give it a read - essential reading even \n\nhttps://t.co/FQu73RES17"
+	},
+	{
+		"created_at": "Mon Jun 08 21:05:52 +0000 2020",
+		"id": 1270099750570819600,
+		"id_str": "1270099750570819584",
+		"full_text": "@WLCPhysio @chazzure @Simmons_Physio @Aqeeb17 @MelroseStewart1 @consultantPT @shoiab1 @marksia Too kind! \n\nThe names above inspire me daily! Keep being your best self 😊 @WLCPhysio #Physiotalk",
+		"truncated": false,
+		"display_text_range": [
+			95,
+			191
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Physiotalk",
+					"indices": [
+						180,
+						191
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WLCPhysio",
+					"name": "Warren",
+					"id": 2940538043,
+					"id_str": "2940538043",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "chazzure",
+					"name": "Charmaine Turner",
+					"id": 785526283,
+					"id_str": "785526283",
+					"indices": [
+						11,
+						20
+					]
+				},
+				{
+					"screen_name": "Simmons_Physio",
+					"name": "Leanne Simmons",
+					"id": 822082346568601600,
+					"id_str": "822082346568601601",
+					"indices": [
+						21,
+						36
+					]
+				},
+				{
+					"screen_name": "Aqeeb17",
+					"name": "Aqeeb",
+					"id": 1972157677,
+					"id_str": "1972157677",
+					"indices": [
+						37,
+						45
+					]
+				},
+				{
+					"screen_name": "MelroseStewart1",
+					"name": "Dr Melrose Stewart MBE",
+					"id": 2731031316,
+					"id_str": "2731031316",
+					"indices": [
+						46,
+						62
+					]
+				},
+				{
+					"screen_name": "consultantPT",
+					"name": "Uzo Ehiogu",
+					"id": 1039521456,
+					"id_str": "1039521456",
+					"indices": [
+						63,
+						76
+					]
+				},
+				{
+					"screen_name": "shoiab1",
+					"name": "Shoiab",
+					"id": 173186820,
+					"id_str": "173186820",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"screen_name": "marksia",
+					"name": "Mark Sia MCSP",
+					"id": 756889163987836900,
+					"id_str": "756889163987836928",
+					"indices": [
+						86,
+						94
+					]
+				},
+				{
+					"screen_name": "WLCPhysio",
+					"name": "Warren",
+					"id": 2940538043,
+					"id_str": "2940538043",
+					"indices": [
+						169,
+						179
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1270086506401710000,
+		"in_reply_to_status_id_str": "1270086506401710089",
+		"in_reply_to_user_id": 2940538043,
+		"in_reply_to_user_id_str": "2940538043",
+		"in_reply_to_screen_name": "WLCPhysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2059,
+			"friends_count": 3237,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@WLCPhysio @chazzure @Simmons_Physio @Aqeeb17 @MelroseStewart1 @consultantPT @shoiab1 @marksia Too kind! \n\nThe names above inspire me daily! Keep being your best self 😊 @WLCPhysio #Physiotalk"
+	},
+	{
+		"created_at": "Mon Jun 08 20:06:53 +0000 2020",
+		"id": 1270084904995487700,
+		"id_str": "1270084904995487744",
+		"full_text": "@PhysioNokuthula @Manni_O @jwhittak_physio @arnie_puntis Your voice needs to be heard. Me too!! ✨\n\nHowever, this is a turning point but now we need action! #physiotalk",
+		"truncated": false,
+		"display_text_range": [
+			57,
+			167
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "physiotalk",
+					"indices": [
+						156,
+						167
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhysioNokuthula",
+					"name": "Nokuthula Zulu",
+					"id": 1230447483853164500,
+					"id_str": "1230447483853164547",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Manni_O",
+					"name": "Emmanuel Ovola",
+					"id": 57151739,
+					"id_str": "57151739",
+					"indices": [
+						17,
+						25
+					]
+				},
+				{
+					"screen_name": "jwhittak_physio",
+					"name": "Dr. Jackie Whittaker",
+					"id": 84623499,
+					"id_str": "84623499",
+					"indices": [
+						26,
+						42
+					]
+				},
+				{
+					"screen_name": "arnie_puntis",
+					"name": "Arnie Puntis",
+					"id": 987618577271357400,
+					"id_str": "987618577271357441",
+					"indices": [
+						43,
+						56
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1270084452786606000,
+		"in_reply_to_status_id_str": "1270084452786606080",
+		"in_reply_to_user_id": 1230447483853164500,
+		"in_reply_to_user_id_str": "1230447483853164547",
+		"in_reply_to_screen_name": "PhysioNokuthula",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2059,
+			"friends_count": 3237,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PhysioNokuthula @Manni_O @jwhittak_physio @arnie_puntis Your voice needs to be heard. Me too!! ✨\n\nHowever, this is a turning point but now we need action! #physiotalk"
+	},
+	{
+		"created_at": "Mon Jun 08 20:03:19 +0000 2020",
+		"id": 1270084009075359700,
+		"id_str": "1270084009075359745",
+		"full_text": "@WLCPhysio @lauhols @jillfromrhyl @SamHBooth @Hartey_PT @physiotalk @thecsp This must change #physiotalk",
+		"truncated": false,
+		"display_text_range": [
+			76,
+			104
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "physiotalk",
+					"indices": [
+						93,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WLCPhysio",
+					"name": "Warren",
+					"id": 2940538043,
+					"id_str": "2940538043",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "lauhols",
+					"name": "Laura Breach",
+					"id": 20471975,
+					"id_str": "20471975",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "jillfromrhyl",
+					"name": "Jill Morgan",
+					"id": 2495961768,
+					"id_str": "2495961768",
+					"indices": [
+						20,
+						33
+					]
+				},
+				{
+					"screen_name": "SamHBooth",
+					"name": "Sam Haworth-Booth",
+					"id": 918927593264570400,
+					"id_str": "918927593264570374",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"screen_name": "Hartey_PT",
+					"name": "Helen Harte",
+					"id": 751495287487758300,
+					"id_str": "751495287487758336",
+					"indices": [
+						45,
+						55
+					]
+				},
+				{
+					"screen_name": "physiotalk",
+					"name": "physiotalk",
+					"id": 2212530852,
+					"id_str": "2212530852",
+					"indices": [
+						56,
+						67
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						68,
+						75
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1270083740283416600,
+		"in_reply_to_status_id_str": "1270083740283416578",
+		"in_reply_to_user_id": 2940538043,
+		"in_reply_to_user_id_str": "2940538043",
+		"in_reply_to_screen_name": "WLCPhysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2059,
+			"friends_count": 3237,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@WLCPhysio @lauhols @jillfromrhyl @SamHBooth @Hartey_PT @physiotalk @thecsp This must change #physiotalk"
+	},
+	{
+		"created_at": "Mon Jun 08 20:01:53 +0000 2020",
+		"id": 1270083647027232800,
+		"id_str": "1270083647027232768",
+		"full_text": "@physiotalk has to be @misssdjohnson   #physiotalk",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			50
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "physiotalk",
+					"indices": [
+						39,
+						50
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "physiotalk",
+					"name": "physiotalk",
+					"id": 2212530852,
+					"id_str": "2212530852",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "misssdjohnson",
+					"name": "Stacy Johnson MBE",
+					"id": 170450545,
+					"id_str": "170450545",
+					"indices": [
+						22,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1270082447556915200,
+		"in_reply_to_status_id_str": "1270082447556915201",
+		"in_reply_to_user_id": 2212530852,
+		"in_reply_to_user_id_str": "2212530852",
+		"in_reply_to_screen_name": "physiotalk",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2059,
+			"friends_count": 3237,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@physiotalk has to be @misssdjohnson   #physiotalk"
+	},
+	{
+		"created_at": "Mon Jun 08 19:59:57 +0000 2020",
+		"id": 1270080905361723400,
+		"id_str": "1270083163969196033",
+		"full_text": "@jillfromrhyl @lauhols @beardedPT @SamHBooth @Hartey_PT @physiotalk @thecsp There's an opportunity/necessity currently to think differently and more inclusively about our traditional gateways to the profession as work experience opportunities are going to have been severely limited for the next cohort of applicants #physiotalk",
+		"truncated": false,
+		"display_text_range": [
+			76,
+			328
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "physiotalk",
+					"indices": [
+						317,
+						328
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jillfromrhyl",
+					"name": "Jill Morgan",
+					"id": 2495961768,
+					"id_str": "2495961768",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "lauhols",
+					"name": "Laura Breach",
+					"id": 20471975,
+					"id_str": "20471975",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams 🌈",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						23,
+						33
+					]
+				},
+				{
+					"screen_name": "SamHBooth",
+					"name": "Sam Haworth-Booth",
+					"id": 918927593264570400,
+					"id_str": "918927593264570374",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"screen_name": "Hartey_PT",
+					"name": "Helen Harte",
+					"id": 751495287487758300,
+					"id_str": "751495287487758336",
+					"indices": [
+						45,
+						55
+					]
+				},
+				{
+					"screen_name": "physiotalk",
+					"name": "physiotalk",
+					"id": 2212530852,
+					"id_str": "2212530852",
+					"indices": [
+						56,
+						67
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						68,
+						75
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1270079386679750700,
+		"in_reply_to_status_id_str": "1270079386679750656",
+		"in_reply_to_user_id": 2495961768,
+		"in_reply_to_user_id_str": "2495961768",
+		"in_reply_to_screen_name": "jillfromrhyl",
+		"user": {
+			"id": 424907352,
+			"id_str": "424907352",
+			"name": "Ben Ellis",
+			"screen_name": "bendotellis",
+			"location": "Kings Heath, Birmingham",
+			"description": "Physio lecturer at Uni of Birmingham Interested in clinical reasoning, neuro LTCs & physio education \"Ben's great with ideas. It's the execution that's wanting\"",
+			"url": "https://t.co/7YuM6KN1w6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/7YuM6KN1w6",
+							"expanded_url": "http://inbeta.uwc.ac.za/",
+							"display_url": "inbeta.uwc.ac.za",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2513,
+			"friends_count": 1238,
+			"listed_count": 10,
+			"created_at": "Wed Nov 30 09:42:03 +0000 2011",
+			"favourites_count": 4940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8383,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1227314088679792643/pxStb6v-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1227314088679792643/pxStb6v-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/424907352/1567030050",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@jillfromrhyl @lauhols @beardedPT @SamHBooth @Hartey_PT @physiotalk @thecsp There's an opportunity/necessity currently to think differently and more inclusively about our traditional gateways to the profession as work experience opportunities are going to have been severely limited for the next cohort of applicants #physiotalk"
+	},
+	{
+		"created_at": "Mon Jun 08 19:57:49 +0000 2020",
+		"id": 1270082623893909500,
+		"id_str": "1270082623893909507",
+		"full_text": "@EmilyFenby @physiotalk @marksia ⬆️  #physiotalk",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "physiotalk",
+					"indices": [
+						37,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EmilyFenby",
+					"name": "Emily",
+					"id": 21602965,
+					"id_str": "21602965",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "physiotalk",
+					"name": "physiotalk",
+					"id": 2212530852,
+					"id_str": "2212530852",
+					"indices": [
+						12,
+						23
+					]
+				},
+				{
+					"screen_name": "marksia",
+					"name": "Mark Sia MCSP",
+					"id": 756889163987836900,
+					"id_str": "756889163987836928",
+					"indices": [
+						24,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1270082438065201200,
+		"in_reply_to_status_id_str": "1270082438065201153",
+		"in_reply_to_user_id": 21602965,
+		"in_reply_to_user_id_str": "21602965",
+		"in_reply_to_screen_name": "EmilyFenby",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2059,
+			"friends_count": 3237,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@EmilyFenby @physiotalk @marksia ⬆️  #physiotalk"
+	},
+	{
+		"created_at": "Mon Jun 08 19:56:14 +0000 2020",
+		"id": 1270081785599271000,
+		"id_str": "1270082225384628225",
+		"full_text": "@physiotalk #physiotalk To keep talking about this even after the protests have stopped and for it to become a profession wide discussion in every department , and special interest group and university",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			201
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "physiotalk",
+					"indices": [
+						12,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "physiotalk",
+					"name": "physiotalk",
+					"id": 2212530852,
+					"id_str": "2212530852",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1270080602285518800,
+		"in_reply_to_status_id_str": "1270080602285518848",
+		"in_reply_to_user_id": 2212530852,
+		"in_reply_to_user_id_str": "2212530852",
+		"in_reply_to_screen_name": "physiotalk",
+		"user": {
+			"id": 1039521456,
+			"id_str": "1039521456",
+			"name": "Uzo Ehiogu",
+			"screen_name": "consultantPT",
+			"location": "Birmingham, England",
+			"description": "Climbing & Sports Rehab Physio|NHS Clinical Teaching Fellow ROH|Visiting Fellow@ClinAppSciLBU |MMACP| Developing S&C Practitioner |Para/Commando|❤️Family & PT",
+			"url": "https://t.co/I9OA9EztIZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/I9OA9EztIZ",
+							"expanded_url": "https://www.insideedgephysio.com",
+							"display_url": "insideedgephysio.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2829,
+			"friends_count": 590,
+			"listed_count": 23,
+			"created_at": "Thu Dec 27 12:34:40 +0000 2012",
+			"favourites_count": 3463,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225908346823364610/9Rg6qDIs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225908346823364610/9Rg6qDIs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1039521456/1580112981",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "6bc1630ac15fbcaa",
+			"url": "https://api.twitter.com/1.1/geo/id/6bc1630ac15fbcaa.json",
+			"place_type": "city",
+			"name": "West Bromwich",
+			"full_name": "West Bromwich, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-2.0971002,
+							52.460709
+						],
+						[
+							-1.921566,
+							52.460709
+						],
+						[
+							-1.921566,
+							52.569037
+						],
+						[
+							-2.0971002,
+							52.569037
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 48,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@physiotalk #physiotalk To keep talking about this even after the protests have stopped and for it to become a profession wide discussion in every department , and special interest group and university"
+	},
+	{
+		"created_at": "Mon Jun 08 19:50:48 +0000 2020",
+		"id": 1270080857420845000,
+		"id_str": "1270080857420845056",
+		"full_text": "@darrenabrown @Louise_Brennan_ @Nikz_B @physiotalk Absolutely  @darrenabrown !   #physiotalk",
+		"truncated": false,
+		"display_text_range": [
+			51,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "physiotalk",
+					"indices": [
+						81,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "darrenabrown",
+					"name": "Darren Brown; HIV Physiotherapist",
+					"id": 139806274,
+					"id_str": "139806274",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Louise_Brennan_",
+					"name": "Louise Brennan",
+					"id": 281183287,
+					"id_str": "281183287",
+					"indices": [
+						14,
+						30
+					]
+				},
+				{
+					"screen_name": "Nikz_B",
+					"name": "Nikstarrr",
+					"id": 2395009439,
+					"id_str": "2395009439",
+					"indices": [
+						31,
+						38
+					]
+				},
+				{
+					"screen_name": "physiotalk",
+					"name": "physiotalk",
+					"id": 2212530852,
+					"id_str": "2212530852",
+					"indices": [
+						39,
+						50
+					]
+				},
+				{
+					"screen_name": "darrenabrown",
+					"name": "Darren Brown; HIV Physiotherapist",
+					"id": 139806274,
+					"id_str": "139806274",
+					"indices": [
+						63,
+						76
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1270079564706873300,
+		"in_reply_to_status_id_str": "1270079564706873346",
+		"in_reply_to_user_id": 139806274,
+		"in_reply_to_user_id_str": "139806274",
+		"in_reply_to_screen_name": "darrenabrown",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2059,
+			"friends_count": 3237,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@darrenabrown @Louise_Brennan_ @Nikz_B @physiotalk Absolutely  @darrenabrown !   #physiotalk"
+	},
+	{
+		"created_at": "Mon Jun 08 19:48:12 +0000 2020",
+		"id": 1270080206821302300,
+		"id_str": "1270080206821302272",
+		"full_text": "@PhysioNokuthula @Manni_O @jwhittak_physio @arnie_puntis No, thank you Nokuthula for sharing your experiences and your insight  #physiotalk",
+		"truncated": false,
+		"display_text_range": [
+			57,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "physiotalk",
+					"indices": [
+						128,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhysioNokuthula",
+					"name": "Nokuthula Zulu",
+					"id": 1230447483853164500,
+					"id_str": "1230447483853164547",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Manni_O",
+					"name": "Emmanuel Ovola",
+					"id": 57151739,
+					"id_str": "57151739",
+					"indices": [
+						17,
+						25
+					]
+				},
+				{
+					"screen_name": "jwhittak_physio",
+					"name": "Dr. Jackie Whittaker",
+					"id": 84623499,
+					"id_str": "84623499",
+					"indices": [
+						26,
+						42
+					]
+				},
+				{
+					"screen_name": "arnie_puntis",
+					"name": "Arnie Puntis",
+					"id": 987618577271357400,
+					"id_str": "987618577271357441",
+					"indices": [
+						43,
+						56
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1270079099755737000,
+		"in_reply_to_status_id_str": "1270079099755737090",
+		"in_reply_to_user_id": 1230447483853164500,
+		"in_reply_to_user_id_str": "1230447483853164547",
+		"in_reply_to_screen_name": "PhysioNokuthula",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2059,
+			"friends_count": 3237,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PhysioNokuthula @Manni_O @jwhittak_physio @arnie_puntis No, thank you Nokuthula for sharing your experiences and your insight  #physiotalk"
+	},
+	{
+		"created_at": "Mon Jun 08 19:46:30 +0000 2020",
+		"id": 1270079776305361000,
+		"id_str": "1270079776305360898",
+		"full_text": "@jillfromrhyl @lauhols @SamHBooth @Hartey_PT @physiotalk @thecsp It's not but we make it an almost essential requirement when selecting students onto courses..  #physiotalk",
+		"truncated": false,
+		"display_text_range": [
+			65,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "physiotalk",
+					"indices": [
+						161,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jillfromrhyl",
+					"name": "Jill Morgan",
+					"id": 2495961768,
+					"id_str": "2495961768",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "lauhols",
+					"name": "Laura Breach",
+					"id": 20471975,
+					"id_str": "20471975",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"screen_name": "SamHBooth",
+					"name": "Sam Haworth-Booth",
+					"id": 918927593264570400,
+					"id_str": "918927593264570374",
+					"indices": [
+						23,
+						33
+					]
+				},
+				{
+					"screen_name": "Hartey_PT",
+					"name": "Helen Harte",
+					"id": 751495287487758300,
+					"id_str": "751495287487758336",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"screen_name": "physiotalk",
+					"name": "physiotalk",
+					"id": 2212530852,
+					"id_str": "2212530852",
+					"indices": [
+						45,
+						56
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						57,
+						64
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1270079386679750700,
+		"in_reply_to_status_id_str": "1270079386679750656",
+		"in_reply_to_user_id": 2495961768,
+		"in_reply_to_user_id_str": "2495961768",
+		"in_reply_to_screen_name": "jillfromrhyl",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2059,
+			"friends_count": 3237,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jillfromrhyl @lauhols @SamHBooth @Hartey_PT @physiotalk @thecsp It's not but we make it an almost essential requirement when selecting students onto courses..  #physiotalk"
+	},
+	{
+		"created_at": "Mon Jun 08 19:45:35 +0000 2020",
+		"id": 1270079547741003800,
+		"id_str": "1270079547741003785",
+		"full_text": "@lauhols @jillfromrhyl @SamHBooth @Hartey_PT @physiotalk @thecsp Go to any university open day and they will acknowledge how hard it can be to get work experience...  I have privilege and I found it difficult 4/5 years ago #physiotalk",
+		"truncated": false,
+		"display_text_range": [
+			65,
+			234
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "physiotalk",
+					"indices": [
+						223,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lauhols",
+					"name": "Laura Breach",
+					"id": 20471975,
+					"id_str": "20471975",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "jillfromrhyl",
+					"name": "Jill Morgan",
+					"id": 2495961768,
+					"id_str": "2495961768",
+					"indices": [
+						9,
+						22
+					]
+				},
+				{
+					"screen_name": "SamHBooth",
+					"name": "Sam Haworth-Booth",
+					"id": 918927593264570400,
+					"id_str": "918927593264570374",
+					"indices": [
+						23,
+						33
+					]
+				},
+				{
+					"screen_name": "Hartey_PT",
+					"name": "Helen Harte",
+					"id": 751495287487758300,
+					"id_str": "751495287487758336",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"screen_name": "physiotalk",
+					"name": "physiotalk",
+					"id": 2212530852,
+					"id_str": "2212530852",
+					"indices": [
+						45,
+						56
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						57,
+						64
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1270078648230559700,
+		"in_reply_to_status_id_str": "1270078648230559746",
+		"in_reply_to_user_id": 20471975,
+		"in_reply_to_user_id_str": "20471975",
+		"in_reply_to_screen_name": "lauhols",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2059,
+			"friends_count": 3237,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@lauhols @jillfromrhyl @SamHBooth @Hartey_PT @physiotalk @thecsp Go to any university open day and they will acknowledge how hard it can be to get work experience...  I have privilege and I found it difficult 4/5 years ago #physiotalk"
+	},
+	{
+		"created_at": "Mon Jun 08 19:37:36 +0000 2020",
+		"id": 1270077536404471800,
+		"id_str": "1270077536404471809",
+		"full_text": "@jillfromrhyl @SamHBooth @Hartey_PT @physiotalk We must open up work experience!\nThis shouldn't even be a thing...  #Physiotalk",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			127
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Physiotalk",
+					"indices": [
+						116,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jillfromrhyl",
+					"name": "Jill Morgan",
+					"id": 2495961768,
+					"id_str": "2495961768",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "SamHBooth",
+					"name": "Sam Haworth-Booth",
+					"id": 918927593264570400,
+					"id_str": "918927593264570374",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "Hartey_PT",
+					"name": "Helen Harte",
+					"id": 751495287487758300,
+					"id_str": "751495287487758336",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"screen_name": "physiotalk",
+					"name": "physiotalk",
+					"id": 2212530852,
+					"id_str": "2212530852",
+					"indices": [
+						36,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1270076986115924000,
+		"in_reply_to_status_id_str": "1270076986115923969",
+		"in_reply_to_user_id": 2495961768,
+		"in_reply_to_user_id_str": "2495961768",
+		"in_reply_to_screen_name": "jillfromrhyl",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2059,
+			"friends_count": 3237,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jillfromrhyl @SamHBooth @Hartey_PT @physiotalk We must open up work experience!\nThis shouldn't even be a thing...  #Physiotalk"
+	},
+	{
+		"created_at": "Mon Jun 08 19:19:57 +0000 2020",
+		"id": 1270073097744461800,
+		"id_str": "1270073097744461825",
+		"full_text": "@PhysioNokuthula @physiotalk good to hear  #physiotalk",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			54
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "physiotalk",
+					"indices": [
+						43,
+						54
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhysioNokuthula",
+					"name": "Nokuthula Zulu",
+					"id": 1230447483853164500,
+					"id_str": "1230447483853164547",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "physiotalk",
+					"name": "physiotalk",
+					"id": 2212530852,
+					"id_str": "2212530852",
+					"indices": [
+						17,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1270072703588929500,
+		"in_reply_to_status_id_str": "1270072703588929539",
+		"in_reply_to_user_id": 1230447483853164500,
+		"in_reply_to_user_id_str": "1230447483853164547",
+		"in_reply_to_screen_name": "PhysioNokuthula",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2059,
+			"friends_count": 3237,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PhysioNokuthula @physiotalk good to hear  #physiotalk"
+	},
+	{
+		"created_at": "Mon Jun 08 19:02:52 +0000 2020",
+		"id": 1270068798238920700,
+		"id_str": "1270068798238920704",
+		"full_text": "@physiotalk Lurking &amp; participating from Rugeley, Staffordshire. #Physiotalk",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			80
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Physiotalk",
+					"indices": [
+						69,
+						80
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "physiotalk",
+					"name": "physiotalk",
+					"id": 2212530852,
+					"id_str": "2212530852",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1270068237330534400,
+		"in_reply_to_status_id_str": "1270068237330534402",
+		"in_reply_to_user_id": 2212530852,
+		"in_reply_to_user_id_str": "2212530852",
+		"in_reply_to_screen_name": "physiotalk",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2059,
+			"friends_count": 3237,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17295,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6051,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@physiotalk Lurking &amp; participating from Rugeley, Staffordshire. #Physiotalk"
+	},
+	{
 		"created_at": "Sun Jun 07 20:38:59 +0000 2020",
 		"id": 1269730599167811600,
 		"id_str": "1269730599167811584",
