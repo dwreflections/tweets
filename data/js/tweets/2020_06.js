@@ -1,6 +1,239 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 09 17:53:56 +0000 2020",
+		"id": 1270271927937048600,
+		"id_str": "1270413836739317761",
+		"full_text": "Physiotherapists like David are working in a highly pressured and fast-changing environment in the fight against Covid -19. If you are leaving the armed forces, find out about NHS careers https://t.co/6H223KHyiN @beardedPT @UHDBTrust @thecsp @KMiddletonCSP #StepintoHealth https://t.co/mE96RUbJ3g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StepintoHealth",
+					"indices": [
+						257,
+						272
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams 🌈",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						212,
+						222
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						223,
+						233
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						234,
+						241
+					]
+				},
+				{
+					"screen_name": "KMiddletonCSP",
+					"name": "Karen Middleton",
+					"id": 791233063,
+					"id_str": "791233063",
+					"indices": [
+						242,
+						256
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6H223KHyiN",
+					"expanded_url": "https://bit.ly/2W4fHuo",
+					"display_url": "bit.ly/2W4fHuo",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1270271926276165600,
+					"id_str": "1270271926276165632",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EaDpljXXkAA9Jqw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaDpljXXkAA9Jqw.jpg",
+					"url": "https://t.co/mE96RUbJ3g",
+					"display_url": "pic.twitter.com/mE96RUbJ3g",
+					"expanded_url": "https://twitter.com/BCTCareers/status/1270271927937048577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1270271926276165600,
+					"id_str": "1270271926276165632",
+					"indices": [
+						273,
+						296
+					],
+					"media_url": "http://pbs.twimg.com/media/EaDpljXXkAA9Jqw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EaDpljXXkAA9Jqw.jpg",
+					"url": "https://t.co/mE96RUbJ3g",
+					"display_url": "pic.twitter.com/mE96RUbJ3g",
+					"expanded_url": "https://twitter.com/BCTCareers/status/1270271927937048577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://twittimer.com\" rel=\"nofollow\">Twittimer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 706788584213319700,
+			"id_str": "706788584213319680",
+			"name": "BCTCareers",
+			"screen_name": "BCTCareers",
+			"location": "Cumbria and North Lancashire",
+			"description": "Bay Health & Care Careers Team",
+			"url": "https://t.co/UgTMpITcDw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UgTMpITcDw",
+							"expanded_url": "http://betterwithyou.co.uk",
+							"display_url": "betterwithyou.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 589,
+			"friends_count": 492,
+			"listed_count": 10,
+			"created_at": "Mon Mar 07 10:28:24 +0000 2016",
+			"favourites_count": 1957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1031496569420427265/tgrpFMki_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1031496569420427265/tgrpFMki_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/706788584213319680/1526398414",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Physiotherapists like David are working in a highly pressured and fast-changing environment in the fight against Covid -19. If you are leaving the armed forces, find out about NHS careers https://t.co/6H223KHyiN @beardedPT @UHDBTrust @thecsp @KMiddletonCSP #StepintoHealth https://t.co/mE96RUbJ3g"
+	},
+	{
 		"created_at": "Mon Jun 08 21:40:09 +0000 2020",
 		"id": 1270089965943296000,
 		"id_str": "1270108378958893056",
