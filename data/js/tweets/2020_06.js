@@ -1,6 +1,169 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 13 20:51:26 +0000 2020",
+		"id": 1271908057577070600,
+		"id_str": "1271908057577070594",
+		"full_text": "@gds115gds @emilyophysio1 @PhysioUow @uworcphysio @JRGPhysio @KMiddletonCSP Big shoes @JRGPhysio 👍",
+		"truncated": false,
+		"display_text_range": [
+			76,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gds115gds",
+					"name": "Gordon Smith",
+					"id": 3380452881,
+					"id_str": "3380452881",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "emilyophysio1",
+					"name": "emily oscroft",
+					"id": 1252701222357868500,
+					"id_str": "1252701222357868550",
+					"indices": [
+						11,
+						25
+					]
+				},
+				{
+					"screen_name": "PhysioUow",
+					"name": "UOW Physio Society",
+					"id": 1042320225687920600,
+					"id_str": "1042320225687920640",
+					"indices": [
+						26,
+						36
+					]
+				},
+				{
+					"screen_name": "uworcphysio",
+					"name": "UoWPhysio",
+					"id": 2176252229,
+					"id_str": "2176252229",
+					"indices": [
+						37,
+						49
+					]
+				},
+				{
+					"screen_name": "JRGPhysio",
+					"name": "Jason Glazier",
+					"id": 926586068035686400,
+					"id_str": "926586068035686400",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"screen_name": "KMiddletonCSP",
+					"name": "Karen Middleton",
+					"id": 791233063,
+					"id_str": "791233063",
+					"indices": [
+						61,
+						75
+					]
+				},
+				{
+					"screen_name": "JRGPhysio",
+					"name": "Jason Glazier",
+					"id": 926586068035686400,
+					"id_str": "926586068035686400",
+					"indices": [
+						86,
+						96
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1271894437761814500,
+		"in_reply_to_status_id_str": "1271894437761814528",
+		"in_reply_to_user_id": 3380452881,
+		"in_reply_to_user_id_str": "3380452881",
+		"in_reply_to_screen_name": "gds115gds",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2080,
+			"friends_count": 3252,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17369,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6083,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gds115gds @emilyophysio1 @PhysioUow @uworcphysio @JRGPhysio @KMiddletonCSP Big shoes @JRGPhysio 👍"
+	},
+	{
 		"created_at": "Fri Jun 12 18:23:02 +0000 2020",
 		"id": 1271506901197566000,
 		"id_str": "1271508323012132866",
@@ -1205,7 +1368,7 @@ Grailbird.data.tweets_2020_06 =
 			"user_mentions": [
 				{
 					"screen_name": "Alannobbs",
-					"name": "⭐️🏳️‍🌈Alan J Nobbs",
+					"name": "⭐️🏳️🌈Alan J Nobbs",
 					"id": 541124606,
 					"id_str": "541124606",
 					"indices": [
