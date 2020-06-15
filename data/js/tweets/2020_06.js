@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 14 08:54:11 +0000 2020",
+		"id": 1271864918090924000,
+		"id_str": "1272089945344282624",
+		"full_text": "Communication and teamwork are vital to David in his work as a physiotherapist, just as they were when he was a Royal Marine - https://t.co/KF9UTFR16H\n@beardedPT @UHDBTrust @UHDBAHPs @thecsp @CSPEastMidlands @KMiddletonCSP #StepintoHealth",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StepintoHealth",
+					"indices": [
+						223,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams 🌈",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						151,
+						161
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						162,
+						172
+					]
+				},
+				{
+					"screen_name": "UHDBAHPs",
+					"name": "UHDBAHPs",
+					"id": 1051752102530338800,
+					"id_str": "1051752102530338816",
+					"indices": [
+						173,
+						182
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						183,
+						190
+					]
+				},
+				{
+					"screen_name": "CSPEastMidlands",
+					"name": "CSPEastMidlands",
+					"id": 1280624264,
+					"id_str": "1280624264",
+					"indices": [
+						191,
+						207
+					]
+				},
+				{
+					"screen_name": "KMiddletonCSP",
+					"name": "Karen Middleton",
+					"id": 791233063,
+					"id_str": "791233063",
+					"indices": [
+						208,
+						222
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KF9UTFR16H",
+					"expanded_url": "http://orlo.uk/EnUA2",
+					"display_url": "orlo.uk/EnUA2",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://orlo.tech\" rel=\"nofollow\">Orlo</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 637008966,
+			"id_str": "637008966",
+			"name": "NHS HEE",
+			"screen_name": "NHS_HealthEdEng",
+			"location": "England",
+			"description": "Health Education England (HEE), improving the quality of care delivered to patients - developing people for health and healthcare. Account monitored Mon-Fri 8-5",
+			"url": "https://t.co/evbXOaPi7G",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/evbXOaPi7G",
+							"expanded_url": "http://www.hee.nhs.uk/",
+							"display_url": "hee.nhs.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65957,
+			"friends_count": 1658,
+			"listed_count": 407,
+			"created_at": "Mon Jul 16 12:20:30 +0000 2012",
+			"favourites_count": 9256,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 19900,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0091C9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1225038349121081345/gSD_5DzE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1225038349121081345/gSD_5DzE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/637008966/1585314396",
+			"profile_link_color": "E28C05",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Communication and teamwork are vital to David in his work as a physiotherapist, just as they were when he was a Royal Marine - https://t.co/KF9UTFR16H\n@beardedPT @UHDBTrust @UHDBAHPs @thecsp @CSPEastMidlands @KMiddletonCSP #StepintoHealth"
+	},
+	{
 		"created_at": "Sat Jun 13 20:51:26 +0000 2020",
 		"id": 1271908057577070600,
 		"id_str": "1271908057577070594",
