@@ -1,6 +1,342 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 15 21:25:09 +0000 2020",
+		"id": 1272641320373424000,
+		"id_str": "1272641320373424131",
+		"full_text": "@BeverleyHarden @hobbs_char @NHS_HealthEdEng @UoW_Physio @SHFT_AHP @PaulChapman09 I’d of absolutely loved a placement like this!\nSuper work @hobbs_char 👍",
+		"truncated": false,
+		"display_text_range": [
+			82,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BeverleyHarden",
+					"name": "Beverley Harden FCSP",
+					"id": 1641141318,
+					"id_str": "1641141318",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "hobbs_char",
+					"name": "char hobbs",
+					"id": 1267768497943257000,
+					"id_str": "1267768497943257090",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "NHS_HealthEdEng",
+					"name": "NHS HEE",
+					"id": 637008966,
+					"id_str": "637008966",
+					"indices": [
+						28,
+						44
+					]
+				},
+				{
+					"screen_name": "UoW_Physio",
+					"name": "Uni of Winch Physio",
+					"id": 984028687396954100,
+					"id_str": "984028687396954119",
+					"indices": [
+						45,
+						56
+					]
+				},
+				{
+					"screen_name": "SHFT_AHP",
+					"name": "Southern Health AHP",
+					"id": 1160974337102549000,
+					"id_str": "1160974337102548994",
+					"indices": [
+						57,
+						66
+					]
+				},
+				{
+					"screen_name": "PaulChapman09",
+					"name": "Paul_Chapman09",
+					"id": 735562813146533900,
+					"id_str": "735562813146533888",
+					"indices": [
+						67,
+						81
+					]
+				},
+				{
+					"screen_name": "hobbs_char",
+					"name": "char hobbs",
+					"id": 1267768497943257000,
+					"id_str": "1267768497943257090",
+					"indices": [
+						140,
+						151
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1272411580240728000,
+		"in_reply_to_status_id_str": "1272411580240728064",
+		"in_reply_to_user_id": 1641141318,
+		"in_reply_to_user_id_str": "1641141318",
+		"in_reply_to_screen_name": "BeverleyHarden",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2087,
+			"friends_count": 3259,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BeverleyHarden @hobbs_char @NHS_HealthEdEng @UoW_Physio @SHFT_AHP @PaulChapman09 I’d of absolutely loved a placement like this!\nSuper work @hobbs_char 👍"
+	},
+	{
+		"created_at": "Mon Jun 15 18:51:02 +0000 2020",
+		"id": 1272602532746010600,
+		"id_str": "1272602532746010625",
+		"full_text": "@saeboukglyn @karenphysiocouk @willchegwidden @exerciseworks @YorkNeuroRehab @OCEConsultant @WLFitness What thread is this part of @saeboukglyn ? 👍",
+		"truncated": false,
+		"display_text_range": [
+			103,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "saeboukglyn",
+					"name": "Glyn Blakey",
+					"id": 321944826,
+					"id_str": "321944826",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "karenphysiocouk",
+					"name": "KarenPhysioCoUk",
+					"id": 1006806862195560400,
+					"id_str": "1006806862195560448",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "willchegwidden",
+					"name": "Will Chegwidden",
+					"id": 1386287664,
+					"id_str": "1386287664",
+					"indices": [
+						30,
+						45
+					]
+				},
+				{
+					"screen_name": "exerciseworks",
+					"name": "Exercise Works! 💙",
+					"id": 256921454,
+					"id_str": "256921454",
+					"indices": [
+						46,
+						60
+					]
+				},
+				{
+					"screen_name": "YorkNeuroRehab",
+					"name": "Woodlands Neuro Rehabilitation Centre",
+					"id": 1092039493367025700,
+					"id_str": "1092039493367025665",
+					"indices": [
+						61,
+						76
+					]
+				},
+				{
+					"screen_name": "OCEConsultant",
+					"name": "Charlie Winward wash your hands",
+					"id": 1093100773,
+					"id_str": "1093100773",
+					"indices": [
+						77,
+						91
+					]
+				},
+				{
+					"screen_name": "WLFitness",
+					"name": "Helen Rothwell",
+					"id": 356850087,
+					"id_str": "356850087",
+					"indices": [
+						92,
+						102
+					]
+				},
+				{
+					"screen_name": "saeboukglyn",
+					"name": "Glyn Blakey",
+					"id": 321944826,
+					"id_str": "321944826",
+					"indices": [
+						131,
+						143
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1272427200680206300,
+		"in_reply_to_status_id_str": "1272427200680206337",
+		"in_reply_to_user_id": 321944826,
+		"in_reply_to_user_id_str": "321944826",
+		"in_reply_to_screen_name": "saeboukglyn",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2087,
+			"friends_count": 3259,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6087,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@saeboukglyn @karenphysiocouk @willchegwidden @exerciseworks @YorkNeuroRehab @OCEConsultant @WLFitness What thread is this part of @saeboukglyn ? 👍"
+	},
+	{
 		"created_at": "Sun Jun 14 08:54:11 +0000 2020",
 		"id": 1271864918090924000,
 		"id_str": "1272089945344282624",
