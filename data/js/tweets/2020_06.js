@@ -1,6 +1,946 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Fri Jun 19 20:14:05 +0000 2020",
+		"id": 1274072983611506700,
+		"id_str": "1274072983611506694",
+		"full_text": "@RhiannonJoslin @thecsp @lisjenks1 @JackAChew @Dhg1Mills @ZoeWilligen @ShoulderGeek1 @awgilbert11 @MattLowPT @neiljlangridge @JeremyLewisPT @ashjamesphysio @ThackrayD @PMFirstSteps ⬆️",
+		"truncated": false,
+		"display_text_range": [
+			167,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RhiannonJoslin",
+					"name": "Rhiannon Joslin",
+					"id": 3689453177,
+					"id_str": "3689453177",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"screen_name": "lisjenks1",
+					"name": "Lisa Osborn-Jenkins",
+					"id": 4231687467,
+					"id_str": "4231687467",
+					"indices": [
+						24,
+						34
+					]
+				},
+				{
+					"screen_name": "JackAChew",
+					"name": "Jack Chew",
+					"id": 868558446,
+					"id_str": "868558446",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"screen_name": "Dhg1Mills",
+					"name": "Denise Gibson (Mills-Goodlet)",
+					"id": 3070109681,
+					"id_str": "3070109681",
+					"indices": [
+						46,
+						56
+					]
+				},
+				{
+					"screen_name": "ZoeWilligen",
+					"name": "Zoe van Willigen",
+					"id": 965693501265662000,
+					"id_str": "965693501265661953",
+					"indices": [
+						57,
+						69
+					]
+				},
+				{
+					"screen_name": "ShoulderGeek1",
+					"name": "Jo Gibson",
+					"id": 1335169814,
+					"id_str": "1335169814",
+					"indices": [
+						70,
+						84
+					]
+				},
+				{
+					"screen_name": "awgilbert11",
+					"name": "Anthony Gilbert",
+					"id": 250321410,
+					"id_str": "250321410",
+					"indices": [
+						85,
+						97
+					]
+				},
+				{
+					"screen_name": "MattLowPT",
+					"name": "Matthew Low",
+					"id": 1105433442,
+					"id_str": "1105433442",
+					"indices": [
+						98,
+						108
+					]
+				},
+				{
+					"screen_name": "neiljlangridge",
+					"name": "Neil Langridge",
+					"id": 1890279319,
+					"id_str": "1890279319",
+					"indices": [
+						109,
+						124
+					]
+				},
+				{
+					"screen_name": "JeremyLewisPT",
+					"name": "Jeremy Lewis",
+					"id": 2967837520,
+					"id_str": "2967837520",
+					"indices": [
+						125,
+						139
+					]
+				},
+				{
+					"screen_name": "ashjamesphysio",
+					"name": "Ash James 💭",
+					"id": 597553260,
+					"id_str": "597553260",
+					"indices": [
+						140,
+						155
+					]
+				},
+				{
+					"screen_name": "ThackrayD",
+					"name": "Debbie Thackray",
+					"id": 4105645227,
+					"id_str": "4105645227",
+					"indices": [
+						156,
+						166
+					]
+				},
+				{
+					"screen_name": "PMFirstSteps",
+					"name": "Physio Matters First Steps",
+					"id": 840861722286137300,
+					"id_str": "840861722286137349",
+					"indices": [
+						167,
+						180
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1261294545125417000,
+		"in_reply_to_status_id_str": "1261294545125416963",
+		"in_reply_to_user_id": 3689453177,
+		"in_reply_to_user_id_str": "3689453177",
+		"in_reply_to_screen_name": "RhiannonJoslin",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2100,
+			"friends_count": 3279,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@RhiannonJoslin @thecsp @lisjenks1 @JackAChew @Dhg1Mills @ZoeWilligen @ShoulderGeek1 @awgilbert11 @MattLowPT @neiljlangridge @JeremyLewisPT @ashjamesphysio @ThackrayD @PMFirstSteps ⬆️"
+	},
+	{
+		"created_at": "Fri Jun 19 19:14:32 +0000 2020",
+		"id": 1274057997640175600,
+		"id_str": "1274057997640175616",
+		"full_text": "@BenShannonPT @UoNPhysio @uhltherapy 🍾🍾🍾🍾🍾🍾\n\nCongratulations 🥳",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BenShannonPT",
+					"name": "Ben Shannon",
+					"id": 45407152,
+					"id_str": "45407152",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "uhltherapy",
+					"name": "uhltherapy",
+					"id": 801001261877383200,
+					"id_str": "801001261877383168",
+					"indices": [
+						25,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1274055703028740000,
+		"in_reply_to_status_id_str": "1274055703028740097",
+		"in_reply_to_user_id": 45407152,
+		"in_reply_to_user_id_str": "45407152",
+		"in_reply_to_screen_name": "BenShannonPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2100,
+			"friends_count": 3279,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BenShannonPT @UoNPhysio @uhltherapy 🍾🍾🍾🍾🍾🍾\n\nCongratulations 🥳"
+	},
+	{
+		"created_at": "Fri Jun 19 17:59:51 +0000 2020",
+		"id": 1274039205967077400,
+		"id_str": "1274039205967077377",
+		"full_text": "@physiorachajb @AHPLeader Massive typo on the last tweet 🤫🤣",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "physiorachajb",
+					"name": "Rachael Bailey",
+					"id": 904470732373143600,
+					"id_str": "904470732373143553",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "AHPLeader",
+					"name": "rachael moses",
+					"id": 107548705,
+					"id_str": "107548705",
+					"indices": [
+						15,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1274037214821957600,
+		"in_reply_to_status_id_str": "1274037214821957634",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2100,
+			"friends_count": 3279,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@physiorachajb @AHPLeader Massive typo on the last tweet 🤫🤣"
+	},
+	{
+		"created_at": "Fri Jun 19 17:51:57 +0000 2020",
+		"id": 1274037214821957600,
+		"id_str": "1274037214821957634",
+		"full_text": "@physiorachajb Massive congratulations! 👏👏\n\nWatch out @AHPLeader you have this super physio joining your ranks very soon ✨",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "physiorachajb",
+					"name": "Rachael Bailey",
+					"id": 904470732373143600,
+					"id_str": "904470732373143553",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "AHPLeader",
+					"name": "rachael moses",
+					"id": 107548705,
+					"id_str": "107548705",
+					"indices": [
+						54,
+						64
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1273966775563141000,
+		"in_reply_to_status_id_str": "1273966775563141120",
+		"in_reply_to_user_id": 904470732373143600,
+		"in_reply_to_user_id_str": "904470732373143553",
+		"in_reply_to_screen_name": "physiorachajb",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2100,
+			"friends_count": 3279,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52041af7b8001313",
+			"url": "https://api.twitter.com/1.1/geo/id/52041af7b8001313.json",
+			"place_type": "city",
+			"name": "Rugeley",
+			"full_name": "Rugeley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.971255,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.773708
+						],
+						[
+							-1.971255,
+							52.773708
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@physiorachajb Massive congratulations! 👏👏\n\nWatch out @AHPLeader you have this super physio joining your ranks very soon ✨"
+	},
+	{
+		"created_at": "Fri Jun 19 17:21:18 +0000 2020",
+		"id": 1274029501979164700,
+		"id_str": "1274029501979164673",
+		"full_text": "Super exciting things coming from  @PMFirstSteps ... 🚀 \n\nI don’t know how this has been kept a secret 🤫\n\nTransitional content for students &amp; new graduates in Physiotherapy &amp; MSK fields ⬇️ https://t.co/PXVN5nlNZf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PMFirstSteps",
+					"name": "Physio Matters First Steps",
+					"id": 840861722286137300,
+					"id_str": "840861722286137349",
+					"indices": [
+						35,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PXVN5nlNZf",
+					"expanded_url": "https://twitter.com/pmfirststeps/status/1274014030605225984",
+					"display_url": "twitter.com/pmfirststeps/s…",
+					"indices": [
+						196,
+						219
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🌈",
+			"screen_name": "beardedPT",
+			"location": "Rugeley, England",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V) 🦠 #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2100,
+			"friends_count": 3279,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17440,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6102,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52041af7b8001313",
+			"url": "https://api.twitter.com/1.1/geo/id/52041af7b8001313.json",
+			"place_type": "city",
+			"name": "Rugeley",
+			"full_name": "Rugeley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.971255,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.773708
+						],
+						[
+							-1.971255,
+							52.773708
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1274014030605226000,
+		"quoted_status_id_str": "1274014030605225984",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PXVN5nlNZf",
+			"expanded": "https://twitter.com/pmfirststeps/status/1274014030605225984",
+			"display": "twitter.com/pmfirststeps/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 19 16:19:49 +0000 2020",
+			"id": 1274014030605226000,
+			"id_str": "1274014030605225984",
+			"full_text": "7 days till launch... 🚀 \n\nAn exciting new project for students and new grads that aims to provide a safe space to share experiences, ask those stupid questions and build connections 🤗\n\nMake sure to follow for more info as we build towards our launch @therapyliveuk @TPMPodcast https://t.co/H1SOyIXdrN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				276
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TPMPodcast",
+						"name": "Physio Matters",
+						"id": 1914280350,
+						"id_str": "1914280350",
+						"indices": [
+							265,
+							276
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1274014026712912000,
+						"id_str": "1274014026712911874",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/Ea41Ad0WkAIG9Ji.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ea41Ad0WkAIG9Ji.jpg",
+						"url": "https://t.co/H1SOyIXdrN",
+						"display_url": "pic.twitter.com/H1SOyIXdrN",
+						"expanded_url": "https://twitter.com/PMFirstSteps/status/1274014030605225984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1274014026712912000,
+						"id_str": "1274014026712911874",
+						"indices": [
+							277,
+							300
+						],
+						"media_url": "http://pbs.twimg.com/media/Ea41Ad0WkAIG9Ji.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ea41Ad0WkAIG9Ji.jpg",
+						"url": "https://t.co/H1SOyIXdrN",
+						"display_url": "pic.twitter.com/H1SOyIXdrN",
+						"expanded_url": "https://twitter.com/PMFirstSteps/status/1274014030605225984/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 840861722286137300,
+				"id_str": "840861722286137349",
+				"name": "Physio Matters First Steps",
+				"screen_name": "PMFirstSteps",
+				"location": "",
+				"description": "",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 605,
+				"friends_count": 71,
+				"listed_count": 4,
+				"created_at": "Sun Mar 12 09:47:11 +0000 2017",
+				"favourites_count": 416,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1273929840358555652/mP6SWVq7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273929840358555652/mP6SWVq7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/840861722286137349/1592563518",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 39,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Super exciting things coming from  @PMFirstSteps ... 🚀 \n\nI don’t know how this has been kept a secret 🤫\n\nTransitional content for students &amp; new graduates in Physiotherapy &amp; MSK fields ⬇️ https://t.co/PXVN5nlNZf"
+	},
+	{
 		"created_at": "Thu Jun 18 17:30:15 +0000 2020",
 		"id": 1273669369164415000,
 		"id_str": "1273669369164414976",
