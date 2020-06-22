@@ -1,6 +1,686 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sun Jun 21 19:39:41 +0000 2020",
+		"id": 1274789105721843700,
+		"id_str": "1274789105721843712",
+		"full_text": "@150Leaders @RalucaVagner @HLA_int @jessrees_ @PUNCrachpalmer @SarahBradder https://t.co/fhtkqv8DdQ",
+		"truncated": false,
+		"display_text_range": [
+			75,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "150Leaders",
+					"name": "#150Leaders",
+					"id": 1139187039151280100,
+					"id_str": "1139187039151280128",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "RalucaVagner",
+					"name": "Raluca Vagner",
+					"id": 475210366,
+					"id_str": "475210366",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						26,
+						34
+					]
+				},
+				{
+					"screen_name": "jessrees_",
+					"name": "Jess Rees",
+					"id": 971857771951022100,
+					"id_str": "971857771951022081",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"screen_name": "PUNCrachpalmer",
+					"name": "Rachael Palmer💙 #StayHome",
+					"id": 911619240876273700,
+					"id_str": "911619240876273664",
+					"indices": [
+						46,
+						61
+					]
+				},
+				{
+					"screen_name": "SarahBradder",
+					"name": "Sarah Bradder",
+					"id": 47191682,
+					"id_str": "47191682",
+					"indices": [
+						62,
+						75
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1274789098499256300,
+					"id_str": "1274789098499256320",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EbD17lOWsAAsHW1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EbD17lOWsAAsHW1.jpg",
+					"url": "https://t.co/fhtkqv8DdQ",
+					"display_url": "pic.twitter.com/fhtkqv8DdQ",
+					"expanded_url": "https://twitter.com/beardedPT/status/1274789105721843712/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 248,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 248,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 248,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274789098499256300,
+					"id_str": "1274789098499256320",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EbD17lOWsAAsHW1.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EbD17lOWsAAsHW1.jpg",
+					"url": "https://t.co/fhtkqv8DdQ",
+					"display_url": "pic.twitter.com/fhtkqv8DdQ",
+					"expanded_url": "https://twitter.com/beardedPT/status/1274789105721843712/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 498,
+							"h": 248,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 248,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 498,
+							"h": 248,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							124
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EbD17lOWsAAsHW1.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1274787459893731300,
+		"in_reply_to_status_id_str": "1274787459893731331",
+		"in_reply_to_user_id": 1139187039151280100,
+		"in_reply_to_user_id_str": "1139187039151280128",
+		"in_reply_to_screen_name": "150Leaders",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2105,
+			"friends_count": 3295,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@150Leaders @RalucaVagner @HLA_int @jessrees_ @PUNCrachpalmer @SarahBradder https://t.co/fhtkqv8DdQ"
+	},
+	{
+		"created_at": "Sun Jun 21 19:31:47 +0000 2020",
+		"id": 1274787117235871700,
+		"id_str": "1274787117235871744",
+		"full_text": "@magnusharrison @AvrilDrummond1 Happy birthday 🥳🍻",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "magnusharrison",
+					"name": "Dr. Magnus Harrison 💙🌈",
+					"id": 258272524,
+					"id_str": "258272524",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "AvrilDrummond1",
+					"name": "Avril Drummond",
+					"id": 1454319013,
+					"id_str": "1454319013",
+					"indices": [
+						16,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1274657088329965600,
+		"in_reply_to_status_id_str": "1274657088329965569",
+		"in_reply_to_user_id": 258272524,
+		"in_reply_to_user_id_str": "258272524",
+		"in_reply_to_screen_name": "magnusharrison",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2105,
+			"friends_count": 3295,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@magnusharrison @AvrilDrummond1 Happy birthday 🥳🍻"
+	},
+	{
+		"created_at": "Sun Jun 21 19:29:18 +0000 2020",
+		"id": 1274786489491169300,
+		"id_str": "1274786489491169289",
+		"full_text": "@150Leaders @RalucaVagner @HLA_int @jessrees_ @PUNCrachpalmer Congrats @RalucaVagner 🥳 Any more #150Leaders? 🤩",
+		"truncated": false,
+		"display_text_range": [
+			62,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "150Leaders",
+					"indices": [
+						96,
+						107
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "150Leaders",
+					"name": "#150Leaders",
+					"id": 1139187039151280100,
+					"id_str": "1139187039151280128",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "RalucaVagner",
+					"name": "Raluca Vagner",
+					"id": 475210366,
+					"id_str": "475210366",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						26,
+						34
+					]
+				},
+				{
+					"screen_name": "jessrees_",
+					"name": "Jess Rees",
+					"id": 971857771951022100,
+					"id_str": "971857771951022081",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"screen_name": "PUNCrachpalmer",
+					"name": "Rachael Palmer💙 #StayHome",
+					"id": 911619240876273700,
+					"id_str": "911619240876273664",
+					"indices": [
+						46,
+						61
+					]
+				},
+				{
+					"screen_name": "RalucaVagner",
+					"name": "Raluca Vagner",
+					"id": 475210366,
+					"id_str": "475210366",
+					"indices": [
+						71,
+						84
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1274782305635250200,
+		"in_reply_to_status_id_str": "1274782305635250179",
+		"in_reply_to_user_id": 1139187039151280100,
+		"in_reply_to_user_id_str": "1139187039151280128",
+		"in_reply_to_screen_name": "150Leaders",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2105,
+			"friends_count": 3295,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17481,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@150Leaders @RalucaVagner @HLA_int @jessrees_ @PUNCrachpalmer Congrats @RalucaVagner 🥳 Any more #150Leaders? 🤩"
+	},
+	{
+		"created_at": "Sun Jun 21 16:32:30 +0000 2020",
+		"id": 1274741557262942200,
+		"id_str": "1274741997178425345",
+		"full_text": "5 days until launch🚀\nWe will be posting team bios from tomorrow, giving you a chance to meet our awesome team😍 https://t.co/oGJpXUrOLt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1274740393377173500,
+					"id_str": "1274740393377173506",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EbDJokgWkAIWPeX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbDJokgWkAIWPeX.jpg",
+					"url": "https://t.co/oGJpXUrOLt",
+					"display_url": "pic.twitter.com/oGJpXUrOLt",
+					"expanded_url": "https://twitter.com/PMFirstSteps/status/1274741557262942209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1274740393377173500,
+					"id_str": "1274740393377173506",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/EbDJokgWkAIWPeX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbDJokgWkAIWPeX.jpg",
+					"url": "https://t.co/oGJpXUrOLt",
+					"display_url": "pic.twitter.com/oGJpXUrOLt",
+					"expanded_url": "https://twitter.com/PMFirstSteps/status/1274741557262942209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 840861722286137300,
+			"id_str": "840861722286137349",
+			"name": "Physio Matters First Steps",
+			"screen_name": "PMFirstSteps",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 680,
+			"friends_count": 71,
+			"listed_count": 4,
+			"created_at": "Sun Mar 12 09:47:11 +0000 2017",
+			"favourites_count": 423,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 8,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273929840358555652/mP6SWVq7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273929840358555652/mP6SWVq7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/840861722286137349/1592563518",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 20,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "5 days until launch🚀\nWe will be posting team bios from tomorrow, giving you a chance to meet our awesome team😍 https://t.co/oGJpXUrOLt"
+	},
+	{
 		"created_at": "Sat Jun 20 20:39:03 +0000 2020",
 		"id": 1274441657883275300,
 		"id_str": "1274441657883275264",
