@@ -1,6 +1,730 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 22 18:32:44 +0000 2020",
+		"id": 1275134645408063500,
+		"id_str": "1275134645408063489",
+		"full_text": "@RalucaVagner @150Leaders @HLA_int @jessrees_ @PUNCrachpalmer Yes - I’m in 🏴󠁧󠁢󠁳󠁣󠁴󠁿 though! \n\nI know what you mean ... hopefully the #150Leaders squad can meet up 😊👍",
+		"truncated": false,
+		"display_text_range": [
+			62,
+			164
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "150Leaders",
+					"indices": [
+						132,
+						143
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RalucaVagner",
+					"name": "Raluca Vagner",
+					"id": 475210366,
+					"id_str": "475210366",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "150Leaders",
+					"name": "#150Leaders",
+					"id": 1139187039151280100,
+					"id_str": "1139187039151280128",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						26,
+						34
+					]
+				},
+				{
+					"screen_name": "jessrees_",
+					"name": "Jess Rees",
+					"id": 971857771951022100,
+					"id_str": "971857771951022081",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"screen_name": "PUNCrachpalmer",
+					"name": "Rachael Palmer💙 #StayHome",
+					"id": 911619240876273700,
+					"id_str": "911619240876273664",
+					"indices": [
+						46,
+						61
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1274985912238329900,
+		"in_reply_to_status_id_str": "1274985912238329856",
+		"in_reply_to_user_id": 475210366,
+		"in_reply_to_user_id_str": "475210366",
+		"in_reply_to_screen_name": "RalucaVagner",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2106,
+			"friends_count": 3295,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17482,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RalucaVagner @150Leaders @HLA_int @jessrees_ @PUNCrachpalmer Yes - I’m in 🏴󠁧󠁢󠁳󠁣󠁴󠁿 though! \n\nI know what you mean ... hopefully the #150Leaders squad can meet up 😊👍"
+	},
+	{
+		"created_at": "Mon Jun 22 18:28:45 +0000 2020",
+		"id": 1275131801153962000,
+		"id_str": "1275133639999832064",
+		"full_text": "Take a look at this, open to #AHPs too #research https://t.co/4NfDbOeXRV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			48
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AHPs",
+					"indices": [
+						29,
+						34
+					]
+				},
+				{
+					"text": "research",
+					"indices": [
+						39,
+						48
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4NfDbOeXRV",
+					"expanded_url": "https://twitter.com/c4thjohnson/status/1275043717452312576",
+					"display_url": "twitter.com/c4thjohnson/st…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1051752102530338800,
+			"id_str": "1051752102530338816",
+			"name": "UHDBAHPs",
+			"screen_name": "UHDBAHPs",
+			"location": "",
+			"description": "The official twitter account for AHPs @UHDBTrust. Support us by following us; #UHDBPhysios, #UHDBDietitians, tell us your AHP UHDB hashtag.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 452,
+			"friends_count": 563,
+			"listed_count": 1,
+			"created_at": "Mon Oct 15 08:30:16 +0000 2018",
+			"favourites_count": 979,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 678,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175316648896684033/EGsTCbpR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175316648896684033/EGsTCbpR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1051752102530338816/1569052423",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1275043717452312600,
+		"quoted_status_id_str": "1275043717452312576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/4NfDbOeXRV",
+			"expanded": "https://twitter.com/c4thjohnson/status/1275043717452312576",
+			"display": "twitter.com/c4thjohnson/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 22 12:31:26 +0000 2020",
+			"id": 1275043717452312600,
+			"id_str": "1275043717452312576",
+			"full_text": "🚨 @UHDBTrust Nurses and Midwives🚨only 1 week until the application deadline for @NHS_HealthEdEng @NIHRresearch Clinical Scholar programmes #NIHR70at70 #research https://t.co/oePzVESRUH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				160
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NIHR70at70",
+						"indices": [
+							139,
+							150
+						]
+					},
+					{
+						"text": "research",
+						"indices": [
+							151,
+							160
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UHDBTrust",
+						"name": "University Hospitals of Derby and Burton NHS FT",
+						"id": 429877936,
+						"id_str": "429877936",
+						"indices": [
+							2,
+							12
+						]
+					},
+					{
+						"screen_name": "NHS_HealthEdEng",
+						"name": "NHS HEE",
+						"id": 637008966,
+						"id_str": "637008966",
+						"indices": [
+							80,
+							96
+						]
+					},
+					{
+						"screen_name": "NIHRresearch",
+						"name": "NIHR Research",
+						"id": 224557597,
+						"id_str": "224557597",
+						"indices": [
+							97,
+							110
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/oePzVESRUH",
+						"expanded_url": "https://twitter.com/ica_predoc_em/status/1263413633968754688",
+						"display_url": "twitter.com/ica_predoc_em/…",
+						"indices": [
+							161,
+							184
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 828505415247872000,
+				"id_str": "828505415247872002",
+				"name": "Catherine Johnson",
+				"screen_name": "c4thjohnson",
+				"location": "Lichfield, England",
+				"description": "Consultant Nurse @DerbyRenalTeam @UHDBTrust #NIHR70at70 Research Leader @NIHRCommunity",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 179,
+				"friends_count": 188,
+				"listed_count": 1,
+				"created_at": "Mon Feb 06 07:27:38 +0000 2017",
+				"favourites_count": 311,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 183,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1149047725406789635/JL3L8b4P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149047725406789635/JL3L8b4P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/828505415247872002/1577722352",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1263413633968754700,
+			"quoted_status_id_str": "1263413633968754688",
+			"quoted_status_permalink": {
+				"url": "https://t.co/oePzVESRUH",
+				"expanded": "https://twitter.com/ica_predoc_em/status/1263413633968754688",
+				"display": "twitter.com/ica_predoc_em/…"
+			},
+			"retweet_count": 2,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Take a look at this, open to #AHPs too #research https://t.co/4NfDbOeXRV"
+	},
+	{
+		"created_at": "Mon Jun 22 16:44:31 +0000 2020",
+		"id": 1275107411666317300,
+		"id_str": "1275107411666317312",
+		"full_text": "Must listen ⬇️ https://t.co/GBwLxW54Ju",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GBwLxW54Ju",
+					"expanded_url": "https://twitter.com/dansabphysio/status/1275094992638423040",
+					"display_url": "twitter.com/dansabphysio/s…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2106,
+			"friends_count": 3295,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17482,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6117,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52041af7b8001313",
+			"url": "https://api.twitter.com/1.1/geo/id/52041af7b8001313.json",
+			"place_type": "city",
+			"name": "Rugeley",
+			"full_name": "Rugeley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.971255,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.773708
+						],
+						[
+							-1.971255,
+							52.773708
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1275094992638423000,
+		"quoted_status_id_str": "1275094992638423040",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GBwLxW54Ju",
+			"expanded": "https://twitter.com/dansabphysio/status/1275094992638423040",
+			"display": "twitter.com/dansabphysio/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jun 22 15:55:11 +0000 2020",
+			"id": 1275094992638423000,
+			"id_str": "1275094992638423040",
+			"full_text": "COMING SOON!\n\nMyself and my close friend @CrouchPhysio have planned out a 3-part series on Being Black in Physiotherapy!\n\nWe’ve decided to shed some light on the issues of diversity in Physiotherapy and will be finishing the series off with an Instagram Live on our experiences! https://t.co/hzN6VAyo3f",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CrouchPhysio",
+						"name": "Lewis Crouch",
+						"id": 1132599615998578700,
+						"id_str": "1132599615998578688",
+						"indices": [
+							41,
+							54
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1275094958425419800,
+						"id_str": "1275094958425419778",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EbIMG-PWsAIw6XA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbIMG-PWsAIw6XA.jpg",
+						"url": "https://t.co/hzN6VAyo3f",
+						"display_url": "pic.twitter.com/hzN6VAyo3f",
+						"expanded_url": "https://twitter.com/DansabPhysio/status/1275094992638423040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1275094958425419800,
+						"id_str": "1275094958425419778",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/EbIMG-PWsAIw6XA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbIMG-PWsAIw6XA.jpg",
+						"url": "https://t.co/hzN6VAyo3f",
+						"display_url": "pic.twitter.com/hzN6VAyo3f",
+						"expanded_url": "https://twitter.com/DansabPhysio/status/1275094992638423040/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1236245305991012400,
+				"id_str": "1236245305991012353",
+				"name": "daniel",
+				"screen_name": "DansabPhysio",
+				"location": "London, England",
+				"description": "MSK Physiotherapist & @culturalhealth_ member. Striving to improve people’s mobility & quality of life. Views are my own. insta - @firstcontactphysio",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 223,
+				"friends_count": 197,
+				"listed_count": 0,
+				"created_at": "Sat Mar 07 11:00:35 +0000 2020",
+				"favourites_count": 117,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 132,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1236245581099610112/_hldZyST_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1236245581099610112/_hldZyST_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 66,
+			"favorite_count": 156,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Must listen ⬇️ https://t.co/GBwLxW54Ju"
+	},
+	{
 		"created_at": "Sun Jun 21 19:39:41 +0000 2020",
 		"id": 1274789105721843700,
 		"id_str": "1274789105721843712",
