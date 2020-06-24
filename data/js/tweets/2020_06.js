@@ -1,6 +1,497 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 23 12:03:14 +0000 2020",
+		"id": 1275385361095553000,
+		"id_str": "1275399009193152514",
+		"full_text": "**New CoDHcast**\n\nWe are hosting a series of #podcasts on #BAMEinAcademia. Exploring #BlackLivesMatter, reverse mentoring and much more is @misssdjohnson from @UniofNottingham. \n\n🎧 https://t.co/Mt7uBCGC0g #UniHealth #BlackintheIvory https://t.co/TS6IXGyzYR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "podcasts",
+					"indices": [
+						45,
+						54
+					]
+				},
+				{
+					"text": "BAMEinAcademia",
+					"indices": [
+						58,
+						73
+					]
+				},
+				{
+					"text": "BlackLivesMatter",
+					"indices": [
+						85,
+						102
+					]
+				},
+				{
+					"text": "UniHealth",
+					"indices": [
+						205,
+						215
+					]
+				},
+				{
+					"text": "BlackintheIvory",
+					"indices": [
+						216,
+						232
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "misssdjohnson",
+					"name": "Stacy Johnson MBE",
+					"id": 170450545,
+					"id_str": "170450545",
+					"indices": [
+						139,
+						153
+					]
+				},
+				{
+					"screen_name": "UniofNottingham",
+					"name": "Uni of Nottingham #WeAreUoN",
+					"id": 30196565,
+					"id_str": "30196565",
+					"indices": [
+						159,
+						175
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Mt7uBCGC0g",
+					"expanded_url": "https://bit.ly/37KtbzK",
+					"display_url": "bit.ly/37KtbzK",
+					"indices": [
+						181,
+						204
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1273251662384312300,
+					"id_str": "1273251662384312321",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/Eat_pBYXsAEyJ7x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eat_pBYXsAEyJ7x.jpg",
+					"url": "https://t.co/TS6IXGyzYR",
+					"display_url": "pic.twitter.com/TS6IXGyzYR",
+					"expanded_url": "https://twitter.com/councilofdeans/status/1275385361095553025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1557,
+							"h": 1067,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 822,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 466,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273251662384312300,
+					"id_str": "1273251662384312321",
+					"indices": [
+						233,
+						256
+					],
+					"media_url": "http://pbs.twimg.com/media/Eat_pBYXsAEyJ7x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eat_pBYXsAEyJ7x.jpg",
+					"url": "https://t.co/TS6IXGyzYR",
+					"display_url": "pic.twitter.com/TS6IXGyzYR",
+					"expanded_url": "https://twitter.com/councilofdeans/status/1275385361095553025/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1557,
+							"h": 1067,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 822,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 466,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 278442312,
+			"id_str": "278442312",
+			"name": "Council of Deans",
+			"screen_name": "councilofdeans",
+			"location": "",
+			"description": "The Council of Deans of Health is the voice of UK university faculties for nursing, midwifery and the allied health professions. Retweets are not an endorsement",
+			"url": "http://t.co/jhJqsBGPtT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/jhJqsBGPtT",
+							"expanded_url": "http://www.councilofdeans.org.uk/",
+							"display_url": "councilofdeans.org.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7525,
+			"friends_count": 1738,
+			"listed_count": 101,
+			"created_at": "Thu Apr 07 08:43:33 +0000 2011",
+			"favourites_count": 1704,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7034,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "D9E5EB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1034784924451172355/J6RjhEvF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1034784924451172355/J6RjhEvF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/278442312/1535548579",
+			"profile_link_color": "00B3A4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "**New CoDHcast**\n\nWe are hosting a series of #podcasts on #BAMEinAcademia. Exploring #BlackLivesMatter, reverse mentoring and much more is @misssdjohnson from @UniofNottingham. \n\n🎧 https://t.co/Mt7uBCGC0g #UniHealth #BlackintheIvory https://t.co/TS6IXGyzYR"
+	},
+	{
+		"created_at": "Tue Jun 23 07:21:59 +0000 2020",
+		"id": 1275328231802052600,
+		"id_str": "1275328231802052608",
+		"full_text": "@amrawlings @UHDBTrust @magnusharrison Absolutely... looking forward to Michelle’s story! #ReservesDay #ArmedForcesWeek",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			119
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ReservesDay",
+					"indices": [
+						90,
+						102
+					]
+				},
+				{
+					"text": "ArmedForcesWeek",
+					"indices": [
+						103,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amrawlings",
+					"name": "amanda rawlings",
+					"id": 631943465,
+					"id_str": "631943465",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "magnusharrison",
+					"name": "Dr. Magnus Harrison 💙🌈",
+					"id": 258272524,
+					"id_str": "258272524",
+					"indices": [
+						23,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1275169747596914700,
+		"in_reply_to_status_id_str": "1275169747596914695",
+		"in_reply_to_user_id": 631943465,
+		"in_reply_to_user_id_str": "631943465",
+		"in_reply_to_screen_name": "amrawlings",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2107,
+			"friends_count": 3304,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17498,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@amrawlings @UHDBTrust @magnusharrison Absolutely... looking forward to Michelle’s story! #ReservesDay #ArmedForcesWeek"
+	},
+	{
+		"created_at": "Tue Jun 23 07:21:13 +0000 2020",
+		"id": 1275169747596914700,
+		"id_str": "1275328039233163266",
+		"full_text": "@UHDBTrust @beardedPT @magnusharrison great moment to launch our network",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams 💙🌈",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "magnusharrison",
+					"name": "Dr. Magnus Harrison 💙🌈",
+					"id": 258272524,
+					"id_str": "258272524",
+					"indices": [
+						22,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1275015403069157400,
+		"in_reply_to_status_id_str": "1275015403069157376",
+		"in_reply_to_user_id": 429877936,
+		"in_reply_to_user_id_str": "429877936",
+		"in_reply_to_screen_name": "UHDBTrust",
+		"user": {
+			"id": 631943465,
+			"id_str": "631943465",
+			"name": "amanda rawlings",
+			"screen_name": "amrawlings",
+			"location": "",
+			"description": "Director of People and Organisational Development of University Hospitals of Derby & Burton.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2115,
+			"friends_count": 2393,
+			"listed_count": 35,
+			"created_at": "Tue Jul 10 12:34:01 +0000 2012",
+			"favourites_count": 13676,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8017,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/3762558279/d538847946fa27690369e2cdc30c58b6_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/3762558279/d538847946fa27690369e2cdc30c58b6_normal.jpeg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@UHDBTrust @beardedPT @magnusharrison great moment to launch our network"
+	},
+	{
 		"created_at": "Mon Jun 22 18:32:44 +0000 2020",
 		"id": 1275134645408063500,
 		"id_str": "1275134645408063489",
