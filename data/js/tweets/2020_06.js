@@ -1,6 +1,1124 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 24 20:00:23 +0000 2020",
+		"id": 1275881475112611800,
+		"id_str": "1275881475112611841",
+		"full_text": "Runners of #twitter - help me out! \nAfter some new runners for the local trails... I don’t want to spend a fortune. TY 👍🎽\n\n@PhysioArmstrong @theEndurancePT @fimo18 @runchatlive @tomgoom @Sports_Pod etc. 🤟 https://t.co/FFtOBOZkNf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "twitter",
+					"indices": [
+						11,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhysioArmstrong",
+					"name": "James Armstrong",
+					"id": 872165022704840700,
+					"id_str": "872165022704840705",
+					"indices": [
+						123,
+						139
+					]
+				},
+				{
+					"screen_name": "theEndurancePT",
+					"name": "The Endurance Physio",
+					"id": 3319174982,
+					"id_str": "3319174982",
+					"indices": [
+						140,
+						155
+					]
+				},
+				{
+					"screen_name": "fimo18",
+					"name": "Dr Fiona Moffatt",
+					"id": 508806750,
+					"id_str": "508806750",
+					"indices": [
+						156,
+						163
+					]
+				},
+				{
+					"screen_name": "runchatlive",
+					"name": "RunChatLive",
+					"id": 257838010,
+					"id_str": "257838010",
+					"indices": [
+						164,
+						176
+					]
+				},
+				{
+					"screen_name": "tomgoom",
+					"name": "RunningPhysio",
+					"id": 365600467,
+					"id_str": "365600467",
+					"indices": [
+						177,
+						185
+					]
+				},
+				{
+					"screen_name": "Sports_Pod",
+					"name": "Sports Podiatrist",
+					"id": 37896297,
+					"id_str": "37896297",
+					"indices": [
+						186,
+						197
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1275881464618528800,
+					"id_str": "1275881464618528775",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EbTXbqIXsAciydC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbTXbqIXsAciydC.jpg",
+					"url": "https://t.co/FFtOBOZkNf",
+					"display_url": "pic.twitter.com/FFtOBOZkNf",
+					"expanded_url": "https://twitter.com/beardedPT/status/1275881475112611841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1275881464618528800,
+					"id_str": "1275881464618528775",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EbTXbqIXsAciydC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbTXbqIXsAciydC.jpg",
+					"url": "https://t.co/FFtOBOZkNf",
+					"display_url": "pic.twitter.com/FFtOBOZkNf",
+					"expanded_url": "https://twitter.com/beardedPT/status/1275881475112611841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1275881464610070500,
+					"id_str": "1275881464610070529",
+					"indices": [
+						205,
+						228
+					],
+					"media_url": "http://pbs.twimg.com/media/EbTXbqGWoAEdpiy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbTXbqGWoAEdpiy.jpg",
+					"url": "https://t.co/FFtOBOZkNf",
+					"display_url": "pic.twitter.com/FFtOBOZkNf",
+					"expanded_url": "https://twitter.com/beardedPT/status/1275881475112611841/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2112,
+			"friends_count": 3304,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17527,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Runners of #twitter - help me out! \nAfter some new runners for the local trails... I don’t want to spend a fortune. TY 👍🎽\n\n@PhysioArmstrong @theEndurancePT @fimo18 @runchatlive @tomgoom @Sports_Pod etc. 🤟 https://t.co/FFtOBOZkNf"
+	},
+	{
+		"created_at": "Wed Jun 24 17:31:41 +0000 2020",
+		"id": 1275730214669160400,
+		"id_str": "1275844055398744065",
+		"full_text": "We spoke to Michelle Rowlands, a Trade Logistician Recruitment Assistant for @HMSSherwood – she recruits other reservists to the Navy as well as fulfilling her role as a HCA in the NHS. \n\nRead more here: https://t.co/d1YJwiZmll\n\n#ReservesDay #ArmedForcesWeek #ArmedForcesWeek2020 https://t.co/quVucWDdwY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ReservesDay",
+					"indices": [
+						229,
+						241
+					]
+				},
+				{
+					"text": "ArmedForcesWeek",
+					"indices": [
+						242,
+						258
+					]
+				},
+				{
+					"text": "ArmedForcesWeek2020",
+					"indices": [
+						259,
+						279
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HMSSherwood",
+					"name": "HMS Sherwood",
+					"id": 2446041936,
+					"id_str": "2446041936",
+					"indices": [
+						77,
+						89
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/d1YJwiZmll",
+					"expanded_url": "https://bit.ly/2CyIksd",
+					"display_url": "bit.ly/2CyIksd",
+					"indices": [
+						204,
+						227
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1275730155739263000,
+					"id_str": "1275730155739262977",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EbRN0UoXsAE2sh7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbRN0UoXsAE2sh7.jpg",
+					"url": "https://t.co/quVucWDdwY",
+					"display_url": "pic.twitter.com/quVucWDdwY",
+					"expanded_url": "https://twitter.com/UHDBTrust/status/1275730214669160452/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1275730155739263000,
+					"id_str": "1275730155739262977",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EbRN0UoXsAE2sh7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbRN0UoXsAE2sh7.jpg",
+					"url": "https://t.co/quVucWDdwY",
+					"display_url": "pic.twitter.com/quVucWDdwY",
+					"expanded_url": "https://twitter.com/UHDBTrust/status/1275730214669160452/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 429877936,
+			"id_str": "429877936",
+			"name": "University Hospitals of Derby and Burton NHS FT",
+			"screen_name": "UHDBTrust",
+			"location": "Derby, Burton, Tamworth, Lichfield",
+			"description": "Official Twitter page of University Hospitals of Derby and Burton NHS Foundation Trust. 🏥",
+			"url": "https://t.co/x70bd3ATs0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x70bd3ATs0",
+							"expanded_url": "http://www.uhdb.nhs.uk",
+							"display_url": "uhdb.nhs.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13610,
+			"friends_count": 1184,
+			"listed_count": 148,
+			"created_at": "Tue Dec 06 14:09:36 +0000 2011",
+			"favourites_count": 6616,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273550934942064641/HcCxThrc_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273550934942064641/HcCxThrc_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/429877936/1591191933",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We spoke to Michelle Rowlands, a Trade Logistician Recruitment Assistant for @HMSSherwood – she recruits other reservists to the Navy as well as fulfilling her role as a HCA in the NHS. \n\nRead more here: https://t.co/d1YJwiZmll\n\n#ReservesDay #ArmedForcesWeek #ArmedForcesWeek2020 https://t.co/quVucWDdwY"
+	},
+	{
+		"created_at": "Wed Jun 24 17:13:41 +0000 2020",
+		"id": 1275839526397718500,
+		"id_str": "1275839526397718528",
+		"full_text": "@logan_angie @JonRoom 👍👍 ... it’s the anatomy app that’s stayed on my phone &amp; gets regular use 📲",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "logan_angie",
+					"name": "Dr Angie Logan",
+					"id": 2362684192,
+					"id_str": "2362684192",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "JonRoom",
+					"name": "Jon Room",
+					"id": 20102845,
+					"id_str": "20102845",
+					"indices": [
+						13,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1275408647150076000,
+		"in_reply_to_status_id_str": "1275408647150075904",
+		"in_reply_to_user_id": 2362684192,
+		"in_reply_to_user_id_str": "2362684192",
+		"in_reply_to_screen_name": "logan_angie",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2112,
+			"friends_count": 3304,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17527,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52041af7b8001313",
+			"url": "https://api.twitter.com/1.1/geo/id/52041af7b8001313.json",
+			"place_type": "city",
+			"name": "Rugeley",
+			"full_name": "Rugeley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.971255,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.773708
+						],
+						[
+							-1.971255,
+							52.773708
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@logan_angie @JonRoom 👍👍 ... it’s the anatomy app that’s stayed on my phone &amp; gets regular use 📲"
+	},
+	{
+		"created_at": "Wed Jun 24 15:57:39 +0000 2020",
+		"id": 1275677032823746600,
+		"id_str": "1275820389378207744",
+		"full_text": "If you’re recovering from Covid-19, you are not alone. \n\nWhatever stage you’re at, there’s a great deal you can do to help your body recover.\n\nFind more expert physio advice to help you on the road to recovery: https://t.co/E8TUxFXRFv #CovidRecovery https://t.co/a2lYN5t52z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CovidRecovery",
+					"indices": [
+						235,
+						249
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E8TUxFXRFv",
+					"expanded_url": "https://www.csp.org.uk/recovery",
+					"display_url": "csp.org.uk/recovery",
+					"indices": [
+						211,
+						234
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1275432641706242000,
+					"id_str": "1275432641706242053",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/EbM_1LrWAAIZoqI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbM_1LrWAAIZoqI.jpg",
+					"url": "https://t.co/a2lYN5t52z",
+					"display_url": "pic.twitter.com/a2lYN5t52z",
+					"expanded_url": "https://twitter.com/thecsp/status/1275677032823746560/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1275432641706242000,
+					"id_str": "1275432641706242053",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/EbM_1LrWAAIZoqI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EbM_1LrWAAIZoqI.jpg",
+					"url": "https://t.co/a2lYN5t52z",
+					"display_url": "pic.twitter.com/a2lYN5t52z",
+					"expanded_url": "https://twitter.com/thecsp/status/1275677032823746560/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 98720,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1275432641706242053/pl/x3lNWSO5NCpIv2Gr.m3u8?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1275432641706242053/vid/480x270/AO9OSLdm55Q0COlq.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1275432641706242053/vid/1280x720/PTJOC7-gBRJevUYw.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1275432641706242053/vid/640x360/2QjqulCyetJLboYz.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Covid-19: The Road to Recovery",
+						"description": "The road to recovery from Covid-19 isn’t always straightforward. Expert advice from physiotherapists can help you along the way. Visit our website for more advice and resources.",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.csp.org.uk/recovery"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 138098880,
+			"id_str": "138098880",
+			"name": "Chartered Society of Physiotherapy",
+			"screen_name": "thecsp",
+			"location": "United Kingdom",
+			"description": "Chartered Society of Physiotherapy (CSP) - the professional, educational and union body for 59,000 UK-chartered physiotherapists, students and support workers.",
+			"url": "https://t.co/0zvCGRCWPh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0zvCGRCWPh",
+							"expanded_url": "http://www.csp.org.uk",
+							"display_url": "csp.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 51572,
+			"friends_count": 1337,
+			"listed_count": 331,
+			"created_at": "Wed Apr 28 16:27:18 +0000 2010",
+			"favourites_count": 5695,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E3DC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902851531388534785/RRRJKVa0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902851531388534785/RRRJKVa0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/138098880/1582703122",
+			"profile_link_color": "252673",
+			"profile_sidebar_border_color": "C9C9C9",
+			"profile_sidebar_fill_color": "E3E3E3",
+			"profile_text_color": "757575",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 232,
+		"favorite_count": 232,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you’re recovering from Covid-19, you are not alone. \n\nWhatever stage you’re at, there’s a great deal you can do to help your body recover.\n\nFind more expert physio advice to help you on the road to recovery: https://t.co/E8TUxFXRFv #CovidRecovery https://t.co/a2lYN5t52z"
+	},
+	{
+		"created_at": "Wed Jun 24 15:53:21 +0000 2020",
+		"id": 1275819307801489400,
+		"id_str": "1275819307801489408",
+		"full_text": "@JCarsonLittle @UniofNottingham @UoN_SHS You will be missed! 👋",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JCarsonLittle",
+					"name": "Julia Carson Little",
+					"id": 721982010936401900,
+					"id_str": "721982010936401920",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "UniofNottingham",
+					"name": "Uni of Nottingham #WeAreUoN",
+					"id": 30196565,
+					"id_str": "30196565",
+					"indices": [
+						15,
+						31
+					]
+				},
+				{
+					"screen_name": "UoN_SHS",
+					"name": "UoN Health Sciences",
+					"id": 512054069,
+					"id_str": "512054069",
+					"indices": [
+						32,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1275802694654066700,
+		"in_reply_to_status_id_str": "1275802694654066688",
+		"in_reply_to_user_id": 721982010936401900,
+		"in_reply_to_user_id_str": "721982010936401920",
+		"in_reply_to_screen_name": "JCarsonLittle",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2112,
+			"friends_count": 3304,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17527,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JCarsonLittle @UniofNottingham @UoN_SHS You will be missed! 👋"
+	},
+	{
+		"created_at": "Wed Jun 24 15:30:35 +0000 2020",
+		"id": 1275697804195881000,
+		"id_str": "1275813579107774465",
+		"full_text": "Big shout out to @thecsp members who serve as reservists, reserve physios are  akey component of the military medical establishment. #ReservesDay  https://t.co/xAqFcmIB02",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ReservesDay",
+					"indices": [
+						133,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						17,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xAqFcmIB02",
+					"expanded_url": "https://www.armedforcesday.org.uk/reserves-day/",
+					"display_url": "armedforcesday.org.uk/reserves-day/",
+					"indices": [
+						147,
+						170
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 722676146,
+			"id_str": "722676146",
+			"name": "Rob Yeldham",
+			"screen_name": "RobYeldham",
+			"location": "London",
+			"description": "Transforming lives as strategy director @theCSP & vice-chair @WeAreARMA Found. Chart. PR. Like islands and wetlands. Only my views. RTs/likes no endorsement.",
+			"url": "https://t.co/0zvCGRCWPh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0zvCGRCWPh",
+							"expanded_url": "http://www.csp.org.uk",
+							"display_url": "csp.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6463,
+			"friends_count": 7057,
+			"listed_count": 152,
+			"created_at": "Sat Jul 28 19:09:12 +0000 2012",
+			"favourites_count": 155062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 59579,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/919662388475039744/lR84f_M5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/919662388475039744/lR84f_M5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/722676146/1592642315",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Big shout out to @thecsp members who serve as reservists, reserve physios are  akey component of the military medical establishment. #ReservesDay  https://t.co/xAqFcmIB02"
+	},
+	{
 		"created_at": "Tue Jun 23 12:03:14 +0000 2020",
 		"id": 1275385361095553000,
 		"id_str": "1275399009193152514",
