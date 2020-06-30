@@ -1,6 +1,201 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Mon Jun 29 17:58:29 +0000 2020",
+		"id": 1277662740170125300,
+		"id_str": "1277662740170125312",
+		"full_text": "You can't beat a natter with @exerciseworks to refocus &amp; invigorate you! Thank you for supporting and encouraging me from the very beginning 🤩✨ https://t.co/mpL1ssq8eA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "exerciseworks",
+					"name": "Exercise Works! 💙",
+					"id": 256921454,
+					"id_str": "256921454",
+					"indices": [
+						29,
+						43
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1277662731336892400,
+					"id_str": "1277662731336892417",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EbsrfBwXQAEpzUS.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EbsrfBwXQAEpzUS.jpg",
+					"url": "https://t.co/mpL1ssq8eA",
+					"display_url": "pic.twitter.com/mpL1ssq8eA",
+					"expanded_url": "https://twitter.com/beardedPT/status/1277662740170125312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1277662731336892400,
+					"id_str": "1277662731336892417",
+					"indices": [
+						148,
+						171
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EbsrfBwXQAEpzUS.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EbsrfBwXQAEpzUS.jpg",
+					"url": "https://t.co/mpL1ssq8eA",
+					"display_url": "pic.twitter.com/mpL1ssq8eA",
+					"expanded_url": "https://twitter.com/beardedPT/status/1277662740170125312/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							4,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EbsrfBwXQAEpzUS.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2116,
+			"friends_count": 3328,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17648,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6148,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You can't beat a natter with @exerciseworks to refocus &amp; invigorate you! Thank you for supporting and encouraging me from the very beginning 🤩✨ https://t.co/mpL1ssq8eA"
+	},
+	{
 		"created_at": "Sat Jun 27 16:05:37 +0000 2020",
 		"id": 1276909560654160000,
 		"id_str": "1276909560654159873",
