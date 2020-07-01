@@ -1,6 +1,169 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Tue Jun 30 18:00:43 +0000 2020",
+		"id": 1278025687878848500,
+		"id_str": "1278025687878848516",
+		"full_text": "@astephj1 @ReenaPatel2120 @TheTechPhysio @eddlecanard @wlv_uni @wlv_health @wlv_physio Huge congratulations!!! ✨",
+		"truncated": false,
+		"display_text_range": [
+			87,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "astephj1",
+					"name": "Amanda Stephenson",
+					"id": 898081300690686000,
+					"id_str": "898081300690685952",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "ReenaPatel2120",
+					"name": "Reena Patel",
+					"id": 898175025739640800,
+					"id_str": "898175025739640835",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"screen_name": "TheTechPhysio",
+					"name": "Troy Douglin",
+					"id": 716638828,
+					"id_str": "716638828",
+					"indices": [
+						26,
+						40
+					]
+				},
+				{
+					"screen_name": "eddlecanard",
+					"name": "Pete Gregory",
+					"id": 2819447933,
+					"id_str": "2819447933",
+					"indices": [
+						41,
+						53
+					]
+				},
+				{
+					"screen_name": "wlv_uni",
+					"name": "University of Wolverhampton",
+					"id": 40088191,
+					"id_str": "40088191",
+					"indices": [
+						54,
+						62
+					]
+				},
+				{
+					"screen_name": "wlv_health",
+					"name": "WLV Health",
+					"id": 2772820878,
+					"id_str": "2772820878",
+					"indices": [
+						63,
+						74
+					]
+				},
+				{
+					"screen_name": "wlv_physio",
+					"name": "For students, by students.",
+					"id": 934855922949771300,
+					"id_str": "934855922949771265",
+					"indices": [
+						75,
+						86
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1278010312680190000,
+		"in_reply_to_status_id_str": "1278010312680189960",
+		"in_reply_to_user_id": 898081300690686000,
+		"in_reply_to_user_id_str": "898081300690685952",
+		"in_reply_to_screen_name": "astephj1",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2119,
+			"friends_count": 3329,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6149,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@astephj1 @ReenaPatel2120 @TheTechPhysio @eddlecanard @wlv_uni @wlv_health @wlv_physio Huge congratulations!!! ✨"
+	},
+	{
 		"created_at": "Mon Jun 29 17:58:29 +0000 2020",
 		"id": 1277662740170125300,
 		"id_str": "1277662740170125312",
