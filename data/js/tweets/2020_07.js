@@ -1,6 +1,670 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 07 19:49:27 +0000 2020",
+		"id": 1280589768179552300,
+		"id_str": "1280589768179552262",
+		"full_text": "@150Leaders @felicityallman @HLA_int @PUNCrachpalmer @SarahBradder @RalucaVagner @jessrees_ Yes!!!! 👍👍",
+		"truncated": false,
+		"display_text_range": [
+			92,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "150Leaders",
+					"name": "#150Leaders",
+					"id": 1139187039151280100,
+					"id_str": "1139187039151280128",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "felicityallman",
+					"name": "Felicity Allman",
+					"id": 781140957995622400,
+					"id_str": "781140957995622400",
+					"indices": [
+						12,
+						27
+					]
+				},
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						28,
+						36
+					]
+				},
+				{
+					"screen_name": "PUNCrachpalmer",
+					"name": "Rachael Palmer 💙",
+					"id": 911619240876273700,
+					"id_str": "911619240876273664",
+					"indices": [
+						37,
+						52
+					]
+				},
+				{
+					"screen_name": "SarahBradder",
+					"name": "Sarah Bradder",
+					"id": 47191682,
+					"id_str": "47191682",
+					"indices": [
+						53,
+						66
+					]
+				},
+				{
+					"screen_name": "RalucaVagner",
+					"name": "Raluca Vagner",
+					"id": 475210366,
+					"id_str": "475210366",
+					"indices": [
+						67,
+						80
+					]
+				},
+				{
+					"screen_name": "jessrees_",
+					"name": "Jess Rees",
+					"id": 971857771951022100,
+					"id_str": "971857771951022081",
+					"indices": [
+						81,
+						91
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1280553206196600800,
+		"in_reply_to_status_id_str": "1280553206196600833",
+		"in_reply_to_user_id": 1139187039151280100,
+		"in_reply_to_user_id_str": "1139187039151280128",
+		"in_reply_to_screen_name": "150Leaders",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2132,
+			"friends_count": 3345,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17780,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@150Leaders @felicityallman @HLA_int @PUNCrachpalmer @SarahBradder @RalucaVagner @jessrees_ Yes!!!! 👍👍"
+	},
+	{
+		"created_at": "Tue Jul 07 12:11:19 +0000 2020",
+		"id": 1280474473834188800,
+		"id_str": "1280474473834188800",
+		"full_text": "@UHDBLibrary @h_carter43 @GatesPhysio @adamdobson123 👍👍 https://t.co/uuzfkRWtxx",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UHDBLibrary",
+					"name": "UHDB Library & Knowledge Service",
+					"id": 1657350067,
+					"id_str": "1657350067",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "h_carter43",
+					"name": "Hayley Carter",
+					"id": 4311628107,
+					"id_str": "4311628107",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "GatesPhysio",
+					"name": "John Gates 😷",
+					"id": 451401278,
+					"id_str": "451401278",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "adamdobson123",
+					"name": "Adam Dobson",
+					"id": 702962141800878100,
+					"id_str": "702962141800878081",
+					"indices": [
+						38,
+						52
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1280474465571426300,
+					"id_str": "1280474465571426305",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EcUovgBX0AEZIuf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EcUovgBX0AEZIuf.jpg",
+					"url": "https://t.co/uuzfkRWtxx",
+					"display_url": "pic.twitter.com/uuzfkRWtxx",
+					"expanded_url": "https://twitter.com/beardedPT/status/1280474473834188800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 484,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 484,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 484,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1280474465571426300,
+					"id_str": "1280474465571426305",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EcUovgBX0AEZIuf.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EcUovgBX0AEZIuf.jpg",
+					"url": "https://t.co/uuzfkRWtxx",
+					"display_url": "pic.twitter.com/uuzfkRWtxx",
+					"expanded_url": "https://twitter.com/beardedPT/status/1280474473834188800/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 484,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 484,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 484,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							242
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EcUovgBX0AEZIuf.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1280474269877776400,
+		"in_reply_to_status_id_str": "1280474269877776384",
+		"in_reply_to_user_id": 1657350067,
+		"in_reply_to_user_id_str": "1657350067",
+		"in_reply_to_screen_name": "UHDBLibrary",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2132,
+			"friends_count": 3345,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17780,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@UHDBLibrary @h_carter43 @GatesPhysio @adamdobson123 👍👍 https://t.co/uuzfkRWtxx"
+	},
+	{
+		"created_at": "Tue Jul 07 12:08:11 +0000 2020",
+		"id": 1280473685720215600,
+		"id_str": "1280473685720215560",
+		"full_text": "@h_carter43 @GatesPhysio @adamdobson123 @UHDBLibrary * I wish Twitter had an edit function 🤪",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "h_carter43",
+					"name": "Hayley Carter",
+					"id": 4311628107,
+					"id_str": "4311628107",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "GatesPhysio",
+					"name": "John Gates 😷",
+					"id": 451401278,
+					"id_str": "451401278",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"screen_name": "adamdobson123",
+					"name": "Adam Dobson",
+					"id": 702962141800878100,
+					"id_str": "702962141800878081",
+					"indices": [
+						25,
+						39
+					]
+				},
+				{
+					"screen_name": "UHDBLibrary",
+					"name": "UHDB Library & Knowledge Service",
+					"id": 1657350067,
+					"id_str": "1657350067",
+					"indices": [
+						40,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1280410256976248800,
+		"in_reply_to_status_id_str": "1280410256976248832",
+		"in_reply_to_user_id": 4311628107,
+		"in_reply_to_user_id_str": "4311628107",
+		"in_reply_to_screen_name": "h_carter43",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2132,
+			"friends_count": 3345,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17780,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@h_carter43 @GatesPhysio @adamdobson123 @UHDBLibrary * I wish Twitter had an edit function 🤪"
+	},
+	{
+		"created_at": "Tue Jul 07 12:07:52 +0000 2020",
+		"id": 1280473608104665000,
+		"id_str": "1280473608104665089",
+		"full_text": "@h_carter43 @GatesPhysio @adamdobson123 @UHDBLibrary I didn’t know this was a thing @UHDBLibrary 👍",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "h_carter43",
+					"name": "Hayley Carter",
+					"id": 4311628107,
+					"id_str": "4311628107",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "GatesPhysio",
+					"name": "John Gates 😷",
+					"id": 451401278,
+					"id_str": "451401278",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"screen_name": "adamdobson123",
+					"name": "Adam Dobson",
+					"id": 702962141800878100,
+					"id_str": "702962141800878081",
+					"indices": [
+						25,
+						39
+					]
+				},
+				{
+					"screen_name": "UHDBLibrary",
+					"name": "UHDB Library & Knowledge Service",
+					"id": 1657350067,
+					"id_str": "1657350067",
+					"indices": [
+						40,
+						52
+					]
+				},
+				{
+					"screen_name": "UHDBLibrary",
+					"name": "UHDB Library & Knowledge Service",
+					"id": 1657350067,
+					"id_str": "1657350067",
+					"indices": [
+						84,
+						96
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1280410256976248800,
+		"in_reply_to_status_id_str": "1280410256976248832",
+		"in_reply_to_user_id": 4311628107,
+		"in_reply_to_user_id_str": "4311628107",
+		"in_reply_to_screen_name": "h_carter43",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2132,
+			"friends_count": 3345,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17780,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6170,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@h_carter43 @GatesPhysio @adamdobson123 @UHDBLibrary I didn’t know this was a thing @UHDBLibrary 👍"
+	},
+	{
 		"created_at": "Sun Jul 05 16:04:18 +0000 2020",
 		"id": 1279808329217384400,
 		"id_str": "1279808329217384450",
