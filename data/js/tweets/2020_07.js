@@ -1,6 +1,579 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 08 18:28:00 +0000 2020",
+		"id": 1280881408295272400,
+		"id_str": "1280931656585658369",
+		"full_text": "Changes are happening, wheels are turning, so we think it’s time for you to #MeetTheClub",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MeetTheClub",
+					"indices": [
+						76,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1254809652774211600,
+			"id_str": "1254809652774211584",
+			"name": "Cultural Health Club",
+			"screen_name": "culturalhealth_",
+			"location": "London, England",
+			"description": "A team aiming to make being healthy equal for all | Follow us on Instagram: @culturalhealthclub for more updates | GoFundMe: https://t.co/ybE4vJynFU",
+			"url": "https://t.co/tMlTzfn0vq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tMlTzfn0vq",
+							"expanded_url": "http://culturalhealthclub.com",
+							"display_url": "culturalhealthclub.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ybE4vJynFU",
+							"expanded_url": "http://gf.me/u/yansxu",
+							"display_url": "gf.me/u/yansxu",
+							"indices": [
+								125,
+								148
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 338,
+			"friends_count": 27,
+			"listed_count": 1,
+			"created_at": "Mon Apr 27 16:33:30 +0000 2020",
+			"favourites_count": 4,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 95,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1254810980208574467/1iiy7qY-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1254810980208574467/1iiy7qY-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1254809652774211584/1591135984",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Changes are happening, wheels are turning, so we think it’s time for you to #MeetTheClub"
+	},
+	{
+		"created_at": "Wed Jul 08 11:51:23 +0000 2020",
+		"id": 1280831845777760300,
+		"id_str": "1280831845777760259",
+		"full_text": "@chloedooley99 @CardiffUPhysio Boom! 💥 \nHuge congratulations ✨👏",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chloedooley99",
+					"name": "Chloe Dooley",
+					"id": 1091970360633897000,
+					"id_str": "1091970360633896960",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "CardiffUPhysio",
+					"name": "Cardiff Uni Physio",
+					"id": 862619011955216400,
+					"id_str": "862619011955216388",
+					"indices": [
+						15,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1280825248301097000,
+		"in_reply_to_status_id_str": "1280825248301096963",
+		"in_reply_to_user_id": 1091970360633897000,
+		"in_reply_to_user_id_str": "1091970360633896960",
+		"in_reply_to_screen_name": "chloedooley99",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2135,
+			"friends_count": 3355,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@chloedooley99 @CardiffUPhysio Boom! 💥 \nHuge congratulations ✨👏"
+	},
+	{
+		"created_at": "Wed Jul 08 11:48:57 +0000 2020",
+		"id": 1280831235191947300,
+		"id_str": "1280831235191947265",
+		"full_text": "Interesting case study on #Rhabdomyolysis ⬇️\n\nGet well soon Carys 🤟💪 https://t.co/3zWWaR12Ua",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Rhabdomyolysis",
+					"indices": [
+						26,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3zWWaR12Ua",
+					"expanded_url": "https://twitter.com/caryswilliams__/status/1280554584105275393",
+					"display_url": "twitter.com/caryswilliams_…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2135,
+			"friends_count": 3355,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17810,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1f592b82aea688ff",
+			"url": "https://api.twitter.com/1.1/geo/id/1f592b82aea688ff.json",
+			"place_type": "city",
+			"name": "Derby",
+			"full_name": "Derby, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.556856,
+							52.870587
+						],
+						[
+							-1.384701,
+							52.870587
+						],
+						[
+							-1.384701,
+							52.960473
+						],
+						[
+							-1.556856,
+							52.960473
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1280554584105275400,
+		"quoted_status_id_str": "1280554584105275393",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3zWWaR12Ua",
+			"expanded": "https://twitter.com/caryswilliams__/status/1280554584105275393",
+			"display": "twitter.com/caryswilliams_…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 07 17:29:39 +0000 2020",
+			"id": 1280554584105275400,
+			"id_str": "1280554584105275393",
+			"full_text": "Hi Twitter friends, just an update on my life, yesterday I was discharged from hospital after 6 days with ?Rhabdomyolysis, I had a CK of 140,000, was in excruciating pain and could barely stand after doing a 1hr work out which was much less intense I’m used to! (1/5) https://t.co/5Ro4qhQwWD",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1280554576945590300,
+						"id_str": "1280554576945590272",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/EcVxmmJXsAAxXPP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcVxmmJXsAAxXPP.jpg",
+						"url": "https://t.co/5Ro4qhQwWD",
+						"display_url": "pic.twitter.com/5Ro4qhQwWD",
+						"expanded_url": "https://twitter.com/Caryswilliams__/status/1280554584105275393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 511,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 901,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1538,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1280554576945590300,
+						"id_str": "1280554576945590272",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/EcVxmmJXsAAxXPP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcVxmmJXsAAxXPP.jpg",
+						"url": "https://t.co/5Ro4qhQwWD",
+						"display_url": "pic.twitter.com/5Ro4qhQwWD",
+						"expanded_url": "https://twitter.com/Caryswilliams__/status/1280554584105275393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 511,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 901,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1538,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1280554576974839800,
+						"id_str": "1280554576974839810",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/EcVxmmQWAAILvBu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcVxmmQWAAILvBu.jpg",
+						"url": "https://t.co/5Ro4qhQwWD",
+						"display_url": "pic.twitter.com/5Ro4qhQwWD",
+						"expanded_url": "https://twitter.com/Caryswilliams__/status/1280554584105275393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 919608376476229600,
+				"id_str": "919608376476229632",
+				"name": "Carys Williams",
+				"screen_name": "Caryswilliams__",
+				"location": "Uxbridge, London",
+				"description": "Brunel University 3rd Year // Physiotherapy Student // CSP Student Rep // Dementia Friend // 3x National Karate Champion // all views are my own",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 267,
+				"friends_count": 451,
+				"listed_count": 2,
+				"created_at": "Sun Oct 15 16:58:17 +0000 2017",
+				"favourites_count": 2842,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 666,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1228032554378330113/xv1MHrA8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1228032554378330113/xv1MHrA8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/919608376476229632/1539989175",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interesting case study on #Rhabdomyolysis ⬇️\n\nGet well soon Carys 🤟💪 https://t.co/3zWWaR12Ua"
+	},
+	{
 		"created_at": "Tue Jul 07 19:49:27 +0000 2020",
 		"id": 1280589768179552300,
 		"id_str": "1280589768179552262",
