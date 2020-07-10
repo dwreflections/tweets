@@ -1,6 +1,215 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 09 05:23:51 +0000 2020",
+		"id": 1280984274397728800,
+		"id_str": "1281096707833507840",
+		"full_text": "Changing the culture of conversations for emerging #AHP #Leaders: Part Two \n\nHuge respect to the inspirational panel &amp; @WeAHPs role models ⬇️\n\n@RafiahB \n@abbap\n@GBaliah\n@AcquireSLT\n@JemimaKA\n@LecturerMish \n@teohjouyin\n@beardedPT \n@tolanAHP \n\nPls share 🙏🏻\nhttps://t.co/xQxGpd5ovo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AHP",
+					"indices": [
+						51,
+						55
+					]
+				},
+				{
+					"text": "Leaders",
+					"indices": [
+						56,
+						64
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs 💙",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						123,
+						130
+					]
+				},
+				{
+					"screen_name": "RafiahB",
+					"name": "Rafiah",
+					"id": 88696407,
+					"id_str": "88696407",
+					"indices": [
+						147,
+						155
+					]
+				},
+				{
+					"screen_name": "abbap",
+					"name": "Adine_A",
+					"id": 21797502,
+					"id_str": "21797502",
+					"indices": [
+						157,
+						163
+					]
+				},
+				{
+					"screen_name": "GBaliah",
+					"name": "Ganesh Baliah",
+					"id": 889482593095254000,
+					"id_str": "889482593095254016",
+					"indices": [
+						164,
+						172
+					]
+				},
+				{
+					"screen_name": "AcquireSLT",
+					"name": "Sharon Adjei-Nicol",
+					"id": 718199645449633800,
+					"id_str": "718199645449633793",
+					"indices": [
+						173,
+						184
+					]
+				},
+				{
+					"screen_name": "JemimaKA",
+					"name": "Jemima ✊🏾✊🏽✊🏼",
+					"id": 908690089072611300,
+					"id_str": "908690089072611328",
+					"indices": [
+						185,
+						194
+					]
+				},
+				{
+					"screen_name": "LecturerMish",
+					"name": "LecturerMish🕷🇬🇧🏳️‍🌈🇪🇺💙",
+					"id": 808695746035908600,
+					"id_str": "808695746035908608",
+					"indices": [
+						195,
+						208
+					]
+				},
+				{
+					"screen_name": "teohjouyin",
+					"name": "Teoh Jou Yin",
+					"id": 68645567,
+					"id_str": "68645567",
+					"indices": [
+						210,
+						221
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams 💙🌈",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						222,
+						232
+					]
+				},
+				{
+					"screen_name": "tolanAHP",
+					"name": "Steve Tolan",
+					"id": 1550254940,
+					"id_str": "1550254940",
+					"indices": [
+						234,
+						243
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xQxGpd5ovo",
+					"expanded_url": "https://m.youtube.com/watch?v=3MInvqIX2Cc&feature=youtu.be",
+					"display_url": "m.youtube.com/watch?v=3MInvq…",
+					"indices": [
+						259,
+						282
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 107548705,
+			"id_str": "107548705",
+			"name": "rachael moses",
+			"screen_name": "AHPLeader",
+			"location": "London, England",
+			"description": "Associate Director Rehabilitation & Therapies @RBandH, #CSPCouncil, MultiMedia Editor @thoraxBMJ, Volunteer Co-ordinator @MedicalAidPal #Inclusion #Diversity 🌈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15784,
+			"friends_count": 1461,
+			"listed_count": 54,
+			"created_at": "Fri Jan 22 23:15:52 +0000 2010",
+			"favourites_count": 17002,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13016,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1154461452197126145/H1AzB9z5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154461452197126145/H1AzB9z5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/107548705/1493115352",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Changing the culture of conversations for emerging #AHP #Leaders: Part Two \n\nHuge respect to the inspirational panel &amp; @WeAHPs role models ⬇️\n\n@RafiahB \n@abbap\n@GBaliah\n@AcquireSLT\n@JemimaKA\n@LecturerMish \n@teohjouyin\n@beardedPT \n@tolanAHP \n\nPls share 🙏🏻\nhttps://t.co/xQxGpd5ovo"
+	},
+	{
 		"created_at": "Wed Jul 08 18:28:00 +0000 2020",
 		"id": 1280881408295272400,
 		"id_str": "1280931656585658369",
