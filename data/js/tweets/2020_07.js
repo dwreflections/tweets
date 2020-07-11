@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 10 20:33:25 +0000 2020",
+		"id": 1281687996358627300,
+		"id_str": "1281687996358627329",
+		"full_text": "@G_e_o_r_g_i_a_1 Yes ... you’re doing fine 😊\nTrust your feedback 👍",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "G_e_o_r_g_i_a_1",
+					"name": "countryptstudent",
+					"id": 596698312,
+					"id_str": "596698312",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1281676846384521200,
+		"in_reply_to_status_id_str": "1281676846384521221",
+		"in_reply_to_user_id": 596698312,
+		"in_reply_to_user_id_str": "596698312",
+		"in_reply_to_screen_name": "G_e_o_r_g_i_a_1",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2139,
+			"friends_count": 3361,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17854,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@G_e_o_r_g_i_a_1 Yes ... you’re doing fine 😊\nTrust your feedback 👍"
+	},
+	{
 		"created_at": "Thu Jul 09 05:23:51 +0000 2020",
 		"id": 1280984274397728800,
 		"id_str": "1281096707833507840",
@@ -91,7 +194,7 @@ Grailbird.data.tweets_2020_07 =
 				},
 				{
 					"screen_name": "LecturerMish",
-					"name": "LecturerMish🕷🇬🇧🏳️‍🌈🇪🇺💙",
+					"name": "LecturerMish🕷🇬🇧🏳️🌈🇪🇺💙",
 					"id": 808695746035908600,
 					"id_str": "808695746035908608",
 					"indices": [
