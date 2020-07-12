@@ -1,6 +1,794 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 11 19:11:53 +0000 2020",
+		"id": 1282029864074322000,
+		"id_str": "1282029864074321921",
+		"full_text": "@physio_back @thecspstudents Huge congratulations!! Massive opportunity! 🤩✨\n\nMy engagement &amp; leadership opportunities with @thecspstudents was pivotal for me. Your following in some good footsteps 👍👍",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "physio_back",
+					"name": "ThePhysioBack",
+					"id": 1048100165582839800,
+					"id_str": "1048100165582839808",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "thecspstudents",
+					"name": "CSP Students",
+					"id": 444648690,
+					"id_str": "444648690",
+					"indices": [
+						13,
+						28
+					]
+				},
+				{
+					"screen_name": "thecspstudents",
+					"name": "CSP Students",
+					"id": 444648690,
+					"id_str": "444648690",
+					"indices": [
+						127,
+						142
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1281968291230158800,
+		"in_reply_to_status_id_str": "1281968291230158850",
+		"in_reply_to_user_id": 1048100165582839800,
+		"in_reply_to_user_id_str": "1048100165582839808",
+		"in_reply_to_screen_name": "physio_back",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2141,
+			"friends_count": 3381,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17892,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52041af7b8001313",
+			"url": "https://api.twitter.com/1.1/geo/id/52041af7b8001313.json",
+			"place_type": "city",
+			"name": "Rugeley",
+			"full_name": "Rugeley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.971255,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.773708
+						],
+						[
+							-1.971255,
+							52.773708
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@physio_back @thecspstudents Huge congratulations!! Massive opportunity! 🤩✨\n\nMy engagement &amp; leadership opportunities with @thecspstudents was pivotal for me. Your following in some good footsteps 👍👍"
+	},
+	{
+		"created_at": "Sat Jul 11 15:24:49 +0000 2020",
+		"id": 1281972723066065000,
+		"id_str": "1281972723066064898",
+		"full_text": "@kieronmp @thecspstudents @Martz_Smith @thecsp Congratulations!!! ✨\nHuge opportunity to influence &amp; inform- I wish you every success in this important role! #Leadership",
+		"truncated": false,
+		"display_text_range": [
+			47,
+			172
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Leadership",
+					"indices": [
+						161,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kieronmp",
+					"name": "Kieron",
+					"id": 1269928302275420200,
+					"id_str": "1269928302275420161",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "thecspstudents",
+					"name": "CSP Students",
+					"id": 444648690,
+					"id_str": "444648690",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"screen_name": "Martz_Smith",
+					"name": "Martin",
+					"id": 106062106,
+					"id_str": "106062106",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						39,
+						46
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1281961565592465400,
+		"in_reply_to_status_id_str": "1281961565592465408",
+		"in_reply_to_user_id": 1269928302275420200,
+		"in_reply_to_user_id_str": "1269928302275420161",
+		"in_reply_to_screen_name": "kieronmp",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2141,
+			"friends_count": 3381,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17892,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@kieronmp @thecspstudents @Martz_Smith @thecsp Congratulations!!! ✨\nHuge opportunity to influence &amp; inform- I wish you every success in this important role! #Leadership"
+	},
+	{
+		"created_at": "Sat Jul 11 12:31:21 +0000 2020",
+		"id": 1281929066761859000,
+		"id_str": "1281929066761859072",
+		"full_text": "@Prof_IeuanEllis Same! But my lawn is much smaller ... plenty to do 💪 https://t.co/yc5eebajfQ",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Prof_IeuanEllis",
+					"name": "Ieuan Ellis 🎓🏃🏴󠁧󠁢󠁷󠁬󠁳󠁿 🌍",
+					"id": 1315334306,
+					"id_str": "1315334306",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1281929037636612000,
+					"id_str": "1281929037636612096",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EcpTqvOWsAAKgoQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcpTqvOWsAAKgoQ.jpg",
+					"url": "https://t.co/yc5eebajfQ",
+					"display_url": "pic.twitter.com/yc5eebajfQ",
+					"expanded_url": "https://twitter.com/beardedPT/status/1281929066761859072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281929037636612000,
+					"id_str": "1281929037636612096",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EcpTqvOWsAAKgoQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcpTqvOWsAAKgoQ.jpg",
+					"url": "https://t.co/yc5eebajfQ",
+					"display_url": "pic.twitter.com/yc5eebajfQ",
+					"expanded_url": "https://twitter.com/beardedPT/status/1281929066761859072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1281904897810735000,
+		"in_reply_to_status_id_str": "1281904897810735104",
+		"in_reply_to_user_id": 1315334306,
+		"in_reply_to_user_id_str": "1315334306",
+		"in_reply_to_screen_name": "Prof_IeuanEllis",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2141,
+			"friends_count": 3381,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17892,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6182,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Prof_IeuanEllis Same! But my lawn is much smaller ... plenty to do 💪 https://t.co/yc5eebajfQ"
+	},
+	{
+		"created_at": "Sat Jul 11 11:30:49 +0000 2020",
+		"id": 1281902713018753000,
+		"id_str": "1281913833909620736",
+		"full_text": "How our diversity networks operate: \nFind out about how the different diversity networks operate\n\nhttps://t.co/mZmxpgKmRg \n\nhttps://t.co/cj9JwZ7IfP \n\n#CSPBAME https://t.co/JwPjSx6fUq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CSPBAME",
+					"indices": [
+						150,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mZmxpgKmRg",
+					"expanded_url": "https://www.csp.org.uk/workplace/equality-diversity/diversity-networks/how-networks-operate",
+					"display_url": "csp.org.uk/workplace/equa…",
+					"indices": [
+						98,
+						121
+					]
+				},
+				{
+					"url": "https://t.co/cj9JwZ7IfP",
+					"expanded_url": "http://www.csp.org.uk/bame",
+					"display_url": "csp.org.uk/bame",
+					"indices": [
+						124,
+						147
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1281901044612714500,
+					"id_str": "1281901044612714496",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Eco6NVFX0AA_LsV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eco6NVFX0AA_LsV.jpg",
+					"url": "https://t.co/JwPjSx6fUq",
+					"display_url": "pic.twitter.com/JwPjSx6fUq",
+					"expanded_url": "https://twitter.com/cspbame/status/1281902713018753024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 796,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 849,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1281901044612714500,
+					"id_str": "1281901044612714496",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Eco6NVFX0AA_LsV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eco6NVFX0AA_LsV.jpg",
+					"url": "https://t.co/JwPjSx6fUq",
+					"display_url": "pic.twitter.com/JwPjSx6fUq",
+					"expanded_url": "https://twitter.com/cspbame/status/1281902713018753024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 796,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 849,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 451,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1281902558903242800,
+					"id_str": "1281902558903242752",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Eco7leQXkAAMjdS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eco7leQXkAAMjdS.jpg",
+					"url": "https://t.co/JwPjSx6fUq",
+					"display_url": "pic.twitter.com/JwPjSx6fUq",
+					"expanded_url": "https://twitter.com/cspbame/status/1281902713018753024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1281902558898987000,
+					"id_str": "1281902558898987009",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Eco7lePWoAEh2oC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eco7lePWoAEh2oC.jpg",
+					"url": "https://t.co/JwPjSx6fUq",
+					"display_url": "pic.twitter.com/JwPjSx6fUq",
+					"expanded_url": "https://twitter.com/cspbame/status/1281902713018753024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1362,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 798,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1281902559658160000,
+					"id_str": "1281902559658160128",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/Eco7lhEWsAA4sqZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eco7lhEWsAA4sqZ.jpg",
+					"url": "https://t.co/JwPjSx6fUq",
+					"display_url": "pic.twitter.com/JwPjSx6fUq",
+					"expanded_url": "https://twitter.com/cspbame/status/1281902713018753024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 868,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 814,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 461,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1278338601982529500,
+			"id_str": "1278338601982529536",
+			"name": "CSP BAME Network",
+			"screen_name": "cspbame",
+			"location": "",
+			"description": "Account run by the BAME network of the Chartered Society of Physiotherapy",
+			"url": "https://t.co/56U3KnPm5a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/56U3KnPm5a",
+							"expanded_url": "http://www.csp.org.uk/bame",
+							"display_url": "csp.org.uk/bame",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 424,
+			"friends_count": 96,
+			"listed_count": 1,
+			"created_at": "Wed Jul 01 14:45:00 +0000 2020",
+			"favourites_count": 31,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 62,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1278339532702846976/GE-SRFtO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278339532702846976/GE-SRFtO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1278338601982529536/1593615122",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How our diversity networks operate: \nFind out about how the different diversity networks operate\n\nhttps://t.co/mZmxpgKmRg \n\nhttps://t.co/cj9JwZ7IfP \n\n#CSPBAME https://t.co/JwPjSx6fUq"
+	},
+	{
 		"created_at": "Fri Jul 10 20:33:25 +0000 2020",
 		"id": 1281687996358627300,
 		"id_str": "1281687996358627329",
