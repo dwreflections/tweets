@@ -1,6 +1,319 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Mon Jul 13 18:19:13 +0000 2020",
+		"id": 1282741387532947500,
+		"id_str": "1282741387532947456",
+		"full_text": "@Anniecoops Yes!!!! Brilliant news 👍👍",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Anniecoops",
+					"name": "Anne Cooper 💙",
+					"id": 20327119,
+					"id_str": "20327119",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1282656127344402400,
+		"in_reply_to_status_id_str": "1282656127344402432",
+		"in_reply_to_user_id": 20327119,
+		"in_reply_to_user_id_str": "20327119",
+		"in_reply_to_screen_name": "Anniecoops",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2151,
+			"friends_count": 3400,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17923,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6186,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Anniecoops Yes!!!! Brilliant news 👍👍"
+	},
+	{
+		"created_at": "Mon Jul 13 13:26:28 +0000 2020",
+		"id": 1282652506607280000,
+		"id_str": "1282667713631064064",
+		"full_text": "📢 Join HLA Live next week with @respectempowers to discuss prevalence of #bullying and #harassment within the NHS! \n\nWhen? 8pm Wednesday 22nd July\n\nRegister at: https://t.co/nJ0bQOYTDO https://t.co/I3mVOSyxsz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "bullying",
+					"indices": [
+						73,
+						82
+					]
+				},
+				{
+					"text": "harassment",
+					"indices": [
+						87,
+						98
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "respectempowers",
+					"name": "RESPECT",
+					"id": 1194763978272071700,
+					"id_str": "1194763978272071684",
+					"indices": [
+						31,
+						47
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nJ0bQOYTDO",
+					"expanded_url": "https://link.medics.academy/HLALive",
+					"display_url": "link.medics.academy/HLALive",
+					"indices": [
+						161,
+						184
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1282517927305019400,
+					"id_str": "1282517927305019393",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EcxrQoMWAAEys-l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcxrQoMWAAEys-l.jpg",
+					"url": "https://t.co/I3mVOSyxsz",
+					"display_url": "pic.twitter.com/I3mVOSyxsz",
+					"expanded_url": "https://twitter.com/HLA_int/status/1282652506607280128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1753,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1282517927305019400,
+					"id_str": "1282517927305019393",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/EcxrQoMWAAEys-l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EcxrQoMWAAEys-l.jpg",
+					"url": "https://t.co/I3mVOSyxsz",
+					"display_url": "pic.twitter.com/I3mVOSyxsz",
+					"expanded_url": "https://twitter.com/HLA_int/status/1282652506607280128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1240,
+							"h": 1753,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 809803519846993900,
+			"id_str": "809803519846993921",
+			"name": "The HLA",
+			"screen_name": "HLA_int",
+			"location": "",
+			"description": "The Healthcare Leadership Academy: \n🌱Nurturing leadership🌱\n💭Fostering frontline innovation💭\n⚡Empowering and valuing the next generation⚡",
+			"url": "https://t.co/84YgqZTCrl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/84YgqZTCrl",
+							"expanded_url": "http://thehealthcareleadership.academy",
+							"display_url": "thehealthcareleadership.academy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2831,
+			"friends_count": 0,
+			"listed_count": 15,
+			"created_at": "Fri Dec 16 16:52:59 +0000 2016",
+			"favourites_count": 3909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7375,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810983604406915073/2jjtK_O1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810983604406915073/2jjtK_O1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/809803519846993921/1590615561",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢 Join HLA Live next week with @respectempowers to discuss prevalence of #bullying and #harassment within the NHS! \n\nWhen? 8pm Wednesday 22nd July\n\nRegister at: https://t.co/nJ0bQOYTDO https://t.co/I3mVOSyxsz"
+	},
+	{
 		"created_at": "Sun Jul 12 09:41:16 +0000 2020",
 		"id": 1282248653911056400,
 		"id_str": "1282248653911056384",
