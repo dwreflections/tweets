@@ -1,6 +1,1347 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 14 20:04:58 +0000 2020",
+		"id": 1283126960131113000,
+		"id_str": "1283130389071106053",
+		"full_text": "Some further teasers of the 'What is an AHP?' film signed off today to promote #StepintoHealth Watch out 16th July the big launch of the film plus other case studies #CareerChange @NHS_HealthEdEng @NHSEArmedForces @teamtouchdesign @HealthCareersUK https://t.co/kYvx8zjzBx https://t.co/kFn1Epxz9o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "StepintoHealth",
+					"indices": [
+						79,
+						94
+					]
+				},
+				{
+					"text": "CareerChange",
+					"indices": [
+						166,
+						179
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NHS_HealthEdEng",
+					"name": "NHS HEE",
+					"id": 637008966,
+					"id_str": "637008966",
+					"indices": [
+						180,
+						196
+					]
+				},
+				{
+					"screen_name": "NHSEArmedForces",
+					"name": "NHSE Armed Forces",
+					"id": 2831648813,
+					"id_str": "2831648813",
+					"indices": [
+						197,
+						213
+					]
+				},
+				{
+					"screen_name": "teamtouchdesign",
+					"name": "Touch Design",
+					"id": 175411546,
+					"id_str": "175411546",
+					"indices": [
+						214,
+						230
+					]
+				},
+				{
+					"screen_name": "HealthCareersUK",
+					"name": "Health Careers",
+					"id": 198861182,
+					"id_str": "198861182",
+					"indices": [
+						231,
+						247
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/kYvx8zjzBx",
+					"expanded_url": "https://twitter.com/PaulChapman09/status/1281302695563968514",
+					"display_url": "twitter.com/PaulChapman09/…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1283126313293885400,
+					"id_str": "1283126313293885441",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec6UlWnWsAEEh9v.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ec6UlWnWsAEEh9v.png",
+					"url": "https://t.co/kFn1Epxz9o",
+					"display_url": "pic.twitter.com/kFn1Epxz9o",
+					"expanded_url": "https://twitter.com/PaulChapman09/status/1283126960131112971/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1208,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1283126313293885400,
+					"id_str": "1283126313293885441",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec6UlWnWsAEEh9v.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ec6UlWnWsAEEh9v.png",
+					"url": "https://t.co/kFn1Epxz9o",
+					"display_url": "pic.twitter.com/kFn1Epxz9o",
+					"expanded_url": "https://twitter.com/PaulChapman09/status/1283126960131112971/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1208,
+							"h": 678,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 674,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1283126408844279800,
+					"id_str": "1283126408844279813",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec6Uq6kWAAUKius.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ec6Uq6kWAAUKius.png",
+					"url": "https://t.co/kFn1Epxz9o",
+					"display_url": "pic.twitter.com/kFn1Epxz9o",
+					"expanded_url": "https://twitter.com/PaulChapman09/status/1283126960131112971/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 670,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1210,
+							"h": 676,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 380,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1283126457997439000,
+					"id_str": "1283126457997438978",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/Ec6UtxrXsAI6FoR.png",
+					"media_url_https": "https://pbs.twimg.com/media/Ec6UtxrXsAI6FoR.png",
+					"url": "https://t.co/kFn1Epxz9o",
+					"display_url": "pic.twitter.com/kFn1Epxz9o",
+					"expanded_url": "https://twitter.com/PaulChapman09/status/1283126960131112971/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 672,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1207,
+							"h": 676,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 735562813146533900,
+			"id_str": "735562813146533888",
+			"name": "Paul_Chapman09",
+			"screen_name": "PaulChapman09",
+			"location": "Sheffield, England",
+			"description": "Health Education England National Programme Manager AHPs and Chartered Physiotherapist DSA (CSP) Views my own",
+			"url": "https://t.co/SgtYeFmbMd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SgtYeFmbMd",
+							"expanded_url": "https://uk.linkedin.com/in/paul-chapman-b7717156",
+							"display_url": "uk.linkedin.com/in/paul-chapma…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1839,
+			"friends_count": 616,
+			"listed_count": 13,
+			"created_at": "Wed May 25 20:06:55 +0000 2016",
+			"favourites_count": 5479,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3832,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195070914762878978/fKTW7F_d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195070914762878978/fKTW7F_d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/735562813146533888/1592073096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1281302695563968500,
+		"quoted_status_id_str": "1281302695563968514",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kYvx8zjzBx",
+			"expanded": "https://twitter.com/PaulChapman09/status/1281302695563968514",
+			"display": "twitter.com/PaulChapman09/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 09 19:02:22 +0000 2020",
+			"id": 1281302695563968500,
+			"id_str": "1281302695563968514",
+			"full_text": "Some more great films on their way from @teamtouchdesign to raise the profile of #AHPs 'What is an AHP?' #StepintoHealth Simple but effective @NHSEArmedForces @WeAHPs @NHS_HealthEdEng https://t.co/BDXJqKCai9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				183
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AHPs",
+						"indices": [
+							81,
+							86
+						]
+					},
+					{
+						"text": "StepintoHealth",
+						"indices": [
+							105,
+							120
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "teamtouchdesign",
+						"name": "Touch Design",
+						"id": 175411546,
+						"id_str": "175411546",
+						"indices": [
+							40,
+							56
+						]
+					},
+					{
+						"screen_name": "NHSEArmedForces",
+						"name": "NHSE Armed Forces",
+						"id": 2831648813,
+						"id_str": "2831648813",
+						"indices": [
+							142,
+							158
+						]
+					},
+					{
+						"screen_name": "WeAHPs",
+						"name": "WeAHPs 💙",
+						"id": 2364573882,
+						"id_str": "2364573882",
+						"indices": [
+							159,
+							166
+						]
+					},
+					{
+						"screen_name": "NHS_HealthEdEng",
+						"name": "NHS HEE",
+						"id": 637008966,
+						"id_str": "637008966",
+						"indices": [
+							167,
+							183
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1281302250942496800,
+						"id_str": "1281302250942496769",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/media/EcgZm81WAAEJSYy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcgZm81WAAEJSYy.jpg",
+						"url": "https://t.co/BDXJqKCai9",
+						"display_url": "pic.twitter.com/BDXJqKCai9",
+						"expanded_url": "https://twitter.com/PaulChapman09/status/1281302695563968514/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 370,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1912,
+								"h": 1040,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 653,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1281302250942496800,
+						"id_str": "1281302250942496769",
+						"indices": [
+							184,
+							207
+						],
+						"media_url": "http://pbs.twimg.com/media/EcgZm81WAAEJSYy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EcgZm81WAAEJSYy.jpg",
+						"url": "https://t.co/BDXJqKCai9",
+						"display_url": "pic.twitter.com/BDXJqKCai9",
+						"expanded_url": "https://twitter.com/PaulChapman09/status/1281302695563968514/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 370,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1912,
+								"h": 1040,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 653,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 735562813146533900,
+				"id_str": "735562813146533888",
+				"name": "Paul_Chapman09",
+				"screen_name": "PaulChapman09",
+				"location": "Sheffield, England",
+				"description": "Health Education England National Programme Manager AHPs and Chartered Physiotherapist DSA (CSP) Views my own",
+				"url": "https://t.co/SgtYeFmbMd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SgtYeFmbMd",
+								"expanded_url": "https://uk.linkedin.com/in/paul-chapman-b7717156",
+								"display_url": "uk.linkedin.com/in/paul-chapma…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1839,
+				"friends_count": 616,
+				"listed_count": 13,
+				"created_at": "Wed May 25 20:06:55 +0000 2016",
+				"favourites_count": 5479,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3832,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1195070914762878978/fKTW7F_d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195070914762878978/fKTW7F_d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/735562813146533888/1592073096",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 28,
+			"favorite_count": 60,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some further teasers of the 'What is an AHP?' film signed off today to promote #StepintoHealth Watch out 16th July the big launch of the film plus other case studies #CareerChange @NHS_HealthEdEng @NHSEArmedForces @teamtouchdesign @HealthCareersUK https://t.co/kYvx8zjzBx https://t.co/kFn1Epxz9o"
+	},
+	{
+		"created_at": "Tue Jul 14 17:57:15 +0000 2020",
+		"id": 1283098248018833400,
+		"id_str": "1283098248018833409",
+		"full_text": "@AliBooker_LBU @RobTheOT 💪💪💪",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AliBooker_LBU",
+					"name": "Alison Booker 💙",
+					"id": 941762706,
+					"id_str": "941762706",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "RobTheOT",
+					"name": "Rob Molloy",
+					"id": 45223444,
+					"id_str": "45223444",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1283098128271519700,
+		"in_reply_to_status_id_str": "1283098128271519744",
+		"in_reply_to_user_id": 941762706,
+		"in_reply_to_user_id_str": "941762706",
+		"in_reply_to_screen_name": "AliBooker_LBU",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2159,
+			"friends_count": 3408,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@AliBooker_LBU @RobTheOT 💪💪💪"
+	},
+	{
+		"created_at": "Tue Jul 14 17:49:08 +0000 2020",
+		"id": 1283096202205114400,
+		"id_str": "1283096202205114372",
+		"full_text": "I'm quoting @RobTheOT \nDream team, indeed! ✨\n\nI'm looking forward to #WeAHPs going from strength to strength 💪 - so important! https://t.co/dcedxly7tQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WeAHPs",
+					"indices": [
+						69,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RobTheOT",
+					"name": "Rob Molloy",
+					"id": 45223444,
+					"id_str": "45223444",
+					"indices": [
+						12,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dcedxly7tQ",
+					"expanded_url": "https://twitter.com/AliBooker_LBU/status/1282959519786700800",
+					"display_url": "twitter.com/AliBooker_LBU/…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2159,
+			"friends_count": 3408,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1282959519786700800,
+		"quoted_status_id_str": "1282959519786700800",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dcedxly7tQ",
+			"expanded": "https://twitter.com/AliBooker_LBU/status/1282959519786700800",
+			"display": "twitter.com/AliBooker_LBU/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 14 08:46:00 +0000 2020",
+			"id": 1282959519786700800,
+			"id_str": "1282959519786700800",
+			"full_text": "I’m absolutely delighted to announce I’m partnering with @sarahbradder as we take forward the @WeAHPs 🧡\n\nI was elated when Sarah approached me &amp; feel proud to continue the WeAHP legacy originally set up by Naomi McVey, Jillian Fillingham &amp; Helen Owen 💜\n\n#WeAHPs #WeStudentAHPs https://t.co/pvfBlUkMmO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WeAHPs",
+						"indices": [
+							262,
+							269
+						]
+					},
+					{
+						"text": "WeStudentAHPs",
+						"indices": [
+							270,
+							284
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SarahBradder",
+						"name": "Sarah Bradder",
+						"id": 47191682,
+						"id_str": "47191682",
+						"indices": [
+							57,
+							70
+						]
+					},
+					{
+						"screen_name": "WeAHPs",
+						"name": "WeAHPs 💙",
+						"id": 2364573882,
+						"id_str": "2364573882",
+						"indices": [
+							94,
+							101
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1282959507426103300,
+						"id_str": "1282959507426103296",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec383-VX0AAlknB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec383-VX0AAlknB.jpg",
+						"url": "https://t.co/pvfBlUkMmO",
+						"display_url": "pic.twitter.com/pvfBlUkMmO",
+						"expanded_url": "https://twitter.com/AliBooker_LBU/status/1282959519786700800/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 613,
+								"h": 672,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 613,
+								"h": 672,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 613,
+								"h": 672,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1282959507426103300,
+						"id_str": "1282959507426103296",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec383-VX0AAlknB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec383-VX0AAlknB.jpg",
+						"url": "https://t.co/pvfBlUkMmO",
+						"display_url": "pic.twitter.com/pvfBlUkMmO",
+						"expanded_url": "https://twitter.com/AliBooker_LBU/status/1282959519786700800/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 613,
+								"h": 672,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 613,
+								"h": 672,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 613,
+								"h": 672,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1282959507400937500,
+						"id_str": "1282959507400937472",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec383-PX0AANbHy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec383-PX0AANbHy.jpg",
+						"url": "https://t.co/pvfBlUkMmO",
+						"display_url": "pic.twitter.com/pvfBlUkMmO",
+						"expanded_url": "https://twitter.com/AliBooker_LBU/status/1282959519786700800/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 613,
+								"h": 671,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 613,
+								"h": 671,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 613,
+								"h": 671,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1282959507400859600,
+						"id_str": "1282959507400859649",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/Ec383-PWoAEzHle.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ec383-PWoAEzHle.jpg",
+						"url": "https://t.co/pvfBlUkMmO",
+						"display_url": "pic.twitter.com/pvfBlUkMmO",
+						"expanded_url": "https://twitter.com/AliBooker_LBU/status/1282959519786700800/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 336,
+								"h": 336,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 336,
+								"h": 336,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 336,
+								"h": 336,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 941762706,
+				"id_str": "941762706",
+				"name": "Alison Booker 💙",
+				"screen_name": "AliBooker_RD",
+				"location": "Derby, England",
+				"description": "Newly Qualified Dietitian 🧑🏼‍⚕️ NHS Bank & MoD Police RD👮🏼 Army Reservist 💂🏼 Interested in Clinical & Defence Nutrition ⚔️🩺 One half of @WeAHPs 🌟",
+				"url": "https://t.co/Q6AXHYHQNo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Q6AXHYHQNo",
+								"expanded_url": "https://alisonthestudentdietitian.wordpress.com/",
+								"display_url": "…isonthestudentdietitian.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2257,
+				"friends_count": 2649,
+				"listed_count": 21,
+				"created_at": "Sun Nov 11 17:22:30 +0000 2012",
+				"favourites_count": 18109,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5657,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1283101765961953281/piJHC7sT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1283101765961953281/piJHC7sT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/941762706/1593721266",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "4182da788eeab610",
+				"url": "https://api.twitter.com/1.1/geo/id/4182da788eeab610.json",
+				"place_type": "city",
+				"name": "Belper",
+				"full_name": "Belper, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-1.496926,
+								52.9999782
+							],
+							[
+								-1.4446211,
+								52.9999782
+							],
+							[
+								-1.4446211,
+								53.0380865
+							],
+							[
+								-1.496926,
+								53.0380865
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 48,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm quoting @RobTheOT \nDream team, indeed! ✨\n\nI'm looking forward to #WeAHPs going from strength to strength 💪 - so important! https://t.co/dcedxly7tQ"
+	},
+	{
+		"created_at": "Tue Jul 14 17:46:28 +0000 2020",
+		"id": 1283095534631358500,
+		"id_str": "1283095534631358475",
+		"full_text": "@WLCPhysio Warren, I have a podcast for you then! 👍👍\n\nMicheal Lewis has his own podcast and it is brilliant! @pushkinpods \n\nAgainst the rules 🔗\nhttps://t.co/mMeBO5qp1g",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WLCPhysio",
+					"name": "Warren",
+					"id": 2940538043,
+					"id_str": "2940538043",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "pushkinpods",
+					"name": "Pushkin Industries",
+					"id": 1093211541695094800,
+					"id_str": "1093211541695094786",
+					"indices": [
+						109,
+						121
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mMeBO5qp1g",
+					"expanded_url": "http://www.atrpodcast.com",
+					"display_url": "atrpodcast.com",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1283063725302390800,
+		"in_reply_to_status_id_str": "1283063725302390786",
+		"in_reply_to_user_id": 2940538043,
+		"in_reply_to_user_id_str": "2940538043",
+		"in_reply_to_screen_name": "WLCPhysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2159,
+			"friends_count": 3408,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@WLCPhysio Warren, I have a podcast for you then! 👍👍\n\nMicheal Lewis has his own podcast and it is brilliant! @pushkinpods \n\nAgainst the rules 🔗\nhttps://t.co/mMeBO5qp1g"
+	},
+	{
+		"created_at": "Tue Jul 14 17:28:45 +0000 2020",
+		"id": 1283091074442035200,
+		"id_str": "1283091074442035200",
+		"full_text": "@physiatherapist @helensharmaPT Oh, wow!! Do I apply? 👀🤩",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "physiatherapist",
+					"name": "Mark Sia MCSP",
+					"id": 756889163987836900,
+					"id_str": "756889163987836928",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "helensharmaPT",
+					"name": "Helen Sharma",
+					"id": 1002212080454389800,
+					"id_str": "1002212080454389761",
+					"indices": [
+						17,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1283075647640871000,
+		"in_reply_to_status_id_str": "1283075647640870917",
+		"in_reply_to_user_id": 756889163987836900,
+		"in_reply_to_user_id_str": "756889163987836928",
+		"in_reply_to_screen_name": "physiatherapist",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2159,
+			"friends_count": 3408,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 17940,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6190,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@physiatherapist @helensharmaPT Oh, wow!! Do I apply? 👀🤩"
+	},
+	{
 		"created_at": "Mon Jul 13 18:19:13 +0000 2020",
 		"id": 1282741387532947500,
 		"id_str": "1282741387532947456",
