@@ -1,6 +1,504 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 16 19:19:28 +0000 2020",
+		"id": 1283843714507518000,
+		"id_str": "1283843714507517953",
+		"full_text": "@UHDBAHPs 💪💙",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			12
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UHDBAHPs",
+					"name": "UHDBAHPs",
+					"id": 1051752102530338800,
+					"id_str": "1051752102530338816",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1283803013510058000,
+		"in_reply_to_status_id_str": "1283803013510057985",
+		"in_reply_to_user_id": 1051752102530338800,
+		"in_reply_to_user_id_str": "1051752102530338816",
+		"in_reply_to_screen_name": "UHDBAHPs",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2165,
+			"friends_count": 3423,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@UHDBAHPs 💪💙"
+	},
+	{
+		"created_at": "Thu Jul 16 13:52:45 +0000 2020",
+		"id": 1283761491561324500,
+		"id_str": "1283761491561324545",
+		"full_text": "“Allied Health Professions - you’ve been training for this all the time you were in the Armed Forces.” ⬇️\n\nExcellent 2 minute video ✨! \nI say the above is true for any role in the NHS ( Porter to Chief Exec...) ✅\n\n@magnusharrison @amrawlings @WeAHPs @DMS_DefRehab @JUCareersD https://t.co/f2DgjYRx30",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "magnusharrison",
+					"name": "Dr. Magnus Harrison 💙🌈",
+					"id": 258272524,
+					"id_str": "258272524",
+					"indices": [
+						214,
+						229
+					]
+				},
+				{
+					"screen_name": "amrawlings",
+					"name": "amanda rawlings",
+					"id": 631943465,
+					"id_str": "631943465",
+					"indices": [
+						230,
+						241
+					]
+				},
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs 💙",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						242,
+						249
+					]
+				},
+				{
+					"screen_name": "DMS_DefRehab",
+					"name": "Department of Defence Rehab",
+					"id": 4009779089,
+					"id_str": "4009779089",
+					"indices": [
+						250,
+						263
+					]
+				},
+				{
+					"screen_name": "JUCareersD",
+					"name": "Joined Up Careers",
+					"id": 1064463989156036600,
+					"id_str": "1064463989156036608",
+					"indices": [
+						264,
+						275
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/f2DgjYRx30",
+					"expanded_url": "https://twitter.com/nhs_healthedeng/status/1283748600514740228",
+					"display_url": "twitter.com/nhs_healtheden…",
+					"indices": [
+						276,
+						299
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2165,
+			"friends_count": 3423,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18000,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6198,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1f592b82aea688ff",
+			"url": "https://api.twitter.com/1.1/geo/id/1f592b82aea688ff.json",
+			"place_type": "city",
+			"name": "Derby",
+			"full_name": "Derby, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.556856,
+							52.870587
+						],
+						[
+							-1.384701,
+							52.870587
+						],
+						[
+							-1.384701,
+							52.960473
+						],
+						[
+							-1.556856,
+							52.960473
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1283748600514740200,
+		"quoted_status_id_str": "1283748600514740228",
+		"quoted_status_permalink": {
+			"url": "https://t.co/f2DgjYRx30",
+			"expanded": "https://twitter.com/nhs_healthedeng/status/1283748600514740228",
+			"display": "twitter.com/nhs_healtheden…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 16 13:01:31 +0000 2020",
+			"id": 1283748600514740200,
+			"id_str": "1283748600514740228",
+			"full_text": "Could an allied health profession be your new career? AHPs are 14 professions that make up the third-largest workforce in the NHS. \nhttps://t.co/QySqlgMDRN  @CTPinfo\n@RAF_FF @The_NFF @The_AFF @NHS @NHSEmployers #BRFS_virtual #StepintoHealth @SuzanneRastrick @BeverleyHarden",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BRFS_virtual",
+						"indices": [
+							211,
+							224
+						]
+					},
+					{
+						"text": "StepintoHealth",
+						"indices": [
+							225,
+							240
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CTPinfo",
+						"name": "CTP",
+						"id": 325501772,
+						"id_str": "325501772",
+						"indices": [
+							157,
+							165
+						]
+					},
+					{
+						"screen_name": "RAF_FF",
+						"name": "Families Federation",
+						"id": 74423416,
+						"id_str": "74423416",
+						"indices": [
+							166,
+							173
+						]
+					},
+					{
+						"screen_name": "The_NFF",
+						"name": "Naval Families Federation",
+						"id": 135433295,
+						"id_str": "135433295",
+						"indices": [
+							174,
+							182
+						]
+					},
+					{
+						"screen_name": "The_AFF",
+						"name": "AFF",
+						"id": 31744257,
+						"id_str": "31744257",
+						"indices": [
+							183,
+							191
+						]
+					},
+					{
+						"screen_name": "NHS",
+						"name": "@NHS",
+						"id": 753261781137719300,
+						"id_str": "753261781137719300",
+						"indices": [
+							192,
+							196
+						]
+					},
+					{
+						"screen_name": "NHSEmployers",
+						"name": "NHS Employers",
+						"id": 51048596,
+						"id_str": "51048596",
+						"indices": [
+							197,
+							210
+						]
+					},
+					{
+						"screen_name": "SuzanneRastrick",
+						"name": "Suzanne Rastrick",
+						"id": 1596992540,
+						"id_str": "1596992540",
+						"indices": [
+							241,
+							257
+						]
+					},
+					{
+						"screen_name": "BeverleyHarden",
+						"name": "Beverley Harden FCSP",
+						"id": 1641141318,
+						"id_str": "1641141318",
+						"indices": [
+							258,
+							273
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QySqlgMDRN",
+						"expanded_url": "http://orlo.uk/vye2V",
+						"display_url": "orlo.uk/vye2V",
+						"indices": [
+							132,
+							155
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://orlo.tech\" rel=\"nofollow\">Orlo</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 637008966,
+				"id_str": "637008966",
+				"name": "NHS HEE",
+				"screen_name": "NHS_HealthEdEng",
+				"location": "England",
+				"description": "Health Education England (HEE), improving the quality of care delivered to patients - developing people for health and healthcare. Account monitored Mon-Fri 8-5",
+				"url": "https://t.co/evbXOaPi7G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/evbXOaPi7G",
+								"expanded_url": "http://www.hee.nhs.uk/",
+								"display_url": "hee.nhs.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 66854,
+				"friends_count": 1670,
+				"listed_count": 409,
+				"created_at": "Mon Jul 16 12:20:30 +0000 2012",
+				"favourites_count": 9695,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20249,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0091C9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1273933495312814082/yI9r1T_P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273933495312814082/yI9r1T_P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/637008966/1592563018",
+				"profile_link_color": "E28C05",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 30,
+			"favorite_count": 46,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Allied Health Professions - you’ve been training for this all the time you were in the Armed Forces.” ⬇️\n\nExcellent 2 minute video ✨! \nI say the above is true for any role in the NHS ( Porter to Chief Exec...) ✅\n\n@magnusharrison @amrawlings @WeAHPs @DMS_DefRehab @JUCareersD https://t.co/f2DgjYRx30"
+	},
+	{
 		"created_at": "Wed Jul 15 19:41:46 +0000 2020",
 		"id": 1283470713425465300,
 		"id_str": "1283486938570403841",
