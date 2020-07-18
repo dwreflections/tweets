@@ -1,6 +1,159 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 17 15:19:51 +0000 2020",
+		"id": 1284145798545059800,
+		"id_str": "1284145798545059841",
+		"full_text": "@ArmyHealthAdv @BMJLeader @DMS_DG @BritishArmy @wavellroom ‘Only dead fish follow the flow’... \n\nBZ @ArmyHealthAdv",
+		"truncated": false,
+		"display_text_range": [
+			59,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ArmyHealthAdv",
+					"name": "Tim Hodgetts CBE QHS",
+					"id": 1115238996240678900,
+					"id_str": "1115238996240678913",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "BMJLeader",
+					"name": "BMJ Leader",
+					"id": 1105774585658724400,
+					"id_str": "1105774585658724352",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "DMS_DG",
+					"name": "DMS Director General",
+					"id": 373838723,
+					"id_str": "373838723",
+					"indices": [
+						26,
+						33
+					]
+				},
+				{
+					"screen_name": "BritishArmy",
+					"name": "British Army",
+					"id": 22046686,
+					"id_str": "22046686",
+					"indices": [
+						34,
+						46
+					]
+				},
+				{
+					"screen_name": "wavellroom",
+					"name": "Wavell Room - British Military Thinking",
+					"id": 831115063499059200,
+					"id_str": "831115063499059201",
+					"indices": [
+						47,
+						58
+					]
+				},
+				{
+					"screen_name": "ArmyHealthAdv",
+					"name": "Tim Hodgetts CBE QHS",
+					"id": 1115238996240678900,
+					"id_str": "1115238996240678913",
+					"indices": [
+						100,
+						114
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1268133361782067200,
+		"in_reply_to_status_id_str": "1268133361782067201",
+		"in_reply_to_user_id": 1115238996240678900,
+		"in_reply_to_user_id_str": "1115238996240678913",
+		"in_reply_to_screen_name": "ArmyHealthAdv",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 💙🌈",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist 🦠Professional Committee Member at the Chartered Society of Physiotherapy (https://t.co/Bwu7xtI10V)🦠 @HLA_int Scholar 🦠#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/Bwu7xtI10V",
+							"expanded_url": "http://bit.ly/2b3pt",
+							"display_url": "bit.ly/2b3pt",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 2169,
+			"friends_count": 3426,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18011,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6199,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1587218106",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ArmyHealthAdv @BMJLeader @DMS_DG @BritishArmy @wavellroom ‘Only dead fish follow the flow’... \n\nBZ @ArmyHealthAdv"
+	},
+	{
 		"created_at": "Thu Jul 16 19:19:28 +0000 2020",
 		"id": 1283843714507518000,
 		"id_str": "1283843714507517953",
