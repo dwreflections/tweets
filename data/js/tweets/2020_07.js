@@ -1,6 +1,495 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sun Jul 19 19:23:25 +0000 2020",
+		"id": 1284931870535430100,
+		"id_str": "1284931870535430144",
+		"full_text": "@MKargelaDPT @dibbygibby @MattLowPT @RogerKerry1 @fimo18 @MyCuppaJo @LivingWellPain “Perhaps Physiotherapy is the weirdest profession in the world ... “\n\nGreat to see @dibbygibby in fine form 🤩",
+		"truncated": false,
+		"display_text_range": [
+			84,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MKargelaDPT",
+					"name": "Mark Kargela",
+					"id": 235568668,
+					"id_str": "235568668",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "dibbygibby",
+					"name": "Prof Mick Thacker",
+					"id": 105141747,
+					"id_str": "105141747",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "MattLowPT",
+					"name": "Matthew Low",
+					"id": 1105433442,
+					"id_str": "1105433442",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						36,
+						48
+					]
+				},
+				{
+					"screen_name": "fimo18",
+					"name": "Dr Fiona Moffatt",
+					"id": 508806750,
+					"id_str": "508806750",
+					"indices": [
+						49,
+						56
+					]
+				},
+				{
+					"screen_name": "MyCuppaJo",
+					"name": "Joletta Belton",
+					"id": 1452139974,
+					"id_str": "1452139974",
+					"indices": [
+						57,
+						67
+					]
+				},
+				{
+					"screen_name": "LivingWellPain",
+					"name": "Tina",
+					"id": 1008439629912166400,
+					"id_str": "1008439629912166401",
+					"indices": [
+						68,
+						83
+					]
+				},
+				{
+					"screen_name": "dibbygibby",
+					"name": "Prof Mick Thacker",
+					"id": 105141747,
+					"id_str": "105141747",
+					"indices": [
+						167,
+						178
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1278384076886401000,
+		"in_reply_to_status_id_str": "1278384076886401024",
+		"in_reply_to_user_id": 235568668,
+		"in_reply_to_user_id_str": "235568668",
+		"in_reply_to_screen_name": "MKargelaDPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ @HLA_int Scholar ▪️#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2169,
+			"friends_count": 3431,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18039,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1595186136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MKargelaDPT @dibbygibby @MattLowPT @RogerKerry1 @fimo18 @MyCuppaJo @LivingWellPain “Perhaps Physiotherapy is the weirdest profession in the world ... “\n\nGreat to see @dibbygibby in fine form 🤩"
+	},
+	{
+		"created_at": "Sun Jul 19 14:40:29 +0000 2020",
+		"id": 1284860668156485600,
+		"id_str": "1284860668156485632",
+		"full_text": "@tolanAHP @UoN_SHS @JohnAth69240605 Thank you Steve 🤩",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tolanAHP",
+					"name": "Steve Tolan",
+					"id": 1550254940,
+					"id_str": "1550254940",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "UoN_SHS",
+					"name": "UoN Health Sciences",
+					"id": 512054069,
+					"id_str": "512054069",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"screen_name": "JohnAth69240605",
+					"name": "John Atherton",
+					"id": 951884240584630300,
+					"id_str": "951884240584630272",
+					"indices": [
+						19,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1284798562820403200,
+		"in_reply_to_status_id_str": "1284798562820403200",
+		"in_reply_to_user_id": 1550254940,
+		"in_reply_to_user_id_str": "1550254940",
+		"in_reply_to_screen_name": "tolanAHP",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ @HLA_int Scholar ▪️#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2169,
+			"friends_count": 3431,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18039,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1595186136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tolanAHP @UoN_SHS @JohnAth69240605 Thank you Steve 🤩"
+	},
+	{
+		"created_at": "Sun Jul 19 08:45:35 +0000 2020",
+		"id": 1284771355066609700,
+		"id_str": "1284771355066609665",
+		"full_text": "@STJTurnface @CraigDavidson85 @GrahamR64 @NHSRajneet @HannahPeck @theRCN @JessLSainsbury @MattHancock @RCNWestMids @nurses_united @StuartTuckwood @teamCNO_ @NurseStandard That’s not true?! \nPreceptorship is heterogenous throughout England for AHPs. We receive the pay increment at Y2 like nurses (AFC).\n\nYou apply for a B6 Role when you are ready...",
+		"truncated": false,
+		"display_text_range": [
+			171,
+			349
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "STJTurnface",
+					"name": "Sam Turner St/N 🏳️‍🌈 #FundOurFuture",
+					"id": 102171967,
+					"id_str": "102171967",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "CraigDavidson85",
+					"name": "Craig Davidson RN Bsc (Hons) 🏳️‍🌈",
+					"id": 157633593,
+					"id_str": "157633593",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "GrahamR64",
+					"name": "Graham Revie🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧🇪🇺🏳️‍🌈",
+					"id": 124300056,
+					"id_str": "124300056",
+					"indices": [
+						30,
+						40
+					]
+				},
+				{
+					"screen_name": "NHSRajneet",
+					"name": "Raj StN",
+					"id": 954452947382997000,
+					"id_str": "954452947382997000",
+					"indices": [
+						41,
+						52
+					]
+				},
+				{
+					"screen_name": "HannahPeck",
+					"name": "Hannah Peck",
+					"id": 44943398,
+					"id_str": "44943398",
+					"indices": [
+						53,
+						64
+					]
+				},
+				{
+					"screen_name": "theRCN",
+					"name": "The RCN",
+					"id": 54506896,
+					"id_str": "54506896",
+					"indices": [
+						65,
+						72
+					]
+				},
+				{
+					"screen_name": "JessLSainsbury",
+					"name": "Jessica Sainsbury 💙",
+					"id": 20992039,
+					"id_str": "20992039",
+					"indices": [
+						73,
+						88
+					]
+				},
+				{
+					"screen_name": "MattHancock",
+					"name": "Matt Hancock",
+					"id": 19825835,
+					"id_str": "19825835",
+					"indices": [
+						89,
+						101
+					]
+				},
+				{
+					"screen_name": "RCNWestMids",
+					"name": "RCN West Midlands",
+					"id": 872830994268737500,
+					"id_str": "872830994268737536",
+					"indices": [
+						102,
+						114
+					]
+				},
+				{
+					"screen_name": "nurses_united",
+					"name": "Nurses United UK",
+					"id": 1206175062447001600,
+					"id_str": "1206175062447001601",
+					"indices": [
+						115,
+						129
+					]
+				},
+				{
+					"screen_name": "StuartTuckwood",
+					"name": "Stuart Tuckwood",
+					"id": 2507613433,
+					"id_str": "2507613433",
+					"indices": [
+						130,
+						145
+					]
+				},
+				{
+					"screen_name": "teamCNO_",
+					"name": "teamCNO 💙",
+					"id": 569003724,
+					"id_str": "569003724",
+					"indices": [
+						146,
+						155
+					]
+				},
+				{
+					"screen_name": "NurseStandard",
+					"name": "Nursing Standard",
+					"id": 20353120,
+					"id_str": "20353120",
+					"indices": [
+						156,
+						170
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1284478222541959200,
+		"in_reply_to_status_id_str": "1284478222541959169",
+		"in_reply_to_user_id": 102171967,
+		"in_reply_to_user_id_str": "102171967",
+		"in_reply_to_screen_name": "STJTurnface",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ @HLA_int Scholar ▪️#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2169,
+			"friends_count": 3431,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18039,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1595186136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@STJTurnface @CraigDavidson85 @GrahamR64 @NHSRajneet @HannahPeck @theRCN @JessLSainsbury @MattHancock @RCNWestMids @nurses_united @StuartTuckwood @teamCNO_ @NurseStandard That’s not true?! \nPreceptorship is heterogenous throughout England for AHPs. We receive the pay increment at Y2 like nurses (AFC).\n\nYou apply for a B6 Role when you are ready..."
+	},
+	{
 		"created_at": "Sat Jul 18 15:51:07 +0000 2020",
 		"id": 1284516054631424000,
 		"id_str": "1284516054631424004",
