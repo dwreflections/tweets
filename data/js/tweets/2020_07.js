@@ -1,6 +1,119 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 23 07:34:58 +0000 2020",
+		"id": 1286203135153909800,
+		"id_str": "1286203135153909762",
+		"full_text": "@stuartgpalma @D_MARSDEN_OT @VictoriaDicken4 Thank you for listening ✨\n\nI have already ordered it! 📦 👍",
+		"truncated": false,
+		"display_text_range": [
+			45,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stuartgpalma",
+					"name": "Stuart Palma",
+					"id": 468241231,
+					"id_str": "468241231",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "D_MARSDEN_OT",
+					"name": "#hellomynameis David",
+					"id": 1443180984,
+					"id_str": "1443180984",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "VictoriaDicken4",
+					"name": "Victoria Dickens MBE",
+					"id": 3176148412,
+					"id_str": "3176148412",
+					"indices": [
+						28,
+						44
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1286031875681779700,
+		"in_reply_to_status_id_str": "1286031875681779714",
+		"in_reply_to_user_id": 468241231,
+		"in_reply_to_user_id_str": "468241231",
+		"in_reply_to_screen_name": "stuartgpalma",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ @HLA_int Scholar ▪️#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2176,
+			"friends_count": 3447,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6214,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1595186136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@stuartgpalma @D_MARSDEN_OT @VictoriaDicken4 Thank you for listening ✨\n\nI have already ordered it! 📦 👍"
+	},
+	{
 		"created_at": "Wed Jul 22 19:03:24 +0000 2020",
 		"id": 1286013995384791000,
 		"id_str": "1286013995384791040",
