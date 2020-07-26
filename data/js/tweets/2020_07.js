@@ -1,6 +1,542 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 25 13:14:45 +0000 2020",
+		"id": 1287013419191865300,
+		"id_str": "1287013419191865344",
+		"full_text": "Congratulations @KhaiSengCheng !!!\n\nWell deserved! ✨ https://t.co/xmB5GjL4Y4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KhaiSengCheng",
+					"name": "Cheng Khai Seng (a.k.a. Khai)",
+					"id": 963856216421208000,
+					"id_str": "963856216421208072",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xmB5GjL4Y4",
+					"expanded_url": "https://twitter.com/uniofnottingham/status/1286642672283910151",
+					"display_url": "twitter.com/uniofnottingha…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ @HLA_int Scholar ▪️#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2176,
+			"friends_count": 3450,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18114,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6217,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1595186136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1286642672283910100,
+		"quoted_status_id_str": "1286642672283910151",
+		"quoted_status_permalink": {
+			"url": "https://t.co/xmB5GjL4Y4",
+			"expanded": "https://twitter.com/uniofnottingham/status/1286642672283910151",
+			"display": "twitter.com/uniofnottingha…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 24 12:41:32 +0000 2020",
+			"id": 1286642672283910100,
+			"id_str": "1286642672283910151",
+			"full_text": "Congrats to @khaisengcheng - BSc (Hons) Physiotherapy, described as \"very enthusiastic, a great motivator and great fun to work with\" #WeAreUoN \n\nhttps://t.co/JVyVqsT6lP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				169
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WeAreUoN",
+						"indices": [
+							134,
+							143
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KhaiSengCheng",
+						"name": "Cheng Khai Seng (a.k.a. Khai)",
+						"id": 963856216421208000,
+						"id_str": "963856216421208072",
+						"indices": [
+							12,
+							26
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/JVyVqsT6lP",
+						"expanded_url": "https://youtu.be/27Qv79c7V-A",
+						"display_url": "youtu.be/27Qv79c7V-A",
+						"indices": [
+							146,
+							169
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": 1286641637251260400,
+			"in_reply_to_status_id_str": "1286641637251260419",
+			"in_reply_to_user_id": 30196565,
+			"in_reply_to_user_id_str": "30196565",
+			"in_reply_to_screen_name": "UniofNottingham",
+			"user": {
+				"id": 30196565,
+				"id_str": "30196565",
+				"name": "Uni of Nottingham #WeAreUoN",
+				"screen_name": "UniofNottingham",
+				"location": "Nottingham",
+				"description": "The official University of Nottingham Twitter, a pioneering university that transforms the lives of our 45,000 students at campuses in the UK, China, Malaysia.",
+				"url": "https://t.co/VDjMiBy6ui",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VDjMiBy6ui",
+								"expanded_url": "https://www.nottingham.ac.uk/Coronavirus/index.aspx",
+								"display_url": "nottingham.ac.uk/Coronavirus/in…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 87139,
+				"friends_count": 3703,
+				"listed_count": 962,
+				"created_at": "Fri Apr 10 10:47:34 +0000 2009",
+				"favourites_count": 38585,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 42178,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1278315325281443843/9CVHv2OV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1278315325281443843/9CVHv2OV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/30196565/1578922796",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6F6F6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations @KhaiSengCheng !!!\n\nWell deserved! ✨ https://t.co/xmB5GjL4Y4"
+	},
+	{
+		"created_at": "Sat Jul 25 13:13:47 +0000 2020",
+		"id": 1286709160013422600,
+		"id_str": "1287013178359066624",
+		"full_text": "*PLACEMENTS DURING THE PANDEMIC - @physio_back\n* Giving students experiencing placements during #COVID a space to share their learning – today’s post is from David &amp; how he juggled family life, to get the most out of his online MSK, case study based placement 👍 https://t.co/K6395kIxJ1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID",
+					"indices": [
+						96,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "physio_back",
+					"name": "ThePhysioBack",
+					"id": 1048100165582839800,
+					"id_str": "1048100165582839808",
+					"indices": [
+						34,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1286709132037361700,
+					"id_str": "1286709132037361665",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/EdtPI2hWkAEzXBE.png",
+					"media_url_https": "https://pbs.twimg.com/media/EdtPI2hWkAEzXBE.png",
+					"url": "https://t.co/K6395kIxJ1",
+					"display_url": "pic.twitter.com/K6395kIxJ1",
+					"expanded_url": "https://twitter.com/PMFirstSteps/status/1286709160013422592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1286709132037361700,
+					"id_str": "1286709132037361665",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/EdtPI2hWkAEzXBE.png",
+					"media_url_https": "https://pbs.twimg.com/media/EdtPI2hWkAEzXBE.png",
+					"url": "https://t.co/K6395kIxJ1",
+					"display_url": "pic.twitter.com/K6395kIxJ1",
+					"expanded_url": "https://twitter.com/PMFirstSteps/status/1286709160013422592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				},
+				{
+					"id": 1286709132083572700,
+					"id_str": "1286709132083572741",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/EdtPI2sXsAU5xM_.png",
+					"media_url_https": "https://pbs.twimg.com/media/EdtPI2sXsAU5xM_.png",
+					"url": "https://t.co/K6395kIxJ1",
+					"display_url": "pic.twitter.com/K6395kIxJ1",
+					"expanded_url": "https://twitter.com/PMFirstSteps/status/1286709160013422592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1286709132066775000,
+					"id_str": "1286709132066775046",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/EdtPI2oXYAY7UFm.png",
+					"media_url_https": "https://pbs.twimg.com/media/EdtPI2oXYAY7UFm.png",
+					"url": "https://t.co/K6395kIxJ1",
+					"display_url": "pic.twitter.com/K6395kIxJ1",
+					"expanded_url": "https://twitter.com/PMFirstSteps/status/1286709160013422592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1286709132205097000,
+					"id_str": "1286709132205096960",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/EdtPI3JWAAAsOqD.png",
+					"media_url_https": "https://pbs.twimg.com/media/EdtPI3JWAAAsOqD.png",
+					"url": "https://t.co/K6395kIxJ1",
+					"display_url": "pic.twitter.com/K6395kIxJ1",
+					"expanded_url": "https://twitter.com/PMFirstSteps/status/1286709160013422592/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 840861722286137300,
+			"id_str": "840861722286137349",
+			"name": "Physio Matters First Steps",
+			"screen_name": "PMFirstSteps",
+			"location": "",
+			"description": "Run by/for therapy students & new grads.\nExplore those “stupid” questions, build connections & share experiences.\nSupported by @TPMPodcast\nNewsletter ⬇",
+			"url": "https://t.co/tq9vjQsSVt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tq9vjQsSVt",
+							"expanded_url": "https://mailchi.mp/e343b3da2651/firs-steps",
+							"display_url": "mailchi.mp/e343b3da2651/f…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 910,
+			"friends_count": 83,
+			"listed_count": 5,
+			"created_at": "Sun Mar 12 09:47:11 +0000 2017",
+			"favourites_count": 669,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273929840358555652/mP6SWVq7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273929840358555652/mP6SWVq7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/840861722286137349/1592563518",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "*PLACEMENTS DURING THE PANDEMIC - @physio_back\n* Giving students experiencing placements during #COVID a space to share their learning – today’s post is from David &amp; how he juggled family life, to get the most out of his online MSK, case study based placement 👍 https://t.co/K6395kIxJ1"
+	},
+	{
 		"created_at": "Thu Jul 23 07:34:58 +0000 2020",
 		"id": 1286203135153909800,
 		"id_str": "1286203135153909762",
