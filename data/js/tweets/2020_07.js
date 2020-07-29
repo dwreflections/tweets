@@ -1,6 +1,178 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Tue Jul 28 20:19:08 +0000 2020",
+		"id": 1288205931331948500,
+		"id_str": "1288207382326267906",
+		"full_text": "All smiles after we just finished recording our first video for @PMFirstSteps - a short (ish) , informal chat on all things CPD and what we’ve learned! Some great points discussed and I can’t wait for us to get this uploaded 🤩 Good work team 👏 https://t.co/7X9TRzobI8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PMFirstSteps",
+					"name": "Physio Matters First Steps",
+					"id": 840861722286137300,
+					"id_str": "840861722286137349",
+					"indices": [
+						64,
+						77
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1288205926458101800,
+					"id_str": "1288205926458101763",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/EeCgdwQWkAMJaTx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeCgdwQWkAMJaTx.jpg",
+					"url": "https://t.co/7X9TRzobI8",
+					"display_url": "pic.twitter.com/7X9TRzobI8",
+					"expanded_url": "https://twitter.com/chloedooley99/status/1288205931331948545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1204,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 705,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1288205926458101800,
+					"id_str": "1288205926458101763",
+					"indices": [
+						244,
+						267
+					],
+					"media_url": "http://pbs.twimg.com/media/EeCgdwQWkAMJaTx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeCgdwQWkAMJaTx.jpg",
+					"url": "https://t.co/7X9TRzobI8",
+					"display_url": "pic.twitter.com/7X9TRzobI8",
+					"expanded_url": "https://twitter.com/chloedooley99/status/1288205931331948545/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1204,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 705,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1091970360633897000,
+			"id_str": "1091970360633896960",
+			"name": "Chloe Dooley",
+			"screen_name": "chloedooley99",
+			"location": "",
+			"description": "New Graduate Physiotherapist / @CSPWales New Grad Rep  / Team member @PMfirststeps / Cardiff Uni Alumni / Endurance athlete 🏃🏽‍♀️/ all views are my own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 510,
+			"friends_count": 366,
+			"listed_count": 3,
+			"created_at": "Sun Feb 03 08:03:16 +0000 2019",
+			"favourites_count": 3062,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1666,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1263918393427668995/x3V6aBf-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1263918393427668995/x3V6aBf-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1091970360633896960/1564761474",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All smiles after we just finished recording our first video for @PMFirstSteps - a short (ish) , informal chat on all things CPD and what we’ve learned! Some great points discussed and I can’t wait for us to get this uploaded 🤩 Good work team 👏 https://t.co/7X9TRzobI8"
+	},
+	{
 		"created_at": "Sat Jul 25 13:14:45 +0000 2020",
 		"id": 1287013419191865300,
 		"id_str": "1287013419191865344",
