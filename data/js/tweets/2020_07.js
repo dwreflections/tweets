@@ -1,6 +1,338 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Wed Jul 29 17:21:01 +0000 2020",
+		"id": 1288524948022202400,
+		"id_str": "1288524948022202368",
+		"full_text": "@AHPLeader @CollegePodiatry @CSullivanCSP @NaomiMcVey @Bruneluni Looking forward to this 👍",
+		"truncated": false,
+		"display_text_range": [
+			65,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AHPLeader",
+					"name": "rachael moses",
+					"id": 107548705,
+					"id_str": "107548705",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "CollegePodiatry",
+					"name": "The College of Podiatry",
+					"id": 61458620,
+					"id_str": "61458620",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "CSullivanCSP",
+					"name": "Claire Sullivan",
+					"id": 2435127626,
+					"id_str": "2435127626",
+					"indices": [
+						28,
+						41
+					]
+				},
+				{
+					"screen_name": "NaomiMcVey",
+					"name": "Naomi McVey 🐝",
+					"id": 197141049,
+					"id_str": "197141049",
+					"indices": [
+						42,
+						53
+					]
+				},
+				{
+					"screen_name": "Bruneluni",
+					"name": "Brunel University London",
+					"id": 46377850,
+					"id_str": "46377850",
+					"indices": [
+						54,
+						64
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1287451231481401300,
+		"in_reply_to_status_id_str": "1287451231481401345",
+		"in_reply_to_user_id": 107548705,
+		"in_reply_to_user_id_str": "107548705",
+		"in_reply_to_screen_name": "AHPLeader",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ @HLA_int Scholar ▪️#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2181,
+			"friends_count": 3462,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1595186136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AHPLeader @CollegePodiatry @CSullivanCSP @NaomiMcVey @Bruneluni Looking forward to this 👍"
+	},
+	{
+		"created_at": "Wed Jul 29 17:02:53 +0000 2020",
+		"id": 1288508961256333300,
+		"id_str": "1288520384288108548",
+		"full_text": "🗳️ Vote now and have your say on the four pillars of physiotherapy practice. https://t.co/6qKPuEUHrT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6qKPuEUHrT",
+					"expanded_url": "https://bit.ly/3fWe9dd",
+					"display_url": "bit.ly/3fWe9dd",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 138098880,
+			"id_str": "138098880",
+			"name": "Chartered Society of Physiotherapy",
+			"screen_name": "thecsp",
+			"location": "United Kingdom",
+			"description": "Chartered Society of Physiotherapy (CSP) - the professional, educational and union body for 59,000 UK-chartered physiotherapists, students and support workers.",
+			"url": "https://t.co/0zvCGRCWPh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0zvCGRCWPh",
+							"expanded_url": "http://www.csp.org.uk",
+							"display_url": "csp.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 52372,
+			"friends_count": 1349,
+			"listed_count": 334,
+			"created_at": "Wed Apr 28 16:27:18 +0000 2010",
+			"favourites_count": 5766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E3DC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902851531388534785/RRRJKVa0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902851531388534785/RRRJKVa0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/138098880/1582703122",
+			"profile_link_color": "252673",
+			"profile_sidebar_border_color": "C9C9C9",
+			"profile_sidebar_fill_color": "E3E3E3",
+			"profile_text_color": "757575",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🗳️ Vote now and have your say on the four pillars of physiotherapy practice. https://t.co/6qKPuEUHrT"
+	},
+	{
+		"created_at": "Wed Jul 29 15:06:37 +0000 2020",
+		"id": 1288491125154750500,
+		"id_str": "1288491125154750464",
+		"full_text": "@RN_Abigail Has to be a Fountain pen! 🖊",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RN_Abigail",
+					"name": "#hellomynameis Abi RN she/her",
+					"id": 703212057156579300,
+					"id_str": "703212057156579328",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1288451370182414300,
+		"in_reply_to_status_id_str": "1288451370182414343",
+		"in_reply_to_user_id": 703212057156579300,
+		"in_reply_to_user_id_str": "703212057156579328",
+		"in_reply_to_screen_name": "RN_Abigail",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ @HLA_int Scholar ▪️#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2181,
+			"friends_count": 3462,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18157,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6223,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1595186136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RN_Abigail Has to be a Fountain pen! 🖊"
+	},
+	{
 		"created_at": "Tue Jul 28 20:19:08 +0000 2020",
 		"id": 1288205931331948500,
 		"id_str": "1288207382326267906",
@@ -117,7 +449,7 @@ Grailbird.data.tweets_2020_07 =
 			"name": "Chloe Dooley",
 			"screen_name": "chloedooley99",
 			"location": "",
-			"description": "New Graduate Physiotherapist / @CSPWales New Grad Rep  / Team member @PMfirststeps / Cardiff Uni Alumni / Endurance athlete 🏃🏽‍♀️/ all views are my own",
+			"description": "New Graduate Physiotherapist / @CSPWales New Grad Rep  / Team member @PMfirststeps / Cardiff Uni Alumni / Endurance athlete 🏃🏽♀️/ all views are my own",
 			"url": null,
 			"entities": {
 				"description": {
