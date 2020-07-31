@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Thu Jul 30 16:01:56 +0000 2020",
+		"id": 1288867102779158500,
+		"id_str": "1288867431650332672",
+		"full_text": "\"A recent highlight was walking a #Covid-19 survivor off the ward to a guard of honour. He had spent over ten weeks in hospital and could now return home to his family.\" David is a #RotationalPhysiotherapist.\n\nRead his story: https://t.co/hQUEC1rhgT\n\n@beardedPT @UHDBTrust @thecsp https://t.co/yMysG2TyyR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Covid",
+					"indices": [
+						34,
+						40
+					]
+				},
+				{
+					"text": "RotationalPhysiotherapist",
+					"indices": [
+						181,
+						207
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						251,
+						261
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						262,
+						272
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						273,
+						280
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/hQUEC1rhgT",
+					"expanded_url": "http://orlo.uk/WHYBP",
+					"display_url": "orlo.uk/WHYBP",
+					"indices": [
+						226,
+						249
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1288867100832993300,
+					"id_str": "1288867100832993280",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EeL5zKvWkAAt9jE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeL5zKvWkAAt9jE.jpg",
+					"url": "https://t.co/yMysG2TyyR",
+					"display_url": "pic.twitter.com/yMysG2TyyR",
+					"expanded_url": "https://twitter.com/HealthCareersUK/status/1288867102779158529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1288867100832993300,
+					"id_str": "1288867100832993280",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EeL5zKvWkAAt9jE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EeL5zKvWkAAt9jE.jpg",
+					"url": "https://t.co/yMysG2TyyR",
+					"display_url": "pic.twitter.com/yMysG2TyyR",
+					"expanded_url": "https://twitter.com/HealthCareersUK/status/1288867102779158529/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://orlo.tech\" rel=\"nofollow\">Orlo</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 198861182,
+			"id_str": "198861182",
+			"name": "Health Careers",
+			"screen_name": "HealthCareersUK",
+			"location": "England",
+			"description": "Health Careers offers information on the career opportunities in health. Managed by @nhs_healthedeng. Retweets etc do not equal endorsements.",
+			"url": "https://t.co/CL30jXUCxC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CL30jXUCxC",
+							"expanded_url": "http://healthcareers.nhs.uk",
+							"display_url": "healthcareers.nhs.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21716,
+			"friends_count": 1059,
+			"listed_count": 249,
+			"created_at": "Tue Oct 05 12:54:22 +0000 2010",
+			"favourites_count": 7608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 8895,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1275424413878534150/sER_J7qB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275424413878534150/sER_J7qB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/198861182/1594229655",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"A recent highlight was walking a #Covid-19 survivor off the ward to a guard of honour. He had spent over ten weeks in hospital and could now return home to his family.\" David is a #RotationalPhysiotherapist.\n\nRead his story: https://t.co/hQUEC1rhgT\n\n@beardedPT @UHDBTrust @thecsp https://t.co/yMysG2TyyR"
+	},
+	{
 		"created_at": "Wed Jul 29 17:21:01 +0000 2020",
 		"id": 1288524948022202400,
 		"id_str": "1288524948022202368",
