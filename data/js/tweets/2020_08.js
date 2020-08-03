@@ -1,6 +1,190 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sun Aug 02 17:12:26 +0000 2020",
+		"id": 1289971714588176400,
+		"id_str": "1289972339648520193",
+		"full_text": "OUR FIRST VIDEO IS LIVE 🎥\n\nhttps://t.co/70k8sEYCpH\n\nWe decided to tackle the topic of CPD covering what it is, what we learned as students and how to make sure it’s relevant and personal to your learning ✅\n\nLet us know your CPD tips for students below ⬇️ https://t.co/Ldk6VlS1P9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/70k8sEYCpH",
+					"expanded_url": "https://youtu.be/aV3yJzYDjqg",
+					"display_url": "youtu.be/aV3yJzYDjqg",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1289971709689331700,
+					"id_str": "1289971709689331712",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/Eebmb3ZWAAAUwjn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eebmb3ZWAAAUwjn.jpg",
+					"url": "https://t.co/Ldk6VlS1P9",
+					"display_url": "pic.twitter.com/Ldk6VlS1P9",
+					"expanded_url": "https://twitter.com/PMFirstSteps/status/1289971714588176385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1289971709689331700,
+					"id_str": "1289971709689331712",
+					"indices": [
+						255,
+						278
+					],
+					"media_url": "http://pbs.twimg.com/media/Eebmb3ZWAAAUwjn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eebmb3ZWAAAUwjn.jpg",
+					"url": "https://t.co/Ldk6VlS1P9",
+					"display_url": "pic.twitter.com/Ldk6VlS1P9",
+					"expanded_url": "https://twitter.com/PMFirstSteps/status/1289971714588176385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 840861722286137300,
+			"id_str": "840861722286137349",
+			"name": "Physio Matters First Steps",
+			"screen_name": "PMFirstSteps",
+			"location": "",
+			"description": "Run by/for therapy students & new grads.\nExplore those “stupid” questions, build connections & share experiences.\nSupported by @TPMPodcast\nNewsletter ⬇",
+			"url": "https://t.co/tq9vjQsSVt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tq9vjQsSVt",
+							"expanded_url": "https://mailchi.mp/e343b3da2651/firs-steps",
+							"display_url": "mailchi.mp/e343b3da2651/f…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 970,
+			"friends_count": 89,
+			"listed_count": 5,
+			"created_at": "Sun Mar 12 09:47:11 +0000 2017",
+			"favourites_count": 726,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 228,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273929840358555652/mP6SWVq7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273929840358555652/mP6SWVq7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/840861722286137349/1592563518",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OUR FIRST VIDEO IS LIVE 🎥\n\nhttps://t.co/70k8sEYCpH\n\nWe decided to tackle the topic of CPD covering what it is, what we learned as students and how to make sure it’s relevant and personal to your learning ✅\n\nLet us know your CPD tips for students below ⬇️ https://t.co/Ldk6VlS1P9"
+	},
+	{
 		"created_at": "Sat Aug 01 17:40:11 +0000 2020",
 		"id": 1289616933189427200,
 		"id_str": "1289616933189427200",
@@ -200,7 +384,7 @@ Grailbird.data.tweets_2020_08 =
 		"created_at": "Sat Aug 01 15:13:55 +0000 2020",
 		"id": 1289580122824233000,
 		"id_str": "1289580122824232961",
-		"full_text": "Free to a good home 🏡 😉🤷‍♂️ https://t.co/9BIF0vgSJo",
+		"full_text": "Free to a good home 🏡 😉🤷♂️ https://t.co/9BIF0vgSJo",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -355,7 +539,7 @@ Grailbird.data.tweets_2020_08 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Free to a good home 🏡 😉🤷‍♂️ https://t.co/9BIF0vgSJo"
+		"text": "Free to a good home 🏡 😉🤷♂️ https://t.co/9BIF0vgSJo"
 	},
 	{
 		"created_at": "Sat Aug 01 14:13:43 +0000 2020",
@@ -759,7 +943,7 @@ Grailbird.data.tweets_2020_08 =
 			"created_at": "Thu Jul 30 07:02:23 +0000 2020",
 			"id": 1288731649006502000,
 			"id_str": "1288731649006501889",
-			"full_text": "Looking forward to reading ⬇️\n\n'We are the #NHS : People Plan 20/21'\n\n🤗 Looking after our people\n\n🙋🏼‍♀️🙋🏾‍♂️🙋🏻‍♂️Belonging in the NHS\n\n🏘️ New ways of working\n\n🌱 Growing for the future\n\nEssential reading @WeAHPs 🚨\n\n#Ournhspeople #AHPLeadership \n\nhttps://t.co/tq19UEoZpn https://t.co/hvvn69hVvw",
+			"full_text": "Looking forward to reading ⬇️\n\n'We are the #NHS : People Plan 20/21'\n\n🤗 Looking after our people\n\n🙋🏼♀️🙋🏾♂️🙋🏻♂️Belonging in the NHS\n\n🏘️ New ways of working\n\n🌱 Growing for the future\n\nEssential reading @WeAHPs 🚨\n\n#Ournhspeople #AHPLeadership \n\nhttps://t.co/tq19UEoZpn https://t.co/hvvn69hVvw",
 			"truncated": false,
 			"display_text_range": [
 				0,
