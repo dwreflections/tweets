@@ -1,6 +1,259 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 07 16:30:45 +0000 2020",
+		"id": 1291773788422643700,
+		"id_str": "1291773788422643715",
+		"full_text": "@GatesPhysio @BroomEPhysio @exerciseworks @CSPLondon @honest_physio @AHPLeader @bendotellis @Connect2Physio @ChrisMartey @Manni_O @PMFirstSteps @JghPhysio @LCphysio @MRWPhysio @stevenawoor @rosiephysio @consultantPT ✅",
+		"truncated": false,
+		"display_text_range": [
+			216,
+			217
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GatesPhysio",
+					"name": "John Gates 😷",
+					"id": 451401278,
+					"id_str": "451401278",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "BroomEPhysio",
+					"name": "Emily Broomfield",
+					"id": 1278990004665147400,
+					"id_str": "1278990004665147392",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "exerciseworks",
+					"name": "Exercise Works! 💙",
+					"id": 256921454,
+					"id_str": "256921454",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"screen_name": "CSPLondon",
+					"name": "Physiotherapy",
+					"id": 251678811,
+					"id_str": "251678811",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"screen_name": "honest_physio",
+					"name": "The H🧐nest Physio",
+					"id": 1020890565666205700,
+					"id_str": "1020890565666205696",
+					"indices": [
+						53,
+						67
+					]
+				},
+				{
+					"screen_name": "AHPLeader",
+					"name": "rachael moses",
+					"id": 107548705,
+					"id_str": "107548705",
+					"indices": [
+						68,
+						78
+					]
+				},
+				{
+					"screen_name": "bendotellis",
+					"name": "Ben Ellis",
+					"id": 424907352,
+					"id_str": "424907352",
+					"indices": [
+						79,
+						91
+					]
+				},
+				{
+					"screen_name": "Connect2Physio",
+					"name": "Connect2Physio",
+					"id": 1266685426523406300,
+					"id_str": "1266685426523406337",
+					"indices": [
+						92,
+						107
+					]
+				},
+				{
+					"screen_name": "ChrisMartey",
+					"name": "Chris Martey",
+					"id": 326098261,
+					"id_str": "326098261",
+					"indices": [
+						108,
+						120
+					]
+				},
+				{
+					"screen_name": "Manni_O",
+					"name": "Emmanuel Ovola",
+					"id": 57151739,
+					"id_str": "57151739",
+					"indices": [
+						121,
+						129
+					]
+				},
+				{
+					"screen_name": "PMFirstSteps",
+					"name": "Physio Matters First Steps",
+					"id": 840861722286137300,
+					"id_str": "840861722286137349",
+					"indices": [
+						130,
+						143
+					]
+				},
+				{
+					"screen_name": "JghPhysio",
+					"name": "Jack Gladstone Holroyde 🏳️‍🌈🏳️‍⚧️✊🏽",
+					"id": 1046818903337422800,
+					"id_str": "1046818903337422849",
+					"indices": [
+						144,
+						154
+					]
+				},
+				{
+					"screen_name": "LCphysio",
+					"name": "Lucy Cocker",
+					"id": 332215996,
+					"id_str": "332215996",
+					"indices": [
+						155,
+						164
+					]
+				},
+				{
+					"screen_name": "MRWPhysio",
+					"name": "Matthew Wyatt",
+					"id": 863516326723301400,
+					"id_str": "863516326723301377",
+					"indices": [
+						165,
+						175
+					]
+				},
+				{
+					"screen_name": "stevenawoor",
+					"name": "Steve Nawoor",
+					"id": 91512796,
+					"id_str": "91512796",
+					"indices": [
+						176,
+						188
+					]
+				},
+				{
+					"screen_name": "rosiephysio",
+					"name": "Rosie Wills",
+					"id": 702848940220227600,
+					"id_str": "702848940220227585",
+					"indices": [
+						189,
+						201
+					]
+				},
+				{
+					"screen_name": "consultantPT",
+					"name": "Uzo Ehiogu",
+					"id": 1039521456,
+					"id_str": "1039521456",
+					"indices": [
+						202,
+						215
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1291768715797823500,
+		"in_reply_to_status_id_str": "1291768715797823489",
+		"in_reply_to_user_id": 451401278,
+		"in_reply_to_user_id_str": "451401278",
+		"in_reply_to_screen_name": "GatesPhysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist ▪️Professional Committee Member at the Chartered Society of Physiotherapy ▪️ @HLA_int Scholar ▪️#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2196,
+			"friends_count": 3480,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1595186136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@GatesPhysio @BroomEPhysio @exerciseworks @CSPLondon @honest_physio @AHPLeader @bendotellis @Connect2Physio @ChrisMartey @Manni_O @PMFirstSteps @JghPhysio @LCphysio @MRWPhysio @stevenawoor @rosiephysio @consultantPT ✅"
+	},
+	{
 		"created_at": "Thu Aug 06 17:28:11 +0000 2020",
 		"id": 1291425851133898800,
 		"id_str": "1291425851133898763",
