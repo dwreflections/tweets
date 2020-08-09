@@ -1,6 +1,128 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 08 09:14:50 +0000 2020",
+		"id": 1292020147667046400,
+		"id_str": "1292026473021415424",
+		"full_text": "Emerging leaders Podcasts\n\nChanging the culture of conversation of conversation about race &amp; ethnicity\n\nVideos on YouTube\n\nEmerging Leaders Part 1 https://t.co/BBTEUOKKrL\n \nEmerging Leaders Part 2 https://t.co/DXwIhD9WWs\n \nEmerging Leaders Part 3 https://t.co/rIYbcs4z8K\n \n@WeAHPs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs 💙",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						277,
+						284
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BBTEUOKKrL",
+					"expanded_url": "https://youtu.be/ADvJQM7i28E",
+					"display_url": "youtu.be/ADvJQM7i28E",
+					"indices": [
+						151,
+						174
+					]
+				},
+				{
+					"url": "https://t.co/DXwIhD9WWs",
+					"expanded_url": "https://youtu.be/3MInvqIX2Cc",
+					"display_url": "youtu.be/3MInvqIX2Cc",
+					"indices": [
+						201,
+						224
+					]
+				},
+				{
+					"url": "https://t.co/rIYbcs4z8K",
+					"expanded_url": "https://youtu.be/jYPtsDrIt_4",
+					"display_url": "youtu.be/jYPtsDrIt_4",
+					"indices": [
+						251,
+						274
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 107548705,
+			"id_str": "107548705",
+			"name": "rachael moses",
+			"screen_name": "AHPLeader",
+			"location": "London, England",
+			"description": "Associate Director Rehabilitation & Therapies @RBandH, #CSPCouncil, MultiMedia Editor @thoraxBMJ, Volunteer Co-ordinator @MedicalAidPal #Inclusion #Diversity 🌈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15941,
+			"friends_count": 1505,
+			"listed_count": 54,
+			"created_at": "Fri Jan 22 23:15:52 +0000 2010",
+			"favourites_count": 17466,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 13538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1154461452197126145/H1AzB9z5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154461452197126145/H1AzB9z5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/107548705/1493115352",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Emerging leaders Podcasts\n\nChanging the culture of conversation of conversation about race &amp; ethnicity\n\nVideos on YouTube\n\nEmerging Leaders Part 1 https://t.co/BBTEUOKKrL\n \nEmerging Leaders Part 2 https://t.co/DXwIhD9WWs\n \nEmerging Leaders Part 3 https://t.co/rIYbcs4z8K\n \n@WeAHPs"
+	},
+	{
 		"created_at": "Fri Aug 07 16:30:45 +0000 2020",
 		"id": 1291773788422643700,
 		"id_str": "1291773788422643715",
@@ -126,7 +248,7 @@ Grailbird.data.tweets_2020_08 =
 				},
 				{
 					"screen_name": "JghPhysio",
-					"name": "Jack Gladstone Holroyde 🏳️‍🌈🏳️‍⚧️✊🏽",
+					"name": "Jack Gladstone Holroyde 🏳️🌈🏳️⚧️✊🏽",
 					"id": 1046818903337422800,
 					"id_str": "1046818903337422849",
 					"indices": [
