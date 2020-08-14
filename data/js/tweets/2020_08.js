@@ -1,6 +1,908 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 13 19:28:50 +0000 2020",
+		"id": 1293863618837123000,
+		"id_str": "1293992929242030081",
+		"full_text": "The HLA:IDEAS application window has opened \n\nHLA:IDEAS, an incubator supporting social enterprises/non-profits, fostering healthcare leadership through innovation. Empowering healthcare professionals &amp; their ideas to achieve significant impact\n\nhttps://t.co/w3Th9aGHfa https://t.co/NC4v0Sx9re",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/w3Th9aGHfa",
+					"expanded_url": "https://thehealthcareleadership.academy/ideas/",
+					"display_url": "thehealthcareleadership.academy/ideas/",
+					"indices": [
+						250,
+						273
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1290390898786873300,
+					"id_str": "1290390898786873346",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/Eehjr4eWsAI1_6k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eehjr4eWsAI1_6k.jpg",
+					"url": "https://t.co/NC4v0Sx9re",
+					"display_url": "pic.twitter.com/NC4v0Sx9re",
+					"expanded_url": "https://twitter.com/HLA_int/status/1293863618837123072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1290390898786873300,
+					"id_str": "1290390898786873346",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/Eehjr4eWsAI1_6k.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eehjr4eWsAI1_6k.jpg",
+					"url": "https://t.co/NC4v0Sx9re",
+					"display_url": "pic.twitter.com/NC4v0Sx9re",
+					"expanded_url": "https://twitter.com/HLA_int/status/1293863618837123072/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1000,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 809803519846993900,
+			"id_str": "809803519846993921",
+			"name": "The HLA",
+			"screen_name": "HLA_int",
+			"location": "",
+			"description": "The Healthcare Leadership Academy: \n🌱Nurturing leadership🌱\n💭Fostering frontline innovation💭\n⚡Empowering and valuing the next generation⚡",
+			"url": "https://t.co/84YgqZTCrl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/84YgqZTCrl",
+							"expanded_url": "http://thehealthcareleadership.academy",
+							"display_url": "thehealthcareleadership.academy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3022,
+			"friends_count": 0,
+			"listed_count": 15,
+			"created_at": "Fri Dec 16 16:52:59 +0000 2016",
+			"favourites_count": 4096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7711,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810983604406915073/2jjtK_O1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810983604406915073/2jjtK_O1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/809803519846993921/1590615561",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The HLA:IDEAS application window has opened \n\nHLA:IDEAS, an incubator supporting social enterprises/non-profits, fostering healthcare leadership through innovation. Empowering healthcare professionals &amp; their ideas to achieve significant impact\n\nhttps://t.co/w3Th9aGHfa https://t.co/NC4v0Sx9re"
+	},
+	{
+		"created_at": "Thu Aug 13 19:27:52 +0000 2020",
+		"id": 1293992685288804400,
+		"id_str": "1293992685288804358",
+		"full_text": "@JackAChew You can’t! Keep the 🚣‍♂️ too 👍",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JackAChew",
+					"name": "Jack Chew",
+					"id": 868558446,
+					"id_str": "868558446",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1293939153630040000,
+		"in_reply_to_status_id_str": "1293939153630040064",
+		"in_reply_to_user_id": 868558446,
+		"in_reply_to_user_id_str": "868558446",
+		"in_reply_to_screen_name": "JackAChew",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2212,
+			"friends_count": 3497,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18410,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1595186136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JackAChew You can’t! Keep the 🚣‍♂️ too 👍"
+	},
+	{
+		"created_at": "Thu Aug 13 17:42:04 +0000 2020",
+		"id": 1293966060811686000,
+		"id_str": "1293966060811685888",
+		"full_text": "@danlightkeeper Good to hear your still on your journey 😊👍",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "danlightkeeper",
+					"name": "Danny Garrod",
+					"id": 910585613589631000,
+					"id_str": "910585613589630976",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1293833276419973000,
+		"in_reply_to_status_id_str": "1293833276419973120",
+		"in_reply_to_user_id": 910585613589631000,
+		"in_reply_to_user_id_str": "910585613589630976",
+		"in_reply_to_screen_name": "danlightkeeper",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2212,
+			"friends_count": 3497,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18410,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1595186136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@danlightkeeper Good to hear your still on your journey 😊👍"
+	},
+	{
+		"created_at": "Thu Aug 13 12:08:36 +0000 2020",
+		"id": 1293882143978987500,
+		"id_str": "1293882143978987521",
+		"full_text": "I can also confirm we have signed @physio_back ... 🖊 \n\nThat’s 3 #150Leaders on the team 🤩 https://t.co/C5FMKnny3s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "150Leaders",
+					"indices": [
+						64,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "physio_back",
+					"name": "ThePhysioBack",
+					"id": 1048100165582839800,
+					"id_str": "1048100165582839808",
+					"indices": [
+						34,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1293882133988212700,
+					"id_str": "1293882133988212736",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EfTK8hGXgAAhJbD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EfTK8hGXgAAhJbD.jpg",
+					"url": "https://t.co/C5FMKnny3s",
+					"display_url": "pic.twitter.com/C5FMKnny3s",
+					"expanded_url": "https://twitter.com/beardedPT/status/1293882143978987521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 368,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1293882133988212700,
+					"id_str": "1293882133988212736",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EfTK8hGXgAAhJbD.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EfTK8hGXgAAhJbD.jpg",
+					"url": "https://t.co/C5FMKnny3s",
+					"display_url": "pic.twitter.com/C5FMKnny3s",
+					"expanded_url": "https://twitter.com/beardedPT/status/1293882143978987521/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 368,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 368,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 368,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							30,
+							23
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EfTK8hGXgAAhJbD.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1293290166665322500,
+		"in_reply_to_status_id_str": "1293290166665322500",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2212,
+			"friends_count": 3497,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18410,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1595186136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I can also confirm we have signed @physio_back ... 🖊 \n\nThat’s 3 #150Leaders on the team 🤩 https://t.co/C5FMKnny3s"
+	},
+	{
+		"created_at": "Thu Aug 13 12:05:32 +0000 2020",
+		"id": 1293821959831277600,
+		"id_str": "1293881370847182848",
+		"full_text": "Looks like 14 unis have #Clearing2020 clearing places for physiothepry pre reg courses, so everything to play for if you just missed your grades for your preferred programme or did better than expected and want to \"trade up\".",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Clearing2020",
+					"indices": [
+						24,
+						37
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 722676146,
+			"id_str": "722676146",
+			"name": "Rob Yeldham",
+			"screen_name": "RobYeldham",
+			"location": "London",
+			"description": "Transforming lives as strategy director @theCSP & vice-chair @WeAreARMA Found. Chart. PR. Like islands and wetlands. Only my views. RTs/likes no endorsement.",
+			"url": "https://t.co/0zvCGRCWPh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0zvCGRCWPh",
+							"expanded_url": "http://www.csp.org.uk",
+							"display_url": "csp.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6643,
+			"friends_count": 7303,
+			"listed_count": 152,
+			"created_at": "Sat Jul 28 19:09:12 +0000 2012",
+			"favourites_count": 157938,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 60890,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "022330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/919662388475039744/lR84f_M5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/919662388475039744/lR84f_M5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/722676146/1592642315",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 59,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Looks like 14 unis have #Clearing2020 clearing places for physiothepry pre reg courses, so everything to play for if you just missed your grades for your preferred programme or did better than expected and want to \"trade up\"."
+	},
+	{
+		"created_at": "Thu Aug 13 12:05:07 +0000 2020",
+		"id": 1293881267361067000,
+		"id_str": "1293881267361067011",
+		"full_text": "@JackAChew Will you be playing a frank zappa video?",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JackAChew",
+					"name": "Jack Chew",
+					"id": 868558446,
+					"id_str": "868558446",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1293479673159127000,
+		"in_reply_to_status_id_str": "1293479673159127040",
+		"in_reply_to_user_id": 868558446,
+		"in_reply_to_user_id_str": "868558446",
+		"in_reply_to_screen_name": "JackAChew",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2212,
+			"friends_count": 3497,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18410,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1595186136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JackAChew Will you be playing a frank zappa video?"
+	},
+	{
+		"created_at": "Thu Aug 13 12:04:43 +0000 2020",
+		"id": 1293881166857109500,
+		"id_str": "1293881166857109510",
+		"full_text": "@GatesPhysio @JackAChew @bendotellis @TPMPodcast @MSKReform @InBetaPhysio Loved this too - privilege to listen! Nice long form podcast.",
+		"truncated": false,
+		"display_text_range": [
+			74,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GatesPhysio",
+					"name": "John Gates 😷",
+					"id": 451401278,
+					"id_str": "451401278",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "JackAChew",
+					"name": "Jack Chew",
+					"id": 868558446,
+					"id_str": "868558446",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "bendotellis",
+					"name": "Ben Ellis",
+					"id": 424907352,
+					"id_str": "424907352",
+					"indices": [
+						24,
+						36
+					]
+				},
+				{
+					"screen_name": "TPMPodcast",
+					"name": "Physio Matters",
+					"id": 1914280350,
+					"id_str": "1914280350",
+					"indices": [
+						37,
+						48
+					]
+				},
+				{
+					"screen_name": "MSKReform",
+					"name": "MSKReform",
+					"id": 1173641102701793300,
+					"id_str": "1173641102701793280",
+					"indices": [
+						49,
+						59
+					]
+				},
+				{
+					"screen_name": "InBetaPhysio",
+					"name": "In Beta Experiments in Physio education",
+					"id": 1206919206731681800,
+					"id_str": "1206919206731681792",
+					"indices": [
+						60,
+						73
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1292848900785737700,
+		"in_reply_to_status_id_str": "1292848900785737729",
+		"in_reply_to_user_id": 451401278,
+		"in_reply_to_user_id_str": "451401278",
+		"in_reply_to_screen_name": "GatesPhysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2212,
+			"friends_count": 3497,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18410,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6292,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1595186136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GatesPhysio @JackAChew @bendotellis @TPMPodcast @MSKReform @InBetaPhysio Loved this too - privilege to listen! Nice long form podcast."
+	},
+	{
 		"created_at": "Wed Aug 12 21:09:41 +0000 2020",
 		"id": 1293655922984845300,
 		"id_str": "1293655922984845312",
@@ -97,7 +999,7 @@ Grailbird.data.tweets_2020_08 =
 		"created_at": "Wed Aug 12 18:04:54 +0000 2020",
 		"id": 1293609420572762000,
 		"id_str": "1293609420572762112",
-		"full_text": "Shout out to all the #AHPsActive doing their bit tonight 🏃‍♂️ 🚿 https://t.co/wh7va199Al",
+		"full_text": "Shout out to all the #AHPsActive doing their bit tonight 🏃♂️ 🚿 https://t.co/wh7va199Al",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -273,7 +1175,7 @@ Grailbird.data.tweets_2020_08 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Shout out to all the #AHPsActive doing their bit tonight 🏃‍♂️ 🚿 https://t.co/wh7va199Al"
+		"text": "Shout out to all the #AHPsActive doing their bit tonight 🏃♂️ 🚿 https://t.co/wh7va199Al"
 	},
 	{
 		"created_at": "Tue Aug 11 21:14:15 +0000 2020",
