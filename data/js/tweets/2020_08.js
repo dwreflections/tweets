@@ -1,6 +1,427 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Fri Aug 14 12:13:11 +0000 2020",
+		"id": 1294245684405821400,
+		"id_str": "1294245684405821440",
+		"full_text": "Opportunities dashed &amp; the status quo remains... \n\nMy 💓 goes out to the class of 2020!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1294245683030118400,
+		"in_reply_to_status_id_str": "1294245683030118401",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2215,
+			"friends_count": 3500,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18425,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1595186136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Opportunities dashed &amp; the status quo remains... \n\nMy 💓 goes out to the class of 2020!"
+	},
+	{
+		"created_at": "Fri Aug 14 12:13:11 +0000 2020",
+		"id": 1294245683030118400,
+		"id_str": "1294245683030118401",
+		"full_text": "Great 2 c tweets of people having successful careers despite poor #ALevel  or circumstance but this yr is different! \n\nThose from the most disadvantaged background have had an algorithm strike down their hard work! \n#alevels2020 #FridayThoughts",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ALevel",
+					"indices": [
+						66,
+						73
+					]
+				},
+				{
+					"text": "alevels2020",
+					"indices": [
+						216,
+						228
+					]
+				},
+				{
+					"text": "FridayThoughts",
+					"indices": [
+						229,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2215,
+			"friends_count": 3500,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18425,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1595186136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Great 2 c tweets of people having successful careers despite poor #ALevel  or circumstance but this yr is different! \n\nThose from the most disadvantaged background have had an algorithm strike down their hard work! \n#alevels2020 #FridayThoughts"
+	},
+	{
+		"created_at": "Fri Aug 14 09:47:18 +0000 2020",
+		"id": 1294208970140393500,
+		"id_str": "1294208970140393472",
+		"full_text": "@JackAChew @bendotellis @jillfromrhyl @UoNPhysio @itsDHF When your allocated Louth or Boston.. @UoNPhysio https://t.co/e1GeyNjHTD",
+		"truncated": false,
+		"display_text_range": [
+			57,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JackAChew",
+					"name": "Jack Chew",
+					"id": 868558446,
+					"id_str": "868558446",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "bendotellis",
+					"name": "Ben Ellis",
+					"id": 424907352,
+					"id_str": "424907352",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "jillfromrhyl",
+					"name": "Jill Morgan",
+					"id": 2495961768,
+					"id_str": "2495961768",
+					"indices": [
+						24,
+						37
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						38,
+						48
+					]
+				},
+				{
+					"screen_name": "itsDHF",
+					"name": "Dave Ferraby",
+					"id": 748040044112388100,
+					"id_str": "748040044112388096",
+					"indices": [
+						49,
+						56
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						95,
+						105
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1294208962259300400,
+					"id_str": "1294208962259300353",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EfX0MbSXsAEuES5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EfX0MbSXsAEuES5.jpg",
+					"url": "https://t.co/e1GeyNjHTD",
+					"display_url": "pic.twitter.com/e1GeyNjHTD",
+					"expanded_url": "https://twitter.com/beardedPT/status/1294208970140393472/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 244,
+							"h": 174,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 174,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 244,
+							"h": 174,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294208962259300400,
+					"id_str": "1294208962259300353",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EfX0MbSXsAEuES5.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EfX0MbSXsAEuES5.jpg",
+					"url": "https://t.co/e1GeyNjHTD",
+					"display_url": "pic.twitter.com/e1GeyNjHTD",
+					"expanded_url": "https://twitter.com/beardedPT/status/1294208970140393472/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 244,
+							"h": 174,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 174,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 244,
+							"h": 174,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							122,
+							87
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EfX0MbSXsAEuES5.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1294178111530119200,
+		"in_reply_to_status_id_str": "1294178111530119168",
+		"in_reply_to_user_id": 868558446,
+		"in_reply_to_user_id_str": "868558446",
+		"in_reply_to_screen_name": "JackAChew",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2215,
+			"friends_count": 3500,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18425,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6296,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1595186136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@JackAChew @bendotellis @jillfromrhyl @UoNPhysio @itsDHF When your allocated Louth or Boston.. @UoNPhysio https://t.co/e1GeyNjHTD"
+	},
+	{
 		"created_at": "Thu Aug 13 19:28:50 +0000 2020",
 		"id": 1293863618837123000,
 		"id_str": "1293992929242030081",
@@ -188,7 +609,7 @@ Grailbird.data.tweets_2020_08 =
 		"created_at": "Thu Aug 13 19:27:52 +0000 2020",
 		"id": 1293992685288804400,
 		"id_str": "1293992685288804358",
-		"full_text": "@JackAChew You can’t! Keep the 🚣‍♂️ too 👍",
+		"full_text": "@JackAChew You can’t! Keep the 🚣♂️ too 👍",
 		"truncated": false,
 		"display_text_range": [
 			11,
@@ -275,7 +696,7 @@ Grailbird.data.tweets_2020_08 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@JackAChew You can’t! Keep the 🚣‍♂️ too 👍"
+		"text": "@JackAChew You can’t! Keep the 🚣♂️ too 👍"
 	},
 	{
 		"created_at": "Thu Aug 13 17:42:04 +0000 2020",
