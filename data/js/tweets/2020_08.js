@@ -1,6 +1,460 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Sat Aug 15 20:51:49 +0000 2020",
+		"id": 1294738587733438500,
+		"id_str": "1294738587733438465",
+		"full_text": "I’m terrible at these challenges so I’m stopping now - I know I’ve missed a few days. \n\nHowever, there’s nothing better than putting the world to rights with a close mate. #spinningdits https://t.co/h8zcetHpzq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "spinningdits",
+					"indices": [
+						172,
+						185
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1294738578283602000,
+					"id_str": "1294738578283601932",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EffV4IuWoAwSIgE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EffV4IuWoAwSIgE.jpg",
+					"url": "https://t.co/h8zcetHpzq",
+					"display_url": "pic.twitter.com/h8zcetHpzq",
+					"expanded_url": "https://twitter.com/beardedPT/status/1294738587733438465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1294738578283602000,
+					"id_str": "1294738578283601932",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/media/EffV4IuWoAwSIgE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EffV4IuWoAwSIgE.jpg",
+					"url": "https://t.co/h8zcetHpzq",
+					"display_url": "pic.twitter.com/h8zcetHpzq",
+					"expanded_url": "https://twitter.com/beardedPT/status/1294738587733438465/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1294738574856925200,
+		"in_reply_to_status_id_str": "1294738574856925192",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2215,
+			"friends_count": 3503,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1595186136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m terrible at these challenges so I’m stopping now - I know I’ve missed a few days. \n\nHowever, there’s nothing better than putting the world to rights with a close mate. #spinningdits https://t.co/h8zcetHpzq"
+	},
+	{
+		"created_at": "Sat Aug 15 20:51:45 +0000 2020",
+		"id": 1294738574856925200,
+		"id_str": "1294738574856925192",
+		"full_text": "I’ve been challenged by \n@rgriffinskill produce a picture a day for 7 days to illustrate my current life (no people). Nominate a person a day, asking to copy these words, add photo and repeat the challenge. Today I nominate @physio_back [x/7]",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rgriffinskill",
+					"name": "Richard Griffin MBE",
+					"id": 872380280,
+					"id_str": "872380280",
+					"indices": [
+						25,
+						39
+					]
+				},
+				{
+					"screen_name": "physio_back",
+					"name": "ThePhysioBack",
+					"id": 1048100165582839800,
+					"id_str": "1048100165582839808",
+					"indices": [
+						224,
+						236
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2215,
+			"friends_count": 3503,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6300,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1595186136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I’ve been challenged by \n@rgriffinskill produce a picture a day for 7 days to illustrate my current life (no people). Nominate a person a day, asking to copy these words, add photo and repeat the challenge. Today I nominate @physio_back [x/7]"
+	},
+	{
+		"created_at": "Sat Aug 15 17:28:37 +0000 2020",
+		"id": 1294544356699930600,
+		"id_str": "1294687453849190405",
+		"full_text": "23 emotions people feel, but can't explain https://t.co/kz49PkF0Kz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 883582626602340400,
+					"id_str": "883582626602340352",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/DEMdt6xW0AA-m8Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEMdt6xW0AA-m8Q.jpg",
+					"url": "https://t.co/kz49PkF0Kz",
+					"display_url": "pic.twitter.com/kz49PkF0Kz",
+					"expanded_url": "https://twitter.com/eliistender10/status/883582636567998464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 422,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 481,
+							"h": 775,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 481,
+							"h": 775,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 883582636567998500,
+					"source_status_id_str": "883582636567998464",
+					"source_user_id": 23483816,
+					"source_user_id_str": "23483816"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 883582626602340400,
+					"id_str": "883582626602340352",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/DEMdt6xW0AA-m8Q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DEMdt6xW0AA-m8Q.jpg",
+					"url": "https://t.co/kz49PkF0Kz",
+					"display_url": "pic.twitter.com/kz49PkF0Kz",
+					"expanded_url": "https://twitter.com/eliistender10/status/883582636567998464/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 422,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 481,
+							"h": 775,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 481,
+							"h": 775,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 883582636567998500,
+					"source_status_id_str": "883582636567998464",
+					"source_user_id": 23483816,
+					"source_user_id_str": "23483816"
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23483816,
+			"id_str": "23483816",
+			"name": "Giles Paley-Phillips",
+			"screen_name": "eliistender10",
+			"location": "",
+			"description": "I write books, one half of @blankpod and #ALittleBitOfPositive Play guitar in @burnthousemusic Ambassador for @actionaidUK Rep'd by @lindsaylit #BeKind",
+			"url": "https://t.co/zgY9EDKIov",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/zgY9EDKIov",
+							"expanded_url": "https://ko-fi.com/gilespaley_phillips",
+							"display_url": "ko-fi.com/gilespaley_phi…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 293819,
+			"friends_count": 243929,
+			"listed_count": 1444,
+			"created_at": "Mon Mar 09 19:16:42 +0000 2009",
+			"favourites_count": 336833,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 97089,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1292584593749671938/YV-uCViu_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1292584593749671938/YV-uCViu_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23483816/1594735226",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "D4D0C1",
+			"profile_text_color": "050005",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 663,
+		"favorite_count": 2507,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "23 emotions people feel, but can't explain https://t.co/kz49PkF0Kz"
+	},
+	{
 		"created_at": "Fri Aug 14 12:13:11 +0000 2020",
 		"id": 1294245684405821400,
 		"id_str": "1294245684405821440",
