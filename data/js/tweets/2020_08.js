@@ -1,10 +1,195 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Tue Aug 18 14:58:44 +0000 2020",
+		"id": 1295736894802796500,
+		"id_str": "1295736894802796547",
+		"full_text": "@SarahHaagPT Zotero https://t.co/Oj8en1EFDx",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarahHaagPT",
+					"name": "Sarah Haag",
+					"id": 302721998,
+					"id_str": "302721998",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1295736886401609700,
+					"id_str": "1295736886401609728",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Efth1URWsAA7zoR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Efth1URWsAA7zoR.jpg",
+					"url": "https://t.co/Oj8en1EFDx",
+					"display_url": "pic.twitter.com/Oj8en1EFDx",
+					"expanded_url": "https://twitter.com/beardedPT/status/1295736894802796547/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 288,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 288,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 288,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1295736886401609700,
+					"id_str": "1295736886401609728",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Efth1URWsAA7zoR.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Efth1URWsAA7zoR.jpg",
+					"url": "https://t.co/Oj8en1EFDx",
+					"display_url": "pic.twitter.com/Oj8en1EFDx",
+					"expanded_url": "https://twitter.com/beardedPT/status/1295736894802796547/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 288,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 288,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 288,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							215,
+							144
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Efth1URWsAA7zoR.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1295723510556491800,
+		"in_reply_to_status_id_str": "1295723510556491777",
+		"in_reply_to_user_id": 302721998,
+		"in_reply_to_user_id_str": "302721998",
+		"in_reply_to_screen_name": "SarahHaagPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2220,
+			"friends_count": 3507,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18449,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6305,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1595186136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "eu",
+		"text": "@SarahHaagPT Zotero https://t.co/Oj8en1EFDx"
+	},
+	{
 		"created_at": "Mon Aug 17 20:44:12 +0000 2020",
 		"id": 1295461450115362800,
 		"id_str": "1295461450115362817",
-		"full_text": "Last weeks #AHPsActive on the trails of #CannockChase 🏃‍♂️🏃‍♂️\n\nMy face sums it up #scorchio ☀️ https://t.co/PIM2XdoZWA",
+		"full_text": "Last weeks #AHPsActive on the trails of #CannockChase 🏃♂️🏃♂️\n\nMy face sums it up #scorchio ☀️ https://t.co/PIM2XdoZWA",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -322,7 +507,7 @@ Grailbird.data.tweets_2020_08 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Last weeks #AHPsActive on the trails of #CannockChase 🏃‍♂️🏃‍♂️\n\nMy face sums it up #scorchio ☀️ https://t.co/PIM2XdoZWA"
+		"text": "Last weeks #AHPsActive on the trails of #CannockChase 🏃♂️🏃♂️\n\nMy face sums it up #scorchio ☀️ https://t.co/PIM2XdoZWA"
 	},
 	{
 		"created_at": "Mon Aug 17 20:16:14 +0000 2020",
