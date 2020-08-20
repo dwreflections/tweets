@@ -1,6 +1,1129 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 19 21:39:42 +0000 2020",
+		"id": 1296200190148382700,
+		"id_str": "1296200190148382721",
+		"full_text": "@RachelWResp @RoyalCornwall @CFTWorkforce @breathe_happy_ @sampilsworth @sarahhurst71 @Tamsyn21929836 @KGeofferson ☝️🤩",
+		"truncated": false,
+		"display_text_range": [
+			102,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RachelWResp",
+					"name": "Rachel Williams",
+					"id": 1270258336005529600,
+					"id_str": "1270258336005529601",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "RoyalCornwall",
+					"name": "Royal Cornwall Show",
+					"id": 238133491,
+					"id_str": "238133491",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"screen_name": "CFTWorkforce",
+					"name": "Workforce Transformation & Engagement CFT",
+					"id": 1000020783773683700,
+					"id_str": "1000020783773683712",
+					"indices": [
+						28,
+						41
+					]
+				},
+				{
+					"screen_name": "breathe_happy_",
+					"name": "Dr Elaine Bevan-Smith",
+					"id": 2216732570,
+					"id_str": "2216732570",
+					"indices": [
+						42,
+						57
+					]
+				},
+				{
+					"screen_name": "sampilsworth",
+					"name": "sam",
+					"id": 993806954156970000,
+					"id_str": "993806954156969984",
+					"indices": [
+						58,
+						71
+					]
+				},
+				{
+					"screen_name": "sarahhurst71",
+					"name": "Sarah Hurst",
+					"id": 1561361052,
+					"id_str": "1561361052",
+					"indices": [
+						72,
+						85
+					]
+				},
+				{
+					"screen_name": "Tamsyn21929836",
+					"name": "Tamsyn",
+					"id": 1041300707091988500,
+					"id_str": "1041300707091988481",
+					"indices": [
+						86,
+						101
+					]
+				},
+				{
+					"screen_name": "KGeofferson",
+					"name": "kate Geofferson",
+					"id": 968911739264827400,
+					"id_str": "968911739264827393",
+					"indices": [
+						102,
+						114
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1295825854153592800,
+		"in_reply_to_status_id_str": "1295825854153592836",
+		"in_reply_to_user_id": 1270258336005529600,
+		"in_reply_to_user_id_str": "1270258336005529601",
+		"in_reply_to_screen_name": "RachelWResp",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2220,
+			"friends_count": 3508,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1595186136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@RachelWResp @RoyalCornwall @CFTWorkforce @breathe_happy_ @sampilsworth @sarahhurst71 @Tamsyn21929836 @KGeofferson ☝️🤩"
+	},
+	{
+		"created_at": "Wed Aug 19 21:38:08 +0000 2020",
+		"id": 1296199796928151600,
+		"id_str": "1296199796928151553",
+		"full_text": "Yes! https://t.co/tkNmw0uGNM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			4
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tkNmw0uGNM",
+					"expanded_url": "https://twitter.com/physionetwork/status/1296179085824208896",
+					"display_url": "twitter.com/physionetwork/…",
+					"indices": [
+						5,
+						28
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2220,
+			"friends_count": 3508,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1595186136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52041af7b8001313",
+			"url": "https://api.twitter.com/1.1/geo/id/52041af7b8001313.json",
+			"place_type": "city",
+			"name": "Rugeley",
+			"full_name": "Rugeley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.971255,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.773708
+						],
+						[
+							-1.971255,
+							52.773708
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1296179085824209000,
+		"quoted_status_id_str": "1296179085824208896",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tkNmw0uGNM",
+			"expanded": "https://twitter.com/physionetwork/status/1296179085824208896",
+			"display": "twitter.com/physionetwork/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 19 20:15:50 +0000 2020",
+			"id": 1296179085824209000,
+			"id_str": "1296179085824208896",
+			"full_text": "We reckon the [Physio] world would be a better place if everyone had to read his book before they graduated. Do you agree? 😊 https://t.co/pRwPcLjfhh",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				124
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1296179080279339000,
+						"id_str": "1296179080279339009",
+						"indices": [
+							125,
+							148
+						],
+						"media_url": "http://pbs.twimg.com/media/Efz0AY1XsAEwKhy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Efz0AY1XsAEwKhy.jpg",
+						"url": "https://t.co/pRwPcLjfhh",
+						"display_url": "pic.twitter.com/pRwPcLjfhh",
+						"expanded_url": "https://twitter.com/PhysioNetwork/status/1296179085824208896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1665,
+								"h": 2047,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 976,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 553,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1296179080279339000,
+						"id_str": "1296179080279339009",
+						"indices": [
+							125,
+							148
+						],
+						"media_url": "http://pbs.twimg.com/media/Efz0AY1XsAEwKhy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Efz0AY1XsAEwKhy.jpg",
+						"url": "https://t.co/pRwPcLjfhh",
+						"display_url": "pic.twitter.com/pRwPcLjfhh",
+						"expanded_url": "https://twitter.com/PhysioNetwork/status/1296179085824208896/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1665,
+								"h": 2047,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 976,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 553,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1056159607138193400,
+				"id_str": "1056159607138193408",
+				"name": "PhysioNetwork",
+				"screen_name": "PhysioNetwork",
+				"location": "",
+				"description": "Our mission is to improve physiotherapy standards worldwide. We have received the BJSM stamp of approval for quality international education.",
+				"url": "https://t.co/GrQdM2XgNS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/GrQdM2XgNS",
+								"expanded_url": "https://physio-network.com",
+								"display_url": "physio-network.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 6546,
+				"friends_count": 185,
+				"listed_count": 26,
+				"created_at": "Sat Oct 27 12:24:07 +0000 2018",
+				"favourites_count": 1587,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1178,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1181457916035047425/jiWLtCmD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1181457916035047425/jiWLtCmD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1056159607138193408/1581888646",
+				"profile_link_color": "91D2FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 57,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Yes! https://t.co/tkNmw0uGNM"
+	},
+	{
+		"created_at": "Wed Aug 19 20:02:23 +0000 2020",
+		"id": 1296175702023245800,
+		"id_str": "1296175702023245829",
+		"full_text": "@alicrewe Okay 👌 🤩",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alicrewe",
+					"name": "ali crewesmith",
+					"id": 330511872,
+					"id_str": "330511872",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1296169125543317500,
+		"in_reply_to_status_id_str": "1296169125543317505",
+		"in_reply_to_user_id": 330511872,
+		"in_reply_to_user_id_str": "330511872",
+		"in_reply_to_screen_name": "alicrewe",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2220,
+			"friends_count": 3508,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1595186136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@alicrewe Okay 👌 🤩"
+	},
+	{
+		"created_at": "Wed Aug 19 19:28:10 +0000 2020",
+		"id": 1296167091435982800,
+		"id_str": "1296167091435982848",
+		"full_text": "@alicrewe Can I ditch the lanyard now? 😇",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alicrewe",
+					"name": "ali crewesmith",
+					"id": 330511872,
+					"id_str": "330511872",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1296101459394728000,
+		"in_reply_to_status_id_str": "1296101459394727936",
+		"in_reply_to_user_id": 330511872,
+		"in_reply_to_user_id_str": "330511872",
+		"in_reply_to_screen_name": "alicrewe",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2220,
+			"friends_count": 3508,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1595186136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52041af7b8001313",
+			"url": "https://api.twitter.com/1.1/geo/id/52041af7b8001313.json",
+			"place_type": "city",
+			"name": "Rugeley",
+			"full_name": "Rugeley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.971255,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.773708
+						],
+						[
+							-1.971255,
+							52.773708
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@alicrewe Can I ditch the lanyard now? 😇"
+	},
+	{
+		"created_at": "Wed Aug 19 19:27:20 +0000 2020",
+		"id": 1296166879317446700,
+		"id_str": "1296166879317446656",
+		"full_text": "I absolutely love being part of #TeamUHDB 🤩 #AHPpreceptorship https://t.co/X7JhdNlk2X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TeamUHDB",
+					"indices": [
+						32,
+						41
+					]
+				},
+				{
+					"text": "AHPpreceptorship",
+					"indices": [
+						44,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X7JhdNlk2X",
+					"expanded_url": "https://twitter.com/alicrewe/status/1296101459394727936",
+					"display_url": "twitter.com/alicrewe/statu…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2220,
+			"friends_count": 3508,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6312,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1595186136",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52041af7b8001313",
+			"url": "https://api.twitter.com/1.1/geo/id/52041af7b8001313.json",
+			"place_type": "city",
+			"name": "Rugeley",
+			"full_name": "Rugeley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.971255,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.773708
+						],
+						[
+							-1.971255,
+							52.773708
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1296101459394728000,
+		"quoted_status_id_str": "1296101459394727936",
+		"quoted_status_permalink": {
+			"url": "https://t.co/X7JhdNlk2X",
+			"expanded": "https://twitter.com/alicrewe/status/1296101459394727936",
+			"display": "twitter.com/alicrewe/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 19 15:07:22 +0000 2020",
+			"id": 1296101459394728000,
+			"id_str": "1296101459394727936",
+			"full_text": "“I have gone from a student who struggled with working on wards to a qualified professional who feels competent.” Lovely reflection from one of our preceptees’ final preceptorship review. #AHPpreceptorship #UHDB #greengang",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				222
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AHPpreceptorship",
+						"indices": [
+							188,
+							205
+						]
+					},
+					{
+						"text": "UHDB",
+						"indices": [
+							206,
+							211
+						]
+					},
+					{
+						"text": "greengang",
+						"indices": [
+							212,
+							222
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 330511872,
+				"id_str": "330511872",
+				"name": "ali crewesmith",
+				"screen_name": "alicrewe",
+				"location": "UK",
+				"description": "UHDB AHP Preceptorship Lead, Senior NHS Physiotherapist, exercise enthusiast. Will do anything for cake. Opinions are my own. #teamUHDB",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 555,
+				"friends_count": 618,
+				"listed_count": 6,
+				"created_at": "Wed Jul 06 18:44:21 +0000 2011",
+				"favourites_count": 1699,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1780,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "ACDED6",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1159765663935868933/bOVyNBvR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1159765663935868933/bOVyNBvR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/330511872/1524290881",
+				"profile_link_color": "038543",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I absolutely love being part of #TeamUHDB 🤩 #AHPpreceptorship https://t.co/X7JhdNlk2X"
+	},
+	{
+		"created_at": "Wed Aug 19 16:50:16 +0000 2020",
+		"id": 1296022225091469300,
+		"id_str": "1296127352158728197",
+		"full_text": "🌟Are you interested in Quality Improvement &amp; System Leadership?🌟\n\nJoin us for our 2-part webinar series starting NEXT WEEK! 👩‍💻👩🏼‍🏫👩‍💻\n\nPart 1️⃣ \"Getting started with QI\" \n📆Friday 28th August 📆\nhttps://t.co/lNKZ2tVJ4G\n\nPart 2️⃣ \"Publishing your work\" \n📆Friday 4th September📆 https://t.co/lu42CP3o9e",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lNKZ2tVJ4G",
+					"expanded_url": "https://zoom.us/webinar/register/WN_nKbOIVADR7KZZgf_le0DKQ",
+					"display_url": "zoom.us/webinar/regist…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1296022221266260000,
+					"id_str": "1296022221266259969",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EfxlV_eWkAE-t7b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfxlV_eWkAE-t7b.jpg",
+					"url": "https://t.co/lu42CP3o9e",
+					"display_url": "pic.twitter.com/lu42CP3o9e",
+					"expanded_url": "https://twitter.com/akiko_med/status/1296022225091469312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1296022221266260000,
+					"id_str": "1296022221266259969",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EfxlV_eWkAE-t7b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EfxlV_eWkAE-t7b.jpg",
+					"url": "https://t.co/lu42CP3o9e",
+					"display_url": "pic.twitter.com/lu42CP3o9e",
+					"expanded_url": "https://twitter.com/akiko_med/status/1296022225091469312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1152,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 911565113018241000,
+			"id_str": "911565113018241024",
+			"name": "Akiko Fukui",
+			"screen_name": "akiko_med",
+			"location": "London, England",
+			"description": "Graduate Medic | Ex Pharma Consultant l MSc Epidemiology @ImperialSPH l @WHOKobe former intern l London Lead @FMLM_UK MSG | @KCLLIH | @HLA_int",
+			"url": "https://t.co/tWHJF1EinQ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tWHJF1EinQ",
+							"expanded_url": "https://www.linkedin.com/in/akiko-fukui-0ab67492/",
+							"display_url": "linkedin.com/in/akiko-fukui…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 278,
+			"friends_count": 746,
+			"listed_count": 1,
+			"created_at": "Sat Sep 23 12:17:13 +0000 2017",
+			"favourites_count": 636,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 476,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1074245307205083136/8h06yNYZ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074245307205083136/8h06yNYZ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/911565113018241024/1537751721",
+			"profile_link_color": "F58EA8",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🌟Are you interested in Quality Improvement &amp; System Leadership?🌟\n\nJoin us for our 2-part webinar series starting NEXT WEEK! 👩‍💻👩🏼‍🏫👩‍💻\n\nPart 1️⃣ \"Getting started with QI\" \n📆Friday 28th August 📆\nhttps://t.co/lNKZ2tVJ4G\n\nPart 2️⃣ \"Publishing your work\" \n📆Friday 4th September📆 https://t.co/lu42CP3o9e"
+	},
+	{
 		"created_at": "Tue Aug 18 14:58:44 +0000 2020",
 		"id": 1295736894802796500,
 		"id_str": "1295736894802796547",
