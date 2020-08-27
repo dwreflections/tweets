@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Wed Aug 26 19:14:52 +0000 2020",
+		"id": 1298700459541254100,
+		"id_str": "1298700459541254144",
+		"full_text": "Great B5 #physio meeting today discussing lessons learnt from #COVID \nAlso, great to see some new faces! 👋\n\n@TomHinchPT handed over the baton as he’s had a promotion. So me &amp; @emily_clowes will be leading the meetings! The planning begins... #TeamUHDB https://t.co/wl4wYbWu9a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "physio",
+					"indices": [
+						9,
+						16
+					]
+				},
+				{
+					"text": "COVID",
+					"indices": [
+						62,
+						68
+					]
+				},
+				{
+					"text": "TeamUHDB",
+					"indices": [
+						246,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TomHinchPT",
+					"name": "Tom Hinchliffe",
+					"id": 1240733513634263000,
+					"id_str": "1240733513634263045",
+					"indices": [
+						108,
+						119
+					]
+				},
+				{
+					"screen_name": "emily_clowes",
+					"name": "em",
+					"id": 588477273,
+					"id_str": "588477273",
+					"indices": [
+						179,
+						192
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1298700452343816200,
+					"id_str": "1298700452343816192",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EgXpLjuXoAAbDuQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EgXpLjuXoAAbDuQ.jpg",
+					"url": "https://t.co/wl4wYbWu9a",
+					"display_url": "pic.twitter.com/wl4wYbWu9a",
+					"expanded_url": "https://twitter.com/beardedPT/status/1298700459541254144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 222,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 222,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 222,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1298700452343816200,
+					"id_str": "1298700452343816192",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EgXpLjuXoAAbDuQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EgXpLjuXoAAbDuQ.jpg",
+					"url": "https://t.co/wl4wYbWu9a",
+					"display_url": "pic.twitter.com/wl4wYbWu9a",
+					"expanded_url": "https://twitter.com/beardedPT/status/1298700459541254144/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 222,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 222,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 222,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							200,
+							111
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EgXpLjuXoAAbDuQ.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2241,
+			"friends_count": 3541,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18583,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6348,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great B5 #physio meeting today discussing lessons learnt from #COVID \nAlso, great to see some new faces! 👋\n\n@TomHinchPT handed over the baton as he’s had a promotion. So me &amp; @emily_clowes will be leading the meetings! The planning begins... #TeamUHDB https://t.co/wl4wYbWu9a"
+	},
+	{
 		"created_at": "Tue Aug 25 20:21:12 +0000 2020",
 		"id": 1298354764800041000,
 		"id_str": "1298354764800040964",
