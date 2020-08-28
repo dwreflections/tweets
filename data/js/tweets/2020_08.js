@@ -1,6 +1,721 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Thu Aug 27 17:25:53 +0000 2020",
+		"id": 1299035418520940500,
+		"id_str": "1299035418520940544",
+		"full_text": "@loz_vallance @gastro305 Congratulations! 🥂🥂",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loz_vallance",
+					"name": "Lorraine Vallance",
+					"id": 855078666,
+					"id_str": "855078666",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "gastro305",
+					"name": "Gastro305",
+					"id": 1046816421815173100,
+					"id_str": "1046816421815173120",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1298973986999668700,
+		"in_reply_to_status_id_str": "1298973986999668736",
+		"in_reply_to_user_id": 855078666,
+		"in_reply_to_user_id_str": "855078666",
+		"in_reply_to_screen_name": "loz_vallance",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2250,
+			"friends_count": 3546,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@loz_vallance @gastro305 Congratulations! 🥂🥂"
+	},
+	{
+		"created_at": "Thu Aug 27 16:55:52 +0000 2020",
+		"id": 1299027864696901600,
+		"id_str": "1299027864696901633",
+		"full_text": "@150Leaders @RalucaVagner @councilofdeans Congratulations! Excellent appointment #150Leaders @HLA_int",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			101
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "150Leaders",
+					"indices": [
+						81,
+						92
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "150Leaders",
+					"name": "#150Leaders",
+					"id": 1139187039151280100,
+					"id_str": "1139187039151280128",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "RalucaVagner",
+					"name": "Raluca Vagner",
+					"id": 475210366,
+					"id_str": "475210366",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "councilofdeans",
+					"name": "Council of Deans",
+					"id": 278442312,
+					"id_str": "278442312",
+					"indices": [
+						26,
+						41
+					]
+				},
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						93,
+						101
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1298986447744073700,
+		"in_reply_to_status_id_str": "1298986447744073728",
+		"in_reply_to_user_id": 1139187039151280100,
+		"in_reply_to_user_id_str": "1139187039151280128",
+		"in_reply_to_screen_name": "150Leaders",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2250,
+			"friends_count": 3546,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@150Leaders @RalucaVagner @councilofdeans Congratulations! Excellent appointment #150Leaders @HLA_int"
+	},
+	{
+		"created_at": "Thu Aug 27 10:56:48 +0000 2020",
+		"id": 1298935971019448300,
+		"id_str": "1298937501567119362",
+		"full_text": "It’s in good hands!! @beardedPT @emily_clowes https://t.co/x9YHdmNv7H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						21,
+						31
+					]
+				},
+				{
+					"screen_name": "emily_clowes",
+					"name": "em",
+					"id": 588477273,
+					"id_str": "588477273",
+					"indices": [
+						32,
+						45
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/x9YHdmNv7H",
+					"expanded_url": "https://twitter.com/beardedpt/status/1298700459541254144",
+					"display_url": "twitter.com/beardedpt/stat…",
+					"indices": [
+						46,
+						69
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1240733513634263000,
+			"id_str": "1240733513634263045",
+			"name": "Tom Hinchliffe",
+			"screen_name": "TomHinchPT",
+			"location": "",
+			"description": "Physiotherapist. May occasionally tweet about it. @UHDBTRUST Views my own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 53,
+			"friends_count": 177,
+			"listed_count": 0,
+			"created_at": "Thu Mar 19 20:15:13 +0000 2020",
+			"favourites_count": 59,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1240739708721868811/Kuz8ywxU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1240739708721868811/Kuz8ywxU_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1298700459541254100,
+		"quoted_status_id_str": "1298700459541254144",
+		"quoted_status_permalink": {
+			"url": "https://t.co/x9YHdmNv7H",
+			"expanded": "https://twitter.com/beardedpt/status/1298700459541254144",
+			"display": "twitter.com/beardedpt/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 26 19:14:52 +0000 2020",
+			"id": 1298700459541254100,
+			"id_str": "1298700459541254144",
+			"full_text": "Great B5 #physio meeting today discussing lessons learnt from #COVID \nAlso, great to see some new faces! 👋\n\n@TomHinchPT handed over the baton as he’s had a promotion. So me &amp; @emily_clowes will be leading the meetings! The planning begins... #TeamUHDB https://t.co/wl4wYbWu9a",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				255
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "physio",
+						"indices": [
+							9,
+							16
+						]
+					},
+					{
+						"text": "COVID",
+						"indices": [
+							62,
+							68
+						]
+					},
+					{
+						"text": "TeamUHDB",
+						"indices": [
+							246,
+							255
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TomHinchPT",
+						"name": "Tom Hinchliffe",
+						"id": 1240733513634263000,
+						"id_str": "1240733513634263045",
+						"indices": [
+							108,
+							119
+						]
+					},
+					{
+						"screen_name": "emily_clowes",
+						"name": "em",
+						"id": 588477273,
+						"id_str": "588477273",
+						"indices": [
+							179,
+							192
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1298700452343816200,
+						"id_str": "1298700452343816192",
+						"indices": [
+							256,
+							279
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EgXpLjuXoAAbDuQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EgXpLjuXoAAbDuQ.jpg",
+						"url": "https://t.co/wl4wYbWu9a",
+						"display_url": "pic.twitter.com/wl4wYbWu9a",
+						"expanded_url": "https://twitter.com/beardedPT/status/1298700459541254144/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 400,
+								"h": 222,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 222,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 400,
+								"h": 222,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1298700452343816200,
+						"id_str": "1298700452343816192",
+						"indices": [
+							256,
+							279
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EgXpLjuXoAAbDuQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EgXpLjuXoAAbDuQ.jpg",
+						"url": "https://t.co/wl4wYbWu9a",
+						"display_url": "pic.twitter.com/wl4wYbWu9a",
+						"expanded_url": "https://twitter.com/beardedPT/status/1298700459541254144/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 400,
+								"h": 222,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 400,
+								"h": 222,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 400,
+								"h": 222,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								200,
+								111
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EgXpLjuXoAAbDuQ.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3377750235,
+				"id_str": "3377750235",
+				"name": "David Williams",
+				"screen_name": "beardedPT",
+				"location": "Staffordshire",
+				"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2250,
+				"friends_count": 3546,
+				"listed_count": 16,
+				"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+				"favourites_count": 18603,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6353,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s in good hands!! @beardedPT @emily_clowes https://t.co/x9YHdmNv7H"
+	},
+	{
+		"created_at": "Thu Aug 27 08:50:00 +0000 2020",
+		"id": 1298905591713271800,
+		"id_str": "1298905591713271808",
+		"full_text": "@DMGPhysio @TomHinchPT @emily_clowes All within #TeamUHDB if they want to attend \n#OTs also have B5 meeting (unsure of other #AHPs) \n\nWe must be lucky - I did not realise that wasn’t a thing at other trusts @WeAHPs",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			214
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TeamUHDB",
+					"indices": [
+						48,
+						57
+					]
+				},
+				{
+					"text": "OTs",
+					"indices": [
+						82,
+						86
+					]
+				},
+				{
+					"text": "AHPs",
+					"indices": [
+						125,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DMGPhysio",
+					"name": "Darragh Mc Gee",
+					"id": 1523450449,
+					"id_str": "1523450449",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "TomHinchPT",
+					"name": "Tom Hinchliffe",
+					"id": 1240733513634263000,
+					"id_str": "1240733513634263045",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "emily_clowes",
+					"name": "em",
+					"id": 588477273,
+					"id_str": "588477273",
+					"indices": [
+						23,
+						36
+					]
+				},
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs 💙",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						207,
+						214
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1298900155077480400,
+		"in_reply_to_status_id_str": "1298900155077480449",
+		"in_reply_to_user_id": 1523450449,
+		"in_reply_to_user_id_str": "1523450449",
+		"in_reply_to_screen_name": "DMGPhysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2250,
+			"friends_count": 3546,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18603,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6353,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DMGPhysio @TomHinchPT @emily_clowes All within #TeamUHDB if they want to attend \n#OTs also have B5 meeting (unsure of other #AHPs) \n\nWe must be lucky - I did not realise that wasn’t a thing at other trusts @WeAHPs"
+	},
+	{
 		"created_at": "Wed Aug 26 19:14:52 +0000 2020",
 		"id": 1298700459541254100,
 		"id_str": "1298700459541254144",
