@@ -1,6 +1,119 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 03 18:28:41 +0000 2020",
+		"id": 1301587940385214500,
+		"id_str": "1301587940385214475",
+		"full_text": "@rebbeccrisp @pm_raf_ns @BCUDefence I had no idea you are in the Royal Air Force Nursing Service. Massive well done!!! Onwards with an amazing career 🤩💪",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rebbeccrisp",
+					"name": "Becky Crisp",
+					"id": 569576220,
+					"id_str": "569576220",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "pm_raf_ns",
+					"name": "✨🌟PMRAFNS🌟✨",
+					"id": 1878575348,
+					"id_str": "1878575348",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "BCUDefence",
+					"name": "BCU Defence",
+					"id": 823864108160270300,
+					"id_str": "823864108160270336",
+					"indices": [
+						24,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1301578119346892800,
+		"in_reply_to_status_id_str": "1301578119346892807",
+		"in_reply_to_user_id": 569576220,
+		"in_reply_to_user_id_str": "569576220",
+		"in_reply_to_screen_name": "rebbeccrisp",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2264,
+			"friends_count": 3580,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18680,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6376,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@rebbeccrisp @pm_raf_ns @BCUDefence I had no idea you are in the Royal Air Force Nursing Service. Massive well done!!! Onwards with an amazing career 🤩💪"
+	},
+	{
 		"created_at": "Wed Sep 02 21:12:04 +0000 2020",
 		"id": 1301266665515225000,
 		"id_str": "1301266665515225088",
