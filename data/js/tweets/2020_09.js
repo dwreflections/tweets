@@ -1,6 +1,320 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 04 18:26:06 +0000 2020",
+		"id": 1301909722782724000,
+		"id_str": "1301949676413956096",
+		"full_text": "👏🏾⭐️Congratulations our incredible @ImpACTplus_team who have been named 'Respiratory Care Initiative of the Year' at the #HSJValue Awards for providing amazing support to our respiratory patients both before &amp; during Covid-19.  @HSJ_Awards 👏🏾⭐️ More here: https://t.co/V4mFvQEOcQ https://t.co/weTPSzpgxK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HSJValue",
+					"indices": [
+						121,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ImpACTplus_team",
+					"name": "ImpACT+ Respiratory Team",
+					"id": 827474329998856200,
+					"id_str": "827474329998856192",
+					"indices": [
+						35,
+						51
+					]
+				},
+				{
+					"screen_name": "HSJ_Awards",
+					"name": "HSJ Awards",
+					"id": 302056452,
+					"id_str": "302056452",
+					"indices": [
+						232,
+						243
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/V4mFvQEOcQ",
+					"expanded_url": "https://bit.ly/3lPQtuC",
+					"display_url": "bit.ly/3lPQtuC",
+					"indices": [
+						260,
+						283
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1301907930166460400,
+					"id_str": "1301907930166460418",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/EhFOXVvWAAIzakR.png",
+					"media_url_https": "https://pbs.twimg.com/media/EhFOXVvWAAIzakR.png",
+					"url": "https://t.co/weTPSzpgxK",
+					"display_url": "pic.twitter.com/weTPSzpgxK",
+					"expanded_url": "https://twitter.com/UHDBTrust/status/1301909722782724097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 672,
+							"h": 833,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 833,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1301907930166460400,
+					"id_str": "1301907930166460418",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/EhFOXVvWAAIzakR.png",
+					"media_url_https": "https://pbs.twimg.com/media/EhFOXVvWAAIzakR.png",
+					"url": "https://t.co/weTPSzpgxK",
+					"display_url": "pic.twitter.com/weTPSzpgxK",
+					"expanded_url": "https://twitter.com/UHDBTrust/status/1301909722782724097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 672,
+							"h": 833,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 549,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 672,
+							"h": 833,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 429877936,
+			"id_str": "429877936",
+			"name": "University Hospitals of Derby and Burton NHS FT",
+			"screen_name": "UHDBTrust",
+			"location": "Derby, Burton, Tamworth, Lichfield",
+			"description": "Official Twitter page of University Hospitals of Derby and Burton NHS Foundation Trust. 🏥",
+			"url": "https://t.co/x70bd3ATs0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x70bd3ATs0",
+							"expanded_url": "http://www.uhdb.nhs.uk",
+							"display_url": "uhdb.nhs.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13893,
+			"friends_count": 1207,
+			"listed_count": 150,
+			"created_at": "Tue Dec 06 14:09:36 +0000 2011",
+			"favourites_count": 7061,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1279041905234530311/eDoIoBfy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1279041905234530311/eDoIoBfy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/429877936/1591191933",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 28,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "👏🏾⭐️Congratulations our incredible @ImpACTplus_team who have been named 'Respiratory Care Initiative of the Year' at the #HSJValue Awards for providing amazing support to our respiratory patients both before &amp; during Covid-19.  @HSJ_Awards 👏🏾⭐️ More here: https://t.co/V4mFvQEOcQ https://t.co/weTPSzpgxK"
+	},
+	{
+		"created_at": "Fri Sep 04 14:46:42 +0000 2020",
+		"id": 1301894461362970600,
+		"id_str": "1301894461362970625",
+		"full_text": "Wonderful conversation with @mikechitty this afternoon. Looking forward to the edit 🎙\n#BeABetterLeader",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BeABetterLeader",
+					"indices": [
+						86,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mikechitty",
+					"name": "Mike Chitty",
+					"id": 21009225,
+					"id_str": "21009225",
+					"indices": [
+						28,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2267,
+			"friends_count": 3585,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18690,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Wonderful conversation with @mikechitty this afternoon. Looking forward to the edit 🎙\n#BeABetterLeader"
+	},
+	{
 		"created_at": "Thu Sep 03 18:28:41 +0000 2020",
 		"id": 1301587940385214500,
 		"id_str": "1301587940385214475",
