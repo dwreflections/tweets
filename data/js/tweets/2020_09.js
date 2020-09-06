@@ -1,6 +1,1497 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sat Sep 05 21:49:06 +0000 2020",
+		"id": 1302363150654767000,
+		"id_str": "1302363150654767105",
+		"full_text": "@AliBooker_RD @HLA_int Thank you!!! &amp; so will you at RMAS 🧡",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AliBooker_RD",
+					"name": "Alison Booker 💙",
+					"id": 941762706,
+					"id_str": "941762706",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						14,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1302203320216453000,
+		"in_reply_to_status_id_str": "1302203320216453121",
+		"in_reply_to_user_id": 941762706,
+		"in_reply_to_user_id_str": "941762706",
+		"in_reply_to_screen_name": "AliBooker_RD",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2289,
+			"friends_count": 3616,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AliBooker_RD @HLA_int Thank you!!! &amp; so will you at RMAS 🧡"
+	},
+	{
+		"created_at": "Sat Sep 05 15:17:52 +0000 2020",
+		"id": 1302264694485418000,
+		"id_str": "1302264694485417987",
+		"full_text": "What a day!! #HLA20 🤩 https://t.co/mAnGy6EuaQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			21
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HLA20",
+					"indices": [
+						13,
+						19
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mAnGy6EuaQ",
+					"expanded_url": "https://twitter.com/jimdetermeijer/status/1302259917320060930",
+					"display_url": "twitter.com/jimdetermeijer…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2289,
+			"friends_count": 3616,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1302259917320061000,
+		"quoted_status_id_str": "1302259917320060930",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mAnGy6EuaQ",
+			"expanded": "https://twitter.com/jimdetermeijer/status/1302259917320060930",
+			"display": "twitter.com/jimdetermeijer…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 05 14:58:53 +0000 2020",
+			"id": 1302259917320061000,
+			"id_str": "1302259917320060930",
+			"full_text": "Amazing first session of the year for the @HLA_int! No less than 125 new scholars together in a zoom! #HLA20 #healthcare #leadership https://t.co/Yz42uN98Ce",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				132
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HLA20",
+						"indices": [
+							102,
+							108
+						]
+					},
+					{
+						"text": "healthcare",
+						"indices": [
+							109,
+							120
+						]
+					},
+					{
+						"text": "leadership",
+						"indices": [
+							121,
+							132
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HLA_int",
+						"name": "The HLA",
+						"id": 809803519846993900,
+						"id_str": "809803519846993921",
+						"indices": [
+							42,
+							50
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1302259864870301700,
+						"id_str": "1302259864870301699",
+						"indices": [
+							133,
+							156
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EhKOcorXsAMtOJa.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EhKOcorXsAMtOJa.jpg",
+						"url": "https://t.co/Yz42uN98Ce",
+						"display_url": "pic.twitter.com/Yz42uN98Ce",
+						"expanded_url": "https://twitter.com/jimdetermeijer/status/1302259917320060930/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 420,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 420,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1302259864870301700,
+						"id_str": "1302259864870301699",
+						"indices": [
+							133,
+							156
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/EhKOcorXsAMtOJa.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EhKOcorXsAMtOJa.jpg",
+						"url": "https://t.co/Yz42uN98Ce",
+						"display_url": "pic.twitter.com/Yz42uN98Ce",
+						"expanded_url": "https://twitter.com/jimdetermeijer/status/1302259917320060930/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 420,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 420,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								25,
+								14
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/EhKOcorXsAMtOJa.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 887728944862171100,
+				"id_str": "887728944862171136",
+				"name": "Jim Determeijer",
+				"screen_name": "jimdetermeijer",
+				"location": "Amsterdam, Nederland",
+				"description": "Medical Student @amsterdamumc | Founder of The Healthcare Leadership Academy Amsterdam @HLA_int",
+				"url": "https://t.co/RsF9VUulzA",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RsF9VUulzA",
+								"expanded_url": "https://www.linkedin.com/in/jim-determeijer-487807147/",
+								"display_url": "linkedin.com/in/jim-determe…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 271,
+				"friends_count": 381,
+				"listed_count": 1,
+				"created_at": "Wed Jul 19 17:40:48 +0000 2017",
+				"favourites_count": 559,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 89,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1111256276569329669/_H9Wk9pg_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111256276569329669/_H9Wk9pg_normal.png",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What a day!! #HLA20 🤩 https://t.co/mAnGy6EuaQ"
+	},
+	{
+		"created_at": "Sat Sep 05 14:57:27 +0000 2020",
+		"id": 1302259557494857700,
+		"id_str": "1302259557494857728",
+		"full_text": "@DanielsAbigail It was fun wasn't it... #HLA20",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			46
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HLA20",
+					"indices": [
+						40,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DanielsAbigail",
+					"name": "Abigail Daniels",
+					"id": 959039576588341200,
+					"id_str": "959039576588341250",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1302256649751666700,
+		"in_reply_to_status_id_str": "1302256649751666693",
+		"in_reply_to_user_id": 959039576588341200,
+		"in_reply_to_user_id_str": "959039576588341250",
+		"in_reply_to_screen_name": "DanielsAbigail",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2289,
+			"friends_count": 3616,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DanielsAbigail It was fun wasn't it... #HLA20"
+	},
+	{
+		"created_at": "Sat Sep 05 14:45:13 +0000 2020",
+		"id": 1302229004565573600,
+		"id_str": "1302256478406021120",
+		"full_text": "Being around people w/Leadership qualities draws things out of you + elevates the collective . After presenting something that I didn’t feel was “perfect” it was mind blowing 🤯 to hear positive feedback so reassuring. #HLA20 is bound to be an uplifting experience",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HLA20",
+					"indices": [
+						218,
+						224
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 959039576588341200,
+			"id_str": "959039576588341250",
+			"name": "Abigail Daniels",
+			"screen_name": "DanielsAbigail",
+			"location": "Out and about",
+			"description": "Christian ✝️ Trainee Clinical Psychologist . Healthcare Leadership Academy Scholar. LIKES: anti-racism/psychotherapy/critical psychology/feminism/social justice",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 295,
+			"friends_count": 298,
+			"listed_count": 0,
+			"created_at": "Thu Feb 01 12:23:47 +0000 2018",
+			"favourites_count": 1487,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1112,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1282358599348555784/r-iwt9VA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1282358599348555784/r-iwt9VA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/959039576588341250/1594573092",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 26,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Being around people w/Leadership qualities draws things out of you + elevates the collective . After presenting something that I didn’t feel was “perfect” it was mind blowing 🤯 to hear positive feedback so reassuring. #HLA20 is bound to be an uplifting experience"
+	},
+	{
+		"created_at": "Sat Sep 05 09:32:18 +0000 2020",
+		"id": 1302177613260222500,
+		"id_str": "1302177727223599104",
+		"full_text": "'Don't be afraid to be an activist. Don't be afraid to call out the elephants in the room. Don't be afraid to upset people. You will make enemies, but you'll have more friends than enemies. You will always inevitably feel alone.' – @NeenaModi1 on leadership challenges #HLA20",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HLA20",
+					"indices": [
+						269,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NeenaModi1",
+					"name": "Neena Modi",
+					"id": 3226118481,
+					"id_str": "3226118481",
+					"indices": [
+						232,
+						243
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 781140957995622400,
+			"id_str": "781140957995622400",
+			"name": "Felicity Allman",
+			"screen_name": "felicityallman",
+			"location": "Carlisle/Newcastle/Plymouth",
+			"description": "Med student • @HLA_int 20/21 • Wounded healer • Works with @NCLPsychSoc @NotOnMyCampusUK @ItHappensNCL @DrsforChoice_UK @uaemuk @beatED • #150Leaders",
+			"url": "https://t.co/vH9CHoOQKy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vH9CHoOQKy",
+							"expanded_url": "https://linktr.ee/felicityallman",
+							"display_url": "linktr.ee/felicityallman",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1572,
+			"friends_count": 581,
+			"listed_count": 10,
+			"created_at": "Wed Sep 28 14:38:12 +0000 2016",
+			"favourites_count": 1997,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1301294476397248513/8qeKUtBU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1301294476397248513/8qeKUtBU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/781140957995622400/1591646171",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 54,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "'Don't be afraid to be an activist. Don't be afraid to call out the elephants in the room. Don't be afraid to upset people. You will make enemies, but you'll have more friends than enemies. You will always inevitably feel alone.' – @NeenaModi1 on leadership challenges #HLA20"
+	},
+	{
+		"created_at": "Sat Sep 05 09:18:19 +0000 2020",
+		"id": 1302174211193163800,
+		"id_str": "1302174211193163777",
+		"full_text": "Why do you the things you do? #Leadership \n\n@NeenaModi1 discussing her \"why\" ... #HLA20 @HLA_int",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Leadership",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"text": "HLA20",
+					"indices": [
+						81,
+						87
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NeenaModi1",
+					"name": "Neena Modi",
+					"id": 3226118481,
+					"id_str": "3226118481",
+					"indices": [
+						44,
+						55
+					]
+				},
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						88,
+						96
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2289,
+			"friends_count": 3616,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Why do you the things you do? #Leadership \n\n@NeenaModi1 discussing her \"why\" ... #HLA20 @HLA_int"
+	},
+	{
+		"created_at": "Sat Sep 05 09:15:54 +0000 2020",
+		"id": 1302173601324556300,
+		"id_str": "1302173601324556289",
+		"full_text": "So excited to be starting my leadership journey with The Healthcare Leadership Academy today #HLA20 @HLA_int 🤩 https://t.co/in0gbXRezn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HLA20",
+					"indices": [
+						93,
+						99
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						100,
+						108
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/in0gbXRezn",
+					"expanded_url": "https://twitter.com/ElleLouM/status/1302172286557073408",
+					"display_url": "twitter.com/ElleLouM/statu…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2289,
+			"friends_count": 3616,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1302172286557073400,
+		"quoted_status_id_str": "1302172286557073408",
+		"quoted_status_permalink": {
+			"url": "https://t.co/in0gbXRezn",
+			"expanded": "https://twitter.com/ElleLouM/status/1302172286557073408",
+			"display": "twitter.com/ElleLouM/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 05 09:10:40 +0000 2020",
+			"id": 1302172286557073400,
+			"id_str": "1302172286557073408",
+			"full_text": "Such an epic virtual attendance! Very exciting #HLA20 - so much talent on one Zoom call #Leaders #Ambition what kind of leader do you want to be? 🥰 https://t.co/RLwtamIvuQ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				147
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HLA20",
+						"indices": [
+							47,
+							53
+						]
+					},
+					{
+						"text": "Leaders",
+						"indices": [
+							88,
+							96
+						]
+					},
+					{
+						"text": "Ambition",
+						"indices": [
+							97,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1302172277937778700,
+						"id_str": "1302172277937778688",
+						"indices": [
+							148,
+							171
+						],
+						"media_url": "http://pbs.twimg.com/media/EhI-yZ7XsAAPo4A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EhI-yZ7XsAAPo4A.jpg",
+						"url": "https://t.co/RLwtamIvuQ",
+						"display_url": "pic.twitter.com/RLwtamIvuQ",
+						"expanded_url": "https://twitter.com/ElleLouM/status/1302172286557073408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1302172277937778700,
+						"id_str": "1302172277937778688",
+						"indices": [
+							148,
+							171
+						],
+						"media_url": "http://pbs.twimg.com/media/EhI-yZ7XsAAPo4A.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EhI-yZ7XsAAPo4A.jpg",
+						"url": "https://t.co/RLwtamIvuQ",
+						"display_url": "pic.twitter.com/RLwtamIvuQ",
+						"expanded_url": "https://twitter.com/ElleLouM/status/1302172286557073408/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 577467631,
+				"id_str": "577467631",
+				"name": "Eleanor (Elle) Morris",
+				"screen_name": "ElleLouM",
+				"location": "Hull, England",
+				"description": "Final Year MBBS @HullYorkMed| Anatomy, Dev & Human Bio @KingsCollegeLon| Scholar @HLA_int| @SKIP_global Fundraising Coordinator| Vice MD @everyoneinheal 🌺",
+				"url": "https://t.co/KlOUMXS3en",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KlOUMXS3en",
+								"expanded_url": "http://www.everyoneinhealth.co.uk",
+								"display_url": "everyoneinhealth.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 389,
+				"friends_count": 552,
+				"listed_count": 2,
+				"created_at": "Fri May 11 21:12:28 +0000 2012",
+				"favourites_count": 1803,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3473,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000535",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1285298438507319298/xdrnc3Rv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1285298438507319298/xdrnc3Rv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/577467631/1597922703",
+				"profile_link_color": "9266CC",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So excited to be starting my leadership journey with The Healthcare Leadership Academy today #HLA20 @HLA_int 🤩 https://t.co/in0gbXRezn"
+	},
+	{
+		"created_at": "Sat Sep 05 09:07:34 +0000 2020",
+		"id": 1302171504168308700,
+		"id_str": "1302171504168308736",
+		"full_text": "Hello @HLA_int 👋 \nSuper excited to meeting this years cohort (virtually) 😎 #HLA20\n\n* &amp; thanks for @Shaun_LDNurse for being an excellent host as we are out in #Birmingham afterwards 💃 https://t.co/bcFKmjjBpG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HLA20",
+					"indices": [
+						75,
+						81
+					]
+				},
+				{
+					"text": "Birmingham",
+					"indices": [
+						162,
+						173
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"screen_name": "Shaun_LDNurse",
+					"name": "Shaun Williams",
+					"id": 901055791515435000,
+					"id_str": "901055791515435008",
+					"indices": [
+						102,
+						116
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1302171497440649200,
+					"id_str": "1302171497440649218",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/EhI-E-WWoAISsmB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhI-E-WWoAISsmB.jpg",
+					"url": "https://t.co/bcFKmjjBpG",
+					"display_url": "pic.twitter.com/bcFKmjjBpG",
+					"expanded_url": "https://twitter.com/beardedPT/status/1302171504168308736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1302171497440649200,
+					"id_str": "1302171497440649218",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/EhI-E-WWoAISsmB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhI-E-WWoAISsmB.jpg",
+					"url": "https://t.co/bcFKmjjBpG",
+					"display_url": "pic.twitter.com/bcFKmjjBpG",
+					"expanded_url": "https://twitter.com/beardedPT/status/1302171504168308736/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2289,
+			"friends_count": 3616,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6389,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hello @HLA_int 👋 \nSuper excited to meeting this years cohort (virtually) 😎 #HLA20\n\n* &amp; thanks for @Shaun_LDNurse for being an excellent host as we are out in #Birmingham afterwards 💃 https://t.co/bcFKmjjBpG"
+	},
+	{
+		"created_at": "Sat Sep 05 09:04:50 +0000 2020",
+		"id": 1302168080345378800,
+		"id_str": "1302170815077724160",
+		"full_text": "Day 1 as a #HLA20 scholar! Feeling excited and nervous at the same time 🙈 can’t wait to ‘meet’ everyone and glad that there are some familiar faces too @beardedPT @felicityallman @RalucaVagner #150Leaders get everywhere 🙌🏻",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HLA20",
+					"indices": [
+						11,
+						17
+					]
+				},
+				{
+					"text": "150Leaders",
+					"indices": [
+						193,
+						204
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						152,
+						162
+					]
+				},
+				{
+					"screen_name": "felicityallman",
+					"name": "Felicity Allman",
+					"id": 781140957995622400,
+					"id_str": "781140957995622400",
+					"indices": [
+						163,
+						178
+					]
+				},
+				{
+					"screen_name": "RalucaVagner",
+					"name": "Raluca Vagner",
+					"id": 475210366,
+					"id_str": "475210366",
+					"indices": [
+						179,
+						192
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 47191682,
+			"id_str": "47191682",
+			"name": "Sarah Bradder",
+			"screen_name": "SarahBradder",
+			"location": "",
+			"description": "Therapeutic rad | @SHURadiotherapy grad | @councilofdeans #150leaders | @WeAHPs lead | SoR UK Student Therapeutic Rad 2019 | @HLA_int Scholar ‘20 | views my own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 995,
+			"friends_count": 726,
+			"listed_count": 4,
+			"created_at": "Sun Jun 14 22:23:41 +0000 2009",
+			"favourites_count": 10067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3683,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FCEBB6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1192436869344223233/hbiFvze3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1192436869344223233/hbiFvze3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/47191682/1588078049",
+			"profile_link_color": "CE7834",
+			"profile_sidebar_border_color": "F0A830",
+			"profile_sidebar_fill_color": "78C0A8",
+			"profile_text_color": "5E412F",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 30,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Day 1 as a #HLA20 scholar! Feeling excited and nervous at the same time 🙈 can’t wait to ‘meet’ everyone and glad that there are some familiar faces too @beardedPT @felicityallman @RalucaVagner #150Leaders get everywhere 🙌🏻"
+	},
+	{
 		"created_at": "Fri Sep 04 18:26:06 +0000 2020",
 		"id": 1301909722782724000,
 		"id_str": "1301949676413956096",
