@@ -1,6 +1,293 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 06 17:39:32 +0000 2020",
+		"id": 1302662732529971200,
+		"id_str": "1302662732529971205",
+		"full_text": "@receivingconsnt @Apple I guess it depends how deep you are into the Apple ecosystem &amp; how deep your pockets are?",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "receivingconsnt",
+					"name": "Emma Heron RN #WashURHands 😷 💙 #BlackLivesMatter",
+					"id": 894628987363893200,
+					"id_str": "894628987363893249",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "Apple",
+					"name": "Apple",
+					"id": 380749300,
+					"id_str": "380749300",
+					"indices": [
+						17,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1302657442828947500,
+		"in_reply_to_status_id_str": "1302657442828947456",
+		"in_reply_to_user_id": 894628987363893200,
+		"in_reply_to_user_id_str": "894628987363893249",
+		"in_reply_to_screen_name": "receivingconsnt",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2295,
+			"friends_count": 3618,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18769,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@receivingconsnt @Apple I guess it depends how deep you are into the Apple ecosystem &amp; how deep your pockets are?"
+	},
+	{
+		"created_at": "Sun Sep 06 16:15:26 +0000 2020",
+		"id": 1302640410280579000,
+		"id_str": "1302641566620758016",
+		"full_text": "Frightened of a First Job Finding Frenzy? \n\nSeptember often signals a transition period, so we decided the tackle the scary but exciting subject of those first job applications\n\nCheck out our 2nd video up now 📽️https://t.co/wejJ5Z5CUM\n\nShare any questions or experiences with us https://t.co/M3HlRHwvPL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wejJ5Z5CUM",
+					"expanded_url": "https://www.youtube.com/watch?v=6OctEU8dRBU",
+					"display_url": "youtube.com/watch?v=6OctEU…",
+					"indices": [
+						211,
+						234
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1302640165261893600,
+					"id_str": "1302640165261893632",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EhPoVCCXYAAVKAh.png",
+					"media_url_https": "https://pbs.twimg.com/media/EhPoVCCXYAAVKAh.png",
+					"url": "https://t.co/M3HlRHwvPL",
+					"display_url": "pic.twitter.com/M3HlRHwvPL",
+					"expanded_url": "https://twitter.com/PMFirstSteps/status/1302640410280579081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1302640165261893600,
+					"id_str": "1302640165261893632",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/EhPoVCCXYAAVKAh.png",
+					"media_url_https": "https://pbs.twimg.com/media/EhPoVCCXYAAVKAh.png",
+					"url": "https://t.co/M3HlRHwvPL",
+					"display_url": "pic.twitter.com/M3HlRHwvPL",
+					"expanded_url": "https://twitter.com/PMFirstSteps/status/1302640410280579081/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 840861722286137300,
+			"id_str": "840861722286137349",
+			"name": "Physio Matters First Steps",
+			"screen_name": "PMFirstSteps",
+			"location": "",
+			"description": "Run by/for therapy students & new grads.\nExplore those “stupid” questions, build connections & share experiences.\nSupported by @TPMPodcast\nNewsletter ⬇",
+			"url": "https://t.co/tq9vjQsSVt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tq9vjQsSVt",
+							"expanded_url": "https://mailchi.mp/e343b3da2651/firs-steps",
+							"display_url": "mailchi.mp/e343b3da2651/f…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1207,
+			"friends_count": 102,
+			"listed_count": 5,
+			"created_at": "Sun Mar 12 09:47:11 +0000 2017",
+			"favourites_count": 895,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 301,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273929840358555652/mP6SWVq7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273929840358555652/mP6SWVq7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/840861722286137349/1592563518",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 25,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Frightened of a First Job Finding Frenzy? \n\nSeptember often signals a transition period, so we decided the tackle the scary but exciting subject of those first job applications\n\nCheck out our 2nd video up now 📽️https://t.co/wejJ5Z5CUM\n\nShare any questions or experiences with us https://t.co/M3HlRHwvPL"
+	},
+	{
 		"created_at": "Sat Sep 05 21:49:06 +0000 2020",
 		"id": 1302363150654767000,
 		"id_str": "1302363150654767105",
