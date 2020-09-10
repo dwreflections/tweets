@@ -1,6 +1,616 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 09 21:34:55 +0000 2020",
+		"id": 1303809130835185700,
+		"id_str": "1303809130835185668",
+		"full_text": "@gee_mellor I got told I couldn’t apply theory to practice in my final graded placement 🤷‍♂️🙃\n\nBoth living our best life now... 😇",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gee_mellor",
+					"name": "Georgina",
+					"id": 1139531911959896000,
+					"id_str": "1139531911959896064",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1303803550124957700,
+		"in_reply_to_status_id_str": "1303803550124957701",
+		"in_reply_to_user_id": 1139531911959896000,
+		"in_reply_to_user_id_str": "1139531911959896064",
+		"in_reply_to_screen_name": "gee_mellor",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2315,
+			"friends_count": 3648,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gee_mellor I got told I couldn’t apply theory to practice in my final graded placement 🤷‍♂️🙃\n\nBoth living our best life now... 😇"
+	},
+	{
+		"created_at": "Wed Sep 09 18:02:03 +0000 2020",
+		"id": 1303755561217949700,
+		"id_str": "1303755561217949696",
+		"full_text": "* drawer 🙋🏻‍♂️",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1303746421859012600,
+		"in_reply_to_status_id_str": "1303746421859012608",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2315,
+			"friends_count": 3648,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "* drawer 🙋🏻‍♂️"
+	},
+	{
+		"created_at": "Wed Sep 09 17:25:44 +0000 2020",
+		"id": 1303746421859012600,
+		"id_str": "1303746421859012608",
+		"full_text": "Ok Twitter - riddle me this 👇\n\nWe can’t all be using pebble pad or a draw full of notes &amp; certificates ... 🤔\n\n#CPD #150Leaders #HLA20 #physiotalk @PMFirstSteps @WeAHPs @MSKReform https://t.co/OlHW32IfTI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CPD",
+					"indices": [
+						114,
+						118
+					]
+				},
+				{
+					"text": "150Leaders",
+					"indices": [
+						119,
+						130
+					]
+				},
+				{
+					"text": "HLA20",
+					"indices": [
+						131,
+						137
+					]
+				},
+				{
+					"text": "physiotalk",
+					"indices": [
+						138,
+						149
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PMFirstSteps",
+					"name": "Physio Matters First Steps",
+					"id": 840861722286137300,
+					"id_str": "840861722286137349",
+					"indices": [
+						150,
+						163
+					]
+				},
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs 💙",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						164,
+						171
+					]
+				},
+				{
+					"screen_name": "MSKReform",
+					"name": "MSKReform",
+					"id": 1173641102701793300,
+					"id_str": "1173641102701793280",
+					"indices": [
+						172,
+						182
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OlHW32IfTI",
+					"expanded_url": "https://twitter.com/benbaileypt/status/1303325842567766018",
+					"display_url": "twitter.com/benbaileypt/st…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2315,
+			"friends_count": 3648,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1303325842567766000,
+		"quoted_status_id_str": "1303325842567766018",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OlHW32IfTI",
+			"expanded": "https://twitter.com/benbaileypt/status/1303325842567766018",
+			"display": "twitter.com/benbaileypt/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 08 13:34:30 +0000 2020",
+			"id": 1303325842567766000,
+			"id_str": "1303325842567766018",
+			"full_text": "Beyond Pebblepad and the CSP e-portfolio, what other options are out there and what do most people find is an effective way to log CPD post-uni?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				144
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1154093335172341800,
+				"id_str": "1154093335172341762",
+				"name": "Ben Bailey",
+				"screen_name": "BenBaileyPT",
+				"location": "Lake District, England ",
+				"description": "Physiotherapist at Blackpool Teaching Hospitals || Currently on Surgery & Cardiothoracics",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 181,
+				"friends_count": 412,
+				"listed_count": 0,
+				"created_at": "Wed Jul 24 18:17:47 +0000 2019",
+				"favourites_count": 1644,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 372,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1303430778467033088/BbORU4Yd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1303430778467033088/BbORU4Yd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1154093335172341762/1587848021",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ok Twitter - riddle me this 👇\n\nWe can’t all be using pebble pad or a draw full of notes &amp; certificates ... 🤔\n\n#CPD #150Leaders #HLA20 #physiotalk @PMFirstSteps @WeAHPs @MSKReform https://t.co/OlHW32IfTI"
+	},
+	{
+		"created_at": "Wed Sep 09 17:21:24 +0000 2020",
+		"id": 1303745331562270700,
+		"id_str": "1303745331562270720",
+		"full_text": "@lrobbo89 @AdamMeakins @GregLehman @DerekGriffin86 @tomgoom @Brad_Beer @runnerphysio @hjluks @rwilly2003 Yes.. https://t.co/4F5CGkD7Oi @MSKReform",
+		"truncated": false,
+		"display_text_range": [
+			105,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lrobbo89",
+					"name": "Lou 🦖",
+					"id": 40983708,
+					"id_str": "40983708",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "AdamMeakins",
+					"name": "The Sp⚽️rts Physio",
+					"id": 20363222,
+					"id_str": "20363222",
+					"indices": [
+						10,
+						22
+					]
+				},
+				{
+					"screen_name": "GregLehman",
+					"name": "Greg Lehman",
+					"id": 228203181,
+					"id_str": "228203181",
+					"indices": [
+						23,
+						34
+					]
+				},
+				{
+					"screen_name": "DerekGriffin86",
+					"name": "Derek Griffin",
+					"id": 552294927,
+					"id_str": "552294927",
+					"indices": [
+						35,
+						50
+					]
+				},
+				{
+					"screen_name": "tomgoom",
+					"name": "RunningPhysio",
+					"id": 365600467,
+					"id_str": "365600467",
+					"indices": [
+						51,
+						59
+					]
+				},
+				{
+					"screen_name": "Brad_Beer",
+					"name": "Running.Physio",
+					"id": 395672991,
+					"id_str": "395672991",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"screen_name": "runnerphysio",
+					"name": "Chris Napier PT, PhD",
+					"id": 466783245,
+					"id_str": "466783245",
+					"indices": [
+						71,
+						84
+					]
+				},
+				{
+					"screen_name": "hjluks",
+					"name": "Howard Luks MD",
+					"id": 15056465,
+					"id_str": "15056465",
+					"indices": [
+						85,
+						92
+					]
+				},
+				{
+					"screen_name": "rwilly2003",
+					"name": "Rich Willy",
+					"id": 157164434,
+					"id_str": "157164434",
+					"indices": [
+						93,
+						104
+					]
+				},
+				{
+					"screen_name": "MSKReform",
+					"name": "MSKReform",
+					"id": 1173641102701793300,
+					"id_str": "1173641102701793280",
+					"indices": [
+						135,
+						145
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4F5CGkD7Oi",
+					"expanded_url": "https://mskr.info/musculoskeletal/injuries/hip-and-groin/osteoarthritis/",
+					"display_url": "mskr.info/musculoskeleta…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1303379621392584700,
+		"in_reply_to_status_id_str": "1303379621392584705",
+		"in_reply_to_user_id": 40983708,
+		"in_reply_to_user_id_str": "40983708",
+		"in_reply_to_screen_name": "lrobbo89",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2315,
+			"friends_count": 3648,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6418,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@lrobbo89 @AdamMeakins @GregLehman @DerekGriffin86 @tomgoom @Brad_Beer @runnerphysio @hjluks @rwilly2003 Yes.. https://t.co/4F5CGkD7Oi @MSKReform"
+	},
+	{
 		"created_at": "Tue Sep 08 20:33:48 +0000 2020",
 		"id": 1303431365233344500,
 		"id_str": "1303431365233344513",
@@ -1838,7 +2448,7 @@ Grailbird.data.tweets_2020_09 =
 		"created_at": "Tue Sep 08 07:50:39 +0000 2020",
 		"id": 1303218308070727700,
 		"id_str": "1303239309819105280",
-		"full_text": "💥 Episode 16 of The Words Matter Podcast is OUT 💥\n\nCausation in complexity - Philosophy for practice ⁦@ranilillanjum⁩ ⁦@Cause_Health⁩ ⁦@Dr_OliverT_PhD⁩ \n\nListen online, iTunes, google and Spotify 🎧 https://t.co/tJkudUtU1e",
+		"full_text": "💥 Episode 16 of The Words Matter Podcast is OUT 💥\n\nCausation in complexity - Philosophy for practice @ranilillanjum @Cause_Health @Dr_OliverT_PhD \n\nListen online, iTunes, google and Spotify 🎧 https://t.co/tJkudUtU1e",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -1969,7 +2579,7 @@ Grailbird.data.tweets_2020_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "💥 Episode 16 of The Words Matter Podcast is OUT 💥\n\nCausation in complexity - Philosophy for practice ⁦@ranilillanjum⁩ ⁦@Cause_Health⁩ ⁦@Dr_OliverT_PhD⁩ \n\nListen online, iTunes, google and Spotify 🎧 https://t.co/tJkudUtU1e"
+		"text": "💥 Episode 16 of The Words Matter Podcast is OUT 💥\n\nCausation in complexity - Philosophy for practice @ranilillanjum @Cause_Health @Dr_OliverT_PhD \n\nListen online, iTunes, google and Spotify 🎧 https://t.co/tJkudUtU1e"
 	},
 	{
 		"created_at": "Mon Sep 07 21:06:45 +0000 2020",
