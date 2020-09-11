@@ -1,10 +1,656 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 10 21:28:11 +0000 2020",
+		"id": 1304169828182380500,
+		"id_str": "1304169828182380544",
+		"full_text": "@coastphysio24 @WordsClinical It’s brilliant 👍🤩",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "coastphysio24",
+					"name": "diarmaid ferguson",
+					"id": 1380721531,
+					"id_str": "1380721531",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "WordsClinical",
+					"name": "Words Matter - Improving Clinical Communication",
+					"id": 1228805157233795000,
+					"id_str": "1228805157233795073",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1304168906320490500,
+		"in_reply_to_status_id_str": "1304168906320490497",
+		"in_reply_to_user_id": 1380721531,
+		"in_reply_to_user_id_str": "1380721531",
+		"in_reply_to_screen_name": "coastphysio24",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2317,
+			"friends_count": 3654,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@coastphysio24 @WordsClinical It’s brilliant 👍🤩"
+	},
+	{
+		"created_at": "Thu Sep 10 21:21:04 +0000 2020",
+		"id": 1304168033951379500,
+		"id_str": "1304168033951379459",
+		"full_text": "Well, I was hoping for some sort of open source scalable application to automate all my CPD needs? \n\nHowever, I will be keeping my folder/drawer... 📂 \n\nPs - If your a developer/physio there may be a really interesting project to get involved in #DigitalPhysip",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigitalPhysip",
+					"indices": [
+						245,
+						259
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1303755561217949700,
+		"in_reply_to_status_id_str": "1303755561217949696",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2317,
+			"friends_count": 3654,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Well, I was hoping for some sort of open source scalable application to automate all my CPD needs? \n\nHowever, I will be keeping my folder/drawer... 📂 \n\nPs - If your a developer/physio there may be a really interesting project to get involved in #DigitalPhysip"
+	},
+	{
+		"created_at": "Thu Sep 10 21:17:12 +0000 2020",
+		"id": 1304167063565500400,
+		"id_str": "1304167063565500424",
+		"full_text": "@TaylorAlanJ I’m imagining that part 3 is a monologue on the risk of CAD while walking through the Bagthope Delta with the conclusion by a fire in a proper pub with an ale...\n\nHow far am I off the mark?",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			202
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TaylorAlanJ",
+					"name": "Alan J Taylor",
+					"id": 412127340,
+					"id_str": "412127340",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1304165405959901200,
+		"in_reply_to_status_id_str": "1304165405959901188",
+		"in_reply_to_user_id": 412127340,
+		"in_reply_to_user_id_str": "412127340",
+		"in_reply_to_screen_name": "TaylorAlanJ",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2317,
+			"friends_count": 3654,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TaylorAlanJ I’m imagining that part 3 is a monologue on the risk of CAD while walking through the Bagthope Delta with the conclusion by a fire in a proper pub with an ale...\n\nHow far am I off the mark?"
+	},
+	{
+		"created_at": "Thu Sep 10 21:03:16 +0000 2020",
+		"id": 1304163553998405600,
+		"id_str": "1304163553998405638",
+		"full_text": "@TaylorAlanJ Has Alan got a gimbal? \n\nAbsolutely, bringing up the production values on these CPD courses ✨",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TaylorAlanJ",
+					"name": "Alan J Taylor",
+					"id": 412127340,
+					"id_str": "412127340",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1304128277976682500,
+		"in_reply_to_status_id_str": "1304128277976682496",
+		"in_reply_to_user_id": 412127340,
+		"in_reply_to_user_id_str": "412127340",
+		"in_reply_to_screen_name": "TaylorAlanJ",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2317,
+			"friends_count": 3654,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TaylorAlanJ Has Alan got a gimbal? \n\nAbsolutely, bringing up the production values on these CPD courses ✨"
+	},
+	{
+		"created_at": "Thu Sep 10 20:39:34 +0000 2020",
+		"id": 1304157591317237800,
+		"id_str": "1304157591317237762",
+		"full_text": "@secraney You can’t have too many Cherry B’s 👍",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "secraney",
+					"name": "Sarah Crane 💚",
+					"id": 227369430,
+					"id_str": "227369430",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1304035293352341500,
+		"in_reply_to_status_id_str": "1304035293352341505",
+		"in_reply_to_user_id": 227369430,
+		"in_reply_to_user_id_str": "227369430",
+		"in_reply_to_screen_name": "secraney",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2317,
+			"friends_count": 3654,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18929,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@secraney You can’t have too many Cherry B’s 👍"
+	},
+	{
+		"created_at": "Thu Sep 10 17:43:37 +0000 2020",
+		"id": 1304047758752518100,
+		"id_str": "1304113313261944843",
+		"full_text": "Physio: ‘How have you been getting on with your exercises?’ \nPatient: ‘I lost the sheet.’ https://t.co/V1JrhZ7igX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1304047754415673300,
+					"id_str": "1304047754415673344",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EhjohgQXkAA7S6W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhjohgQXkAA7S6W.jpg",
+					"url": "https://t.co/V1JrhZ7igX",
+					"display_url": "pic.twitter.com/V1JrhZ7igX",
+					"expanded_url": "https://twitter.com/SimonBrunner1/status/1304047758752518144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 623,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 623,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 392,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1304047754415673300,
+					"id_str": "1304047754415673344",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/EhjohgQXkAA7S6W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EhjohgQXkAA7S6W.jpg",
+					"url": "https://t.co/V1JrhZ7igX",
+					"display_url": "pic.twitter.com/V1JrhZ7igX",
+					"expanded_url": "https://twitter.com/SimonBrunner1/status/1304047758752518144/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1080,
+							"h": 623,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 623,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 392,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 342296524,
+			"id_str": "342296524",
+			"name": "Simon Brunner",
+			"screen_name": "SimonBrunner1",
+			"location": "London, United Kingdom",
+			"description": "Epic EHR Clinical Systems Designer/Analyst @uclh. Senior Chartered Physiotherapist. #digitalhealth #clinicalinformatics #QI, sprinkled with 📸/👨‍🍳/🐱/✡️.",
+			"url": "https://t.co/MKwnpkmBRR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/MKwnpkmBRR",
+							"expanded_url": "http://linkedin.com/in/simon-brunner-b36a9a47",
+							"display_url": "linkedin.com/in/simon-brunn…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 531,
+			"friends_count": 1067,
+			"listed_count": 1,
+			"created_at": "Mon Jul 25 19:52:48 +0000 2011",
+			"favourites_count": 1107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 954,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288390007565234176/A_oOr2n1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288390007565234176/A_oOr2n1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/342296524/1590957098",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 60,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Physio: ‘How have you been getting on with your exercises?’ \nPatient: ‘I lost the sheet.’ https://t.co/V1JrhZ7igX"
+	},
+	{
 		"created_at": "Wed Sep 09 21:34:55 +0000 2020",
 		"id": 1303809130835185700,
 		"id_str": "1303809130835185668",
-		"full_text": "@gee_mellor I got told I couldn’t apply theory to practice in my final graded placement 🤷‍♂️🙃\n\nBoth living our best life now... 😇",
+		"full_text": "@gee_mellor I got told I couldn’t apply theory to practice in my final graded placement 🤷♂️🙃\n\nBoth living our best life now... 😇",
 		"truncated": false,
 		"display_text_range": [
 			12,
@@ -91,13 +737,13 @@ Grailbird.data.tweets_2020_09 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@gee_mellor I got told I couldn’t apply theory to practice in my final graded placement 🤷‍♂️🙃\n\nBoth living our best life now... 😇"
+		"text": "@gee_mellor I got told I couldn’t apply theory to practice in my final graded placement 🤷♂️🙃\n\nBoth living our best life now... 😇"
 	},
 	{
 		"created_at": "Wed Sep 09 18:02:03 +0000 2020",
 		"id": 1303755561217949700,
 		"id_str": "1303755561217949696",
-		"full_text": "* drawer 🙋🏻‍♂️",
+		"full_text": "* drawer 🙋🏻♂️",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -173,7 +819,7 @@ Grailbird.data.tweets_2020_09 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "* drawer 🙋🏻‍♂️"
+		"text": "* drawer 🙋🏻♂️"
 	},
 	{
 		"created_at": "Wed Sep 09 17:25:44 +0000 2020",
