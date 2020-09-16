@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 15 11:40:27 +0000 2020",
+		"id": 1305833856650678300,
+		"id_str": "1305833856650678272",
+		"full_text": "@adamtranter can you sort George out? 👇👍 https://t.co/LsWGyWmAt4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adamtranter",
+					"name": "Adam Tranter",
+					"id": 52696602,
+					"id_str": "52696602",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LsWGyWmAt4",
+					"expanded_url": "https://twitter.com/georgetharakan5/status/1305641462902779905",
+					"display_url": "twitter.com/georgetharakan…",
+					"indices": [
+						41,
+						64
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 52696602,
+		"in_reply_to_user_id_str": "52696602",
+		"in_reply_to_screen_name": "adamtranter",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2331,
+			"friends_count": 3671,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 18984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6425,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1305641462902780000,
+		"quoted_status_id_str": "1305641462902779905",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LsWGyWmAt4",
+			"expanded": "https://twitter.com/georgetharakan5/status/1305641462902779905",
+			"display": "twitter.com/georgetharakan…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Sep 14 22:55:57 +0000 2020",
+			"id": 1305641462902780000,
+			"id_str": "1305641462902779905",
+			"full_text": "Really gutted that someone stole my Brompton today! It my main means of getting to work and after a 14 hour shift in the NHS it seems so unfair",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				143
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 850663776001151000,
+				"id_str": "850663776001150976",
+				"name": "George Tharakan",
+				"screen_name": "GeorgeTharakan5",
+				"location": "London, England",
+				"description": "Consultant in Acute Medicine/ Diabetes and Endocrinolgy @imperialnhs",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 230,
+				"friends_count": 499,
+				"listed_count": 0,
+				"created_at": "Sat Apr 08 10:57:03 +0000 2017",
+				"favourites_count": 929,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 98,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/976554933104316417/Ad76PsKq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/976554933104316417/Ad76PsKq_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "4f060a213b552e5f",
+				"url": "https://api.twitter.com/1.1/geo/id/4f060a213b552e5f.json",
+				"place_type": "city",
+				"name": "Harrow",
+				"full_name": "Harrow, London",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.403988,
+								51.55309
+							],
+							[
+								-0.270137,
+								51.55309
+							],
+							[
+								-0.270137,
+								51.6385757
+							],
+							[
+								-0.403988,
+								51.6385757
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 28,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@adamtranter can you sort George out? 👇👍 https://t.co/LsWGyWmAt4"
+	},
+	{
 		"created_at": "Thu Sep 10 21:28:11 +0000 2020",
 		"id": 1304169828182380500,
 		"id_str": "1304169828182380544",
@@ -578,7 +802,7 @@ Grailbird.data.tweets_2020_09 =
 			"name": "Simon Brunner",
 			"screen_name": "SimonBrunner1",
 			"location": "London, United Kingdom",
-			"description": "Epic EHR Clinical Systems Designer/Analyst @uclh. Senior Chartered Physiotherapist. #digitalhealth #clinicalinformatics #QI, sprinkled with 📸/👨‍🍳/🐱/✡️.",
+			"description": "Epic EHR Clinical Systems Designer/Analyst @uclh. Senior Chartered Physiotherapist. #digitalhealth #clinicalinformatics #QI, sprinkled with 📸/👨🍳/🐱/✡️.",
 			"url": "https://t.co/MKwnpkmBRR",
 			"entities": {
 				"url": {
