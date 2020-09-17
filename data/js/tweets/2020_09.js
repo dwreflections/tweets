@@ -1,6 +1,107 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Wed Sep 16 20:02:16 +0000 2020",
+		"id": 1306303332684791800,
+		"id_str": "1306322532472098816",
+		"full_text": "‘We are happy to learn about most things in life, but tend to be stunted in our willingness to learn about culture’ @Manni_O #CSPBAME",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CSPBAME",
+					"indices": [
+						125,
+						133
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Manni_O",
+					"name": "Emmanuel Ovola",
+					"id": 57151739,
+					"id_str": "57151739",
+					"indices": [
+						116,
+						124
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 457442958,
+			"id_str": "457442958",
+			"name": "Alex MacKenzie",
+			"screen_name": "AlexMacKenzie11",
+			"location": "Inverurie",
+			"description": "Chair of CSP Council, Trade unionist and Physiotherapist, standing up for members and our patients. She/her. \nAll views are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2058,
+			"friends_count": 505,
+			"listed_count": 19,
+			"created_at": "Sat Jan 07 12:16:44 +0000 2012",
+			"favourites_count": 38973,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1120230112413220864/SujpbYql_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1120230112413220864/SujpbYql_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/457442958/1525600259",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 15,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "‘We are happy to learn about most things in life, but tend to be stunted in our willingness to learn about culture’ @Manni_O #CSPBAME"
+	},
+	{
 		"created_at": "Tue Sep 15 11:40:27 +0000 2020",
 		"id": 1305833856650678300,
 		"id_str": "1305833856650678272",
