@@ -1,6 +1,654 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Thu Sep 17 20:31:21 +0000 2020",
+		"id": 1306692237137506300,
+		"id_str": "1306692237137506304",
+		"full_text": "@physio_back @thecspstudents @fimo18 @RogerKerry1 Great RT",
+		"truncated": false,
+		"display_text_range": [
+			50,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "physio_back",
+					"name": "ThePhysioBack",
+					"id": 1048100165582839800,
+					"id_str": "1048100165582839808",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "thecspstudents",
+					"name": "CSP Students",
+					"id": 444648690,
+					"id_str": "444648690",
+					"indices": [
+						13,
+						28
+					]
+				},
+				{
+					"screen_name": "fimo18",
+					"name": "Dr Fiona Moffatt",
+					"id": 508806750,
+					"id_str": "508806750",
+					"indices": [
+						29,
+						36
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						37,
+						49
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1306682983747858400,
+		"in_reply_to_status_id_str": "1306682983747858434",
+		"in_reply_to_user_id": 1048100165582839800,
+		"in_reply_to_user_id_str": "1048100165582839808",
+		"in_reply_to_screen_name": "physio_back",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2333,
+			"friends_count": 3675,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6430,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@physio_back @thecspstudents @fimo18 @RogerKerry1 Great RT"
+	},
+	{
+		"created_at": "Thu Sep 17 19:40:06 +0000 2020",
+		"id": 1306679342127292400,
+		"id_str": "1306679342127292416",
+		"full_text": "@physio_back @thecspstudents How have you dug this up @physio_back ! \n\n@fimo18 &amp; @RogerKerry1 are still converting the lurkers or are they ... 🤩",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "physio_back",
+					"name": "ThePhysioBack",
+					"id": 1048100165582839800,
+					"id_str": "1048100165582839808",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "thecspstudents",
+					"name": "CSP Students",
+					"id": 444648690,
+					"id_str": "444648690",
+					"indices": [
+						13,
+						28
+					]
+				},
+				{
+					"screen_name": "physio_back",
+					"name": "ThePhysioBack",
+					"id": 1048100165582839800,
+					"id_str": "1048100165582839808",
+					"indices": [
+						54,
+						66
+					]
+				},
+				{
+					"screen_name": "fimo18",
+					"name": "Dr Fiona Moffatt",
+					"id": 508806750,
+					"id_str": "508806750",
+					"indices": [
+						71,
+						78
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						85,
+						97
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1306677117007138800,
+		"in_reply_to_status_id_str": "1306677117007138823",
+		"in_reply_to_user_id": 1048100165582839800,
+		"in_reply_to_user_id_str": "1048100165582839808",
+		"in_reply_to_screen_name": "physio_back",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2333,
+			"friends_count": 3675,
+			"listed_count": 15,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6430,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@physio_back @thecspstudents How have you dug this up @physio_back ! \n\n@fimo18 &amp; @RogerKerry1 are still converting the lurkers or are they ... 🤩"
+	},
+	{
+		"created_at": "Thu Sep 17 15:15:49 +0000 2020",
+		"id": 1306563266395680800,
+		"id_str": "1306612832126078976",
+		"full_text": "Great opportunity to expand our future workforce and to benefit from the experience the armed forces personnel can offer as AHPs @UHDBAHPs @UHDBTrust @CathyWinfield @beardedPT https://t.co/phUkLyuinM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UHDBAHPs",
+					"name": "UHDBAHPs",
+					"id": 1051752102530338800,
+					"id_str": "1051752102530338816",
+					"indices": [
+						129,
+						138
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						139,
+						149
+					]
+				},
+				{
+					"screen_name": "CathyWinfield",
+					"name": "Cathy Winfield RN MSc 💙",
+					"id": 2188050351,
+					"id_str": "2188050351",
+					"indices": [
+						150,
+						164
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						165,
+						175
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/phUkLyuinM",
+					"expanded_url": "https://twitter.com/PaulChapman09/status/1306501895658274818",
+					"display_url": "twitter.com/PaulChapman09/…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3337615893,
+			"id_str": "3337615893",
+			"name": "Grace Pearn",
+			"screen_name": "pearn_grace",
+			"location": "",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168,
+			"friends_count": 132,
+			"listed_count": 1,
+			"created_at": "Sat Jun 20 20:51:44 +0000 2015",
+			"favourites_count": 790,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1306501895658274800,
+		"quoted_status_id_str": "1306501895658274818",
+		"quoted_status_permalink": {
+			"url": "https://t.co/phUkLyuinM",
+			"expanded": "https://twitter.com/PaulChapman09/status/1306501895658274818",
+			"display": "twitter.com/PaulChapman09/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 17 07:55:00 +0000 2020",
+			"id": 1306501895658274800,
+			"id_str": "1306501895658274818",
+			"full_text": "One week to go before our workshop 'Attracting armed forces personnel to become the future AHP workforce' Planning moving at pace Platform looking good @teamtouchdesign @NHSEArmedForces @NHS_HealthEdEng @No8marketing @SuzanneRastrick @BeverleyHarden @CTPinfo #StepintoHealth https://t.co/RFR1VxCdPe",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "StepintoHealth",
+						"indices": [
+							259,
+							274
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "teamtouchdesign",
+						"name": "Touch Design",
+						"id": 175411546,
+						"id_str": "175411546",
+						"indices": [
+							152,
+							168
+						]
+					},
+					{
+						"screen_name": "NHSEArmedForces",
+						"name": "NHSE Armed Forces",
+						"id": 2831648813,
+						"id_str": "2831648813",
+						"indices": [
+							169,
+							185
+						]
+					},
+					{
+						"screen_name": "NHS_HealthEdEng",
+						"name": "NHS HEE",
+						"id": 637008966,
+						"id_str": "637008966",
+						"indices": [
+							186,
+							202
+						]
+					},
+					{
+						"screen_name": "No8marketing",
+						"name": "Katherine Wilson",
+						"id": 242758367,
+						"id_str": "242758367",
+						"indices": [
+							203,
+							216
+						]
+					},
+					{
+						"screen_name": "SuzanneRastrick",
+						"name": "Suzanne Rastrick",
+						"id": 1596992540,
+						"id_str": "1596992540",
+						"indices": [
+							217,
+							233
+						]
+					},
+					{
+						"screen_name": "BeverleyHarden",
+						"name": "Beverley Harden FCSP",
+						"id": 1641141318,
+						"id_str": "1641141318",
+						"indices": [
+							234,
+							249
+						]
+					},
+					{
+						"screen_name": "CTPinfo",
+						"name": "CTP",
+						"id": 325501772,
+						"id_str": "325501772",
+						"indices": [
+							250,
+							258
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1306315659291299800,
+						"id_str": "1306315659291299848",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/EiD3K8SWkAgHsR3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EiD3K8SWkAgHsR3.jpg",
+						"url": "https://t.co/RFR1VxCdPe",
+						"display_url": "pic.twitter.com/RFR1VxCdPe",
+						"expanded_url": "https://twitter.com/PaulChapman09/status/1306501895658274818/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1208,
+								"h": 678,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1306315659291299800,
+						"id_str": "1306315659291299848",
+						"indices": [
+							275,
+							298
+						],
+						"media_url": "http://pbs.twimg.com/media/EiD3K8SWkAgHsR3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EiD3K8SWkAgHsR3.jpg",
+						"url": "https://t.co/RFR1VxCdPe",
+						"display_url": "pic.twitter.com/RFR1VxCdPe",
+						"expanded_url": "https://twitter.com/PaulChapman09/status/1306501895658274818/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 674,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1208,
+								"h": 678,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 735562813146533900,
+				"id_str": "735562813146533888",
+				"name": "Paul_Chapman09",
+				"screen_name": "PaulChapman09",
+				"location": "Sheffield, England",
+				"description": "Health Education England National Programme Manager AHPs and Chartered Physiotherapist DSA (CSP) Views my own",
+				"url": "https://t.co/WdF0CdDzaw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/WdF0CdDzaw",
+								"expanded_url": "http://www.linkedin.com/in/paul-chapman-mcsp-dsa-csp-b7717156",
+								"display_url": "linkedin.com/in/paul-chapma…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1959,
+				"friends_count": 636,
+				"listed_count": 13,
+				"created_at": "Wed May 25 20:06:55 +0000 2016",
+				"favourites_count": 5730,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3967,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1195070914762878978/fKTW7F_d_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195070914762878978/fKTW7F_d_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/735562813146533888/1592073096",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17,
+			"favorite_count": 41,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great opportunity to expand our future workforce and to benefit from the experience the armed forces personnel can offer as AHPs @UHDBAHPs @UHDBTrust @CathyWinfield @beardedPT https://t.co/phUkLyuinM"
+	},
+	{
 		"created_at": "Wed Sep 16 20:02:16 +0000 2020",
 		"id": 1306303332684791800,
 		"id_str": "1306322532472098816",
