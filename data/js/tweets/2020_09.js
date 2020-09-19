@@ -1,6 +1,129 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Fri Sep 18 17:25:58 +0000 2020",
+		"id": 1307007973894623200,
+		"id_str": "1307007973894623232",
+		"full_text": "@chloedooley99 @CardiffUPhysio @CSPWales @thecspstudents Congratulations! Well deserved ✨✨👍",
+		"truncated": false,
+		"display_text_range": [
+			57,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "chloedooley99",
+					"name": "Chloe Dooley",
+					"id": 1091970360633897000,
+					"id_str": "1091970360633896960",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "CardiffUPhysio",
+					"name": "Cardiff Uni Physio",
+					"id": 862619011955216400,
+					"id_str": "862619011955216388",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "CSPWales",
+					"name": "CSP Wales",
+					"id": 2237915306,
+					"id_str": "2237915306",
+					"indices": [
+						31,
+						40
+					]
+				},
+				{
+					"screen_name": "thecspstudents",
+					"name": "CSP Students",
+					"id": 444648690,
+					"id_str": "444648690",
+					"indices": [
+						41,
+						56
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1306978756750344200,
+		"in_reply_to_status_id_str": "1306978756750344192",
+		"in_reply_to_user_id": 1091970360633897000,
+		"in_reply_to_user_id_str": "1091970360633896960",
+		"in_reply_to_screen_name": "chloedooley99",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2333,
+			"friends_count": 3679,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19029,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1598031810",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@chloedooley99 @CardiffUPhysio @CSPWales @thecspstudents Congratulations! Well deserved ✨✨👍"
+	},
+	{
 		"created_at": "Thu Sep 17 20:31:21 +0000 2020",
 		"id": 1306692237137506300,
 		"id_str": "1306692237137506304",
