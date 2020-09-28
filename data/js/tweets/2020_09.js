@@ -1,6 +1,608 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Sun Sep 27 18:56:45 +0000 2020",
+		"id": 1310292310694023200,
+		"id_str": "1310292310694023174",
+		"full_text": "Super interesting comments/discussion 👇\n\nHow often do we do this in the #NHS ?\n\n#Leadership #150Leaders #HLA20 https://t.co/bfdH2kmPsZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NHS",
+					"indices": [
+						72,
+						76
+					]
+				},
+				{
+					"text": "Leadership",
+					"indices": [
+						80,
+						91
+					]
+				},
+				{
+					"text": "150Leaders",
+					"indices": [
+						92,
+						103
+					]
+				},
+				{
+					"text": "HLA20",
+					"indices": [
+						104,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bfdH2kmPsZ",
+					"expanded_url": "https://twitter.com/elliewalls2/status/1310177898033221635",
+					"display_url": "twitter.com/elliewalls2/st…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2349,
+			"friends_count": 3722,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1600702003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1310177898033221600,
+		"quoted_status_id_str": "1310177898033221635",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bfdH2kmPsZ",
+			"expanded": "https://twitter.com/elliewalls2/status/1310177898033221635",
+			"display": "twitter.com/elliewalls2/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Sep 27 11:22:07 +0000 2020",
+			"id": 1310177898033221600,
+			"id_str": "1310177898033221635",
+			"full_text": "How often do the military, as individuals and an organisation, discount concepts and strategy proposed by juniors simply because they are a lower rank and do we have an awareness of this bias? \n\nDoes hierarchy stifle creativity in problem solving?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				247
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1256697243555565600,
+				"id_str": "1256697243555565569",
+				"name": "Ellie",
+				"screen_name": "EllieWalls2",
+				"location": "",
+				"description": "It's just me.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 150,
+				"friends_count": 434,
+				"listed_count": 2,
+				"created_at": "Sat May 02 21:29:14 +0000 2020",
+				"favourites_count": 2114,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 717,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1270018597679742986/IghvylIN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1270018597679742986/IghvylIN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1256697243555565569/1588583040",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 122,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Super interesting comments/discussion 👇\n\nHow often do we do this in the #NHS ?\n\n#Leadership #150Leaders #HLA20 https://t.co/bfdH2kmPsZ"
+	},
+	{
+		"created_at": "Sun Sep 27 18:52:56 +0000 2020",
+		"id": 1310291350915616800,
+		"id_str": "1310291350915616774",
+		"full_text": "@KaySocLearn @KaySocLearn this programme looks ace!!! If I was to do UG again... hmm 🤔 👍👍",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KaySocLearn",
+					"name": "Kay Sidebottom 🌿🕷",
+					"id": 1239722906,
+					"id_str": "1239722906",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "KaySocLearn",
+					"name": "Kay Sidebottom 🌿🕷",
+					"id": 1239722906,
+					"id_str": "1239722906",
+					"indices": [
+						13,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1310186344690442200,
+		"in_reply_to_status_id_str": "1310186344690442240",
+		"in_reply_to_user_id": 1239722906,
+		"in_reply_to_user_id_str": "1239722906",
+		"in_reply_to_screen_name": "KaySocLearn",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2349,
+			"friends_count": 3722,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1600702003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KaySocLearn @KaySocLearn this programme looks ace!!! If I was to do UG again... hmm 🤔 👍👍"
+	},
+	{
+		"created_at": "Sun Sep 27 18:50:36 +0000 2020",
+		"id": 1310290762886770700,
+		"id_str": "1310290762886770688",
+		"full_text": "@mikechitty Another book to add to my basket 👍",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mikechitty",
+					"name": "Mike Chitty",
+					"id": 21009225,
+					"id_str": "21009225",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1310259743492059100,
+		"in_reply_to_status_id_str": "1310259743492059139",
+		"in_reply_to_user_id": 21009225,
+		"in_reply_to_user_id_str": "21009225",
+		"in_reply_to_screen_name": "mikechitty",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2349,
+			"friends_count": 3722,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1600702003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mikechitty Another book to add to my basket 👍"
+	},
+	{
+		"created_at": "Sun Sep 27 12:10:57 +0000 2020",
+		"id": 1310190188451311600,
+		"id_str": "1310190188451311616",
+		"full_text": "@markreidphysio @JackAChew A wee Bain 🤣👍",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "markreidphysio",
+					"name": "Mark Reid",
+					"id": 2871415701,
+					"id_str": "2871415701",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "JackAChew",
+					"name": "Jack Chew",
+					"id": 868558446,
+					"id_str": "868558446",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1309996776699695000,
+		"in_reply_to_status_id_str": "1309996776699695104",
+		"in_reply_to_user_id": 2871415701,
+		"in_reply_to_user_id_str": "2871415701",
+		"in_reply_to_screen_name": "markreidphysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2349,
+			"friends_count": 3722,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1600702003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@markreidphysio @JackAChew A wee Bain 🤣👍"
+	},
+	{
+		"created_at": "Sun Sep 27 11:35:57 +0000 2020",
+		"id": 1310181381130068000,
+		"id_str": "1310181381130067969",
+		"full_text": "@fakeplasticbeez Get your degree! 👍",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "fakeplasticbeez",
+					"name": "Sarah",
+					"id": 744858505958547500,
+					"id_str": "744858505958547456",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1309577785476821000,
+		"in_reply_to_status_id_str": "1309577785476820994",
+		"in_reply_to_user_id": 744858505958547500,
+		"in_reply_to_user_id_str": "744858505958547456",
+		"in_reply_to_screen_name": "fakeplasticbeez",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2349,
+			"friends_count": 3722,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6467,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1600702003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@fakeplasticbeez Get your degree! 👍"
+	},
+	{
 		"created_at": "Sat Sep 26 22:03:49 +0000 2020",
 		"id": 1309977001441230800,
 		"id_str": "1309977001441230848",
@@ -2303,7 +2905,7 @@ Grailbird.data.tweets_2020_09 =
 			"user_mentions": [
 				{
 					"screen_name": "JghPhysio",
-					"name": "Jack Gladstone Holroyde 🏳️‍🌈🏳️‍⚧️✊🏽",
+					"name": "Jack Gladstone Holroyde 🏳️🌈🏳️⚧️✊🏽",
 					"id": 1046818903337422800,
 					"id_str": "1046818903337422849",
 					"indices": [
@@ -3301,7 +3903,7 @@ Grailbird.data.tweets_2020_09 =
 		"created_at": "Wed Sep 23 17:04:45 +0000 2020",
 		"id": 1308814571298271200,
 		"id_str": "1308814571298271236",
-		"full_text": "@combat_boot @Paninaro216 It’s all been spent on Crye uniforms now anyway 🤷‍♂️",
+		"full_text": "@combat_boot @Paninaro216 It’s all been spent on Crye uniforms now anyway 🤷♂️",
 		"truncated": false,
 		"display_text_range": [
 			26,
@@ -3398,7 +4000,7 @@ Grailbird.data.tweets_2020_09 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@combat_boot @Paninaro216 It’s all been spent on Crye uniforms now anyway 🤷‍♂️"
+		"text": "@combat_boot @Paninaro216 It’s all been spent on Crye uniforms now anyway 🤷♂️"
 	},
 	{
 		"created_at": "Wed Sep 23 17:00:35 +0000 2020",
