@@ -1,6 +1,623 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 29 20:09:29 +0000 2020",
+		"id": 1311035389659013000,
+		"id_str": "1311035389659013123",
+		"full_text": "Cleaner, factory worker, bar worker, office admin, record shop manager, journalist, civil servant, voluntary sector, CAC, NHS England, King’s College hospitals, Chief Exec  👇👍 https://t.co/UHzrMYDLGV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UHzrMYDLGV",
+					"expanded_url": "https://twitter.com/nhslocalgrowth/status/1310891943711461377",
+					"display_url": "twitter.com/nhslocalgrowth…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2351,
+			"friends_count": 3730,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1600702003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "52041af7b8001313",
+			"url": "https://api.twitter.com/1.1/geo/id/52041af7b8001313.json",
+			"place_type": "city",
+			"name": "Rugeley",
+			"full_name": "Rugeley, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.971255,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.739623
+						],
+						[
+							-1.911588,
+							52.773708
+						],
+						[
+							-1.971255,
+							52.773708
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1310891943711461400,
+		"quoted_status_id_str": "1310891943711461377",
+		"quoted_status_permalink": {
+			"url": "https://t.co/UHzrMYDLGV",
+			"expanded": "https://twitter.com/nhslocalgrowth/status/1310891943711461377",
+			"display": "twitter.com/nhslocalgrowth…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 29 10:39:29 +0000 2020",
+			"id": 1310891943711461400,
+			"id_str": "1310891943711461377",
+			"full_text": "Career background for @matthewtrainer (in his own words) not conventional for an NHS leader but shows the breadth of backgrounds that make up the NHS workforce. Great example of stepping into the NHS and building a career. So many opportunities to make a difference #NHSAnchors https://t.co/2GxKS4VaQ8",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NHSAnchors",
+						"indices": [
+							266,
+							277
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "matthewtrainer",
+						"name": "Matthew Trainer",
+						"id": 168580541,
+						"id_str": "168580541",
+						"indices": [
+							22,
+							37
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1310891938548265000,
+						"id_str": "1310891938548264960",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/EjE5RdAXsAAvY3s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjE5RdAXsAAvY3s.jpg",
+						"url": "https://t.co/2GxKS4VaQ8",
+						"display_url": "pic.twitter.com/2GxKS4VaQ8",
+						"expanded_url": "https://twitter.com/NHSLocalGrowth/status/1310891943711461377/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1310891938548265000,
+						"id_str": "1310891938548264960",
+						"indices": [
+							278,
+							301
+						],
+						"media_url": "http://pbs.twimg.com/media/EjE5RdAXsAAvY3s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjE5RdAXsAAvY3s.jpg",
+						"url": "https://t.co/2GxKS4VaQ8",
+						"display_url": "pic.twitter.com/2GxKS4VaQ8",
+						"expanded_url": "https://twitter.com/NHSLocalGrowth/status/1310891943711461377/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4860163101,
+				"id_str": "4860163101",
+				"name": "Michael Wood",
+				"screen_name": "NHSLocalGrowth",
+				"location": "A local economy near you (via Clitheroe, Brussels, London and latterly Brighton)",
+				"description": "Linking the NHS to the economy with @nhsconfed - attracting people into the NHS with @NHSEnglandLDN",
+				"url": "https://t.co/ZMlNShbWom",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZMlNShbWom",
+								"expanded_url": "http://www.nhsconfed.org/localgrowth",
+								"display_url": "nhsconfed.org/localgrowth",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2351,
+				"friends_count": 2664,
+				"listed_count": 41,
+				"created_at": "Fri Jan 29 13:11:34 +0000 2016",
+				"favourites_count": 1096,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6611,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1039892675279958016/uTafisVZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1039892675279958016/uTafisVZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4860163101/1454508094",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 4,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cleaner, factory worker, bar worker, office admin, record shop manager, journalist, civil servant, voluntary sector, CAC, NHS England, King’s College hospitals, Chief Exec  👇👍 https://t.co/UHzrMYDLGV"
+	},
+	{
+		"created_at": "Tue Sep 29 11:02:35 +0000 2020",
+		"id": 1310897758174408700,
+		"id_str": "1310897758174408705",
+		"full_text": "@bell_bentley @GatesPhysio Do you still have your folder @GatesPhysio ? ✨",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bell_bentley",
+					"name": "Amelia",
+					"id": 469375429,
+					"id_str": "469375429",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "GatesPhysio",
+					"name": "John Gates 😷",
+					"id": 451401278,
+					"id_str": "451401278",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "GatesPhysio",
+					"name": "John Gates 😷",
+					"id": 451401278,
+					"id_str": "451401278",
+					"indices": [
+						57,
+						69
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1310670240062353400,
+		"in_reply_to_status_id_str": "1310670240062353409",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2351,
+			"friends_count": 3730,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1600702003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1f592b82aea688ff",
+			"url": "https://api.twitter.com/1.1/geo/id/1f592b82aea688ff.json",
+			"place_type": "city",
+			"name": "Derby",
+			"full_name": "Derby, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.556856,
+							52.870587
+						],
+						[
+							-1.384701,
+							52.870587
+						],
+						[
+							-1.384701,
+							52.960473
+						],
+						[
+							-1.556856,
+							52.960473
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bell_bentley @GatesPhysio Do you still have your folder @GatesPhysio ? ✨"
+	},
+	{
+		"created_at": "Tue Sep 29 11:02:04 +0000 2020",
+		"id": 1310897627593138200,
+		"id_str": "1310897627593138176",
+		"full_text": "@PureSports01 @PMFirstSteps @TPMPodcast I think the difficulty as a student is the juxtaposition of the complexity discussed versus the certainty of some of the teaching during training. \n\nI’d suggest there is less BS here than other social media platforms...",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PureSports01",
+					"name": "Rhys Perrett",
+					"id": 392151986,
+					"id_str": "392151986",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "PMFirstSteps",
+					"name": "Physio Matters First Steps",
+					"id": 840861722286137300,
+					"id_str": "840861722286137349",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "TPMPodcast",
+					"name": "Physio Matters",
+					"id": 1914280350,
+					"id_str": "1914280350",
+					"indices": [
+						28,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1310853114120089600,
+		"in_reply_to_status_id_str": "1310853114120089600",
+		"in_reply_to_user_id": 392151986,
+		"in_reply_to_user_id_str": "392151986",
+		"in_reply_to_screen_name": "PureSports01",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2351,
+			"friends_count": 3730,
+			"listed_count": 16,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19202,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6473,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1600702003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1f592b82aea688ff",
+			"url": "https://api.twitter.com/1.1/geo/id/1f592b82aea688ff.json",
+			"place_type": "city",
+			"name": "Derby",
+			"full_name": "Derby, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.556856,
+							52.870587
+						],
+						[
+							-1.384701,
+							52.870587
+						],
+						[
+							-1.384701,
+							52.960473
+						],
+						[
+							-1.556856,
+							52.960473
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PureSports01 @PMFirstSteps @TPMPodcast I think the difficulty as a student is the juxtaposition of the complexity discussed versus the certainty of some of the teaching during training. \n\nI’d suggest there is less BS here than other social media platforms..."
+	},
+	{
 		"created_at": "Mon Sep 28 19:58:30 +0000 2020",
 		"id": 1310670240062353400,
 		"id_str": "1310670240062353409",
