@@ -1,6 +1,769 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 02 20:31:20 +0000 2020",
+		"id": 1312088521415561200,
+		"id_str": "1312128053124890624",
+		"full_text": "In the midst of the chaos, the last 6 months has opened up many opportunities to work differently that would not have happened without covid. Things which were previously impossible suddenly became possible. The NHS needs more of this to grow and ensure it is fit for the future. https://t.co/2Zou8Ph3yk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1312088517602934800,
+					"id_str": "1312088517602934784",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EjV5jhWXgAAy8Fv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjV5jhWXgAAy8Fv.jpg",
+					"url": "https://t.co/2Zou8Ph3yk",
+					"display_url": "pic.twitter.com/2Zou8Ph3yk",
+					"expanded_url": "https://twitter.com/DebbieCrerar/status/1312088521415561217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312088517602934800,
+					"id_str": "1312088517602934784",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EjV5jhWXgAAy8Fv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EjV5jhWXgAAy8Fv.jpg",
+					"url": "https://t.co/2Zou8Ph3yk",
+					"display_url": "pic.twitter.com/2Zou8Ph3yk",
+					"expanded_url": "https://twitter.com/DebbieCrerar/status/1312088521415561217/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 500,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2894477303,
+			"id_str": "2894477303",
+			"name": "Debbie Crerar",
+			"screen_name": "DebbieCrerar",
+			"location": "",
+			"description": "I am Lead Physio for Midlothian HSCP. I love working for the NHS and believe we all have a role to play in making the NHS the best it can be. All my own views!",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 466,
+			"friends_count": 473,
+			"listed_count": 3,
+			"created_at": "Thu Nov 27 11:00:14 +0000 2014",
+			"favourites_count": 1867,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/838700243915005952/Gr2ITEnN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/838700243915005952/Gr2ITEnN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2894477303/1488796696",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In the midst of the chaos, the last 6 months has opened up many opportunities to work differently that would not have happened without covid. Things which were previously impossible suddenly became possible. The NHS needs more of this to grow and ensure it is fit for the future. https://t.co/2Zou8Ph3yk"
+	},
+	{
+		"created_at": "Fri Oct 02 18:43:54 +0000 2020",
+		"id": 1312101017798942700,
+		"id_str": "1312101017798942720",
+		"full_text": "@janinedobson150 @OUHospitals @NUHNeuro @UOD_TNAs @widerworkforce Congratulations 👏",
+		"truncated": false,
+		"display_text_range": [
+			66,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "janinedobson150",
+					"name": "Janine Dobson",
+					"id": 148000017,
+					"id_str": "148000017",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "OUHospitals",
+					"name": "OUH",
+					"id": 18226657,
+					"id_str": "18226657",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"screen_name": "NUHNeuro",
+					"name": "QMC Neurosciences",
+					"id": 790564641248346100,
+					"id_str": "790564641248346112",
+					"indices": [
+						30,
+						39
+					]
+				},
+				{
+					"screen_name": "UOD_TNAs",
+					"name": "NAs at Derby Uni",
+					"id": 827264284858019800,
+					"id_str": "827264284858019840",
+					"indices": [
+						40,
+						49
+					]
+				},
+				{
+					"screen_name": "widerworkforce",
+					"name": "Widerworkforce@NUH",
+					"id": 1225056680192487400,
+					"id_str": "1225056680192487424",
+					"indices": [
+						50,
+						65
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1312035580214218800,
+		"in_reply_to_status_id_str": "1312035580214218752",
+		"in_reply_to_user_id": 148000017,
+		"in_reply_to_user_id_str": "148000017",
+		"in_reply_to_screen_name": "janinedobson150",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2353,
+			"friends_count": 3745,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1600702003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@janinedobson150 @OUHospitals @NUHNeuro @UOD_TNAs @widerworkforce Congratulations 👏"
+	},
+	{
+		"created_at": "Fri Oct 02 15:27:32 +0000 2020",
+		"id": 1312051599712321500,
+		"id_str": "1312051599712321538",
+		"full_text": "@CathyWinfield @UHDBTrust @shellyrowlands @DMS_MilMed @VeteransGovUK @qarancassn @pm_raf_ns @QARNNS Absolutely, that would be great. I will drop you an email.",
+		"truncated": false,
+		"display_text_range": [
+			100,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CathyWinfield",
+					"name": "Cathy Winfield RN MSc 💙",
+					"id": 2188050351,
+					"id_str": "2188050351",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "shellyrowlands",
+					"name": "Michelle Rowlands",
+					"id": 83087399,
+					"id_str": "83087399",
+					"indices": [
+						26,
+						41
+					]
+				},
+				{
+					"screen_name": "DMS_MilMed",
+					"name": "Defence Medical Services",
+					"id": 736186559888789500,
+					"id_str": "736186559888789504",
+					"indices": [
+						42,
+						53
+					]
+				},
+				{
+					"screen_name": "VeteransGovUK",
+					"name": "Office for Veterans' Affairs",
+					"id": 1184052519959453700,
+					"id_str": "1184052519959453696",
+					"indices": [
+						54,
+						68
+					]
+				},
+				{
+					"screen_name": "qarancassn",
+					"name": "QARANC Assn Official",
+					"id": 2504535186,
+					"id_str": "2504535186",
+					"indices": [
+						69,
+						80
+					]
+				},
+				{
+					"screen_name": "pm_raf_ns",
+					"name": "✨🌟PMRAFNS🌟✨",
+					"id": 1878575348,
+					"id_str": "1878575348",
+					"indices": [
+						81,
+						91
+					]
+				},
+				{
+					"screen_name": "QARNNS",
+					"name": "Royal Navy Nurses ⚓️",
+					"id": 3417541881,
+					"id_str": "3417541881",
+					"indices": [
+						92,
+						99
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1312026303579775000,
+		"in_reply_to_status_id_str": "1312026303579774977",
+		"in_reply_to_user_id": 2188050351,
+		"in_reply_to_user_id_str": "2188050351",
+		"in_reply_to_screen_name": "CathyWinfield",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2353,
+			"friends_count": 3745,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1600702003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CathyWinfield @UHDBTrust @shellyrowlands @DMS_MilMed @VeteransGovUK @qarancassn @pm_raf_ns @QARNNS Absolutely, that would be great. I will drop you an email."
+	},
+	{
+		"created_at": "Fri Oct 02 08:31:22 +0000 2020",
+		"id": 1311946865928212500,
+		"id_str": "1311946865928212482",
+		"full_text": "@CathyWinfield @UHDBTrust @shellyrowlands @DMS_MilMed @VeteransGovUK Thank you Cathy - It may be worth having a chat to see how we can build links with @qarancassn @pm_raf_ns @QARNNS @DMS_MilMed",
+		"truncated": false,
+		"display_text_range": [
+			69,
+			194
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CathyWinfield",
+					"name": "Cathy Winfield RN MSc 💙",
+					"id": 2188050351,
+					"id_str": "2188050351",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "shellyrowlands",
+					"name": "Michelle Rowlands",
+					"id": 83087399,
+					"id_str": "83087399",
+					"indices": [
+						26,
+						41
+					]
+				},
+				{
+					"screen_name": "DMS_MilMed",
+					"name": "Defence Medical Services",
+					"id": 736186559888789500,
+					"id_str": "736186559888789504",
+					"indices": [
+						42,
+						53
+					]
+				},
+				{
+					"screen_name": "VeteransGovUK",
+					"name": "Office for Veterans' Affairs",
+					"id": 1184052519959453700,
+					"id_str": "1184052519959453696",
+					"indices": [
+						54,
+						68
+					]
+				},
+				{
+					"screen_name": "qarancassn",
+					"name": "QARANC Assn Official",
+					"id": 2504535186,
+					"id_str": "2504535186",
+					"indices": [
+						152,
+						163
+					]
+				},
+				{
+					"screen_name": "pm_raf_ns",
+					"name": "✨🌟PMRAFNS🌟✨",
+					"id": 1878575348,
+					"id_str": "1878575348",
+					"indices": [
+						164,
+						174
+					]
+				},
+				{
+					"screen_name": "QARNNS",
+					"name": "Royal Navy Nurses ⚓️",
+					"id": 3417541881,
+					"id_str": "3417541881",
+					"indices": [
+						175,
+						182
+					]
+				},
+				{
+					"screen_name": "DMS_MilMed",
+					"name": "Defence Medical Services",
+					"id": 736186559888789500,
+					"id_str": "736186559888789504",
+					"indices": [
+						183,
+						194
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1311778872204185600,
+		"in_reply_to_status_id_str": "1311778872204185600",
+		"in_reply_to_user_id": 2188050351,
+		"in_reply_to_user_id_str": "2188050351",
+		"in_reply_to_screen_name": "CathyWinfield",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2353,
+			"friends_count": 3745,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1600702003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CathyWinfield @UHDBTrust @shellyrowlands @DMS_MilMed @VeteransGovUK Thank you Cathy - It may be worth having a chat to see how we can build links with @qarancassn @pm_raf_ns @QARNNS @DMS_MilMed"
+	},
+	{
+		"created_at": "Fri Oct 02 08:24:44 +0000 2020",
+		"id": 1311945197815771100,
+		"id_str": "1311945197815771137",
+		"full_text": "@C_J_Hamilton @UHDBTrust @shellyrowlands @DMS_MilMed @VeteransGovUK Cheers Connor - the work starts now 💪",
+		"truncated": false,
+		"display_text_range": [
+			68,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "C_J_Hamilton",
+					"name": "Connor Hamilton",
+					"id": 968501178135994400,
+					"id_str": "968501178135994368",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "shellyrowlands",
+					"name": "Michelle Rowlands",
+					"id": 83087399,
+					"id_str": "83087399",
+					"indices": [
+						25,
+						40
+					]
+				},
+				{
+					"screen_name": "DMS_MilMed",
+					"name": "Defence Medical Services",
+					"id": 736186559888789500,
+					"id_str": "736186559888789504",
+					"indices": [
+						41,
+						52
+					]
+				},
+				{
+					"screen_name": "VeteransGovUK",
+					"name": "Office for Veterans' Affairs",
+					"id": 1184052519959453700,
+					"id_str": "1184052519959453696",
+					"indices": [
+						53,
+						67
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1311911006789042200,
+		"in_reply_to_status_id_str": "1311911006789042178",
+		"in_reply_to_user_id": 968501178135994400,
+		"in_reply_to_user_id_str": "968501178135994368",
+		"in_reply_to_screen_name": "C_J_Hamilton",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2353,
+			"friends_count": 3745,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19260,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1600702003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@C_J_Hamilton @UHDBTrust @shellyrowlands @DMS_MilMed @VeteransGovUK Cheers Connor - the work starts now 💪"
+	},
+	{
 		"created_at": "Thu Oct 01 18:12:29 +0000 2020",
 		"id": 1311730720218509300,
 		"id_str": "1311730720218509313",
