@@ -1,6 +1,615 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 03 13:04:11 +0000 2020",
+		"id": 1312377911543058400,
+		"id_str": "1312377911543058433",
+		"full_text": "@WillJMoule I get you. My beard went due to PPE and COVID. I now have to wear a hood so I can have it back. So I am slowly growing it but it’s still too itchy with a surgical mask- what to do?! \n\nIt’s not the year of the beard!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WillJMoule",
+					"name": "Will Moule",
+					"id": 1056987959059202000,
+					"id_str": "1056987959059202048",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1312377411435212800,
+		"in_reply_to_status_id_str": "1312377411435212803",
+		"in_reply_to_user_id": 1056987959059202000,
+		"in_reply_to_user_id_str": "1056987959059202048",
+		"in_reply_to_screen_name": "WillJMoule",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2354,
+			"friends_count": 3746,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1600702003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@WillJMoule I get you. My beard went due to PPE and COVID. I now have to wear a hood so I can have it back. So I am slowly growing it but it’s still too itchy with a surgical mask- what to do?! \n\nIt’s not the year of the beard!"
+	},
+	{
+		"created_at": "Sat Oct 03 13:00:15 +0000 2020",
+		"id": 1312376920038928400,
+		"id_str": "1312376920038928384",
+		"full_text": "@WillJMoule Are you sure?",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WillJMoule",
+					"name": "Will Moule",
+					"id": 1056987959059202000,
+					"id_str": "1056987959059202048",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1312376297574760400,
+		"in_reply_to_status_id_str": "1312376297574760450",
+		"in_reply_to_user_id": 1056987959059202000,
+		"in_reply_to_user_id_str": "1056987959059202048",
+		"in_reply_to_screen_name": "WillJMoule",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2354,
+			"friends_count": 3746,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1600702003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@WillJMoule Are you sure?"
+	},
+	{
+		"created_at": "Sat Oct 03 12:43:39 +0000 2020",
+		"id": 1312372744584130600,
+		"id_str": "1312372744584130560",
+		"full_text": "@exerciseworks @fimo18 @RogerKerry1 @TaylorAlanJ @666Dunst @mgswainson @DJ_Lipman @astephj1 @jelliott1989 @GatesPhysio @JaneSThornton @JoaoBreda2 Looks great 👀 👍",
+		"truncated": false,
+		"display_text_range": [
+			146,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "exerciseworks",
+					"name": "Exercise Works! 💙",
+					"id": 256921454,
+					"id_str": "256921454",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "fimo18",
+					"name": "Dr Fiona Moffatt",
+					"id": 508806750,
+					"id_str": "508806750",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						23,
+						35
+					]
+				},
+				{
+					"screen_name": "TaylorAlanJ",
+					"name": "Alan J Taylor",
+					"id": 412127340,
+					"id_str": "412127340",
+					"indices": [
+						36,
+						48
+					]
+				},
+				{
+					"screen_name": "666Dunst",
+					"name": "Theresa Harvey-Dunstan",
+					"id": 1858701115,
+					"id_str": "1858701115",
+					"indices": [
+						49,
+						58
+					]
+				},
+				{
+					"screen_name": "mgswainson",
+					"name": "Dr Michelle Swainson",
+					"id": 448280009,
+					"id_str": "448280009",
+					"indices": [
+						59,
+						70
+					]
+				},
+				{
+					"screen_name": "DJ_Lipman",
+					"name": "David Lipman",
+					"id": 1706064764,
+					"id_str": "1706064764",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"screen_name": "astephj1",
+					"name": "Amanda Stephenson",
+					"id": 898081300690686000,
+					"id_str": "898081300690685952",
+					"indices": [
+						82,
+						91
+					]
+				},
+				{
+					"screen_name": "jelliott1989",
+					"name": "Jonny Elliott",
+					"id": 354230305,
+					"id_str": "354230305",
+					"indices": [
+						92,
+						105
+					]
+				},
+				{
+					"screen_name": "GatesPhysio",
+					"name": "John Gates 😷",
+					"id": 451401278,
+					"id_str": "451401278",
+					"indices": [
+						106,
+						118
+					]
+				},
+				{
+					"screen_name": "JaneSThornton",
+					"name": "Dr. Jane Thornton",
+					"id": 195146976,
+					"id_str": "195146976",
+					"indices": [
+						119,
+						133
+					]
+				},
+				{
+					"screen_name": "JoaoBreda2",
+					"name": "João Breda",
+					"id": 854505078,
+					"id_str": "854505078",
+					"indices": [
+						134,
+						145
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1312292616898257000,
+		"in_reply_to_status_id_str": "1312292616898256897",
+		"in_reply_to_user_id": 256921454,
+		"in_reply_to_user_id_str": "256921454",
+		"in_reply_to_screen_name": "exerciseworks",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2354,
+			"friends_count": 3746,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1600702003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@exerciseworks @fimo18 @RogerKerry1 @TaylorAlanJ @666Dunst @mgswainson @DJ_Lipman @astephj1 @jelliott1989 @GatesPhysio @JaneSThornton @JoaoBreda2 Looks great 👀 👍"
+	},
+	{
+		"created_at": "Sat Oct 03 12:13:21 +0000 2020",
+		"id": 1312365118429302800,
+		"id_str": "1312365118429302784",
+		"full_text": "@C_J_Hamilton @RMASandhurst @thecspstudents Yes there is @DMS_DefRehab",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "C_J_Hamilton",
+					"name": "Connor Hamilton",
+					"id": 968501178135994400,
+					"id_str": "968501178135994368",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "RMASandhurst",
+					"name": "RMASandhurst",
+					"id": 717451555033718800,
+					"id_str": "717451555033718788",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "thecspstudents",
+					"name": "CSP Students",
+					"id": 444648690,
+					"id_str": "444648690",
+					"indices": [
+						28,
+						43
+					]
+				},
+				{
+					"screen_name": "DMS_DefRehab",
+					"name": "Department of Defence Rehab",
+					"id": 4009779089,
+					"id_str": "4009779089",
+					"indices": [
+						57,
+						70
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1312362039885672400,
+		"in_reply_to_status_id_str": "1312362039885672454",
+		"in_reply_to_user_id": 968501178135994400,
+		"in_reply_to_user_id_str": "968501178135994368",
+		"in_reply_to_screen_name": "C_J_Hamilton",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2354,
+			"friends_count": 3746,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19272,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1600702003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@C_J_Hamilton @RMASandhurst @thecspstudents Yes there is @DMS_DefRehab"
+	},
+	{
+		"created_at": "Sat Oct 03 11:39:12 +0000 2020",
+		"id": 1312332005229686800,
+		"id_str": "1312356523662868481",
+		"full_text": "Hey twitter, i'm trying to find people from Derby/Derbyshire who work for UHDB Hospitals that are #AHPs and from an ethnic background to help us celebrate #AHPDay on October 14th? If you know someone who maybe interested please tag and share to help apread the word 👌🏽",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AHPs",
+					"indices": [
+						98,
+						103
+					]
+				},
+				{
+					"text": "AHPDay",
+					"indices": [
+						155,
+						162
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2940538043,
+			"id_str": "2940538043",
+			"name": "Warren",
+			"screen_name": "WLCPhysio",
+			"location": "United Kingdom",
+			"description": "MSK Physiotherapist @DerbyPhysioOPD @UHDBTrust #TeamUHDB\nTackling and encouraging exercise prescription 1 day, 1 patient and multiple joints at a time.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 316,
+			"friends_count": 389,
+			"listed_count": 3,
+			"created_at": "Thu Dec 25 09:49:15 +0000 2014",
+			"favourites_count": 1333,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1195,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1280232788017459201/wSmbP2OR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280232788017459201/wSmbP2OR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2940538043/1586243737",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Hey twitter, i'm trying to find people from Derby/Derbyshire who work for UHDB Hospitals that are #AHPs and from an ethnic background to help us celebrate #AHPDay on October 14th? If you know someone who maybe interested please tag and share to help apread the word 👌🏽"
+	},
+	{
 		"created_at": "Fri Oct 02 20:31:20 +0000 2020",
 		"id": 1312088521415561200,
 		"id_str": "1312128053124890624",
