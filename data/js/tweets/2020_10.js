@@ -1,6 +1,302 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 04 21:36:37 +0000 2020",
+		"id": 1312869256753807400,
+		"id_str": "1312869256753807363",
+		"full_text": "@EstherMae__ @NetflixUK Me too!",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EstherMae__",
+					"name": "Esther Mae Hayles",
+					"id": 1889912354,
+					"id_str": "1889912354",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "NetflixUK",
+					"name": "Netflix UK & Ireland",
+					"id": 231183280,
+					"id_str": "231183280",
+					"indices": [
+						13,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1312783631627190300,
+		"in_reply_to_status_id_str": "1312783631627190280",
+		"in_reply_to_user_id": 1889912354,
+		"in_reply_to_user_id_str": "1889912354",
+		"in_reply_to_screen_name": "EstherMae__",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2355,
+			"friends_count": 3749,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19298,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1600702003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EstherMae__ @NetflixUK Me too!"
+	},
+	{
+		"created_at": "Sun Oct 04 11:48:44 +0000 2020",
+		"id": 1312721311953817600,
+		"id_str": "1312721311953817600",
+		"full_text": "Any one watched The Social Dilemma on @NetflixUK ? Thoughts &amp; any change of habits? \n\n*I note the irony of this post.\n#SocialDilemma https://t.co/eN6edzUhXN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SocialDilemma",
+					"indices": [
+						122,
+						136
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NetflixUK",
+					"name": "Netflix UK & Ireland",
+					"id": 231183280,
+					"id_str": "231183280",
+					"indices": [
+						38,
+						48
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1312721303309365200,
+					"id_str": "1312721303309365248",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eje5EfzXsAAeU0h.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eje5EfzXsAAeU0h.jpg",
+					"url": "https://t.co/eN6edzUhXN",
+					"display_url": "pic.twitter.com/eN6edzUhXN",
+					"expanded_url": "https://twitter.com/beardedPT/status/1312721311953817600/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 332,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 332,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 332,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1312721303309365200,
+					"id_str": "1312721303309365248",
+					"indices": [
+						137,
+						160
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eje5EfzXsAAeU0h.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eje5EfzXsAAeU0h.jpg",
+					"url": "https://t.co/eN6edzUhXN",
+					"display_url": "pic.twitter.com/eN6edzUhXN",
+					"expanded_url": "https://twitter.com/beardedPT/status/1312721311953817600/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 332,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 332,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 332,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							2
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Eje5EfzXsAAeU0h.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physiotherapist | CSP Professional Committee Member | @PMFirstSteps Team Member | @HLA_int Scholar (20-21) | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2355,
+			"friends_count": 3749,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19298,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259230694187958276/46x3Y3jv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1600702003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Any one watched The Social Dilemma on @NetflixUK ? Thoughts &amp; any change of habits? \n\n*I note the irony of this post.\n#SocialDilemma https://t.co/eN6edzUhXN"
+	},
+	{
 		"created_at": "Sat Oct 03 13:04:11 +0000 2020",
 		"id": 1312377911543058400,
 		"id_str": "1312377911543058433",
