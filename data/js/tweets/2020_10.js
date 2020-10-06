@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 05 21:43:16 +0000 2020",
+		"id": 1313226797731975200,
+		"id_str": "1313233319736246273",
+		"full_text": "Big kudos to team member @Ruuqie for doing such an amazing job of organising this live with @TPMPodcast 👏 Some really important discussions that we can all continue learning from to increase the diversity and inclusion of our profession 💙 https://t.co/mfIqcntqk1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ruuqie",
+					"name": "Farouk Bello",
+					"id": 603167025,
+					"id_str": "603167025",
+					"indices": [
+						25,
+						32
+					]
+				},
+				{
+					"screen_name": "TPMPodcast",
+					"name": "Physio Matters",
+					"id": 1914280350,
+					"id_str": "1914280350",
+					"indices": [
+						92,
+						103
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/mfIqcntqk1",
+					"expanded_url": "https://twitter.com/tpmpodcast/status/1313195256955928576",
+					"display_url": "twitter.com/tpmpodcast/sta…",
+					"indices": [
+						239,
+						262
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 840861722286137300,
+			"id_str": "840861722286137349",
+			"name": "Physio Matters First Steps",
+			"screen_name": "PMFirstSteps",
+			"location": "",
+			"description": "Run by/for therapy students & new grads.\nExplore those “stupid” questions, build connections & share experiences.\nSupported by @TPMPodcast\nNewsletter ⬇",
+			"url": "https://t.co/tq9vjQsSVt",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tq9vjQsSVt",
+							"expanded_url": "https://mailchi.mp/e343b3da2651/firs-steps",
+							"display_url": "mailchi.mp/e343b3da2651/f…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1308,
+			"friends_count": 117,
+			"listed_count": 5,
+			"created_at": "Sun Mar 12 09:47:11 +0000 2017",
+			"favourites_count": 993,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 365,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1273929840358555652/mP6SWVq7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273929840358555652/mP6SWVq7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/840861722286137349/1592563518",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1313195256955928600,
+		"quoted_status_id_str": "1313195256955928576",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mfIqcntqk1",
+			"expanded": "https://twitter.com/tpmpodcast/status/1313195256955928576",
+			"display": "twitter.com/tpmpodcast/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 05 19:12:01 +0000 2020",
+			"id": 1313195256955928600,
+			"id_str": "1313195256955928576",
+			"full_text": "LIVE NOW\n\nDiversity &amp; Inclusion in Physiotherapy: Past, Present &amp; Future\n\nhttps://t.co/Q8Hbe2pTYP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				105
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Q8Hbe2pTYP",
+						"expanded_url": "https://www.facebook.com/TPMPodcast/videos/2821995908123589/",
+						"display_url": "facebook.com/TPMPodcast/vid…",
+						"indices": [
+							82,
+							105
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1914280350,
+				"id_str": "1914280350",
+				"name": "Physio Matters",
+				"screen_name": "TPMPodcast",
+				"location": "United Kingdom",
+				"description": "Confronting Bad Ideas With Good Ones since 2013 | Brain-child of @JackAChew | Tweets by team #TPMP | Supporters of @MSKReform, the grass-roots MSK think-tank",
+				"url": "https://t.co/pGM3wXOE6G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/pGM3wXOE6G",
+								"expanded_url": "http://physio-matters.com/",
+								"display_url": "physio-matters.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 24338,
+				"friends_count": 403,
+				"listed_count": 124,
+				"created_at": "Sat Sep 28 14:30:49 +0000 2013",
+				"favourites_count": 12360,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21262,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1296799719037992962/PDsE4aCf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1296799719037992962/PDsE4aCf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1914280350/1584721110",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Big kudos to team member @Ruuqie for doing such an amazing job of organising this live with @TPMPodcast 👏 Some really important discussions that we can all continue learning from to increase the diversity and inclusion of our profession 💙 https://t.co/mfIqcntqk1"
+	},
+	{
 		"created_at": "Sun Oct 04 21:36:37 +0000 2020",
 		"id": 1312869256753807400,
 		"id_str": "1312869256753807363",
