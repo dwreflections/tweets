@@ -1,6 +1,116 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 13 06:16:10 +0000 2020",
+		"id": 1315897625737138200,
+		"id_str": "1315899110050979845",
+		"full_text": "It is #AHPsDay eve!!!! A few things to share:\n- #AHPs are utterly remarkable \n- #AHPs turn healthcare into a sustainable undertaking enabling early diagnosis,treatment AND rehabilitation\n- #AHPs get people back to home/work/school/social engagement-That is effective healthcare",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AHPsDay",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "AHPs",
+					"indices": [
+						48,
+						53
+					]
+				},
+				{
+					"text": "AHPs",
+					"indices": [
+						80,
+						85
+					]
+				},
+				{
+					"text": "AHPs",
+					"indices": [
+						189,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1641141318,
+			"id_str": "1641141318",
+			"name": "Beverley Harden FCSP",
+			"screen_name": "BeverleyHarden",
+			"location": "England, Own views ",
+			"description": "#AHP Lead @NHS_HealthEdEng\nDeputy CAHPO\nNational lead multi-professional #Consultants \n#AdvancedPractice \nVisiting Professor @_UoW\nTrustee @CarersUK",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6757,
+			"friends_count": 966,
+			"listed_count": 38,
+			"created_at": "Fri Aug 02 19:36:34 +0000 2013",
+			"favourites_count": 31427,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 14901,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1093886557130551296/sOvQsqQ6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1093886557130551296/sOvQsqQ6_normal.jpg",
+			"profile_link_color": "AA00B3",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 165,
+		"favorite_count": 346,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "It is #AHPsDay eve!!!! A few things to share:\n- #AHPs are utterly remarkable \n- #AHPs turn healthcare into a sustainable undertaking enabling early diagnosis,treatment AND rehabilitation\n- #AHPs get people back to home/work/school/social engagement-That is effective healthcare"
+	},
+	{
 		"created_at": "Mon Oct 12 22:10:58 +0000 2020",
 		"id": 1315777006148124700,
 		"id_str": "1315777006148124672",
