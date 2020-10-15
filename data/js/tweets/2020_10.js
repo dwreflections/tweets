@@ -1,6 +1,2289 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 14 22:13:51 +0000 2020",
+		"id": 1316502505040347100,
+		"id_str": "1316502505040347136",
+		"full_text": "@DrLindaDykes As a former white driver... you will be okay 😬\nThe mirrors tend to flip back if it’s really close 😮",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrLindaDykes",
+					"name": "Linda Dykes",
+					"id": 1265089662,
+					"id_str": "1265089662",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1316501785780121600,
+		"in_reply_to_status_id_str": "1316501785780121604",
+		"in_reply_to_user_id": 1265089662,
+		"in_reply_to_user_id_str": "1265089662",
+		"in_reply_to_screen_name": "DrLindaDykes",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨I'm here to make a difference! ✨Physio | Chair of Armed Forces Network @UHDBTrust | CSP Professional Committee | @HLA_Int Scholar | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2380,
+			"friends_count": 3782,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1600702003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrLindaDykes As a former white driver... you will be okay 😬\nThe mirrors tend to flip back if it’s really close 😮"
+	},
+	{
+		"created_at": "Wed Oct 14 21:12:29 +0000 2020",
+		"id": 1316487061030006800,
+		"id_str": "1316487061030006784",
+		"full_text": "@RachelW82082277 @NatMatchOT @UHDB_PLSU @UHDBAHPs @Haywoodsam @ClaireDuckett20 @alicrewe @JayneSeagrave @ClaireKinnell @staceyM1978 @odp_steve @RebekahBooth14 Keep being awesome @NatMatchOT 🤩",
+		"truncated": false,
+		"display_text_range": [
+			159,
+			191
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RachelW82082277",
+					"name": "Rachel White",
+					"id": 1029203789725745200,
+					"id_str": "1029203789725745153",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "NatMatchOT",
+					"name": "Natalie Matchett OT",
+					"id": 354823451,
+					"id_str": "354823451",
+					"indices": [
+						17,
+						28
+					]
+				},
+				{
+					"screen_name": "UHDB_PLSU",
+					"name": "UHDB Practice Learning Support Unit",
+					"id": 3092710233,
+					"id_str": "3092710233",
+					"indices": [
+						29,
+						39
+					]
+				},
+				{
+					"screen_name": "UHDBAHPs",
+					"name": "UHDBAHPs",
+					"id": 1051752102530338800,
+					"id_str": "1051752102530338816",
+					"indices": [
+						40,
+						49
+					]
+				},
+				{
+					"screen_name": "Haywoodsam",
+					"name": "Samanthapatterson",
+					"id": 404665447,
+					"id_str": "404665447",
+					"indices": [
+						50,
+						61
+					]
+				},
+				{
+					"screen_name": "ClaireDuckett20",
+					"name": "Claire Duckett",
+					"id": 1177510262414266400,
+					"id_str": "1177510262414266368",
+					"indices": [
+						62,
+						78
+					]
+				},
+				{
+					"screen_name": "alicrewe",
+					"name": "ali crewesmith",
+					"id": 330511872,
+					"id_str": "330511872",
+					"indices": [
+						79,
+						88
+					]
+				},
+				{
+					"screen_name": "JayneSeagrave",
+					"name": "Jayne Seagrave",
+					"id": 270571129,
+					"id_str": "270571129",
+					"indices": [
+						89,
+						103
+					]
+				},
+				{
+					"screen_name": "ClaireKinnell",
+					"name": "Claire Kinnell",
+					"id": 413118953,
+					"id_str": "413118953",
+					"indices": [
+						104,
+						118
+					]
+				},
+				{
+					"screen_name": "staceyM1978",
+					"name": "Stacey Martin",
+					"id": 252792976,
+					"id_str": "252792976",
+					"indices": [
+						119,
+						131
+					]
+				},
+				{
+					"screen_name": "odp_steve",
+					"name": "ODPSteve",
+					"id": 1036977314888904700,
+					"id_str": "1036977314888904705",
+					"indices": [
+						132,
+						142
+					]
+				},
+				{
+					"screen_name": "RebekahBooth14",
+					"name": "Rebekah Booth",
+					"id": 1055407057111838700,
+					"id_str": "1055407057111838720",
+					"indices": [
+						143,
+						158
+					]
+				},
+				{
+					"screen_name": "NatMatchOT",
+					"name": "Natalie Matchett OT",
+					"id": 354823451,
+					"id_str": "354823451",
+					"indices": [
+						178,
+						189
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1316464848641945600,
+		"in_reply_to_status_id_str": "1316464848641945607",
+		"in_reply_to_user_id": 1029203789725745200,
+		"in_reply_to_user_id_str": "1029203789725745153",
+		"in_reply_to_screen_name": "RachelW82082277",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨I'm here to make a difference! ✨Physio | Chair of Armed Forces Network @UHDBTrust | CSP Professional Committee | @HLA_Int Scholar | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2380,
+			"friends_count": 3782,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1600702003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RachelW82082277 @NatMatchOT @UHDB_PLSU @UHDBAHPs @Haywoodsam @ClaireDuckett20 @alicrewe @JayneSeagrave @ClaireKinnell @staceyM1978 @odp_steve @RebekahBooth14 Keep being awesome @NatMatchOT 🤩"
+	},
+	{
+		"created_at": "Wed Oct 14 19:55:34 +0000 2020",
+		"id": 1316467705843679200,
+		"id_str": "1316467705843679242",
+		"full_text": "@WeStudentNurse Can you Define the leadership theory/practice gap? #WeStNs",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WeStNs",
+					"indices": [
+						67,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WeStudentNurse",
+					"name": "WeStudentNurses 💙",
+					"id": 939235274554560500,
+					"id_str": "939235274554560512",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1316460012722679800,
+		"in_reply_to_status_id_str": "1316460012722679810",
+		"in_reply_to_user_id": 939235274554560500,
+		"in_reply_to_user_id_str": "939235274554560512",
+		"in_reply_to_screen_name": "WeStudentNurse",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨I'm here to make a difference! ✨Physio | Chair of Armed Forces Network @UHDBTrust | CSP Professional Committee | @HLA_Int Scholar | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2380,
+			"friends_count": 3782,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1600702003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@WeStudentNurse Can you Define the leadership theory/practice gap? #WeStNs"
+	},
+	{
+		"created_at": "Wed Oct 14 18:07:01 +0000 2020",
+		"id": 1316440386450215000,
+		"id_str": "1316440386450214913",
+		"full_text": "@HealthCareersUK @WeAHPs Thank you for the RT @HealthCareersUK \n\nThere are some fantastic roles within the #NHS but great to highlight #AHPs on #AHPsDay ! \n\n@UHDBTrust @UHDBAHPs @DMS_DefRehab @DMS_MilMed @DRM_Support @NHSEArmedForces @supportthewalk",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			249
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NHS",
+					"indices": [
+						107,
+						111
+					]
+				},
+				{
+					"text": "AHPs",
+					"indices": [
+						135,
+						140
+					]
+				},
+				{
+					"text": "AHPsDay",
+					"indices": [
+						144,
+						152
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HealthCareersUK",
+					"name": "Health Careers",
+					"id": 198861182,
+					"id_str": "198861182",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs 💙",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						17,
+						24
+					]
+				},
+				{
+					"screen_name": "HealthCareersUK",
+					"name": "Health Careers",
+					"id": 198861182,
+					"id_str": "198861182",
+					"indices": [
+						46,
+						62
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						157,
+						167
+					]
+				},
+				{
+					"screen_name": "UHDBAHPs",
+					"name": "UHDBAHPs",
+					"id": 1051752102530338800,
+					"id_str": "1051752102530338816",
+					"indices": [
+						168,
+						177
+					]
+				},
+				{
+					"screen_name": "DMS_DefRehab",
+					"name": "Department of Defence Rehab",
+					"id": 4009779089,
+					"id_str": "4009779089",
+					"indices": [
+						178,
+						191
+					]
+				},
+				{
+					"screen_name": "DMS_MilMed",
+					"name": "Defence Medical Services",
+					"id": 736186559888789500,
+					"id_str": "736186559888789504",
+					"indices": [
+						192,
+						203
+					]
+				},
+				{
+					"screen_name": "DRM_Support",
+					"name": "Defence Relationship Management",
+					"id": 2841787607,
+					"id_str": "2841787607",
+					"indices": [
+						204,
+						216
+					]
+				},
+				{
+					"screen_name": "NHSEArmedForces",
+					"name": "NHSE Armed Forces",
+					"id": 2831648813,
+					"id_str": "2831648813",
+					"indices": [
+						217,
+						233
+					]
+				},
+				{
+					"screen_name": "supportthewalk",
+					"name": "WWTW",
+					"id": 173807599,
+					"id_str": "173807599",
+					"indices": [
+						234,
+						249
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1316396766284181500,
+		"in_reply_to_status_id_str": "1316396766284181507",
+		"in_reply_to_user_id": 198861182,
+		"in_reply_to_user_id_str": "198861182",
+		"in_reply_to_screen_name": "HealthCareersUK",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨I'm here to make a difference! ✨Physio | Chair of Armed Forces Network @UHDBTrust | CSP Professional Committee | @HLA_Int Scholar | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2380,
+			"friends_count": 3782,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1600702003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@HealthCareersUK @WeAHPs Thank you for the RT @HealthCareersUK \n\nThere are some fantastic roles within the #NHS but great to highlight #AHPs on #AHPsDay ! \n\n@UHDBTrust @UHDBAHPs @DMS_DefRehab @DMS_MilMed @DRM_Support @NHSEArmedForces @supportthewalk"
+	},
+	{
+		"created_at": "Wed Oct 14 18:01:22 +0000 2020",
+		"id": 1316376329844031500,
+		"id_str": "1316438967185797120",
+		"full_text": "Love this from Kay Bolton during her #AHPsDay presentation to @GM_AHP today  @claireainswort @breeze_paula https://t.co/Ppe31B5glq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AHPsDay",
+					"indices": [
+						37,
+						45
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GM_AHP",
+					"name": "GM AHPs",
+					"id": 1029733843333537800,
+					"id_str": "1029733843333537792",
+					"indices": [
+						62,
+						69
+					]
+				},
+				{
+					"screen_name": "claireainswort",
+					"name": "Claire Ainsworth",
+					"id": 707929450156048400,
+					"id_str": "707929450156048384",
+					"indices": [
+						77,
+						92
+					]
+				},
+				{
+					"screen_name": "breeze_paula",
+					"name": "Paula Breeze",
+					"id": 3252635199,
+					"id_str": "3252635199",
+					"indices": [
+						93,
+						106
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316376323590414300,
+					"id_str": "1316376323590414336",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EkS1SrZXYAAHFxh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkS1SrZXYAAHFxh.jpg",
+					"url": "https://t.co/Ppe31B5glq",
+					"display_url": "pic.twitter.com/Ppe31B5glq",
+					"expanded_url": "https://twitter.com/NaomiMcVey/status/1316376329844031489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316376323590414300,
+					"id_str": "1316376323590414336",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/EkS1SrZXYAAHFxh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkS1SrZXYAAHFxh.jpg",
+					"url": "https://t.co/Ppe31B5glq",
+					"display_url": "pic.twitter.com/Ppe31B5glq",
+					"expanded_url": "https://twitter.com/NaomiMcVey/status/1316376329844031489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 197141049,
+			"id_str": "197141049",
+			"name": "Naomi McVey 🐝",
+			"screen_name": "NaomiMcVey",
+			"location": "Manchester, UK",
+			"description": "Regional Head of AHPs @NHSHEE_NWest I @NICEcomms Fellow 17/20 | Physiotherapist | Advocacy advisory @Cochranecollab | Cofounder @Physiotalk @WeAHPs | Views own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6062,
+			"friends_count": 2808,
+			"listed_count": 80,
+			"created_at": "Thu Sep 30 19:06:13 +0000 2010",
+			"favourites_count": 17977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11354,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F2EEEF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1052205196539879424/sM_CHhrV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1052205196539879424/sM_CHhrV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/197141049/1568188920",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FAFAFA",
+			"profile_text_color": "8F2E2E",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 24,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Love this from Kay Bolton during her #AHPsDay presentation to @GM_AHP today  @claireainswort @breeze_paula https://t.co/Ppe31B5glq"
+	},
+	{
+		"created_at": "Wed Oct 14 17:44:18 +0000 2020",
+		"id": 1316293026856292400,
+		"id_str": "1316434670217842690",
+		"full_text": "🎉🎉Happy #AHPsDay2020 🎉🎉 Today i want to highlight a few members of our Trust who are leading the way for future generations from ethnic backgrounds! We're heavily underrepresented and I feel it's important to highlight our current role models @UHDBAHPs @UHDBTrust",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AHPsDay2020",
+					"indices": [
+						8,
+						20
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UHDBAHPs",
+					"name": "UHDBAHPs",
+					"id": 1051752102530338800,
+					"id_str": "1051752102530338816",
+					"indices": [
+						243,
+						252
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						253,
+						263
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2940538043,
+			"id_str": "2940538043",
+			"name": "Warren",
+			"screen_name": "WLCPhysio",
+			"location": "United Kingdom",
+			"description": "MSK Physiotherapist @DerbyPhysioOPD @UHDBTrust #TeamUHDB\nTackling and encouraging exercise prescription 1 day, 1 patient and multiple joints at a time.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 323,
+			"friends_count": 390,
+			"listed_count": 3,
+			"created_at": "Thu Dec 25 09:49:15 +0000 2014",
+			"favourites_count": 1363,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1280232788017459201/wSmbP2OR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1280232788017459201/wSmbP2OR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2940538043/1586243737",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 17,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "🎉🎉Happy #AHPsDay2020 🎉🎉 Today i want to highlight a few members of our Trust who are leading the way for future generations from ethnic backgrounds! We're heavily underrepresented and I feel it's important to highlight our current role models @UHDBAHPs @UHDBTrust"
+	},
+	{
+		"created_at": "Wed Oct 14 15:32:06 +0000 2020",
+		"id": 1316401403028533200,
+		"id_str": "1316401403028533249",
+		"full_text": "Productive #ProfessionalCommittee @thecsp meeting today on #AHPsDay 🌟\n\nPacked agenda: 4 Pillars Survey, QAE Panel (Universities), Impact of #Covid19, FCP, Clinical Exercise Practitioner, HCPC Standards, Practice Placements, Committee Review etc ...\nGreat work all!! ✨ https://t.co/Ozt209UukW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ProfessionalCommittee",
+					"indices": [
+						11,
+						33
+					]
+				},
+				{
+					"text": "AHPsDay",
+					"indices": [
+						59,
+						67
+					]
+				},
+				{
+					"text": "Covid19",
+					"indices": [
+						140,
+						148
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						34,
+						41
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316401030201053200,
+					"id_str": "1316401030201053184",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/EkTLwysXkAAdQ0h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkTLwysXkAAdQ0h.jpg",
+					"url": "https://t.co/Ozt209UukW",
+					"display_url": "pic.twitter.com/Ozt209UukW",
+					"expanded_url": "https://twitter.com/beardedPT/status/1316401403028533249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 808,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 473,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 268,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316401030201053200,
+					"id_str": "1316401030201053184",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/EkTLwysXkAAdQ0h.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkTLwysXkAAdQ0h.jpg",
+					"url": "https://t.co/Ozt209UukW",
+					"display_url": "pic.twitter.com/Ozt209UukW",
+					"expanded_url": "https://twitter.com/beardedPT/status/1316401403028533249/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2048,
+							"h": 808,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 473,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 268,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨I'm here to make a difference! ✨Physio | Chair of Armed Forces Network @UHDBTrust | CSP Professional Committee | @HLA_Int Scholar | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2380,
+			"friends_count": 3782,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1600702003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Productive #ProfessionalCommittee @thecsp meeting today on #AHPsDay 🌟\n\nPacked agenda: 4 Pillars Survey, QAE Panel (Universities), Impact of #Covid19, FCP, Clinical Exercise Practitioner, HCPC Standards, Practice Placements, Committee Review etc ...\nGreat work all!! ✨ https://t.co/Ozt209UukW"
+	},
+	{
+		"created_at": "Wed Oct 14 15:15:31 +0000 2020",
+		"id": 1316396766284181500,
+		"id_str": "1316397230471905281",
+		"full_text": "From working in the armed forces to now working as AHPs. Read their real-life stories:\n\nhttps://t.co/PR11BNGL03\n\nhttps://t.co/w0OB3JEzbr\n\nhttps://t.co/5BMOyvLY8H\n\nhttps://t.co/Rbng6YyeCO\n\n#AHPsDay #AHPCareers #CareerChangers #ProudToBeAHP @WeAHPs @beardedPT https://t.co/uS1Kpld7wT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AHPsDay",
+					"indices": [
+						188,
+						196
+					]
+				},
+				{
+					"text": "AHPCareers",
+					"indices": [
+						197,
+						208
+					]
+				},
+				{
+					"text": "CareerChangers",
+					"indices": [
+						209,
+						224
+					]
+				},
+				{
+					"text": "ProudToBeAHP",
+					"indices": [
+						225,
+						238
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs 💙",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						239,
+						246
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						247,
+						257
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PR11BNGL03",
+					"expanded_url": "https://www.healthcareers.nhs.uk/explore-roles/allied-health-professionals/roles-allied-health-professions/osteopath/real-life-story-andrew-macmillan",
+					"display_url": "healthcareers.nhs.uk/explore-roles/…",
+					"indices": [
+						88,
+						111
+					]
+				},
+				{
+					"url": "https://t.co/w0OB3JEzbr",
+					"expanded_url": "https://www.healthcareers.nhs.uk/explore-roles/allied-health-professionals/roles-allied-health-professions/dietitian/real-life-story-ashley-smith",
+					"display_url": "healthcareers.nhs.uk/explore-roles/…",
+					"indices": [
+						113,
+						136
+					]
+				},
+				{
+					"url": "https://t.co/5BMOyvLY8H",
+					"expanded_url": "https://www.healthcareers.nhs.uk/explore-roles/allied-health-professionals/roles-allied-health-professions/diagnostic-radiographer/real-life-story-paul-wicklen",
+					"display_url": "healthcareers.nhs.uk/explore-roles/…",
+					"indices": [
+						138,
+						161
+					]
+				},
+				{
+					"url": "https://t.co/Rbng6YyeCO",
+					"expanded_url": "https://www.healthcareers.nhs.uk/explore-roles/allied-health-professionals/roles-allied-health-professions/physiotherapist/real-life-story-david-williams",
+					"display_url": "healthcareers.nhs.uk/explore-roles/…",
+					"indices": [
+						163,
+						186
+					]
+				},
+				{
+					"url": "https://t.co/uS1Kpld7wT",
+					"expanded_url": "https://twitter.com/NHS_HealthEdEng/status/1316385814000136194",
+					"display_url": "twitter.com/NHS_HealthEdEn…",
+					"indices": [
+						258,
+						281
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 198861182,
+			"id_str": "198861182",
+			"name": "Health Careers",
+			"screen_name": "HealthCareersUK",
+			"location": "England",
+			"description": "Health Careers offers information on the career opportunities in health. Managed by @nhs_healthedeng. Retweets etc do not equal endorsements.",
+			"url": "https://t.co/CL30jXUCxC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CL30jXUCxC",
+							"expanded_url": "http://healthcareers.nhs.uk",
+							"display_url": "healthcareers.nhs.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22094,
+			"friends_count": 1060,
+			"listed_count": 244,
+			"created_at": "Tue Oct 05 12:54:22 +0000 2010",
+			"favourites_count": 7933,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9029,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1275424413878534150/sER_J7qB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275424413878534150/sER_J7qB_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/198861182/1594229655",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1316385814000136200,
+		"quoted_status_id_str": "1316385814000136194",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uS1Kpld7wT",
+			"expanded": "https://twitter.com/NHS_HealthEdEng/status/1316385814000136194",
+			"display": "twitter.com/NHS_HealthEdEn…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 14 14:30:09 +0000 2020",
+			"id": 1316385814000136200,
+			"id_str": "1316385814000136194",
+			"full_text": "Explore the experiences of AHPs who stepped into an NHS career after working in the armed forces and read about their transferable skills by following this link👉🏽 https://t.co/cAYjhxNKEw #AHPsDay #AHPCareers #CareerChangers #ProudToBeAHP  @HealthCareersUK @NHSEmployers https://t.co/WNoPq8AMpx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AHPsDay",
+						"indices": [
+							187,
+							195
+						]
+					},
+					{
+						"text": "AHPCareers",
+						"indices": [
+							196,
+							207
+						]
+					},
+					{
+						"text": "CareerChangers",
+						"indices": [
+							208,
+							223
+						]
+					},
+					{
+						"text": "ProudToBeAHP",
+						"indices": [
+							224,
+							237
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HealthCareersUK",
+						"name": "Health Careers",
+						"id": 198861182,
+						"id_str": "198861182",
+						"indices": [
+							239,
+							255
+						]
+					},
+					{
+						"screen_name": "NHSEmployers",
+						"name": "NHS Employers",
+						"id": 51048596,
+						"id_str": "51048596",
+						"indices": [
+							256,
+							269
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/cAYjhxNKEw",
+						"expanded_url": "http://orlo.uk/MIP1h",
+						"display_url": "orlo.uk/MIP1h",
+						"indices": [
+							163,
+							186
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1316385811617767400,
+						"id_str": "1316385811617767427",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/media/EkS969DXYAM1wFY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkS969DXYAM1wFY.jpg",
+						"url": "https://t.co/WNoPq8AMpx",
+						"display_url": "pic.twitter.com/WNoPq8AMpx",
+						"expanded_url": "https://twitter.com/NHS_HealthEdEng/status/1316385814000136194/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1316385811617767400,
+						"id_str": "1316385811617767427",
+						"indices": [
+							270,
+							293
+						],
+						"media_url": "http://pbs.twimg.com/media/EkS969DXYAM1wFY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EkS969DXYAM1wFY.jpg",
+						"url": "https://t.co/WNoPq8AMpx",
+						"display_url": "pic.twitter.com/WNoPq8AMpx",
+						"expanded_url": "https://twitter.com/NHS_HealthEdEng/status/1316385814000136194/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://orlo.tech\" rel=\"nofollow\">Orlo</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 637008966,
+				"id_str": "637008966",
+				"name": "NHS HEE",
+				"screen_name": "NHS_HealthEdEng",
+				"location": "England",
+				"description": "Health Education England (HEE), improving the quality of care delivered to patients - developing people for health and healthcare. Account monitored Mon-Fri 8-5",
+				"url": "https://t.co/evbXOaPi7G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/evbXOaPi7G",
+								"expanded_url": "http://www.hee.nhs.uk/",
+								"display_url": "hee.nhs.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 69686,
+				"friends_count": 1666,
+				"listed_count": 432,
+				"created_at": "Mon Jul 16 12:20:30 +0000 2012",
+				"favourites_count": 10700,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21020,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0091C9",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1273933495312814082/yI9r1T_P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273933495312814082/yI9r1T_P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/637008966/1592563018",
+				"profile_link_color": "E28C05",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From working in the armed forces to now working as AHPs. Read their real-life stories:\n\nhttps://t.co/PR11BNGL03\n\nhttps://t.co/w0OB3JEzbr\n\nhttps://t.co/5BMOyvLY8H\n\nhttps://t.co/Rbng6YyeCO\n\n#AHPsDay #AHPCareers #CareerChangers #ProudToBeAHP @WeAHPs @beardedPT https://t.co/uS1Kpld7wT"
+	},
+	{
+		"created_at": "Wed Oct 14 12:37:45 +0000 2020",
+		"id": 1315708310117658600,
+		"id_str": "1316357527509110791",
+		"full_text": "Don't forget the hashtag for all things #AHPsDay!\n#trending #14October #celebrate #connect #Appreciate #Inspire https://t.co/KXPYRaOP4H",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AHPsDay",
+					"indices": [
+						40,
+						48
+					]
+				},
+				{
+					"text": "trending",
+					"indices": [
+						50,
+						59
+					]
+				},
+				{
+					"text": "14October",
+					"indices": [
+						60,
+						70
+					]
+				},
+				{
+					"text": "celebrate",
+					"indices": [
+						71,
+						81
+					]
+				},
+				{
+					"text": "connect",
+					"indices": [
+						82,
+						90
+					]
+				},
+				{
+					"text": "Appreciate",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"text": "Inspire",
+					"indices": [
+						103,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1315708287690715100,
+					"id_str": "1315708287690715137",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1315708287690715137/pu/img/rzyH5jbaZTGa0o6b.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1315708287690715137/pu/img/rzyH5jbaZTGa0o6b.jpg",
+					"url": "https://t.co/KXPYRaOP4H",
+					"display_url": "pic.twitter.com/KXPYRaOP4H",
+					"expanded_url": "https://twitter.com/naomi_burden/status/1315708310117658624/video/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1315708287690715100,
+					"id_str": "1315708287690715137",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1315708287690715137/pu/img/rzyH5jbaZTGa0o6b.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1315708287690715137/pu/img/rzyH5jbaZTGa0o6b.jpg",
+					"url": "https://t.co/KXPYRaOP4H",
+					"display_url": "pic.twitter.com/KXPYRaOP4H",
+					"expanded_url": "https://twitter.com/naomi_burden/status/1315708310117658624/video/1",
+					"type": "video",
+					"sizes": {
+						"large": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 800,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 9633,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1315708287690715137/pu/pl/w8iXLcPP1W5z7uXq.m3u8?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1315708287690715137/pu/vid/320x320/Go-583S_XIjzecRn.mp4?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1315708287690715137/pu/vid/720x720/AItN-AEQeICSJ3qq.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1315708287690715137/pu/vid/480x480/TXS5G6a9rOEx95Rp.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 809829469292757000,
+			"id_str": "809829469292756992",
+			"name": "Naomi Burden",
+			"screen_name": "naomi_burden",
+			"location": "",
+			"description": "Passionate about patient safety, quality in healthcare, developing people & leaders. Radiographer, proud #AHPsDay logo designer and Q member. Views are my own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1296,
+			"friends_count": 1346,
+			"listed_count": 13,
+			"created_at": "Fri Dec 16 18:36:06 +0000 2016",
+			"favourites_count": 4669,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1220046933907136512/YDq6-JMT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1220046933907136512/YDq6-JMT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/809829469292756992/1579717100",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 73,
+		"favorite_count": 131,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Don't forget the hashtag for all things #AHPsDay!\n#trending #14October #celebrate #connect #Appreciate #Inspire https://t.co/KXPYRaOP4H"
+	},
+	{
+		"created_at": "Wed Oct 14 11:10:22 +0000 2020",
+		"id": 1316287626299625500,
+		"id_str": "1316335534869024768",
+		"full_text": "Happy #AHPsDay 🥳🎉\n\nRetweet if you love AHPs! ❤✨\n\n📢And join our the live webinar with the CAHPO for England  @SuzanneRastrick and  CEO of @clever_together  @PeteThomond  today at 12:30pm as part of your celebrations- https://t.co/wn7LBlNUYI\n\n#strongertogether #AHPsDay2020 https://t.co/rNCayMyt0g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AHPsDay",
+					"indices": [
+						6,
+						14
+					]
+				},
+				{
+					"text": "strongertogether",
+					"indices": [
+						241,
+						258
+					]
+				},
+				{
+					"text": "AHPsDay2020",
+					"indices": [
+						259,
+						271
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SuzanneRastrick",
+					"name": "Suzanne Rastrick",
+					"id": 1596992540,
+					"id_str": "1596992540",
+					"indices": [
+						108,
+						124
+					]
+				},
+				{
+					"screen_name": "clever_together",
+					"name": "Clever Together",
+					"id": 425168352,
+					"id_str": "425168352",
+					"indices": [
+						137,
+						153
+					]
+				},
+				{
+					"screen_name": "PeteThomond",
+					"name": "Pete Thomond",
+					"id": 237499541,
+					"id_str": "237499541",
+					"indices": [
+						155,
+						167
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wn7LBlNUYI",
+					"expanded_url": "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzhjNTIwM2ItZTQzMS00ODkzLWJkZjAtYWJjZjVlNjc3ODgx%40thread.v2/0?context=%7b%22Tid%22%3a%22849873ab-4265-46f9-b32d-3fa4fbb97ea1%22%2c%22Oid%22%3a%227be793b6-27d6-4560-b3bb-830510323b0b%22%2c%22IsBroadcastMeeting%22%3atrue%7d",
+					"display_url": "teams.microsoft.com/l/meetup-join/…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1316076056042971100,
+					"id_str": "1316076056042971141",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/EkOkMznWoAUOs2d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkOkMznWoAUOs2d.jpg",
+					"url": "https://t.co/rNCayMyt0g",
+					"display_url": "pic.twitter.com/rNCayMyt0g",
+					"expanded_url": "https://twitter.com/BeesKneesAHPs/status/1316287626299625474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 250,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1269,
+							"h": 467,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 442,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316076056042971100,
+					"id_str": "1316076056042971141",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/EkOkMznWoAUOs2d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkOkMznWoAUOs2d.jpg",
+					"url": "https://t.co/rNCayMyt0g",
+					"display_url": "pic.twitter.com/rNCayMyt0g",
+					"expanded_url": "https://twitter.com/BeesKneesAHPs/status/1316287626299625474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 250,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1269,
+							"h": 467,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 442,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 983371268765507600,
+			"id_str": "983371268765507586",
+			"name": "Stephanie Gates",
+			"screen_name": "BeesKneesAHPs",
+			"location": "",
+			"description": "Project Manager, Allied Health Professions Leadership Team for England ⭐| Kiwi living and working in London 🥝❤",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 558,
+			"friends_count": 143,
+			"listed_count": 1,
+			"created_at": "Mon Apr 09 15:49:15 +0000 2018",
+			"favourites_count": 221,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1256243874072330240/GKcdCpCt_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1256243874072330240/GKcdCpCt_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/983371268765507586/1588347443",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 57,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy #AHPsDay 🥳🎉\n\nRetweet if you love AHPs! ❤✨\n\n📢And join our the live webinar with the CAHPO for England  @SuzanneRastrick and  CEO of @clever_together  @PeteThomond  today at 12:30pm as part of your celebrations- https://t.co/wn7LBlNUYI\n\n#strongertogether #AHPsDay2020 https://t.co/rNCayMyt0g"
+	},
+	{
+		"created_at": "Wed Oct 14 10:24:18 +0000 2020",
+		"id": 1316322903265341400,
+		"id_str": "1316323942785781760",
+		"full_text": "AHP Role Model Podcast Series \nto celebrate diversity in the #AHP workforce for #AHPsDay2020\n\nNow all live as Videos on YouTube and Audio on Podbean\n\nHuge thanks to the amazing panel members ⬇️\n\n@SuzanneRastrick @jkfillingham @stuartgpalma what superstar @WeAHPs we have  #AHPsDay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AHP",
+					"indices": [
+						61,
+						65
+					]
+				},
+				{
+					"text": "AHPsDay2020",
+					"indices": [
+						80,
+						92
+					]
+				},
+				{
+					"text": "AHPsDay",
+					"indices": [
+						272,
+						280
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SuzanneRastrick",
+					"name": "Suzanne Rastrick",
+					"id": 1596992540,
+					"id_str": "1596992540",
+					"indices": [
+						195,
+						211
+					]
+				},
+				{
+					"screen_name": "jkfillingham",
+					"name": "Joanne Fillingham",
+					"id": 795389719,
+					"id_str": "795389719",
+					"indices": [
+						212,
+						225
+					]
+				},
+				{
+					"screen_name": "stuartgpalma",
+					"name": "Stuart Palma",
+					"id": 468241231,
+					"id_str": "468241231",
+					"indices": [
+						226,
+						239
+					]
+				},
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs 💙",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						255,
+						262
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 107548705,
+			"id_str": "107548705",
+			"name": "rachael moses",
+			"screen_name": "AHPLeader",
+			"location": "London, England",
+			"description": "Ass Director Rehab & Therapy @RBandH, Consultant Physiotherapist, CSPCouncil, MultiMedia Ed @thoraxBMJ, Co-ordinator @MedicalAidPal, Inclusion &Diversity 🏳️‍🌈",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16394,
+			"friends_count": 1623,
+			"listed_count": 57,
+			"created_at": "Fri Jan 22 23:15:52 +0000 2010",
+			"favourites_count": 18817,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14515,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1154461452197126145/H1AzB9z5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1154461452197126145/H1AzB9z5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/107548705/1493115352",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 54,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "AHP Role Model Podcast Series \nto celebrate diversity in the #AHP workforce for #AHPsDay2020\n\nNow all live as Videos on YouTube and Audio on Podbean\n\nHuge thanks to the amazing panel members ⬇️\n\n@SuzanneRastrick @jkfillingham @stuartgpalma what superstar @WeAHPs we have  #AHPsDay"
+	},
+	{
+		"created_at": "Wed Oct 14 10:23:50 +0000 2020",
+		"id": 1316323825097810000,
+		"id_str": "1316323825097809925",
+		"full_text": "@bendotellis @michael_rowe @InBetaPhysio @thomas_jesson will be replying to this tweet any minute... 👍🤩",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bendotellis",
+					"name": "Ben Ellis",
+					"id": 424907352,
+					"id_str": "424907352",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "michael_rowe",
+					"name": "Michael Rowe",
+					"id": 14842942,
+					"id_str": "14842942",
+					"indices": [
+						13,
+						26
+					]
+				},
+				{
+					"screen_name": "InBetaPhysio",
+					"name": "In Beta Experiments in Physio education",
+					"id": 1206919206731681800,
+					"id_str": "1206919206731681792",
+					"indices": [
+						27,
+						40
+					]
+				},
+				{
+					"screen_name": "thomas_jesson",
+					"name": "Tom Jesson",
+					"id": 3091527256,
+					"id_str": "3091527256",
+					"indices": [
+						41,
+						55
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316321228479660000,
+		"in_reply_to_status_id_str": "1316321228479660032",
+		"in_reply_to_user_id": 424907352,
+		"in_reply_to_user_id_str": "424907352",
+		"in_reply_to_screen_name": "bendotellis",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨I'm here to make a difference! ✨Physio | Chair of Armed Forces Network @UHDBTrust | CSP Professional Committee | @HLA_Int Scholar | #150Leaders Alumnus",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2380,
+			"friends_count": 3782,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19562,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6563,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1600702003",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bendotellis @michael_rowe @InBetaPhysio @thomas_jesson will be replying to this tweet any minute... 👍🤩"
+	},
+	{
 		"created_at": "Tue Oct 13 06:16:10 +0000 2020",
 		"id": 1315897625737138200,
 		"id_str": "1315899110050979845",
