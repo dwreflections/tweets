@@ -1,6 +1,2086 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 16 15:19:24 +0000 2020",
+		"id": 1317033541537026000,
+		"id_str": "1317122983245250560",
+		"full_text": "We want to hear how healthcare workers &amp; students feel valued or undervalued. We want stories from all professional groups.\n\nWe want the public to see #behindthemask so we can highlight what needs to change in healthcare.\n\nFill in this survey: https://t.co/9bD6k3wm38\n\n&gt;@HLA_int https://t.co/kP2sKDfjU5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			285
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "behindthemask",
+					"indices": [
+						155,
+						169
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						277,
+						285
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9bD6k3wm38",
+					"expanded_url": "https://bit.ly/37dbx9C",
+					"display_url": "bit.ly/37dbx9C",
+					"indices": [
+						248,
+						271
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1317031580267839500,
+					"id_str": "1317031580267839488",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/EkcJPovWAAARN1i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkcJPovWAAARN1i.jpg",
+					"url": "https://t.co/kP2sKDfjU5",
+					"display_url": "pic.twitter.com/kP2sKDfjU5",
+					"expanded_url": "https://twitter.com/LewyHughey/status/1317033541537026048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1317031580267839500,
+					"id_str": "1317031580267839488",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/EkcJPovWAAARN1i.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkcJPovWAAARN1i.jpg",
+					"url": "https://t.co/kP2sKDfjU5",
+					"display_url": "pic.twitter.com/kP2sKDfjU5",
+					"expanded_url": "https://twitter.com/LewyHughey/status/1317033541537026048/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 77867482,
+			"id_str": "77867482",
+			"name": "Lewis Thomas Hughes",
+			"screen_name": "LewyHughey",
+			"location": "Glasgow, Scotland",
+			"description": "Jr Doc, @theBMA -er\n@HLA_int Scholar 20/21 (Edinburgh),\n@ejdpwg UK Dep. Head.\nint: Palliative Care, Public Health, Social Mobility, Trade Unions, #Gàidhlig",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 838,
+			"friends_count": 2404,
+			"listed_count": 14,
+			"created_at": "Sun Sep 27 23:47:38 +0000 2009",
+			"favourites_count": 3067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2011,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1301127431097585664/puygmjZK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1301127431097585664/puygmjZK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/77867482/1599061014",
+			"profile_link_color": "0066F0",
+			"profile_sidebar_border_color": "20FDF4",
+			"profile_sidebar_fill_color": "BBE2BC",
+			"profile_text_color": "0066F0",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 36,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We want to hear how healthcare workers &amp; students feel valued or undervalued. We want stories from all professional groups.\n\nWe want the public to see #behindthemask so we can highlight what needs to change in healthcare.\n\nFill in this survey: https://t.co/9bD6k3wm38\n\n&gt;@HLA_int https://t.co/kP2sKDfjU5"
+	},
+	{
+		"created_at": "Fri Oct 16 09:59:41 +0000 2020",
+		"id": 1317042521701290000,
+		"id_str": "1317042521701289984",
+		"full_text": "@pipwhitept @thecsp @CompletePhysio @JackAChew @AHPLeader @ACPOMIT @TheACPRC @ACPIN_UK Awesome work @pipwhitept ! So important for the profession moving forward ... #AdvancedPractice #ACP #FCP",
+		"truncated": false,
+		"display_text_range": [
+			87,
+			192
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AdvancedPractice",
+					"indices": [
+						165,
+						182
+					]
+				},
+				{
+					"text": "ACP",
+					"indices": [
+						183,
+						187
+					]
+				},
+				{
+					"text": "FCP",
+					"indices": [
+						188,
+						192
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pipwhitept",
+					"name": "Pip White",
+					"id": 2424607455,
+					"id_str": "2424607455",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						12,
+						19
+					]
+				},
+				{
+					"screen_name": "CompletePhysio",
+					"name": "Complete Physio",
+					"id": 111977738,
+					"id_str": "111977738",
+					"indices": [
+						20,
+						35
+					]
+				},
+				{
+					"screen_name": "JackAChew",
+					"name": "Jack Chew",
+					"id": 868558446,
+					"id_str": "868558446",
+					"indices": [
+						36,
+						46
+					]
+				},
+				{
+					"screen_name": "AHPLeader",
+					"name": "rachael moses",
+					"id": 107548705,
+					"id_str": "107548705",
+					"indices": [
+						47,
+						57
+					]
+				},
+				{
+					"screen_name": "ACPOMIT",
+					"name": "ACPOMIT",
+					"id": 501989194,
+					"id_str": "501989194",
+					"indices": [
+						58,
+						66
+					]
+				},
+				{
+					"screen_name": "TheACPRC",
+					"name": "ACPRC",
+					"id": 1728120193,
+					"id_str": "1728120193",
+					"indices": [
+						67,
+						76
+					]
+				},
+				{
+					"screen_name": "ACPIN_UK",
+					"name": "ACPIN",
+					"id": 574296869,
+					"id_str": "574296869",
+					"indices": [
+						77,
+						86
+					]
+				},
+				{
+					"screen_name": "pipwhitept",
+					"name": "Pip White",
+					"id": 2424607455,
+					"id_str": "2424607455",
+					"indices": [
+						100,
+						111
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1316643890921902000,
+		"in_reply_to_status_id_str": "1316643890921902082",
+		"in_reply_to_user_id": 2424607455,
+		"in_reply_to_user_id_str": "2424607455",
+		"in_reply_to_screen_name": "pipwhitept",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | CSP Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2388,
+			"friends_count": 3795,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@pipwhitept @thecsp @CompletePhysio @JackAChew @AHPLeader @ACPOMIT @TheACPRC @ACPIN_UK Awesome work @pipwhitept ! So important for the profession moving forward ... #AdvancedPractice #ACP #FCP"
+	},
+	{
+		"created_at": "Fri Oct 16 09:16:29 +0000 2020",
+		"id": 1317031651973734400,
+		"id_str": "1317031651973734400",
+		"full_text": "We have been challenged to make an impact! 💥\nHow do you make an impact? #Leadership \n\n #EdinburghCohort @HLA_int #HLA20 #150Leaders \n@exerciseworks @helenbevan @AHPLeader @mikechitty @weAHP @KMiddletonCSP @katerinakolyva @BeverleyHarden @EdinUniMedicine https://t.co/JCdBWxFtYX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Leadership",
+					"indices": [
+						72,
+						83
+					]
+				},
+				{
+					"text": "EdinburghCohort",
+					"indices": [
+						87,
+						103
+					]
+				},
+				{
+					"text": "HLA20",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"text": "150Leaders",
+					"indices": [
+						120,
+						131
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						104,
+						112
+					]
+				},
+				{
+					"screen_name": "exerciseworks",
+					"name": "Exercise Works! 💙",
+					"id": 256921454,
+					"id_str": "256921454",
+					"indices": [
+						133,
+						147
+					]
+				},
+				{
+					"screen_name": "helenbevan",
+					"name": "Helen Bevan",
+					"id": 190960735,
+					"id_str": "190960735",
+					"indices": [
+						148,
+						159
+					]
+				},
+				{
+					"screen_name": "AHPLeader",
+					"name": "rachael moses",
+					"id": 107548705,
+					"id_str": "107548705",
+					"indices": [
+						160,
+						170
+					]
+				},
+				{
+					"screen_name": "mikechitty",
+					"name": "Mike Chitty",
+					"id": 21009225,
+					"id_str": "21009225",
+					"indices": [
+						171,
+						182
+					]
+				},
+				{
+					"screen_name": "WeahP",
+					"name": "Philip weah",
+					"id": 448198475,
+					"id_str": "448198475",
+					"indices": [
+						183,
+						189
+					]
+				},
+				{
+					"screen_name": "KMiddletonCSP",
+					"name": "Karen Middleton",
+					"id": 791233063,
+					"id_str": "791233063",
+					"indices": [
+						190,
+						204
+					]
+				},
+				{
+					"screen_name": "katerinakolyva",
+					"name": "Dr Katerina Kolyva",
+					"id": 2156890678,
+					"id_str": "2156890678",
+					"indices": [
+						205,
+						220
+					]
+				},
+				{
+					"screen_name": "BeverleyHarden",
+					"name": "Beverley Harden FCSP",
+					"id": 1641141318,
+					"id_str": "1641141318",
+					"indices": [
+						221,
+						236
+					]
+				},
+				{
+					"screen_name": "EdinUniMedicine",
+					"name": "Edinburgh Medical School",
+					"id": 182414284,
+					"id_str": "182414284",
+					"indices": [
+						237,
+						253
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1317029609926545400,
+					"id_str": "1317029609926545408",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/EkcHc8pX0AAQADy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkcHc8pX0AAQADy.jpg",
+					"url": "https://t.co/JCdBWxFtYX",
+					"display_url": "pic.twitter.com/JCdBWxFtYX",
+					"expanded_url": "https://twitter.com/beardedPT/status/1317031651973734400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 735,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 735,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1317029609926545400,
+					"id_str": "1317029609926545408",
+					"indices": [
+						254,
+						277
+					],
+					"media_url": "http://pbs.twimg.com/media/EkcHc8pX0AAQADy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkcHc8pX0AAQADy.jpg",
+					"url": "https://t.co/JCdBWxFtYX",
+					"display_url": "pic.twitter.com/JCdBWxFtYX",
+					"expanded_url": "https://twitter.com/beardedPT/status/1317031651973734400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 735,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 735,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | CSP Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2388,
+			"friends_count": 3795,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We have been challenged to make an impact! 💥\nHow do you make an impact? #Leadership \n\n #EdinburghCohort @HLA_int #HLA20 #150Leaders \n@exerciseworks @helenbevan @AHPLeader @mikechitty @weAHP @KMiddletonCSP @katerinakolyva @BeverleyHarden @EdinUniMedicine https://t.co/JCdBWxFtYX"
+	},
+	{
+		"created_at": "Fri Oct 16 09:06:52 +0000 2020",
+		"id": 1317029147949060000,
+		"id_str": "1317029231189217280",
+		"full_text": "#makinganimpact with the new Edinburgh Cohort of HLA Scholars - staying active and inventive, even on Zoom #hla20 https://t.co/RllAqp0fTo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "makinganimpact",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"text": "hla20",
+					"indices": [
+						107,
+						113
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1317027114709897200,
+					"id_str": "1317027114709897216",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EkcFLtPXUAAE-sw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkcFLtPXUAAE-sw.jpg",
+					"url": "https://t.co/RllAqp0fTo",
+					"display_url": "pic.twitter.com/RllAqp0fTo",
+					"expanded_url": "https://twitter.com/itsrebeccaml/status/1317029147949060096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 735,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 735,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1317027114709897200,
+					"id_str": "1317027114709897216",
+					"indices": [
+						114,
+						137
+					],
+					"media_url": "http://pbs.twimg.com/media/EkcFLtPXUAAE-sw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkcFLtPXUAAE-sw.jpg",
+					"url": "https://t.co/RllAqp0fTo",
+					"display_url": "pic.twitter.com/RllAqp0fTo",
+					"expanded_url": "https://twitter.com/itsrebeccaml/status/1317029147949060096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 750,
+							"h": 735,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 666,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 750,
+							"h": 735,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1279436388107268000,
+			"id_str": "1279436388107268097",
+			"name": "Rebecca Murphy Lonergan",
+			"screen_name": "itsrebeccaml",
+			"location": "",
+			"description": "Edinburgh Medic and Former MSC Convenor\nHLA Scholar with Women in Healthcare Leadership\nRCPsych Psych Star 2020\nGlobal Brigades UK Lead Campus Coordinator",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 36,
+			"listed_count": 0,
+			"created_at": "Sat Jul 04 15:26:30 +0000 2020",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1279437108206350336/s-3cpSqf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1279437108206350336/s-3cpSqf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1279436388107268097/1593876781",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#makinganimpact with the new Edinburgh Cohort of HLA Scholars - staying active and inventive, even on Zoom #hla20 https://t.co/RllAqp0fTo"
+	},
+	{
+		"created_at": "Fri Oct 16 08:59:55 +0000 2020",
+		"id": 1317027483519254500,
+		"id_str": "1317027483519254528",
+		"full_text": "Day 3 #EdinburghCohort of @HLA_int #HLA20\nLook out for making an impact 💥⚡️ https://t.co/UaOyftvxNC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EdinburghCohort",
+					"indices": [
+						6,
+						22
+					]
+				},
+				{
+					"text": "HLA20",
+					"indices": [
+						35,
+						41
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						26,
+						34
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1317027409422655500,
+					"id_str": "1317027409422655488",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EkcFc3IXIAAOmWV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkcFc3IXIAAOmWV.jpg",
+					"url": "https://t.co/UaOyftvxNC",
+					"display_url": "pic.twitter.com/UaOyftvxNC",
+					"expanded_url": "https://twitter.com/beardedPT/status/1317027483519254528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 170,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1317027409422655500,
+					"id_str": "1317027409422655488",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EkcFc3IXIAAOmWV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkcFc3IXIAAOmWV.jpg",
+					"url": "https://t.co/UaOyftvxNC",
+					"display_url": "pic.twitter.com/UaOyftvxNC",
+					"expanded_url": "https://twitter.com/beardedPT/status/1317027483519254528/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 170,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | CSP Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2388,
+			"friends_count": 3795,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Day 3 #EdinburghCohort of @HLA_int #HLA20\nLook out for making an impact 💥⚡️ https://t.co/UaOyftvxNC"
+	},
+	{
+		"created_at": "Fri Oct 16 06:51:15 +0000 2020",
+		"id": 1316643890921902000,
+		"id_str": "1316995099725889536",
+		"full_text": "IT'S HERE AT LAST!!!! The Public Consultation to increase the number of controlled drugs @thecsp IPer's can prescribe💥💥. Please share far and wide. More info on https://t.co/4zeGujQbha @CompletePhysio @JackAChew @AHPLeader @ACPOMIT @TheACPRC @ACPIN_UK \nhttps://t.co/Y5PKboWlMI https://t.co/fddORUnCvF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						89,
+						96
+					]
+				},
+				{
+					"screen_name": "CompletePhysio",
+					"name": "Complete Physio",
+					"id": 111977738,
+					"id_str": "111977738",
+					"indices": [
+						185,
+						200
+					]
+				},
+				{
+					"screen_name": "JackAChew",
+					"name": "Jack Chew",
+					"id": 868558446,
+					"id_str": "868558446",
+					"indices": [
+						201,
+						211
+					]
+				},
+				{
+					"screen_name": "AHPLeader",
+					"name": "rachael moses",
+					"id": 107548705,
+					"id_str": "107548705",
+					"indices": [
+						212,
+						222
+					]
+				},
+				{
+					"screen_name": "ACPOMIT",
+					"name": "ACPOMIT",
+					"id": 501989194,
+					"id_str": "501989194",
+					"indices": [
+						223,
+						231
+					]
+				},
+				{
+					"screen_name": "TheACPRC",
+					"name": "ACPRC",
+					"id": 1728120193,
+					"id_str": "1728120193",
+					"indices": [
+						232,
+						241
+					]
+				},
+				{
+					"screen_name": "ACPIN_UK",
+					"name": "ACPIN",
+					"id": 574296869,
+					"id_str": "574296869",
+					"indices": [
+						242,
+						251
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/4zeGujQbha",
+					"expanded_url": "http://www.csp.org.uk",
+					"display_url": "csp.org.uk",
+					"indices": [
+						161,
+						184
+					]
+				},
+				{
+					"url": "https://t.co/Y5PKboWlMI",
+					"expanded_url": "https://www.engage.england.nhs.uk/consultation/physiotherapists/",
+					"display_url": "engage.england.nhs.uk/consultation/p…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1316643884211089400,
+					"id_str": "1316643884211089410",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EkWoowYXsAI2dc6.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EkWoowYXsAI2dc6.jpg",
+					"url": "https://t.co/fddORUnCvF",
+					"display_url": "pic.twitter.com/fddORUnCvF",
+					"expanded_url": "https://twitter.com/pipwhitept/status/1316643890921902082/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316643884211089400,
+					"id_str": "1316643884211089410",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EkWoowYXsAI2dc6.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EkWoowYXsAI2dc6.jpg",
+					"url": "https://t.co/fddORUnCvF",
+					"display_url": "pic.twitter.com/fddORUnCvF",
+					"expanded_url": "https://twitter.com/pipwhitept/status/1316643890921902082/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 360,
+							"h": 240,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							3,
+							2
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EkWoowYXsAI2dc6.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2424607455,
+			"id_str": "2424607455",
+			"name": "Pip White",
+			"screen_name": "pipwhitept",
+			"location": "Northants",
+			"description": "BSc MSc MA(Law) MCSP • Professional Adviser @thecsp - prescribing, hip# rehab • NICE Fellow 2020-23 • CUBS cert Expert Witness clinneg • MSK Physio • Views own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1465,
+			"friends_count": 239,
+			"listed_count": 17,
+			"created_at": "Thu Mar 20 12:15:10 +0000 2014",
+			"favourites_count": 7811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2343,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/814192127538266113/aKZoRTvU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/814192127538266113/aKZoRTvU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2424607455/1540910087",
+			"profile_link_color": "9266CC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 74,
+		"favorite_count": 91,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "IT'S HERE AT LAST!!!! The Public Consultation to increase the number of controlled drugs @thecsp IPer's can prescribe💥💥. Please share far and wide. More info on https://t.co/4zeGujQbha @CompletePhysio @JackAChew @AHPLeader @ACPOMIT @TheACPRC @ACPIN_UK \nhttps://t.co/Y5PKboWlMI https://t.co/fddORUnCvF"
+	},
+	{
+		"created_at": "Thu Oct 15 16:54:31 +0000 2020",
+		"id": 1316784529235939300,
+		"id_str": "1316784529235939330",
+		"full_text": "Great to get out on the trails &amp; reflect  after lots of screen time with @HLA_int today 📺 🌳 #HLA20 #EdinburghCohort \n\nTY to @emmatonnerr &amp; @torrance_felix for hosting/leading the cohort 💫#Leadership https://t.co/iMjyi3HtFI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HLA20",
+					"indices": [
+						96,
+						102
+					]
+				},
+				{
+					"text": "EdinburghCohort",
+					"indices": [
+						103,
+						119
+					]
+				},
+				{
+					"text": "Leadership",
+					"indices": [
+						195,
+						206
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						77,
+						85
+					]
+				},
+				{
+					"screen_name": "emmatonnerr",
+					"name": "Emma Tonner",
+					"id": 933281958792220700,
+					"id_str": "933281958792220673",
+					"indices": [
+						128,
+						140
+					]
+				},
+				{
+					"screen_name": "torrance_felix",
+					"name": "Felix Torrance",
+					"id": 1139976503515582500,
+					"id_str": "1139976503515582464",
+					"indices": [
+						147,
+						162
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316784519681319000,
+					"id_str": "1316784519681318912",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/EkYoi0VWoAAjCmf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkYoi0VWoAAjCmf.jpg",
+					"url": "https://t.co/iMjyi3HtFI",
+					"display_url": "pic.twitter.com/iMjyi3HtFI",
+					"expanded_url": "https://twitter.com/beardedPT/status/1316784529235939330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316784519681319000,
+					"id_str": "1316784519681318912",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/EkYoi0VWoAAjCmf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkYoi0VWoAAjCmf.jpg",
+					"url": "https://t.co/iMjyi3HtFI",
+					"display_url": "pic.twitter.com/iMjyi3HtFI",
+					"expanded_url": "https://twitter.com/beardedPT/status/1316784529235939330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1316784519798812700,
+					"id_str": "1316784519798812682",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/EkYoi0xXcAoz_IT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkYoi0xXcAoz_IT.jpg",
+					"url": "https://t.co/iMjyi3HtFI",
+					"display_url": "pic.twitter.com/iMjyi3HtFI",
+					"expanded_url": "https://twitter.com/beardedPT/status/1316784529235939330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1316784520104992800,
+					"id_str": "1316784520104992768",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/media/EkYoi16XYAAiRQP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkYoi16XYAAiRQP.jpg",
+					"url": "https://t.co/iMjyi3HtFI",
+					"display_url": "pic.twitter.com/iMjyi3HtFI",
+					"expanded_url": "https://twitter.com/beardedPT/status/1316784529235939330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | CSP Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2388,
+			"friends_count": 3795,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "089df02a97d4c000",
+			"url": "https://api.twitter.com/1.1/geo/id/089df02a97d4c000.json",
+			"place_type": "poi",
+			"name": "Cannock Chase Forest",
+			"full_name": "Cannock Chase Forest",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.970468,
+							52.757017
+						],
+						[
+							-1.970468,
+							52.757017
+						],
+						[
+							-1.970468,
+							52.757017
+						],
+						[
+							-1.970468,
+							52.757017
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great to get out on the trails &amp; reflect  after lots of screen time with @HLA_int today 📺 🌳 #HLA20 #EdinburghCohort \n\nTY to @emmatonnerr &amp; @torrance_felix for hosting/leading the cohort 💫#Leadership https://t.co/iMjyi3HtFI"
+	},
+	{
+		"created_at": "Thu Oct 15 16:29:27 +0000 2020",
+		"id": 1316778223519371300,
+		"id_str": "1316778223519371264",
+		"full_text": "@SoldierOnAwards @SussexAFN @renkapur @XForces Brilliant work @renkapur !! Good luck everyone 👏 👏 \n\n#SolideringOnAwards @xforces",
+		"truncated": false,
+		"display_text_range": [
+			47,
+			128
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "SolideringOnAwards",
+					"indices": [
+						100,
+						119
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SoldierOnAwards",
+					"name": "Soldiering On Awards",
+					"id": 457535286,
+					"id_str": "457535286",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "SussexAFN",
+					"name": "Armed Forces Network",
+					"id": 731465750892924900,
+					"id_str": "731465750892924928",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"screen_name": "renkapur",
+					"name": "Ren Kapur MBE",
+					"id": 16206564,
+					"id_str": "16206564",
+					"indices": [
+						28,
+						37
+					]
+				},
+				{
+					"screen_name": "XForces",
+					"name": "X-Forces Enterprise",
+					"id": 1426122410,
+					"id_str": "1426122410",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"screen_name": "renkapur",
+					"name": "Ren Kapur MBE",
+					"id": 16206564,
+					"id_str": "16206564",
+					"indices": [
+						62,
+						71
+					]
+				},
+				{
+					"screen_name": "XForces",
+					"name": "X-Forces Enterprise",
+					"id": 1426122410,
+					"id_str": "1426122410",
+					"indices": [
+						120,
+						128
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1316774221675143200,
+		"in_reply_to_status_id_str": "1316774221675143170",
+		"in_reply_to_user_id": 457535286,
+		"in_reply_to_user_id_str": "457535286",
+		"in_reply_to_screen_name": "SoldierOnAwards",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | CSP Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2388,
+			"friends_count": 3795,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SoldierOnAwards @SussexAFN @renkapur @XForces Brilliant work @renkapur !! Good luck everyone 👏 👏 \n\n#SolideringOnAwards @xforces"
+	},
+	{
+		"created_at": "Thu Oct 15 13:58:23 +0000 2020",
+		"id": 1316740203613225000,
+		"id_str": "1316740203613224960",
+		"full_text": "@exerciseworks @Strength4_Life @fimo18",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "exerciseworks",
+					"name": "Exercise Works! 💙",
+					"id": 256921454,
+					"id_str": "256921454",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Strength4_Life",
+					"name": "Strength For Life",
+					"id": 981641767186567200,
+					"id_str": "981641767186567169",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "fimo18",
+					"name": "Dr Fiona Moffatt",
+					"id": 508806750,
+					"id_str": "508806750",
+					"indices": [
+						31,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1316643019169427500,
+		"in_reply_to_status_id_str": "1316643019169427460",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | CSP Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2388,
+			"friends_count": 3795,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@exerciseworks @Strength4_Life @fimo18"
+	},
+	{
+		"created_at": "Thu Oct 15 09:00:53 +0000 2020",
+		"id": 1316665338717708300,
+		"id_str": "1316665338717708296",
+		"full_text": "Day 2 @HLA_int Edinburgh Cohort 🚀🤩\nReally looking forward to working closer and learning with my scholars over the next few days \n#150Leaders #leadership #LeadershipDevelopment https://t.co/q3G8bNW14r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "150Leaders",
+					"indices": [
+						130,
+						141
+					]
+				},
+				{
+					"text": "leadership",
+					"indices": [
+						142,
+						153
+					]
+				},
+				{
+					"text": "LeadershipDevelopment",
+					"indices": [
+						154,
+						176
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						6,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1316664071828238300,
+					"id_str": "1316664071828238345",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EkW6_1HXcAkC4WP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkW6_1HXcAkC4WP.jpg",
+					"url": "https://t.co/q3G8bNW14r",
+					"display_url": "pic.twitter.com/q3G8bNW14r",
+					"expanded_url": "https://twitter.com/beardedPT/status/1316665338717708296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 809,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1316664071828238300,
+					"id_str": "1316664071828238345",
+					"indices": [
+						177,
+						200
+					],
+					"media_url": "http://pbs.twimg.com/media/EkW6_1HXcAkC4WP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EkW6_1HXcAkC4WP.jpg",
+					"url": "https://t.co/q3G8bNW14r",
+					"display_url": "pic.twitter.com/q3G8bNW14r",
+					"expanded_url": "https://twitter.com/beardedPT/status/1316665338717708296/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1381,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 809,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | CSP Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2388,
+			"friends_count": 3795,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Day 2 @HLA_int Edinburgh Cohort 🚀🤩\nReally looking forward to working closer and learning with my scholars over the next few days \n#150Leaders #leadership #LeadershipDevelopment https://t.co/q3G8bNW14r"
+	},
+	{
 		"created_at": "Wed Oct 14 22:13:51 +0000 2020",
 		"id": 1316502505040347100,
 		"id_str": "1316502505040347136",
@@ -2106,7 +4186,7 @@ Grailbird.data.tweets_2020_10 =
 			"name": "rachael moses",
 			"screen_name": "AHPLeader",
 			"location": "London, England",
-			"description": "Ass Director Rehab & Therapy @RBandH, Consultant Physiotherapist, CSPCouncil, MultiMedia Ed @thoraxBMJ, Co-ordinator @MedicalAidPal, Inclusion &Diversity 🏳️‍🌈",
+			"description": "Ass Director Rehab & Therapy @RBandH, Consultant Physiotherapist, CSPCouncil, MultiMedia Ed @thoraxBMJ, Co-ordinator @MedicalAidPal, Inclusion &Diversity 🏳️🌈",
 			"url": null,
 			"entities": {
 				"description": {
