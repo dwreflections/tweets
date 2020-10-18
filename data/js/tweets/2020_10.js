@@ -1,6 +1,221 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 17 08:45:07 +0000 2020",
+		"id": 1317368247000264700,
+		"id_str": "1317386145613926401",
+		"full_text": "Join us on November 21-22 for the Fourth HLA International Conference! \n\nNever been more exciting to find out about ‘Leading through difficult times’!\n\nRegister today and click follow for all the future updates on speakers, presentations and workshops! \n\nhttps://t.co/5Up7WeynoF https://t.co/rOGoIF5HOv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5Up7WeynoF",
+					"expanded_url": "https://thehealthcareleadership.academy/conference/",
+					"display_url": "thehealthcareleadership.academy/conference/",
+					"indices": [
+						255,
+						278
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1317202506364166100,
+					"id_str": "1317202506364166146",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1317202506364166146/pu/img/-E05dxrmq8ax5lEr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1317202506364166146/pu/img/-E05dxrmq8ax5lEr.jpg",
+					"url": "https://t.co/rOGoIF5HOv",
+					"display_url": "pic.twitter.com/rOGoIF5HOv",
+					"expanded_url": "https://twitter.com/HLA_int/status/1317368247000264705/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1317202506364166100,
+					"id_str": "1317202506364166146",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1317202506364166146/pu/img/-E05dxrmq8ax5lEr.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1317202506364166146/pu/img/-E05dxrmq8ax5lEr.jpg",
+					"url": "https://t.co/rOGoIF5HOv",
+					"display_url": "pic.twitter.com/rOGoIF5HOv",
+					"expanded_url": "https://twitter.com/HLA_int/status/1317368247000264705/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 16160,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1317202506364166146/pu/vid/640x360/LKXbS2a1kpvVB8yb.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1317202506364166146/pu/vid/1280x720/Q6FYndwuCzhp7CbK.mp4?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1317202506364166146/pu/vid/480x270/MMVyCx1A_RC_Ain7.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1317202506364166146/pu/pl/eVvoCSvC1Cu5ZnhP.m3u8?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 809803519846993900,
+			"id_str": "809803519846993921",
+			"name": "The HLA",
+			"screen_name": "HLA_int",
+			"location": "",
+			"description": "The Healthcare Leadership Academy: \n🌱Nurturing leadership🌱\n💭Fostering frontline innovation💭\n⚡Empowering and valuing the next generation⚡\n\nConf: 21&22 Nov",
+			"url": "https://t.co/84YgqZTCrl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/84YgqZTCrl",
+							"expanded_url": "http://thehealthcareleadership.academy",
+							"display_url": "thehealthcareleadership.academy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3388,
+			"friends_count": 0,
+			"listed_count": 15,
+			"created_at": "Fri Dec 16 16:52:59 +0000 2016",
+			"favourites_count": 4399,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8238,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810983604406915073/2jjtK_O1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810983604406915073/2jjtK_O1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/809803519846993921/1590615561",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us on November 21-22 for the Fourth HLA International Conference! \n\nNever been more exciting to find out about ‘Leading through difficult times’!\n\nRegister today and click follow for all the future updates on speakers, presentations and workshops! \n\nhttps://t.co/5Up7WeynoF https://t.co/rOGoIF5HOv"
+	},
+	{
 		"created_at": "Fri Oct 16 15:19:24 +0000 2020",
 		"id": 1317033541537026000,
 		"id_str": "1317122983245250560",
