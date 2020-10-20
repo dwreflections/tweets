@@ -1,6 +1,1142 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 19 20:00:08 +0000 2020",
+		"id": 1318280794213896200,
+		"id_str": "1318280794213896192",
+		"full_text": "@GatesPhysio Cheerfulness in the face of adversity... 🤣",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GatesPhysio",
+					"name": "John Gates 😷",
+					"id": 451401278,
+					"id_str": "451401278",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1318277860034023400,
+		"in_reply_to_status_id_str": "1318277860034023427",
+		"in_reply_to_user_id": 451401278,
+		"in_reply_to_user_id_str": "451401278",
+		"in_reply_to_screen_name": "GatesPhysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2408,
+			"friends_count": 3811,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GatesPhysio Cheerfulness in the face of adversity... 🤣"
+	},
+	{
+		"created_at": "Mon Oct 19 19:22:59 +0000 2020",
+		"id": 1318269838561861600,
+		"id_str": "1318271445638807554",
+		"full_text": "This was a great read. Highly recommend it to anyone outside of the military. #LeadershipDevelopment https://t.co/R8C8evlrkC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "LeadershipDevelopment",
+					"indices": [
+						78,
+						100
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R8C8evlrkC",
+					"expanded_url": "https://twitter.com/thearmyleader/status/1318265660745699336",
+					"display_url": "twitter.com/thearmyleader/…",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1056987959059202000,
+			"id_str": "1056987959059202048",
+			"name": "Will Moule",
+			"screen_name": "WillJMoule",
+			"location": "Leeds, England",
+			"description": "@bthft_OD Leadership & Team Development Facilitator.\nPlaid Shirt Wearer | Beard Keeper | Coffee Lover | Mountain Bike Rider | Metal Head | Veteran | Dude",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 973,
+			"friends_count": 896,
+			"listed_count": 6,
+			"created_at": "Mon Oct 29 19:15:42 +0000 2018",
+			"favourites_count": 5915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1573,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311409812379439104/Oc76awzD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311409812379439104/Oc76awzD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1056987959059202048/1599772403",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1318265660745699300,
+		"quoted_status_id_str": "1318265660745699336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/R8C8evlrkC",
+			"expanded": "https://twitter.com/thearmyleader/status/1318265660745699336",
+			"display": "twitter.com/thearmyleader/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 19 19:00:00 +0000 2020",
+			"id": 1318265660745699300,
+			"id_str": "1318265660745699336",
+			"full_text": "Based on its advice and support to the #NHS, the Army published a guide to crisis #leadership. We interviewed its author.\n👇Download the guide👇\nhttps://t.co/hpo50Ul4mE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				166
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NHS",
+						"indices": [
+							39,
+							43
+						]
+					},
+					{
+						"text": "leadership",
+						"indices": [
+							82,
+							93
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hpo50Ul4mE",
+						"expanded_url": "https://thearmyleader.co.uk/leading-through-crisis/",
+						"display_url": "thearmyleader.co.uk/leading-throug…",
+						"indices": [
+							143,
+							166
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 859851165525266400,
+				"id_str": "859851165525266433",
+				"name": "thearmyleader.co.uk",
+				"screen_name": "thearmyleader",
+				"location": "Where complicated meets complex",
+				"description": "Run by current and former military leaders. Dedicated to improving your, and your unit's, #leadership. Always looking for fresh thinking and contributions.",
+				"url": "https://t.co/KvUNK2sUaF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KvUNK2sUaF",
+								"expanded_url": "http://www.thearmyleader.co.uk",
+								"display_url": "thearmyleader.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 9274,
+				"friends_count": 521,
+				"listed_count": 43,
+				"created_at": "Wed May 03 19:24:27 +0000 2017",
+				"favourites_count": 4350,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 5358,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1210970388718592002/llsIGouX_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210970388718592002/llsIGouX_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/859851165525266433/1577552815",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This was a great read. Highly recommend it to anyone outside of the military. #LeadershipDevelopment https://t.co/R8C8evlrkC"
+	},
+	{
+		"created_at": "Mon Oct 19 19:22:55 +0000 2020",
+		"id": 1318271429792718800,
+		"id_str": "1318271429792718854",
+		"full_text": "@WillJMoule Brilliant read! I sent this to @exerciseworks a couple of weeks back.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WillJMoule",
+					"name": "Will Moule",
+					"id": 1056987959059202000,
+					"id_str": "1056987959059202048",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "exerciseworks",
+					"name": "Exercise Works! 💙",
+					"id": 256921454,
+					"id_str": "256921454",
+					"indices": [
+						43,
+						57
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1318269838561861600,
+		"in_reply_to_status_id_str": "1318269838561861638",
+		"in_reply_to_user_id": 1056987959059202000,
+		"in_reply_to_user_id_str": "1056987959059202048",
+		"in_reply_to_screen_name": "WillJMoule",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2408,
+			"friends_count": 3811,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@WillJMoule Brilliant read! I sent this to @exerciseworks a couple of weeks back."
+	},
+	{
+		"created_at": "Mon Oct 19 17:29:56 +0000 2020",
+		"id": 1318242994324111400,
+		"id_str": "1318242994324111361",
+		"full_text": "🌟 Leading through difficult times 🌟\n\nSuper excited for this @HLA_int virtual conference! \nI would love to see more @WeAHPs @wehcmanagers involved ⚡️ \n\n#physiotalk #AHPsDay #HLA20 #150Leaders #BuildBackBetter #leadership https://t.co/toDxqvGnYl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "physiotalk",
+					"indices": [
+						151,
+						162
+					]
+				},
+				{
+					"text": "AHPsDay",
+					"indices": [
+						163,
+						171
+					]
+				},
+				{
+					"text": "HLA20",
+					"indices": [
+						172,
+						178
+					]
+				},
+				{
+					"text": "150Leaders",
+					"indices": [
+						179,
+						190
+					]
+				},
+				{
+					"text": "BuildBackBetter",
+					"indices": [
+						191,
+						207
+					]
+				},
+				{
+					"text": "leadership",
+					"indices": [
+						208,
+						219
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs 💙",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						115,
+						122
+					]
+				},
+				{
+					"screen_name": "wehcmanagers",
+					"name": "wehcmanagers 💙",
+					"id": 1168645845543264300,
+					"id_str": "1168645845543264258",
+					"indices": [
+						123,
+						136
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/toDxqvGnYl",
+					"expanded_url": "https://twitter.com/150leaders/status/1318211553812860930",
+					"display_url": "twitter.com/150leaders/sta…",
+					"indices": [
+						220,
+						243
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2408,
+			"friends_count": 3811,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "60160252aeb7e3e5",
+			"url": "https://api.twitter.com/1.1/geo/id/60160252aeb7e3e5.json",
+			"place_type": "admin",
+			"name": "West Midlands",
+			"full_name": "West Midlands, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-3.23560072135158,
+							51.8259029271059
+						],
+						[
+							-1.17213601934124,
+							51.8259029271059
+						],
+						[
+							-1.17213601934124,
+							53.2262100153425
+						],
+						[
+							-3.23560072135158,
+							53.2262100153425
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1318211553812861000,
+		"quoted_status_id_str": "1318211553812860930",
+		"quoted_status_permalink": {
+			"url": "https://t.co/toDxqvGnYl",
+			"expanded": "https://twitter.com/150leaders/status/1318211553812860930",
+			"display": "twitter.com/150leaders/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 19 15:25:00 +0000 2020",
+			"id": 1318211553812861000,
+			"id_str": "1318211553812860930",
+			"full_text": "The @HLA_int are holding their virtual conference 2020 on 21-22 November on the theme of leading through difficult times. Tickets are free and you can sign up here \n👉 https://t.co/QY8c4D0d10 \n\nHope to see lots of you there! https://t.co/6kLvGvW09N",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				223
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HLA_int",
+						"name": "The HLA",
+						"id": 809803519846993900,
+						"id_str": "809803519846993921",
+						"indices": [
+							4,
+							12
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QY8c4D0d10",
+						"expanded_url": "https://bit.ly/34jtFva",
+						"display_url": "bit.ly/34jtFva",
+						"indices": [
+							167,
+							190
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1311684257560047600,
+						"id_str": "1311684257560047619",
+						"indices": [
+							224,
+							247
+						],
+						"media_url": "http://pbs.twimg.com/media/EjQJ4fVWsAMs2Jm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjQJ4fVWsAMs2Jm.jpg",
+						"url": "https://t.co/6kLvGvW09N",
+						"display_url": "pic.twitter.com/6kLvGvW09N",
+						"expanded_url": "https://twitter.com/150Leaders/status/1318211553812860930/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 670,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 670,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 380,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1311684257560047600,
+						"id_str": "1311684257560047619",
+						"indices": [
+							224,
+							247
+						],
+						"media_url": "http://pbs.twimg.com/media/EjQJ4fVWsAMs2Jm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjQJ4fVWsAMs2Jm.jpg",
+						"url": "https://t.co/6kLvGvW09N",
+						"display_url": "pic.twitter.com/6kLvGvW09N",
+						"expanded_url": "https://twitter.com/150Leaders/status/1318211553812860930/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 670,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 670,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 380,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1139187039151280100,
+				"id_str": "1139187039151280128",
+				"name": "#150Leaders",
+				"screen_name": "150Leaders",
+				"location": "United Kingdom",
+				"description": "@councilofdeans Student Leadership Programme | co-funded by @BurdettTrust | designed for student nurses, midwives & AHPs across the UK | co-created by students",
+				"url": "https://t.co/AxAGczzJZw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AxAGczzJZw",
+								"expanded_url": "http://www.councilofdeans.org.uk/studentleadership",
+								"display_url": "councilofdeans.org.uk/studentleaders…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1505,
+				"friends_count": 188,
+				"listed_count": 5,
+				"created_at": "Thu Jun 13 15:05:29 +0000 2019",
+				"favourites_count": 2211,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1965,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1141695642672279552/rf-wEzoI_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141695642672279552/rf-wEzoI_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1139187039151280128/1583504228",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🌟 Leading through difficult times 🌟\n\nSuper excited for this @HLA_int virtual conference! \nI would love to see more @WeAHPs @wehcmanagers involved ⚡️ \n\n#physiotalk #AHPsDay #HLA20 #150Leaders #BuildBackBetter #leadership https://t.co/toDxqvGnYl"
+	},
+	{
+		"created_at": "Mon Oct 19 16:53:14 +0000 2020",
+		"id": 1318233761117556700,
+		"id_str": "1318233761117556738",
+		"full_text": "@m_ferry_ My dad follows me too https://t.co/4FjA4sxVfd",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "m_ferry_",
+					"name": "Maarja 🌸",
+					"id": 4209231317,
+					"id_str": "4209231317",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1318233753068707800,
+					"id_str": "1318233753068707840",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EktOnTaXIAA5OHs.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EktOnTaXIAA5OHs.jpg",
+					"url": "https://t.co/4FjA4sxVfd",
+					"display_url": "pic.twitter.com/4FjA4sxVfd",
+					"expanded_url": "https://twitter.com/beardedPT/status/1318233761117556738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1318233753068707800,
+					"id_str": "1318233753068707840",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EktOnTaXIAA5OHs.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EktOnTaXIAA5OHs.jpg",
+					"url": "https://t.co/4FjA4sxVfd",
+					"display_url": "pic.twitter.com/4FjA4sxVfd",
+					"expanded_url": "https://twitter.com/beardedPT/status/1318233761117556738/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EktOnTaXIAA5OHs.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1318202376797458400,
+		"in_reply_to_status_id_str": "1318202376797458433",
+		"in_reply_to_user_id": 4209231317,
+		"in_reply_to_user_id_str": "4209231317",
+		"in_reply_to_screen_name": "m_ferry_",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2408,
+			"friends_count": 3811,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@m_ferry_ My dad follows me too https://t.co/4FjA4sxVfd"
+	},
+	{
+		"created_at": "Mon Oct 19 16:42:19 +0000 2020",
+		"id": 1318231010736283600,
+		"id_str": "1318231010736283648",
+		"full_text": "@hanjroberts You are not alone",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hanjroberts",
+					"name": "Hannah Roberts",
+					"id": 105757917,
+					"id_str": "105757917",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1318215864001417200,
+		"in_reply_to_status_id_str": "1318215864001417218",
+		"in_reply_to_user_id": 105757917,
+		"in_reply_to_user_id_str": "105757917",
+		"in_reply_to_screen_name": "hanjroberts",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2408,
+			"friends_count": 3811,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19654,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "60160252aeb7e3e5",
+			"url": "https://api.twitter.com/1.1/geo/id/60160252aeb7e3e5.json",
+			"place_type": "admin",
+			"name": "West Midlands",
+			"full_name": "West Midlands, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-3.23560072135158,
+							51.8259029271059
+						],
+						[
+							-1.17213601934124,
+							51.8259029271059
+						],
+						[
+							-1.17213601934124,
+							53.2262100153425
+						],
+						[
+							-3.23560072135158,
+							53.2262100153425
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hanjroberts You are not alone"
+	},
+	{
 		"created_at": "Sun Oct 18 16:20:38 +0000 2020",
 		"id": 1317860254131101700,
 		"id_str": "1317863168052441088",
@@ -57,7 +1193,7 @@ Grailbird.data.tweets_2020_10 =
 			"name": "rachael moses",
 			"screen_name": "AHPLeader",
 			"location": "London, England",
-			"description": "Ass Director Rehab & Therapy @RBandH, Consultant Physiotherapist, CSPCouncil, MultiMedia Ed @thoraxBMJ, Co-ordinator @MedicalAidPal, Inclusion &Diversity 🏳️‍🌈",
+			"description": "Ass Director Rehab & Therapy @RBandH, Consultant Physiotherapist, CSPCouncil, MultiMedia Ed @thoraxBMJ, Co-ordinator @MedicalAidPal, Inclusion &Diversity 🏳️🌈",
 			"url": null,
 			"entities": {
 				"description": {
