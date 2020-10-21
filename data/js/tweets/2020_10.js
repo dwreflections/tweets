@@ -1,6 +1,506 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 20 20:04:03 +0000 2020",
+		"id": 1318644165895389200,
+		"id_str": "1318644165895389184",
+		"full_text": "@katrinaKenn_AHP That hashtag too 🙌",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "katrinaKenn_AHP",
+					"name": "Katrina Kennedy",
+					"id": 2813539056,
+					"id_str": "2813539056",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1318642281092702200,
+		"in_reply_to_status_id_str": "1318642281092702211",
+		"in_reply_to_user_id": 2813539056,
+		"in_reply_to_user_id_str": "2813539056",
+		"in_reply_to_screen_name": "katrinaKenn_AHP",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2410,
+			"friends_count": 3813,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19669,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@katrinaKenn_AHP That hashtag too 🙌"
+	},
+	{
+		"created_at": "Tue Oct 20 06:10:12 +0000 2020",
+		"id": 1318434322173599700,
+		"id_str": "1318434322173599744",
+		"full_text": "@latimeralder @RogerKerry1 - please use this on the #EBP module this year 🤣👍😫",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "EBP",
+					"indices": [
+						52,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "latimeralder",
+					"name": "Latimer Alder",
+					"id": 98583506,
+					"id_str": "98583506",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1317418642699583500,
+		"in_reply_to_status_id_str": "1317418642699583494",
+		"in_reply_to_user_id": 98583506,
+		"in_reply_to_user_id_str": "98583506",
+		"in_reply_to_screen_name": "latimeralder",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2410,
+			"friends_count": 3813,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19669,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@latimeralder @RogerKerry1 - please use this on the #EBP module this year 🤣👍😫"
+	},
+	{
+		"created_at": "Tue Oct 20 06:07:06 +0000 2020",
+		"id": 1318433543522058200,
+		"id_str": "1318433543522058240",
+		"full_text": "@shellyrowlands @navy_women @womenindefence @RNReserve @ThisGirlCanUK BZ Michelle! 🙌🙌",
+		"truncated": false,
+		"display_text_range": [
+			70,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shellyrowlands",
+					"name": "Michelle Rowlands",
+					"id": 83087399,
+					"id_str": "83087399",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "navy_women",
+					"name": "Naval Women's Network",
+					"id": 2780189057,
+					"id_str": "2780189057",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "womenindefence",
+					"name": "Women in Defence UK",
+					"id": 3396994085,
+					"id_str": "3396994085",
+					"indices": [
+						28,
+						43
+					]
+				},
+				{
+					"screen_name": "RNReserve",
+					"name": "Royal Naval Reserve",
+					"id": 1415274422,
+					"id_str": "1415274422",
+					"indices": [
+						44,
+						54
+					]
+				},
+				{
+					"screen_name": "ThisGirlCanUK",
+					"name": "This Girl Can",
+					"id": 2805308640,
+					"id_str": "2805308640",
+					"indices": [
+						55,
+						69
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1318286285128241200,
+		"in_reply_to_status_id_str": "1318286285128241153",
+		"in_reply_to_user_id": 83087399,
+		"in_reply_to_user_id_str": "83087399",
+		"in_reply_to_screen_name": "shellyrowlands",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2410,
+			"friends_count": 3813,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19669,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "de",
+		"text": "@shellyrowlands @navy_women @womenindefence @RNReserve @ThisGirlCanUK BZ Michelle! 🙌🙌"
+	},
+	{
+		"created_at": "Tue Oct 20 06:06:07 +0000 2020",
+		"id": 1318433294422335500,
+		"id_str": "1318433294422335488",
+		"full_text": "@NHSGradScheme @NHSBME @NHS @NHSEmployers @NHSEngland @NEYLAcademy @NHSLeadership @NHSGradScheme will this event be recorded at all - unable to attend due to timing in the working day?",
+		"truncated": false,
+		"display_text_range": [
+			82,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NHSGradScheme",
+					"name": "NHS Graduate Scheme",
+					"id": 183579231,
+					"id_str": "183579231",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "NHSBME",
+					"name": "NHS BME Leaders",
+					"id": 2600179191,
+					"id_str": "2600179191",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"screen_name": "NHS",
+					"name": "@NHS",
+					"id": 753261781137719300,
+					"id_str": "753261781137719300",
+					"indices": [
+						23,
+						27
+					]
+				},
+				{
+					"screen_name": "NHSEmployers",
+					"name": "NHS Employers",
+					"id": 51048596,
+					"id_str": "51048596",
+					"indices": [
+						28,
+						41
+					]
+				},
+				{
+					"screen_name": "NHSEngland",
+					"name": "NHS England and NHS Improvement",
+					"id": 551426814,
+					"id_str": "551426814",
+					"indices": [
+						42,
+						53
+					]
+				},
+				{
+					"screen_name": "NEYLAcademy",
+					"name": "NHS Leadership Academy North East and Yorkshire",
+					"id": 219938539,
+					"id_str": "219938539",
+					"indices": [
+						54,
+						66
+					]
+				},
+				{
+					"screen_name": "NHSLeadership",
+					"name": "NHSLeadershipAcademy",
+					"id": 347923520,
+					"id_str": "347923520",
+					"indices": [
+						67,
+						81
+					]
+				},
+				{
+					"screen_name": "NHSGradScheme",
+					"name": "NHS Graduate Scheme",
+					"id": 183579231,
+					"id_str": "183579231",
+					"indices": [
+						82,
+						96
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1318191843956445200,
+		"in_reply_to_status_id_str": "1318191843956445187",
+		"in_reply_to_user_id": 183579231,
+		"in_reply_to_user_id_str": "183579231",
+		"in_reply_to_screen_name": "NHSGradScheme",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2410,
+			"friends_count": 3813,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19669,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6590,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NHSGradScheme @NHSBME @NHS @NHSEmployers @NHSEngland @NEYLAcademy @NHSLeadership @NHSGradScheme will this event be recorded at all - unable to attend due to timing in the working day?"
+	},
+	{
 		"created_at": "Mon Oct 19 20:00:08 +0000 2020",
 		"id": 1318280794213896200,
 		"id_str": "1318280794213896192",
