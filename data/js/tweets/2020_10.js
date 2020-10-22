@@ -1,6 +1,1149 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 21 17:34:09 +0000 2020",
+		"id": 1318968832690618400,
+		"id_str": "1318968832690618378",
+		"full_text": "@AHPLeader @PMFirstSteps @anita_atwal @PhysioWorkRehab @CollegeODP @LeeshaPhysio @CarylAPhysio You got this 🤩",
+		"truncated": false,
+		"display_text_range": [
+			95,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AHPLeader",
+					"name": "rachael moses",
+					"id": 107548705,
+					"id_str": "107548705",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "PMFirstSteps",
+					"name": "Physio Matters First Steps",
+					"id": 840861722286137300,
+					"id_str": "840861722286137349",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "anita_atwal",
+					"name": "Dr Anita Atwal",
+					"id": 4350117509,
+					"id_str": "4350117509",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "PhysioWorkRehab",
+					"name": "Dr Heather Gray",
+					"id": 1107293876,
+					"id_str": "1107293876",
+					"indices": [
+						38,
+						54
+					]
+				},
+				{
+					"screen_name": "CollegeODP",
+					"name": "College Of Operating Department Practitioners",
+					"id": 955437049124982800,
+					"id_str": "955437049124982785",
+					"indices": [
+						55,
+						66
+					]
+				},
+				{
+					"screen_name": "LeeshaPhysio",
+					"name": "Leesha A Naisbitt Physiotherapy Student",
+					"id": 1173181021757612000,
+					"id_str": "1173181021757612032",
+					"indices": [
+						67,
+						80
+					]
+				},
+				{
+					"screen_name": "CarylAPhysio",
+					"name": "Caryl Hunter",
+					"id": 825667985876582400,
+					"id_str": "825667985876582400",
+					"indices": [
+						81,
+						94
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1318967457411960800,
+		"in_reply_to_status_id_str": "1318967457411960841",
+		"in_reply_to_user_id": 107548705,
+		"in_reply_to_user_id_str": "107548705",
+		"in_reply_to_screen_name": "AHPLeader",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2412,
+			"friends_count": 3815,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AHPLeader @PMFirstSteps @anita_atwal @PhysioWorkRehab @CollegeODP @LeeshaPhysio @CarylAPhysio You got this 🤩"
+	},
+	{
+		"created_at": "Wed Oct 21 17:27:31 +0000 2020",
+		"id": 1318967161013100500,
+		"id_str": "1318967161013100544",
+		"full_text": "@AHPLeader @PMFirstSteps @anita_atwal @PhysioWorkRehab @CollegeODP @LeeshaPhysio @CarylAPhysio Best of luck with this @AHPLeader &amp; @PMFirstSteps 🙌✨",
+		"truncated": false,
+		"display_text_range": [
+			95,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AHPLeader",
+					"name": "rachael moses",
+					"id": 107548705,
+					"id_str": "107548705",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "PMFirstSteps",
+					"name": "Physio Matters First Steps",
+					"id": 840861722286137300,
+					"id_str": "840861722286137349",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "anita_atwal",
+					"name": "Dr Anita Atwal",
+					"id": 4350117509,
+					"id_str": "4350117509",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "PhysioWorkRehab",
+					"name": "Dr Heather Gray",
+					"id": 1107293876,
+					"id_str": "1107293876",
+					"indices": [
+						38,
+						54
+					]
+				},
+				{
+					"screen_name": "CollegeODP",
+					"name": "College Of Operating Department Practitioners",
+					"id": 955437049124982800,
+					"id_str": "955437049124982785",
+					"indices": [
+						55,
+						66
+					]
+				},
+				{
+					"screen_name": "LeeshaPhysio",
+					"name": "Leesha A Naisbitt Physiotherapy Student",
+					"id": 1173181021757612000,
+					"id_str": "1173181021757612032",
+					"indices": [
+						67,
+						80
+					]
+				},
+				{
+					"screen_name": "CarylAPhysio",
+					"name": "Caryl Hunter",
+					"id": 825667985876582400,
+					"id_str": "825667985876582400",
+					"indices": [
+						81,
+						94
+					]
+				},
+				{
+					"screen_name": "AHPLeader",
+					"name": "rachael moses",
+					"id": 107548705,
+					"id_str": "107548705",
+					"indices": [
+						118,
+						128
+					]
+				},
+				{
+					"screen_name": "PMFirstSteps",
+					"name": "Physio Matters First Steps",
+					"id": 840861722286137300,
+					"id_str": "840861722286137349",
+					"indices": [
+						135,
+						148
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1318966899527635000,
+		"in_reply_to_status_id_str": "1318966899527634947",
+		"in_reply_to_user_id": 107548705,
+		"in_reply_to_user_id_str": "107548705",
+		"in_reply_to_screen_name": "AHPLeader",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2412,
+			"friends_count": 3815,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AHPLeader @PMFirstSteps @anita_atwal @PhysioWorkRehab @CollegeODP @LeeshaPhysio @CarylAPhysio Best of luck with this @AHPLeader &amp; @PMFirstSteps 🙌✨"
+	},
+	{
+		"created_at": "Wed Oct 21 17:26:55 +0000 2020",
+		"id": 1318967010815103000,
+		"id_str": "1318967010815102977",
+		"full_text": "@GatesPhysio @Retlouping @MRWPhysio @consultantPT @iangattphysio @PhysioMACP @JackAChew @theEndurancePT @mccauleyandrew @ShoulderGeek1 @gitaramdharry @MattLowPT Will have a look at this thread later 🙌",
+		"truncated": false,
+		"display_text_range": [
+			161,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GatesPhysio",
+					"name": "John Gates 😷",
+					"id": 451401278,
+					"id_str": "451401278",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Retlouping",
+					"name": "🚴🏻‍♂️ ɹǝʇlnoԀ pıʌɐᗡ 🚴🏻‍♂️ 𝔹𝕖 𝕜𝕚𝕟𝕕 🇫🇷",
+					"id": 3246132338,
+					"id_str": "3246132338",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "MRWPhysio",
+					"name": "Matthew Wyatt",
+					"id": 863516326723301400,
+					"id_str": "863516326723301377",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"screen_name": "consultantPT",
+					"name": "Uzo Ehiogu",
+					"id": 1039521456,
+					"id_str": "1039521456",
+					"indices": [
+						36,
+						49
+					]
+				},
+				{
+					"screen_name": "iangattphysio",
+					"name": "THE BOXING PHYSIO 🥊🥇🇬🇧 (#TheGattman)",
+					"id": 927595912540688400,
+					"id_str": "927595912540688385",
+					"indices": [
+						50,
+						64
+					]
+				},
+				{
+					"screen_name": "PhysioMACP",
+					"name": "MACP",
+					"id": 1028269513,
+					"id_str": "1028269513",
+					"indices": [
+						65,
+						76
+					]
+				},
+				{
+					"screen_name": "JackAChew",
+					"name": "Jack Chew",
+					"id": 868558446,
+					"id_str": "868558446",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"screen_name": "theEndurancePT",
+					"name": "The Endurance Physio",
+					"id": 3319174982,
+					"id_str": "3319174982",
+					"indices": [
+						88,
+						103
+					]
+				},
+				{
+					"screen_name": "mccauleyandrew",
+					"name": "ProCare Sports Med",
+					"id": 757559395,
+					"id_str": "757559395",
+					"indices": [
+						104,
+						119
+					]
+				},
+				{
+					"screen_name": "ShoulderGeek1",
+					"name": "Jo Gibson",
+					"id": 1335169814,
+					"id_str": "1335169814",
+					"indices": [
+						120,
+						134
+					]
+				},
+				{
+					"screen_name": "gitaramdharry",
+					"name": "Gita Ramdharry PhD 🇲🇺🇮🇪🇬🇧🇪🇺",
+					"id": 236083439,
+					"id_str": "236083439",
+					"indices": [
+						135,
+						149
+					]
+				},
+				{
+					"screen_name": "MattLowPT",
+					"name": "Matthew Low",
+					"id": 1105433442,
+					"id_str": "1105433442",
+					"indices": [
+						150,
+						160
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1318873071785300000,
+		"in_reply_to_status_id_str": "1318873071785299973",
+		"in_reply_to_user_id": 451401278,
+		"in_reply_to_user_id_str": "451401278",
+		"in_reply_to_screen_name": "GatesPhysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2412,
+			"friends_count": 3815,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GatesPhysio @Retlouping @MRWPhysio @consultantPT @iangattphysio @PhysioMACP @JackAChew @theEndurancePT @mccauleyandrew @ShoulderGeek1 @gitaramdharry @MattLowPT Will have a look at this thread later 🙌"
+	},
+	{
+		"created_at": "Wed Oct 21 16:08:19 +0000 2020",
+		"id": 1318947233388286000,
+		"id_str": "1318947233388285954",
+		"full_text": "#HLA20 @HLA_int Community can you help ❓\n\n“medical students' knowledge of physiotherapy services.” ⬇️ \n@fimo18 @UoNPhysio https://t.co/MMVyI7Vm7B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HLA20",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"screen_name": "fimo18",
+					"name": "Dr Fiona Moffatt",
+					"id": 508806750,
+					"id_str": "508806750",
+					"indices": [
+						103,
+						110
+					]
+				},
+				{
+					"screen_name": "UoNPhysio",
+					"name": "UoN Physiotherapy",
+					"id": 3020424189,
+					"id_str": "3020424189",
+					"indices": [
+						111,
+						121
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MMVyI7Vm7B",
+					"expanded_url": "https://twitter.com/medicphysio1/status/1318855354604728320",
+					"display_url": "twitter.com/medicphysio1/s…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2412,
+			"friends_count": 3815,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6596,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1318855354604728300,
+		"quoted_status_id_str": "1318855354604728320",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MMVyI7Vm7B",
+			"expanded": "https://twitter.com/medicphysio1/status/1318855354604728320",
+			"display": "twitter.com/medicphysio1/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 21 10:03:14 +0000 2020",
+			"id": 1318855354604728300,
+			"id_str": "1318855354604728320",
+			"full_text": "📢Calling all UK-based Medical Students! (UG or GEM)\nMy dissertation is looking into medical students' knowledge of physiotherapy services. If you have a moment, please follow this link and complete the short survey! Thank you. \nhttps://t.co/k3LtIfUpCT",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				251
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/k3LtIfUpCT",
+						"expanded_url": "https://nottingham.onlinesurveys.ac.uk/uk-medical-students-knowledge-of-physiotherapy",
+						"display_url": "nottingham.onlinesurveys.ac.uk/uk-medical-stu…",
+						"indices": [
+							228,
+							251
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1273681575629041700,
+				"id_str": "1273681575629041665",
+				"name": "Medical Students’ Knowledge of Physio",
+				"screen_name": "MedicPhysio1",
+				"location": "",
+				"description": "My name is Beth Potter, I am a 3rd year physio student at UoN. If you're a medical student please fill out my survey for my dissertation below!",
+				"url": "https://t.co/e6AOdBArf3",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/e6AOdBArf3",
+								"expanded_url": "https://nottingham.onlinesurveys.ac.uk/uk-medical-students-knowledge-of-physiotherapy",
+								"display_url": "nottingham.onlinesurveys.ac.uk/uk-medical-stu…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2,
+				"friends_count": 1,
+				"listed_count": 0,
+				"created_at": "Thu Jun 18 18:18:53 +0000 2020",
+				"favourites_count": 4,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1273681810992566272/-A7D_pr2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1273681810992566272/-A7D_pr2_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 23,
+			"favorite_count": 16,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#HLA20 @HLA_int Community can you help ❓\n\n“medical students' knowledge of physiotherapy services.” ⬇️ \n@fimo18 @UoNPhysio https://t.co/MMVyI7Vm7B"
+	},
+	{
+		"created_at": "Wed Oct 21 05:58:07 +0000 2020",
+		"id": 1318134493883105300,
+		"id_str": "1318793670880038912",
+		"full_text": "We still need your help! If you are a member of the Armed Forces Community living in #Derbyshire, we would love to find out more about your experiences. See the poster below to find out more! @DerbyUni @ClaireC69011212 @Derbyshirecc #research https://t.co/fInQ8aCMX6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Derbyshire",
+					"indices": [
+						85,
+						96
+					]
+				},
+				{
+					"text": "research",
+					"indices": [
+						233,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DerbyUni",
+					"name": "University of Derby",
+					"id": 39975307,
+					"id_str": "39975307",
+					"indices": [
+						192,
+						201
+					]
+				},
+				{
+					"screen_name": "ClaireC69011212",
+					"name": "Claire-Carter",
+					"id": 1012050645954809900,
+					"id_str": "1012050645954809856",
+					"indices": [
+						202,
+						218
+					]
+				},
+				{
+					"screen_name": "Derbyshirecc",
+					"name": "Derbyshire CC",
+					"id": 22760568,
+					"id_str": "22760568",
+					"indices": [
+						219,
+						232
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fInQ8aCMX6",
+					"expanded_url": "https://twitter.com/Derby_HSCRC/status/1306952479922368515",
+					"display_url": "twitter.com/Derby_HSCRC/st…",
+					"indices": [
+						243,
+						266
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1139186039027851300,
+			"id_str": "1139186039027851264",
+			"name": "Health and Social Care Research Centre",
+			"screen_name": "Derby_HSCRC",
+			"location": "Derby, England",
+			"description": "The Health and Social Care Research Centre undertakes academic and applied multidisciplinary research aimed to build healthy, sustainable communities",
+			"url": "https://t.co/CS0frqNSM9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CS0frqNSM9",
+							"expanded_url": "https://www.derby.ac.uk/",
+							"display_url": "derby.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 253,
+			"friends_count": 264,
+			"listed_count": 1,
+			"created_at": "Thu Jun 13 15:01:31 +0000 2019",
+			"favourites_count": 251,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1139186397011750914/sr2QDU-c_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139186397011750914/sr2QDU-c_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1139186039027851264/1560439578",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1306952479922368500,
+		"quoted_status_id_str": "1306952479922368515",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fInQ8aCMX6",
+			"expanded": "https://twitter.com/Derby_HSCRC/status/1306952479922368515",
+			"display": "twitter.com/Derby_HSCRC/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 18 13:45:27 +0000 2020",
+			"id": 1306952479922368500,
+			"id_str": "1306952479922368515",
+			"full_text": "Derbyshire Armed Forces Community, we need you! Please help our researchers @DerbyUni to find out more about your experiences, via participating in a short focus group or interview. Find out more below! @Derbyshirecc @Ameliawoodwar17 #ArmedForces https://t.co/65jtZxzcJt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				246
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ArmedForces",
+						"indices": [
+							234,
+							246
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DerbyUni",
+						"name": "University of Derby",
+						"id": 39975307,
+						"id_str": "39975307",
+						"indices": [
+							76,
+							85
+						]
+					},
+					{
+						"screen_name": "Derbyshirecc",
+						"name": "Derbyshire CC",
+						"id": 22760568,
+						"id_str": "22760568",
+						"indices": [
+							203,
+							216
+						]
+					},
+					{
+						"screen_name": "Ameliawoodwar17",
+						"name": "Amelia woodward",
+						"id": 796623116990562300,
+						"id_str": "796623116990562305",
+						"indices": [
+							217,
+							233
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1306950761880998000,
+						"id_str": "1306950761880997895",
+						"indices": [
+							247,
+							270
+						],
+						"media_url": "http://pbs.twimg.com/media/EiM4yxzX0AcGdWL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EiM4yxzX0AcGdWL.jpg",
+						"url": "https://t.co/65jtZxzcJt",
+						"display_url": "pic.twitter.com/65jtZxzcJt",
+						"expanded_url": "https://twitter.com/Derby_HSCRC/status/1306952479922368515/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1306950761880998000,
+						"id_str": "1306950761880997895",
+						"indices": [
+							247,
+							270
+						],
+						"media_url": "http://pbs.twimg.com/media/EiM4yxzX0AcGdWL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EiM4yxzX0AcGdWL.jpg",
+						"url": "https://t.co/65jtZxzcJt",
+						"display_url": "pic.twitter.com/65jtZxzcJt",
+						"expanded_url": "https://twitter.com/Derby_HSCRC/status/1306952479922368515/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1139186039027851300,
+				"id_str": "1139186039027851264",
+				"name": "Health and Social Care Research Centre",
+				"screen_name": "Derby_HSCRC",
+				"location": "Derby, England",
+				"description": "The Health and Social Care Research Centre undertakes academic and applied multidisciplinary research aimed to build healthy, sustainable communities",
+				"url": "https://t.co/CS0frqNSM9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CS0frqNSM9",
+								"expanded_url": "https://www.derby.ac.uk/",
+								"display_url": "derby.ac.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 253,
+				"friends_count": 264,
+				"listed_count": 1,
+				"created_at": "Thu Jun 13 15:01:31 +0000 2019",
+				"favourites_count": 251,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 133,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1139186397011750914/sr2QDU-c_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139186397011750914/sr2QDU-c_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1139186039027851264/1560439578",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We still need your help! If you are a member of the Armed Forces Community living in #Derbyshire, we would love to find out more about your experiences. See the poster below to find out more! @DerbyUni @ClaireC69011212 @Derbyshirecc #research https://t.co/fInQ8aCMX6"
+	},
+	{
 		"created_at": "Tue Oct 20 20:04:03 +0000 2020",
 		"id": 1318644165895389200,
 		"id_str": "1318644165895389184",
