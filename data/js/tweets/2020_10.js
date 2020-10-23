@@ -1,6 +1,645 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 22 19:00:03 +0000 2020",
+		"id": 1319246471968018400,
+		"id_str": "1319352838523441153",
+		"full_text": "The 2020 Poppy Appeal launches today, and our very own LNN Nicole Brown has been given the honour of representing the @RNReserve in the campaign. \n\nThere may not be the same level of Remembrance activities this year, the #PoppyAppeal is still as important as ever. https://t.co/VkbF6W6beX https://t.co/wnd5H60jq1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			288
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PoppyAppeal",
+					"indices": [
+						221,
+						233
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RNReserve",
+					"name": "Royal Naval Reserve",
+					"id": 1415274422,
+					"id_str": "1415274422",
+					"indices": [
+						118,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VkbF6W6beX",
+					"expanded_url": "https://twitter.com/PoppyLegion/status/1319171749045587969",
+					"display_url": "twitter.com/PoppyLegion/st…",
+					"indices": [
+						265,
+						288
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1319246458340692000,
+					"id_str": "1319246458340691971",
+					"indices": [
+						289,
+						312
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek7nqgiW0AM6J_E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek7nqgiW0AM6J_E.jpg",
+					"url": "https://t.co/wnd5H60jq1",
+					"display_url": "pic.twitter.com/wnd5H60jq1",
+					"expanded_url": "https://twitter.com/HMSForward/status/1319246471968018434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1319246458340692000,
+					"id_str": "1319246458340691971",
+					"indices": [
+						289,
+						312
+					],
+					"media_url": "http://pbs.twimg.com/media/Ek7nqgiW0AM6J_E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ek7nqgiW0AM6J_E.jpg",
+					"url": "https://t.co/wnd5H60jq1",
+					"display_url": "pic.twitter.com/wnd5H60jq1",
+					"expanded_url": "https://twitter.com/HMSForward/status/1319246471968018434/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 960,
+							"h": 640,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1231927275454713900,
+			"id_str": "1231927275454713857",
+			"name": "HMSForward",
+			"screen_name": "HMSForward",
+			"location": "",
+			"description": "The official #Twitter account for HMS Forward, the Royal Navy Reserve Unit based in Birmingham.",
+			"url": "https://t.co/lQMx7XA2PJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lQMx7XA2PJ",
+							"expanded_url": "https://www.royalnavy.mod.uk/our-organisation/maritime-reserves/royal-naval-reserve/units/forward",
+							"display_url": "royalnavy.mod.uk/our-organisati…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 166,
+			"friends_count": 73,
+			"listed_count": 4,
+			"created_at": "Mon Feb 24 13:03:16 +0000 2020",
+			"favourites_count": 172,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 125,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1231927963249147906/2Z_tIrsE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1231927963249147906/2Z_tIrsE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1231927275454713857/1595968115",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1319171749045588000,
+		"quoted_status_id_str": "1319171749045587969",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VkbF6W6beX",
+			"expanded": "https://twitter.com/PoppyLegion/status/1319171749045587969",
+			"display": "twitter.com/PoppyLegion/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 22 07:00:28 +0000 2020",
+			"id": 1319171749045588000,
+			"id_str": "1319171749045587969",
+			"full_text": "Today is the launch of the #PoppyAppeal and our work is more vital than ever. #Covid19 means this year's Appeal will look different but there are still lots of ways you can get involved from home. Find out more and support the Poppy Appeal today. ➡️ https://t.co/jHZ42R2lct https://t.co/e9q9nraFQk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "PoppyAppeal",
+						"indices": [
+							27,
+							39
+						]
+					},
+					{
+						"text": "Covid19",
+						"indices": [
+							78,
+							86
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/jHZ42R2lct",
+						"expanded_url": "http://rbl.org.uk/poppyappeal",
+						"display_url": "rbl.org.uk/poppyappeal",
+						"indices": [
+							250,
+							273
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1319171728086630400,
+						"id_str": "1319171728086630400",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/Ek6jsopXgAAFESS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ek6jsopXgAAFESS.jpg",
+						"url": "https://t.co/e9q9nraFQk",
+						"display_url": "pic.twitter.com/e9q9nraFQk",
+						"expanded_url": "https://twitter.com/PoppyLegion/status/1319171749045587969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 799,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 999,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1319171728086630400,
+						"id_str": "1319171728086630400",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/Ek6jsopXgAAFESS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ek6jsopXgAAFESS.jpg",
+						"url": "https://t.co/e9q9nraFQk",
+						"display_url": "pic.twitter.com/e9q9nraFQk",
+						"expanded_url": "https://twitter.com/PoppyLegion/status/1319171749045587969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 799,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 999,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1319171733774127000,
+						"id_str": "1319171733774127105",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/Ek6js91X0AEcYAN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ek6js91X0AEcYAN.jpg",
+						"url": "https://t.co/e9q9nraFQk",
+						"display_url": "pic.twitter.com/e9q9nraFQk",
+						"expanded_url": "https://twitter.com/PoppyLegion/status/1319171749045587969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1319171738895327200,
+						"id_str": "1319171738895327232",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/Ek6jtQ6XIAAbxM9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ek6jtQ6XIAAbxM9.jpg",
+						"url": "https://t.co/e9q9nraFQk",
+						"display_url": "pic.twitter.com/e9q9nraFQk",
+						"expanded_url": "https://twitter.com/PoppyLegion/status/1319171749045587969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 799,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 999,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1319171744813428700,
+						"id_str": "1319171744813428736",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/Ek6jtm9WMAAGEp_.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ek6jtm9WMAAGEp_.jpg",
+						"url": "https://t.co/e9q9nraFQk",
+						"display_url": "pic.twitter.com/e9q9nraFQk",
+						"expanded_url": "https://twitter.com/PoppyLegion/status/1319171749045587969/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1000,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 74117081,
+				"id_str": "74117081",
+				"name": "Royal British Legion",
+				"screen_name": "PoppyLegion",
+				"location": "UK",
+				"description": "We’re here to support the Armed Forces community. We also run the #PoppyAppeal. Tweets monitored Mon - Fri 9am–5pm. https://t.co/p7ZiqOf8ti",
+				"url": "https://t.co/3byTruvSdO",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/3byTruvSdO",
+								"expanded_url": "http://www.britishlegion.org.uk",
+								"display_url": "britishlegion.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/p7ZiqOf8ti",
+								"expanded_url": "http://www.britishlegion.org.uk/get-support/",
+								"display_url": "britishlegion.org.uk/get-support/",
+								"indices": [
+									116,
+									139
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 244676,
+				"friends_count": 1307,
+				"listed_count": 931,
+				"created_at": "Mon Sep 14 09:25:20 +0000 2009",
+				"favourites_count": 24528,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 34063,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1063424331374624768/kN3jzgS9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063424331374624768/kN3jzgS9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/74117081/1603352797",
+				"profile_link_color": "ED1C24",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "F9F7EE",
+				"profile_text_color": "182B78",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 904,
+			"favorite_count": 1740,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The 2020 Poppy Appeal launches today, and our very own LNN Nicole Brown has been given the honour of representing the @RNReserve in the campaign. \n\nThere may not be the same level of Remembrance activities this year, the #PoppyAppeal is still as important as ever. https://t.co/VkbF6W6beX https://t.co/wnd5H60jq1"
+	},
+	{
+		"created_at": "Thu Oct 22 16:15:16 +0000 2020",
+		"id": 1319311370047938600,
+		"id_str": "1319311370047938561",
+		"full_text": "@AHPLeader @physiorachajb @RBandH Looking forward to this podcast! 🙌🤩",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AHPLeader",
+					"name": "rachael moses",
+					"id": 107548705,
+					"id_str": "107548705",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "physiorachajb",
+					"name": "Rachael Bailey",
+					"id": 904470732373143600,
+					"id_str": "904470732373143553",
+					"indices": [
+						11,
+						25
+					]
+				},
+				{
+					"screen_name": "RBandH",
+					"name": "R Brompton Harefield",
+					"id": 140440155,
+					"id_str": "140440155",
+					"indices": [
+						26,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1319288721821233200,
+		"in_reply_to_status_id_str": "1319288721821233155",
+		"in_reply_to_user_id": 107548705,
+		"in_reply_to_user_id_str": "107548705",
+		"in_reply_to_screen_name": "AHPLeader",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2412,
+			"friends_count": 3815,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19685,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6599,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AHPLeader @physiorachajb @RBandH Looking forward to this podcast! 🙌🤩"
+	},
+	{
 		"created_at": "Wed Oct 21 17:34:09 +0000 2020",
 		"id": 1318968832690618400,
 		"id_str": "1318968832690618378",
@@ -352,7 +991,7 @@ Grailbird.data.tweets_2020_10 =
 				},
 				{
 					"screen_name": "Retlouping",
-					"name": "🚴🏻‍♂️ ɹǝʇlnoԀ pıʌɐᗡ 🚴🏻‍♂️ 𝔹𝕖 𝕜𝕚𝕟𝕕 🇫🇷",
+					"name": "🚴🏻♂️ ɹǝʇlnoԀ pıʌɐᗡ 🚴🏻♂️ 𝔹𝕖 𝕜𝕚𝕟𝕕 🇫🇷",
 					"id": 3246132338,
 					"id_str": "3246132338",
 					"indices": [
