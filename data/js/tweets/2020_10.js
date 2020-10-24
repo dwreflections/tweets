@@ -1,6 +1,980 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 23 20:59:33 +0000 2020",
+		"id": 1319745299783573500,
+		"id_str": "1319745299783573520",
+		"full_text": "@AHPLeader @PMFirstSteps @generationAHP @logan_angie @GatesPhysio @sudhir_daya @chloedooley99 @Ruuqie @CarylAPhysio Great to see @GatesPhysio on this 👏🌟",
+		"truncated": false,
+		"display_text_range": [
+			116,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AHPLeader",
+					"name": "rachael moses",
+					"id": 107548705,
+					"id_str": "107548705",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "PMFirstSteps",
+					"name": "Physio Matters First Steps",
+					"id": 840861722286137300,
+					"id_str": "840861722286137349",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "generationAHP",
+					"name": "generationAHP",
+					"id": 1159177540189196300,
+					"id_str": "1159177540189196289",
+					"indices": [
+						25,
+						39
+					]
+				},
+				{
+					"screen_name": "logan_angie",
+					"name": "Dr Angie Logan",
+					"id": 2362684192,
+					"id_str": "2362684192",
+					"indices": [
+						40,
+						52
+					]
+				},
+				{
+					"screen_name": "GatesPhysio",
+					"name": "John Gates 😷",
+					"id": 451401278,
+					"id_str": "451401278",
+					"indices": [
+						53,
+						65
+					]
+				},
+				{
+					"screen_name": "sudhir_daya",
+					"name": "Sudhir Daya",
+					"id": 1311048488382275600,
+					"id_str": "1311048488382275586",
+					"indices": [
+						66,
+						78
+					]
+				},
+				{
+					"screen_name": "chloedooley99",
+					"name": "Chloe Dooley",
+					"id": 1091970360633897000,
+					"id_str": "1091970360633896960",
+					"indices": [
+						79,
+						93
+					]
+				},
+				{
+					"screen_name": "Ruuqie",
+					"name": "Farouk Bello",
+					"id": 603167025,
+					"id_str": "603167025",
+					"indices": [
+						94,
+						101
+					]
+				},
+				{
+					"screen_name": "CarylAPhysio",
+					"name": "Caryl Hunter",
+					"id": 825667985876582400,
+					"id_str": "825667985876582400",
+					"indices": [
+						102,
+						115
+					]
+				},
+				{
+					"screen_name": "GatesPhysio",
+					"name": "John Gates 😷",
+					"id": 451401278,
+					"id_str": "451401278",
+					"indices": [
+						129,
+						141
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1319733992384495600,
+		"in_reply_to_status_id_str": "1319733992384495617",
+		"in_reply_to_user_id": 107548705,
+		"in_reply_to_user_id_str": "107548705",
+		"in_reply_to_screen_name": "AHPLeader",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2418,
+			"friends_count": 3817,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AHPLeader @PMFirstSteps @generationAHP @logan_angie @GatesPhysio @sudhir_daya @chloedooley99 @Ruuqie @CarylAPhysio Great to see @GatesPhysio on this 👏🌟"
+	},
+	{
+		"created_at": "Fri Oct 23 18:20:32 +0000 2020",
+		"id": 1319705280117153800,
+		"id_str": "1319705280117153794",
+		"full_text": "@TPMPodcast @rebeccanorman82 @MSKReform @MRWPhysio @SallyThinks @jenna_bardsley @CombatSportPhys @consultantPT @JackAChew @felicitythow @paulawoods5 @ashjamesphysio Sorted! Use Chrome Folks ...",
+		"truncated": false,
+		"display_text_range": [
+			165,
+			193
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TPMPodcast",
+					"name": "Physio Matters",
+					"id": 1914280350,
+					"id_str": "1914280350",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "rebeccanorman82",
+					"name": "Rebecca Norman",
+					"id": 1120532936,
+					"id_str": "1120532936",
+					"indices": [
+						12,
+						28
+					]
+				},
+				{
+					"screen_name": "MSKReform",
+					"name": "MSKReform",
+					"id": 1173641102701793300,
+					"id_str": "1173641102701793280",
+					"indices": [
+						29,
+						39
+					]
+				},
+				{
+					"screen_name": "MRWPhysio",
+					"name": "Matthew Wyatt",
+					"id": 863516326723301400,
+					"id_str": "863516326723301377",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"screen_name": "SallyThinks",
+					"name": "Sally York",
+					"id": 301072440,
+					"id_str": "301072440",
+					"indices": [
+						51,
+						63
+					]
+				},
+				{
+					"screen_name": "jenna_bardsley",
+					"name": "Jenna Bardsley 🐝",
+					"id": 3333384215,
+					"id_str": "3333384215",
+					"indices": [
+						64,
+						79
+					]
+				},
+				{
+					"screen_name": "CombatSportPhys",
+					"name": "Rob Tyer",
+					"id": 1427250300,
+					"id_str": "1427250300",
+					"indices": [
+						80,
+						96
+					]
+				},
+				{
+					"screen_name": "consultantPT",
+					"name": "Uzo Ehiogu",
+					"id": 1039521456,
+					"id_str": "1039521456",
+					"indices": [
+						97,
+						110
+					]
+				},
+				{
+					"screen_name": "JackAChew",
+					"name": "Jack Chew",
+					"id": 868558446,
+					"id_str": "868558446",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"screen_name": "felicitythow",
+					"name": "Felicity Thow",
+					"id": 897464797,
+					"id_str": "897464797",
+					"indices": [
+						122,
+						135
+					]
+				},
+				{
+					"screen_name": "paulawoods5",
+					"name": "Paula Deacon",
+					"id": 485209939,
+					"id_str": "485209939",
+					"indices": [
+						136,
+						148
+					]
+				},
+				{
+					"screen_name": "ashjamesphysio",
+					"name": "Ash James 💭",
+					"id": 597553260,
+					"id_str": "597553260",
+					"indices": [
+						149,
+						164
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1319701197771726800,
+		"in_reply_to_status_id_str": "1319701197771726855",
+		"in_reply_to_user_id": 1914280350,
+		"in_reply_to_user_id_str": "1914280350",
+		"in_reply_to_screen_name": "TPMPodcast",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2418,
+			"friends_count": 3817,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TPMPodcast @rebeccanorman82 @MSKReform @MRWPhysio @SallyThinks @jenna_bardsley @CombatSportPhys @consultantPT @JackAChew @felicitythow @paulawoods5 @ashjamesphysio Sorted! Use Chrome Folks ..."
+	},
+	{
+		"created_at": "Fri Oct 23 17:59:08 +0000 2020",
+		"id": 1319699894756626400,
+		"id_str": "1319699894756626439",
+		"full_text": "@rebeccanorman82 @MSKReform @TPMPodcast @MRWPhysio @SallyThinks @jenna_bardsley @CombatSportPhys @consultantPT @JackAChew @felicitythow @paulawoods5 @ashjamesphysio Does the link not work on iPhones? 😫 https://t.co/G4xL0LAtAB",
+		"truncated": false,
+		"display_text_range": [
+			165,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rebeccanorman82",
+					"name": "Rebecca Norman",
+					"id": 1120532936,
+					"id_str": "1120532936",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "MSKReform",
+					"name": "MSKReform",
+					"id": 1173641102701793300,
+					"id_str": "1173641102701793280",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"screen_name": "TPMPodcast",
+					"name": "Physio Matters",
+					"id": 1914280350,
+					"id_str": "1914280350",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "MRWPhysio",
+					"name": "Matthew Wyatt",
+					"id": 863516326723301400,
+					"id_str": "863516326723301377",
+					"indices": [
+						40,
+						50
+					]
+				},
+				{
+					"screen_name": "SallyThinks",
+					"name": "Sally York",
+					"id": 301072440,
+					"id_str": "301072440",
+					"indices": [
+						51,
+						63
+					]
+				},
+				{
+					"screen_name": "jenna_bardsley",
+					"name": "Jenna Bardsley 🐝",
+					"id": 3333384215,
+					"id_str": "3333384215",
+					"indices": [
+						64,
+						79
+					]
+				},
+				{
+					"screen_name": "CombatSportPhys",
+					"name": "Rob Tyer",
+					"id": 1427250300,
+					"id_str": "1427250300",
+					"indices": [
+						80,
+						96
+					]
+				},
+				{
+					"screen_name": "consultantPT",
+					"name": "Uzo Ehiogu",
+					"id": 1039521456,
+					"id_str": "1039521456",
+					"indices": [
+						97,
+						110
+					]
+				},
+				{
+					"screen_name": "JackAChew",
+					"name": "Jack Chew",
+					"id": 868558446,
+					"id_str": "868558446",
+					"indices": [
+						111,
+						121
+					]
+				},
+				{
+					"screen_name": "felicitythow",
+					"name": "Felicity Thow",
+					"id": 897464797,
+					"id_str": "897464797",
+					"indices": [
+						122,
+						135
+					]
+				},
+				{
+					"screen_name": "paulawoods5",
+					"name": "Paula Deacon",
+					"id": 485209939,
+					"id_str": "485209939",
+					"indices": [
+						136,
+						148
+					]
+				},
+				{
+					"screen_name": "ashjamesphysio",
+					"name": "Ash James 💭",
+					"id": 597553260,
+					"id_str": "597553260",
+					"indices": [
+						149,
+						164
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1319699889283096600,
+					"id_str": "1319699889283096584",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/ElCEDqbXYAgquo_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElCEDqbXYAgquo_.jpg",
+					"url": "https://t.co/G4xL0LAtAB",
+					"display_url": "pic.twitter.com/G4xL0LAtAB",
+					"expanded_url": "https://twitter.com/beardedPT/status/1319699894756626439/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1319699889283096600,
+					"id_str": "1319699889283096584",
+					"indices": [
+						202,
+						225
+					],
+					"media_url": "http://pbs.twimg.com/media/ElCEDqbXYAgquo_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElCEDqbXYAgquo_.jpg",
+					"url": "https://t.co/G4xL0LAtAB",
+					"display_url": "pic.twitter.com/G4xL0LAtAB",
+					"expanded_url": "https://twitter.com/beardedPT/status/1319699894756626439/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1319549245846917000,
+		"in_reply_to_status_id_str": "1319549245846917122",
+		"in_reply_to_user_id": 1120532936,
+		"in_reply_to_user_id_str": "1120532936",
+		"in_reply_to_screen_name": "rebeccanorman82",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2418,
+			"friends_count": 3817,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@rebeccanorman82 @MSKReform @TPMPodcast @MRWPhysio @SallyThinks @jenna_bardsley @CombatSportPhys @consultantPT @JackAChew @felicitythow @paulawoods5 @ashjamesphysio Does the link not work on iPhones? 😫 https://t.co/G4xL0LAtAB"
+	},
+	{
+		"created_at": "Fri Oct 23 14:46:28 +0000 2020",
+		"id": 1319651408149467100,
+		"id_str": "1319651408149467138",
+		"full_text": "Come on physio twitter - you know what to do ⬇️💪 @PMFirstSteps #physiotalk https://t.co/cyVGNg6LO1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "physiotalk",
+					"indices": [
+						63,
+						74
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PMFirstSteps",
+					"name": "Physio Matters First Steps",
+					"id": 840861722286137300,
+					"id_str": "840861722286137349",
+					"indices": [
+						49,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cyVGNg6LO1",
+					"expanded_url": "https://twitter.com/uoc_physio/status/1319618477477535745",
+					"display_url": "twitter.com/uoc_physio/sta…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2418,
+			"friends_count": 3817,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1319618477477535700,
+		"quoted_status_id_str": "1319618477477535745",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cyVGNg6LO1",
+			"expanded": "https://twitter.com/uoc_physio/status/1319618477477535745",
+			"display": "twitter.com/uoc_physio/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Oct 23 12:35:37 +0000 2020",
+			"id": 1319618477477535700,
+			"id_str": "1319618477477535745",
+			"full_text": "Our brand new physio society is looking for speakers.  If you're interested in speaking to our students on a particular topic let us know ☺️. All disciplines wanted. This is your chance to influence the next generation of Physiotherapists. Come be an inspiration to them 💪💪.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				274
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 918406475567059000,
+				"id_str": "918406475567058944",
+				"name": "UoC Physiotherapy",
+				"screen_name": "UoC_Physio",
+				"location": "Carlisle, England",
+				"description": "Twitter page for the BSc (Hons) and MSc (Pre registration) Physiotherapy programmes at the University of Cumbria, UK.",
+				"url": "https://t.co/VmHgKqmdiB",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VmHgKqmdiB",
+								"expanded_url": "https://www.cumbria.ac.uk/study/courses/undergraduate/physiotherapy/",
+								"display_url": "cumbria.ac.uk/study/courses/…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 202,
+				"friends_count": 381,
+				"listed_count": 2,
+				"created_at": "Thu Oct 12 09:22:21 +0000 2017",
+				"favourites_count": 98,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 174,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1139526176802770945/OMARjlzg_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1139526176802770945/OMARjlzg_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/918406475567058944/1507805800",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come on physio twitter - you know what to do ⬇️💪 @PMFirstSteps #physiotalk https://t.co/cyVGNg6LO1"
+	},
+	{
+		"created_at": "Fri Oct 23 14:44:33 +0000 2020",
+		"id": 1319650927310180400,
+		"id_str": "1319650927310180360",
+		"full_text": "@150Leaders Christmas jumper at the ready 🥳",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "150Leaders",
+					"name": "#150Leaders",
+					"id": 1139187039151280100,
+					"id_str": "1139187039151280128",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1319649025650544600,
+		"in_reply_to_status_id_str": "1319649025650544641",
+		"in_reply_to_user_id": 1139187039151280100,
+		"in_reply_to_user_id_str": "1139187039151280128",
+		"in_reply_to_screen_name": "150Leaders",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2418,
+			"friends_count": 3817,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6605,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@150Leaders Christmas jumper at the ready 🥳"
+	},
+	{
 		"created_at": "Thu Oct 22 19:00:03 +0000 2020",
 		"id": 1319246471968018400,
 		"id_str": "1319352838523441153",
