@@ -1,6 +1,747 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sun Oct 25 17:23:49 +0000 2020",
+		"id": 1320415781310648300,
+		"id_str": "1320415781310648322",
+		"full_text": "@NeilOConnell He handled that interview brilliantly.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NeilOConnell",
+					"name": "Neil O'Connell",
+					"id": 149072907,
+					"id_str": "149072907",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1320299989977821200,
+		"in_reply_to_status_id_str": "1320299989977821184",
+		"in_reply_to_user_id": 149072907,
+		"in_reply_to_user_id_str": "149072907",
+		"in_reply_to_screen_name": "NeilOConnell",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2429,
+			"friends_count": 3867,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19730,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NeilOConnell He handled that interview brilliantly."
+	},
+	{
+		"created_at": "Sun Oct 25 17:02:02 +0000 2020",
+		"id": 1320410302161293300,
+		"id_str": "1320410302161293312",
+		"full_text": "@consultantPT @UKSCA @thecsp @basesuk @HorizonsNHS @andypbennett79 @nichola_nm",
+		"truncated": false,
+		"display_text_range": [
+			67,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "consultantPT",
+					"name": "Uzo Ehiogu",
+					"id": 1039521456,
+					"id_str": "1039521456",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "UKSCA",
+					"name": "UKSCA",
+					"id": 2693136834,
+					"id_str": "2693136834",
+					"indices": [
+						14,
+						20
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						21,
+						28
+					]
+				},
+				{
+					"screen_name": "basesuk",
+					"name": "BASES",
+					"id": 70330876,
+					"id_str": "70330876",
+					"indices": [
+						29,
+						37
+					]
+				},
+				{
+					"screen_name": "HorizonsNHS",
+					"name": "NHS Horizons",
+					"id": 2788044432,
+					"id_str": "2788044432",
+					"indices": [
+						38,
+						50
+					]
+				},
+				{
+					"screen_name": "andypbennett79",
+					"name": "Andrew Bennett",
+					"id": 922882248,
+					"id_str": "922882248",
+					"indices": [
+						51,
+						66
+					]
+				},
+				{
+					"screen_name": "nichola_nm",
+					"name": "Nichola Smith",
+					"id": 1239784508,
+					"id_str": "1239784508",
+					"indices": [
+						67,
+						78
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1320304395347726300,
+		"in_reply_to_status_id_str": "1320304395347726336",
+		"in_reply_to_user_id": 1039521456,
+		"in_reply_to_user_id_str": "1039521456",
+		"in_reply_to_screen_name": "consultantPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2429,
+			"friends_count": 3867,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19730,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@consultantPT @UKSCA @thecsp @basesuk @HorizonsNHS @andypbennett79 @nichola_nm"
+	},
+	{
+		"created_at": "Sun Oct 25 16:22:05 +0000 2020",
+		"id": 1320388421236424700,
+		"id_str": "1320400247290580992",
+		"full_text": "\"The most unlikely of comeback stories has come true!\" 💖\n\n@taogeoghegan is the 2020 Giro d'Italia champion! 🇮🇹 https://t.co/FMJhDOueSO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "taogeoghegan",
+					"name": "Tao Geoghegan Hart",
+					"id": 37650988,
+					"id_str": "37650988",
+					"indices": [
+						58,
+						71
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1320388327711834000,
+					"id_str": "1320388327711834112",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/ElL2NTwWAAQQ3cV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElL2NTwWAAQQ3cV.jpg",
+					"url": "https://t.co/FMJhDOueSO",
+					"display_url": "pic.twitter.com/FMJhDOueSO",
+					"expanded_url": "https://twitter.com/Eurosport_UK/status/1320388421236424705/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1320388327711834000,
+					"id_str": "1320388327711834112",
+					"indices": [
+						111,
+						134
+					],
+					"media_url": "http://pbs.twimg.com/media/ElL2NTwWAAQQ3cV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElL2NTwWAAQQ3cV.jpg",
+					"url": "https://t.co/FMJhDOueSO",
+					"display_url": "pic.twitter.com/FMJhDOueSO",
+					"expanded_url": "https://twitter.com/Eurosport_UK/status/1320388421236424705/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 70600,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1320388327711834112/vid/1280x720/UTO9VwFZLj7wiSxZ.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1320388327711834112/vid/480x270/o06QTf4tXPpLybdE.mp4?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1320388327711834112/vid/640x360/bfgnUOXJws-jT7bS.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1320388327711834112/pl/YFMwmwMIt5CVutdu.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Tao Geoghegan Hart wins the Giro d'Italia",
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://grabyo.com\" rel=\"nofollow\">Grabyo</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25268540,
+			"id_str": "25268540",
+			"name": "Eurosport UK",
+			"screen_name": "Eurosport_UK",
+			"location": "London, England",
+			"description": "Eurosport Player https://t.co/JqgsCcCQu7; Follow us on Facebook https://t.co/ROD7s7Xuvh; Instagram https://t.co/ntdmeUN4wq",
+			"url": "https://t.co/Zq6CLJ3J3n",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Zq6CLJ3J3n",
+							"expanded_url": "http://eurosport.co.uk",
+							"display_url": "eurosport.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/JqgsCcCQu7",
+							"expanded_url": "http://eurosportplayer.com",
+							"display_url": "eurosportplayer.com",
+							"indices": [
+								17,
+								40
+							]
+						},
+						{
+							"url": "https://t.co/ROD7s7Xuvh",
+							"expanded_url": "http://fb.me/Eurosport",
+							"display_url": "fb.me/Eurosport",
+							"indices": [
+								64,
+								87
+							]
+						},
+						{
+							"url": "https://t.co/ntdmeUN4wq",
+							"expanded_url": "http://instagram.com/f/eurosport",
+							"display_url": "instagram.com/f/eurosport",
+							"indices": [
+								99,
+								122
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 172438,
+			"friends_count": 525,
+			"listed_count": 2063,
+			"created_at": "Thu Mar 19 10:47:34 +0000 2009",
+			"favourites_count": 1414,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 147569,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "ABB8C2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1298185735938465794/oPBl1Kcd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1298185735938465794/oPBl1Kcd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25268540/1603183926",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E0E5E9",
+			"profile_text_color": "414141",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 220,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"The most unlikely of comeback stories has come true!\" 💖\n\n@taogeoghegan is the 2020 Giro d'Italia champion! 🇮🇹 https://t.co/FMJhDOueSO"
+	},
+	{
+		"created_at": "Sun Oct 25 10:53:46 +0000 2020",
+		"id": 1320304395347726300,
+		"id_str": "1320317622274109440",
+		"full_text": "The burden of COVID-19 restrictions🚨is an opportunity for joint rehabilitation and physical conditioning of the population working collaboratively with ⁦@UKSCA⁩, ⁦@thecsp⁩⁩, ⁦@basesuk⁩ and ⁦@HorizonsNHS⁩ ⁦@andypbennett79⁩ https://t.co/ow250UWyBO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UKSCA",
+					"name": "UKSCA",
+					"id": 2693136834,
+					"id_str": "2693136834",
+					"indices": [
+						153,
+						159
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						163,
+						170
+					]
+				},
+				{
+					"screen_name": "basesuk",
+					"name": "BASES",
+					"id": 70330876,
+					"id_str": "70330876",
+					"indices": [
+						175,
+						183
+					]
+				},
+				{
+					"screen_name": "HorizonsNHS",
+					"name": "NHS Horizons",
+					"id": 2788044432,
+					"id_str": "2788044432",
+					"indices": [
+						190,
+						202
+					]
+				},
+				{
+					"screen_name": "andypbennett79",
+					"name": "Andrew Bennett",
+					"id": 922882248,
+					"id_str": "922882248",
+					"indices": [
+						205,
+						220
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ow250UWyBO",
+					"expanded_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7528158/",
+					"display_url": "ncbi.nlm.nih.gov/pmc/articles/P…",
+					"indices": [
+						222,
+						245
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1039521456,
+			"id_str": "1039521456",
+			"name": "Uzo Ehiogu",
+			"screen_name": "consultantPT",
+			"location": "Birmingham, England",
+			"description": "Consultant Rehabilitation & Physical Preparation Advisor|NHS Clinical Teaching Fellow ROH| Continuing Education| Climbing| MMACP |Para/Commando #Leadership",
+			"url": "https://t.co/5WLWyMXYjh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5WLWyMXYjh",
+							"expanded_url": "http://www.insideedgephysio.com",
+							"display_url": "insideedgephysio.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3794,
+			"friends_count": 745,
+			"listed_count": 25,
+			"created_at": "Thu Dec 27 12:34:40 +0000 2012",
+			"favourites_count": 5617,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 5907,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315321002545483777/vlovLoqz_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315321002545483777/vlovLoqz_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1039521456/1580112981",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 39,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The burden of COVID-19 restrictions🚨is an opportunity for joint rehabilitation and physical conditioning of the population working collaboratively with ⁦@UKSCA⁩, ⁦@thecsp⁩⁩, ⁦@basesuk⁩ and ⁦@HorizonsNHS⁩ ⁦@andypbennett79⁩ https://t.co/ow250UWyBO"
+	},
+	{
+		"created_at": "Sun Oct 25 10:53:40 +0000 2020",
+		"id": 1320317599218098200,
+		"id_str": "1320317599218098183",
+		"full_text": "@consultantPT Thank you! 👍",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "consultantPT",
+					"name": "Uzo Ehiogu",
+					"id": 1039521456,
+					"id_str": "1039521456",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1320315647398641700,
+		"in_reply_to_status_id_str": "1320315647398641664",
+		"in_reply_to_user_id": 1039521456,
+		"in_reply_to_user_id_str": "1039521456",
+		"in_reply_to_screen_name": "consultantPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2429,
+			"friends_count": 3867,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19730,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@consultantPT Thank you! 👍"
+	},
+	{
 		"created_at": "Sat Oct 24 10:08:58 +0000 2020",
 		"id": 1319943963793629200,
 		"id_str": "1319943963793629184",
