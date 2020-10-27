@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Mon Oct 26 17:57:12 +0000 2020",
+		"id": 1320786572707565600,
+		"id_str": "1320786572707565568",
+		"full_text": "@mikechitty Cutting out most of what I said 🤣👍",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mikechitty",
+					"name": "Mike Chitty",
+					"id": 21009225,
+					"id_str": "21009225",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1320774754257801200,
+		"in_reply_to_status_id_str": "1320774754257801217",
+		"in_reply_to_user_id": 21009225,
+		"in_reply_to_user_id_str": "21009225",
+		"in_reply_to_screen_name": "mikechitty",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2431,
+			"friends_count": 3869,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mikechitty Cutting out most of what I said 🤣👍"
+	},
+	{
+		"created_at": "Mon Oct 26 08:05:06 +0000 2020",
+		"id": 1320637566400536600,
+		"id_str": "1320637566400536576",
+		"full_text": "&amp; the power of physiotherapy, exercise &amp; rehabilitation! \n\nThank you @MichaelRosenYes #R4Today https://t.co/DxPTT1Ag0s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "R4Today",
+					"indices": [
+						94,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MichaelRosenYes",
+					"name": "Michael Rosen",
+					"id": 91870534,
+					"id_str": "91870534",
+					"indices": [
+						77,
+						93
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/DxPTT1Ag0s",
+					"expanded_url": "https://twitter.com/melaniekmelvin/status/1320633332158369795",
+					"display_url": "twitter.com/melaniekmelvin…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2431,
+			"friends_count": 3869,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19741,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1320633332158369800,
+		"quoted_status_id_str": "1320633332158369795",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DxPTT1Ag0s",
+			"expanded": "https://twitter.com/melaniekmelvin/status/1320633332158369795",
+			"display": "twitter.com/melaniekmelvin…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Oct 26 07:48:17 +0000 2020",
+			"id": 1320633332158369800,
+			"id_str": "1320633332158369795",
+			"full_text": "#r4today totally lit up by @MichaelRosenYes with his achingly funny and tender take on Hope.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				92
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "r4today",
+						"indices": [
+							0,
+							8
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MichaelRosenYes",
+						"name": "Michael Rosen",
+						"id": 91870534,
+						"id_str": "91870534",
+						"indices": [
+							27,
+							43
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1434950630,
+				"id_str": "1434950630",
+				"name": "Mel",
+				"screen_name": "melaniekmelvin",
+				"location": "Brighton and Spain",
+				"description": "“The potential of the human spirit is absolutely unlimited. All you need know is how to tap into that well.” Asanista, wordherd, rabble rouser, empowerer.",
+				"url": "https://t.co/gNriXM0fgb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/gNriXM0fgb",
+								"expanded_url": "https://unbound.com/books/little-dancer/",
+								"display_url": "unbound.com/books/little-d…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13715,
+				"friends_count": 6871,
+				"listed_count": 148,
+				"created_at": "Fri May 17 07:17:03 +0000 2013",
+				"favourites_count": 167851,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 289614,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1247853613520769024/2mJyOpYI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247853613520769024/2mJyOpYI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1434950630/1601472530",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "&amp; the power of physiotherapy, exercise &amp; rehabilitation! \n\nThank you @MichaelRosenYes #R4Today https://t.co/DxPTT1Ag0s"
+	},
+	{
 		"created_at": "Sun Oct 25 17:23:49 +0000 2020",
 		"id": 1320415781310648300,
 		"id_str": "1320415781310648322",
@@ -495,7 +820,7 @@ Grailbird.data.tweets_2020_10 =
 		"created_at": "Sun Oct 25 10:53:46 +0000 2020",
 		"id": 1320304395347726300,
 		"id_str": "1320317622274109440",
-		"full_text": "The burden of COVID-19 restrictions🚨is an opportunity for joint rehabilitation and physical conditioning of the population working collaboratively with ⁦@UKSCA⁩, ⁦@thecsp⁩⁩, ⁦@basesuk⁩ and ⁦@HorizonsNHS⁩ ⁦@andypbennett79⁩ https://t.co/ow250UWyBO",
+		"full_text": "The burden of COVID-19 restrictions🚨is an opportunity for joint rehabilitation and physical conditioning of the population working collaboratively with @UKSCA, @thecsp, @basesuk and @HorizonsNHS @andypbennett79 https://t.co/ow250UWyBO",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -646,7 +971,7 @@ Grailbird.data.tweets_2020_10 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "The burden of COVID-19 restrictions🚨is an opportunity for joint rehabilitation and physical conditioning of the population working collaboratively with ⁦@UKSCA⁩, ⁦@thecsp⁩⁩, ⁦@basesuk⁩ and ⁦@HorizonsNHS⁩ ⁦@andypbennett79⁩ https://t.co/ow250UWyBO"
+		"text": "The burden of COVID-19 restrictions🚨is an opportunity for joint rehabilitation and physical conditioning of the population working collaboratively with @UKSCA, @thecsp, @basesuk and @HorizonsNHS @andypbennett79 https://t.co/ow250UWyBO"
 	},
 	{
 		"created_at": "Sun Oct 25 10:53:40 +0000 2020",
