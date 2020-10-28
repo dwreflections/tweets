@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Tue Oct 27 13:56:32 +0000 2020",
+		"id": 1321060239639257000,
+		"id_str": "1321088392717864966",
+		"full_text": "Really enjoying listening to @beardedPT as I edit the next episode of Be A Better Leader. From the armed forces to NHS physiotherapy - what is there to learn about leadership and life.  Unsettling assumptions is a big theme!\nhttps://t.co/EMkayUJQIu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			248
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						29,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EMkayUJQIu",
+					"expanded_url": "https://be-a-better-leader.captivate.fm/listen",
+					"display_url": "be-a-better-leader.captivate.fm/listen",
+					"indices": [
+						225,
+						248
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21009225,
+			"id_str": "21009225",
+			"name": "Mike Chitty",
+			"screen_name": "mikechitty",
+			"location": "ÜT: 53.793861,-1.568109",
+			"description": "Leadership, innovation, enterprise, management, entrepreneurship, community development. Bookish Theoretician!",
+			"url": "https://t.co/eTB1lOPRSP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTB1lOPRSP",
+							"expanded_url": "http://beabettermanager.co.uk",
+							"display_url": "beabettermanager.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10945,
+			"friends_count": 9079,
+			"listed_count": 355,
+			"created_at": "Mon Feb 16 18:12:36 +0000 2009",
+			"favourites_count": 26296,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 140305,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6B346",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007353364777259010/4V5vinzk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007353364777259010/4V5vinzk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21009225/1353792783",
+			"profile_link_color": "2953C2",
+			"profile_sidebar_border_color": "161519",
+			"profile_sidebar_fill_color": "CBEAAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Really enjoying listening to @beardedPT as I edit the next episode of Be A Better Leader. From the armed forces to NHS physiotherapy - what is there to learn about leadership and life.  Unsettling assumptions is a big theme!\nhttps://t.co/EMkayUJQIu"
+	},
+	{
 		"created_at": "Mon Oct 26 17:57:12 +0000 2020",
 		"id": 1320786572707565600,
 		"id_str": "1320786572707565568",
