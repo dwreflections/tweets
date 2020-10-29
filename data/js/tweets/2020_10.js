@@ -1,6 +1,926 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Wed Oct 28 18:50:41 +0000 2020",
+		"id": 1321524806739726300,
+		"id_str": "1321524806739726339",
+		"full_text": "@Shaun_LDNurse @WeLDnurses Intercalated degrees are very common in medical training. Unheard of in #Nursing &amp; #AHp pre-registration training.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			145
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Nursing",
+					"indices": [
+						99,
+						107
+					]
+				},
+				{
+					"text": "AHp",
+					"indices": [
+						114,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Shaun_LDNurse",
+					"name": "Shaun Williams",
+					"id": 901055791515435000,
+					"id_str": "901055791515435008",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "WeLDnurses",
+					"name": "WeLDNurses 💙",
+					"id": 807627110,
+					"id_str": "807627110",
+					"indices": [
+						15,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1321505594768085000,
+		"in_reply_to_status_id_str": "1321505594768084994",
+		"in_reply_to_user_id": 901055791515435000,
+		"in_reply_to_user_id_str": "901055791515435008",
+		"in_reply_to_screen_name": "Shaun_LDNurse",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2436,
+			"friends_count": 3870,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19756,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Shaun_LDNurse @WeLDnurses Intercalated degrees are very common in medical training. Unheard of in #Nursing &amp; #AHp pre-registration training."
+	},
+	{
+		"created_at": "Wed Oct 28 18:05:07 +0000 2020",
+		"id": 1321513339223187500,
+		"id_str": "1321513339223187456",
+		"full_text": "@tolanAHP The good old days!\nLooking forward when this is all over and we can all meet! I think a trip to Leeds will be on the cards to to catch up with @mikechitty 😊👍 https://t.co/SGnhLeOwbn",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tolanAHP",
+					"name": "Steve Tolan",
+					"id": 1550254940,
+					"id_str": "1550254940",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "mikechitty",
+					"name": "Mike Chitty",
+					"id": 21009225,
+					"id_str": "21009225",
+					"indices": [
+						153,
+						164
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1321513331576983600,
+					"id_str": "1321513331576983552",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Elb1X5aW0AAEBEk.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Elb1X5aW0AAEBEk.jpg",
+					"url": "https://t.co/SGnhLeOwbn",
+					"display_url": "pic.twitter.com/SGnhLeOwbn",
+					"expanded_url": "https://twitter.com/beardedPT/status/1321513339223187456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 244,
+							"h": 184,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 244,
+							"h": 184,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 184,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321513331576983600,
+					"id_str": "1321513331576983552",
+					"indices": [
+						168,
+						191
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Elb1X5aW0AAEBEk.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Elb1X5aW0AAEBEk.jpg",
+					"url": "https://t.co/SGnhLeOwbn",
+					"display_url": "pic.twitter.com/SGnhLeOwbn",
+					"expanded_url": "https://twitter.com/beardedPT/status/1321513339223187456/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 244,
+							"h": 184,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 244,
+							"h": 184,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 244,
+							"h": 184,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							61,
+							46
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Elb1X5aW0AAEBEk.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1321498184909234200,
+		"in_reply_to_status_id_str": "1321498184909234178",
+		"in_reply_to_user_id": 1550254940,
+		"in_reply_to_user_id_str": "1550254940",
+		"in_reply_to_screen_name": "tolanAHP",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2436,
+			"friends_count": 3870,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19756,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@tolanAHP The good old days!\nLooking forward when this is all over and we can all meet! I think a trip to Leeds will be on the cards to to catch up with @mikechitty 😊👍 https://t.co/SGnhLeOwbn"
+	},
+	{
+		"created_at": "Wed Oct 28 17:00:55 +0000 2020",
+		"id": 1321497183657537500,
+		"id_str": "1321497183657537536",
+		"full_text": "@tolanAHP the podcast happened! 👍",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tolanAHP",
+					"name": "Steve Tolan",
+					"id": 1550254940,
+					"id_str": "1550254940",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1321436188172013600,
+		"in_reply_to_status_id_str": "1321436188172013574",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2436,
+			"friends_count": 3870,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19756,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tolanAHP the podcast happened! 👍"
+	},
+	{
+		"created_at": "Wed Oct 28 13:19:07 +0000 2020",
+		"id": 1321436567404224500,
+		"id_str": "1321441365797068800",
+		"full_text": "Really enjoyed listening back to this! The relationship between meandering and generative leadership is a beautiful thing. https://t.co/LjwRQWoIMw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LjwRQWoIMw",
+					"expanded_url": "https://twitter.com/beardedpt/status/1321436188172013574",
+					"display_url": "twitter.com/beardedpt/stat…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21009225,
+			"id_str": "21009225",
+			"name": "Mike Chitty",
+			"screen_name": "mikechitty",
+			"location": "ÜT: 53.793861,-1.568109",
+			"description": "Leadership, innovation, enterprise, management, entrepreneurship, community development. Bookish Theoretician!",
+			"url": "https://t.co/eTB1lOPRSP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTB1lOPRSP",
+							"expanded_url": "http://beabettermanager.co.uk",
+							"display_url": "beabettermanager.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10943,
+			"friends_count": 9090,
+			"listed_count": 355,
+			"created_at": "Mon Feb 16 18:12:36 +0000 2009",
+			"favourites_count": 26310,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 140333,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6B346",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007353364777259010/4V5vinzk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007353364777259010/4V5vinzk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21009225/1353792783",
+			"profile_link_color": "2953C2",
+			"profile_sidebar_border_color": "161519",
+			"profile_sidebar_fill_color": "CBEAAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1321436188172013600,
+		"quoted_status_id_str": "1321436188172013574",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LjwRQWoIMw",
+			"expanded": "https://twitter.com/beardedpt/status/1321436188172013574",
+			"display": "twitter.com/beardedpt/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 28 12:58:33 +0000 2020",
+			"id": 1321436188172013600,
+			"id_str": "1321436188172013574",
+			"full_text": "🌟Great to be part of Be a Better Leader Podcast 🌟\n\nA conversation about student #leadership morphed into a conversations about life &amp; society. Unsettling assumptions is a big theme!\n\nLet me know what you think 💭\n#150Leaders #HLA20 @WeAHPs @HLA_int https://t.co/EEMYHq5a6s",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				251
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "leadership",
+						"indices": [
+							80,
+							91
+						]
+					},
+					{
+						"text": "150Leaders",
+						"indices": [
+							216,
+							227
+						]
+					},
+					{
+						"text": "HLA20",
+						"indices": [
+							228,
+							234
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WeAHPs",
+						"name": "WeAHPs 💙",
+						"id": 2364573882,
+						"id_str": "2364573882",
+						"indices": [
+							235,
+							242
+						]
+					},
+					{
+						"screen_name": "HLA_int",
+						"name": "The HLA",
+						"id": 809803519846993900,
+						"id_str": "809803519846993921",
+						"indices": [
+							243,
+							251
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/EEMYHq5a6s",
+						"expanded_url": "https://twitter.com/mikechitty/status/1321350457760092161",
+						"display_url": "twitter.com/mikechitty/sta…",
+						"indices": [
+							252,
+							275
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3377750235,
+				"id_str": "3377750235",
+				"name": "David Williams",
+				"screen_name": "beardedPT",
+				"location": "Staffordshire",
+				"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2436,
+				"friends_count": 3870,
+				"listed_count": 17,
+				"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+				"favourites_count": 19756,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6623,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1321350457760092200,
+			"quoted_status_id_str": "1321350457760092161",
+			"quoted_status_permalink": {
+				"url": "https://t.co/EEMYHq5a6s",
+				"expanded": "https://twitter.com/mikechitty/status/1321350457760092161",
+				"display": "twitter.com/mikechitty/sta…"
+			},
+			"retweet_count": 3,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Really enjoyed listening back to this! The relationship between meandering and generative leadership is a beautiful thing. https://t.co/LjwRQWoIMw"
+	},
+	{
+		"created_at": "Wed Oct 28 12:58:33 +0000 2020",
+		"id": 1321436188172013600,
+		"id_str": "1321436188172013574",
+		"full_text": "🌟Great to be part of Be a Better Leader Podcast 🌟\n\nA conversation about student #leadership morphed into a conversations about life &amp; society. Unsettling assumptions is a big theme!\n\nLet me know what you think 💭\n#150Leaders #HLA20 @WeAHPs @HLA_int https://t.co/EEMYHq5a6s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "leadership",
+					"indices": [
+						80,
+						91
+					]
+				},
+				{
+					"text": "150Leaders",
+					"indices": [
+						216,
+						227
+					]
+				},
+				{
+					"text": "HLA20",
+					"indices": [
+						228,
+						234
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs 💙",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						235,
+						242
+					]
+				},
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						243,
+						251
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EEMYHq5a6s",
+					"expanded_url": "https://twitter.com/mikechitty/status/1321350457760092161",
+					"display_url": "twitter.com/mikechitty/sta…",
+					"indices": [
+						252,
+						275
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2436,
+			"friends_count": 3870,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19756,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6623,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1321350457760092200,
+		"quoted_status_id_str": "1321350457760092161",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EEMYHq5a6s",
+			"expanded": "https://twitter.com/mikechitty/status/1321350457760092161",
+			"display": "twitter.com/mikechitty/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 28 07:17:53 +0000 2020",
+			"id": 1321350457760092200,
+			"id_str": "1321350457760092161",
+			"full_text": "Episode 19 of Be A better Leader with ex-Marine and now NHS Physio @beardedPT \n\nhttps://t.co/dl1REspnt6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				103
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "beardedPT",
+						"name": "David Williams",
+						"id": 3377750235,
+						"id_str": "3377750235",
+						"indices": [
+							67,
+							77
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dl1REspnt6",
+						"expanded_url": "https://player.captivate.fm/episode/e03fa871-ff00-4ed7-82f7-ba329e6fce21",
+						"display_url": "player.captivate.fm/episode/e03fa8…",
+						"indices": [
+							80,
+							103
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21009225,
+				"id_str": "21009225",
+				"name": "Mike Chitty",
+				"screen_name": "mikechitty",
+				"location": "ÜT: 53.793861,-1.568109",
+				"description": "Leadership, innovation, enterprise, management, entrepreneurship, community development. Bookish Theoretician!",
+				"url": "https://t.co/eTB1lOPRSP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eTB1lOPRSP",
+								"expanded_url": "http://beabettermanager.co.uk",
+								"display_url": "beabettermanager.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10943,
+				"friends_count": 9090,
+				"listed_count": 355,
+				"created_at": "Mon Feb 16 18:12:36 +0000 2009",
+				"favourites_count": 26310,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 140333,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F6B346",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1007353364777259010/4V5vinzk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007353364777259010/4V5vinzk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21009225/1353792783",
+				"profile_link_color": "2953C2",
+				"profile_sidebar_border_color": "161519",
+				"profile_sidebar_fill_color": "CBEAAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🌟Great to be part of Be a Better Leader Podcast 🌟\n\nA conversation about student #leadership morphed into a conversations about life &amp; society. Unsettling assumptions is a big theme!\n\nLet me know what you think 💭\n#150Leaders #HLA20 @WeAHPs @HLA_int https://t.co/EEMYHq5a6s"
+	},
+	{
 		"created_at": "Tue Oct 27 13:56:32 +0000 2020",
 		"id": 1321060239639257000,
 		"id_str": "1321088392717864966",
