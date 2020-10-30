@@ -1,6 +1,972 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Thu Oct 29 22:29:09 +0000 2020",
+		"id": 1321942172657242000,
+		"id_str": "1321942172657242114",
+		"full_text": "@EdHill0 @DrLindaDykes I know how you feel, Ed. Take it easy 🙌👍",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EdHill0",
+					"name": "Ed Hill",
+					"id": 313494055,
+					"id_str": "313494055",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "DrLindaDykes",
+					"name": "Linda Dykes",
+					"id": 1265089662,
+					"id_str": "1265089662",
+					"indices": [
+						9,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1321894479301877800,
+		"in_reply_to_status_id_str": "1321894479301877760",
+		"in_reply_to_user_id": 313494055,
+		"in_reply_to_user_id_str": "313494055",
+		"in_reply_to_screen_name": "EdHill0",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2438,
+			"friends_count": 3873,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EdHill0 @DrLindaDykes I know how you feel, Ed. Take it easy 🙌👍"
+	},
+	{
+		"created_at": "Thu Oct 29 22:13:09 +0000 2020",
+		"id": 1321753647147933700,
+		"id_str": "1321938149388505089",
+		"full_text": "Today is #InternetDay… To mark this auspicious occasion, here’s David Bowie speaking to Jeremy Paxman in 1999 about the \"unimaginable\" effects on society it was going to have. https://t.co/JVBry1m3Pk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InternetDay",
+					"indices": [
+						9,
+						21
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1321442203726684200,
+					"id_str": "1321442203726684161",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Ela1wVaXIAUHfkf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ela1wVaXIAUHfkf.jpg",
+					"url": "https://t.co/JVBry1m3Pk",
+					"display_url": "pic.twitter.com/JVBry1m3Pk",
+					"expanded_url": "https://twitter.com/BBCArchive/status/1321753647147933697/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321442203726684200,
+					"id_str": "1321442203726684161",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/Ela1wVaXIAUHfkf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ela1wVaXIAUHfkf.jpg",
+					"url": "https://t.co/JVBry1m3Pk",
+					"display_url": "pic.twitter.com/JVBry1m3Pk",
+					"expanded_url": "https://twitter.com/BBCArchive/status/1321753647147933697/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 129254,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1321442203726684161/vid/720x720/d9hnEDIjz-WCD1tW.mp4?tag=13"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1321442203726684161/vid/320x320/HSPXxHAi0D2RJp0u.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1321442203726684161/pl/cXSjtbp3uAjido-O.m3u8?tag=13"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1321442203726684161/vid/480x480/9Wv3svEYrE1kksKy.mp4?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "",
+						"description": "",
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 51023770,
+			"id_str": "51023770",
+			"name": "BBC Archive",
+			"screen_name": "BBCArchive",
+			"location": "",
+			"description": "Official Twitter presence of the @BBC Archive. Unless otherwise stated images are ©BBC.",
+			"url": "https://t.co/ZEVADTCcC6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZEVADTCcC6",
+							"expanded_url": "https://www.bbc.co.uk/archive",
+							"display_url": "bbc.co.uk/archive",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 206603,
+			"friends_count": 7232,
+			"listed_count": 2343,
+			"created_at": "Fri Jun 26 11:40:26 +0000 2009",
+			"favourites_count": 2650,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14646,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1171341855541342210/632qEenS_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1171341855541342210/632qEenS_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/51023770/1601292617",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2685,
+		"favorite_count": 7410,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today is #InternetDay… To mark this auspicious occasion, here’s David Bowie speaking to Jeremy Paxman in 1999 about the \"unimaginable\" effects on society it was going to have. https://t.co/JVBry1m3Pk"
+	},
+	{
+		"created_at": "Thu Oct 29 20:58:10 +0000 2020",
+		"id": 1321919279160283100,
+		"id_str": "1321919279160283136",
+		"full_text": "@gds115gds @SpotifyUK Brilliant ! Will you be going through the whole back catalogue...",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gds115gds",
+					"name": "Gordon Smith",
+					"id": 3380452881,
+					"id_str": "3380452881",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "SpotifyUK",
+					"name": "Spotify UK & Ireland",
+					"id": 479315245,
+					"id_str": "479315245",
+					"indices": [
+						11,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1321917627091046400,
+		"in_reply_to_status_id_str": "1321917627091046400",
+		"in_reply_to_user_id": 3380452881,
+		"in_reply_to_user_id_str": "3380452881",
+		"in_reply_to_screen_name": "gds115gds",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2438,
+			"friends_count": 3873,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gds115gds @SpotifyUK Brilliant ! Will you be going through the whole back catalogue..."
+	},
+	{
+		"created_at": "Thu Oct 29 20:36:08 +0000 2020",
+		"id": 1321503057360920600,
+		"id_str": "1321913733036314632",
+		"full_text": "Had some lovely feedback on this already... https://t.co/0Hk7xQ3xZF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0Hk7xQ3xZF",
+					"expanded_url": "https://twitter.com/mikechitty/status/1321459794461548544",
+					"display_url": "twitter.com/mikechitty/sta…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21009225,
+			"id_str": "21009225",
+			"name": "Mike Chitty",
+			"screen_name": "mikechitty",
+			"location": "ÜT: 53.793861,-1.568109",
+			"description": "Leadership, innovation, enterprise, management, entrepreneurship, community development. Bookish Theoretician!",
+			"url": "https://t.co/eTB1lOPRSP",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eTB1lOPRSP",
+							"expanded_url": "http://beabettermanager.co.uk",
+							"display_url": "beabettermanager.co.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10944,
+			"friends_count": 9088,
+			"listed_count": 355,
+			"created_at": "Mon Feb 16 18:12:36 +0000 2009",
+			"favourites_count": 26324,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 140356,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F6B346",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1007353364777259010/4V5vinzk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007353364777259010/4V5vinzk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21009225/1353792783",
+			"profile_link_color": "2953C2",
+			"profile_sidebar_border_color": "161519",
+			"profile_sidebar_fill_color": "CBEAAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1321459794461548500,
+		"quoted_status_id_str": "1321459794461548544",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0Hk7xQ3xZF",
+			"expanded": "https://twitter.com/mikechitty/status/1321459794461548544",
+			"display": "twitter.com/mikechitty/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 28 14:32:21 +0000 2020",
+			"id": 1321459794461548500,
+			"id_str": "1321459794461548544",
+			"full_text": "New episode of Be A Better Leader out today with ex-Royal Marine and NHS Physiotherapist @beardedPT #HLA20 #physiotalk #150Leaders \n\nhttps://t.co/dl1REspnt6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				156
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HLA20",
+						"indices": [
+							100,
+							106
+						]
+					},
+					{
+						"text": "physiotalk",
+						"indices": [
+							107,
+							118
+						]
+					},
+					{
+						"text": "150Leaders",
+						"indices": [
+							119,
+							130
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "beardedPT",
+						"name": "David Williams",
+						"id": 3377750235,
+						"id_str": "3377750235",
+						"indices": [
+							89,
+							99
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/dl1REspnt6",
+						"expanded_url": "https://player.captivate.fm/episode/e03fa871-ff00-4ed7-82f7-ba329e6fce21",
+						"display_url": "player.captivate.fm/episode/e03fa8…",
+						"indices": [
+							133,
+							156
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21009225,
+				"id_str": "21009225",
+				"name": "Mike Chitty",
+				"screen_name": "mikechitty",
+				"location": "ÜT: 53.793861,-1.568109",
+				"description": "Leadership, innovation, enterprise, management, entrepreneurship, community development. Bookish Theoretician!",
+				"url": "https://t.co/eTB1lOPRSP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eTB1lOPRSP",
+								"expanded_url": "http://beabettermanager.co.uk",
+								"display_url": "beabettermanager.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10944,
+				"friends_count": 9088,
+				"listed_count": 355,
+				"created_at": "Mon Feb 16 18:12:36 +0000 2009",
+				"favourites_count": 26324,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 140356,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F6B346",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1007353364777259010/4V5vinzk_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1007353364777259010/4V5vinzk_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21009225/1353792783",
+				"profile_link_color": "2953C2",
+				"profile_sidebar_border_color": "161519",
+				"profile_sidebar_fill_color": "CBEAAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Had some lovely feedback on this already... https://t.co/0Hk7xQ3xZF"
+	},
+	{
+		"created_at": "Thu Oct 29 20:35:15 +0000 2020",
+		"id": 1321913509630877700,
+		"id_str": "1321913509630877697",
+		"full_text": "@gds115gds been playing this a lot recently... @SpotifyUK #BowieForever https://t.co/9bQ6ET2cSj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BowieForever",
+					"indices": [
+						58,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gds115gds",
+					"name": "Gordon Smith",
+					"id": 3380452881,
+					"id_str": "3380452881",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "SpotifyUK",
+					"name": "Spotify UK & Ireland",
+					"id": 479315245,
+					"id_str": "479315245",
+					"indices": [
+						47,
+						57
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1321913506426400800,
+					"id_str": "1321913506426400771",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/ElhhVI5WMAMZg_B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElhhVI5WMAMZg_B.jpg",
+					"url": "https://t.co/9bQ6ET2cSj",
+					"display_url": "pic.twitter.com/9bQ6ET2cSj",
+					"expanded_url": "https://twitter.com/beardedPT/status/1321913509630877697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1321913506426400800,
+					"id_str": "1321913506426400771",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/ElhhVI5WMAMZg_B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ElhhVI5WMAMZg_B.jpg",
+					"url": "https://t.co/9bQ6ET2cSj",
+					"display_url": "pic.twitter.com/9bQ6ET2cSj",
+					"expanded_url": "https://twitter.com/beardedPT/status/1321913509630877697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 480,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 3380452881,
+		"in_reply_to_user_id_str": "3380452881",
+		"in_reply_to_screen_name": "gds115gds",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2438,
+			"friends_count": 3873,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@gds115gds been playing this a lot recently... @SpotifyUK #BowieForever https://t.co/9bQ6ET2cSj"
+	},
+	{
+		"created_at": "Thu Oct 29 20:28:00 +0000 2020",
+		"id": 1321911683892367400,
+		"id_str": "1321911683892367368",
+		"full_text": "@AHPLeader @TheCovatar Ooo! Which style did you go for 😍🤩",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AHPLeader",
+					"name": "rachael moses",
+					"id": 107548705,
+					"id_str": "107548705",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "TheCovatar",
+					"name": "The Covatar Team",
+					"id": 1250309782004625400,
+					"id_str": "1250309782004625409",
+					"indices": [
+						11,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1321866914071797800,
+		"in_reply_to_status_id_str": "1321866914071797761",
+		"in_reply_to_user_id": 107548705,
+		"in_reply_to_user_id_str": "107548705",
+		"in_reply_to_screen_name": "AHPLeader",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2438,
+			"friends_count": 3873,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19770,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6630,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AHPLeader @TheCovatar Ooo! Which style did you go for 😍🤩"
+	},
+	{
 		"created_at": "Wed Oct 28 18:50:41 +0000 2020",
 		"id": 1321524806739726300,
 		"id_str": "1321524806739726339",
