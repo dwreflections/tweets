@@ -1,6 +1,169 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 30 19:09:35 +0000 2020",
+		"id": 1322149143268176000,
+		"id_str": "1322254337758973955",
+		"full_text": "Fancy something inspiring to listen to? How about the #leadershipquest with @misssdjohnson \n\nI really loved this conversation about the meaning of leadership. I hope you do too.\n\nHere it is on @Spotify \n\n#leadership #nursing #education #personalstory \n\nhttps://t.co/8F5w8nJRYr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "leadershipquest",
+					"indices": [
+						54,
+						70
+					]
+				},
+				{
+					"text": "leadership",
+					"indices": [
+						204,
+						215
+					]
+				},
+				{
+					"text": "nursing",
+					"indices": [
+						216,
+						224
+					]
+				},
+				{
+					"text": "education",
+					"indices": [
+						225,
+						235
+					]
+				},
+				{
+					"text": "personalstory",
+					"indices": [
+						236,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "misssdjohnson",
+					"name": "Stacy Johnson MBE",
+					"id": 170450545,
+					"id_str": "170450545",
+					"indices": [
+						76,
+						90
+					]
+				},
+				{
+					"screen_name": "Spotify",
+					"name": "Spotify",
+					"id": 17230018,
+					"id_str": "17230018",
+					"indices": [
+						193,
+						201
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8F5w8nJRYr",
+					"expanded_url": "https://open.spotify.com/episode/32Z5rGQQ6A7HAzgsTB4Das?si=6h_V81k9SpCankQdEda6jw",
+					"display_url": "open.spotify.com/episode/32Z5rG…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 20327119,
+			"id_str": "20327119",
+			"name": "Anne Cooper 💙",
+			"screen_name": "Anniecoops",
+			"location": "",
+			"description": "Nurse/ Live with T1 diabetes / #RoryCat / #theDobster / #LeoCat and #PrincessTilly / Eclectic tweeter/ personal account/ podcaster/ Leadership Quest/ (She/Her)",
+			"url": "https://t.co/4MKpDU8o8w",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4MKpDU8o8w",
+							"expanded_url": "https://open.spotify.com/show/2VRQzKYhCE6rPyFTuMmkrr?si=CwHH4DbYQqmUZ_VjQRW_uQ",
+							"display_url": "open.spotify.com/show/2VRQzKYhC…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17042,
+			"friends_count": 5597,
+			"listed_count": 590,
+			"created_at": "Sat Feb 07 19:15:56 +0000 2009",
+			"favourites_count": 89451,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 128532,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "352726",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1321916087311761408/4voYkH9w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1321916087311761408/4voYkH9w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/20327119/1573978039",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "829D5E",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fancy something inspiring to listen to? How about the #leadershipquest with @misssdjohnson \n\nI really loved this conversation about the meaning of leadership. I hope you do too.\n\nHere it is on @Spotify \n\n#leadership #nursing #education #personalstory \n\nhttps://t.co/8F5w8nJRYr"
+	},
+	{
 		"created_at": "Thu Oct 29 22:29:09 +0000 2020",
 		"id": 1321942172657242000,
 		"id_str": "1321942172657242114",
