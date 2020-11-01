@@ -1,6 +1,351 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Sat Oct 31 15:50:12 +0000 2020",
+		"id": 1322566552777052200,
+		"id_str": "1322566552777052162",
+		"full_text": "It would be awesome to see some @WeAHPs &amp; #150Leaders ! \n\n@thecspstudents who have had #Leadership placements or who are interested get involved ⬇️🌟#HLA20 https://t.co/LeGUGf9k5E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "150Leaders",
+					"indices": [
+						46,
+						57
+					]
+				},
+				{
+					"text": "Leadership",
+					"indices": [
+						91,
+						102
+					]
+				},
+				{
+					"text": "HLA20",
+					"indices": [
+						152,
+						158
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs 💙",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						32,
+						39
+					]
+				},
+				{
+					"screen_name": "thecspstudents",
+					"name": "CSP Students",
+					"id": 444648690,
+					"id_str": "444648690",
+					"indices": [
+						62,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LeGUGf9k5E",
+					"expanded_url": "https://twitter.com/150leaders/status/1322534287237767168",
+					"display_url": "twitter.com/150leaders/sta…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2444,
+			"friends_count": 3871,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19778,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6633,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315338032145297409/j21nnyZy_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1322534287237767200,
+		"quoted_status_id_str": "1322534287237767168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LeGUGf9k5E",
+			"expanded": "https://twitter.com/150leaders/status/1322534287237767168",
+			"display": "twitter.com/150leaders/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Oct 31 13:42:00 +0000 2020",
+			"id": 1322534287237767200,
+			"id_str": "1322534287237767168",
+			"full_text": "Don't forget to sign up to the @HLA_int Virtual Conference 2020 on the theme of leading through difficult times. Tickets are free and you can sign up here \n👉 https://t.co/QY8c4D0d10 #150Leaders https://t.co/f03wnL8fIu",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				193
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "150Leaders",
+						"indices": [
+							182,
+							193
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HLA_int",
+						"name": "The HLA",
+						"id": 809803519846993900,
+						"id_str": "809803519846993921",
+						"indices": [
+							31,
+							39
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/QY8c4D0d10",
+						"expanded_url": "https://bit.ly/34jtFva",
+						"display_url": "bit.ly/34jtFva",
+						"indices": [
+							158,
+							181
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1311687749288812500,
+						"id_str": "1311687749288812545",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/media/EjQNDvCXYAEJX-M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjQNDvCXYAEJX-M.jpg",
+						"url": "https://t.co/f03wnL8fIu",
+						"display_url": "pic.twitter.com/f03wnL8fIu",
+						"expanded_url": "https://twitter.com/150Leaders/status/1322534287237767168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 670,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 670,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 380,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1311687749288812500,
+						"id_str": "1311687749288812545",
+						"indices": [
+							194,
+							217
+						],
+						"media_url": "http://pbs.twimg.com/media/EjQNDvCXYAEJX-M.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EjQNDvCXYAEJX-M.jpg",
+						"url": "https://t.co/f03wnL8fIu",
+						"display_url": "pic.twitter.com/f03wnL8fIu",
+						"expanded_url": "https://twitter.com/150Leaders/status/1322534287237767168/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 670,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 670,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 380,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1139187039151280100,
+				"id_str": "1139187039151280128",
+				"name": "#150Leaders",
+				"screen_name": "150Leaders",
+				"location": "United Kingdom",
+				"description": "@councilofdeans Student Leadership Programme | co-funded by @BurdettTrust | designed for student nurses, midwives & AHPs across the UK | co-created by students",
+				"url": "https://t.co/AxAGczzJZw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AxAGczzJZw",
+								"expanded_url": "http://www.councilofdeans.org.uk/studentleadership",
+								"display_url": "councilofdeans.org.uk/studentleaders…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1542,
+				"friends_count": 193,
+				"listed_count": 5,
+				"created_at": "Thu Jun 13 15:05:29 +0000 2019",
+				"favourites_count": 2252,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2001,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1141695642672279552/rf-wEzoI_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141695642672279552/rf-wEzoI_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1139187039151280128/1583504228",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It would be awesome to see some @WeAHPs &amp; #150Leaders ! \n\n@thecspstudents who have had #Leadership placements or who are interested get involved ⬇️🌟#HLA20 https://t.co/LeGUGf9k5E"
+	},
+	{
 		"created_at": "Fri Oct 30 19:09:35 +0000 2020",
 		"id": 1322149143268176000,
 		"id_str": "1322254337758973955",
