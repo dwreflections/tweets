@@ -1,6 +1,694 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Tue Nov 03 20:20:59 +0000 2020",
+		"id": 1323721858718617600,
+		"id_str": "1323721858718617603",
+		"full_text": "Absolutely! 🤩",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1323530684489760800,
+		"in_reply_to_status_id_str": "1323530684489760768",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2452,
+			"friends_count": 3874,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6649,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322972711497342976/Alo4BQkJ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322972711497342976/Alo4BQkJ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Absolutely! 🤩"
+	},
+	{
+		"created_at": "Tue Nov 03 20:20:40 +0000 2020",
+		"id": 1323717421899894800,
+		"id_str": "1323721778095640576",
+		"full_text": "Come &amp; listen to myself @beardedPT and Ben White OT as we talk about Armed Forces personnel becoming #AHPs Learn what transferable skills make for great #careerchangerstoAHPs &amp; clinicians @NHS_HealthEdEng @HealthCareersUK @healthcareersco @carrie_biddle @NHSEArmedForces @CTPinfo https://t.co/AAWiqerluV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AHPs",
+					"indices": [
+						105,
+						110
+					]
+				},
+				{
+					"text": "careerchangerstoAHPs",
+					"indices": [
+						157,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"screen_name": "NHS_HealthEdEng",
+					"name": "NHS HEE",
+					"id": 637008966,
+					"id_str": "637008966",
+					"indices": [
+						196,
+						212
+					]
+				},
+				{
+					"screen_name": "HealthCareersUK",
+					"name": "Health Careers",
+					"id": 198861182,
+					"id_str": "198861182",
+					"indices": [
+						213,
+						229
+					]
+				},
+				{
+					"screen_name": "healthcareersco",
+					"name": "Health Careers Live",
+					"id": 885224951598501900,
+					"id_str": "885224951598501888",
+					"indices": [
+						230,
+						246
+					]
+				},
+				{
+					"screen_name": "carrie_biddle",
+					"name": "Carrie Biddle",
+					"id": 3585922637,
+					"id_str": "3585922637",
+					"indices": [
+						247,
+						261
+					]
+				},
+				{
+					"screen_name": "NHSEArmedForces",
+					"name": "NHSE Armed Forces",
+					"id": 2831648813,
+					"id_str": "2831648813",
+					"indices": [
+						262,
+						278
+					]
+				},
+				{
+					"screen_name": "CTPinfo",
+					"name": "CTP",
+					"id": 325501772,
+					"id_str": "325501772",
+					"indices": [
+						279,
+						287
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323717416858378200,
+					"id_str": "1323717416858378244",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/El7J-i7XYAQmxuQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El7J-i7XYAQmxuQ.jpg",
+					"url": "https://t.co/AAWiqerluV",
+					"display_url": "pic.twitter.com/AAWiqerluV",
+					"expanded_url": "https://twitter.com/PaulChapman09/status/1323717421899894789/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323717416858378200,
+					"id_str": "1323717416858378244",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/El7J-i7XYAQmxuQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El7J-i7XYAQmxuQ.jpg",
+					"url": "https://t.co/AAWiqerluV",
+					"display_url": "pic.twitter.com/AAWiqerluV",
+					"expanded_url": "https://twitter.com/PaulChapman09/status/1323717421899894789/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 735562813146533900,
+			"id_str": "735562813146533888",
+			"name": "Paul_Chapman09",
+			"screen_name": "PaulChapman09",
+			"location": "Sheffield, England",
+			"description": "Health Education England National Programme Manager AHPs and Chartered Physiotherapist DSA (CSP) Views my own",
+			"url": "https://t.co/WdF0CdDzaw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/WdF0CdDzaw",
+							"expanded_url": "http://www.linkedin.com/in/paul-chapman-mcsp-dsa-csp-b7717156",
+							"display_url": "linkedin.com/in/paul-chapma…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2051,
+			"friends_count": 670,
+			"listed_count": 13,
+			"created_at": "Wed May 25 20:06:55 +0000 2016",
+			"favourites_count": 6035,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4162,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1195070914762878978/fKTW7F_d_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1195070914762878978/fKTW7F_d_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/735562813146533888/1592073096",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 23,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Come &amp; listen to myself @beardedPT and Ben White OT as we talk about Armed Forces personnel becoming #AHPs Learn what transferable skills make for great #careerchangerstoAHPs &amp; clinicians @NHS_HealthEdEng @HealthCareersUK @healthcareersco @carrie_biddle @NHSEArmedForces @CTPinfo https://t.co/AAWiqerluV"
+	},
+	{
+		"created_at": "Tue Nov 03 19:38:35 +0000 2020",
+		"id": 1323663056853999600,
+		"id_str": "1323711188975407104",
+		"full_text": "Our student-led open competition for PhD funding is now live, with a deadline of 26 January 2021! Apply for @ESRC funding to study at one of our partner institutions @AstonUniversity @unibirmingham @uniofleicester @lborouniversity @UniofNottingham @warwickuni #PhDfunding https://t.co/YA57CY2t7r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PhDfunding",
+					"indices": [
+						260,
+						271
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ESRC",
+					"name": "Economic and Social Research Council",
+					"id": 19393236,
+					"id_str": "19393236",
+					"indices": [
+						108,
+						113
+					]
+				},
+				{
+					"screen_name": "AstonUniversity",
+					"name": "Aston University",
+					"id": 14224706,
+					"id_str": "14224706",
+					"indices": [
+						166,
+						182
+					]
+				},
+				{
+					"screen_name": "unibirmingham",
+					"name": "Uni of Birmingham",
+					"id": 17865542,
+					"id_str": "17865542",
+					"indices": [
+						183,
+						197
+					]
+				},
+				{
+					"screen_name": "uniofleicester",
+					"name": "University of Leicester",
+					"id": 81089247,
+					"id_str": "81089247",
+					"indices": [
+						198,
+						213
+					]
+				},
+				{
+					"screen_name": "lborouniversity",
+					"name": "Loughborough University",
+					"id": 63094620,
+					"id_str": "63094620",
+					"indices": [
+						214,
+						230
+					]
+				},
+				{
+					"screen_name": "UniofNottingham",
+					"name": "Uni of Nottingham #WeAreUoN",
+					"id": 30196565,
+					"id_str": "30196565",
+					"indices": [
+						231,
+						247
+					]
+				},
+				{
+					"screen_name": "warwickuni",
+					"name": "University of Warwick",
+					"id": 15916215,
+					"id_str": "15916215",
+					"indices": [
+						248,
+						259
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1323661919660789800,
+					"id_str": "1323661919660789761",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/El6XgLwX0AEbaT5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El6XgLwX0AEbaT5.jpg",
+					"url": "https://t.co/YA57CY2t7r",
+					"display_url": "pic.twitter.com/YA57CY2t7r",
+					"expanded_url": "https://twitter.com/mgsesrcdtp/status/1323663056853999618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1323661919660789800,
+					"id_str": "1323661919660789761",
+					"indices": [
+						272,
+						295
+					],
+					"media_url": "http://pbs.twimg.com/media/El6XgLwX0AEbaT5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/El6XgLwX0AEbaT5.jpg",
+					"url": "https://t.co/YA57CY2t7r",
+					"display_url": "pic.twitter.com/YA57CY2t7r",
+					"expanded_url": "https://twitter.com/mgsesrcdtp/status/1323663056853999618/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 810903654140182500,
+			"id_str": "810903654140182530",
+			"name": "MGS ESRC DTP",
+			"screen_name": "mgsesrcdtp",
+			"location": "West Midlands, England",
+			"description": "The twitter feed for the Midlands Graduate School @ESRC Doctoral Training Partnership - promoting & supporting social science research & researchers",
+			"url": "https://t.co/UZpWOrmvC7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/UZpWOrmvC7",
+							"expanded_url": "http://www.mgsdtp.ac.uk",
+							"display_url": "mgsdtp.ac.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 526,
+			"friends_count": 718,
+			"listed_count": 9,
+			"created_at": "Mon Dec 19 17:44:31 +0000 2016",
+			"favourites_count": 276,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/895963964458373121/3oBXikns_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/895963964458373121/3oBXikns_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/810903654140182530/1502445987",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our student-led open competition for PhD funding is now live, with a deadline of 26 January 2021! Apply for @ESRC funding to study at one of our partner institutions @AstonUniversity @unibirmingham @uniofleicester @lborouniversity @UniofNottingham @warwickuni #PhDfunding https://t.co/YA57CY2t7r"
+	},
+	{
+		"created_at": "Tue Nov 03 19:03:02 +0000 2020",
+		"id": 1323702240704606200,
+		"id_str": "1323702240704606208",
+		"full_text": "@shonacain_phys Same!!!! 😬",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shonacain_phys",
+					"name": "Shona Thompson (nee Cain)",
+					"id": 4901106688,
+					"id_str": "4901106688",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1323630337935745000,
+		"in_reply_to_status_id_str": "1323630337935745024",
+		"in_reply_to_user_id": 4901106688,
+		"in_reply_to_user_id_str": "4901106688",
+		"in_reply_to_screen_name": "shonacain_phys",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2452,
+			"friends_count": 3874,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19847,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6649,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322972711497342976/Alo4BQkJ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322972711497342976/Alo4BQkJ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@shonacain_phys Same!!!! 😬"
+	},
+	{
 		"created_at": "Mon Nov 02 07:39:37 +0000 2020",
 		"id": 1323167868268302300,
 		"id_str": "1323167868268302336",
