@@ -1,6 +1,978 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 08 17:06:25 +0000 2020",
+		"id": 1325474439253856300,
+		"id_str": "1325484832374329344",
+		"full_text": "(1/16) It’s #RemembranceDay in Britain. In preparation for my next book on the history of plastic surgery, I’m immersing myself in diaries, letters, &amp; literature from #WWI. Today's THREAD is in honor of the nurses who played an integral part in the war effort.👇 https://t.co/CWsxrXeZPG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "RemembranceDay",
+					"indices": [
+						12,
+						27
+					]
+				},
+				{
+					"text": "WWI",
+					"indices": [
+						171,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1325474373134905300,
+					"id_str": "1325474373134905346",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/EmUH63GW8AI3ty7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmUH63GW8AI3ty7.jpg",
+					"url": "https://t.co/CWsxrXeZPG",
+					"display_url": "pic.twitter.com/CWsxrXeZPG",
+					"expanded_url": "https://twitter.com/DrLindseyFitz/status/1325474439253856258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 660,
+							"h": 371,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 660,
+							"h": 371,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 660,
+							"h": 371,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325474373134905300,
+					"id_str": "1325474373134905346",
+					"indices": [
+						266,
+						289
+					],
+					"media_url": "http://pbs.twimg.com/media/EmUH63GW8AI3ty7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmUH63GW8AI3ty7.jpg",
+					"url": "https://t.co/CWsxrXeZPG",
+					"display_url": "pic.twitter.com/CWsxrXeZPG",
+					"expanded_url": "https://twitter.com/DrLindseyFitz/status/1325474439253856258/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 660,
+							"h": 371,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 660,
+							"h": 371,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 660,
+							"h": 371,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 229509740,
+			"id_str": "229509740",
+			"name": "Lindsey Fitzharris",
+			"screen_name": "DrLindseyFitz",
+			"location": "United Kingdom",
+			"description": "Storyteller. Medical historian (Oxford, PhD). Conveyor of nightmarish history. Author: THE BUTCHERING ART. Host: @SmithsonianChan's CURIOUS LIFE AND DEATH OF...",
+			"url": "https://t.co/e40Bn4YG9k",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/e40Bn4YG9k",
+							"expanded_url": "http://drlindseyfitzharris.com",
+							"display_url": "drlindseyfitzharris.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 113195,
+			"friends_count": 873,
+			"listed_count": 1318,
+			"created_at": "Wed Dec 22 15:53:01 +0000 2010",
+			"favourites_count": 75194,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 67063,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1296863331249205248/RxLFhLpi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1296863331249205248/RxLFhLpi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/229509740/1602878059",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 168,
+		"favorite_count": 648,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "(1/16) It’s #RemembranceDay in Britain. In preparation for my next book on the history of plastic surgery, I’m immersing myself in diaries, letters, &amp; literature from #WWI. Today's THREAD is in honor of the nurses who played an integral part in the war effort.👇 https://t.co/CWsxrXeZPG"
+	},
+	{
+		"created_at": "Sun Nov 08 10:20:18 +0000 2020",
+		"id": 1325382630112637000,
+		"id_str": "1325382630112636928",
+		"full_text": "@stevenawoor A very different Remembrance Sunday. I will pay my respects and reflect on my doorstep but I will miss being surrounded by my oppos. #lestweforget",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "lestweforget",
+					"indices": [
+						146,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stevenawoor",
+					"name": "Steve Nawoor",
+					"id": 91512796,
+					"id_str": "91512796",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1325346303090581500,
+		"in_reply_to_status_id_str": "1325346303090581504",
+		"in_reply_to_user_id": 91512796,
+		"in_reply_to_user_id_str": "91512796",
+		"in_reply_to_screen_name": "stevenawoor",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2470,
+			"friends_count": 3903,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322972711497342976/Alo4BQkJ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322972711497342976/Alo4BQkJ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@stevenawoor A very different Remembrance Sunday. I will pay my respects and reflect on my doorstep but I will miss being surrounded by my oppos. #lestweforget"
+	},
+	{
+		"created_at": "Sun Nov 08 10:14:07 +0000 2020",
+		"id": 1325358971541213200,
+		"id_str": "1325381074256601089",
+		"full_text": "Today we reflect on the service of our armed forces, including former and current personnel who are now part of #TeamUHDB, and remember all those who paid the ultimate sacrifice to protect our communities. \n\nWe will be marking the #RemembranceDay2020 at our hospitals on Wednesday https://t.co/EvrlbFYhYV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TeamUHDB",
+					"indices": [
+						112,
+						121
+					]
+				},
+				{
+					"text": "RemembranceDay2020",
+					"indices": [
+						231,
+						250
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1325358631198597000,
+					"id_str": "1325358631198597120",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EmSepyyXIAA-kJ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmSepyyXIAA-kJ5.jpg",
+					"url": "https://t.co/EvrlbFYhYV",
+					"display_url": "pic.twitter.com/EvrlbFYhYV",
+					"expanded_url": "https://twitter.com/UHDBTrust/status/1325358971541213185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 473,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 473,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325358631198597000,
+					"id_str": "1325358631198597120",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/EmSepyyXIAA-kJ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmSepyyXIAA-kJ5.jpg",
+					"url": "https://t.co/EvrlbFYhYV",
+					"display_url": "pic.twitter.com/EvrlbFYhYV",
+					"expanded_url": "https://twitter.com/UHDBTrust/status/1325358971541213185/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 473,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 357,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 900,
+							"h": 473,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 429877936,
+			"id_str": "429877936",
+			"name": "University Hospitals of Derby and Burton NHS FT",
+			"screen_name": "UHDBTrust",
+			"location": "Derby, Burton, Tamworth, Lichfield",
+			"description": "Official Twitter page of University Hospitals of Derby and Burton NHS Foundation Trust. 🏥\n\nThis account is monitored Mon-Fri, 9am-5pm (excluding Bank Holidays)",
+			"url": "https://t.co/x70bd3ATs0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x70bd3ATs0",
+							"expanded_url": "http://www.uhdb.nhs.uk",
+							"display_url": "uhdb.nhs.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 14211,
+			"friends_count": 1228,
+			"listed_count": 156,
+			"created_at": "Tue Dec 06 14:09:36 +0000 2011",
+			"favourites_count": 7459,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 20600,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1324300739045371905/bxFl-NNb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1324300739045371905/bxFl-NNb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/429877936/1591191933",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 59,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today we reflect on the service of our armed forces, including former and current personnel who are now part of #TeamUHDB, and remember all those who paid the ultimate sacrifice to protect our communities. \n\nWe will be marking the #RemembranceDay2020 at our hospitals on Wednesday https://t.co/EvrlbFYhYV"
+	},
+	{
+		"created_at": "Sun Nov 08 10:12:08 +0000 2020",
+		"id": 1325347431559684000,
+		"id_str": "1325380575058866176",
+		"full_text": "If you can't take part in Remembrance services and events today, you can still honour the service and sacrifice of all who have served in our Armed Forces. Join the nation in Remembrance and observe the Two Minute Silence from your doorstep at 11am ➡️ https://t.co/snX681GqAV https://t.co/OTmQ9oEGoD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/snX681GqAV",
+					"expanded_url": "http://rbl.org.uk/waystoremember",
+					"display_url": "rbl.org.uk/waystoremember",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1325347427226951700,
+					"id_str": "1325347427226951680",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EmSUdovXIAA9rsH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmSUdovXIAA9rsH.jpg",
+					"url": "https://t.co/OTmQ9oEGoD",
+					"display_url": "pic.twitter.com/OTmQ9oEGoD",
+					"expanded_url": "https://twitter.com/PoppyLegion/status/1325347431559684096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325347427226951700,
+					"id_str": "1325347427226951680",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/media/EmSUdovXIAA9rsH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmSUdovXIAA9rsH.jpg",
+					"url": "https://t.co/OTmQ9oEGoD",
+					"display_url": "pic.twitter.com/OTmQ9oEGoD",
+					"expanded_url": "https://twitter.com/PoppyLegion/status/1325347431559684096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1500,
+							"h": 1000,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://app.agorapulse.com\" rel=\"nofollow\">AgoraPulse Manager</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 74117081,
+			"id_str": "74117081",
+			"name": "Royal British Legion",
+			"screen_name": "PoppyLegion",
+			"location": "UK",
+			"description": "We’re here to support the Armed Forces community. We also run the #PoppyAppeal. Tweets monitored Mon - Fri 9am–5pm. https://t.co/p7ZiqOf8ti",
+			"url": "https://t.co/3byTruvSdO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3byTruvSdO",
+							"expanded_url": "http://www.britishlegion.org.uk",
+							"display_url": "britishlegion.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/p7ZiqOf8ti",
+							"expanded_url": "http://www.britishlegion.org.uk/get-support/",
+							"display_url": "britishlegion.org.uk/get-support/",
+							"indices": [
+								116,
+								139
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 247899,
+			"friends_count": 1325,
+			"listed_count": 935,
+			"created_at": "Mon Sep 14 09:25:20 +0000 2009",
+			"favourites_count": 27989,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 34635,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1063424331374624768/kN3jzgS9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1063424331374624768/kN3jzgS9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/74117081/1604744001",
+			"profile_link_color": "ED1C24",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "F9F7EE",
+			"profile_text_color": "182B78",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 814,
+		"favorite_count": 3163,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you can't take part in Remembrance services and events today, you can still honour the service and sacrifice of all who have served in our Armed Forces. Join the nation in Remembrance and observe the Two Minute Silence from your doorstep at 11am ➡️ https://t.co/snX681GqAV https://t.co/OTmQ9oEGoD"
+	},
+	{
+		"created_at": "Sun Nov 08 10:04:07 +0000 2020",
+		"id": 1325378560836718600,
+		"id_str": "1325378560836718593",
+		"full_text": "@Shaun_LDNurse 👍👍",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Shaun_LDNurse",
+					"name": "Shaun Williams",
+					"id": 901055791515435000,
+					"id_str": "901055791515435008",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1325365919401599000,
+		"in_reply_to_status_id_str": "1325365919401598977",
+		"in_reply_to_user_id": 901055791515435000,
+		"in_reply_to_user_id_str": "901055791515435008",
+		"in_reply_to_screen_name": "Shaun_LDNurse",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2470,
+			"friends_count": 3903,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322972711497342976/Alo4BQkJ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322972711497342976/Alo4BQkJ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@Shaun_LDNurse 👍👍"
+	},
+	{
+		"created_at": "Sun Nov 08 10:03:48 +0000 2020",
+		"id": 1325378479970537500,
+		"id_str": "1325378479970537472",
+		"full_text": "@RJTaylor16 Yes, seen! Massive plus ( not made my mind up just yet...)",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RJTaylor16",
+					"name": "*insert name here*",
+					"id": 105272735,
+					"id_str": "105272735",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1325370116515704800,
+		"in_reply_to_status_id_str": "1325370116515704833",
+		"in_reply_to_user_id": 105272735,
+		"in_reply_to_user_id_str": "105272735",
+		"in_reply_to_screen_name": "RJTaylor16",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2470,
+			"friends_count": 3903,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322972711497342976/Alo4BQkJ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322972711497342976/Alo4BQkJ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RJTaylor16 Yes, seen! Massive plus ( not made my mind up just yet...)"
+	},
+	{
+		"created_at": "Sun Nov 08 09:56:39 +0000 2020",
+		"id": 1325376679578128400,
+		"id_str": "1325376679578128384",
+		"full_text": "@MarieNeuroPT @LisaWardComms @tmw1708 🥳🙌🥂",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarieNeuroPT",
+					"name": "Marie Adams",
+					"id": 3368301857,
+					"id_str": "3368301857",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "LisaWardComms",
+					"name": "Lisa Ward",
+					"id": 2219391876,
+					"id_str": "2219391876",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "tmw1708",
+					"name": "Tim Ward",
+					"id": 18877899,
+					"id_str": "18877899",
+					"indices": [
+						29,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1325242156689354800,
+		"in_reply_to_status_id_str": "1325242156689354752",
+		"in_reply_to_user_id": 3368301857,
+		"in_reply_to_user_id_str": "3368301857",
+		"in_reply_to_screen_name": "MarieNeuroPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2470,
+			"friends_count": 3903,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1322972711497342976/Alo4BQkJ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322972711497342976/Alo4BQkJ_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@MarieNeuroPT @LisaWardComms @tmw1708 🥳🙌🥂"
+	},
+	{
 		"created_at": "Sat Nov 07 23:20:03 +0000 2020",
 		"id": 1325216475813179400,
 		"id_str": "1325216475813179392",
