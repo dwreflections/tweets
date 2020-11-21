@@ -1,10 +1,223 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Fri Nov 20 20:00:03 +0000 2020",
+		"id": 1329877185658818600,
+		"id_str": "1329877185658818560",
+		"full_text": "Education is key to unlocking the better you 🔑 🙌 @griffiths_marc https://t.co/aheRe38ZCC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "griffiths_marc",
+					"name": "Marc Griffiths",
+					"id": 905867976,
+					"id_str": "905867976",
+					"indices": [
+						49,
+						64
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aheRe38ZCC",
+					"expanded_url": "https://twitter.com/physio_back/status/1329741892301545472",
+					"display_url": "twitter.com/physio_back/st…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "✨ I'm here to make a difference ✨| Physiotherapist | Chair - Armed Forces Network @UHDBTrust | @thecsp Professional Committee | @HLA_Int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2489,
+			"friends_count": 3911,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 19986,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6687,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1329505863409733632/GtyNQA0h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329505863409733632/GtyNQA0h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1329741892301545500,
+		"quoted_status_id_str": "1329741892301545472",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aheRe38ZCC",
+			"expanded": "https://twitter.com/physio_back/status/1329741892301545472",
+			"display": "twitter.com/physio_back/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 20 11:02:27 +0000 2020",
+			"id": 1329741892301545500,
+			"id_str": "1329741892301545472",
+			"full_text": "Just heard from the amazing @griffiths_marc with the @150Leaders. Absolutely inspiring, resonating and affirming. Education is key to unlocking the better you, but it has to be inclusive and available for ALL. Thank you for your time. Be a beacon and find the unicorns.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "griffiths_marc",
+						"name": "Marc Griffiths",
+						"id": 905867976,
+						"id_str": "905867976",
+						"indices": [
+							28,
+							43
+						]
+					},
+					{
+						"screen_name": "150Leaders",
+						"name": "#150Leaders",
+						"id": 1139187039151280100,
+						"id_str": "1139187039151280128",
+						"indices": [
+							53,
+							64
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1048100165582839800,
+				"id_str": "1048100165582839808",
+				"name": "ThePhysioBack",
+				"screen_name": "physio_back",
+				"location": "South West, England",
+				"description": "3rd yr Physio at BU. Pres BU Physio Soc. L&D officer CSP SRG 20/21. Student member @ACPOPC. Father of 2. Eager cricketer. Views are my own. #150Leaders he/him",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 365,
+				"friends_count": 573,
+				"listed_count": 1,
+				"created_at": "Fri Oct 05 06:38:47 +0000 2018",
+				"favourites_count": 3268,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1500,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1318893312137482241/IMRhk7h3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1318893312137482241/IMRhk7h3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1048100165582839808/1589662187",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Education is key to unlocking the better you 🔑 🙌 @griffiths_marc https://t.co/aheRe38ZCC"
+	},
+	{
 		"created_at": "Thu Nov 19 19:23:59 +0000 2020",
 		"id": 1329505719058657300,
 		"id_str": "1329505719058657282",
-		"full_text": "What’s happened to Twitter? “Fleets”... 🤷‍♂️ #Fleets #twitterupdate https://t.co/fo2hUETVEs",
+		"full_text": "What’s happened to Twitter? “Fleets”... 🤷♂️ #Fleets #twitterupdate https://t.co/fo2hUETVEs",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -174,7 +387,7 @@ Grailbird.data.tweets_2020_11 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "What’s happened to Twitter? “Fleets”... 🤷‍♂️ #Fleets #twitterupdate https://t.co/fo2hUETVEs"
+		"text": "What’s happened to Twitter? “Fleets”... 🤷♂️ #Fleets #twitterupdate https://t.co/fo2hUETVEs"
 	},
 	{
 		"created_at": "Fri Nov 13 19:16:02 +0000 2020",
