@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Thu Nov 26 20:56:17 +0000 2020",
+		"id": 1332065662945071000,
+		"id_str": "1332065662945071106",
+		"full_text": "@estranney @Justine32023121 @pearn_grace Well deserved! 👏👏👏",
+		"truncated": false,
+		"display_text_range": [
+			41,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "estranney",
+					"name": "Emily Stranney",
+					"id": 993637980,
+					"id_str": "993637980",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Justine32023121",
+					"name": "Justine Williams 💙🌈",
+					"id": 1169164893452415000,
+					"id_str": "1169164893452414976",
+					"indices": [
+						11,
+						27
+					]
+				},
+				{
+					"screen_name": "pearn_grace",
+					"name": "Grace Pearn",
+					"id": 3337615893,
+					"id_str": "3337615893",
+					"indices": [
+						28,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1331670835313201200,
+		"in_reply_to_status_id_str": "1331670835313201156",
+		"in_reply_to_user_id": 993637980,
+		"in_reply_to_user_id_str": "993637980",
+		"in_reply_to_screen_name": "estranney",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Making a difference✨Physio ✨Chair - Armed Forces Network @UHDBTrust ✨@ccsn_uk Trustee ✨@thecsp Professional Committee ✨@HLA_Int Scholar ✨#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2502,
+			"friends_count": 3924,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@estranney @Justine32023121 @pearn_grace Well deserved! 👏👏👏"
+	},
+	{
+		"created_at": "Thu Nov 26 20:48:19 +0000 2020",
+		"id": 1332063660626350000,
+		"id_str": "1332063660626350083",
+		"full_text": "@mikechitty @LeadersNow_ Mike - I will absolutely be in touch! Top of the list. 👍\n\nThis is part of my @HLA_int project! Unfortunately, I’m recovering from COVID and it has massively got in the way. But we go on!",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mikechitty",
+					"name": "Mike Chitty",
+					"id": 21009225,
+					"id_str": "21009225",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "LeadersNow_",
+					"name": "Leaders Now Network ⚡️",
+					"id": 1054369983365550100,
+					"id_str": "1054369983365550081",
+					"indices": [
+						12,
+						24
+					]
+				},
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						102,
+						110
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1332062148802076700,
+		"in_reply_to_status_id_str": "1332062148802076674",
+		"in_reply_to_user_id": 21009225,
+		"in_reply_to_user_id_str": "21009225",
+		"in_reply_to_screen_name": "mikechitty",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Making a difference✨Physio ✨Chair - Armed Forces Network @UHDBTrust ✨@ccsn_uk Trustee ✨@thecsp Professional Committee ✨@HLA_Int Scholar ✨#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2502,
+			"friends_count": 3924,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6699,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mikechitty @LeadersNow_ Mike - I will absolutely be in touch! Top of the list. 👍\n\nThis is part of my @HLA_int project! Unfortunately, I’m recovering from COVID and it has massively got in the way. But we go on!"
+	},
+	{
 		"created_at": "Wed Nov 25 18:09:55 +0000 2020",
 		"id": 1331661408216477700,
 		"id_str": "1331661408216477697",
