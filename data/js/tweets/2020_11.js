@@ -1,6 +1,531 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 29 21:56:23 +0000 2020",
+		"id": 1333165429720756200,
+		"id_str": "1333167953714565121",
+		"full_text": "A very clear explanation of what’s happening in hospitals and why Nightingales aren’t the answer. https://t.co/1vhPCGBWGe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1vhPCGBWGe",
+					"expanded_url": "https://twitter.com/chrisceohopson/status/1333059416313245696",
+					"display_url": "twitter.com/chrisceohopson…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 60325975,
+			"id_str": "60325975",
+			"name": "Kate Prior",
+			"screen_name": "doctorwibble",
+			"location": "London",
+			"description": "Dark blue anaesthetist. @SE_MCD @DMS_JHGSE. Trauma queen. @ATACCFaculty. Event doctor. Theatregoer. Wine drinker. Opinions - yep, got lots of those.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12787,
+			"friends_count": 2305,
+			"listed_count": 79,
+			"created_at": "Sun Jul 26 15:26:49 +0000 2009",
+			"favourites_count": 37652,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 28449,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326804674905845761/WPKbpank_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326804674905845761/WPKbpank_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/60325975/1573557047",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1333059416313245700,
+		"quoted_status_id_str": "1333059416313245696",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1vhPCGBWGe",
+			"expanded": "https://twitter.com/chrisceohopson/status/1333059416313245696",
+			"display": "twitter.com/chrisceohopson…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 29 14:45:06 +0000 2020",
+			"id": 1333059416313245700,
+			"id_str": "1333059416313245696",
+			"full_text": "1/21 Parliament votes on the new tiered restctions on Tuesday. A lot of comment in today’s papers on what’s happening in the hospital sector. Important questions on NHS capacity, demand, preparedness, Nightingales etc. Thread below sets out NHS hospital trust perspective.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2365582562,
+				"id_str": "2365582562",
+				"name": "Chris Hopson",
+				"screen_name": "ChrisCEOHopson",
+				"location": "London",
+				"description": "CEO @NHSProviders. West Ham fan. Husband. Dad. Wine. Good Food. Theatre. Books. Walking. Travel. The Lake District. Not necessarily in that order.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15878,
+				"friends_count": 383,
+				"listed_count": 173,
+				"created_at": "Fri Feb 28 13:08:57 +0000 2014",
+				"favourites_count": 38,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15374,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1042648938925514753/7z6W5l91_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1042648938925514753/7z6W5l91_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2365582562/1604440378",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 392,
+			"favorite_count": 826,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 11,
+		"favorite_count": 52,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A very clear explanation of what’s happening in hospitals and why Nightingales aren’t the answer. https://t.co/1vhPCGBWGe"
+	},
+	{
+		"created_at": "Sun Nov 29 21:20:41 +0000 2020",
+		"id": 1333158968227745800,
+		"id_str": "1333158968227745793",
+		"full_text": "Absolutely critical ⬇️💪 https://t.co/O0S8NIlGhZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O0S8NIlGhZ",
+					"expanded_url": "https://twitter.com/benshannonpt/status/1332684691116331009",
+					"display_url": "twitter.com/benshannonpt/s…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Making a difference✨Physio ✨Chair - Armed Forces Network @UHDBTrust ✨@ccsn_uk Trustee ✨@thecsp Professional Committee ✨@HLA_Int Scholar ✨#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2508,
+			"friends_count": 3932,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1332684691116331000,
+		"quoted_status_id_str": "1332684691116331009",
+		"quoted_status_permalink": {
+			"url": "https://t.co/O0S8NIlGhZ",
+			"expanded": "https://twitter.com/benshannonpt/status/1332684691116331009",
+			"display": "twitter.com/benshannonpt/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 28 13:56:05 +0000 2020",
+			"id": 1332684691116331000,
+			"id_str": "1332684691116331009",
+			"full_text": "\"All you do is take grannys for a walk and make sure they eat\" said my friend. In short, 1-3 days in bed did not correlate with sarcopenia, 3-5+ days however did. PT/OT in acute medicine is crucial to avoid this. #endpjparalysis @Ward29L\n https://t.co/XHeRGlxUj3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				262
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "endpjparalysis",
+						"indices": [
+							213,
+							228
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Ward29L",
+						"name": "ward29_LRI",
+						"id": 1176506189485617200,
+						"id_str": "1176506189485617154",
+						"indices": [
+							229,
+							237
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/XHeRGlxUj3",
+						"expanded_url": "https://onlinelibrary.wiley.com/doi/full/10.1002/jcsm.12224#.X8JVxWjioOI.twitter",
+						"display_url": "onlinelibrary.wiley.com/doi/full/10.10…",
+						"indices": [
+							239,
+							262
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 45407152,
+				"id_str": "45407152",
+				"name": "Ben Shannon",
+				"screen_name": "BenShannonPT",
+				"location": "England",
+				"description": "Not Wired up Properly! Thats what most people say. Adventure racer living in the midlands.......yes there are one or two hills in leicestershire. Physio",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 313,
+				"friends_count": 880,
+				"listed_count": 3,
+				"created_at": "Sun Jun 07 19:42:22 +0000 2009",
+				"favourites_count": 1907,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2322,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410908839/24831_10150130247170503_190613530502_11582903_961975_n_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410908839/24831_10150130247170503_190613530502_11582903_961975_n_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/45407152/1516111422",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Absolutely critical ⬇️💪 https://t.co/O0S8NIlGhZ"
+	},
+	{
+		"created_at": "Sun Nov 29 14:34:29 +0000 2020",
+		"id": 1333056745187528700,
+		"id_str": "1333056745187528704",
+		"full_text": "@johnishappier @thecsp @StGeorgesUni @SGULPhysioSoc @G_e_o_r_g_i_a_1",
+		"truncated": false,
+		"display_text_range": [
+			52,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "johnishappier",
+					"name": "John A. Hammond🏳️‍🌈",
+					"id": 3121854597,
+					"id_str": "3121854597",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"screen_name": "StGeorgesUni",
+					"name": "St George's, University of London",
+					"id": 160583127,
+					"id_str": "160583127",
+					"indices": [
+						23,
+						36
+					]
+				},
+				{
+					"screen_name": "SGULPhysioSoc",
+					"name": "PhysioSoc",
+					"id": 829397584859037700,
+					"id_str": "829397584859037696",
+					"indices": [
+						37,
+						51
+					]
+				},
+				{
+					"screen_name": "G_e_o_r_g_i_a_1",
+					"name": "countryptstudent",
+					"id": 596698312,
+					"id_str": "596698312",
+					"indices": [
+						52,
+						68
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1333034171665698800,
+		"in_reply_to_status_id_str": "1333034171665698821",
+		"in_reply_to_user_id": 3121854597,
+		"in_reply_to_user_id_str": "3121854597",
+		"in_reply_to_screen_name": "johnishappier",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Making a difference✨Physio ✨Chair - Armed Forces Network @UHDBTrust ✨@ccsn_uk Trustee ✨@thecsp Professional Committee ✨@HLA_Int Scholar ✨#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2508,
+			"friends_count": 3932,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20105,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6719,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@johnishappier @thecsp @StGeorgesUni @SGULPhysioSoc @G_e_o_r_g_i_a_1"
+	},
+	{
 		"created_at": "Sat Nov 28 19:36:21 +0000 2020",
 		"id": 1332770322450440200,
 		"id_str": "1332770322450440195",
