@@ -1,6 +1,219 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Mon Nov 30 12:57:31 +0000 2020",
+		"id": 1333380594437394400,
+		"id_str": "1333394730705694720",
+		"full_text": "Launch day of the Erasmus+ UNDERGRADUATE #MovementForMovement resources\n🚨Blog via @councilofdeans \n✨How to use the resources for Universities\n👇Thread\n\nhttps://t.co/qgkuIVcAix https://t.co/eNNcbvpChQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MovementForMovement",
+					"indices": [
+						41,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "councilofdeans",
+					"name": "Council of Deans",
+					"id": 278442312,
+					"id_str": "278442312",
+					"indices": [
+						82,
+						97
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qgkuIVcAix",
+					"expanded_url": "https://councilofdeans.org.uk/2020/11/launch-of-the-erasmus-movementformovement-resources/",
+					"display_url": "councilofdeans.org.uk/2020/11/launch…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1333380590146637800,
+					"id_str": "1333380590146637824",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EoEelQoXUAAsWEZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoEelQoXUAAsWEZ.jpg",
+					"url": "https://t.co/eNNcbvpChQ",
+					"display_url": "pic.twitter.com/eNNcbvpChQ",
+					"expanded_url": "https://twitter.com/exerciseworks/status/1333380594437394435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 984,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 442,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 984,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1333380590146637800,
+					"id_str": "1333380590146637824",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/EoEelQoXUAAsWEZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoEelQoXUAAsWEZ.jpg",
+					"url": "https://t.co/eNNcbvpChQ",
+					"display_url": "pic.twitter.com/eNNcbvpChQ",
+					"expanded_url": "https://twitter.com/exerciseworks/status/1333380594437394435/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 984,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 442,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 984,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 256921454,
+			"id_str": "256921454",
+			"name": "Exercise Works!",
+			"screen_name": "exerciseworks",
+			"location": "UK, World",
+			"description": "Exercise Works in the prevention & treatment of disease. One step for patients. One leap to health! https://t.co/wCelqNG8li by Ann Gates #MovementForMovement",
+			"url": "https://t.co/Q4HTTTP8w6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Q4HTTTP8w6",
+							"expanded_url": "http://www.exercise-works.org",
+							"display_url": "exercise-works.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/wCelqNG8li",
+							"expanded_url": "http://exercise-works.org",
+							"display_url": "exercise-works.org",
+							"indices": [
+								100,
+								123
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 64174,
+			"friends_count": 56746,
+			"listed_count": 1188,
+			"created_at": "Thu Feb 24 10:22:04 +0000 2011",
+			"favourites_count": 157077,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 176662,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332971430426923015/mUH7jBCQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332971430426923015/mUH7jBCQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/256921454/1606640130",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 73,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Launch day of the Erasmus+ UNDERGRADUATE #MovementForMovement resources\n🚨Blog via @councilofdeans \n✨How to use the resources for Universities\n👇Thread\n\nhttps://t.co/qgkuIVcAix https://t.co/eNNcbvpChQ"
+	},
+	{
 		"created_at": "Sun Nov 29 21:56:23 +0000 2020",
 		"id": 1333165429720756200,
 		"id_str": "1333167953714565121",
@@ -408,7 +621,7 @@ Grailbird.data.tweets_2020_11 =
 			"user_mentions": [
 				{
 					"screen_name": "johnishappier",
-					"name": "John A. Hammond🏳️‍🌈",
+					"name": "John A. Hammond🏳️🌈",
 					"id": 3121854597,
 					"id_str": "3121854597",
 					"indices": [
