@@ -1,6 +1,1029 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 03 22:48:49 +0000 2020",
+		"id": 1334630697328398300,
+		"id_str": "1334630697328398340",
+		"full_text": "@aardvarknsefce @UniofNottingham @JonathanKBall Lots to learn from how JVK communicated science to the public.",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aardvarknsefce",
+					"name": "Andy Nolan",
+					"id": 94529945,
+					"id_str": "94529945",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "UniofNottingham",
+					"name": "Uni of Nottingham #WeAreUoN",
+					"id": 30196565,
+					"id_str": "30196565",
+					"indices": [
+						16,
+						32
+					]
+				},
+				{
+					"screen_name": "JonathanKBall",
+					"name": "Jonathan Ball",
+					"id": 585807608,
+					"id_str": "585807608",
+					"indices": [
+						33,
+						47
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1334575438518214700,
+		"in_reply_to_status_id_str": "1334575438518214659",
+		"in_reply_to_user_id": 94529945,
+		"in_reply_to_user_id_str": "94529945",
+		"in_reply_to_screen_name": "aardvarknsefce",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Making a difference✨Physio ✨Chair - Armed Forces Network @UHDBTrust ✨@ccsn_uk Trustee ✨@thecsp Professional Committee ✨@HLA_Int Scholar ✨#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2524,
+			"friends_count": 3954,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@aardvarknsefce @UniofNottingham @JonathanKBall Lots to learn from how JVK communicated science to the public."
+	},
+	{
+		"created_at": "Thu Dec 03 19:07:21 +0000 2020",
+		"id": 1334574966470275000,
+		"id_str": "1334574966470275074",
+		"full_text": "@VXGPhysio @mikechitty @AHPbookClub @carrie_biddle I will be getting involved @AHPbookClub ! \nChapter 1 ✅ really looking forward to reading more",
+		"truncated": false,
+		"display_text_range": [
+			51,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VXGPhysio",
+					"name": "Victoria G",
+					"id": 1300331249979011000,
+					"id_str": "1300331249979011077",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "mikechitty",
+					"name": "Mike Chitty",
+					"id": 21009225,
+					"id_str": "21009225",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "AHPbookClub",
+					"name": "AHPbookClub",
+					"id": 1333729451679621000,
+					"id_str": "1333729451679621120",
+					"indices": [
+						23,
+						35
+					]
+				},
+				{
+					"screen_name": "carrie_biddle",
+					"name": "Carrie Biddle",
+					"id": 3585922637,
+					"id_str": "3585922637",
+					"indices": [
+						36,
+						50
+					]
+				},
+				{
+					"screen_name": "AHPbookClub",
+					"name": "AHPbookClub",
+					"id": 1333729451679621000,
+					"id_str": "1333729451679621120",
+					"indices": [
+						78,
+						90
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1334518713136066600,
+		"in_reply_to_status_id_str": "1334518713136066560",
+		"in_reply_to_user_id": 1300331249979011000,
+		"in_reply_to_user_id_str": "1300331249979011077",
+		"in_reply_to_screen_name": "VXGPhysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Making a difference✨Physio ✨Chair - Armed Forces Network @UHDBTrust ✨@ccsn_uk Trustee ✨@thecsp Professional Committee ✨@HLA_Int Scholar ✨#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2524,
+			"friends_count": 3954,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@VXGPhysio @mikechitty @AHPbookClub @carrie_biddle I will be getting involved @AHPbookClub ! \nChapter 1 ✅ really looking forward to reading more"
+	},
+	{
+		"created_at": "Thu Dec 03 19:06:01 +0000 2020",
+		"id": 1334574630984687600,
+		"id_str": "1334574630984687618",
+		"full_text": "This ⬇️🤙 https://t.co/TFnoDzB4hB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TFnoDzB4hB",
+					"expanded_url": "https://twitter.com/ethicsinbricks/status/1334440986949324801",
+					"display_url": "twitter.com/ethicsinbricks…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Making a difference✨Physio ✨Chair - Armed Forces Network @UHDBTrust ✨@ccsn_uk Trustee ✨@thecsp Professional Committee ✨@HLA_Int Scholar ✨#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2524,
+			"friends_count": 3954,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1334440986949324800,
+		"quoted_status_id_str": "1334440986949324801",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TFnoDzB4hB",
+			"expanded": "https://twitter.com/ethicsinbricks/status/1334440986949324801",
+			"display": "twitter.com/ethicsinbricks…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 03 10:14:58 +0000 2020",
+			"id": 1334440986949324800,
+			"id_str": "1334440986949324801",
+			"full_text": "\"Waste no more time arguing about what a good person should be. Be one.\"\n- Marcus Aurelius https://t.co/Dw4xH9m8Li",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				90
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1334440932641476600,
+						"id_str": "1334440932641476609",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/EoTi9UPWEAEZcFU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoTi9UPWEAEZcFU.jpg",
+						"url": "https://t.co/Dw4xH9m8Li",
+						"display_url": "pic.twitter.com/Dw4xH9m8Li",
+						"expanded_url": "https://twitter.com/EthicsInBricks/status/1334440986949324801/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1334440932641476600,
+						"id_str": "1334440932641476609",
+						"indices": [
+							91,
+							114
+						],
+						"media_url": "http://pbs.twimg.com/media/EoTi9UPWEAEZcFU.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EoTi9UPWEAEZcFU.jpg",
+						"url": "https://t.co/Dw4xH9m8Li",
+						"display_url": "pic.twitter.com/Dw4xH9m8Li",
+						"expanded_url": "https://twitter.com/EthicsInBricks/status/1334440986949324801/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 879713840119861200,
+				"id_str": "879713840119861249",
+				"name": "Ethics in Bricks",
+				"screen_name": "EthicsInBricks",
+				"location": "Brick Lane",
+				"description": "🏆 Top 5 Online Philosophy Organization (https://t.co/Y487r9D946).\nAlso check out @econinbricks.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Y487r9D946",
+								"expanded_url": "http://tinyurl.com/top5eib",
+								"display_url": "tinyurl.com/top5eib",
+								"indices": [
+									40,
+									63
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 62563,
+				"friends_count": 100,
+				"listed_count": 430,
+				"created_at": "Tue Jun 27 14:51:38 +0000 2017",
+				"favourites_count": 11891,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4194,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1322846627355385856/CsBMDyDt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322846627355385856/CsBMDyDt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/879713840119861249/1572592914",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 197,
+			"favorite_count": 831,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This ⬇️🤙 https://t.co/TFnoDzB4hB"
+	},
+	{
+		"created_at": "Thu Dec 03 18:34:47 +0000 2020",
+		"id": 1334553211676536800,
+		"id_str": "1334566767692304385",
+		"full_text": "CSP Council has approved changes to the wording of the four pillars of physiotherapy practice. \n\nChair of Council @AlexMacKenzie11 introduces the updated language used to describe the pillars. Read more: https://t.co/XzC8M5HeQ6 https://t.co/JoJNUWlGaa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlexMacKenzie11",
+					"name": "Alex MacKenzie",
+					"id": 457442958,
+					"id_str": "457442958",
+					"indices": [
+						114,
+						130
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XzC8M5HeQ6",
+					"expanded_url": "https://bit.ly/37uAuvD",
+					"display_url": "bit.ly/37uAuvD",
+					"indices": [
+						204,
+						227
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1334509830061613000,
+					"id_str": "1334509830061613058",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1334509830061613058/img/p2ed_0X7MAEo4ZWo.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1334509830061613058/img/p2ed_0X7MAEo4ZWo.jpg",
+					"url": "https://t.co/JoJNUWlGaa",
+					"display_url": "pic.twitter.com/JoJNUWlGaa",
+					"expanded_url": "https://twitter.com/thecsp/status/1334553211676536835/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334509830061613000,
+					"id_str": "1334509830061613058",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/amplify_video_thumb/1334509830061613058/img/p2ed_0X7MAEo4ZWo.jpg",
+					"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1334509830061613058/img/p2ed_0X7MAEo4ZWo.jpg",
+					"url": "https://t.co/JoJNUWlGaa",
+					"display_url": "pic.twitter.com/JoJNUWlGaa",
+					"expanded_url": "https://twitter.com/thecsp/status/1334553211676536835/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 93200,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1334509830061613058/vid/640x360/Z4j2HEdoL3vYua8v.mp4?tag=13"
+							},
+							{
+								"bitrate": 288000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1334509830061613058/vid/480x270/9ckzhpVbxaqPX9rV.mp4?tag=13"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/amplify_video/1334509830061613058/vid/1280x720/2YH5LAUC01POBOok.mp4?tag=13"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/amplify_video/1334509830061613058/pl/43zF5Hd0a__dkGmo.m3u8?tag=13"
+							}
+						]
+					},
+					"additional_media_info": {
+						"title": "Four pillars of physiotherapy practice - Alex MacKenzie, CSP Chair",
+						"description": "Alex MacKenzie, Chair of CSP Council discusses the approved changes to the wording of the four pillars of physiotherapy practice, so that they reflect the profession’s contemporary practice.",
+						"call_to_actions": {
+							"visit_site": {
+								"url": "https://www.csp.org.uk/news/2020-12-02-terminology-four-pillars-updated"
+							}
+						},
+						"embeddable": true,
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 138098880,
+			"id_str": "138098880",
+			"name": "Chartered Society of Physiotherapy",
+			"screen_name": "thecsp",
+			"location": "United Kingdom",
+			"description": "Chartered Society of Physiotherapy (CSP) - the professional, educational and union body for 59,000 UK-chartered physiotherapists, students and support workers.",
+			"url": "https://t.co/0zvCGRCWPh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0zvCGRCWPh",
+							"expanded_url": "http://www.csp.org.uk",
+							"display_url": "csp.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55106,
+			"friends_count": 1362,
+			"listed_count": 346,
+			"created_at": "Wed Apr 28 16:27:18 +0000 2010",
+			"favourites_count": 5899,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14939,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E3DC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902851531388534785/RRRJKVa0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902851531388534785/RRRJKVa0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/138098880/1582703122",
+			"profile_link_color": "252673",
+			"profile_sidebar_border_color": "C9C9C9",
+			"profile_sidebar_fill_color": "E3E3E3",
+			"profile_text_color": "757575",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 29,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "CSP Council has approved changes to the wording of the four pillars of physiotherapy practice. \n\nChair of Council @AlexMacKenzie11 introduces the updated language used to describe the pillars. Read more: https://t.co/XzC8M5HeQ6 https://t.co/JoJNUWlGaa"
+	},
+	{
+		"created_at": "Thu Dec 03 14:53:10 +0000 2020",
+		"id": 1334510998250721300,
+		"id_str": "1334510998250721283",
+		"full_text": "Look what came in the post! 📬 Thank you @mikechitty much appreciated 👍#IntelligentKindness https://t.co/ym7F0GVlrz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "IntelligentKindness",
+					"indices": [
+						70,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mikechitty",
+					"name": "Mike Chitty",
+					"id": 21009225,
+					"id_str": "21009225",
+					"indices": [
+						40,
+						51
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1334510990495527000,
+					"id_str": "1334510990495526919",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EoUirOFXMAcS0nS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoUirOFXMAcS0nS.jpg",
+					"url": "https://t.co/ym7F0GVlrz",
+					"display_url": "pic.twitter.com/ym7F0GVlrz",
+					"expanded_url": "https://twitter.com/beardedPT/status/1334510998250721283/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1334510990495527000,
+					"id_str": "1334510990495526919",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/EoUirOFXMAcS0nS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EoUirOFXMAcS0nS.jpg",
+					"url": "https://t.co/ym7F0GVlrz",
+					"display_url": "pic.twitter.com/ym7F0GVlrz",
+					"expanded_url": "https://twitter.com/beardedPT/status/1334510998250721283/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Making a difference✨Physio ✨Chair - Armed Forces Network @UHDBTrust ✨@ccsn_uk Trustee ✨@thecsp Professional Committee ✨@HLA_Int Scholar ✨#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2524,
+			"friends_count": 3954,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Look what came in the post! 📬 Thank you @mikechitty much appreciated 👍#IntelligentKindness https://t.co/ym7F0GVlrz"
+	},
+	{
+		"created_at": "Thu Dec 03 14:18:41 +0000 2020",
+		"id": 1334502320579752000,
+		"id_str": "1334502320579751943",
+		"full_text": "@_JoeMiddleton I think so 👍😊",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_JoeMiddleton",
+					"name": "Joe Middleton",
+					"id": 731361288,
+					"id_str": "731361288",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1334485769688387600,
+		"in_reply_to_status_id_str": "1334485769688387585",
+		"in_reply_to_user_id": 731361288,
+		"in_reply_to_user_id_str": "731361288",
+		"in_reply_to_screen_name": "_JoeMiddleton",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Making a difference✨Physio ✨Chair - Armed Forces Network @UHDBTrust ✨@ccsn_uk Trustee ✨@thecsp Professional Committee ✨@HLA_Int Scholar ✨#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2524,
+			"friends_count": 3954,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6740,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@_JoeMiddleton I think so 👍😊"
+	},
+	{
 		"created_at": "Wed Dec 02 21:04:29 +0000 2020",
 		"id": 1334242055057510400,
 		"id_str": "1334242055057510404",
@@ -406,7 +1429,7 @@ Grailbird.data.tweets_2020_12 =
 			"created_at": "Wed Dec 02 18:24:40 +0000 2020",
 			"id": 1334201836992073700,
 			"id_str": "1334201836992073735",
-			"full_text": ".⁦@thecsp⁩ #CSPAGM big reveal by ⁦@AlexMacKenzie11⁩ - the revised language we will use to describe the pillars of physiotherapy https://t.co/sMrwujj5N7",
+			"full_text": ".@thecsp #CSPAGM big reveal by @AlexMacKenzie11 - the revised language we will use to describe the pillars of physiotherapy https://t.co/sMrwujj5N7",
 			"truncated": false,
 			"display_text_range": [
 				0,
