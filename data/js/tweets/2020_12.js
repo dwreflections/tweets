@@ -1,6 +1,757 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 07 15:29:50 +0000 2020",
+		"id": 1335969775307149300,
+		"id_str": "1335969775307149316",
+		"full_text": "@LukeBartPhysio Following this thread 🧵 👍",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LukeBartPhysio",
+					"name": "Luke Bartley",
+					"id": 806979340919566300,
+					"id_str": "806979340919566340",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1335964213823606800,
+		"in_reply_to_status_id_str": "1335964213823606788",
+		"in_reply_to_user_id": 806979340919566300,
+		"in_reply_to_user_id_str": "806979340919566340",
+		"in_reply_to_screen_name": "LukeBartPhysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Making a difference✨Physio ✨Chair - Armed Forces Network @UHDBTrust ✨@ccsn_uk Trustee ✨@thecsp Professional Committee ✨@HLA_Int Scholar ✨#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2537,
+			"friends_count": 3980,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LukeBartPhysio Following this thread 🧵 👍"
+	},
+	{
+		"created_at": "Mon Dec 07 15:10:31 +0000 2020",
+		"id": 1335964914754723800,
+		"id_str": "1335964914754723840",
+		"full_text": "@stuartgpalma Brilliant!",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stuartgpalma",
+					"name": "Stuart Palma",
+					"id": 468241231,
+					"id_str": "468241231",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1335941926512636000,
+		"in_reply_to_status_id_str": "1335941926512635904",
+		"in_reply_to_user_id": 468241231,
+		"in_reply_to_user_id_str": "468241231",
+		"in_reply_to_screen_name": "stuartgpalma",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Making a difference✨Physio ✨Chair - Armed Forces Network @UHDBTrust ✨@ccsn_uk Trustee ✨@thecsp Professional Committee ✨@HLA_Int Scholar ✨#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2537,
+			"friends_count": 3980,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@stuartgpalma Brilliant!"
+	},
+	{
+		"created_at": "Mon Dec 07 14:43:39 +0000 2020",
+		"id": 1335958154123817000,
+		"id_str": "1335958154123816965",
+		"full_text": "This ⬇️👍 https://t.co/sBrlRT62zC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sBrlRT62zC",
+					"expanded_url": "https://twitter.com/hrpphysio/status/1335957853874642952",
+					"display_url": "twitter.com/hrpphysio/stat…",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Making a difference✨Physio ✨Chair - Armed Forces Network @UHDBTrust ✨@ccsn_uk Trustee ✨@thecsp Professional Committee ✨@HLA_Int Scholar ✨#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2537,
+			"friends_count": 3980,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6755,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1335957853874643000,
+		"quoted_status_id_str": "1335957853874642952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sBrlRT62zC",
+			"expanded": "https://twitter.com/hrpphysio/status/1335957853874642952",
+			"display": "twitter.com/hrpphysio/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 07 14:42:27 +0000 2020",
+			"id": 1335957853874643000,
+			"id_str": "1335957853874642952",
+			"full_text": "Another cute Crit Care feels moment  🫁 ♥️  @RoyalLondonHosp #criticalcare #itu #covid #nhs #respphysio https://t.co/DoK0XtZW60",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				102
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "criticalcare",
+						"indices": [
+							60,
+							73
+						]
+					},
+					{
+						"text": "itu",
+						"indices": [
+							74,
+							78
+						]
+					},
+					{
+						"text": "covid",
+						"indices": [
+							79,
+							85
+						]
+					},
+					{
+						"text": "nhs",
+						"indices": [
+							86,
+							90
+						]
+					},
+					{
+						"text": "respphysio",
+						"indices": [
+							91,
+							102
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RoyalLondonHosp",
+						"name": "The Royal London Hospital",
+						"id": 4150991807,
+						"id_str": "4150991807",
+						"indices": [
+							43,
+							59
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1335615028028969000,
+						"id_str": "1335615028028968965",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/EokOyqZXEAUV_RN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EokOyqZXEAUV_RN.jpg",
+						"url": "https://t.co/DoK0XtZW60",
+						"display_url": "pic.twitter.com/DoK0XtZW60",
+						"expanded_url": "https://twitter.com/hrpphysio/status/1335957853874642952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1335615028028969000,
+						"id_str": "1335615028028968965",
+						"indices": [
+							103,
+							126
+						],
+						"media_url": "http://pbs.twimg.com/media/EokOyqZXEAUV_RN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EokOyqZXEAUV_RN.jpg",
+						"url": "https://t.co/DoK0XtZW60",
+						"display_url": "pic.twitter.com/DoK0XtZW60",
+						"expanded_url": "https://twitter.com/hrpphysio/status/1335957853874642952/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1015008804503806000,
+				"id_str": "1015008804503805953",
+				"name": "@hrpphysio",
+				"screen_name": "hrpphysio",
+				"location": "London, England",
+				"description": "respiratory physiotherapist @ royal london  🌸 respiratory medicine/crit care baby",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 527,
+				"friends_count": 283,
+				"listed_count": 0,
+				"created_at": "Thu Jul 05 23:05:31 +0000 2018",
+				"favourites_count": 2073,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 477,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1182232087413317632/tEimJOlO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1182232087413317632/tEimJOlO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1015008804503805953/1539609427",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 11,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This ⬇️👍 https://t.co/sBrlRT62zC"
+	},
+	{
+		"created_at": "Mon Dec 07 13:31:19 +0000 2020",
+		"id": 1335667870123036700,
+		"id_str": "1335939951549165568",
+		"full_text": "Here's what I learned from @Dr_PhilippaW on the HealthyDiscussions podcast.\n\nFor more insights check out the full podcast free at https://t.co/gPO2g90sa6\n\nThanks to @HLA_int for supporting!\n\n#podcast #leadership #growthmindset https://t.co/uJHa6aS0ZE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			226
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "podcast",
+					"indices": [
+						191,
+						199
+					]
+				},
+				{
+					"text": "leadership",
+					"indices": [
+						200,
+						211
+					]
+				},
+				{
+					"text": "growthmindset",
+					"indices": [
+						212,
+						226
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dr_PhilippaW",
+					"name": "Dr Philippa Whitford",
+					"id": 2932558313,
+					"id_str": "2932558313",
+					"indices": [
+						27,
+						40
+					]
+				},
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						165,
+						173
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gPO2g90sa6",
+					"expanded_url": "https://buff.ly/3ggaRTc",
+					"display_url": "buff.ly/3ggaRTc",
+					"indices": [
+						130,
+						153
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1335667762153345000,
+					"id_str": "1335667762153345025",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1335667762153345025/pu/img/w3YCp6XKdKFpaKhO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1335667762153345025/pu/img/w3YCp6XKdKFpaKhO.jpg",
+					"url": "https://t.co/uJHa6aS0ZE",
+					"display_url": "pic.twitter.com/uJHa6aS0ZE",
+					"expanded_url": "https://twitter.com/MontereyZack/status/1335667870123036672/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1335667762153345000,
+					"id_str": "1335667762153345025",
+					"indices": [
+						227,
+						250
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1335667762153345025/pu/img/w3YCp6XKdKFpaKhO.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1335667762153345025/pu/img/w3YCp6XKdKFpaKhO.jpg",
+					"url": "https://t.co/uJHa6aS0ZE",
+					"display_url": "pic.twitter.com/uJHa6aS0ZE",
+					"expanded_url": "https://twitter.com/MontereyZack/status/1335667870123036672/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 57200,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1335667762153345025/pu/pl/StjwxEYZgAXeycSj.m3u8?tag=10"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1335667762153345025/pu/vid/720x720/p5jMWLWHnJzA2MPI.mp4?tag=10"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1335667762153345025/pu/vid/320x320/r4SHdykK1JOAvBA5.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1335667762153345025/pu/vid/480x480/qYVI4sUsvaR9P3B5.mp4?tag=10"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 215079629,
+			"id_str": "215079629",
+			"name": "Zack",
+			"screen_name": "MontereyZack",
+			"location": "Edinburgh",
+			"description": "Zack of all trades. Master of some.\nJunior Doctor | Martial Artist | Debater & Critical Thinker",
+			"url": "https://t.co/ISWUg5CsDb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ISWUg5CsDb",
+							"expanded_url": "http://Zackhassan.com",
+							"display_url": "Zackhassan.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 140,
+			"friends_count": 313,
+			"listed_count": 2,
+			"created_at": "Fri Nov 12 23:20:01 +0000 2010",
+			"favourites_count": 150,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "10D14D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1311754559971303426/_qJvhJmC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311754559971303426/_qJvhJmC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/215079629/1589750113",
+			"profile_link_color": "981CEB",
+			"profile_sidebar_border_color": "A65110",
+			"profile_sidebar_fill_color": "D4730B",
+			"profile_text_color": "ABCF1B",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 23,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's what I learned from @Dr_PhilippaW on the HealthyDiscussions podcast.\n\nFor more insights check out the full podcast free at https://t.co/gPO2g90sa6\n\nThanks to @HLA_int for supporting!\n\n#podcast #leadership #growthmindset https://t.co/uJHa6aS0ZE"
+	},
+	{
 		"created_at": "Sat Dec 05 19:27:16 +0000 2020",
 		"id": 1335304754440925200,
 		"id_str": "1335304754440925184",
