@@ -1,6 +1,248 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 09 14:50:57 +0000 2020",
+		"id": 1336245499477811200,
+		"id_str": "1336684768625369090",
+		"full_text": "#clinicalacademics #nursing #studentnurse #mskuk #msk #HCPCregistered #AHPstudents #HCPC #NMC #internships Applications now open for AHP &amp; Nurse Internship Programme 2021. Get excellent research experience with leading UK universities. Please all re-tweet &amp; share\n@VersusArthritis https://t.co/PwKZ9nCMPV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			288
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "clinicalacademics",
+					"indices": [
+						0,
+						18
+					]
+				},
+				{
+					"text": "nursing",
+					"indices": [
+						19,
+						27
+					]
+				},
+				{
+					"text": "studentnurse",
+					"indices": [
+						28,
+						41
+					]
+				},
+				{
+					"text": "mskuk",
+					"indices": [
+						42,
+						48
+					]
+				},
+				{
+					"text": "msk",
+					"indices": [
+						49,
+						53
+					]
+				},
+				{
+					"text": "HCPCregistered",
+					"indices": [
+						54,
+						69
+					]
+				},
+				{
+					"text": "AHPstudents",
+					"indices": [
+						70,
+						82
+					]
+				},
+				{
+					"text": "HCPC",
+					"indices": [
+						83,
+						88
+					]
+				},
+				{
+					"text": "NMC",
+					"indices": [
+						89,
+						93
+					]
+				},
+				{
+					"text": "internships",
+					"indices": [
+						94,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VersusArthritis",
+					"name": "Versus Arthritis",
+					"id": 127505147,
+					"id_str": "127505147",
+					"indices": [
+						272,
+						288
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1336245424517222400,
+					"id_str": "1336245424517222401",
+					"indices": [
+						289,
+						312
+					],
+					"media_url": "http://pbs.twimg.com/media/EotMIkUXEAE4cyX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EotMIkUXEAE4cyX.jpg",
+					"url": "https://t.co/PwKZ9nCMPV",
+					"display_url": "pic.twitter.com/PwKZ9nCMPV",
+					"expanded_url": "https://twitter.com/MSKInterns/status/1336245499477811201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1449,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1336245424517222400,
+					"id_str": "1336245424517222401",
+					"indices": [
+						289,
+						312
+					],
+					"media_url": "http://pbs.twimg.com/media/EotMIkUXEAE4cyX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EotMIkUXEAE4cyX.jpg",
+					"url": "https://t.co/PwKZ9nCMPV",
+					"display_url": "pic.twitter.com/PwKZ9nCMPV",
+					"expanded_url": "https://twitter.com/MSKInterns/status/1336245499477811201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1449,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4873753217,
+			"id_str": "4873753217",
+			"name": "MSKInterns",
+			"screen_name": "MSKInterns",
+			"location": "",
+			"description": "The AHP & Nurse Internship Programme 2018-21 includes all HCPC registerable professions and Nurses (final year/recent graduates). Contact: m.l.fry@soton.ac.uk",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 422,
+			"friends_count": 68,
+			"listed_count": 4,
+			"created_at": "Wed Feb 03 11:35:58 +0000 2016",
+			"favourites_count": 279,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 349,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1075348636333150208/P0O9Ggcd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1075348636333150208/P0O9Ggcd_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#clinicalacademics #nursing #studentnurse #mskuk #msk #HCPCregistered #AHPstudents #HCPC #NMC #internships Applications now open for AHP &amp; Nurse Internship Programme 2021. Get excellent research experience with leading UK universities. Please all re-tweet &amp; share\n@VersusArthritis https://t.co/PwKZ9nCMPV"
+	},
+	{
 		"created_at": "Mon Dec 07 15:29:50 +0000 2020",
 		"id": 1335969775307149300,
 		"id_str": "1335969775307149316",
