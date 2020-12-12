@@ -1,6 +1,980 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 11 21:15:03 +0000 2020",
+		"id": 1337506205418270700,
+		"id_str": "1337506205418270730",
+		"full_text": "@karenmayphysio @IM_SportRehab Rest in peace",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "karenmayphysio",
+					"name": "Karen May",
+					"id": 2382738701,
+					"id_str": "2382738701",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "IM_SportRehab",
+					"name": "Isobel McAuliffe",
+					"id": 1083356192095768600,
+					"id_str": "1083356192095768576",
+					"indices": [
+						16,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1336643586201428000,
+		"in_reply_to_status_id_str": "1336643586201427969",
+		"in_reply_to_user_id": 2382738701,
+		"in_reply_to_user_id_str": "2382738701",
+		"in_reply_to_screen_name": "karenmayphysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Making a difference✨Physio ✨Chair - Armed Forces Network @UHDBTrust ✨@ccsn_uk Trustee ✨@thecsp Professional Committee ✨@HLA_Int Scholar ✨#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2548,
+			"friends_count": 3985,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6762,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@karenmayphysio @IM_SportRehab Rest in peace"
+	},
+	{
+		"created_at": "Fri Dec 11 21:02:44 +0000 2020",
+		"id": 1337503105085272000,
+		"id_str": "1337503105085272069",
+		"full_text": "@TPMPodcast @JackAChew @physiojack @PMFirstSteps @MSKReform @felicitythow @CombatSportPhys @rehabrich @markreidphysio @bell_bentley @PhysioMMD https://t.co/qRpzW38Z9D",
+		"truncated": false,
+		"display_text_range": [
+			142,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TPMPodcast",
+					"name": "Physio Matters",
+					"id": 1914280350,
+					"id_str": "1914280350",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "JackAChew",
+					"name": "Jack Chew",
+					"id": 868558446,
+					"id_str": "868558446",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "physiojack",
+					"name": "Rheumatology.Physio",
+					"id": 2317919398,
+					"id_str": "2317919398",
+					"indices": [
+						23,
+						34
+					]
+				},
+				{
+					"screen_name": "PMFirstSteps",
+					"name": "Physio Matters First Steps",
+					"id": 840861722286137300,
+					"id_str": "840861722286137349",
+					"indices": [
+						35,
+						48
+					]
+				},
+				{
+					"screen_name": "MSKReform",
+					"name": "MSKReform",
+					"id": 1173641102701793300,
+					"id_str": "1173641102701793280",
+					"indices": [
+						49,
+						59
+					]
+				},
+				{
+					"screen_name": "felicitythow",
+					"name": "Felicity Thow",
+					"id": 897464797,
+					"id_str": "897464797",
+					"indices": [
+						60,
+						73
+					]
+				},
+				{
+					"screen_name": "CombatSportPhys",
+					"name": "Rob Tyer",
+					"id": 1427250300,
+					"id_str": "1427250300",
+					"indices": [
+						74,
+						90
+					]
+				},
+				{
+					"screen_name": "rehabrich",
+					"name": "Rich Barnes",
+					"id": 821941266,
+					"id_str": "821941266",
+					"indices": [
+						91,
+						101
+					]
+				},
+				{
+					"screen_name": "markreidphysio",
+					"name": "Mark Reid",
+					"id": 2871415701,
+					"id_str": "2871415701",
+					"indices": [
+						102,
+						117
+					]
+				},
+				{
+					"screen_name": "bell_bentley",
+					"name": "Amelia",
+					"id": 469375429,
+					"id_str": "469375429",
+					"indices": [
+						118,
+						131
+					]
+				},
+				{
+					"screen_name": "PhysioMMD",
+					"name": "Matt Murray-Downing",
+					"id": 2917717145,
+					"id_str": "2917717145",
+					"indices": [
+						132,
+						142
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337503092930203600,
+					"id_str": "1337503092930203649",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eo_D-gQXUAEdU96.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eo_D-gQXUAEdU96.jpg",
+					"url": "https://t.co/qRpzW38Z9D",
+					"display_url": "pic.twitter.com/qRpzW38Z9D",
+					"expanded_url": "https://twitter.com/beardedPT/status/1337503105085272069/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 216,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 216,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 216,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337503092930203600,
+					"id_str": "1337503092930203649",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Eo_D-gQXUAEdU96.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Eo_D-gQXUAEdU96.jpg",
+					"url": "https://t.co/qRpzW38Z9D",
+					"display_url": "pic.twitter.com/qRpzW38Z9D",
+					"expanded_url": "https://twitter.com/beardedPT/status/1337503105085272069/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 216,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 216,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 216,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Eo_D-gQXUAEdU96.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1337476373607293000,
+		"in_reply_to_status_id_str": "1337476373607292928",
+		"in_reply_to_user_id": 1914280350,
+		"in_reply_to_user_id_str": "1914280350",
+		"in_reply_to_screen_name": "TPMPodcast",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Making a difference✨Physio ✨Chair - Armed Forces Network @UHDBTrust ✨@ccsn_uk Trustee ✨@thecsp Professional Committee ✨@HLA_Int Scholar ✨#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2548,
+			"friends_count": 3985,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6762,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@TPMPodcast @JackAChew @physiojack @PMFirstSteps @MSKReform @felicitythow @CombatSportPhys @rehabrich @markreidphysio @bell_bentley @PhysioMMD https://t.co/qRpzW38Z9D"
+	},
+	{
+		"created_at": "Fri Dec 11 18:18:33 +0000 2020",
+		"id": 1337461788565237800,
+		"id_str": "1337461788565237761",
+		"full_text": "@C_J_Hamilton @ArmyMedServices @UKArmyOfficer @ArmyScotland @djwalker587 @consultantPT @optimiseTFSP @PhysioMorag - Can you square Connor away 👍",
+		"truncated": false,
+		"display_text_range": [
+			60,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "C_J_Hamilton",
+					"name": "Connor Hamilton",
+					"id": 968501178135994400,
+					"id_str": "968501178135994368",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "ArmyMedServices",
+					"name": "#ArmyMedicalServices",
+					"id": 2481631777,
+					"id_str": "2481631777",
+					"indices": [
+						14,
+						30
+					]
+				},
+				{
+					"screen_name": "UKArmyOfficer",
+					"name": "British Army Officer Recruiting",
+					"id": 1164533743027200000,
+					"id_str": "1164533743027200000",
+					"indices": [
+						31,
+						45
+					]
+				},
+				{
+					"screen_name": "ArmyScotland",
+					"name": "The Army in Scotland",
+					"id": 1907811432,
+					"id_str": "1907811432",
+					"indices": [
+						46,
+						59
+					]
+				},
+				{
+					"screen_name": "djwalker587",
+					"name": "Dale Walker",
+					"id": 3300412427,
+					"id_str": "3300412427",
+					"indices": [
+						60,
+						72
+					]
+				},
+				{
+					"screen_name": "consultantPT",
+					"name": "Uzo Ehiogu",
+					"id": 1039521456,
+					"id_str": "1039521456",
+					"indices": [
+						73,
+						86
+					]
+				},
+				{
+					"screen_name": "optimiseTFSP",
+					"name": "The Field Sports Physio",
+					"id": 950415679257268200,
+					"id_str": "950415679257268224",
+					"indices": [
+						87,
+						100
+					]
+				},
+				{
+					"screen_name": "PhysioMorag",
+					"name": "Morag M-P",
+					"id": 373861581,
+					"id_str": "373861581",
+					"indices": [
+						101,
+						113
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1337371644420092000,
+		"in_reply_to_status_id_str": "1337371644420091904",
+		"in_reply_to_user_id": 968501178135994400,
+		"in_reply_to_user_id_str": "968501178135994368",
+		"in_reply_to_screen_name": "C_J_Hamilton",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Making a difference✨Physio ✨Chair - Armed Forces Network @UHDBTrust ✨@ccsn_uk Trustee ✨@thecsp Professional Committee ✨@HLA_Int Scholar ✨#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2548,
+			"friends_count": 3985,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6762,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@C_J_Hamilton @ArmyMedServices @UKArmyOfficer @ArmyScotland @djwalker587 @consultantPT @optimiseTFSP @PhysioMorag - Can you square Connor away 👍"
+	},
+	{
+		"created_at": "Fri Dec 11 15:49:41 +0000 2020",
+		"id": 1337424325415231500,
+		"id_str": "1337424325415231490",
+		"full_text": "This too... \nhttps://t.co/uj14vGUpP2 \nHT @martillu 👍",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "martillu",
+					"name": "Siull Люис Itram",
+					"id": 401585588,
+					"id_str": "401585588",
+					"indices": [
+						41,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/uj14vGUpP2",
+					"expanded_url": "http://www.philpapers.org",
+					"display_url": "philpapers.org",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1337422864899772400,
+		"in_reply_to_status_id_str": "1337422864899772418",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Making a difference✨Physio ✨Chair - Armed Forces Network @UHDBTrust ✨@ccsn_uk Trustee ✨@thecsp Professional Committee ✨@HLA_Int Scholar ✨#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2548,
+			"friends_count": 3985,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6762,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This too... \nhttps://t.co/uj14vGUpP2 \nHT @martillu 👍"
+	},
+	{
+		"created_at": "Fri Dec 11 15:43:53 +0000 2020",
+		"id": 1337422864899772400,
+		"id_str": "1337422864899772418",
+		"full_text": "Super resource, this! I Will be delving in after the new year ⬇️ #philosophy \n\n@Cause_Health @RogerKerry1 @MattLowPT https://t.co/nncWGUGUtV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "philosophy",
+					"indices": [
+						65,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Cause_Health",
+					"name": "CauseHealth",
+					"id": 4023138070,
+					"id_str": "4023138070",
+					"indices": [
+						79,
+						92
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						93,
+						105
+					]
+				},
+				{
+					"screen_name": "MattLowPT",
+					"name": "Matthew Low",
+					"id": 1105433442,
+					"id_str": "1105433442",
+					"indices": [
+						106,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nncWGUGUtV",
+					"expanded_url": "https://twitter.com/ethicsinbricks/status/1337084656399872000",
+					"display_url": "twitter.com/ethicsinbricks…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Making a difference✨Physio ✨Chair - Armed Forces Network @UHDBTrust ✨@ccsn_uk Trustee ✨@thecsp Professional Committee ✨@HLA_Int Scholar ✨#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2548,
+			"friends_count": 3985,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20309,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6762,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1337084656399872000,
+		"quoted_status_id_str": "1337084656399872000",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nncWGUGUtV",
+			"expanded": "https://twitter.com/ethicsinbricks/status/1337084656399872000",
+			"display": "twitter.com/ethicsinbricks…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 10 17:19:58 +0000 2020",
+			"id": 1337084656399872000,
+			"id_str": "1337084656399872000",
+			"full_text": "Wanna study philosophy?\n\nFind a long list of free online philosophy courses here: \nhttps://t.co/XN53mDAcNU https://t.co/uHspUxWzJH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				106
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/XN53mDAcNU",
+						"expanded_url": "https://www.openculture.com/philosophy_free_courses",
+						"display_url": "openculture.com/philosophy_fre…",
+						"indices": [
+							83,
+							106
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1337084523100708900,
+						"id_str": "1337084523100708867",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/Eo5HSiIXIAM6b3Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eo5HSiIXIAM6b3Z.jpg",
+						"url": "https://t.co/uHspUxWzJH",
+						"display_url": "pic.twitter.com/uHspUxWzJH",
+						"expanded_url": "https://twitter.com/EthicsInBricks/status/1337084656399872000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1337084523100708900,
+						"id_str": "1337084523100708867",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/Eo5HSiIXIAM6b3Z.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eo5HSiIXIAM6b3Z.jpg",
+						"url": "https://t.co/uHspUxWzJH",
+						"display_url": "pic.twitter.com/uHspUxWzJH",
+						"expanded_url": "https://twitter.com/EthicsInBricks/status/1337084656399872000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 879713840119861200,
+				"id_str": "879713840119861249",
+				"name": "Ethics in Bricks",
+				"screen_name": "EthicsInBricks",
+				"location": "Brick Lane",
+				"description": "🏆 Top 5 Online Philosophy Organization (https://t.co/Y487r9D946).\nAlso check out @econinbricks.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/Y487r9D946",
+								"expanded_url": "http://tinyurl.com/top5eib",
+								"display_url": "tinyurl.com/top5eib",
+								"indices": [
+									40,
+									63
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 63393,
+				"friends_count": 100,
+				"listed_count": 433,
+				"created_at": "Tue Jun 27 14:51:38 +0000 2017",
+				"favourites_count": 11963,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4233,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1322846627355385856/CsBMDyDt_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1322846627355385856/CsBMDyDt_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/879713840119861249/1572592914",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 110,
+			"favorite_count": 338,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Super resource, this! I Will be delving in after the new year ⬇️ #philosophy \n\n@Cause_Health @RogerKerry1 @MattLowPT https://t.co/nncWGUGUtV"
+	},
+	{
 		"created_at": "Wed Dec 09 14:50:57 +0000 2020",
 		"id": 1336245499477811200,
 		"id_str": "1336684768625369090",
