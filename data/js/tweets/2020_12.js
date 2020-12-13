@@ -1,6 +1,300 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Sat Dec 12 18:07:45 +0000 2020",
+		"id": 1337821456500224000,
+		"id_str": "1337821456500224002",
+		"full_text": "@JghPhysio @MRWPhysio @anna_turner_ Had that in my final placement! 🙄👍",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JghPhysio",
+					"name": "Jack Gladstone Holroyde 🏳️‍🌈🏳️‍⚧️✊🏽",
+					"id": 1046818903337422800,
+					"id_str": "1046818903337422849",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "MRWPhysio",
+					"name": "Matthew Wyatt",
+					"id": 863516326723301400,
+					"id_str": "863516326723301377",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "anna_turner_",
+					"name": "Anna Turner",
+					"id": 1054775821003620400,
+					"id_str": "1054775821003620352",
+					"indices": [
+						22,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1337821014546321400,
+		"in_reply_to_status_id_str": "1337821014546321409",
+		"in_reply_to_user_id": 1046818903337422800,
+		"in_reply_to_user_id_str": "1046818903337422849",
+		"in_reply_to_screen_name": "JghPhysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🎄🎅🏻",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Making a difference✨Physio ✨Chair - Armed Forces Network @UHDBTrust ✨@ccsn_uk Trustee ✨@thecsp Professional Committee ✨@HLA_Int Scholar ✨#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2553,
+			"friends_count": 3988,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JghPhysio @MRWPhysio @anna_turner_ Had that in my final placement! 🙄👍"
+	},
+	{
+		"created_at": "Sat Dec 12 13:28:42 +0000 2020",
+		"id": 1337751233638097000,
+		"id_str": "1337751233638096896",
+		"full_text": "@optimiseTFSP @PhysioMorag @C_J_Hamilton @ArmyMedServices @UKArmyOfficer @ArmyScotland @djwalker587 @consultantPT Nothing wrong with that! #passion \n\nLooks like your squared away @C_J_Hamilton ! Good luck 💪",
+		"truncated": false,
+		"display_text_range": [
+			114,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "passion",
+					"indices": [
+						139,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "optimiseTFSP",
+					"name": "The Field Sports Physio",
+					"id": 950415679257268200,
+					"id_str": "950415679257268224",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "PhysioMorag",
+					"name": "Morag M-P",
+					"id": 373861581,
+					"id_str": "373861581",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "C_J_Hamilton",
+					"name": "Connor Hamilton",
+					"id": 968501178135994400,
+					"id_str": "968501178135994368",
+					"indices": [
+						27,
+						40
+					]
+				},
+				{
+					"screen_name": "ArmyMedServices",
+					"name": "#ArmyMedicalServices",
+					"id": 2481631777,
+					"id_str": "2481631777",
+					"indices": [
+						41,
+						57
+					]
+				},
+				{
+					"screen_name": "UKArmyOfficer",
+					"name": "British Army Officer Recruiting",
+					"id": 1164533743027200000,
+					"id_str": "1164533743027200000",
+					"indices": [
+						58,
+						72
+					]
+				},
+				{
+					"screen_name": "ArmyScotland",
+					"name": "The Army in Scotland",
+					"id": 1907811432,
+					"id_str": "1907811432",
+					"indices": [
+						73,
+						86
+					]
+				},
+				{
+					"screen_name": "djwalker587",
+					"name": "Dale Walker",
+					"id": 3300412427,
+					"id_str": "3300412427",
+					"indices": [
+						87,
+						99
+					]
+				},
+				{
+					"screen_name": "consultantPT",
+					"name": "Uzo Ehiogu",
+					"id": 1039521456,
+					"id_str": "1039521456",
+					"indices": [
+						100,
+						113
+					]
+				},
+				{
+					"screen_name": "C_J_Hamilton",
+					"name": "Connor Hamilton",
+					"id": 968501178135994400,
+					"id_str": "968501178135994368",
+					"indices": [
+						179,
+						192
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1337742195072364500,
+		"in_reply_to_status_id_str": "1337742195072364545",
+		"in_reply_to_user_id": 950415679257268200,
+		"in_reply_to_user_id_str": "950415679257268224",
+		"in_reply_to_screen_name": "optimiseTFSP",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🎄🎅🏻",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Making a difference✨Physio ✨Chair - Armed Forces Network @UHDBTrust ✨@ccsn_uk Trustee ✨@thecsp Professional Committee ✨@HLA_Int Scholar ✨#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2553,
+			"friends_count": 3988,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6765,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@optimiseTFSP @PhysioMorag @C_J_Hamilton @ArmyMedServices @UKArmyOfficer @ArmyScotland @djwalker587 @consultantPT Nothing wrong with that! #passion \n\nLooks like your squared away @C_J_Hamilton ! Good luck 💪"
+	},
+	{
 		"created_at": "Fri Dec 11 21:15:03 +0000 2020",
 		"id": 1337506205418270700,
 		"id_str": "1337506205418270730",
