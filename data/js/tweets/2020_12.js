@@ -1,6 +1,294 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Mon Dec 14 17:13:31 +0000 2020",
+		"id": 1337808985093775400,
+		"id_str": "1338532584129781765",
+		"full_text": "Big plans in the making for the new year ⚡️#WeLeadNow https://t.co/B3Tt9obzk0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WeLeadNow",
+					"indices": [
+						43,
+						53
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1337808978148003800,
+					"id_str": "1337808978148003840",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EpDaLXfXEAA8JUW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EpDaLXfXEAA8JUW.jpg",
+					"url": "https://t.co/B3Tt9obzk0",
+					"display_url": "pic.twitter.com/B3Tt9obzk0",
+					"expanded_url": "https://twitter.com/LeadersNow_/status/1337808985093775365/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1337808978148003800,
+					"id_str": "1337808978148003840",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EpDaLXfXEAA8JUW.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EpDaLXfXEAA8JUW.jpg",
+					"url": "https://t.co/B3Tt9obzk0",
+					"display_url": "pic.twitter.com/B3Tt9obzk0",
+					"expanded_url": "https://twitter.com/LeadersNow_/status/1337808985093775365/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 270,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EpDaLXfXEAA8JUW.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1054369983365550100,
+			"id_str": "1054369983365550081",
+			"name": "Leaders Now Network ⚡️",
+			"screen_name": "LeadersNow_",
+			"location": "",
+			"description": "⚡️#LeadersNow ⚡️A community for Health Care Professionals whose interests and passions lie in leadership, quality improvement and innovation - #WeLeadNow",
+			"url": "https://t.co/rK9EibvMRM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rK9EibvMRM",
+							"expanded_url": "http://leaders-now.net",
+							"display_url": "leaders-now.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22,
+			"friends_count": 37,
+			"listed_count": 0,
+			"created_at": "Mon Oct 22 13:52:48 +0000 2018",
+			"favourites_count": 5,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 6,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1321898301441089537/JIZzlOpA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1321898301441089537/JIZzlOpA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1054369983365550081/1606423497",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Big plans in the making for the new year ⚡️#WeLeadNow https://t.co/B3Tt9obzk0"
+	},
+	{
+		"created_at": "Mon Dec 14 12:43:17 +0000 2020",
+		"id": 1338464578947182600,
+		"id_str": "1338464578947182592",
+		"full_text": "@adewagstaff They do occasionally check. My mate had a phone call asking how she knew me 🕵️‍♀️",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adewagstaff",
+					"name": "Ade Wagstaff Physio MACP",
+					"id": 972876836,
+					"id_str": "972876836",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1338462095554306000,
+		"in_reply_to_status_id_str": "1338462095554306048",
+		"in_reply_to_user_id": 972876836,
+		"in_reply_to_user_id_str": "972876836",
+		"in_reply_to_screen_name": "adewagstaff",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🎄🎅🏻",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Making a difference✨Physio ✨Chair - Armed Forces Network @UHDBTrust ✨@ccsn_uk Trustee ✨@thecsp Professional Committee ✨@HLA_Int Scholar ✨#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2553,
+			"friends_count": 3989,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20349,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6769,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@adewagstaff They do occasionally check. My mate had a phone call asking how she knew me 🕵️‍♀️"
+	},
+	{
 		"created_at": "Sun Dec 13 10:12:47 +0000 2020",
 		"id": 1338064315740459000,
 		"id_str": "1338064315740459008",
