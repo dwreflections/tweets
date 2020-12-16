@@ -1,6 +1,335 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 15 22:00:11 +0000 2020",
+		"id": 1338967113105596400,
+		"id_str": "1338967113105596416",
+		"full_text": "@amiedarby @gastro305 👏👏👏",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amiedarby",
+					"name": "Amie Darby",
+					"id": 256003238,
+					"id_str": "256003238",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "gastro305",
+					"name": "Gastro305",
+					"id": 1046816421815173100,
+					"id_str": "1046816421815173120",
+					"indices": [
+						11,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1338895733567664000,
+		"in_reply_to_status_id_str": "1338895733567664128",
+		"in_reply_to_user_id": 256003238,
+		"in_reply_to_user_id_str": "256003238",
+		"in_reply_to_screen_name": "amiedarby",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🎄🎅🏻",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Making a difference✨Physio ✨Chair - Armed Forces Network @UHDBTrust ✨@ccsn_uk Trustee ✨@thecsp Professional Committee ✨@HLA_Int Scholar ✨#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2556,
+			"friends_count": 3989,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20364,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@amiedarby @gastro305 👏👏👏"
+	},
+	{
+		"created_at": "Tue Dec 15 17:46:24 +0000 2020",
+		"id": 1338903247067738000,
+		"id_str": "1338903247067738113",
+		"full_text": "@AdamMeakins @mccauleyandrew @adamdobson123 Spot on! You &amp; @erikMeira definitely switched me onto this on your course . Unfortunately, not been able to put any of into practice as I haven’t been rotated into MSK yet but absolutely see the clinical utility... \n\nActual got me thinking can we use this on the ward... 🤔",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			320
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdamMeakins",
+					"name": "The Sp🎅🏻rts Physio",
+					"id": 20363222,
+					"id_str": "20363222",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "mccauleyandrew",
+					"name": "ProCare Sports Med",
+					"id": 757559395,
+					"id_str": "757559395",
+					"indices": [
+						13,
+						28
+					]
+				},
+				{
+					"screen_name": "adamdobson123",
+					"name": "Adam Dobson",
+					"id": 702962141800878100,
+					"id_str": "702962141800878081",
+					"indices": [
+						29,
+						43
+					]
+				},
+				{
+					"screen_name": "erikMeira",
+					"name": "Erik Meira",
+					"id": 286220143,
+					"id_str": "286220143",
+					"indices": [
+						63,
+						73
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1338887988563075000,
+		"in_reply_to_status_id_str": "1338887988563075079",
+		"in_reply_to_user_id": 20363222,
+		"in_reply_to_user_id_str": "20363222",
+		"in_reply_to_screen_name": "AdamMeakins",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🎄🎅🏻",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Making a difference✨Physio ✨Chair - Armed Forces Network @UHDBTrust ✨@ccsn_uk Trustee ✨@thecsp Professional Committee ✨@HLA_Int Scholar ✨#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2556,
+			"friends_count": 3989,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20364,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AdamMeakins @mccauleyandrew @adamdobson123 Spot on! You &amp; @erikMeira definitely switched me onto this on your course . Unfortunately, not been able to put any of into practice as I haven’t been rotated into MSK yet but absolutely see the clinical utility... \n\nActual got me thinking can we use this on the ward... 🤔"
+	},
+	{
+		"created_at": "Tue Dec 15 09:51:22 +0000 2020",
+		"id": 1338783699459072000,
+		"id_str": "1338783699459072000",
+		"full_text": "@cspbame @G_e_o_r_g_i_a_1",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "cspbame",
+					"name": "CSP BAME Network",
+					"id": 1278338601982529500,
+					"id_str": "1278338601982529536",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "G_e_o_r_g_i_a_1",
+					"name": "countryptstudent",
+					"id": 596698312,
+					"id_str": "596698312",
+					"indices": [
+						9,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1338778892031692800,
+		"in_reply_to_status_id_str": "1338778892031692801",
+		"in_reply_to_user_id": 1278338601982529500,
+		"in_reply_to_user_id_str": "1278338601982529536",
+		"in_reply_to_screen_name": "cspbame",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🎄🎅🏻",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Making a difference✨Physio ✨Chair - Armed Forces Network @UHDBTrust ✨@ccsn_uk Trustee ✨@thecsp Professional Committee ✨@HLA_Int Scholar ✨#150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2556,
+			"friends_count": 3989,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20364,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@cspbame @G_e_o_r_g_i_a_1"
+	},
+	{
 		"created_at": "Mon Dec 14 17:13:31 +0000 2020",
 		"id": 1337808985093775400,
 		"id_str": "1338532584129781765",
@@ -199,7 +528,7 @@ Grailbird.data.tweets_2020_12 =
 		"created_at": "Mon Dec 14 12:43:17 +0000 2020",
 		"id": 1338464578947182600,
 		"id_str": "1338464578947182592",
-		"full_text": "@adewagstaff They do occasionally check. My mate had a phone call asking how she knew me 🕵️‍♀️",
+		"full_text": "@adewagstaff They do occasionally check. My mate had a phone call asking how she knew me 🕵️♀️",
 		"truncated": false,
 		"display_text_range": [
 			13,
@@ -286,7 +615,7 @@ Grailbird.data.tweets_2020_12 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@adewagstaff They do occasionally check. My mate had a phone call asking how she knew me 🕵️‍♀️"
+		"text": "@adewagstaff They do occasionally check. My mate had a phone call asking how she knew me 🕵️♀️"
 	},
 	{
 		"created_at": "Sun Dec 13 10:12:47 +0000 2020",
