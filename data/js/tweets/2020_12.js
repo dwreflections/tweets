@@ -1,6 +1,368 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 17 15:58:01 +0000 2020",
+		"id": 1339600747193716700,
+		"id_str": "1339600747193716743",
+		"full_text": "Get on it #ChangeAgents ⬇️\nSee you in Feb 👋 https://t.co/1sfQ9igWv4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ChangeAgents",
+					"indices": [
+						10,
+						23
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1sfQ9igWv4",
+					"expanded_url": "https://twitter.com/gatesphysio/status/1339542674521677824",
+					"display_url": "twitter.com/gatesphysio/st…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🎄🎅🏻",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio 🎄Chair - Armed Forces Network @UHDBTrust 🎄@ccsn_uk Trustee 🎄@thecsp Professional Committee 🎄@HLA_Int Scholar 🎄#150Leaders 🎄#Leadership #Innovation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2556,
+			"friends_count": 3995,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1339542674521677800,
+		"quoted_status_id_str": "1339542674521677824",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1sfQ9igWv4",
+			"expanded": "https://twitter.com/gatesphysio/status/1339542674521677824",
+			"display": "twitter.com/gatesphysio/st…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Dec 17 12:07:15 +0000 2020",
+			"id": 1339542674521677800,
+			"id_str": "1339542674521677824",
+			"full_text": "In anticipation of @Sch4Change FREE course in Feb 2021 with @helenbevan and @KathrynPerera I will be putting resources + reflections here 👇\n\n#S4CA  #E4QI #QIhour #FabChange21 #ServiceImprovement \n\nThread 🧵",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				205
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "S4CA",
+						"indices": [
+							141,
+							146
+						]
+					},
+					{
+						"text": "E4QI",
+						"indices": [
+							148,
+							153
+						]
+					},
+					{
+						"text": "QIhour",
+						"indices": [
+							154,
+							161
+						]
+					},
+					{
+						"text": "FabChange21",
+						"indices": [
+							162,
+							174
+						]
+					},
+					{
+						"text": "ServiceImprovement",
+						"indices": [
+							175,
+							194
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Sch4Change",
+						"name": "School4ChangeAgents",
+						"id": 2880813537,
+						"id_str": "2880813537",
+						"indices": [
+							19,
+							30
+						]
+					},
+					{
+						"screen_name": "helenbevan",
+						"name": "Helen Bevan",
+						"id": 190960735,
+						"id_str": "190960735",
+						"indices": [
+							60,
+							71
+						]
+					},
+					{
+						"screen_name": "KathrynPerera",
+						"name": "Kathryn Perera",
+						"id": 100246273,
+						"id_str": "100246273",
+						"indices": [
+							76,
+							90
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 451401278,
+				"id_str": "451401278",
+				"name": "John Gates",
+				"screen_name": "GatesPhysio",
+				"location": "Nottingham",
+				"description": "Team Lead Physio @Connect_Health_🐝. @Exerciseworks Member #MovementForMovement .@ParadanceUK Classifier. Cyclist.Views my own. He/him🏳️‍🌈.",
+				"url": "https://t.co/Q4HTTTP8w6",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Q4HTTTP8w6",
+								"expanded_url": "http://www.exercise-works.org",
+								"display_url": "exercise-works.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2597,
+				"friends_count": 4998,
+				"listed_count": 18,
+				"created_at": "Sat Dec 31 11:51:53 +0000 2011",
+				"favourites_count": 26241,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 9507,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1332971212910325762/STGHcMJI_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332971212910325762/STGHcMJI_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/451401278/1606639976",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Get on it #ChangeAgents ⬇️\nSee you in Feb 👋 https://t.co/1sfQ9igWv4"
+	},
+	{
+		"created_at": "Thu Dec 17 13:50:48 +0000 2020",
+		"id": 1339568731811418000,
+		"id_str": "1339568731811418120",
+		"full_text": "@suaupdates Merry Christmas all! 🎅🏻",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "suaupdates",
+					"name": "SUAcademy",
+					"id": 2396702695,
+					"id_str": "2396702695",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1339548741339115500,
+		"in_reply_to_status_id_str": "1339548741339115520",
+		"in_reply_to_user_id": 2396702695,
+		"in_reply_to_user_id_str": "2396702695",
+		"in_reply_to_screen_name": "suaupdates",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🎄🎅🏻",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio 🎄Chair - Armed Forces Network @UHDBTrust 🎄@ccsn_uk Trustee 🎄@thecsp Professional Committee 🎄@HLA_Int Scholar 🎄#150Leaders 🎄#Leadership #Innovation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2556,
+			"friends_count": 3995,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20383,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6776,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "et",
+		"text": "@suaupdates Merry Christmas all! 🎅🏻"
+	},
+	{
 		"created_at": "Tue Dec 15 22:00:11 +0000 2020",
 		"id": 1338967113105596400,
 		"id_str": "1338967113105596416",
