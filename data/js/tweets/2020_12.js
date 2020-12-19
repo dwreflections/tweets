@@ -1,6 +1,196 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Fri Dec 18 18:55:38 +0000 2020",
+		"id": 1340007836127027200,
+		"id_str": "1340007836127027200",
+		"full_text": "Great to be back @UHDBTrust after a fairly lengthy recovery from #COVID\n\nFeeling very tired but great to back with the @UHDB_DME therapy team.😴\n\nMerry Christmas all 🎄🎅🏻 https://t.co/38PRWHAWdM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "COVID",
+					"indices": [
+						65,
+						71
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"screen_name": "UHDB_DME",
+					"name": "DME",
+					"id": 3110661832,
+					"id_str": "3110661832",
+					"indices": [
+						119,
+						128
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1340007830347255800,
+					"id_str": "1340007830347255813",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EpiqBaQXEAU0Zlk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpiqBaQXEAU0Zlk.jpg",
+					"url": "https://t.co/38PRWHAWdM",
+					"display_url": "pic.twitter.com/38PRWHAWdM",
+					"expanded_url": "https://twitter.com/beardedPT/status/1340007836127027200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1340007830347255800,
+					"id_str": "1340007830347255813",
+					"indices": [
+						169,
+						192
+					],
+					"media_url": "http://pbs.twimg.com/media/EpiqBaQXEAU0Zlk.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EpiqBaQXEAU0Zlk.jpg",
+					"url": "https://t.co/38PRWHAWdM",
+					"display_url": "pic.twitter.com/38PRWHAWdM",
+					"expanded_url": "https://twitter.com/beardedPT/status/1340007836127027200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🎄🎅🏻",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio 🎄Chair - Armed Forces Network @UHDBTrust 🎄@ccsn_uk Trustee 🎄@thecsp Professional Committee 🎄@HLA_Int Scholar 🎄#150Leaders 🎄#Leadership #Innovation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2556,
+			"friends_count": 3996,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20386,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great to be back @UHDBTrust after a fairly lengthy recovery from #COVID\n\nFeeling very tired but great to back with the @UHDB_DME therapy team.😴\n\nMerry Christmas all 🎄🎅🏻 https://t.co/38PRWHAWdM"
+	},
+	{
 		"created_at": "Thu Dec 17 15:58:01 +0000 2020",
 		"id": 1339600747193716700,
 		"id_str": "1339600747193716743",
@@ -195,7 +385,7 @@ Grailbird.data.tweets_2020_12 =
 				"name": "John Gates",
 				"screen_name": "GatesPhysio",
 				"location": "Nottingham",
-				"description": "Team Lead Physio @Connect_Health_🐝. @Exerciseworks Member #MovementForMovement .@ParadanceUK Classifier. Cyclist.Views my own. He/him🏳️‍🌈.",
+				"description": "Team Lead Physio @Connect_Health_🐝. @Exerciseworks Member #MovementForMovement .@ParadanceUK Classifier. Cyclist.Views my own. He/him🏳️🌈.",
 				"url": "https://t.co/Q4HTTTP8w6",
 				"entities": {
 					"url": {
