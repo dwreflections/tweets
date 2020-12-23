@@ -1,6 +1,149 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 22 22:58:28 +0000 2020",
+		"id": 1341518497524887600,
+		"id_str": "1341518497524887554",
+		"full_text": "@Retlouping @UoS_Physio @EliTipneyPT @rob_chiro @DrJN_SportsMed @GatesPhysio",
+		"truncated": false,
+		"display_text_range": [
+			64,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Retlouping",
+					"name": "🚴🏻‍♂️ ɹǝʇlnoԀ pıʌɐᗡ 🚴🏻‍♂️ 𝔹𝕖 𝕜𝕚𝕟𝕕 🇫🇷",
+					"id": 3246132338,
+					"id_str": "3246132338",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "UoS_Physio",
+					"name": "University of Salford Physiotherapy",
+					"id": 1272888059416252400,
+					"id_str": "1272888059416252419",
+					"indices": [
+						12,
+						23
+					]
+				},
+				{
+					"screen_name": "EliTipneyPT",
+					"name": "Eli Tipney",
+					"id": 1089249726,
+					"id_str": "1089249726",
+					"indices": [
+						24,
+						36
+					]
+				},
+				{
+					"screen_name": "rob_chiro",
+					"name": "Rob Beaven",
+					"id": 778360681,
+					"id_str": "778360681",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"screen_name": "DrJN_SportsMed",
+					"name": "James Noake",
+					"id": 435151854,
+					"id_str": "435151854",
+					"indices": [
+						48,
+						63
+					]
+				},
+				{
+					"screen_name": "GatesPhysio",
+					"name": "John Gates",
+					"id": 451401278,
+					"id_str": "451401278",
+					"indices": [
+						64,
+						76
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1341407542296129500,
+		"in_reply_to_status_id_str": "1341407542296129541",
+		"in_reply_to_user_id": 3246132338,
+		"in_reply_to_user_id_str": "3246132338",
+		"in_reply_to_screen_name": "Retlouping",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🎄🎅🏻",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio 🎄Chair - Armed Forces Network @UHDBTrust 🎄@ccsn_uk Trustee 🎄@thecsp Professional Committee 🎄@HLA_Int Scholar 🎄#150Leaders 🎄#Leadership #Innovation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2562,
+			"friends_count": 4008,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20452,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6796,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@Retlouping @UoS_Physio @EliTipneyPT @rob_chiro @DrJN_SportsMed @GatesPhysio"
+	},
+	{
 		"created_at": "Mon Dec 21 21:13:35 +0000 2020",
 		"id": 1341129713897664500,
 		"id_str": "1341129713897664512",
