@@ -1,6 +1,732 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Wed Dec 23 18:39:56 +0000 2020",
+		"id": 1341815820779991000,
+		"id_str": "1341815820779991043",
+		"full_text": "@gaswomancometh @MichaelJAllcock I know what you mean.. I have broken my second lid. Hmmm... time for a new pen? 🤔",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gaswomancometh",
+					"name": "Rosie C",
+					"id": 19064638,
+					"id_str": "19064638",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "MichaelJAllcock",
+					"name": "Michael James Allcock 🏳️‍🌈",
+					"id": 936463849909256200,
+					"id_str": "936463849909256193",
+					"indices": [
+						16,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1341813883128963000,
+		"in_reply_to_status_id_str": "1341813883128963075",
+		"in_reply_to_user_id": 19064638,
+		"in_reply_to_user_id_str": "19064638",
+		"in_reply_to_screen_name": "gaswomancometh",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🎄🎅🏻",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio 🎄Chair - Armed Forces Network @UHDBTrust 🎄@ccsn_uk Trustee 🎄@thecsp Professional Committee 🎄@HLA_Int Scholar 🎄#150Leaders 🎄#Leadership #Innovation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2562,
+			"friends_count": 4009,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20465,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gaswomancometh @MichaelJAllcock I know what you mean.. I have broken my second lid. Hmmm... time for a new pen? 🤔"
+	},
+	{
+		"created_at": "Wed Dec 23 17:33:54 +0000 2020",
+		"id": 1341799203203330000,
+		"id_str": "1341799203203330050",
+		"full_text": "@gaswomancometh @MichaelJAllcock Yess!!!! No TWSBI though I can see? 🖊 \n#FountainPenGang",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FountainPenGang",
+					"indices": [
+						72,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gaswomancometh",
+					"name": "Rosie C",
+					"id": 19064638,
+					"id_str": "19064638",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "MichaelJAllcock",
+					"name": "Michael James Allcock 🏳️‍🌈",
+					"id": 936463849909256200,
+					"id_str": "936463849909256193",
+					"indices": [
+						16,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1341726679799132200,
+		"in_reply_to_status_id_str": "1341726679799132160",
+		"in_reply_to_user_id": 19064638,
+		"in_reply_to_user_id_str": "19064638",
+		"in_reply_to_screen_name": "gaswomancometh",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🎄🎅🏻",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio 🎄Chair - Armed Forces Network @UHDBTrust 🎄@ccsn_uk Trustee 🎄@thecsp Professional Committee 🎄@HLA_Int Scholar 🎄#150Leaders 🎄#Leadership #Innovation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2562,
+			"friends_count": 4009,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20465,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gaswomancometh @MichaelJAllcock Yess!!!! No TWSBI though I can see? 🖊 \n#FountainPenGang"
+	},
+	{
+		"created_at": "Wed Dec 23 10:55:43 +0000 2020",
+		"id": 1341698997279453200,
+		"id_str": "1341698997279453184",
+		"full_text": "@neiljlangridge @MattLowPT Looking forward to this being published 👍",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "neiljlangridge",
+					"name": "Neil Langridge",
+					"id": 1890279319,
+					"id_str": "1890279319",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "MattLowPT",
+					"name": "Matthew Low",
+					"id": 1105433442,
+					"id_str": "1105433442",
+					"indices": [
+						16,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1341686573650374700,
+		"in_reply_to_status_id_str": "1341686573650374656",
+		"in_reply_to_user_id": 1890279319,
+		"in_reply_to_user_id_str": "1890279319",
+		"in_reply_to_screen_name": "neiljlangridge",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🎄🎅🏻",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio 🎄Chair - Armed Forces Network @UHDBTrust 🎄@ccsn_uk Trustee 🎄@thecsp Professional Committee 🎄@HLA_Int Scholar 🎄#150Leaders 🎄#Leadership #Innovation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2562,
+			"friends_count": 4009,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20465,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@neiljlangridge @MattLowPT Looking forward to this being published 👍"
+	},
+	{
+		"created_at": "Wed Dec 23 10:54:54 +0000 2020",
+		"id": 1341698795114008600,
+		"id_str": "1341698795114008577",
+		"full_text": "Check this out! \nGreat festive  work @bell_bentley !! ⬇️👍🧑‍🎄 https://t.co/klACccf7SW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bell_bentley",
+					"name": "Amelia",
+					"id": 469375429,
+					"id_str": "469375429",
+					"indices": [
+						37,
+						50
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/klACccf7SW",
+					"expanded_url": "https://twitter.com/strokerehab2/status/1338887958410223616",
+					"display_url": "twitter.com/strokerehab2/s…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🎄🎅🏻",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio 🎄Chair - Armed Forces Network @UHDBTrust 🎄@ccsn_uk Trustee 🎄@thecsp Professional Committee 🎄@HLA_Int Scholar 🎄#150Leaders 🎄#Leadership #Innovation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2562,
+			"friends_count": 4009,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20465,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6798,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1338887958410223600,
+		"quoted_status_id_str": "1338887958410223616",
+		"quoted_status_permalink": {
+			"url": "https://t.co/klACccf7SW",
+			"expanded": "https://twitter.com/strokerehab2/status/1338887958410223616",
+			"display": "twitter.com/strokerehab2/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 15 16:45:39 +0000 2020",
+			"id": 1338887958410223600,
+			"id_str": "1338887958410223616",
+			"full_text": "It's beginning to feel festive on the ward now with  trees courtesy of @BandQ and thanks to our lovely student physio Amelia who has designed this wipeable Christmas poster 🎅🌲🎅 @sarahlh35 @AlisonCoy4 https://t.co/7SAPfoMTUm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				199
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BandQ",
+						"name": "B&Q",
+						"id": 110647540,
+						"id_str": "110647540",
+						"indices": [
+							71,
+							77
+						]
+					},
+					{
+						"screen_name": "sarahlh35",
+						"name": "sarah houghton",
+						"id": 428547282,
+						"id_str": "428547282",
+						"indices": [
+							177,
+							187
+						]
+					},
+					{
+						"screen_name": "AlisonCoy4",
+						"name": "Alison Coy",
+						"id": 912770427189186600,
+						"id_str": "912770427189186560",
+						"indices": [
+							188,
+							199
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1338887944065736700,
+						"id_str": "1338887944065736709",
+						"indices": [
+							200,
+							223
+						],
+						"media_url": "http://pbs.twimg.com/media/EpSvfcwXYAULJxL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpSvfcwXYAULJxL.jpg",
+						"url": "https://t.co/7SAPfoMTUm",
+						"display_url": "pic.twitter.com/7SAPfoMTUm",
+						"expanded_url": "https://twitter.com/Strokerehab2/status/1338887958410223616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1338887944065736700,
+						"id_str": "1338887944065736709",
+						"indices": [
+							200,
+							223
+						],
+						"media_url": "http://pbs.twimg.com/media/EpSvfcwXYAULJxL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpSvfcwXYAULJxL.jpg",
+						"url": "https://t.co/7SAPfoMTUm",
+						"display_url": "pic.twitter.com/7SAPfoMTUm",
+						"expanded_url": "https://twitter.com/Strokerehab2/status/1338887958410223616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1338887948482338800,
+						"id_str": "1338887948482338820",
+						"indices": [
+							200,
+							223
+						],
+						"media_url": "http://pbs.twimg.com/media/EpSvftNXYAQ8pSK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpSvftNXYAQ8pSK.jpg",
+						"url": "https://t.co/7SAPfoMTUm",
+						"display_url": "pic.twitter.com/7SAPfoMTUm",
+						"expanded_url": "https://twitter.com/Strokerehab2/status/1338887958410223616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 827,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1063,
+								"h": 1543,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 468,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1338887952357798000,
+						"id_str": "1338887952357797890",
+						"indices": [
+							200,
+							223
+						],
+						"media_url": "http://pbs.twimg.com/media/EpSvf7pWMAIKib9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpSvf7pWMAIKib9.jpg",
+						"url": "https://t.co/7SAPfoMTUm",
+						"display_url": "pic.twitter.com/7SAPfoMTUm",
+						"expanded_url": "https://twitter.com/Strokerehab2/status/1338887958410223616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1338887955704897500,
+						"id_str": "1338887955704897537",
+						"indices": [
+							200,
+							223
+						],
+						"media_url": "http://pbs.twimg.com/media/EpSvgIHW4AE4jFA.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EpSvgIHW4AE4jFA.jpg",
+						"url": "https://t.co/7SAPfoMTUm",
+						"display_url": "pic.twitter.com/7SAPfoMTUm",
+						"expanded_url": "https://twitter.com/Strokerehab2/status/1338887958410223616/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1008991178803511300,
+				"id_str": "1008991178803511298",
+				"name": "Trafford Stroke Rehab Unit",
+				"screen_name": "Strokerehab2",
+				"location": " ",
+				"description": "Providing high quality stroke rehabilitation at Trafford. All photographs and videos shared with permission.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 312,
+				"friends_count": 40,
+				"listed_count": 2,
+				"created_at": "Tue Jun 19 08:33:37 +0000 2018",
+				"favourites_count": 234,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 137,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1009075843644248064/5YPi6jhb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009075843644248064/5YPi6jhb_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check this out! \nGreat festive  work @bell_bentley !! ⬇️👍🧑‍🎄 https://t.co/klACccf7SW"
+	},
+	{
 		"created_at": "Tue Dec 22 22:58:28 +0000 2020",
 		"id": 1341518497524887600,
 		"id_str": "1341518497524887554",
@@ -16,7 +742,7 @@ Grailbird.data.tweets_2020_12 =
 			"user_mentions": [
 				{
 					"screen_name": "Retlouping",
-					"name": "🚴🏻‍♂️ ɹǝʇlnoԀ pıʌɐᗡ 🚴🏻‍♂️ 𝔹𝕖 𝕜𝕚𝕟𝕕 🇫🇷",
+					"name": "🚴🏻♂️ ɹǝʇlnoԀ pıʌɐᗡ 🚴🏻♂️ 𝔹𝕖 𝕜𝕚𝕟𝕕 🇫🇷",
 					"id": 3246132338,
 					"id_str": "3246132338",
 					"indices": [
