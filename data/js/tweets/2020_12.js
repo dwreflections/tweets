@@ -1,6 +1,473 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Thu Dec 24 19:59:24 +0000 2020",
+		"id": 1342198207640645600,
+		"id_str": "1342198207640645635",
+		"full_text": "Merry Christmas you lovely lot 🎄🎅🏻🎁",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🎄🎅🏻",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio 🎄Chair - Armed Forces Network @UHDBTrust 🎄@ccsn_uk Trustee 🎄@thecsp Professional Committee 🎄@HLA_Int Scholar 🎄#150Leaders 🎄#Leadership #Innovation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2564,
+			"friends_count": 4010,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20473,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Merry Christmas you lovely lot 🎄🎅🏻🎁"
+	},
+	{
+		"created_at": "Thu Dec 24 18:02:17 +0000 2020",
+		"id": 1342143490193555500,
+		"id_str": "1342168735570919425",
+		"full_text": "Emerging AHP Leaders: Free Christmas Present ⬇️\n\nPodcasts on changing the culture of conversation about race &amp; ethnicity\n\n@RafiahB \n@abbap\n@GBaliah\n@AcquireSLT \n@JemimaKA \n@teohjouyin \n@beardedPT \n@LecturerMish \n@tolanAHP\n@CSullivanCSP \n@DrMerielNorris \n@NaomiMcVey\n@claireangus76 https://t.co/gaFty9YoFX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RafiahB",
+					"name": "Rafiah",
+					"id": 88696407,
+					"id_str": "88696407",
+					"indices": [
+						126,
+						134
+					]
+				},
+				{
+					"screen_name": "abbap",
+					"name": "Adine_A",
+					"id": 21797502,
+					"id_str": "21797502",
+					"indices": [
+						136,
+						142
+					]
+				},
+				{
+					"screen_name": "GBaliah",
+					"name": "Ganesh Baliah",
+					"id": 889482593095254000,
+					"id_str": "889482593095254016",
+					"indices": [
+						143,
+						151
+					]
+				},
+				{
+					"screen_name": "AcquireSLT",
+					"name": "Dr Sharon Adjei-Nicol",
+					"id": 718199645449633800,
+					"id_str": "718199645449633793",
+					"indices": [
+						152,
+						163
+					]
+				},
+				{
+					"screen_name": "JemimaKA",
+					"name": "Jemima",
+					"id": 908690089072611300,
+					"id_str": "908690089072611328",
+					"indices": [
+						165,
+						174
+					]
+				},
+				{
+					"screen_name": "teohjouyin",
+					"name": "Teoh Jou Yin",
+					"id": 68645567,
+					"id_str": "68645567",
+					"indices": [
+						176,
+						187
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams 🎄🎅🏻",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						189,
+						199
+					]
+				},
+				{
+					"screen_name": "LecturerMish",
+					"name": "LecturerMish🕷🇬🇧🏳️‍🌈🇪🇺💙 🌺 She/Her",
+					"id": 808695746035908600,
+					"id_str": "808695746035908608",
+					"indices": [
+						201,
+						214
+					]
+				},
+				{
+					"screen_name": "tolanAHP",
+					"name": "Steve Tolan",
+					"id": 1550254940,
+					"id_str": "1550254940",
+					"indices": [
+						216,
+						225
+					]
+				},
+				{
+					"screen_name": "CSullivanCSP",
+					"name": "Claire Sullivan",
+					"id": 2435127626,
+					"id_str": "2435127626",
+					"indices": [
+						226,
+						239
+					]
+				},
+				{
+					"screen_name": "DrMerielNorris",
+					"name": "MN",
+					"id": 1924571047,
+					"id_str": "1924571047",
+					"indices": [
+						241,
+						256
+					]
+				},
+				{
+					"screen_name": "NaomiMcVey",
+					"name": "Naomi McVey 🐝",
+					"id": 197141049,
+					"id_str": "197141049",
+					"indices": [
+						258,
+						269
+					]
+				},
+				{
+					"screen_name": "claireangus76",
+					"name": "ClaireA",
+					"id": 593664230,
+					"id_str": "593664230",
+					"indices": [
+						270,
+						284
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gaFty9YoFX",
+					"expanded_url": "https://twitter.com/ahpleader/status/1292020147667046400",
+					"display_url": "twitter.com/ahpleader/stat…",
+					"indices": [
+						285,
+						308
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 107548705,
+			"id_str": "107548705",
+			"name": "Rachael Moses",
+			"screen_name": "AHPLeader",
+			"location": "London, England",
+			"description": "Ass Director Rehab & Therapy @RBandH, Consultant Physio, @BTSRespiratory President Elect, CSPCouncil @thoraxBMJ, @MedicalAidPal, @csplgbtqia, 🏳️‍🌈She/Hers",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17062,
+			"friends_count": 1752,
+			"listed_count": 62,
+			"created_at": "Fri Jan 22 23:15:52 +0000 2010",
+			"favourites_count": 21044,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 16220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334276999309889546/gaaSYxlf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334276999309889546/gaaSYxlf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/107548705/1493115352",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01c7ed8caf11e8b2",
+			"url": "https://api.twitter.com/1.1/geo/id/01c7ed8caf11e8b2.json",
+			"place_type": "city",
+			"name": "Kensington",
+			"full_name": "Kensington, London",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.2285894,
+							51.4772246
+						],
+						[
+							-0.1497908,
+							51.4772246
+						],
+						[
+							-0.1497908,
+							51.5303477
+						],
+						[
+							-0.2285894,
+							51.5303477
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1292020147667046400,
+		"quoted_status_id_str": "1292020147667046400",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gaFty9YoFX",
+			"expanded": "https://twitter.com/ahpleader/status/1292020147667046400",
+			"display": "twitter.com/ahpleader/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Aug 08 08:49:42 +0000 2020",
+			"id": 1292020147667046400,
+			"id_str": "1292020147667046400",
+			"full_text": "Emerging leaders Podcasts\n\nChanging the culture of conversation of conversation about race &amp; ethnicity\n\nVideos on YouTube\n\nEmerging Leaders Part 1 https://t.co/BBTEUOKKrL\n \nEmerging Leaders Part 2 https://t.co/DXwIhD9WWs\n \nEmerging Leaders Part 3 https://t.co/rIYbcs4z8K\n \n@WeAHPs",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WeAHPs",
+						"name": "WeAHPs 💙",
+						"id": 2364573882,
+						"id_str": "2364573882",
+						"indices": [
+							277,
+							284
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/BBTEUOKKrL",
+						"expanded_url": "https://youtu.be/ADvJQM7i28E",
+						"display_url": "youtu.be/ADvJQM7i28E",
+						"indices": [
+							151,
+							174
+						]
+					},
+					{
+						"url": "https://t.co/DXwIhD9WWs",
+						"expanded_url": "https://youtu.be/3MInvqIX2Cc",
+						"display_url": "youtu.be/3MInvqIX2Cc",
+						"indices": [
+							201,
+							224
+						]
+					},
+					{
+						"url": "https://t.co/rIYbcs4z8K",
+						"expanded_url": "https://youtu.be/jYPtsDrIt_4",
+						"display_url": "youtu.be/jYPtsDrIt_4",
+						"indices": [
+							251,
+							274
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 107548705,
+				"id_str": "107548705",
+				"name": "Rachael Moses",
+				"screen_name": "AHPLeader",
+				"location": "London, England",
+				"description": "Ass Director Rehab & Therapy @RBandH, Consultant Physio, @BTSRespiratory President Elect, CSPCouncil @thoraxBMJ, @MedicalAidPal, @csplgbtqia, 🏳️‍🌈She/Hers",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17062,
+				"friends_count": 1752,
+				"listed_count": 62,
+				"created_at": "Fri Jan 22 23:15:52 +0000 2010",
+				"favourites_count": 21044,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 16220,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1334276999309889546/gaaSYxlf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334276999309889546/gaaSYxlf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/107548705/1493115352",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Emerging AHP Leaders: Free Christmas Present ⬇️\n\nPodcasts on changing the culture of conversation about race &amp; ethnicity\n\n@RafiahB \n@abbap\n@GBaliah\n@AcquireSLT \n@JemimaKA \n@teohjouyin \n@beardedPT \n@LecturerMish \n@tolanAHP\n@CSullivanCSP \n@DrMerielNorris \n@NaomiMcVey\n@claireangus76 https://t.co/gaFty9YoFX"
+	},
+	{
 		"created_at": "Wed Dec 23 18:39:56 +0000 2020",
 		"id": 1341815820779991000,
 		"id_str": "1341815820779991043",
@@ -26,7 +493,7 @@ Grailbird.data.tweets_2020_12 =
 				},
 				{
 					"screen_name": "MichaelJAllcock",
-					"name": "Michael James Allcock 🏳️‍🌈",
+					"name": "Michael James Allcock 🏳️🌈",
 					"id": 936463849909256200,
 					"id_str": "936463849909256193",
 					"indices": [
@@ -137,7 +604,7 @@ Grailbird.data.tweets_2020_12 =
 				},
 				{
 					"screen_name": "MichaelJAllcock",
-					"name": "Michael James Allcock 🏳️‍🌈",
+					"name": "Michael James Allcock 🏳️🌈",
 					"id": 936463849909256200,
 					"id_str": "936463849909256193",
 					"indices": [
@@ -321,7 +788,7 @@ Grailbird.data.tweets_2020_12 =
 		"created_at": "Wed Dec 23 10:54:54 +0000 2020",
 		"id": 1341698795114008600,
 		"id_str": "1341698795114008577",
-		"full_text": "Check this out! \nGreat festive  work @bell_bentley !! ⬇️👍🧑‍🎄 https://t.co/klACccf7SW",
+		"full_text": "Check this out! \nGreat festive  work @bell_bentley !! ⬇️👍🧑🎄 https://t.co/klACccf7SW",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -724,7 +1191,7 @@ Grailbird.data.tweets_2020_12 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Check this out! \nGreat festive  work @bell_bentley !! ⬇️👍🧑‍🎄 https://t.co/klACccf7SW"
+		"text": "Check this out! \nGreat festive  work @bell_bentley !! ⬇️👍🧑🎄 https://t.co/klACccf7SW"
 	},
 	{
 		"created_at": "Tue Dec 22 22:58:28 +0000 2020",
