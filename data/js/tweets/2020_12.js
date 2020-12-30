@@ -1,6 +1,250 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 29 19:07:58 +0000 2020",
+		"id": 1343997204923633700,
+		"id_str": "1343997204923633665",
+		"full_text": "@lawro28 @WillJMoule @tomgoom @theEndurancePT @Sports_Pod Fair one. I’m no expert in running/shoes hence tagged in the above. I’m sure they’ll have blog/podscasts etc on the topic.\n\nVery recent on thread on a similar question though: https://t.co/XZA65vRFQs",
+		"truncated": false,
+		"display_text_range": [
+			58,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lawro28",
+					"name": "Lawro",
+					"id": 146907370,
+					"id_str": "146907370",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "WillJMoule",
+					"name": "Will",
+					"id": 1056987959059202000,
+					"id_str": "1056987959059202048",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"screen_name": "tomgoom",
+					"name": "RunningPhysio",
+					"id": 365600467,
+					"id_str": "365600467",
+					"indices": [
+						21,
+						29
+					]
+				},
+				{
+					"screen_name": "theEndurancePT",
+					"name": "The Endurance Physio",
+					"id": 3319174982,
+					"id_str": "3319174982",
+					"indices": [
+						30,
+						45
+					]
+				},
+				{
+					"screen_name": "Sports_Pod",
+					"name": "Sports Podiatrist",
+					"id": 37896297,
+					"id_str": "37896297",
+					"indices": [
+						46,
+						57
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/XZA65vRFQs",
+					"expanded_url": "https://twitter.com/52marathonman/status/1343129843605659649?s=21",
+					"display_url": "twitter.com/52marathonman/…",
+					"indices": [
+						234,
+						257
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1343995223106592800,
+		"in_reply_to_status_id_str": "1343995223106592770",
+		"in_reply_to_user_id": 146907370,
+		"in_reply_to_user_id_str": "146907370",
+		"in_reply_to_screen_name": "lawro28",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🎄🎅🏻",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio 🎄Chair - Armed Forces Network @UHDBTrust 🎄@ccsn_uk Trustee 🎄@thecsp Professional Committee 🎄@HLA_Int Scholar 🎄#150Leaders 🎄#Leadership #Innovation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2564,
+			"friends_count": 3998,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20492,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6803,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1343129843605659600,
+		"quoted_status_id_str": "1343129843605659649",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XZA65vRFQs",
+			"expanded": "https://twitter.com/52marathonman/status/1343129843605659649?s=21",
+			"display": "twitter.com/52marathonman/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Dec 27 09:41:23 +0000 2020",
+			"id": 1343129843605659600,
+			"id_str": "1343129843605659649",
+			"full_text": "Seeing LOADS of people giving advice is ‘definitely get your gait analysed and get properly fitter’ for running shoes.\n\nIs that *really* necessary? Or do people just overthink? Maybe I’m lucky but I haven’t had any shoes fitted since I was 5 and mum took me to Clark’s.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				269
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 102109992,
+				"id_str": "102109992",
+				"name": "Kevin Betts",
+				"screen_name": "52marathonman",
+				"location": "Worthing, Sussex",
+				"description": "52 Marathons in 2011 and Ran from Paris to London in 2012 for @Rethink_. #nostigma Wannabe sub 3 hour marathon runner. Goal setter and encourager of others",
+				"url": "http://t.co/ThCRRS60Wa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ThCRRS60Wa",
+								"expanded_url": "http://www.honestfitness.co.uk",
+								"display_url": "honestfitness.co.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2033,
+				"friends_count": 925,
+				"listed_count": 61,
+				"created_at": "Tue Jan 05 17:06:15 +0000 2010",
+				"favourites_count": 4785,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 26977,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/640597838829912065/JEe7LlTg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/640597838829912065/JEe7LlTg_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 49,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@lawro28 @WillJMoule @tomgoom @theEndurancePT @Sports_Pod Fair one. I’m no expert in running/shoes hence tagged in the above. I’m sure they’ll have blog/podscasts etc on the topic.\n\nVery recent on thread on a similar question though: https://t.co/XZA65vRFQs"
+	},
+	{
 		"created_at": "Thu Dec 24 19:59:24 +0000 2020",
 		"id": 1342198207640645600,
 		"id_str": "1342198207640645635",
@@ -168,7 +412,7 @@ Grailbird.data.tweets_2020_12 =
 				},
 				{
 					"screen_name": "LecturerMish",
-					"name": "LecturerMish🕷🇬🇧🏳️‍🌈🇪🇺💙 🌺 She/Her",
+					"name": "LecturerMish🕷🇬🇧🏳️🌈🇪🇺💙 🌺 She/Her",
 					"id": 808695746035908600,
 					"id_str": "808695746035908608",
 					"indices": [
@@ -251,7 +495,7 @@ Grailbird.data.tweets_2020_12 =
 			"name": "Rachael Moses",
 			"screen_name": "AHPLeader",
 			"location": "London, England",
-			"description": "Ass Director Rehab & Therapy @RBandH, Consultant Physio, @BTSRespiratory President Elect, CSPCouncil @thoraxBMJ, @MedicalAidPal, @csplgbtqia, 🏳️‍🌈She/Hers",
+			"description": "Ass Director Rehab & Therapy @RBandH, Consultant Physio, @BTSRespiratory President Elect, CSPCouncil @thoraxBMJ, @MedicalAidPal, @csplgbtqia, 🏳️🌈She/Hers",
 			"url": null,
 			"entities": {
 				"description": {
@@ -405,7 +649,7 @@ Grailbird.data.tweets_2020_12 =
 				"name": "Rachael Moses",
 				"screen_name": "AHPLeader",
 				"location": "London, England",
-				"description": "Ass Director Rehab & Therapy @RBandH, Consultant Physio, @BTSRespiratory President Elect, CSPCouncil @thoraxBMJ, @MedicalAidPal, @csplgbtqia, 🏳️‍🌈She/Hers",
+				"description": "Ass Director Rehab & Therapy @RBandH, Consultant Physio, @BTSRespiratory President Elect, CSPCouncil @thoraxBMJ, @MedicalAidPal, @csplgbtqia, 🏳️🌈She/Hers",
 				"url": null,
 				"entities": {
 					"description": {
