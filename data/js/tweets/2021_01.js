@@ -1,6 +1,109 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 09 13:02:04 +0000 2021",
+		"id": 1347891389191827500,
+		"id_str": "1347891389191827456",
+		"full_text": "@WhoseShoes @CapacityforJoy I absolutely wouldn’t be able to concentrate. \nI used the strategy to get through my assignments at university though. I used Be Focused on my Mac but a timer in a web tab would do! \n\nIt definitely helps though 👍",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WhoseShoes",
+					"name": "Gill Phillips",
+					"id": 154169277,
+					"id_str": "154169277",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "CapacityforJoy",
+					"name": "Helen Calvert",
+					"id": 2613308108,
+					"id_str": "2613308108",
+					"indices": [
+						12,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1347879172136382500,
+		"in_reply_to_status_id_str": "1347879172136382466",
+		"in_reply_to_user_id": 154169277,
+		"in_reply_to_user_id_str": "154169277",
+		"in_reply_to_screen_name": "WhoseShoes",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio I Chair - Armed Forces Network @UHDBTrust I @ccsn_uk Trustee I @thecsp Professional Committee I @HLA_Int Scholar | #150Leaders #Leadership #Innovation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2576,
+			"friends_count": 4005,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20621,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6826,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@WhoseShoes @CapacityforJoy I absolutely wouldn’t be able to concentrate. \nI used the strategy to get through my assignments at university though. I used Be Focused on my Mac but a timer in a web tab would do! \n\nIt definitely helps though 👍"
+	},
+	{
 		"created_at": "Fri Jan 08 19:24:38 +0000 2021",
 		"id": 1347625278621814800,
 		"id_str": "1347625278621814785",
