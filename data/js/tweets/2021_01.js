@@ -1,6 +1,530 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 10 21:37:14 +0000 2021",
+		"id": 1348383423560380400,
+		"id_str": "1348383423560380417",
+		"full_text": "@South7372 I occasionally get to read your notes from HOOH when reviewing a patient the next day 👀👍\n\nWhat you do is far from what we traditionally think as “physio”.\nTake it easy, Nick.",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "South7372",
+					"name": "Nick 💙",
+					"id": 765870819385966600,
+					"id_str": "765870819385966593",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1348379391156486100,
+		"in_reply_to_status_id_str": "1348379391156486144",
+		"in_reply_to_user_id": 765870819385966600,
+		"in_reply_to_user_id_str": "765870819385966593",
+		"in_reply_to_screen_name": "South7372",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio I Chair - Armed Forces Network @UHDBTrust I @ccsn_uk Trustee I @thecsp Professional Committee I @HLA_Int Scholar | #150Leaders #Leadership #Innovation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2582,
+			"friends_count": 4007,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@South7372 I occasionally get to read your notes from HOOH when reviewing a patient the next day 👀👍\n\nWhat you do is far from what we traditionally think as “physio”.\nTake it easy, Nick."
+	},
+	{
+		"created_at": "Sun Jan 10 20:55:54 +0000 2021",
+		"id": 1348373021027946500,
+		"id_str": "1348373021027946499",
+		"full_text": "🔗 More resources here: https://t.co/0FIWzkIAT2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0FIWzkIAT2",
+					"expanded_url": "https://oxfordmedicine.com/page/999",
+					"display_url": "oxfordmedicine.com/page/999",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1348235328725917700,
+		"in_reply_to_status_id_str": "1348235328725917696",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio I Chair - Armed Forces Network @UHDBTrust I @ccsn_uk Trustee I @thecsp Professional Committee I @HLA_Int Scholar | #150Leaders #Leadership #Innovation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2582,
+			"friends_count": 4007,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🔗 More resources here: https://t.co/0FIWzkIAT2"
+	},
+	{
+		"created_at": "Sun Jan 10 20:22:42 +0000 2021",
+		"id": 1348364667136200700,
+		"id_str": "1348364667136200705",
+		"full_text": "This ticks so many boxes: #Bowie , leadership, community organising, Marshall Ganz ✅⬇️\n\n@150Leaders @Kennedy_School #HLA_20 https://t.co/pCpdAXbUJs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Bowie",
+					"indices": [
+						26,
+						32
+					]
+				},
+				{
+					"text": "HLA_20",
+					"indices": [
+						116,
+						123
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "150Leaders",
+					"name": "#150Leaders",
+					"id": 1139187039151280100,
+					"id_str": "1139187039151280128",
+					"indices": [
+						88,
+						99
+					]
+				},
+				{
+					"screen_name": "Kennedy_School",
+					"name": "Harvard Kennedy School",
+					"id": 19037859,
+					"id_str": "19037859",
+					"indices": [
+						100,
+						115
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pCpdAXbUJs",
+					"expanded_url": "https://twitter.com/heatherhenry4/status/1348276616762445825",
+					"display_url": "twitter.com/heatherhenry4/…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio I Chair - Armed Forces Network @UHDBTrust I @ccsn_uk Trustee I @thecsp Professional Committee I @HLA_Int Scholar | #150Leaders #Leadership #Innovation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2582,
+			"friends_count": 4007,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20632,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1348276616762445800,
+		"quoted_status_id_str": "1348276616762445825",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pCpdAXbUJs",
+			"expanded": "https://twitter.com/heatherhenry4/status/1348276616762445825",
+			"display": "twitter.com/heatherhenry4/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jan 10 14:32:49 +0000 2021",
+			"id": 1348276616762445800,
+			"id_str": "1348276616762445825",
+			"full_text": "It's the 5yr anniversary of #DavidBowie 's  death. Here's an exercise I wrote for NHS Institute 10 yrs ago illustrating community organising principles using 'A Space Oddity' (hum as you watch..) @WeStudentNurse @SWANSLA https://t.co/MRLqYIWxKS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				220
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DavidBowie",
+						"indices": [
+							28,
+							39
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "WeStudentNurse",
+						"name": "WeStudentNurses 💙",
+						"id": 939235274554560500,
+						"id_str": "939235274554560512",
+						"indices": [
+							196,
+							211
+						]
+					},
+					{
+						"screen_name": "SWANSLA",
+						"name": "studentleadershipacademy",
+						"id": 1054772522955214800,
+						"id_str": "1054772522955214853",
+						"indices": [
+							212,
+							220
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1348273149582975000,
+						"id_str": "1348273149582974979",
+						"indices": [
+							221,
+							244
+						],
+						"media_url": "http://pbs.twimg.com/media/ErYHST0XIAMAkpL.png",
+						"media_url_https": "https://pbs.twimg.com/media/ErYHST0XIAMAkpL.png",
+						"url": "https://t.co/MRLqYIWxKS",
+						"display_url": "pic.twitter.com/MRLqYIWxKS",
+						"expanded_url": "https://twitter.com/HeatherHenry4/status/1348276616762445825/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1348273149582975000,
+						"id_str": "1348273149582974979",
+						"indices": [
+							221,
+							244
+						],
+						"media_url": "http://pbs.twimg.com/media/ErYHST0XIAMAkpL.png",
+						"media_url_https": "https://pbs.twimg.com/media/ErYHST0XIAMAkpL.png",
+						"url": "https://t.co/MRLqYIWxKS",
+						"display_url": "pic.twitter.com/MRLqYIWxKS",
+						"expanded_url": "https://twitter.com/HeatherHenry4/status/1348276616762445825/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 341060423,
+				"id_str": "341060423",
+				"name": "✨Heather Henry RN QN MBA",
+				"screen_name": "HeatherHenry4",
+				"location": "Manchester UK",
+				"description": "Queens Nurse & entrepreneur. Founder @BreathChamps & @BreathStars. Specialist #AssetBasedNursing & social innovation. Writing a book on leadership for StNs",
+				"url": "https://t.co/v6ECmJOg8C",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/v6ECmJOg8C",
+								"expanded_url": "https://www.linkedin.com/in/heatherlhenry/",
+								"display_url": "linkedin.com/in/heatherlhen…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4522,
+				"friends_count": 4979,
+				"listed_count": 96,
+				"created_at": "Sat Jul 23 18:49:19 +0000 2011",
+				"favourites_count": 2806,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 17511,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1038882913511776257/5iqvdIB3_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1038882913511776257/5iqvdIB3_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/341060423/1592157457",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This ticks so many boxes: #Bowie , leadership, community organising, Marshall Ganz ✅⬇️\n\n@150Leaders @Kennedy_School #HLA_20 https://t.co/pCpdAXbUJs"
+	},
+	{
 		"created_at": "Sat Jan 09 13:02:04 +0000 2021",
 		"id": 1347891389191827500,
 		"id_str": "1347891389191827456",
