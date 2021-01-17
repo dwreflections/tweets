@@ -1,6 +1,775 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 16 20:58:31 +0000 2021",
+		"id": 1350548007830347800,
+		"id_str": "1350548007830347776",
+		"full_text": "@colmankanPT Yup 👸",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "colmankanPT",
+					"name": "Colman Kan",
+					"id": 1024844579370033200,
+					"id_str": "1024844579370033157",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1350538252269346800,
+		"in_reply_to_status_id_str": "1350538252269346827",
+		"in_reply_to_user_id": 1024844579370033200,
+		"in_reply_to_user_id_str": "1024844579370033157",
+		"in_reply_to_screen_name": "colmankanPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio I Chair - Armed Forces Network @UHDBTrust I @ccsn_uk Trustee I @thecsp Professional Committee I @HLA_Int Scholar | #150Leaders #Leadership #Innovation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2593,
+			"friends_count": 4029,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@colmankanPT Yup 👸"
+	},
+	{
+		"created_at": "Sat Jan 16 18:22:44 +0000 2021",
+		"id": 1350508804945944600,
+		"id_str": "1350508804945944582",
+		"full_text": "@adamdobson123 @OnlinePhysios @Retlouping @karenlitzyNYC @TheresaMarkoPT @MMitchellPCS @LisaVanHoosePT @fyzio4u @MikeMakher @Farmer_MindBody @SandyHiltonPT @MaxiMiciak @Jerry_DurhamPT @jptlowy @sassistheword @DrBartacus @01sth02 @BeccaBrass @DrMStiegler @NadiaJamilMD @thejourneymate @OTirmizi @RealJesseLuke @StressHoop @DrSandman11 @Blitz_y @LISAMACNCHEESE @devrajoyPT @tracyablake @innerchildca @adiemusfree @SarahHaagPT @avigotsky @neuroconscience @head_like_egg @taylor_eckel @jonvan87 @hallmarkchannel @YusraIftikhar @anesha_walcott @Tayo_Akinboboye @EfosaGuobadia @_Dawkinsss @hmathew30 @PTAli1 @CarolynBMaloney @Abby_NYC (1) David Williams, Physio, Midlands \n(2) Oxo cubes are perfectly fine as a snack... \n(3) @GatesPhysio @DMGPhysio @AmberRosePhysio",
+		"truncated": false,
+		"display_text_range": [
+			629,
+			759
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adamdobson123",
+					"name": "Adam Dobson",
+					"id": 702962141800878100,
+					"id_str": "702962141800878081",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "OnlinePhysios",
+					"name": "Evie - PhysiosOnline",
+					"id": 1253417613675294700,
+					"id_str": "1253417613675294721",
+					"indices": [
+						15,
+						29
+					]
+				},
+				{
+					"screen_name": "Retlouping",
+					"name": "🚴🏻‍♂️ ɹǝʇlnoԀ pıʌɐᗡ 🚴🏻‍♂️ 𝔹𝕖 𝕜𝕚𝕟𝕕 😷",
+					"id": 3246132338,
+					"id_str": "3246132338",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"screen_name": "karenlitzyNYC",
+					"name": "Dr. Karen Litzy, PT, DPT 🏃🔊",
+					"id": 209860926,
+					"id_str": "209860926",
+					"indices": [
+						42,
+						56
+					]
+				},
+				{
+					"screen_name": "TheresaMarkoPT",
+					"name": "Dr. Theresa Marko, DPT, OCS",
+					"id": 51521484,
+					"id_str": "51521484",
+					"indices": [
+						57,
+						72
+					]
+				},
+				{
+					"screen_name": "MMitchellPCS",
+					"name": "Mica (Me-ka) Mitchell",
+					"id": 942080414843359200,
+					"id_str": "942080414843359233",
+					"indices": [
+						73,
+						86
+					]
+				},
+				{
+					"screen_name": "LisaVanHoosePT",
+					"name": "Dr. LVH_UJIMA",
+					"id": 346854774,
+					"id_str": "346854774",
+					"indices": [
+						87,
+						102
+					]
+				},
+				{
+					"screen_name": "fyzio4u",
+					"name": "Dr Monique J Caruth, DPT",
+					"id": 36150464,
+					"id_str": "36150464",
+					"indices": [
+						103,
+						111
+					]
+				},
+				{
+					"screen_name": "MikeMakher",
+					"name": "Mike Makher🌚🦉",
+					"id": 700581917096173600,
+					"id_str": "700581917096173572",
+					"indices": [
+						112,
+						123
+					]
+				},
+				{
+					"screen_name": "Farmer_MindBody",
+					"name": "Dr. Melissa Farmer",
+					"id": 3160218343,
+					"id_str": "3160218343",
+					"indices": [
+						124,
+						140
+					]
+				},
+				{
+					"screen_name": "SandyHiltonPT",
+					"name": "Dr. Sandy Hilton",
+					"id": 124352777,
+					"id_str": "124352777",
+					"indices": [
+						141,
+						155
+					]
+				},
+				{
+					"screen_name": "MaxiMiciak",
+					"name": "Dr. Maxi Miciak",
+					"id": 552760250,
+					"id_str": "552760250",
+					"indices": [
+						156,
+						167
+					]
+				},
+				{
+					"screen_name": "Jerry_DurhamPT",
+					"name": "Jerry Durham",
+					"id": 19120080,
+					"id_str": "19120080",
+					"indices": [
+						168,
+						183
+					]
+				},
+				{
+					"screen_name": "jptlowy",
+					"name": "Jamie “YO-Semite” 🌶 ✊🏿BLM",
+					"id": 2380632522,
+					"id_str": "2380632522",
+					"indices": [
+						184,
+						192
+					]
+				},
+				{
+					"screen_name": "sassistheword",
+					"name": "gaslawsandpropofol🔥",
+					"id": 391403694,
+					"id_str": "391403694",
+					"indices": [
+						193,
+						207
+					]
+				},
+				{
+					"screen_name": "DrBartacus",
+					"name": "Shamwell",
+					"id": 714250479593631700,
+					"id_str": "714250479593631744",
+					"indices": [
+						208,
+						219
+					]
+				},
+				{
+					"screen_name": "01sth02",
+					"name": "Syed T. Hoda",
+					"id": 4613659461,
+					"id_str": "4613659461",
+					"indices": [
+						220,
+						228
+					]
+				},
+				{
+					"screen_name": "BeccaBrass",
+					"name": "Becca Brass, MD",
+					"id": 1039196186165502000,
+					"id_str": "1039196186165501952",
+					"indices": [
+						229,
+						240
+					]
+				},
+				{
+					"screen_name": "DrMStiegler",
+					"name": "Marjorie Stiegler M.D.",
+					"id": 1129331450,
+					"id_str": "1129331450",
+					"indices": [
+						241,
+						253
+					]
+				},
+				{
+					"screen_name": "NadiaJamilMD",
+					"name": "Nadia Jamil, M.D.",
+					"id": 1072651078091661300,
+					"id_str": "1072651078091661312",
+					"indices": [
+						254,
+						267
+					]
+				},
+				{
+					"screen_name": "thejourneymate",
+					"name": "Phillip Templo Jr",
+					"id": 125396983,
+					"id_str": "125396983",
+					"indices": [
+						268,
+						283
+					]
+				},
+				{
+					"screen_name": "OTirmizi",
+					"name": "⚕️Tirmizi 💊™",
+					"id": 1550628984,
+					"id_str": "1550628984",
+					"indices": [
+						284,
+						293
+					]
+				},
+				{
+					"screen_name": "RealJesseLuke",
+					"name": "Jesse Luke💊🧠",
+					"id": 890747918705205200,
+					"id_str": "890747918705205250",
+					"indices": [
+						294,
+						308
+					]
+				},
+				{
+					"screen_name": "StressHoop",
+					"name": "Trailer Park Orthopod™ 🍸🚍🍖",
+					"id": 1102063861044252700,
+					"id_str": "1102063861044252672",
+					"indices": [
+						309,
+						320
+					]
+				},
+				{
+					"screen_name": "DrSandman11",
+					"name": "💉Josh Rubin, MD 🇺🇸",
+					"id": 24472847,
+					"id_str": "24472847",
+					"indices": [
+						321,
+						333
+					]
+				},
+				{
+					"screen_name": "Blitz_y",
+					"name": "Blitzy 🩺🏴‍☠️ 🥝",
+					"id": 91145706,
+					"id_str": "91145706",
+					"indices": [
+						334,
+						342
+					]
+				},
+				{
+					"screen_name": "LISAMACNCHEESE",
+					"name": "Lisa Vaccination Is Your Superpower Maczura",
+					"id": 1717482655,
+					"id_str": "1717482655",
+					"indices": [
+						343,
+						358
+					]
+				},
+				{
+					"screen_name": "devrajoyPT",
+					"name": "devra joy sheldon",
+					"id": 811921351,
+					"id_str": "811921351",
+					"indices": [
+						359,
+						370
+					]
+				},
+				{
+					"screen_name": "tracyablake",
+					"name": "Tracy Blake, PT, PhD",
+					"id": 1040945954,
+					"id_str": "1040945954",
+					"indices": [
+						371,
+						383
+					]
+				},
+				{
+					"screen_name": "innerchildca",
+					"name": "Janet Holly🇨🇦 mask up 😷😷",
+					"id": 189653526,
+					"id_str": "189653526",
+					"indices": [
+						384,
+						397
+					]
+				},
+				{
+					"screen_name": "adiemusfree",
+					"name": "Bronnie Lennox Thompson 🐾🇳🇿🌈🎓",
+					"id": 21473405,
+					"id_str": "21473405",
+					"indices": [
+						398,
+						410
+					]
+				},
+				{
+					"screen_name": "SarahHaagPT",
+					"name": "Sarah Haag",
+					"id": 302721998,
+					"id_str": "302721998",
+					"indices": [
+						411,
+						423
+					]
+				},
+				{
+					"screen_name": "avigotsky",
+					"name": "Andrew Vigotsky",
+					"id": 455378333,
+					"id_str": "455378333",
+					"indices": [
+						424,
+						434
+					]
+				},
+				{
+					"screen_name": "neuroconscience",
+					"name": "neuroconscience",
+					"id": 47336791,
+					"id_str": "47336791",
+					"indices": [
+						435,
+						451
+					]
+				},
+				{
+					"screen_name": "head_like_egg",
+					"name": "Tim Salomons",
+					"id": 1613173903,
+					"id_str": "1613173903",
+					"indices": [
+						452,
+						466
+					]
+				},
+				{
+					"screen_name": "taylor_eckel",
+					"name": "Taylor Eckel PT, DPT, CSCS",
+					"id": 322938137,
+					"id_str": "322938137",
+					"indices": [
+						467,
+						480
+					]
+				},
+				{
+					"screen_name": "jonvan87",
+					"name": "Jon van den Boogaard",
+					"id": 3183274322,
+					"id_str": "3183274322",
+					"indices": [
+						481,
+						490
+					]
+				},
+				{
+					"screen_name": "hallmarkchannel",
+					"name": "Hallmark Channel",
+					"id": 25453312,
+					"id_str": "25453312",
+					"indices": [
+						491,
+						507
+					]
+				},
+				{
+					"screen_name": "YusraIftikhar",
+					"name": "Yusra",
+					"id": 56222962,
+					"id_str": "56222962",
+					"indices": [
+						508,
+						522
+					]
+				},
+				{
+					"screen_name": "anesha_walcott",
+					"name": "AN€SHĀ 💜💛",
+					"id": 134615807,
+					"id_str": "134615807",
+					"indices": [
+						523,
+						538
+					]
+				},
+				{
+					"screen_name": "Tayo_Akinboboye",
+					"name": "Tayo Akinboboye",
+					"id": 355938011,
+					"id_str": "355938011",
+					"indices": [
+						539,
+						555
+					]
+				},
+				{
+					"screen_name": "EfosaGuobadia",
+					"name": "Efosa L. Guobadia, DPT",
+					"id": 56871451,
+					"id_str": "56871451",
+					"indices": [
+						556,
+						570
+					]
+				},
+				{
+					"screen_name": "_Dawkinsss",
+					"name": "Briana J. Blige",
+					"id": 332455928,
+					"id_str": "332455928",
+					"indices": [
+						571,
+						582
+					]
+				},
+				{
+					"screen_name": "hmathew30",
+					"name": "Hannah Mathew, SPT, MS",
+					"id": 1195140668966002700,
+					"id_str": "1195140668966002689",
+					"indices": [
+						583,
+						593
+					]
+				},
+				{
+					"screen_name": "PTAli1",
+					"name": "Ali Schoos, PT, OCS",
+					"id": 2544354926,
+					"id_str": "2544354926",
+					"indices": [
+						594,
+						601
+					]
+				},
+				{
+					"screen_name": "CarolynBMaloney",
+					"name": "Carolyn B. Maloney",
+					"id": 119250381,
+					"id_str": "119250381",
+					"indices": [
+						602,
+						618
+					]
+				},
+				{
+					"screen_name": "Abby_NYC",
+					"name": "Dr. Abby Bales, PT, DPT, CSCS",
+					"id": 384074196,
+					"id_str": "384074196",
+					"indices": [
+						619,
+						628
+					]
+				},
+				{
+					"screen_name": "GatesPhysio",
+					"name": "John Gates",
+					"id": 451401278,
+					"id_str": "451401278",
+					"indices": [
+						719,
+						731
+					]
+				},
+				{
+					"screen_name": "DMGPhysio",
+					"name": "Darragh Mc Gee",
+					"id": 1523450449,
+					"id_str": "1523450449",
+					"indices": [
+						732,
+						742
+					]
+				},
+				{
+					"screen_name": "AmberRosePhysio",
+					"name": "Amber Roberts",
+					"id": 963499944081535000,
+					"id_str": "963499944081534976",
+					"indices": [
+						743,
+						759
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1348546408832499700,
+		"in_reply_to_status_id_str": "1348546408832499713",
+		"in_reply_to_user_id": 702962141800878100,
+		"in_reply_to_user_id_str": "702962141800878081",
+		"in_reply_to_screen_name": "adamdobson123",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio I Chair - Armed Forces Network @UHDBTrust I @ccsn_uk Trustee I @thecsp Professional Committee I @HLA_Int Scholar | #150Leaders #Leadership #Innovation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2593,
+			"friends_count": 4029,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@adamdobson123 @OnlinePhysios @Retlouping @karenlitzyNYC @TheresaMarkoPT @MMitchellPCS @LisaVanHoosePT @fyzio4u @MikeMakher @Farmer_MindBody @SandyHiltonPT @MaxiMiciak @Jerry_DurhamPT @jptlowy @sassistheword @DrBartacus @01sth02 @BeccaBrass @DrMStiegler @NadiaJamilMD @thejourneymate @OTirmizi @RealJesseLuke @StressHoop @DrSandman11 @Blitz_y @LISAMACNCHEESE @devrajoyPT @tracyablake @innerchildca @adiemusfree @SarahHaagPT @avigotsky @neuroconscience @head_like_egg @taylor_eckel @jonvan87 @hallmarkchannel @YusraIftikhar @anesha_walcott @Tayo_Akinboboye @EfosaGuobadia @_Dawkinsss @hmathew30 @PTAli1 @CarolynBMaloney @Abby_NYC (1) David Williams, Physio, Midlands \n(2) Oxo cubes are perfectly fine as a snack... \n(3) @GatesPhysio @DMGPhysio @AmberRosePhysio"
+	},
+	{
+		"created_at": "Sat Jan 16 17:03:41 +0000 2021",
+		"id": 1350488910703566800,
+		"id_str": "1350488910703566853",
+		"full_text": "@CalvinMoorley Not so posh that it has ink... 😩",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CalvinMoorley",
+					"name": "Dr Calvin Moorley RN PhD",
+					"id": 23117879,
+					"id_str": "23117879",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1350488116663095300,
+		"in_reply_to_status_id_str": "1350488116663095301",
+		"in_reply_to_user_id": 23117879,
+		"in_reply_to_user_id_str": "23117879",
+		"in_reply_to_screen_name": "CalvinMoorley",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio I Chair - Armed Forces Network @UHDBTrust I @ccsn_uk Trustee I @thecsp Professional Committee I @HLA_Int Scholar | #150Leaders #Leadership #Innovation",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2593,
+			"friends_count": 4029,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CalvinMoorley Not so posh that it has ink... 😩"
+	},
+	{
 		"created_at": "Thu Jan 14 23:31:26 +0000 2021",
 		"id": 1349861712300830700,
 		"id_str": "1349861712300830722",
