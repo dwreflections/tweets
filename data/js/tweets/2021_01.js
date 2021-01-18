@@ -1,6 +1,589 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sun Jan 17 18:57:35 +0000 2021",
+		"id": 1350879963105403000,
+		"id_str": "1350879963105402881",
+		"full_text": "@hill_karenhill3 @CathyWinfield @PhilBoltonRN @paulvincentbro1 Super work and leadership! 👍",
+		"truncated": false,
+		"display_text_range": [
+			63,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hill_karenhill3",
+					"name": "Karen Hill 💙 RN MSc",
+					"id": 2361529948,
+					"id_str": "2361529948",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "CathyWinfield",
+					"name": "Cathy Winfield MBE, RN, MSc💙",
+					"id": 2188050351,
+					"id_str": "2188050351",
+					"indices": [
+						17,
+						31
+					]
+				},
+				{
+					"screen_name": "PhilBoltonRN",
+					"name": "Phil Bolton",
+					"id": 1188076842726690800,
+					"id_str": "1188076842726690817",
+					"indices": [
+						32,
+						45
+					]
+				},
+				{
+					"screen_name": "paulvincentbro1",
+					"name": "Paul Brooks MBE, MSc",
+					"id": 2870262826,
+					"id_str": "2870262826",
+					"indices": [
+						46,
+						62
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1350836657050841000,
+		"in_reply_to_status_id_str": "1350836657050841091",
+		"in_reply_to_user_id": 2361529948,
+		"in_reply_to_user_id_str": "2361529948",
+		"in_reply_to_screen_name": "hill_karenhill3",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Midlands",
+			"description": "Physio interested in #leadership & #innovation I Chair - Armed Forces Network @UHDBTrust I @ccsn_uk Trustee I @thecsp Professional Committee I @HLA_Int Scholar",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2598,
+			"friends_count": 4031,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hill_karenhill3 @CathyWinfield @PhilBoltonRN @paulvincentbro1 Super work and leadership! 👍"
+	},
+	{
+		"created_at": "Sun Jan 17 18:56:26 +0000 2021",
+		"id": 1350879671060226000,
+		"id_str": "1350879671060226051",
+		"full_text": "@iproducteavity Oh plants, yeah. There’s a thought... 💭 🌿",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iproducteavity",
+					"name": "Sip the Productivity Tea",
+					"id": 1350835246959235000,
+					"id_str": "1350835246959235073",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1350869855587627000,
+		"in_reply_to_status_id_str": "1350869855587627008",
+		"in_reply_to_user_id": 1350835246959235000,
+		"in_reply_to_user_id_str": "1350835246959235073",
+		"in_reply_to_screen_name": "iproducteavity",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Midlands",
+			"description": "Physio interested in #leadership & #innovation I Chair - Armed Forces Network @UHDBTrust I @ccsn_uk Trustee I @thecsp Professional Committee I @HLA_Int Scholar",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2598,
+			"friends_count": 4031,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@iproducteavity Oh plants, yeah. There’s a thought... 💭 🌿"
+	},
+	{
+		"created_at": "Sun Jan 17 15:20:10 +0000 2021",
+		"id": 1350825247939981300,
+		"id_str": "1350825247939981314",
+		"full_text": "@_lewadam 🤔",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_lewadam",
+					"name": "Lewis Lovegrove",
+					"id": 196719130,
+					"id_str": "196719130",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1350786556295057400,
+		"in_reply_to_status_id_str": "1350786556295057408",
+		"in_reply_to_user_id": 196719130,
+		"in_reply_to_user_id_str": "196719130",
+		"in_reply_to_screen_name": "_lewadam",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Midlands",
+			"description": "Physio interested in #leadership & #innovation I Chair - Armed Forces Network @UHDBTrust I @ccsn_uk Trustee I @thecsp Professional Committee I @HLA_Int Scholar",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2598,
+			"friends_count": 4031,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@_lewadam 🤔"
+	},
+	{
+		"created_at": "Sun Jan 17 14:36:25 +0000 2021",
+		"id": 1350814236595933200,
+		"id_str": "1350814236595933184",
+		"full_text": "@Karen_ThPCU @HLA_int @KatieBo45388712 @logan_angie @WeAHPs @BrendonStubbs can you help ☺️👍",
+		"truncated": false,
+		"display_text_range": [
+			60,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Karen_ThPCU",
+					"name": "Karen Thomas",
+					"id": 839176365530366000,
+					"id_str": "839176365530365956",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"screen_name": "KatieBo45388712",
+					"name": "Katie Bond",
+					"id": 1022541655117897700,
+					"id_str": "1022541655117897730",
+					"indices": [
+						22,
+						38
+					]
+				},
+				{
+					"screen_name": "logan_angie",
+					"name": "Dr Angie Logan",
+					"id": 2362684192,
+					"id_str": "2362684192",
+					"indices": [
+						39,
+						51
+					]
+				},
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs 💙",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						52,
+						59
+					]
+				},
+				{
+					"screen_name": "BrendonStubbs",
+					"name": "Brendon Stubbs",
+					"id": 793177195,
+					"id_str": "793177195",
+					"indices": [
+						60,
+						74
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1350791162592956400,
+		"in_reply_to_status_id_str": "1350791162592956416",
+		"in_reply_to_user_id": 839176365530366000,
+		"in_reply_to_user_id_str": "839176365530365956",
+		"in_reply_to_screen_name": "Karen_ThPCU",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Midlands",
+			"description": "Physio interested in #leadership & #innovation I Chair - Armed Forces Network @UHDBTrust I @ccsn_uk Trustee I @thecsp Professional Committee I @HLA_Int Scholar",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2598,
+			"friends_count": 4031,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Karen_ThPCU @HLA_int @KatieBo45388712 @logan_angie @WeAHPs @BrendonStubbs can you help ☺️👍"
+	},
+	{
+		"created_at": "Sun Jan 17 14:32:24 +0000 2021",
+		"id": 1350813224850120700,
+		"id_str": "1350813224850120704",
+		"full_text": "@SuzanneRastrick @BBCPolitics @NHSEngland @WeAHPs Great to see! Lots to learn from how he communicated during that interview with #Marr",
+		"truncated": false,
+		"display_text_range": [
+			50,
+			135
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Marr",
+					"indices": [
+						130,
+						135
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SuzanneRastrick",
+					"name": "Suzanne Rastrick",
+					"id": 1596992540,
+					"id_str": "1596992540",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "BBCPolitics",
+					"name": "BBC Politics",
+					"id": 621533,
+					"id_str": "621533",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"screen_name": "NHSEngland",
+					"name": "NHS England and NHS Improvement",
+					"id": 551426814,
+					"id_str": "551426814",
+					"indices": [
+						30,
+						41
+					]
+				},
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs 💙",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						42,
+						49
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1350767776269557800,
+		"in_reply_to_status_id_str": "1350767776269557760",
+		"in_reply_to_user_id": 1596992540,
+		"in_reply_to_user_id_str": "1596992540",
+		"in_reply_to_screen_name": "SuzanneRastrick",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Midlands",
+			"description": "Physio interested in #leadership & #innovation I Chair - Armed Forces Network @UHDBTrust I @ccsn_uk Trustee I @thecsp Professional Committee I @HLA_Int Scholar",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2598,
+			"friends_count": 4031,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20719,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SuzanneRastrick @BBCPolitics @NHSEngland @WeAHPs Great to see! Lots to learn from how he communicated during that interview with #Marr"
+	},
+	{
 		"created_at": "Sat Jan 16 20:58:31 +0000 2021",
 		"id": 1350548007830347800,
 		"id_str": "1350548007830347776",
@@ -129,7 +712,7 @@ Grailbird.data.tweets_2021_01 =
 				},
 				{
 					"screen_name": "Retlouping",
-					"name": "🚴🏻‍♂️ ɹǝʇlnoԀ pıʌɐᗡ 🚴🏻‍♂️ 𝔹𝕖 𝕜𝕚𝕟𝕕 😷",
+					"name": "🚴🏻♂️ ɹǝʇlnoԀ pıʌɐᗡ 🚴🏻♂️ 𝔹𝕖 𝕜𝕚𝕟𝕕 😷",
 					"id": 3246132338,
 					"id_str": "3246132338",
 					"indices": [
@@ -359,7 +942,7 @@ Grailbird.data.tweets_2021_01 =
 				},
 				{
 					"screen_name": "Blitz_y",
-					"name": "Blitzy 🩺🏴‍☠️ 🥝",
+					"name": "Blitzy 🩺🏴☠️ 🥝",
 					"id": 91145706,
 					"id_str": "91145706",
 					"indices": [
