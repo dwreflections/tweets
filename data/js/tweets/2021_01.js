@@ -1,6 +1,549 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 18 18:55:56 +0000 2021",
+		"id": 1351241932740186000,
+		"id_str": "1351241932740186113",
+		"full_text": "@nicklivadas @SocietyTeesside Happy to chat, discuss and mentor @SocietyTeesside",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nicklivadas",
+					"name": "Nick Livadas",
+					"id": 375320758,
+					"id_str": "375320758",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "SocietyTeesside",
+					"name": "Teesside University Physiotherapy Society",
+					"id": 1184909467978260500,
+					"id_str": "1184909467978260480",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "SocietyTeesside",
+					"name": "Teesside University Physiotherapy Society",
+					"id": 1184909467978260500,
+					"id_str": "1184909467978260480",
+					"indices": [
+						64,
+						80
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1351240077771468800,
+		"in_reply_to_status_id_str": "1351240077771468800",
+		"in_reply_to_user_id": 375320758,
+		"in_reply_to_user_id_str": "375320758",
+		"in_reply_to_screen_name": "nicklivadas",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Midlands",
+			"description": "Physio interested in #leadership & #innovation I Chair - Armed Forces Network @UHDBTrust I @ccsn_uk Trustee I @thecsp Professional Committee I @HLA_Int Scholar",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2604,
+			"friends_count": 4033,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@nicklivadas @SocietyTeesside Happy to chat, discuss and mentor @SocietyTeesside"
+	},
+	{
+		"created_at": "Mon Jan 18 18:31:58 +0000 2021",
+		"id": 1351235901062525000,
+		"id_str": "1351235901062524932",
+		"full_text": "Do you want to make a difference? \n\nThen apply ✅⬇️ https://t.co/gGnWgE7nyV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gGnWgE7nyV",
+					"expanded_url": "https://twitter.com/150leaders/status/1351177524840067074",
+					"display_url": "twitter.com/150leaders/sta…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Midlands",
+			"description": "Physio interested in #leadership & #innovation I Chair - Armed Forces Network @UHDBTrust I @ccsn_uk Trustee I @thecsp Professional Committee I @HLA_Int Scholar",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2604,
+			"friends_count": 4033,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1351177524840067000,
+		"quoted_status_id_str": "1351177524840067074",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gGnWgE7nyV",
+			"expanded": "https://twitter.com/150leaders/status/1351177524840067074",
+			"display": "twitter.com/150leaders/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jan 18 14:40:00 +0000 2021",
+			"id": 1351177524840067000,
+			"id_str": "1351177524840067074",
+			"full_text": "Applications for the Student Leadership Programme 2021\n\nDue to Covid-19, we had postponed the recruitment of our 2021 cohort. We now hope to reopen applications in the spring. Please follow us for updates.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				205
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1139187039151280100,
+				"id_str": "1139187039151280128",
+				"name": "Student Leadership Programme #150Leaders",
+				"screen_name": "150Leaders",
+				"location": "United Kingdom",
+				"description": "@councilofdeans Student Leadership Programme | co-funded by @BurdettTrust | designed for student nurses, midwives & AHPs across the UK | co-created by students",
+				"url": "https://t.co/AxAGczzJZw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AxAGczzJZw",
+								"expanded_url": "http://www.councilofdeans.org.uk/studentleadership",
+								"display_url": "councilofdeans.org.uk/studentleaders…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1692,
+				"friends_count": 226,
+				"listed_count": 6,
+				"created_at": "Thu Jun 13 15:05:29 +0000 2019",
+				"favourites_count": 2627,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2344,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1141695642672279552/rf-wEzoI_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141695642672279552/rf-wEzoI_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1139187039151280128/1583504228",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 37,
+			"favorite_count": 69,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Do you want to make a difference? \n\nThen apply ✅⬇️ https://t.co/gGnWgE7nyV"
+	},
+	{
+		"created_at": "Mon Jan 18 18:14:14 +0000 2021",
+		"id": 1351231438700617700,
+		"id_str": "1351231438700617730",
+		"full_text": "@credland_nicki 🙋🏻‍♂️",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "credland_nicki",
+					"name": "Nicki Credland 💙",
+					"id": 929194854,
+					"id_str": "929194854",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1351200343326142500,
+		"in_reply_to_status_id_str": "1351200343326142466",
+		"in_reply_to_user_id": 929194854,
+		"in_reply_to_user_id_str": "929194854",
+		"in_reply_to_screen_name": "credland_nicki",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Midlands",
+			"description": "Physio interested in #leadership & #innovation I Chair - Armed Forces Network @UHDBTrust I @ccsn_uk Trustee I @thecsp Professional Committee I @HLA_Int Scholar",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2604,
+			"friends_count": 4033,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@credland_nicki 🙋🏻‍♂️"
+	},
+	{
+		"created_at": "Mon Jan 18 17:00:52 +0000 2021",
+		"id": 1351212976406208500,
+		"id_str": "1351212976406208518",
+		"full_text": "@shaziaparv @harinder_d @amrawlings @SharonExtance @InclusionUhdb Brilliant to catch up with everyone this afternoon!  Early days, but we all have a vision to create real change throughout @UHDBTrust ... ☺️👍",
+		"truncated": false,
+		"display_text_range": [
+			66,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shaziaparv",
+					"name": "Shazia Parveen💙#IveHadMyVaccination",
+					"id": 1003400292984074200,
+					"id_str": "1003400292984074240",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "harinder_d",
+					"name": "Harinder D",
+					"id": 1379751296,
+					"id_str": "1379751296",
+					"indices": [
+						12,
+						23
+					]
+				},
+				{
+					"screen_name": "amrawlings",
+					"name": "amanda rawlings",
+					"id": 631943465,
+					"id_str": "631943465",
+					"indices": [
+						24,
+						35
+					]
+				},
+				{
+					"screen_name": "SharonExtance",
+					"name": "Sharon Extance💙",
+					"id": 994647938,
+					"id_str": "994647938",
+					"indices": [
+						36,
+						50
+					]
+				},
+				{
+					"screen_name": "InclusionUhdb",
+					"name": "UHDB Inclusion",
+					"id": 1045674720925020200,
+					"id_str": "1045674720925020160",
+					"indices": [
+						51,
+						65
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						189,
+						199
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1351197736041910300,
+		"in_reply_to_status_id_str": "1351197736041910273",
+		"in_reply_to_user_id": 1003400292984074200,
+		"in_reply_to_user_id_str": "1003400292984074240",
+		"in_reply_to_screen_name": "shaziaparv",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Midlands",
+			"description": "Physio interested in #leadership & #innovation I Chair - Armed Forces Network @UHDBTrust I @ccsn_uk Trustee I @thecsp Professional Committee I @HLA_Int Scholar",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2604,
+			"friends_count": 4033,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20733,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6849,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@shaziaparv @harinder_d @amrawlings @SharonExtance @InclusionUhdb Brilliant to catch up with everyone this afternoon!  Early days, but we all have a vision to create real change throughout @UHDBTrust ... ☺️👍"
+	},
+	{
 		"created_at": "Sun Jan 17 18:57:35 +0000 2021",
 		"id": 1350879963105403000,
 		"id_str": "1350879963105402881",
