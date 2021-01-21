@@ -1,6 +1,772 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Wed Jan 20 16:53:11 +0000 2021",
+		"id": 1351935819368558600,
+		"id_str": "1351935819368558596",
+		"full_text": "I revisited this thread today...\nMuch to learn &amp; experience #leadership ⬇️🧵 https://t.co/ojNMlrxMLT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "leadership",
+					"indices": [
+						64,
+						75
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ojNMlrxMLT",
+					"expanded_url": "https://twitter.com/beardedpt/status/1230839311479734272",
+					"display_url": "twitter.com/beardedpt/stat…",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Midlands",
+			"description": "Physio interested in #leadership & #innovation I Chair - Armed Forces Network @UHDBTrust I @ccsn_uk Trustee I @thecsp Professional Committee I @HLA_Int Scholar",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2608,
+			"friends_count": 4036,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1230839311479734300,
+		"quoted_status_id_str": "1230839311479734272",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ojNMlrxMLT",
+			"expanded": "https://twitter.com/beardedpt/status/1230839311479734272",
+			"display": "twitter.com/beardedpt/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 21 12:58:54 +0000 2020",
+			"id": 1230839311479734300,
+			"id_str": "1230839311479734272",
+			"full_text": "If you was speaking at conference for physiotherapy students on the topic of “Leadership” - what would you discuss? 🗣\n\n@KMiddletonCSP @mikechitty @tolanAHP @Anniecoops @SuzanneRastrick @misssdjohnson @DavidBehan15 @exerciseworks @weAHPs #150Leaders",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				248
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "150Leaders",
+						"indices": [
+							237,
+							248
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KMiddletonCSP",
+						"name": "Karen Middleton",
+						"id": 791233063,
+						"id_str": "791233063",
+						"indices": [
+							119,
+							133
+						]
+					},
+					{
+						"screen_name": "mikechitty",
+						"name": "Mike Chitty",
+						"id": 21009225,
+						"id_str": "21009225",
+						"indices": [
+							134,
+							145
+						]
+					},
+					{
+						"screen_name": "tolanAHP",
+						"name": "Steve Tolan",
+						"id": 1550254940,
+						"id_str": "1550254940",
+						"indices": [
+							146,
+							155
+						]
+					},
+					{
+						"screen_name": "Anniecoops",
+						"name": "Anne Cooper 💙",
+						"id": 20327119,
+						"id_str": "20327119",
+						"indices": [
+							156,
+							167
+						]
+					},
+					{
+						"screen_name": "SuzanneRastrick",
+						"name": "Suzanne Rastrick",
+						"id": 1596992540,
+						"id_str": "1596992540",
+						"indices": [
+							168,
+							184
+						]
+					},
+					{
+						"screen_name": "misssdjohnson",
+						"name": "Stacy Johnson MBE",
+						"id": 170450545,
+						"id_str": "170450545",
+						"indices": [
+							185,
+							199
+						]
+					},
+					{
+						"screen_name": "DavidBehan15",
+						"name": "David Behan",
+						"id": 1059511559670714400,
+						"id_str": "1059511559670714368",
+						"indices": [
+							200,
+							213
+						]
+					},
+					{
+						"screen_name": "exerciseworks",
+						"name": "Exercise Works!",
+						"id": 256921454,
+						"id_str": "256921454",
+						"indices": [
+							214,
+							228
+						]
+					},
+					{
+						"screen_name": "WeAHPs",
+						"name": "WeAHPs 💙",
+						"id": 2364573882,
+						"id_str": "2364573882",
+						"indices": [
+							229,
+							236
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3377750235,
+				"id_str": "3377750235",
+				"name": "David Williams",
+				"screen_name": "beardedPT",
+				"location": "Midlands",
+				"description": "Physio interested in #leadership & #innovation I Chair - Armed Forces Network @UHDBTrust I @ccsn_uk Trustee I @thecsp Professional Committee I @HLA_Int Scholar",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2608,
+				"friends_count": 4036,
+				"listed_count": 17,
+				"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+				"favourites_count": 20759,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6853,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1f592b82aea688ff",
+				"url": "https://api.twitter.com/1.1/geo/id/1f592b82aea688ff.json",
+				"place_type": "city",
+				"name": "Derby",
+				"full_name": "Derby, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-1.556856,
+								52.870587
+							],
+							[
+								-1.384701,
+								52.870587
+							],
+							[
+								-1.384701,
+								52.960473
+							],
+							[
+								-1.556856,
+								52.960473
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 56,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I revisited this thread today...\nMuch to learn &amp; experience #leadership ⬇️🧵 https://t.co/ojNMlrxMLT"
+	},
+	{
+		"created_at": "Wed Jan 20 13:52:36 +0000 2021",
+		"id": 1351890372193112000,
+		"id_str": "1351890372193112068",
+		"full_text": "@HannahS_RN Thank you 😊",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HannahS_RN",
+					"name": "Hannah Smith RN 💙",
+					"id": 3161155449,
+					"id_str": "3161155449",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1351474719883731000,
+		"in_reply_to_status_id_str": "1351474719883730948",
+		"in_reply_to_user_id": 3161155449,
+		"in_reply_to_user_id_str": "3161155449",
+		"in_reply_to_screen_name": "HannahS_RN",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Midlands",
+			"description": "Physio interested in #leadership & #innovation I Chair - Armed Forces Network @UHDBTrust I @ccsn_uk Trustee I @thecsp Professional Committee I @HLA_Int Scholar",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2608,
+			"friends_count": 4036,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@HannahS_RN Thank you 😊"
+	},
+	{
+		"created_at": "Wed Jan 20 11:17:06 +0000 2021",
+		"id": 1351851240192422000,
+		"id_str": "1351851240192421888",
+		"full_text": "@physio_martin @thecsp @theRCOT This is a good thread from last year 🧵 : \n\nhttps://t.co/bODCP6IzuQ\n\n#leadership",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			111
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "leadership",
+					"indices": [
+						100,
+						111
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "physio_martin",
+					"name": "Martin",
+					"id": 106062106,
+					"id_str": "106062106",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"screen_name": "theRCOT",
+					"name": "Royal College of Occupational Therapists",
+					"id": 48659527,
+					"id_str": "48659527",
+					"indices": [
+						23,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/bODCP6IzuQ",
+					"expanded_url": "https://twitter.com/beardedpt/status/1230839311479734272?s=21",
+					"display_url": "twitter.com/beardedpt/stat…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1351550434968825900,
+		"in_reply_to_status_id_str": "1351550434968825861",
+		"in_reply_to_user_id": 106062106,
+		"in_reply_to_user_id_str": "106062106",
+		"in_reply_to_screen_name": "physio_martin",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Midlands",
+			"description": "Physio interested in #leadership & #innovation I Chair - Armed Forces Network @UHDBTrust I @ccsn_uk Trustee I @thecsp Professional Committee I @HLA_Int Scholar",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2608,
+			"friends_count": 4036,
+			"listed_count": 17,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 20759,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1230839311479734300,
+		"quoted_status_id_str": "1230839311479734272",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bODCP6IzuQ",
+			"expanded": "https://twitter.com/beardedpt/status/1230839311479734272?s=21",
+			"display": "twitter.com/beardedpt/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 21 12:58:54 +0000 2020",
+			"id": 1230839311479734300,
+			"id_str": "1230839311479734272",
+			"full_text": "If you was speaking at conference for physiotherapy students on the topic of “Leadership” - what would you discuss? 🗣\n\n@KMiddletonCSP @mikechitty @tolanAHP @Anniecoops @SuzanneRastrick @misssdjohnson @DavidBehan15 @exerciseworks @weAHPs #150Leaders",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				248
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "150Leaders",
+						"indices": [
+							237,
+							248
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "KMiddletonCSP",
+						"name": "Karen Middleton",
+						"id": 791233063,
+						"id_str": "791233063",
+						"indices": [
+							119,
+							133
+						]
+					},
+					{
+						"screen_name": "mikechitty",
+						"name": "Mike Chitty",
+						"id": 21009225,
+						"id_str": "21009225",
+						"indices": [
+							134,
+							145
+						]
+					},
+					{
+						"screen_name": "tolanAHP",
+						"name": "Steve Tolan",
+						"id": 1550254940,
+						"id_str": "1550254940",
+						"indices": [
+							146,
+							155
+						]
+					},
+					{
+						"screen_name": "Anniecoops",
+						"name": "Anne Cooper 💙",
+						"id": 20327119,
+						"id_str": "20327119",
+						"indices": [
+							156,
+							167
+						]
+					},
+					{
+						"screen_name": "SuzanneRastrick",
+						"name": "Suzanne Rastrick",
+						"id": 1596992540,
+						"id_str": "1596992540",
+						"indices": [
+							168,
+							184
+						]
+					},
+					{
+						"screen_name": "misssdjohnson",
+						"name": "Stacy Johnson MBE",
+						"id": 170450545,
+						"id_str": "170450545",
+						"indices": [
+							185,
+							199
+						]
+					},
+					{
+						"screen_name": "DavidBehan15",
+						"name": "David Behan",
+						"id": 1059511559670714400,
+						"id_str": "1059511559670714368",
+						"indices": [
+							200,
+							213
+						]
+					},
+					{
+						"screen_name": "exerciseworks",
+						"name": "Exercise Works!",
+						"id": 256921454,
+						"id_str": "256921454",
+						"indices": [
+							214,
+							228
+						]
+					},
+					{
+						"screen_name": "WeAHPs",
+						"name": "WeAHPs 💙",
+						"id": 2364573882,
+						"id_str": "2364573882",
+						"indices": [
+							229,
+							236
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3377750235,
+				"id_str": "3377750235",
+				"name": "David Williams",
+				"screen_name": "beardedPT",
+				"location": "Midlands",
+				"description": "Physio interested in #leadership & #innovation I Chair - Armed Forces Network @UHDBTrust I @ccsn_uk Trustee I @thecsp Professional Committee I @HLA_Int Scholar",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2608,
+				"friends_count": 4036,
+				"listed_count": 17,
+				"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+				"favourites_count": 20759,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 6853,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "1f592b82aea688ff",
+				"url": "https://api.twitter.com/1.1/geo/id/1f592b82aea688ff.json",
+				"place_type": "city",
+				"name": "Derby",
+				"full_name": "Derby, England",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-1.556856,
+								52.870587
+							],
+							[
+								-1.384701,
+								52.870587
+							],
+							[
+								-1.384701,
+								52.960473
+							],
+							[
+								-1.556856,
+								52.960473
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 56,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@physio_martin @thecsp @theRCOT This is a good thread from last year 🧵 : \n\nhttps://t.co/bODCP6IzuQ\n\n#leadership"
+	},
+	{
 		"created_at": "Mon Jan 18 18:55:56 +0000 2021",
 		"id": 1351241932740186000,
 		"id_str": "1351241932740186113",
@@ -311,7 +1077,7 @@ Grailbird.data.tweets_2021_01 =
 		"created_at": "Mon Jan 18 18:14:14 +0000 2021",
 		"id": 1351231438700617700,
 		"id_str": "1351231438700617730",
-		"full_text": "@credland_nicki 🙋🏻‍♂️",
+		"full_text": "@credland_nicki 🙋🏻♂️",
 		"truncated": false,
 		"display_text_range": [
 			16,
@@ -398,7 +1164,7 @@ Grailbird.data.tweets_2021_01 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "und",
-		"text": "@credland_nicki 🙋🏻‍♂️"
+		"text": "@credland_nicki 🙋🏻♂️"
 	},
 	{
 		"created_at": "Mon Jan 18 17:00:52 +0000 2021",
