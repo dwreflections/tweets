@@ -1,6 +1,610 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 19 19:30:00 +0000 2021",
+		"id": 1362846916992761900,
+		"id_str": "1362846916992761856",
+		"full_text": "@jedimaster1982 Absolutely!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jedimaster1982",
+					"name": "Paul Elston",
+					"id": 57923618,
+					"id_str": "57923618",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1362804187470434300,
+		"in_reply_to_status_id_str": "1362804187470434307",
+		"in_reply_to_user_id": 57923618,
+		"in_reply_to_user_id_str": "57923618",
+		"in_reply_to_screen_name": "jedimaster1982",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Midlands",
+			"description": "Physio interested in #leadership & #innovation IChair -Armed Forces Network @UHDBTrust |Governor @suaupdates I @thecsp Professional Committee I @HLA_Int Scholar",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2670,
+			"friends_count": 4129,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 21281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6983,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jedimaster1982 Absolutely!"
+	},
+	{
+		"created_at": "Fri Feb 19 19:29:35 +0000 2021",
+		"id": 1362791473008238600,
+		"id_str": "1362846814643363855",
+		"full_text": "It's been a pleasure to be involved in leading this work. The collaboration between @UHDBTrust and our military colleagues during this period has been outstanding. https://t.co/05jnOOOmFK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						84,
+						94
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/05jnOOOmFK",
+					"expanded_url": "https://twitter.com/hill_karenhill3/status/1362790510465851395",
+					"display_url": "twitter.com/hill_karenhill…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1188076842726690800,
+			"id_str": "1188076842726690817",
+			"name": "Phil Bolton",
+			"screen_name": "PhilBoltonRN",
+			"location": "",
+			"description": "Director of Nursing  @UHDBtrust Passionate about delivering high quality patient care. Nye Bevan graduate #bevanprog",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 625,
+			"friends_count": 646,
+			"listed_count": 1,
+			"created_at": "Sat Oct 26 12:56:22 +0000 2019",
+			"favourites_count": 599,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1188077458375004166/zhtIf3mL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1188077458375004166/zhtIf3mL_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1f592b82aea688ff",
+			"url": "https://api.twitter.com/1.1/geo/id/1f592b82aea688ff.json",
+			"place_type": "city",
+			"name": "Derby",
+			"full_name": "Derby, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.556856,
+							52.870587
+						],
+						[
+							-1.384701,
+							52.870587
+						],
+						[
+							-1.384701,
+							52.960473
+						],
+						[
+							-1.556856,
+							52.960473
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1362790510465851400,
+		"quoted_status_id_str": "1362790510465851395",
+		"quoted_status_permalink": {
+			"url": "https://t.co/05jnOOOmFK",
+			"expanded": "https://twitter.com/hill_karenhill3/status/1362790510465851395",
+			"display": "twitter.com/hill_karenhill…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 19 15:45:51 +0000 2021",
+			"id": 1362790510465851400,
+			"id_str": "1362790510465851395",
+			"full_text": "Thankyou to the deployed armed forces who have been working in @UHDBTrust you have #MadeADifference  to  Patients and Staff @Duffzk47 @PhilBoltonRN @CathyWinfield @magnusharrison @beardedPT @paulvincentbro1 #WorkingTogether #AchieveGreatThings #COVID https://t.co/G0FPDilapW",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				250
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "MadeADifference",
+						"indices": [
+							83,
+							99
+						]
+					},
+					{
+						"text": "WorkingTogether",
+						"indices": [
+							207,
+							223
+						]
+					},
+					{
+						"text": "AchieveGreatThings",
+						"indices": [
+							224,
+							243
+						]
+					},
+					{
+						"text": "COVID",
+						"indices": [
+							244,
+							250
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UHDBTrust",
+						"name": "University Hospitals of Derby and Burton NHS FT",
+						"id": 429877936,
+						"id_str": "429877936",
+						"indices": [
+							63,
+							73
+						]
+					},
+					{
+						"screen_name": "Duffzk47",
+						"name": "Mark Duffy",
+						"id": 4829574957,
+						"id_str": "4829574957",
+						"indices": [
+							124,
+							133
+						]
+					},
+					{
+						"screen_name": "PhilBoltonRN",
+						"name": "Phil Bolton",
+						"id": 1188076842726690800,
+						"id_str": "1188076842726690817",
+						"indices": [
+							134,
+							147
+						]
+					},
+					{
+						"screen_name": "CathyWinfield",
+						"name": "Cathy Winfield MBE, RN, MSc💙",
+						"id": 2188050351,
+						"id_str": "2188050351",
+						"indices": [
+							148,
+							162
+						]
+					},
+					{
+						"screen_name": "magnusharrison",
+						"name": "Dr. Magnus Harrison 😷🌈💙",
+						"id": 258272524,
+						"id_str": "258272524",
+						"indices": [
+							163,
+							178
+						]
+					},
+					{
+						"screen_name": "beardedPT",
+						"name": "David Williams",
+						"id": 3377750235,
+						"id_str": "3377750235",
+						"indices": [
+							179,
+							189
+						]
+					},
+					{
+						"screen_name": "paulvincentbro1",
+						"name": "Paul Brooks MBE, MSc",
+						"id": 2870262826,
+						"id_str": "2870262826",
+						"indices": [
+							190,
+							206
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1362790486084382700,
+						"id_str": "1362790486084382738",
+						"indices": [
+							251,
+							274
+						],
+						"media_url": "http://pbs.twimg.com/media/EumaugpXcBIteBJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EumaugpXcBIteBJ.jpg",
+						"url": "https://t.co/G0FPDilapW",
+						"display_url": "pic.twitter.com/G0FPDilapW",
+						"expanded_url": "https://twitter.com/hill_karenhill3/status/1362790510465851395/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1362790486084382700,
+						"id_str": "1362790486084382738",
+						"indices": [
+							251,
+							274
+						],
+						"media_url": "http://pbs.twimg.com/media/EumaugpXcBIteBJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EumaugpXcBIteBJ.jpg",
+						"url": "https://t.co/G0FPDilapW",
+						"display_url": "pic.twitter.com/G0FPDilapW",
+						"expanded_url": "https://twitter.com/hill_karenhill3/status/1362790510465851395/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1362790493298585600,
+						"id_str": "1362790493298585601",
+						"indices": [
+							251,
+							274
+						],
+						"media_url": "http://pbs.twimg.com/media/Eumau7hXcAEvavR.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eumau7hXcAEvavR.jpg",
+						"url": "https://t.co/G0FPDilapW",
+						"display_url": "pic.twitter.com/G0FPDilapW",
+						"expanded_url": "https://twitter.com/hill_karenhill3/status/1362790510465851395/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1362790500407861200,
+						"id_str": "1362790500407861251",
+						"indices": [
+							251,
+							274
+						],
+						"media_url": "http://pbs.twimg.com/media/EumavWAWYAMQWi8.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EumavWAWYAMQWi8.jpg",
+						"url": "https://t.co/G0FPDilapW",
+						"display_url": "pic.twitter.com/G0FPDilapW",
+						"expanded_url": "https://twitter.com/hill_karenhill3/status/1362790510465851395/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1362790507592753200,
+						"id_str": "1362790507592753153",
+						"indices": [
+							251,
+							274
+						],
+						"media_url": "http://pbs.twimg.com/media/EumavwxXIAErS-6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EumavwxXIAErS-6.jpg",
+						"url": "https://t.co/G0FPDilapW",
+						"display_url": "pic.twitter.com/G0FPDilapW",
+						"expanded_url": "https://twitter.com/hill_karenhill3/status/1362790510465851395/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1152,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 383,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2361529948,
+				"id_str": "2361529948",
+				"name": "Karen Hill 💙 RN MSc",
+				"screen_name": "hill_karenhill3",
+				"location": "Derby",
+				"description": "Senior Nurse -Professional Standards. Passionate about golden retrievers. Be a flamingo 🦩in a flock of pigeons. #TheYearoftheNurseandMidwife 2020",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1924,
+				"friends_count": 1296,
+				"listed_count": 36,
+				"created_at": "Sun Feb 23 20:15:39 +0000 2014",
+				"favourites_count": 31244,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19512,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1137720884247052288/Bnr6V1-O_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137720884247052288/Bnr6V1-O_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2361529948/1457645116",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 44,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 38,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's been a pleasure to be involved in leading this work. The collaboration between @UHDBTrust and our military colleagues during this period has been outstanding. https://t.co/05jnOOOmFK"
+	},
+	{
 		"created_at": "Thu Feb 18 21:16:56 +0000 2021",
 		"id": 1362511441111240700,
 		"id_str": "1362511441111240704",
