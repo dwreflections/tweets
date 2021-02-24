@@ -1,6 +1,1472 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Tue Feb 23 20:12:29 +0000 2021",
+		"id": 1364307162407837700,
+		"id_str": "1364307162407837696",
+		"full_text": "Very interesting discussions! Now frantically googling health diplomacy… 🤓👍 https://t.co/NXkienG5MW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NXkienG5MW",
+					"expanded_url": "https://twitter.com/ps21_central/status/1361697240016957441",
+					"display_url": "twitter.com/ps21_central/s…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Midlands",
+			"description": "Physiotherapy & leadership 📚",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2684,
+			"friends_count": 4148,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 21342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1361697240016957400,
+		"quoted_status_id_str": "1361697240016957441",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NXkienG5MW",
+			"expanded": "https://twitter.com/ps21_central/status/1361697240016957441",
+			"display": "twitter.com/ps21_central/s…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 16 15:21:35 +0000 2021",
+			"id": 1361697240016957400,
+			"id_str": "1361697240016957441",
+			"full_text": "Tickets still available for our 'The Geopolitics of the Post-COVID-19 and Biden era' event happening next Tuesday 23rd February at 7:00PM GMT, sign up for free tickets through the link below:\nhttps://t.co/DqKdJXeIMj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				215
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/DqKdJXeIMj",
+						"expanded_url": "https://www.eventbrite.com/e/the-geopolitics-of-the-post-covid-19-and-biden-era-tickets-140260515979",
+						"display_url": "eventbrite.com/e/the-geopolit…",
+						"indices": [
+							192,
+							215
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2978388670,
+				"id_str": "2978388670",
+				"name": "PS21",
+				"screen_name": "ps21_central",
+				"location": "Global",
+				"description": "Project for Study of the 21st Century. A new global think tank for a new global era. Content people read, discussions they remember.  Ever so slightly feral...",
+				"url": "http://t.co/97qi17ybHn",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/97qi17ybHn",
+								"expanded_url": "http://www.projects21.com",
+								"display_url": "projects21.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1666,
+				"friends_count": 185,
+				"listed_count": 44,
+				"created_at": "Wed Jan 14 17:07:10 +0000 2015",
+				"favourites_count": 138,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 3464,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/555411084773834753/W8aAb4gv_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/555411084773834753/W8aAb4gv_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2978388670/1421255384",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Very interesting discussions! Now frantically googling health diplomacy… 🤓👍 https://t.co/NXkienG5MW"
+	},
+	{
+		"created_at": "Tue Feb 23 20:00:33 +0000 2021",
+		"id": 1364304159076470800,
+		"id_str": "1364304159076470785",
+		"full_text": "@pharmthorrun @joinClubhouse @helenbevan @BevMatthewsRN @zarahmowhabuth @LeighAKendall @ihbaines @HLA_int @johannmalawana @pedrarabiee ⬆️",
+		"truncated": false,
+		"display_text_range": [
+			97,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pharmthorrun",
+					"name": "Pharmacist Thorrun",
+					"id": 760090253000577000,
+					"id_str": "760090253000577024",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "joinClubhouse",
+					"name": "Clubhouse",
+					"id": 1242240513811480600,
+					"id_str": "1242240513811480576",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "helenbevan",
+					"name": "Helen Bevan 💙",
+					"id": 190960735,
+					"id_str": "190960735",
+					"indices": [
+						29,
+						40
+					]
+				},
+				{
+					"screen_name": "BevMatthewsRN",
+					"name": "💙 Bev Matthews RN MSc (Healthcare Ethics)",
+					"id": 623693184,
+					"id_str": "623693184",
+					"indices": [
+						41,
+						55
+					]
+				},
+				{
+					"screen_name": "zarahmowhabuth",
+					"name": "Zarah Mowhabuth 💙",
+					"id": 1116657567588073500,
+					"id_str": "1116657567588073473",
+					"indices": [
+						56,
+						71
+					]
+				},
+				{
+					"screen_name": "LeighAKendall",
+					"name": "Leigh Kendall FRSA 💙",
+					"id": 921556087,
+					"id_str": "921556087",
+					"indices": [
+						72,
+						86
+					]
+				},
+				{
+					"screen_name": "ihbaines",
+					"name": "Ian Baines",
+					"id": 584829853,
+					"id_str": "584829853",
+					"indices": [
+						87,
+						96
+					]
+				},
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						97,
+						105
+					]
+				},
+				{
+					"screen_name": "johannmalawana",
+					"name": "johannmalawana",
+					"id": 17501656,
+					"id_str": "17501656",
+					"indices": [
+						106,
+						121
+					]
+				},
+				{
+					"screen_name": "pedrarabiee",
+					"name": "Pedra Rabiee",
+					"id": 137333273,
+					"id_str": "137333273",
+					"indices": [
+						122,
+						134
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1364300383628234800,
+		"in_reply_to_status_id_str": "1364300383628234756",
+		"in_reply_to_user_id": 760090253000577000,
+		"in_reply_to_user_id_str": "760090253000577024",
+		"in_reply_to_screen_name": "pharmthorrun",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Midlands",
+			"description": "Physiotherapy & leadership 📚",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2684,
+			"friends_count": 4148,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 21342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@pharmthorrun @joinClubhouse @helenbevan @BevMatthewsRN @zarahmowhabuth @LeighAKendall @ihbaines @HLA_int @johannmalawana @pedrarabiee ⬆️"
+	},
+	{
+		"created_at": "Tue Feb 23 19:59:17 +0000 2021",
+		"id": 1364303840619749400,
+		"id_str": "1364303840619749377",
+		"full_text": "@pharmthorrun @BevMatthewsRN @joinClubhouse @helenbevan @zarahmowhabuth @LeighAKendall @ihbaines Found it",
+		"truncated": false,
+		"display_text_range": [
+			97,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pharmthorrun",
+					"name": "Pharmacist Thorrun",
+					"id": 760090253000577000,
+					"id_str": "760090253000577024",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "BevMatthewsRN",
+					"name": "💙 Bev Matthews RN MSc (Healthcare Ethics)",
+					"id": 623693184,
+					"id_str": "623693184",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "joinClubhouse",
+					"name": "Clubhouse",
+					"id": 1242240513811480600,
+					"id_str": "1242240513811480576",
+					"indices": [
+						29,
+						43
+					]
+				},
+				{
+					"screen_name": "helenbevan",
+					"name": "Helen Bevan 💙",
+					"id": 190960735,
+					"id_str": "190960735",
+					"indices": [
+						44,
+						55
+					]
+				},
+				{
+					"screen_name": "zarahmowhabuth",
+					"name": "Zarah Mowhabuth 💙",
+					"id": 1116657567588073500,
+					"id_str": "1116657567588073473",
+					"indices": [
+						56,
+						71
+					]
+				},
+				{
+					"screen_name": "LeighAKendall",
+					"name": "Leigh Kendall FRSA 💙",
+					"id": 921556087,
+					"id_str": "921556087",
+					"indices": [
+						72,
+						86
+					]
+				},
+				{
+					"screen_name": "ihbaines",
+					"name": "Ian Baines",
+					"id": 584829853,
+					"id_str": "584829853",
+					"indices": [
+						87,
+						96
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1364303329615085600,
+		"in_reply_to_status_id_str": "1364303329615085573",
+		"in_reply_to_user_id": 760090253000577000,
+		"in_reply_to_user_id_str": "760090253000577024",
+		"in_reply_to_screen_name": "pharmthorrun",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Midlands",
+			"description": "Physiotherapy & leadership 📚",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2684,
+			"friends_count": 4148,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 21342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@pharmthorrun @BevMatthewsRN @joinClubhouse @helenbevan @zarahmowhabuth @LeighAKendall @ihbaines Found it"
+	},
+	{
+		"created_at": "Tue Feb 23 19:55:57 +0000 2021",
+		"id": 1364302999015817200,
+		"id_str": "1364302999015817217",
+		"full_text": "@pharmthorrun @BevMatthewsRN @joinClubhouse @helenbevan @zarahmowhabuth @LeighAKendall @ihbaines Ooo I missed this!",
+		"truncated": false,
+		"display_text_range": [
+			97,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pharmthorrun",
+					"name": "Pharmacist Thorrun",
+					"id": 760090253000577000,
+					"id_str": "760090253000577024",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "BevMatthewsRN",
+					"name": "💙 Bev Matthews RN MSc (Healthcare Ethics)",
+					"id": 623693184,
+					"id_str": "623693184",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "joinClubhouse",
+					"name": "Clubhouse",
+					"id": 1242240513811480600,
+					"id_str": "1242240513811480576",
+					"indices": [
+						29,
+						43
+					]
+				},
+				{
+					"screen_name": "helenbevan",
+					"name": "Helen Bevan 💙",
+					"id": 190960735,
+					"id_str": "190960735",
+					"indices": [
+						44,
+						55
+					]
+				},
+				{
+					"screen_name": "zarahmowhabuth",
+					"name": "Zarah Mowhabuth 💙",
+					"id": 1116657567588073500,
+					"id_str": "1116657567588073473",
+					"indices": [
+						56,
+						71
+					]
+				},
+				{
+					"screen_name": "LeighAKendall",
+					"name": "Leigh Kendall FRSA 💙",
+					"id": 921556087,
+					"id_str": "921556087",
+					"indices": [
+						72,
+						86
+					]
+				},
+				{
+					"screen_name": "ihbaines",
+					"name": "Ian Baines",
+					"id": 584829853,
+					"id_str": "584829853",
+					"indices": [
+						87,
+						96
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1364300383628234800,
+		"in_reply_to_status_id_str": "1364300383628234756",
+		"in_reply_to_user_id": 760090253000577000,
+		"in_reply_to_user_id_str": "760090253000577024",
+		"in_reply_to_screen_name": "pharmthorrun",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Midlands",
+			"description": "Physiotherapy & leadership 📚",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2684,
+			"friends_count": 4148,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 21342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@pharmthorrun @BevMatthewsRN @joinClubhouse @helenbevan @zarahmowhabuth @LeighAKendall @ihbaines Ooo I missed this!"
+	},
+	{
+		"created_at": "Tue Feb 23 19:28:04 +0000 2021",
+		"id": 1364295982733754400,
+		"id_str": "1364295982733754369",
+		"full_text": "@dan26wales @niamhhphysio 👏🏻👏🏻",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dan26wales",
+					"name": "Dan Thomas",
+					"id": 400276868,
+					"id_str": "400276868",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "niamhhphysio",
+					"name": "Niamh Hughes",
+					"id": 1176438861569962000,
+					"id_str": "1176438861569961985",
+					"indices": [
+						12,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1364293484849623000,
+		"in_reply_to_status_id_str": "1364293484849623042",
+		"in_reply_to_user_id": 400276868,
+		"in_reply_to_user_id_str": "400276868",
+		"in_reply_to_screen_name": "dan26wales",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Midlands",
+			"description": "Physiotherapy & leadership 📚",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2684,
+			"friends_count": 4148,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 21342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@dan26wales @niamhhphysio 👏🏻👏🏻"
+	},
+	{
+		"created_at": "Tue Feb 23 17:45:03 +0000 2021",
+		"id": 1364270057686257700,
+		"id_str": "1364270057686257664",
+		"full_text": "@dsaleh14 @HLA_int Thank you for all the work behind the scenes with the mentoring programme @dsaleh14 👍",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dsaleh14",
+					"name": "Dina Saleh",
+					"id": 1907739390,
+					"id_str": "1907739390",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"screen_name": "dsaleh14",
+					"name": "Dina Saleh",
+					"id": 1907739390,
+					"id_str": "1907739390",
+					"indices": [
+						93,
+						102
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1363882894830293000,
+		"in_reply_to_status_id_str": "1363882894830292993",
+		"in_reply_to_user_id": 1907739390,
+		"in_reply_to_user_id_str": "1907739390",
+		"in_reply_to_screen_name": "dsaleh14",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Midlands",
+			"description": "Physiotherapy & leadership 📚",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2684,
+			"friends_count": 4148,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 21342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dsaleh14 @HLA_int Thank you for all the work behind the scenes with the mentoring programme @dsaleh14 👍"
+	},
+	{
+		"created_at": "Tue Feb 23 17:28:52 +0000 2021",
+		"id": 1364265984798916600,
+		"id_str": "1364265984798916608",
+		"full_text": "Thank you for all your efforts #InThisTogether \nGreat to see at @UHDBTrust - More to come! \n\n@magnusharrison @UrchTyrone @CathyWinfield\n@east_mids_rfca @Duffzk47 @amrawlings https://t.co/7Sak5iGTCg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InThisTogether",
+					"indices": [
+						31,
+						46
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						64,
+						74
+					]
+				},
+				{
+					"screen_name": "magnusharrison",
+					"name": "Dr. Magnus Harrison 😷🌈💙",
+					"id": 258272524,
+					"id_str": "258272524",
+					"indices": [
+						93,
+						108
+					]
+				},
+				{
+					"screen_name": "UrchTyrone",
+					"name": "Home Command & Standing Joint Command (UK)",
+					"id": 719213187074289700,
+					"id_str": "719213187074289665",
+					"indices": [
+						109,
+						120
+					]
+				},
+				{
+					"screen_name": "CathyWinfield",
+					"name": "Cathy Winfield MBE, RN, MSc💙",
+					"id": 2188050351,
+					"id_str": "2188050351",
+					"indices": [
+						121,
+						135
+					]
+				},
+				{
+					"screen_name": "east_mids_rfca",
+					"name": "East Midlands RFCA",
+					"id": 96968207,
+					"id_str": "96968207",
+					"indices": [
+						136,
+						151
+					]
+				},
+				{
+					"screen_name": "Duffzk47",
+					"name": "Mark Duffy",
+					"id": 4829574957,
+					"id_str": "4829574957",
+					"indices": [
+						152,
+						161
+					]
+				},
+				{
+					"screen_name": "amrawlings",
+					"name": "amanda rawlings",
+					"id": 631943465,
+					"id_str": "631943465",
+					"indices": [
+						162,
+						173
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7Sak5iGTCg",
+					"expanded_url": "https://twitter.com/UHDBTrust/status/1364216872045051904",
+					"display_url": "twitter.com/UHDBTrust/stat…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Midlands",
+			"description": "Physiotherapy & leadership 📚",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2684,
+			"friends_count": 4148,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 21342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1364216872045052000,
+		"quoted_status_id_str": "1364216872045051904",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7Sak5iGTCg",
+			"expanded": "https://twitter.com/UHDBTrust/status/1364216872045051904",
+			"display": "twitter.com/UHDBTrust/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 23 14:13:42 +0000 2021",
+			"id": 1364216872045052000,
+			"id_str": "1364216872045051904",
+			"full_text": "👏🏾On behalf of our whole @UHDBTrust family, we'd like to say a huge thank you to the @BritishArmy colleagues who have been supporting our staff at Royal Derby Hospital over the last few weeks. Find out more at: https://t.co/0d7kMBLPHp https://t.co/7eVvrX0Q2a",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				234
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UHDBTrust",
+						"name": "University Hospitals of Derby and Burton NHS FT",
+						"id": 429877936,
+						"id_str": "429877936",
+						"indices": [
+							25,
+							35
+						]
+					},
+					{
+						"screen_name": "BritishArmy",
+						"name": "British Army",
+						"id": 22046686,
+						"id_str": "22046686",
+						"indices": [
+							85,
+							97
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/0d7kMBLPHp",
+						"expanded_url": "http://bit.ly/3slC5fW",
+						"display_url": "bit.ly/3slC5fW",
+						"indices": [
+							211,
+							234
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1364216147462209500,
+						"id_str": "1364216147462209538",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/media/Eu6rW7JWQAI0Nx6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eu6rW7JWQAI0Nx6.jpg",
+						"url": "https://t.co/7eVvrX0Q2a",
+						"display_url": "pic.twitter.com/7eVvrX0Q2a",
+						"expanded_url": "https://twitter.com/UHDBTrust/status/1364216872045051904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1366,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1364216147462209500,
+						"id_str": "1364216147462209538",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/media/Eu6rW7JWQAI0Nx6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Eu6rW7JWQAI0Nx6.jpg",
+						"url": "https://t.co/7eVvrX0Q2a",
+						"display_url": "pic.twitter.com/7eVvrX0Q2a",
+						"expanded_url": "https://twitter.com/UHDBTrust/status/1364216872045051904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 2048,
+								"h": 1366,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 429877936,
+				"id_str": "429877936",
+				"name": "University Hospitals of Derby and Burton NHS FT",
+				"screen_name": "UHDBTrust",
+				"location": "Derby, Burton, Tamworth, Lichfield",
+				"description": "Official Twitter page of University Hospitals of Derby and Burton NHS Foundation Trust. 🏥\n\nThis account is monitored Mon-Fri, 9am-5pm (excluding Bank Holidays)",
+				"url": "https://t.co/x70bd3ATs0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/x70bd3ATs0",
+								"expanded_url": "http://www.uhdb.nhs.uk",
+								"display_url": "uhdb.nhs.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14858,
+				"friends_count": 1256,
+				"listed_count": 157,
+				"created_at": "Tue Dec 06 14:09:36 +0000 2011",
+				"favourites_count": 8052,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 20965,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1357367364740866057/NZTrxMrj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1357367364740866057/NZTrxMrj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/429877936/1612456574",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 97,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you for all your efforts #InThisTogether \nGreat to see at @UHDBTrust - More to come! \n\n@magnusharrison @UrchTyrone @CathyWinfield\n@east_mids_rfca @Duffzk47 @amrawlings https://t.co/7Sak5iGTCg"
+	},
+	{
+		"created_at": "Tue Feb 23 16:42:13 +0000 2021",
+		"id": 1364254247840338000,
+		"id_str": "1364254247840337921",
+		"full_text": "@PaulChapman09 @NHSEArmedForces @NHS_HealthEdEng @musictherapyuk @JAGBooth @NHSChoir @benalexcowley @WeAHPs @teamtouchdesign Brilliant to read this 👏 👏",
+		"truncated": false,
+		"display_text_range": [
+			125,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PaulChapman09",
+					"name": "Paul_Chapman09",
+					"id": 735562813146533900,
+					"id_str": "735562813146533888",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "NHSEArmedForces",
+					"name": "NHSE Armed Forces",
+					"id": 2831648813,
+					"id_str": "2831648813",
+					"indices": [
+						15,
+						31
+					]
+				},
+				{
+					"screen_name": "NHS_HealthEdEng",
+					"name": "NHS HEE",
+					"id": 637008966,
+					"id_str": "637008966",
+					"indices": [
+						32,
+						48
+					]
+				},
+				{
+					"screen_name": "musictherapyuk",
+					"name": "Music Therapy: BAMT",
+					"id": 255197588,
+					"id_str": "255197588",
+					"indices": [
+						49,
+						64
+					]
+				},
+				{
+					"screen_name": "JAGBooth",
+					"name": "Jon Booth",
+					"id": 144669607,
+					"id_str": "144669607",
+					"indices": [
+						65,
+						74
+					]
+				},
+				{
+					"screen_name": "NHSChoir",
+					"name": "NHS Choir",
+					"id": 2830346810,
+					"id_str": "2830346810",
+					"indices": [
+						75,
+						84
+					]
+				},
+				{
+					"screen_name": "benalexcowley",
+					"name": "Ben Cowley",
+					"id": 35846802,
+					"id_str": "35846802",
+					"indices": [
+						85,
+						99
+					]
+				},
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs 💙",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"screen_name": "teamtouchdesign",
+					"name": "Touch Design 💙",
+					"id": 175411546,
+					"id_str": "175411546",
+					"indices": [
+						108,
+						124
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1364244190956314600,
+		"in_reply_to_status_id_str": "1364244190956314629",
+		"in_reply_to_user_id": 735562813146533900,
+		"in_reply_to_user_id_str": "735562813146533888",
+		"in_reply_to_screen_name": "PaulChapman09",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Midlands",
+			"description": "Physiotherapy & leadership 📚",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2684,
+			"friends_count": 4148,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 21342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PaulChapman09 @NHSEArmedForces @NHS_HealthEdEng @musictherapyuk @JAGBooth @NHSChoir @benalexcowley @WeAHPs @teamtouchdesign Brilliant to read this 👏 👏"
+	},
+	{
 		"created_at": "Mon Feb 22 20:55:28 +0000 2021",
 		"id": 1363955590863667200,
 		"id_str": "1363955590863667206",
