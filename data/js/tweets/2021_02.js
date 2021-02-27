@@ -1,6 +1,478 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Fri Feb 26 20:01:53 +0000 2021",
+		"id": 1365391657030541300,
+		"id_str": "1365391657030541315",
+		"full_text": "No death by PowerPoint here ⬇️🇬🇧 https://t.co/pVtwsc1k2o",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pVtwsc1k2o",
+					"expanded_url": "https://twitter.com/sapper1801/status/1365014280085643265",
+					"display_url": "twitter.com/sapper1801/sta…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Midlands",
+			"description": "Physiotherapy & leadership 📚",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2687,
+			"friends_count": 4163,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 21401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1365014280085643300,
+		"quoted_status_id_str": "1365014280085643265",
+		"quoted_status_permalink": {
+			"url": "https://t.co/pVtwsc1k2o",
+			"expanded": "https://twitter.com/sapper1801/status/1365014280085643265",
+			"display": "twitter.com/sapper1801/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 25 19:02:19 +0000 2021",
+			"id": 1365014280085643300,
+			"id_str": "1365014280085643265",
+			"full_text": "Another classic..not sure about historical accuracy but worth watching..?? Good cast..film will be recognisable by many..some may know relatives who where there..enjoy https://t.co/Y0FPWK6P5A",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				167
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1365013871120035800,
+						"id_str": "1365013871120035843",
+						"indices": [
+							168,
+							191
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1365013871120035843/pu/img/FxktPrfuJqohogKF.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1365013871120035843/pu/img/FxktPrfuJqohogKF.jpg",
+						"url": "https://t.co/Y0FPWK6P5A",
+						"display_url": "pic.twitter.com/Y0FPWK6P5A",
+						"expanded_url": "https://twitter.com/Sapper1801/status/1365014280085643265/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1365013871120035800,
+						"id_str": "1365013871120035843",
+						"indices": [
+							168,
+							191
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1365013871120035843/pu/img/FxktPrfuJqohogKF.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1365013871120035843/pu/img/FxktPrfuJqohogKF.jpg",
+						"url": "https://t.co/Y0FPWK6P5A",
+						"display_url": "pic.twitter.com/Y0FPWK6P5A",
+						"expanded_url": "https://twitter.com/Sapper1801/status/1365014280085643265/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 140000,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1365013871120035843/pu/vid/480x270/Fpspe4h3ezAAXH0-.mp4?tag=10"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1365013871120035843/pu/pl/O0b9JWEaY7UgGgKL.m3u8?tag=10"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1365013871120035843/pu/vid/640x360/xv5r-tijkM2na96O.mp4?tag=10"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 213341917,
+				"id_str": "213341917",
+				"name": "Carl M",
+				"screen_name": "Sapper1801",
+				"location": "",
+				"description": "I'm no longer accepting the things I cannot change , I'm changing the things I cannot accept . Anon",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 553,
+				"friends_count": 1608,
+				"listed_count": 4,
+				"created_at": "Mon Nov 08 17:33:18 +0000 2010",
+				"favourites_count": 23180,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 13082,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1362494981047476225/qFN6wK3o_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1362494981047476225/qFN6wK3o_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/213341917/1604657754",
+				"profile_link_color": "0051B3",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 41,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No death by PowerPoint here ⬇️🇬🇧 https://t.co/pVtwsc1k2o"
+	},
+	{
+		"created_at": "Fri Feb 26 19:37:24 +0000 2021",
+		"id": 1365385497871343600,
+		"id_str": "1365385497871343624",
+		"full_text": "@neiljlangridge Thank you &amp; you too.\nIt just takes time and we’re not accustomed to that…",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "neiljlangridge",
+					"name": "Neil Langridge",
+					"id": 1890279319,
+					"id_str": "1890279319",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1365381674884878300,
+		"in_reply_to_status_id_str": "1365381674884878336",
+		"in_reply_to_user_id": 1890279319,
+		"in_reply_to_user_id_str": "1890279319",
+		"in_reply_to_screen_name": "neiljlangridge",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Midlands",
+			"description": "Physiotherapy & leadership 📚",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2687,
+			"friends_count": 4163,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 21401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@neiljlangridge Thank you &amp; you too.\nIt just takes time and we’re not accustomed to that…"
+	},
+	{
+		"created_at": "Fri Feb 26 18:57:03 +0000 2021",
+		"id": 1365375339426381800,
+		"id_str": "1365375339426381826",
+		"full_text": "@neiljlangridge I describe my post-covid fog as the turning down of a dimmer switch. Slowly the switch is turned up and the room begins to be illuminated again. Take care Neil.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "neiljlangridge",
+					"name": "Neil Langridge",
+					"id": 1890279319,
+					"id_str": "1890279319",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1365057734484312000,
+		"in_reply_to_status_id_str": "1365057734484312064",
+		"in_reply_to_user_id": 1890279319,
+		"in_reply_to_user_id_str": "1890279319",
+		"in_reply_to_screen_name": "neiljlangridge",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Midlands",
+			"description": "Physiotherapy & leadership 📚",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2687,
+			"friends_count": 4163,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 21401,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@neiljlangridge I describe my post-covid fog as the turning down of a dimmer switch. Slowly the switch is turned up and the room begins to be illuminated again. Take care Neil."
+	},
+	{
 		"created_at": "Thu Feb 25 20:43:18 +0000 2021",
 		"id": 1365012993382187000,
 		"id_str": "1365039690517262339",
