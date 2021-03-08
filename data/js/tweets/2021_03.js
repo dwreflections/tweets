@@ -1,6 +1,1024 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sun Mar 07 22:13:03 +0000 2021",
+		"id": 1368686157538750500,
+		"id_str": "1368686157538750466",
+		"full_text": "@AdamMeakins @joinClubhouse I have a few @joinClubhouse invites. If anyone wants one and wants to take part in this discussion let me know (iPhone only I’m afraid).",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AdamMeakins",
+					"name": "The Sp⚽️rts Physio",
+					"id": 20363222,
+					"id_str": "20363222",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "joinClubhouse",
+					"name": "Clubhouse",
+					"id": 1242240513811480600,
+					"id_str": "1242240513811480576",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"screen_name": "joinClubhouse",
+					"name": "Clubhouse",
+					"id": 1242240513811480600,
+					"id_str": "1242240513811480576",
+					"indices": [
+						41,
+						55
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1368677499358609400,
+		"in_reply_to_status_id_str": "1368677499358609419",
+		"in_reply_to_user_id": 20363222,
+		"in_reply_to_user_id_str": "20363222",
+		"in_reply_to_screen_name": "AdamMeakins",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio interested in change agency, innovation & leadership | Armed Forces Champion | @hla_int Scholar | #150Leaders | CSP Prof. Committee | School Governor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2698,
+			"friends_count": 4181,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 21519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AdamMeakins @joinClubhouse I have a few @joinClubhouse invites. If anyone wants one and wants to take part in this discussion let me know (iPhone only I’m afraid)."
+	},
+	{
+		"created_at": "Sun Mar 07 21:47:39 +0000 2021",
+		"id": 1368675251425542100,
+		"id_str": "1368679764525998082",
+		"full_text": "Lessons from the military by @consultantPT \n🔸Don’t take the easy road\n🔸Treat every job as if it’s your last\n🔸Don’t expect people to know your aspirations\n🔸Leadership &amp; moral courage\n🔸Recruit for attitude, then teach skills\n\n#BAME #Mentorship \n@culturalhealth_",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "BAME",
+					"indices": [
+						228,
+						233
+					]
+				},
+				{
+					"text": "Mentorship",
+					"indices": [
+						234,
+						245
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "consultantPT",
+					"name": "Uzo Ehiogu",
+					"id": 1039521456,
+					"id_str": "1039521456",
+					"indices": [
+						29,
+						42
+					]
+				},
+				{
+					"screen_name": "culturalhealth_",
+					"name": "Cultural Health Club",
+					"id": 1254809652774211600,
+					"id_str": "1254809652774211584",
+					"indices": [
+						247,
+						263
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 834914286040383500,
+			"id_str": "834914286040383488",
+			"name": "Justine Musiime - MCSP MSc MPH",
+			"screen_name": "JustineMusiime",
+			"location": "",
+			"description": "Physiotherapist & BAME Network Vice-chair @HCTNHS | @AGILECSP East Rep | Founder @SiimaSchool\nPassionate about community rehab, health equity & entrepreneurship",
+			"url": "https://t.co/kJL1vuExEE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/kJL1vuExEE",
+							"expanded_url": "https://justinemusiime.wordpress.com/blog/",
+							"display_url": "justinemusiime.wordpress.com/blog/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 986,
+			"friends_count": 3646,
+			"listed_count": 2,
+			"created_at": "Thu Feb 23 23:54:12 +0000 2017",
+			"favourites_count": 3356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 3362,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326647821056045058/xIrRSPoi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326647821056045058/xIrRSPoi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/834914286040383488/1503278926",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Lessons from the military by @consultantPT \n🔸Don’t take the easy road\n🔸Treat every job as if it’s your last\n🔸Don’t expect people to know your aspirations\n🔸Leadership &amp; moral courage\n🔸Recruit for attitude, then teach skills\n\n#BAME #Mentorship \n@culturalhealth_"
+	},
+	{
+		"created_at": "Sun Mar 07 17:30:02 +0000 2021",
+		"id": 1368614932552573000,
+		"id_str": "1368614932552572931",
+		"full_text": "@150Leaders I need to catch up with these! 🎧",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "150Leaders",
+					"name": "Student Leadership Programme #150Leaders",
+					"id": 1139187039151280100,
+					"id_str": "1139187039151280128",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1368595798171086800,
+		"in_reply_to_status_id_str": "1368595798171086849",
+		"in_reply_to_user_id": 1139187039151280100,
+		"in_reply_to_user_id_str": "1139187039151280128",
+		"in_reply_to_screen_name": "150Leaders",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio interested in change agency, innovation & leadership | Armed Forces Champion | @hla_int Scholar | #150Leaders | CSP Prof. Committee | School Governor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2698,
+			"friends_count": 4181,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 21519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@150Leaders I need to catch up with these! 🎧"
+	},
+	{
+		"created_at": "Sun Mar 07 16:44:34 +0000 2021",
+		"id": 1368603490159825000,
+		"id_str": "1368603490159824896",
+		"full_text": "Get on this @thecspstudents @WeAHPs it’s a game changer! A highlight of my UG degree 🙌\n\nAny questions about the @150Leaders Student Leadership Programme - my inbox is always open 📥 \n\n@PMFirstSteps @generationAHP @AHPLeader @UoN_SHS #150Leaders https://t.co/apGySeO6Lk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			243
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "150Leaders",
+					"indices": [
+						232,
+						243
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thecspstudents",
+					"name": "CSP Students",
+					"id": 444648690,
+					"id_str": "444648690",
+					"indices": [
+						12,
+						27
+					]
+				},
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs 💙",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						28,
+						35
+					]
+				},
+				{
+					"screen_name": "150Leaders",
+					"name": "Student Leadership Programme #150Leaders",
+					"id": 1139187039151280100,
+					"id_str": "1139187039151280128",
+					"indices": [
+						112,
+						123
+					]
+				},
+				{
+					"screen_name": "PMFirstSteps",
+					"name": "Physio Matters First Steps",
+					"id": 840861722286137300,
+					"id_str": "840861722286137349",
+					"indices": [
+						183,
+						196
+					]
+				},
+				{
+					"screen_name": "generationAHP",
+					"name": "generationAHP",
+					"id": 1159177540189196300,
+					"id_str": "1159177540189196289",
+					"indices": [
+						197,
+						211
+					]
+				},
+				{
+					"screen_name": "AHPLeader",
+					"name": "Rachael Moses",
+					"id": 107548705,
+					"id_str": "107548705",
+					"indices": [
+						212,
+						222
+					]
+				},
+				{
+					"screen_name": "UoN_SHS",
+					"name": "UoN Health Sciences",
+					"id": 512054069,
+					"id_str": "512054069",
+					"indices": [
+						223,
+						231
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/apGySeO6Lk",
+					"expanded_url": "https://twitter.com/burdetttrust/status/1368601838031753216",
+					"display_url": "twitter.com/burdetttrust/s…",
+					"indices": [
+						244,
+						267
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio interested in change agency, innovation & leadership | Armed Forces Champion | @hla_int Scholar | #150Leaders | CSP Prof. Committee | School Governor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2698,
+			"friends_count": 4181,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 21519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1368601838031753200,
+		"quoted_status_id_str": "1368601838031753216",
+		"quoted_status_permalink": {
+			"url": "https://t.co/apGySeO6Lk",
+			"expanded": "https://twitter.com/burdetttrust/status/1368601838031753216",
+			"display": "twitter.com/burdetttrust/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 07 16:38:00 +0000 2021",
+			"id": 1368601838031753200,
+			"id_str": "1368601838031753216",
+			"full_text": "On 30th March, @councilofdeans are holding a webinar for those interested in finding out about their Student Leadership Programme and making an application to \n@150Leaders.\n\nRegister to attend here: https://t.co/qiyAxIUGkq\n\n#studentnurse #leadership",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				249
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "studentnurse",
+						"indices": [
+							224,
+							237
+						]
+					},
+					{
+						"text": "leadership",
+						"indices": [
+							238,
+							249
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "councilofdeans",
+						"name": "Council of Deans of Health",
+						"id": 278442312,
+						"id_str": "278442312",
+						"indices": [
+							15,
+							30
+						]
+					},
+					{
+						"screen_name": "150Leaders",
+						"name": "Student Leadership Programme #150Leaders",
+						"id": 1139187039151280100,
+						"id_str": "1139187039151280128",
+						"indices": [
+							160,
+							171
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/qiyAxIUGkq",
+						"expanded_url": "https://buff.ly/3aXNCwm",
+						"display_url": "buff.ly/3aXNCwm",
+						"indices": [
+							199,
+							222
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1227571489,
+				"id_str": "1227571489",
+				"name": "Burdett Trust 💙",
+				"screen_name": "BurdettTrust",
+				"location": "UK",
+				"description": "Charitable grants for nursing. Partners: Florence Nightingale Foundation, @FoNSCharity, C3, WCMT, Council of Deans",
+				"url": "https://t.co/mBSW269lE1",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mBSW269lE1",
+								"expanded_url": "http://www.btfn.org.uk",
+								"display_url": "btfn.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5506,
+				"friends_count": 1700,
+				"listed_count": 78,
+				"created_at": "Thu Feb 28 13:33:45 +0000 2013",
+				"favourites_count": 4025,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 10954,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000529080047/86394383fb9e779a441336f3a3c72c48_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000529080047/86394383fb9e779a441336f3a3c72c48_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1227571489/1527186063",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Get on this @thecspstudents @WeAHPs it’s a game changer! A highlight of my UG degree 🙌\n\nAny questions about the @150Leaders Student Leadership Programme - my inbox is always open 📥 \n\n@PMFirstSteps @generationAHP @AHPLeader @UoN_SHS #150Leaders https://t.co/apGySeO6Lk"
+	},
+	{
+		"created_at": "Sun Mar 07 16:40:15 +0000 2021",
+		"id": 1368602406901198800,
+		"id_str": "1368602406901198853",
+		"full_text": "@exerciseworks And South Korean drama too I hope… ☺️👍",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "exerciseworks",
+					"name": "Exercise Works!",
+					"id": 256921454,
+					"id_str": "256921454",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1368546302896857000,
+		"in_reply_to_status_id_str": "1368546302896857088",
+		"in_reply_to_user_id": 256921454,
+		"in_reply_to_user_id_str": "256921454",
+		"in_reply_to_screen_name": "exerciseworks",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio interested in change agency, innovation & leadership | Armed Forces Champion | @hla_int Scholar | #150Leaders | CSP Prof. Committee | School Governor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2698,
+			"friends_count": 4181,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 21519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@exerciseworks And South Korean drama too I hope… ☺️👍"
+	},
+	{
+		"created_at": "Sun Mar 07 10:19:39 +0000 2021",
+		"id": 1368506623359082500,
+		"id_str": "1368506623359082497",
+		"full_text": "@PDarbyshire You do not have to be at the ‘bedside’ to care for patients.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PDarbyshire",
+					"name": "Philip Darbyshire",
+					"id": 22250517,
+					"id_str": "22250517",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1368052267543392300,
+		"in_reply_to_status_id_str": "1368052267543392258",
+		"in_reply_to_user_id": 22250517,
+		"in_reply_to_user_id_str": "22250517",
+		"in_reply_to_screen_name": "PDarbyshire",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio interested in change agency, innovation & leadership | Armed Forces Champion | @hla_int Scholar | #150Leaders | CSP Prof. Committee | School Governor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2698,
+			"friends_count": 4181,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 21519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PDarbyshire You do not have to be at the ‘bedside’ to care for patients."
+	},
+	{
+		"created_at": "Sun Mar 07 10:18:37 +0000 2021",
+		"id": 1368506365329735700,
+		"id_str": "1368506365329735683",
+		"full_text": "@optimiseTFSP So underestimated…",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "optimiseTFSP",
+					"name": "The Field Sports Physio",
+					"id": 950415679257268200,
+					"id_str": "950415679257268224",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1368270266531520500,
+		"in_reply_to_status_id_str": "1368270266531520513",
+		"in_reply_to_user_id": 950415679257268200,
+		"in_reply_to_user_id_str": "950415679257268224",
+		"in_reply_to_screen_name": "optimiseTFSP",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio interested in change agency, innovation & leadership | Armed Forces Champion | @hla_int Scholar | #150Leaders | CSP Prof. Committee | School Governor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2698,
+			"friends_count": 4181,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 21519,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@optimiseTFSP So underestimated…"
+	},
+	{
+		"created_at": "Sun Mar 07 10:17:40 +0000 2021",
+		"id": 1368338753270542300,
+		"id_str": "1368506126422204420",
+		"full_text": "Has anyone managed to change a 'culture'? I'm about to move jobs for this reason - into a well paid, progressive role I'm excited about. But how do you get nurses/HCAs/doctors (in some cases) to see the value of physio? I'm in an OT centered therapy team currently for background.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 839176365530366000,
+			"id_str": "839176365530365956",
+			"name": "Karen Thomas",
+			"screen_name": "Karen_ThPCU",
+			"location": "Cambridge, England",
+			"description": "Chuffed PhD holder, Post-Stroke Fatigue @Cambridge_Uni | Senior Chartered Physio (neuro) | @HLA_int Scholar | Lifetime sailor/Proud @BUSASAILING Chairwoman⛵|",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 753,
+			"friends_count": 665,
+			"listed_count": 7,
+			"created_at": "Tue Mar 07 18:10:11 +0000 2017",
+			"favourites_count": 3476,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1638,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149349110828425217/BLyl7-tO_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149349110828425217/BLyl7-tO_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/839176365530365956/1607380801",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 34,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Has anyone managed to change a 'culture'? I'm about to move jobs for this reason - into a well paid, progressive role I'm excited about. But how do you get nurses/HCAs/doctors (in some cases) to see the value of physio? I'm in an OT centered therapy team currently for background."
+	},
+	{
 		"created_at": "Sat Mar 06 10:59:52 +0000 2021",
 		"id": 1368154355317215200,
 		"id_str": "1368154355317215234",
