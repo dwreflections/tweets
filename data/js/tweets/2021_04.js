@@ -1,6 +1,677 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Tue Apr 13 18:22:25 +0000 2021",
+		"id": 1382036468122726400,
+		"id_str": "1382036468122726402",
+		"full_text": "@magnusharrison @SharonMartin25 Phys in the bag! 💪",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "magnusharrison",
+					"name": "Dr. Magnus Harrison 😷🌈💙",
+					"id": 258272524,
+					"id_str": "258272524",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "SharonMartin25",
+					"name": "Sharon Martin 💙",
+					"id": 463916203,
+					"id_str": "463916203",
+					"indices": [
+						16,
+						31
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1382025198833168400,
+		"in_reply_to_status_id_str": "1382025198833168385",
+		"in_reply_to_user_id": 258272524,
+		"in_reply_to_user_id_str": "258272524",
+		"in_reply_to_screen_name": "magnusharrison",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio with interests in innovation & leadership ▪️ Armed Forces Champion ▪️ @hla_int Scholar ▪️ #150Leaders ▪️ CSP Professional Committee ▪️ School Governor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2737,
+			"friends_count": 4232,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 21883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@magnusharrison @SharonMartin25 Phys in the bag! 💪"
+	},
+	{
+		"created_at": "Tue Apr 13 17:25:57 +0000 2021",
+		"id": 1382022255149002800,
+		"id_str": "1382022255149002752",
+		"full_text": "Super opportunity for @WeAHPs students to lead/influence on physical activity within the UG health-related curricula. ⬇️\n\n@PMFirstSteps @150Leaders #150Leaders @exerciseworks https://t.co/LMaFbuiY2n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "150Leaders",
+					"indices": [
+						148,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs 💙",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						22,
+						29
+					]
+				},
+				{
+					"screen_name": "PMFirstSteps",
+					"name": "Physio Matters First Steps",
+					"id": 840861722286137300,
+					"id_str": "840861722286137349",
+					"indices": [
+						122,
+						135
+					]
+				},
+				{
+					"screen_name": "150Leaders",
+					"name": "Student Leadership Programme #150Leaders",
+					"id": 1139187039151280100,
+					"id_str": "1139187039151280128",
+					"indices": [
+						136,
+						147
+					]
+				},
+				{
+					"screen_name": "exerciseworks",
+					"name": "Exercise Works!",
+					"id": 256921454,
+					"id_str": "256921454",
+					"indices": [
+						160,
+						174
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LMaFbuiY2n",
+					"expanded_url": "https://twitter.com/cspstudentcoord/status/1381895144778182656",
+					"display_url": "twitter.com/cspstudentcoor…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio with interests in innovation & leadership ▪️ Armed Forces Champion ▪️ @hla_int Scholar ▪️ #150Leaders ▪️ CSP Professional Committee ▪️ School Governor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2737,
+			"friends_count": 4232,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 21883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1381895144778182700,
+		"quoted_status_id_str": "1381895144778182656",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LMaFbuiY2n",
+			"expanded": "https://twitter.com/cspstudentcoord/status/1381895144778182656",
+			"display": "twitter.com/cspstudentcoor…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Apr 13 09:00:51 +0000 2021",
+			"id": 1381895144778182700,
+			"id_str": "1381895144778182656",
+			"full_text": "This is a great opportunity to influence AHP undergrad programmes in England!\n\nIf you're an AHP student studying in England and interested in sharing your views and experiences (&amp; available on 17/5), email @PHE_uk today! \n\n@ReenaPatel2120 @BeverleyHarden @KMiddletonCSP  @WeAHPs https://t.co/wUZGJEMrS4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				282
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "PHE_uk",
+						"name": "Public Health England",
+						"id": 41822696,
+						"id_str": "41822696",
+						"indices": [
+							210,
+							217
+						]
+					},
+					{
+						"screen_name": "ReenaPatel2120",
+						"name": "Reena Patel",
+						"id": 898175025739640800,
+						"id_str": "898175025739640835",
+						"indices": [
+							227,
+							242
+						]
+					},
+					{
+						"screen_name": "BeverleyHarden",
+						"name": "Beverley Harden FCSP 💙",
+						"id": 1641141318,
+						"id_str": "1641141318",
+						"indices": [
+							243,
+							258
+						]
+					},
+					{
+						"screen_name": "KMiddletonCSP",
+						"name": "Karen Middleton",
+						"id": 791233063,
+						"id_str": "791233063",
+						"indices": [
+							259,
+							273
+						]
+					},
+					{
+						"screen_name": "WeAHPs",
+						"name": "WeAHPs 💙",
+						"id": 2364573882,
+						"id_str": "2364573882",
+						"indices": [
+							275,
+							282
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1381894577280389000,
+						"id_str": "1381894577280389120",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/Ey15y-PWEAAhiBw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ey15y-PWEAAhiBw.jpg",
+						"url": "https://t.co/wUZGJEMrS4",
+						"display_url": "pic.twitter.com/wUZGJEMrS4",
+						"expanded_url": "https://twitter.com/CSPStudentCoord/status/1381895144778182656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1381894577280389000,
+						"id_str": "1381894577280389120",
+						"indices": [
+							283,
+							306
+						],
+						"media_url": "http://pbs.twimg.com/media/Ey15y-PWEAAhiBw.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Ey15y-PWEAAhiBw.jpg",
+						"url": "https://t.co/wUZGJEMrS4",
+						"display_url": "pic.twitter.com/wUZGJEMrS4",
+						"expanded_url": "https://twitter.com/CSPStudentCoord/status/1381895144778182656/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1348785632,
+				"id_str": "1348785632",
+				"name": "CSP Student Coordinator",
+				"screen_name": "CSPStudentCoord",
+				"location": "studentenquiries@csp.org.uk",
+				"description": "I’m Steph, one of @theCSP’s Student Coordinators supporting @thecspstudents. (RTs are not endorsements. Views are my own.) 😷 #physiostudent",
+				"url": "https://t.co/23tEdAq0z4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/23tEdAq0z4",
+								"expanded_url": "http://www.csp.org.uk/students",
+								"display_url": "csp.org.uk/students",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1416,
+				"friends_count": 703,
+				"listed_count": 7,
+				"created_at": "Sat Apr 13 09:15:21 +0000 2013",
+				"favourites_count": 4555,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2490,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1176097134711574531/XV4cbw1q_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1176097134711574531/XV4cbw1q_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1348785632/1591303332",
+				"profile_link_color": "21076A",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Super opportunity for @WeAHPs students to lead/influence on physical activity within the UG health-related curricula. ⬇️\n\n@PMFirstSteps @150Leaders #150Leaders @exerciseworks https://t.co/LMaFbuiY2n"
+	},
+	{
+		"created_at": "Tue Apr 13 16:06:25 +0000 2021",
+		"id": 1382002242740486100,
+		"id_str": "1382002242740486146",
+		"full_text": "@magnusharrison @SharonMartin25 https://t.co/pCB4lCiMDt",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "magnusharrison",
+					"name": "Dr. Magnus Harrison 😷🌈💙",
+					"id": 258272524,
+					"id_str": "258272524",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "SharonMartin25",
+					"name": "Sharon Martin 💙",
+					"id": 463916203,
+					"id_str": "463916203",
+					"indices": [
+						16,
+						31
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1382002233995362300,
+					"id_str": "1382002233995362310",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ey3btawXAAYjkuj.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ey3btawXAAYjkuj.jpg",
+					"url": "https://t.co/pCB4lCiMDt",
+					"display_url": "pic.twitter.com/pCB4lCiMDt",
+					"expanded_url": "https://twitter.com/beardedPT/status/1382002242740486146/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 222,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 222,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 222,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1382002233995362300,
+					"id_str": "1382002233995362310",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/Ey3btawXAAYjkuj.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/Ey3btawXAAYjkuj.jpg",
+					"url": "https://t.co/pCB4lCiMDt",
+					"display_url": "pic.twitter.com/pCB4lCiMDt",
+					"expanded_url": "https://twitter.com/beardedPT/status/1382002242740486146/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 222,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 222,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 222,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							83,
+							37
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/Ey3btawXAAYjkuj.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1381946321427382300,
+		"in_reply_to_status_id_str": "1381946321427382272",
+		"in_reply_to_user_id": 258272524,
+		"in_reply_to_user_id_str": "258272524",
+		"in_reply_to_screen_name": "magnusharrison",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio with interests in innovation & leadership ▪️ Armed Forces Champion ▪️ @hla_int Scholar ▪️ #150Leaders ▪️ CSP Professional Committee ▪️ School Governor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2737,
+			"friends_count": 4232,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 21883,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7124,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@magnusharrison @SharonMartin25 https://t.co/pCB4lCiMDt"
+	},
+	{
 		"created_at": "Mon Apr 12 19:00:58 +0000 2021",
 		"id": 1381683779966763000,
 		"id_str": "1381683779966763009",
