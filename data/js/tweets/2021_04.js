@@ -1,6 +1,546 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sat Apr 24 14:30:28 +0000 2021",
+		"id": 1385964363799015400,
+		"id_str": "1385964363799015426",
+		"full_text": "@RCNNRN I will be following this thread 🙌🏻",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RCNNRN",
+					"name": "RCN Newly Registered Nurses",
+					"id": 1192715585672634400,
+					"id_str": "1192715585672634368",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1385961426246897700,
+		"in_reply_to_status_id_str": "1385961426246897664",
+		"in_reply_to_user_id": 1192715585672634400,
+		"in_reply_to_user_id_str": "1192715585672634368",
+		"in_reply_to_screen_name": "RCNNRN",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio with interests in innovation & leadership ▪️ Armed Forces Champion ▪️ @hla_int Scholar ▪️ #150Leaders ▪️ CSP Professional Committee ▪️ School Governor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2763,
+			"friends_count": 4290,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RCNNRN I will be following this thread 🙌🏻"
+	},
+	{
+		"created_at": "Sat Apr 24 14:29:17 +0000 2021",
+		"id": 1385964066066288600,
+		"id_str": "1385964066066288643",
+		"full_text": "Recently, I have been thinking about innovation and wider collaboration in the public sector...\n\nBrilliant, to hear how about Colt's journey and the @PHFellowship ⬇️\n\nDo we have something similar in healthcare?\nI will be following @PUBLIC_Team work closely https://t.co/ysVMCTjXA7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PHFellowship",
+					"name": "Percy Hobart Fellowship",
+					"id": 1316756708593676300,
+					"id_str": "1316756708593676289",
+					"indices": [
+						149,
+						162
+					]
+				},
+				{
+					"screen_name": "PUBLIC_Team",
+					"name": "PUBLIC",
+					"id": 847757344666792000,
+					"id_str": "847757344666791937",
+					"indices": [
+						231,
+						243
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ysVMCTjXA7",
+					"expanded_url": "https://twitter.com/wavellroom/status/1383002529060036609",
+					"display_url": "twitter.com/wavellroom/sta…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio with interests in innovation & leadership ▪️ Armed Forces Champion ▪️ @hla_int Scholar ▪️ #150Leaders ▪️ CSP Professional Committee ▪️ School Governor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2763,
+			"friends_count": 4290,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1383002529060036600,
+		"quoted_status_id_str": "1383002529060036609",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ysVMCTjXA7",
+			"expanded": "https://twitter.com/wavellroom/status/1383002529060036609",
+			"display": "twitter.com/wavellroom/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 16 10:21:12 +0000 2021",
+			"id": 1383002529060036600,
+			"id_str": "1383002529060036609",
+			"full_text": "‼️New podcast‼️\n\nOur 3rd Episode in the Innovation and Defenc's Language of Change podcast series with Royal Marine Colt Callaghan:\n\n🗣\"A lot of Defence changes are happening but people aren't feeling it.\" \n\nhttps://t.co/fNdK74Ac7S",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				230
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fNdK74Ac7S",
+						"expanded_url": "https://podcasts.apple.com/gb/podcast/podcast-royal-marine-colt-callaghan-innovation-defences/id1408792412?i=1000517353093",
+						"display_url": "podcasts.apple.com/gb/podcast/pod…",
+						"indices": [
+							207,
+							230
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 831115063499059200,
+				"id_str": "831115063499059201",
+				"name": "Wavell Room - British Military Thinking",
+				"screen_name": "wavellroom",
+				"location": "The Conceptual Space",
+				"description": "Contemporary British Military Thought Site [not official UK MOD] Use #UKPME or #PME Contribute - https://t.co/NVsEHqrDHR SundayFragO SignUp at Homepage",
+				"url": "https://t.co/Woj7PXTgYw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Woj7PXTgYw",
+								"expanded_url": "http://wavellroom.com",
+								"display_url": "wavellroom.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/NVsEHqrDHR",
+								"expanded_url": "http://bit.ly/2K7RcqO",
+								"display_url": "bit.ly/2K7RcqO",
+								"indices": [
+									97,
+									120
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 19278,
+				"friends_count": 4337,
+				"listed_count": 197,
+				"created_at": "Mon Feb 13 12:17:27 +0000 2017",
+				"favourites_count": 12715,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 13823,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1008663381165912064/lsn8tb75_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1008663381165912064/lsn8tb75_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/831115063499059201/1529329844",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 9,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Recently, I have been thinking about innovation and wider collaboration in the public sector...\n\nBrilliant, to hear how about Colt's journey and the @PHFellowship ⬇️\n\nDo we have something similar in healthcare?\nI will be following @PUBLIC_Team work closely https://t.co/ysVMCTjXA7"
+	},
+	{
+		"created_at": "Sat Apr 24 13:34:33 +0000 2021",
+		"id": 1385950291250585600,
+		"id_str": "1385950291250585602",
+		"full_text": "@iwanttobeamedic I like them…",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iwanttobeamedic",
+					"name": "iwanttobeamedic #stayathome",
+					"id": 305004186,
+					"id_str": "305004186",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1385903270632333300,
+		"in_reply_to_status_id_str": "1385903270632333312",
+		"in_reply_to_user_id": 305004186,
+		"in_reply_to_user_id_str": "305004186",
+		"in_reply_to_screen_name": "iwanttobeamedic",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio with interests in innovation & leadership ▪️ Armed Forces Champion ▪️ @hla_int Scholar ▪️ #150Leaders ▪️ CSP Professional Committee ▪️ School Governor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2763,
+			"friends_count": 4290,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@iwanttobeamedic I like them…"
+	},
+	{
+		"created_at": "Sat Apr 24 13:31:28 +0000 2021",
+		"id": 1385949515786690600,
+		"id_str": "1385949515786690561",
+		"full_text": "@MontereyZack @BBCScotland \"The NHS backlog isn’t really a party political issue, and the solution is rather obvious: more people are needed.\" \n\nSpot on! @MontereyZack",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MontereyZack",
+					"name": "Zack Hassan",
+					"id": 215079629,
+					"id_str": "215079629",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "BBCScotland",
+					"name": "BBC Scotland",
+					"id": 622133,
+					"id_str": "622133",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "MontereyZack",
+					"name": "Zack Hassan",
+					"id": 215079629,
+					"id_str": "215079629",
+					"indices": [
+						154,
+						167
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1385941786380677000,
+		"in_reply_to_status_id_str": "1385941786380677122",
+		"in_reply_to_user_id": 215079629,
+		"in_reply_to_user_id_str": "215079629",
+		"in_reply_to_screen_name": "MontereyZack",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio with interests in innovation & leadership ▪️ Armed Forces Champion ▪️ @hla_int Scholar ▪️ #150Leaders ▪️ CSP Professional Committee ▪️ School Governor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2763,
+			"friends_count": 4290,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22020,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MontereyZack @BBCScotland \"The NHS backlog isn’t really a party political issue, and the solution is rather obvious: more people are needed.\" \n\nSpot on! @MontereyZack"
+	},
+	{
 		"created_at": "Fri Apr 23 18:58:32 +0000 2021",
 		"id": 1385669435361566700,
 		"id_str": "1385669435361566720",
