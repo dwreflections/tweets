@@ -1,6 +1,559 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Thu Apr 29 21:21:30 +0000 2021",
+		"id": 1387877920878829600,
+		"id_str": "1387879741668089859",
+		"full_text": "Last chance! We are so excited to see as many of you as possible. If this webinar results in one more clinical academic.. just a single person.. we have succeeded as role models and mentors. Sign up if you are able! https://t.co/ZLNLbpw18t",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZLNLbpw18t",
+					"expanded_url": "https://twitter.com/150Leaders/status/1385186619335008258",
+					"display_url": "twitter.com/150Leaders/sta…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 839176365530366000,
+			"id_str": "839176365530365956",
+			"name": "Karen Thomas",
+			"screen_name": "Karen_ThPCU",
+			"location": "Cambridge, England",
+			"description": "Senior Chartered Physio (neuro) | Chuffed PhD holder, Post-Stroke Fatigue @Cambridge_Uni | @HLA_int Scholar | Lifetime boaty, proud #MoreThanSailing advocate⛵|",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 795,
+			"friends_count": 676,
+			"listed_count": 7,
+			"created_at": "Tue Mar 07 18:10:11 +0000 2017",
+			"favourites_count": 3894,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1794,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149349110828425217/BLyl7-tO_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149349110828425217/BLyl7-tO_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/839176365530365956/1607380801",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1385186619335008300,
+		"quoted_status_id_str": "1385186619335008258",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZLNLbpw18t",
+			"expanded": "https://twitter.com/150Leaders/status/1385186619335008258",
+			"display": "twitter.com/150Leaders/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 22 11:00:00 +0000 2021",
+			"id": 1385186619335008300,
+			"id_str": "1385186619335008258",
+			"full_text": "Workshop reminder! Next Friday we will be be joined by @Karen_ThPCU and Professor Christi Deaton on sharing their experiences of research and offering advice about the career routes for #AHP research. \n\nRegister here\nhttps://t.co/cvlQdTktyl\n\n#150Leaders https://t.co/KTSiBd97gc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				253
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AHP",
+						"indices": [
+							186,
+							190
+						]
+					},
+					{
+						"text": "150Leaders",
+						"indices": [
+							242,
+							253
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Karen_ThPCU",
+						"name": "Karen Thomas",
+						"id": 839176365530366000,
+						"id_str": "839176365530365956",
+						"indices": [
+							55,
+							67
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/cvlQdTktyl",
+						"expanded_url": "https://councilofdeans.org.uk/studentleadership/ahp-leadership/",
+						"display_url": "councilofdeans.org.uk/studentleaders…",
+						"indices": [
+							217,
+							240
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1384884272142639000,
+						"id_str": "1384884272142639104",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/EzgY6HgWYAANW7P.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzgY6HgWYAANW7P.jpg",
+						"url": "https://t.co/KTSiBd97gc",
+						"display_url": "pic.twitter.com/KTSiBd97gc",
+						"expanded_url": "https://twitter.com/150Leaders/status/1385186619335008258/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 371,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1117,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 655,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1384884272142639000,
+						"id_str": "1384884272142639104",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/EzgY6HgWYAANW7P.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EzgY6HgWYAANW7P.jpg",
+						"url": "https://t.co/KTSiBd97gc",
+						"display_url": "pic.twitter.com/KTSiBd97gc",
+						"expanded_url": "https://twitter.com/150Leaders/status/1385186619335008258/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 371,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1117,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 655,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1139187039151280100,
+				"id_str": "1139187039151280128",
+				"name": "Student Leadership Programme #150Leaders",
+				"screen_name": "150Leaders",
+				"location": "United Kingdom",
+				"description": "@councilofdeans Student Leadership Programme | co-funded by @BurdettTrust | designed for student nurses, midwives & AHPs across the UK | co-created by students",
+				"url": "https://t.co/AxAGczzJZw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AxAGczzJZw",
+								"expanded_url": "http://www.councilofdeans.org.uk/studentleadership",
+								"display_url": "councilofdeans.org.uk/studentleaders…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2266,
+				"friends_count": 251,
+				"listed_count": 7,
+				"created_at": "Thu Jun 13 15:05:29 +0000 2019",
+				"favourites_count": 3279,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2855,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1141695642672279552/rf-wEzoI_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141695642672279552/rf-wEzoI_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1139187039151280128/1583504228",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 22,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Last chance! We are so excited to see as many of you as possible. If this webinar results in one more clinical academic.. just a single person.. we have succeeded as role models and mentors. Sign up if you are able! https://t.co/ZLNLbpw18t"
+	},
+	{
+		"created_at": "Thu Apr 29 16:42:16 +0000 2021",
+		"id": 1387798832617033700,
+		"id_str": "1387809470076555269",
+		"full_text": "Interested in #GlobalHealth &amp; #leadership ? 🌍\n\nThe HLA: Global Exchange applications are closing soon.\n\nSign up today to be part of the international event tackling worldwide issues.\n\nhttps://t.co/3SGoD8mpCl\n\n#HealthForAll #Innovation #Leadership #Amplify #Facilitate #MedTwitter https://t.co/eEYngT8VuF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			283
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GlobalHealth",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"text": "leadership",
+					"indices": [
+						34,
+						45
+					]
+				},
+				{
+					"text": "HealthForAll",
+					"indices": [
+						213,
+						226
+					]
+				},
+				{
+					"text": "Innovation",
+					"indices": [
+						227,
+						238
+					]
+				},
+				{
+					"text": "Leadership",
+					"indices": [
+						239,
+						250
+					]
+				},
+				{
+					"text": "Amplify",
+					"indices": [
+						251,
+						259
+					]
+				},
+				{
+					"text": "Facilitate",
+					"indices": [
+						260,
+						271
+					]
+				},
+				{
+					"text": "MedTwitter",
+					"indices": [
+						272,
+						283
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3SGoD8mpCl",
+					"expanded_url": "https://www.thehealthcareleadership.academy/global-exchange/",
+					"display_url": "thehealthcareleadership.academy/global-exchang…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1387291869827289000,
+					"id_str": "1387291869827289095",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/E0CmmvzX0AchrGK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0CmmvzX0AchrGK.jpg",
+					"url": "https://t.co/eEYngT8VuF",
+					"display_url": "pic.twitter.com/eEYngT8VuF",
+					"expanded_url": "https://twitter.com/HLA_int/status/1387798832617033731/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1387291869827289000,
+					"id_str": "1387291869827289095",
+					"indices": [
+						284,
+						307
+					],
+					"media_url": "http://pbs.twimg.com/media/E0CmmvzX0AchrGK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E0CmmvzX0AchrGK.jpg",
+					"url": "https://t.co/eEYngT8VuF",
+					"display_url": "pic.twitter.com/eEYngT8VuF",
+					"expanded_url": "https://twitter.com/HLA_int/status/1387798832617033731/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 809803519846993900,
+			"id_str": "809803519846993921",
+			"name": "The HLA",
+			"screen_name": "HLA_int",
+			"location": "",
+			"description": "The Healthcare Leadership Academy: \n🌱Nurturing leadership🌱\n💭Fostering frontline innovation💭\n⚡Empowering and valuing the next generation⚡",
+			"url": "https://t.co/84YgqZTCrl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/84YgqZTCrl",
+							"expanded_url": "http://thehealthcareleadership.academy",
+							"display_url": "thehealthcareleadership.academy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4576,
+			"friends_count": 0,
+			"listed_count": 18,
+			"created_at": "Fri Dec 16 16:52:59 +0000 2016",
+			"favourites_count": 5785,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 10502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810983604406915073/2jjtK_O1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810983604406915073/2jjtK_O1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/809803519846993921/1590615561",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Interested in #GlobalHealth &amp; #leadership ? 🌍\n\nThe HLA: Global Exchange applications are closing soon.\n\nSign up today to be part of the international event tackling worldwide issues.\n\nhttps://t.co/3SGoD8mpCl\n\n#HealthForAll #Innovation #Leadership #Amplify #Facilitate #MedTwitter https://t.co/eEYngT8VuF"
+	},
+	{
 		"created_at": "Wed Apr 28 18:06:35 +0000 2021",
 		"id": 1387468301719285800,
 		"id_str": "1387468301719285770",
