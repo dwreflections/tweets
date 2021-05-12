@@ -1,6 +1,784 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 11 20:47:57 +0000 2021",
+		"id": 1392219953470886000,
+		"id_str": "1392219953470885891",
+		"full_text": "@David_Leavitt Why We Get the Wrong Politicians by \n@IsabelHardman 🗳\n\nI finished it 5 minutes ago. Brilliant book, food for thought!  💭",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "David_Leavitt",
+					"name": "David Leavitt",
+					"id": 63514682,
+					"id_str": "63514682",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "IsabelHardman",
+					"name": "Isabel Hardman",
+					"id": 162044153,
+					"id_str": "162044153",
+					"indices": [
+						52,
+						66
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1392136084600074200,
+		"in_reply_to_status_id_str": "1392136084600074240",
+		"in_reply_to_user_id": 63514682,
+		"in_reply_to_user_id_str": "63514682",
+		"in_reply_to_screen_name": "David_Leavitt",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio with interests in innovation & leadership ▪️ Armed Forces Champion ▪️ @hla_int Scholar ▪️ #150Leaders ▪️ CSP Professional Committee ▪️ School Governor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2776,
+			"friends_count": 4318,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@David_Leavitt Why We Get the Wrong Politicians by \n@IsabelHardman 🗳\n\nI finished it 5 minutes ago. Brilliant book, food for thought!  💭"
+	},
+	{
+		"created_at": "Tue May 11 17:46:20 +0000 2021",
+		"id": 1392174247498457000,
+		"id_str": "1392174247498457090",
+		"full_text": "“Not only will I be a better practitioner for the experiences, I’ll be a better person.” ⬇️👏\n\nI know that feeling. Well done @Shaun_LDNurse - you’re almost there! 🎓 #ProudBrother https://t.co/Z5PwPvjMGl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ProudBrother",
+					"indices": [
+						165,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Shaun_LDNurse",
+					"name": "Shaun Williams",
+					"id": 901055791515435000,
+					"id_str": "901055791515435008",
+					"indices": [
+						125,
+						139
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Z5PwPvjMGl",
+					"expanded_url": "https://twitter.com/shaun_ldnurse/status/1392076098767364097",
+					"display_url": "twitter.com/shaun_ldnurse/…",
+					"indices": [
+						179,
+						202
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio with interests in innovation & leadership ▪️ Armed Forces Champion ▪️ @hla_int Scholar ▪️ #150Leaders ▪️ CSP Professional Committee ▪️ School Governor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2776,
+			"friends_count": 4318,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1392076098767364000,
+		"quoted_status_id_str": "1392076098767364097",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Z5PwPvjMGl",
+			"expanded": "https://twitter.com/shaun_ldnurse/status/1392076098767364097",
+			"display": "twitter.com/shaun_ldnurse/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 11 11:16:20 +0000 2021",
+			"id": 1392076098767364000,
+			"id_str": "1392076098767364097",
+			"full_text": "2/2. and the people that work there, and those you come into contact with, really do leave an impression and make an impact. I suppose that’s experimental learning for you. Not only will I be a better practitioner for the experiences, I’ll be a better person.\nThanks @mpftnhs! 👍",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "mpftnhs",
+						"name": "Midlands Partnership NHS Foundation Trust",
+						"id": 1001783279740182500,
+						"id_str": "1001783279740182530",
+						"indices": [
+							267,
+							275
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1392076096707903500,
+			"in_reply_to_status_id_str": "1392076096707903488",
+			"in_reply_to_user_id": 901055791515435000,
+			"in_reply_to_user_id_str": "901055791515435008",
+			"in_reply_to_screen_name": "Shaun_LDNurse",
+			"user": {
+				"id": 901055791515435000,
+				"id_str": "901055791515435008",
+				"name": "Shaun Williams",
+				"screen_name": "Shaun_LDNurse",
+				"location": "Birmingham, England",
+				"description": "StN LD nurse @KeeleUniversity; @councilofdeans #150Leaders; former @NursingTimes Student Editor ;RCN SIO; student member of @theRCN Council 2021-2022. 🌈☕️🦄",
+				"url": "https://t.co/7w7u43jgD5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7w7u43jgD5",
+								"expanded_url": "https://theneurodiversenurse.wordpress.com/",
+								"display_url": "theneurodiversenurse.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2831,
+				"friends_count": 3395,
+				"listed_count": 16,
+				"created_at": "Fri Aug 25 12:16:56 +0000 2017",
+				"favourites_count": 18728,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15474,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/972013590768070656/fpLB_pZ1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/972013590768070656/fpLB_pZ1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/901055791515435008/1506266745",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Not only will I be a better practitioner for the experiences, I’ll be a better person.” ⬇️👏\n\nI know that feeling. Well done @Shaun_LDNurse - you’re almost there! 🎓 #ProudBrother https://t.co/Z5PwPvjMGl"
+	},
+	{
+		"created_at": "Tue May 11 17:41:52 +0000 2021",
+		"id": 1392173123550724000,
+		"id_str": "1392173123550724096",
+		"full_text": "@m_ferry_ https://t.co/AfKpV4SS0e",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			9
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "m_ferry_",
+					"name": "Maarja 🌸",
+					"id": 4209231317,
+					"id_str": "4209231317",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1392173116768538600,
+					"id_str": "1392173116768538634",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E1H-EtrWUAozJvk.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E1H-EtrWUAozJvk.jpg",
+					"url": "https://t.co/AfKpV4SS0e",
+					"display_url": "pic.twitter.com/AfKpV4SS0e",
+					"expanded_url": "https://twitter.com/beardedPT/status/1392173123550724096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 288,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 288,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 288,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392173116768538600,
+					"id_str": "1392173116768538634",
+					"indices": [
+						10,
+						33
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E1H-EtrWUAozJvk.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E1H-EtrWUAozJvk.jpg",
+					"url": "https://t.co/AfKpV4SS0e",
+					"display_url": "pic.twitter.com/AfKpV4SS0e",
+					"expanded_url": "https://twitter.com/beardedPT/status/1392173123550724096/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 430,
+							"h": 288,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 430,
+							"h": 288,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 430,
+							"h": 288,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							215,
+							144
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E1H-EtrWUAozJvk.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1392152560128209000,
+		"in_reply_to_status_id_str": "1392152560128208898",
+		"in_reply_to_user_id": 4209231317,
+		"in_reply_to_user_id_str": "4209231317",
+		"in_reply_to_screen_name": "m_ferry_",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio with interests in innovation & leadership ▪️ Armed Forces Champion ▪️ @hla_int Scholar ▪️ #150Leaders ▪️ CSP Professional Committee ▪️ School Governor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2776,
+			"friends_count": 4318,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@m_ferry_ https://t.co/AfKpV4SS0e"
+	},
+	{
+		"created_at": "Tue May 11 16:46:42 +0000 2021",
+		"id": 1392159241520169000,
+		"id_str": "1392159241520168960",
+		"full_text": "You have my vote 🗳 https://t.co/mSnzlaVZ6r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mSnzlaVZ6r",
+					"expanded_url": "https://twitter.com/srikesavan/status/1391316300065091586",
+					"display_url": "twitter.com/srikesavan/sta…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio with interests in innovation & leadership ▪️ Armed Forces Champion ▪️ @hla_int Scholar ▪️ #150Leaders ▪️ CSP Professional Committee ▪️ School Governor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2776,
+			"friends_count": 4318,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22120,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1391316300065091600,
+		"quoted_status_id_str": "1391316300065091586",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mSnzlaVZ6r",
+			"expanded": "https://twitter.com/srikesavan/status/1391316300065091586",
+			"display": "twitter.com/srikesavan/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 09 08:57:09 +0000 2021",
+			"id": 1391316300065091600,
+			"id_str": "1391316300065091586",
+			"full_text": "-I have always looked up to the CSP as an org that has influenced physiotherapy practice across the world\n\n-The decision to stand for council is itself a big win for me\n\n-Looking forward to your vote in June 2021\n\n-Kindly scan the code to know a bit more about my journey https://t.co/O8VRb14Ecq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				271
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1391314956767858700,
+						"id_str": "1391314956767858693",
+						"indices": [
+							272,
+							295
+						],
+						"media_url": "http://pbs.twimg.com/media/E07xlOjWEAUR9Rf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E07xlOjWEAUR9Rf.jpg",
+						"url": "https://t.co/O8VRb14Ecq",
+						"display_url": "pic.twitter.com/O8VRb14Ecq",
+						"expanded_url": "https://twitter.com/Srikesavan/status/1391316300065091586/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1391314956767858700,
+						"id_str": "1391314956767858693",
+						"indices": [
+							272,
+							295
+						],
+						"media_url": "http://pbs.twimg.com/media/E07xlOjWEAUR9Rf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E07xlOjWEAUR9Rf.jpg",
+						"url": "https://t.co/O8VRb14Ecq",
+						"display_url": "pic.twitter.com/O8VRb14Ecq",
+						"expanded_url": "https://twitter.com/Srikesavan/status/1391316300065091586/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 58153048,
+				"id_str": "58153048",
+				"name": "Srikesavan Sabapathy 🇱🇰🇮🇳🇨🇦🇬🇧",
+				"screen_name": "Srikesavan",
+				"location": "Oxford, England",
+				"description": "Trauma inpatient physio. Father to a son with special needs. Will be contesting for CSP Council 2021. Views my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 422,
+				"friends_count": 694,
+				"listed_count": 1,
+				"created_at": "Sun Jul 19 07:59:30 +0000 2009",
+				"favourites_count": 2776,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 679,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1167343140384235520/c7dHmvEj_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167343140384235520/c7dHmvEj_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/58153048/1620669522",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11,
+			"favorite_count": 64,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You have my vote 🗳 https://t.co/mSnzlaVZ6r"
+	},
+	{
 		"created_at": "Mon May 10 18:49:39 +0000 2021",
 		"id": 1391827793407848400,
 		"id_str": "1391827793407848460",
@@ -108,7 +886,7 @@ Grailbird.data.tweets_2021_05 =
 			"created_at": "Mon May 10 18:38:35 +0000 2021",
 			"id": 1391825009849639000,
 			"id_str": "1391825009849638914",
-			"full_text": "The Armed Forces Network has now joined Twitter 💂🏻‍♀️💂🏽‍♂️\n\nWe are committed to bringing about change for the armed forces community within @UHDBTrust",
+			"full_text": "The Armed Forces Network has now joined Twitter 💂🏻♀️💂🏽♂️\n\nWe are committed to bringing about change for the armed forces community within @UHDBTrust",
 			"truncated": false,
 			"display_text_range": [
 				0,
