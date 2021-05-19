@@ -1,6 +1,148 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Tue May 18 16:18:31 +0000 2021",
+		"id": 1394688863642267600,
+		"id_str": "1394688863642267656",
+		"full_text": "Super chuffed to announce that I have been selected as a Chief Nurse Junior Fellow #CNJF \n\nI am really looking forward to be making a different within @UHDBTrust &amp; working with @hill_karenhill3 @pearn_grace @CathyWinfield @PhilBoltonRN 🙌",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CNJF",
+					"indices": [
+						83,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						151,
+						161
+					]
+				},
+				{
+					"screen_name": "hill_karenhill3",
+					"name": "Karen Hill 💙 RN MSc",
+					"id": 2361529948,
+					"id_str": "2361529948",
+					"indices": [
+						181,
+						197
+					]
+				},
+				{
+					"screen_name": "pearn_grace",
+					"name": "Grace Pearn",
+					"id": 3337615893,
+					"id_str": "3337615893",
+					"indices": [
+						198,
+						210
+					]
+				},
+				{
+					"screen_name": "CathyWinfield",
+					"name": "Cathy Winfield MBE, RN, MSc💙",
+					"id": 2188050351,
+					"id_str": "2188050351",
+					"indices": [
+						211,
+						225
+					]
+				},
+				{
+					"screen_name": "PhilBoltonRN",
+					"name": "Phil Bolton",
+					"id": 1188076842726690800,
+					"id_str": "1188076842726690817",
+					"indices": [
+						226,
+						239
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio with interests in innovation & leadership ▪️ Armed Forces Champion ▪️ @hla_int Scholar ▪️ #150Leaders ▪️ CSP Professional Committee ▪️ School Governor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2802,
+			"friends_count": 4356,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7194,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 149,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Super chuffed to announce that I have been selected as a Chief Nurse Junior Fellow #CNJF \n\nI am really looking forward to be making a different within @UHDBTrust &amp; working with @hill_karenhill3 @pearn_grace @CathyWinfield @PhilBoltonRN 🙌"
+	},
+	{
 		"created_at": "Mon May 17 19:37:08 +0000 2021",
 		"id": 1394376457288405000,
 		"id_str": "1394376457288404993",
@@ -482,7 +624,7 @@ Grailbird.data.tweets_2021_05 =
 				"name": "CraigSPhysio",
 				"screen_name": "Twitchy_SPhysio",
 				"location": "Heanor, England",
-				"description": "🏥3rd Year Student Physio at UoN👨🏼‍🎓🧠Suffer of Motor Tics 🧠⚽️Interest in MSK & Sport, always looking for experience⚽️🚗ex Motortrade🚘All views are my own",
+				"description": "🏥3rd Year Student Physio at UoN👨🏼🎓🧠Suffer of Motor Tics 🧠⚽️Interest in MSK & Sport, always looking for experience⚽️🚗ex Motortrade🚘All views are my own",
 				"url": null,
 				"entities": {
 					"description": {
