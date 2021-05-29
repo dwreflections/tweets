@@ -1,6 +1,634 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 28 15:27:38 +0000 2021",
+		"id": 1398299936790286300,
+		"id_str": "1398299936790286340",
+		"full_text": "So pleased with this this 🤩\n\nThank you to all the talent folks at @AirArtsUHDB &amp; the behind the scenes wizardry of @LaraRaworth #TeamUHDB https://t.co/ijlc1pwCoA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TeamUHDB",
+					"indices": [
+						132,
+						141
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AirArtsUHDB",
+					"name": "Air Arts",
+					"id": 144516084,
+					"id_str": "144516084",
+					"indices": [
+						66,
+						78
+					]
+				},
+				{
+					"screen_name": "LaraRaworth",
+					"name": "Lara Raworth",
+					"id": 917528162,
+					"id_str": "917528162",
+					"indices": [
+						119,
+						131
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ijlc1pwCoA",
+					"expanded_url": "https://twitter.com/UHDB_AFN/status/1398272108149579783",
+					"display_url": "twitter.com/UHDB_AFN/statu…",
+					"indices": [
+						142,
+						165
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio with interests in innovation & leadership ▪️ Armed Forces Champion ▪️ @hla_int Scholar ▪️ #150Leaders ▪️ CSP Professional Committee ▪️ School Governor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2839,
+			"friends_count": 4399,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22422,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7254,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1398272108149579800,
+		"quoted_status_id_str": "1398272108149579783",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ijlc1pwCoA",
+			"expanded": "https://twitter.com/UHDB_AFN/status/1398272108149579783",
+			"display": "twitter.com/UHDB_AFN/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 28 13:37:03 +0000 2021",
+			"id": 1398272108149579800,
+			"id_str": "1398272108149579783",
+			"full_text": "We are pleased to reveal the final design of our UHDB Armed Forces Network badge.  Aiming to launch these to our AFN members during Armed Forces Week.  Again a massive thank you to the Air Arts team at UHDB @beardedPT @magnusharrison @gavinUHDB @UHDBTrust @AirArtsUHDB https://t.co/l60W8QX2Re",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				268
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "beardedPT",
+						"name": "David Williams",
+						"id": 3377750235,
+						"id_str": "3377750235",
+						"indices": [
+							207,
+							217
+						]
+					},
+					{
+						"screen_name": "magnusharrison",
+						"name": "Dr. Magnus Harrison 😷🌈💙",
+						"id": 258272524,
+						"id_str": "258272524",
+						"indices": [
+							218,
+							233
+						]
+					},
+					{
+						"screen_name": "gavinUHDB",
+						"name": "Gavin Boyle",
+						"id": 1364206064,
+						"id_str": "1364206064",
+						"indices": [
+							234,
+							244
+						]
+					},
+					{
+						"screen_name": "UHDBTrust",
+						"name": "University Hospitals of Derby and Burton NHS FT",
+						"id": 429877936,
+						"id_str": "429877936",
+						"indices": [
+							245,
+							255
+						]
+					},
+					{
+						"screen_name": "AirArtsUHDB",
+						"name": "Air Arts",
+						"id": 144516084,
+						"id_str": "144516084",
+						"indices": [
+							256,
+							268
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1398272032547221500,
+						"id_str": "1398272032547221504",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/media/E2epAVdXMAA5Rek.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2epAVdXMAA5Rek.jpg",
+						"url": "https://t.co/l60W8QX2Re",
+						"display_url": "pic.twitter.com/l60W8QX2Re",
+						"expanded_url": "https://twitter.com/UHDB_AFN/status/1398272108149579783/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 578,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1021,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1424,
+								"h": 1211,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1398272032547221500,
+						"id_str": "1398272032547221504",
+						"indices": [
+							269,
+							292
+						],
+						"media_url": "http://pbs.twimg.com/media/E2epAVdXMAA5Rek.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E2epAVdXMAA5Rek.jpg",
+						"url": "https://t.co/l60W8QX2Re",
+						"display_url": "pic.twitter.com/l60W8QX2Re",
+						"expanded_url": "https://twitter.com/UHDB_AFN/status/1398272108149579783/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 578,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 1021,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1424,
+								"h": 1211,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1384135578233360400,
+				"id_str": "1384135578233360399",
+				"name": "UHDB Armed Forces Network",
+				"screen_name": "UHDB_AFN",
+				"location": "Derby, England",
+				"description": "Network for Reservists, Veterans, Forces Families and Cadet Forces Adult Volunteers who work at @UHDBTrust #TeamUHDB",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 41,
+				"friends_count": 117,
+				"listed_count": 0,
+				"created_at": "Mon Apr 19 13:23:39 +0000 2021",
+				"favourites_count": 24,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 12,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1398298749626093573/Mu-dSfve_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398298749626093573/Mu-dSfve_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1384135578233360399/1620671376",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So pleased with this this 🤩\n\nThank you to all the talent folks at @AirArtsUHDB &amp; the behind the scenes wizardry of @LaraRaworth #TeamUHDB https://t.co/ijlc1pwCoA"
+	},
+	{
+		"created_at": "Fri May 28 10:45:35 +0000 2021",
+		"id": 1398003833410920400,
+		"id_str": "1398228955774308353",
+		"full_text": "Excited to host @beardedPT one of highly esteemed @HLA_int scholar who will be giving physio tips virtually \n\nSign up: https://t.co/VaJqx8M3KD\n@HLA_int @MedicsAcademy \n#MedEd #Innovation #Inspire #Amplify #Facilitate #MedTwitter #HLAMA2021 https://t.co/HCS1KpTobS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "MedEd",
+					"indices": [
+						168,
+						174
+					]
+				},
+				{
+					"text": "Innovation",
+					"indices": [
+						175,
+						186
+					]
+				},
+				{
+					"text": "Inspire",
+					"indices": [
+						187,
+						195
+					]
+				},
+				{
+					"text": "Amplify",
+					"indices": [
+						196,
+						204
+					]
+				},
+				{
+					"text": "Facilitate",
+					"indices": [
+						205,
+						216
+					]
+				},
+				{
+					"text": "MedTwitter",
+					"indices": [
+						217,
+						228
+					]
+				},
+				{
+					"text": "HLAMA2021",
+					"indices": [
+						229,
+						239
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						50,
+						58
+					]
+				},
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						143,
+						151
+					]
+				},
+				{
+					"screen_name": "MedicsAcademy",
+					"name": "medics.academy",
+					"id": 775440935110975500,
+					"id_str": "775440935110975488",
+					"indices": [
+						152,
+						166
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VaJqx8M3KD",
+					"expanded_url": "http://bit.ly/3sYF7I0",
+					"display_url": "bit.ly/3sYF7I0",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1398003826041536500,
+					"id_str": "1398003826041536515",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/E2a1EqXXwAMI4-q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2a1EqXXwAMI4-q.jpg",
+					"url": "https://t.co/HCS1KpTobS",
+					"display_url": "pic.twitter.com/HCS1KpTobS",
+					"expanded_url": "https://twitter.com/Shaque89_/status/1398003833410920454/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1398003826041536500,
+					"id_str": "1398003826041536515",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/E2a1EqXXwAMI4-q.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E2a1EqXXwAMI4-q.jpg",
+					"url": "https://t.co/HCS1KpTobS",
+					"display_url": "pic.twitter.com/HCS1KpTobS",
+					"expanded_url": "https://twitter.com/Shaque89_/status/1398003833410920454/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1318168706359373800,
+			"id_str": "1318168706359373824",
+			"name": "Sharmi Haque",
+			"screen_name": "Shaque89_",
+			"location": "Maastricht, The Netherlands",
+			"description": "Medicine🩺 @MaastrichtU EU Public Health 🇪🇺 Co-Chair https://t.co/eBCftGEIu4 Summit 2021 @HLA_int @MedicsAcademy Fellow 🤩 #HealthPolicy #Ortho🦴 #Surgery",
+			"url": "https://t.co/tTQuloqadF",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/tTQuloqadF",
+							"expanded_url": "https://orcid.org/0000-0002-8554-2612",
+							"display_url": "orcid.org/0000-0002-8554…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/eBCftGEIu4",
+							"expanded_url": "http://HLA-Medics.Academy",
+							"display_url": "HLA-Medics.Academy",
+							"indices": [
+								52,
+								75
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 636,
+			"listed_count": 0,
+			"created_at": "Mon Oct 19 12:34:53 +0000 2020",
+			"favourites_count": 3460,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1167,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1368589834122649603/YJWYdpLA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1368589834122649603/YJWYdpLA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1318168706359373824/1615144289",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excited to host @beardedPT one of highly esteemed @HLA_int scholar who will be giving physio tips virtually \n\nSign up: https://t.co/VaJqx8M3KD\n@HLA_int @MedicsAcademy \n#MedEd #Innovation #Inspire #Amplify #Facilitate #MedTwitter #HLAMA2021 https://t.co/HCS1KpTobS"
+	},
+	{
 		"created_at": "Thu May 27 16:45:26 +0000 2021",
 		"id": 1397957127499616300,
 		"id_str": "1397957127499616257",
