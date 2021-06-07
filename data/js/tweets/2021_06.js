@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sun Jun 06 11:34:49 +0000 2021",
+		"id": 1401493587607621600,
+		"id_str": "1401502837343932418",
+		"full_text": "Football match interrupted by power station demolition. A football game taking place in Rugeley, Staffordshire, was interrupted by the controlled demolition of 4 chimneys at a power station in the town. The cooling towers were brought down at 11.15am today (June 6). #rugeley https://t.co/rl3NzEMK0C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "rugeley",
+					"indices": [
+						267,
+						275
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1401493142294171600,
+					"id_str": "1401493142294171650",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1401493142294171650/pu/img/zUMFLcrhoZCcxhT7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1401493142294171650/pu/img/zUMFLcrhoZCcxhT7.jpg",
+					"url": "https://t.co/rl3NzEMK0C",
+					"display_url": "pic.twitter.com/rl3NzEMK0C",
+					"expanded_url": "https://twitter.com/Urban_Pictures/status/1401493587607621639/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1401493142294171600,
+					"id_str": "1401493142294171650",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1401493142294171650/pu/img/zUMFLcrhoZCcxhT7.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1401493142294171650/pu/img/zUMFLcrhoZCcxhT7.jpg",
+					"url": "https://t.co/rl3NzEMK0C",
+					"display_url": "pic.twitter.com/rl3NzEMK0C",
+					"expanded_url": "https://twitter.com/Urban_Pictures/status/1401493587607621639/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 34840,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1401493142294171650/pu/pl/oXqSX9zTEHq61fZL.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1401493142294171650/pu/vid/640x360/UJFF71l_HtcTCuyD.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1401493142294171650/pu/vid/1280x720/584gsLovPzrJYQfS.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1401493142294171650/pu/vid/480x270/kuzHF-mtdka3uL5d.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 561211239,
+			"id_str": "561211239",
+			"name": "Urban Pictures",
+			"screen_name": "Urban_Pictures",
+			"location": "London / Cheltenham ",
+			"description": "Anthony U., NUJ-accredited freelance Video Journalist, based in London & Cheltenham, Gloucestershire.  https://t.co/bIbe82Riu3",
+			"url": "https://t.co/El66bxeOQB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/El66bxeOQB",
+							"expanded_url": "https://www.youtube.com/urbanpicturesuk",
+							"display_url": "youtube.com/urbanpicturesuk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/bIbe82Riu3",
+							"expanded_url": "http://facebook.com/urbanpicturesuk",
+							"display_url": "facebook.com/urbanpicturesuk",
+							"indices": [
+								103,
+								126
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 9773,
+			"friends_count": 3372,
+			"listed_count": 51,
+			"created_at": "Mon Apr 23 13:24:24 +0000 2012",
+			"favourites_count": 5400,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/924751431151816706/GcNl_pBo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/924751431151816706/GcNl_pBo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/561211239/1556739878",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1721,
+		"favorite_count": 8077,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Football match interrupted by power station demolition. A football game taking place in Rugeley, Staffordshire, was interrupted by the controlled demolition of 4 chimneys at a power station in the town. The cooling towers were brought down at 11.15am today (June 6). #rugeley https://t.co/rl3NzEMK0C"
+	},
+	{
 		"created_at": "Sat Jun 05 16:10:51 +0000 2021",
 		"id": 1401209914006114300,
 		"id_str": "1401209914006114308",
