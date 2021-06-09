@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 08 06:14:44 +0000 2021",
+		"id": 1402147061647171600,
+		"id_str": "1402147061647171585",
+		"full_text": "@NHSEArmedForces @256fdhosp ⬆️ @UHDB_AFN",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NHSEArmedForces",
+					"name": "NHSE Armed Forces",
+					"id": 2831648813,
+					"id_str": "2831648813",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "256fdhosp",
+					"name": "256 (CoL) Fd Hosp",
+					"id": 2172903631,
+					"id_str": "2172903631",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"screen_name": "UHDB_AFN",
+					"name": "UHDB Armed Forces Network",
+					"id": 1384135578233360400,
+					"id_str": "1384135578233360399",
+					"indices": [
+						31,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1401916864926675000,
+		"in_reply_to_status_id_str": "1401916864926674945",
+		"in_reply_to_user_id": 2831648813,
+		"in_reply_to_user_id_str": "2831648813",
+		"in_reply_to_screen_name": "NHSEArmedForces",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio with interests in innovation & leadership ▪️ Armed Forces Champion ▪️ @hla_int Scholar ▪️ #150Leaders ▪️ CSP Professional Committee ▪️ School Governor",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2851,
+			"friends_count": 4428,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22517,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7274,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@NHSEArmedForces @256fdhosp ⬆️ @UHDB_AFN"
+	},
+	{
 		"created_at": "Sun Jun 06 11:34:49 +0000 2021",
 		"id": 1401493587607621600,
 		"id_str": "1401502837343932418",
