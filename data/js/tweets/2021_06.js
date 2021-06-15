@@ -1,6 +1,150 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 14 18:28:15 +0000 2021",
+		"id": 1404505983607582700,
+		"id_str": "1404505983607582723",
+		"full_text": "@RJAH_NHS @beckswarren22 @med_illus ⬆️ ‘deeds not words’ - @UHDB_AFN @LaraRaworth @tina1duffy",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RJAH_NHS",
+					"name": "RJAH Orthopaedic Hospital",
+					"id": 755071656,
+					"id_str": "755071656",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "beckswarren22",
+					"name": "Rebecca Warren",
+					"id": 1048067960,
+					"id_str": "1048067960",
+					"indices": [
+						10,
+						24
+					]
+				},
+				{
+					"screen_name": "med_illus",
+					"name": "Medical Illustration",
+					"id": 741238827013050400,
+					"id_str": "741238827013050369",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"screen_name": "UHDB_AFN",
+					"name": "UHDB Armed Forces Network",
+					"id": 1384135578233360400,
+					"id_str": "1384135578233360399",
+					"indices": [
+						59,
+						68
+					]
+				},
+				{
+					"screen_name": "LaraRaworth",
+					"name": "Lara Raworth",
+					"id": 917528162,
+					"id_str": "917528162",
+					"indices": [
+						69,
+						81
+					]
+				},
+				{
+					"screen_name": "tina1duffy",
+					"name": "Christine Duffy",
+					"id": 773961266973073400,
+					"id_str": "773961266973073408",
+					"indices": [
+						82,
+						93
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1404501172501745700,
+		"in_reply_to_status_id_str": "1404501172501745669",
+		"in_reply_to_user_id": 755071656,
+		"in_reply_to_user_id_str": "755071656",
+		"in_reply_to_screen_name": "RJAH_NHS",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2858,
+			"friends_count": 4440,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7281,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RJAH_NHS @beckswarren22 @med_illus ⬆️ ‘deeds not words’ - @UHDB_AFN @LaraRaworth @tina1duffy"
+	},
+	{
 		"created_at": "Sat Jun 12 15:09:20 +0000 2021",
 		"id": 1403731147650130000,
 		"id_str": "1403731147650129922",
