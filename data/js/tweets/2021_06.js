@@ -1,6 +1,331 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 15 15:33:18 +0000 2021",
+		"id": 1404824343956316200,
+		"id_str": "1404824343956316166",
+		"full_text": "@alicrewe @UHDB_PLSU @PDTUHDB I would of loved to of been at this but maybe that’s me (the stuff they don’t teach you at uni) 🤓",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alicrewe",
+					"name": "ali crewesmith",
+					"id": 330511872,
+					"id_str": "330511872",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "UHDB_PLSU",
+					"name": "UHDB Practice Learning Support Unit",
+					"id": 3092710233,
+					"id_str": "3092710233",
+					"indices": [
+						10,
+						20
+					]
+				},
+				{
+					"screen_name": "PDTUHDB",
+					"name": "UHDB - Professional & Practice Development",
+					"id": 1001079178710650900,
+					"id_str": "1001079178710650880",
+					"indices": [
+						21,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1404769941472034800,
+		"in_reply_to_status_id_str": "1404769941472034816",
+		"in_reply_to_user_id": 330511872,
+		"in_reply_to_user_id_str": "330511872",
+		"in_reply_to_screen_name": "alicrewe",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2859,
+			"friends_count": 4444,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22584,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7284,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@alicrewe @UHDB_PLSU @PDTUHDB I would of loved to of been at this but maybe that’s me (the stuff they don’t teach you at uni) 🤓"
+	},
+	{
+		"created_at": "Tue Jun 15 11:59:51 +0000 2021",
+		"id": 1404767320711499800,
+		"id_str": "1404770627387600897",
+		"full_text": "Getting ready for Armed Forces Week. Colouring competition for our Paediatric areas prepared and ready to be delivered today at RDH and tomorrow at QHB. @AirArtsUHDB have agreed to judge all entries with prizes to our winners #ArmedForcesweek @UHDBTrust @beardedPT @magnusharrison https://t.co/45ZjvBMGKC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ArmedForcesweek",
+					"indices": [
+						226,
+						242
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AirArtsUHDB",
+					"name": "Air Arts",
+					"id": 144516084,
+					"id_str": "144516084",
+					"indices": [
+						153,
+						165
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						243,
+						253
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						254,
+						264
+					]
+				},
+				{
+					"screen_name": "magnusharrison",
+					"name": "Dr. Magnus Harrison 😷🌈💙",
+					"id": 258272524,
+					"id_str": "258272524",
+					"indices": [
+						265,
+						280
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1404767317297225700,
+					"id_str": "1404767317297225731",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/E368bquUYAMPbSp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E368bquUYAMPbSp.jpg",
+					"url": "https://t.co/45ZjvBMGKC",
+					"display_url": "pic.twitter.com/45ZjvBMGKC",
+					"expanded_url": "https://twitter.com/UHDB_AFN/status/1404767320711499776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2034,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1192,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1404767317297225700,
+					"id_str": "1404767317297225731",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/E368bquUYAMPbSp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E368bquUYAMPbSp.jpg",
+					"url": "https://t.co/45ZjvBMGKC",
+					"display_url": "pic.twitter.com/45ZjvBMGKC",
+					"expanded_url": "https://twitter.com/UHDB_AFN/status/1404767320711499776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2034,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 675,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1192,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1384135578233360400,
+			"id_str": "1384135578233360399",
+			"name": "UHDB Armed Forces Network",
+			"screen_name": "UHDB_AFN",
+			"location": "Derby, England",
+			"description": "Network for Reservists, Veterans, Forces Families and Cadet Forces Adult Volunteers who work at @UHDBTrust #TeamUHDB",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56,
+			"friends_count": 140,
+			"listed_count": 0,
+			"created_at": "Mon Apr 19 13:23:39 +0000 2021",
+			"favourites_count": 39,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398298749626093573/Mu-dSfve_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398298749626093573/Mu-dSfve_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1384135578233360399/1620671376",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Getting ready for Armed Forces Week. Colouring competition for our Paediatric areas prepared and ready to be delivered today at RDH and tomorrow at QHB. @AirArtsUHDB have agreed to judge all entries with prizes to our winners #ArmedForcesweek @UHDBTrust @beardedPT @magnusharrison https://t.co/45ZjvBMGKC"
+	},
+	{
 		"created_at": "Mon Jun 14 18:28:15 +0000 2021",
 		"id": 1404505983607582700,
 		"id_str": "1404505983607582723",
