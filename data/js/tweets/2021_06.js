@@ -1,6 +1,125 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 18 16:48:01 +0000 2021",
+		"id": 1405928752442392600,
+		"id_str": "1405930311712641032",
+		"full_text": "Great meeting to finish the week to finalise plans for #ArmedForcesWeek @LaraRaworth @shellyrowlands #TeamUHDB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ArmedForcesWeek",
+					"indices": [
+						55,
+						71
+					]
+				},
+				{
+					"text": "TeamUHDB",
+					"indices": [
+						101,
+						110
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LaraRaworth",
+					"name": "Lara Raworth",
+					"id": 917528162,
+					"id_str": "917528162",
+					"indices": [
+						72,
+						84
+					]
+				},
+				{
+					"screen_name": "shellyrowlands",
+					"name": "Chelle R",
+					"id": 83087399,
+					"id_str": "83087399",
+					"indices": [
+						85,
+						100
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1384135578233360400,
+			"id_str": "1384135578233360399",
+			"name": "UHDB Armed Forces Network",
+			"screen_name": "UHDB_AFN",
+			"location": "Derby, England",
+			"description": "Network for Reservists, Veterans, Forces Families and Cadet Forces Adult Volunteers who work at @UHDBTrust #TeamUHDB",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 58,
+			"friends_count": 142,
+			"listed_count": 0,
+			"created_at": "Mon Apr 19 13:23:39 +0000 2021",
+			"favourites_count": 45,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398298749626093573/Mu-dSfve_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398298749626093573/Mu-dSfve_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1384135578233360399/1620671376",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Great meeting to finish the week to finalise plans for #ArmedForcesWeek @LaraRaworth @shellyrowlands #TeamUHDB"
+	},
+	{
 		"created_at": "Thu Jun 17 16:33:51 +0000 2021",
 		"id": 1405564191025606700,
 		"id_str": "1405564355152908292",
