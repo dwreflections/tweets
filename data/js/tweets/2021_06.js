@@ -1,6 +1,254 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 19 10:22:47 +0000 2021",
+		"id": 1406195749302513700,
+		"id_str": "1406195749302513667",
+		"full_text": "@dollytheis @HLA_int @MontereyZack I disagree - it was great to hear you explore and discuss your thoughts. 🧠 It is why I like the longer-from nature of podcasts. Also, it was lovely for the discussion to be not be so polarised as there was much more similarity than difference in your positions. 👍",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			298
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "dollytheis",
+					"name": "Dolitics",
+					"id": 740611403984293900,
+					"id_str": "740611403984293888",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						12,
+						20
+					]
+				},
+				{
+					"screen_name": "MontereyZack",
+					"name": "Zack Hassan",
+					"id": 215079629,
+					"id_str": "215079629",
+					"indices": [
+						21,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1406181188939747300,
+		"in_reply_to_status_id_str": "1406181188939747328",
+		"in_reply_to_user_id": 740611403984293900,
+		"in_reply_to_user_id_str": "740611403984293888",
+		"in_reply_to_screen_name": "dollytheis",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2862,
+			"friends_count": 4447,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7289,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@dollytheis @HLA_int @MontereyZack I disagree - it was great to hear you explore and discuss your thoughts. 🧠 It is why I like the longer-from nature of podcasts. Also, it was lovely for the discussion to be not be so polarised as there was much more similarity than difference in your positions. 👍"
+	},
+	{
+		"created_at": "Sat Jun 19 09:17:08 +0000 2021",
+		"id": 1406179231097311200,
+		"id_str": "1406179231097311232",
+		"full_text": "@HLA_int @dollytheis @MontereyZack Absolutely loved this episode! TY @MontereyZack &amp; @dollytheis 👍",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "dollytheis",
+					"name": "Dolitics",
+					"id": 740611403984293900,
+					"id_str": "740611403984293888",
+					"indices": [
+						9,
+						20
+					]
+				},
+				{
+					"screen_name": "MontereyZack",
+					"name": "Zack Hassan",
+					"id": 215079629,
+					"id_str": "215079629",
+					"indices": [
+						21,
+						34
+					]
+				},
+				{
+					"screen_name": "MontereyZack",
+					"name": "Zack Hassan",
+					"id": 215079629,
+					"id_str": "215079629",
+					"indices": [
+						69,
+						82
+					]
+				},
+				{
+					"screen_name": "dollytheis",
+					"name": "Dolitics",
+					"id": 740611403984293900,
+					"id_str": "740611403984293888",
+					"indices": [
+						89,
+						100
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1406175420291059700,
+		"in_reply_to_status_id_str": "1406175420291059719",
+		"in_reply_to_user_id": 809803519846993900,
+		"in_reply_to_user_id_str": "809803519846993921",
+		"in_reply_to_screen_name": "HLA_int",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2862,
+			"friends_count": 4447,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22602,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7289,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@HLA_int @dollytheis @MontereyZack Absolutely loved this episode! TY @MontereyZack &amp; @dollytheis 👍"
+	},
+	{
 		"created_at": "Fri Jun 18 16:48:01 +0000 2021",
 		"id": 1405928752442392600,
 		"id_str": "1405930311712641032",
