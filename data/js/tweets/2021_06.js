@@ -1,6 +1,132 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 21 20:32:44 +0000 2021",
+		"id": 1406552410563268600,
+		"id_str": "1407074027550789632",
+		"full_text": "Ahead of #ArmedForcesWeek tomorrow, have you wondered who is considered a veteran in the UK? @OnParadeUK explain more about the definition of a veteran... https://t.co/IxJtsYNJ2K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ArmedForcesWeek",
+					"indices": [
+						9,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OnParadeUK",
+					"name": "On Parade UK 🇬🇧",
+					"id": 1264113629374398500,
+					"id_str": "1264113629374398464",
+					"indices": [
+						93,
+						104
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IxJtsYNJ2K",
+					"expanded_url": "https://www.youtube.com/watch?v=5_lERZ2od6s",
+					"display_url": "youtube.com/watch?v=5_lERZ…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1184052519959453700,
+			"id_str": "1184052519959453696",
+			"name": "Office for Veterans' Affairs",
+			"screen_name": "VeteransGovUK",
+			"location": "",
+			"description": "Ensuring the United Kingdom leads the world in care for Armed Forces Veterans",
+			"url": "https://t.co/uBhgaMFsE5",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uBhgaMFsE5",
+							"expanded_url": "https://www.gov.uk/government/organisations/office-for-veterans-affairs",
+							"display_url": "gov.uk/government/org…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6595,
+			"friends_count": 187,
+			"listed_count": 31,
+			"created_at": "Tue Oct 15 10:29:08 +0000 2019",
+			"favourites_count": 227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 741,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1399709348532830208/iLegmq4-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1399709348532830208/iLegmq4-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1184052519959453696/1618821571",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 25,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ahead of #ArmedForcesWeek tomorrow, have you wondered who is considered a veteran in the UK? @OnParadeUK explain more about the definition of a veteran... https://t.co/IxJtsYNJ2K"
+	},
+	{
 		"created_at": "Sat Jun 19 10:22:47 +0000 2021",
 		"id": 1406195749302513700,
 		"id_str": "1406195749302513667",
