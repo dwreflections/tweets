@@ -1,6 +1,523 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Sat Jun 26 19:00:03 +0000 2021",
+		"id": 1408861856203169800,
+		"id_str": "1408862639841808389",
+		"full_text": "NEW: Former Chancellor and Home Secretary Sajid Javid is the new Health and Social Care Secretary.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 335312037,
+			"id_str": "335312037",
+			"name": "Lewis Goodall",
+			"screen_name": "lewis_goodall",
+			"location": "lewis.goodall@bbc.co.uk",
+			"description": "Policy Editor @BBCNewsnight. I cover politics, policy, economics and government in the UK and beyond | Author: Left for Dead. Buy here- https://t.co/5P5LrZxTl9",
+			"url": "https://t.co/dsBwu4neJN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/dsBwu4neJN",
+							"expanded_url": "http://www.instagram.com/lewis_goodall1",
+							"display_url": "instagram.com/lewis_goodall1",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/5P5LrZxTl9",
+							"expanded_url": "https://bit.ly/3ezOK9q",
+							"display_url": "bit.ly/3ezOK9q",
+							"indices": [
+								136,
+								159
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 225129,
+			"friends_count": 4522,
+			"listed_count": 1907,
+			"created_at": "Thu Jul 14 13:56:30 +0000 2011",
+			"favourites_count": 19057,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 44336,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1208201577208651776/LIKxplmQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1208201577208651776/LIKxplmQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/335312037/1578313242",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 179,
+		"favorite_count": 452,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "NEW: Former Chancellor and Home Secretary Sajid Javid is the new Health and Social Care Secretary."
+	},
+	{
+		"created_at": "Sat Jun 26 17:13:02 +0000 2021",
+		"id": 1408835709293797400,
+		"id_str": "1408835709293797382",
+		"full_text": "Final (year) thoughts 💭 \n\nWise words indeed! Congratulations @PhysioNokuthula 👏🤩 https://t.co/kVbDZU9nd3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhysioNokuthula",
+					"name": "Nokuthula",
+					"id": 1230447483853164500,
+					"id_str": "1230447483853164547",
+					"indices": [
+						61,
+						77
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1408835703191093200,
+					"id_str": "1408835703191093248",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/E40wm5OXwAAE4vS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E40wm5OXwAAE4vS.jpg",
+					"url": "https://t.co/kVbDZU9nd3",
+					"display_url": "pic.twitter.com/kVbDZU9nd3",
+					"expanded_url": "https://twitter.com/beardedPT/status/1408835709293797382/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1408835703191093200,
+					"id_str": "1408835703191093248",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/E40wm5OXwAAE4vS.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E40wm5OXwAAE4vS.jpg",
+					"url": "https://t.co/kVbDZU9nd3",
+					"display_url": "pic.twitter.com/kVbDZU9nd3",
+					"expanded_url": "https://twitter.com/beardedPT/status/1408835709293797382/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio with interests in innovation & leadership ▪️ Armed Forces Champion ▪️ @hla_int Scholar ▪️ #150Leaders ▪️ CSP Professional Committee ▪️ School Governor ▪️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2893,
+			"friends_count": 4481,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22784,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Final (year) thoughts 💭 \n\nWise words indeed! Congratulations @PhysioNokuthula 👏🤩 https://t.co/kVbDZU9nd3"
+	},
+	{
+		"created_at": "Sat Jun 26 17:09:54 +0000 2021",
+		"id": 1408834921460797400,
+		"id_str": "1408834921460797440",
+		"full_text": "@MontereyZack Looking forward to this @MontereyZack 🤖👍",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MontereyZack",
+					"name": "Zack Hassan",
+					"id": 215079629,
+					"id_str": "215079629",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "MontereyZack",
+					"name": "Zack Hassan",
+					"id": 215079629,
+					"id_str": "215079629",
+					"indices": [
+						38,
+						51
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1408834090992910300,
+		"in_reply_to_status_id_str": "1408834090992910337",
+		"in_reply_to_user_id": 215079629,
+		"in_reply_to_user_id_str": "215079629",
+		"in_reply_to_screen_name": "MontereyZack",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio with interests in innovation & leadership ▪️ Armed Forces Champion ▪️ @hla_int Scholar ▪️ #150Leaders ▪️ CSP Professional Committee ▪️ School Governor ▪️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2893,
+			"friends_count": 4481,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22784,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MontereyZack Looking forward to this @MontereyZack 🤖👍"
+	},
+	{
+		"created_at": "Sat Jun 26 11:52:16 +0000 2021",
+		"id": 1408754985928695800,
+		"id_str": "1408754985928695810",
+		"full_text": "@ArmedPHU @TheDMWS @QAHospitalNews @DMS_JHG_South ⬆️ next year @UHDB_AFN",
+		"truncated": false,
+		"display_text_range": [
+			50,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ArmedPHU",
+					"name": "Keith Malcolm",
+					"id": 1221738375604031500,
+					"id_str": "1221738375604031488",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "TheDMWS",
+					"name": "DMWS",
+					"id": 1017653942,
+					"id_str": "1017653942",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"screen_name": "QAHospitalNews",
+					"name": "Portsmouth Hospitals University NHST",
+					"id": 901596540,
+					"id_str": "901596540",
+					"indices": [
+						19,
+						34
+					]
+				},
+				{
+					"screen_name": "DMS_JHG_South",
+					"name": "DMS_JHG_South",
+					"id": 1136347815305764900,
+					"id_str": "1136347815305764866",
+					"indices": [
+						35,
+						49
+					]
+				},
+				{
+					"screen_name": "UHDB_AFN",
+					"name": "UHDB Armed Forces Network",
+					"id": 1384135578233360400,
+					"id_str": "1384135578233360399",
+					"indices": [
+						63,
+						72
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1408753424926191600,
+		"in_reply_to_status_id_str": "1408753424926191620",
+		"in_reply_to_user_id": 1221738375604031500,
+		"in_reply_to_user_id_str": "1221738375604031488",
+		"in_reply_to_screen_name": "ArmedPHU",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio with interests in innovation & leadership ▪️ Armed Forces Champion ▪️ @hla_int Scholar ▪️ #150Leaders ▪️ CSP Professional Committee ▪️ School Governor ▪️",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2893,
+			"friends_count": 4481,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22784,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ArmedPHU @TheDMWS @QAHospitalNews @DMS_JHG_South ⬆️ next year @UHDB_AFN"
+	},
+	{
 		"created_at": "Fri Jun 25 23:56:28 +0000 2021",
 		"id": 1408574847068815400,
 		"id_str": "1408574847068815364",
@@ -26,7 +543,7 @@ Grailbird.data.tweets_2021_06 =
 				},
 				{
 					"screen_name": "NHS_HealthEdEng",
-					"name": "NHS HEE 🏳️‍🌈",
+					"name": "NHS HEE 🏳️🌈",
 					"id": 637008966,
 					"id_str": "637008966",
 					"indices": [
