@@ -1,6 +1,819 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 30 19:38:30 +0000 2021",
+		"id": 1410321868222091300,
+		"id_str": "1410321868222091276",
+		"full_text": "You love to see it - my brother is listening to my suggestions. 🧠🤓 https://t.co/03daTirmtE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/03daTirmtE",
+					"expanded_url": "https://twitter.com/StewartWilliam6/status/1409821758769623042",
+					"display_url": "twitter.com/StewartWilliam…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2898,
+			"friends_count": 4490,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1409821758769623000,
+		"quoted_status_id_str": "1409821758769623042",
+		"quoted_status_permalink": {
+			"url": "https://t.co/03daTirmtE",
+			"expanded": "https://twitter.com/StewartWilliam6/status/1409821758769623042",
+			"display": "twitter.com/StewartWilliam…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 29 10:31:15 +0000 2021",
+			"id": 1409821758769623000,
+			"id_str": "1409821758769623042",
+			"full_text": "Jill Lepore’s (@Harvard/@NewYorker) @elonmusk: The Evening Rocket (on @BBCRadio4) is Cultural history/criticism at its best (i.e. situating/analysing Musk in regard to science fiction). Lepore’s The Last Archive (from @pushkinpods) is also exceptional.\n\nhttps://t.co/42gvalui9Z",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				277
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Harvard",
+						"name": "Harvard University",
+						"id": 39585367,
+						"id_str": "39585367",
+						"indices": [
+							15,
+							23
+						]
+					},
+					{
+						"screen_name": "NewYorker",
+						"name": "The New Yorker",
+						"id": 14677919,
+						"id_str": "14677919",
+						"indices": [
+							24,
+							34
+						]
+					},
+					{
+						"screen_name": "elonmusk",
+						"name": "Elon Musk",
+						"id": 44196397,
+						"id_str": "44196397",
+						"indices": [
+							36,
+							45
+						]
+					},
+					{
+						"screen_name": "BBCRadio4",
+						"name": "BBC Radio 4",
+						"id": 23937508,
+						"id_str": "23937508",
+						"indices": [
+							70,
+							80
+						]
+					},
+					{
+						"screen_name": "pushkinpods",
+						"name": "Pushkin Industries 🎙️",
+						"id": 1093211541695094800,
+						"id_str": "1093211541695094786",
+						"indices": [
+							218,
+							230
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/42gvalui9Z",
+						"expanded_url": "https://www.bbc.co.uk/programmes/m000xdxc",
+						"display_url": "bbc.co.uk/programmes/m00…",
+						"indices": [
+							254,
+							277
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 553780066,
+				"id_str": "553780066",
+				"name": "Stewart Williams",
+				"screen_name": "StewartWilliam6",
+				"location": "",
+				"description": "PhD @uniofeastanglia | The reputation of filmmaker Ken Russell | Neurodivergent | He/him\n\n*Dyslexic — all spelling mistakes unintentionally my own.",
+				"url": "https://t.co/AcDn6RguGX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AcDn6RguGX",
+								"expanded_url": "https://www.instagram.com/alternativecinephile/",
+								"display_url": "instagram.com/alternativecin…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 316,
+				"friends_count": 414,
+				"listed_count": 5,
+				"created_at": "Sat Apr 14 19:32:08 +0000 2012",
+				"favourites_count": 2179,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 5160,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/937089631946002432/ersKyZkA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/937089631946002432/ersKyZkA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/553780066/1401444441",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "You love to see it - my brother is listening to my suggestions. 🧠🤓 https://t.co/03daTirmtE"
+	},
+	{
+		"created_at": "Wed Jun 30 19:32:30 +0000 2021",
+		"id": 1410319137553932300,
+		"id_str": "1410320359472070656",
+		"full_text": "Couldn't agree more \n\nPeople &gt; process. https://t.co/D0ZGN4mnWf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D0ZGN4mnWf",
+					"expanded_url": "https://twitter.com/simonsinek/status/1410305896165646338",
+					"display_url": "twitter.com/simonsinek/sta…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 468241231,
+			"id_str": "468241231",
+			"name": "Stuart Palma 💙",
+			"screen_name": "stuartgpalma",
+			"location": "Sussex, England",
+			"description": "Head Allied Health @NHSEngland | Non-Exec @sportforconf | Trustee @chestnutsussex | Visiting Lecturer @uniofbrighton & @KingstonUni | @ILMuk Exec Coach | Physio",
+			"url": "https://t.co/RNtgnMcsTT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RNtgnMcsTT",
+							"expanded_url": "https://uk.linkedin.com/in/stuart-palma-0841b544",
+							"display_url": "uk.linkedin.com/in/stuart-palm…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5819,
+			"friends_count": 982,
+			"listed_count": 95,
+			"created_at": "Thu Jan 19 10:02:36 +0000 2012",
+			"favourites_count": 20282,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11137,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1310683599960711169/DKX1f4-R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1310683599960711169/DKX1f4-R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/468241231/1602660339",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1410305896165646300,
+		"quoted_status_id_str": "1410305896165646338",
+		"quoted_status_permalink": {
+			"url": "https://t.co/D0ZGN4mnWf",
+			"expanded": "https://twitter.com/simonsinek/status/1410305896165646338",
+			"display": "twitter.com/simonsinek/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 30 18:35:02 +0000 2021",
+			"id": 1410305896165646300,
+			"id_str": "1410305896165646338",
+			"full_text": "People are always more important than numbers. Happy people make happy numbers (which make even more people happy.)",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				115
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15970050,
+				"id_str": "15970050",
+				"name": "Simon Sinek",
+				"screen_name": "simonsinek",
+				"location": "New York",
+				"description": "inspire someone every single day.",
+				"url": "https://t.co/AKcjc9OTIw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/AKcjc9OTIw",
+								"expanded_url": "http://www.simonsinek.com",
+								"display_url": "simonsinek.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 782486,
+				"friends_count": 43,
+				"listed_count": 9527,
+				"created_at": "Sun Aug 24 16:24:52 +0000 2008",
+				"favourites_count": 54,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 3455,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1295112038096629760/3eCOaKDb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1295112038096629760/3eCOaKDb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15970050/1348031582",
+				"profile_link_color": "F26F11",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "F0EDF0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 633,
+			"favorite_count": 2648,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Couldn't agree more \n\nPeople &gt; process. https://t.co/D0ZGN4mnWf"
+	},
+	{
+		"created_at": "Wed Jun 30 12:10:03 +0000 2021",
+		"id": 1410209010628927500,
+		"id_str": "1410209010628927491",
+		"full_text": "@katerinakolyva @WeAHPs @councilofdeans @icthedifference @SophieParker270 may be of help with your #CNJF project ⬆️👍",
+		"truncated": false,
+		"display_text_range": [
+			57,
+			116
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CNJF",
+					"indices": [
+						99,
+						104
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "katerinakolyva",
+					"name": "Dr Katerina Kolyva (she/her) 🗺",
+					"id": 2156890678,
+					"id_str": "2156890678",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs 💙",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						16,
+						23
+					]
+				},
+				{
+					"screen_name": "councilofdeans",
+					"name": "Council of Deans of Health",
+					"id": 278442312,
+					"id_str": "278442312",
+					"indices": [
+						24,
+						39
+					]
+				},
+				{
+					"screen_name": "icthedifference",
+					"name": "I See The Difference",
+					"id": 1093906743103549400,
+					"id_str": "1093906743103549441",
+					"indices": [
+						40,
+						56
+					]
+				},
+				{
+					"screen_name": "SophieParker270",
+					"name": "Sophie Parker",
+					"id": 1270785033805205500,
+					"id_str": "1270785033805205504",
+					"indices": [
+						57,
+						73
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1410185468965265400,
+		"in_reply_to_status_id_str": "1410185468965265408",
+		"in_reply_to_user_id": 2156890678,
+		"in_reply_to_user_id_str": "2156890678",
+		"in_reply_to_screen_name": "katerinakolyva",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2898,
+			"friends_count": 4490,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22843,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7345,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@katerinakolyva @WeAHPs @councilofdeans @icthedifference @SophieParker270 may be of help with your #CNJF project ⬆️👍"
+	},
+	{
+		"created_at": "Wed Jun 30 11:30:29 +0000 2021",
+		"id": 1410146088523243500,
+		"id_str": "1410199053829292040",
+		"full_text": "Join us today at 7PM for our special #HLALive episode featuring our HLA Community! 🌍⚕️\n\nIn this episode, we ask some of our scholars: \"What is one change you want to make during your healthcare career?\"\n\n#HLACommunity #HLAReflections #HealthcareLeadership https://t.co/tFORwAIBfB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HLALive",
+					"indices": [
+						37,
+						45
+					]
+				},
+				{
+					"text": "HLACommunity",
+					"indices": [
+						204,
+						217
+					]
+				},
+				{
+					"text": "HLAReflections",
+					"indices": [
+						218,
+						233
+					]
+				},
+				{
+					"text": "HealthcareLeadership",
+					"indices": [
+						234,
+						255
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1410055029000740900,
+					"id_str": "1410055029000740866",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/E5GFk_1XoAIOsGI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5GFk_1XoAIOsGI.jpg",
+					"url": "https://t.co/tFORwAIBfB",
+					"display_url": "pic.twitter.com/tFORwAIBfB",
+					"expanded_url": "https://twitter.com/HLA_int/status/1410146088523243521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1410055029000740900,
+					"id_str": "1410055029000740866",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/E5GFk_1XoAIOsGI.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5GFk_1XoAIOsGI.jpg",
+					"url": "https://t.co/tFORwAIBfB",
+					"display_url": "pic.twitter.com/tFORwAIBfB",
+					"expanded_url": "https://twitter.com/HLA_int/status/1410146088523243521/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 809803519846993900,
+			"id_str": "809803519846993921",
+			"name": "The HLA",
+			"screen_name": "HLA_int",
+			"location": "",
+			"description": "The Healthcare Leadership Academy: \n🌱Nurturing leadership🌱\n💭Fostering frontline innovation💭\n⚡Empowering and valuing the next generation⚡",
+			"url": "https://t.co/84YgqZTCrl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/84YgqZTCrl",
+							"expanded_url": "http://thehealthcareleadership.academy",
+							"display_url": "thehealthcareleadership.academy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5157,
+			"friends_count": 0,
+			"listed_count": 19,
+			"created_at": "Fri Dec 16 16:52:59 +0000 2016",
+			"favourites_count": 6335,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11405,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810983604406915073/2jjtK_O1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810983604406915073/2jjtK_O1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/809803519846993921/1590615561",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Join us today at 7PM for our special #HLALive episode featuring our HLA Community! 🌍⚕️\n\nIn this episode, we ask some of our scholars: \"What is one change you want to make during your healthcare career?\"\n\n#HLACommunity #HLAReflections #HealthcareLeadership https://t.co/tFORwAIBfB"
+	},
+	{
 		"created_at": "Tue Jun 29 16:49:43 +0000 2021",
 		"id": 1409917003574526000,
 		"id_str": "1409917003574525952",
