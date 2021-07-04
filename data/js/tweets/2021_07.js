@@ -1,6 +1,130 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sat Jul 03 20:20:21 +0000 2021",
+		"id": 1411419562625618000,
+		"id_str": "1411419562625617927",
+		"full_text": "@CraigDavidson85 @emmatonnerr @torrance_felix @Shaun_LDNurse We are brothers 🥰",
+		"truncated": false,
+		"display_text_range": [
+			61,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CraigDavidson85",
+					"name": "Craig Davidson RN (he/him) 🏳️‍🌈🏳️‍⚧️🌍",
+					"id": 157633593,
+					"id_str": "157633593",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "emmatonnerr",
+					"name": "Emma Tonner",
+					"id": 933281958792220700,
+					"id_str": "933281958792220673",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"screen_name": "torrance_felix",
+					"name": "Felix Torrance",
+					"id": 1139976503515582500,
+					"id_str": "1139976503515582464",
+					"indices": [
+						30,
+						45
+					]
+				},
+				{
+					"screen_name": "Shaun_LDNurse",
+					"name": "Shaun Williams",
+					"id": 901055791515435000,
+					"id_str": "901055791515435008",
+					"indices": [
+						46,
+						60
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1411054684429770800,
+		"in_reply_to_status_id_str": "1411054684429770757",
+		"in_reply_to_user_id": 157633593,
+		"in_reply_to_user_id_str": "157633593",
+		"in_reply_to_screen_name": "CraigDavidson85",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2903,
+			"friends_count": 4500,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7367,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CraigDavidson85 @emmatonnerr @torrance_felix @Shaun_LDNurse We are brothers 🥰"
+	},
+	{
 		"created_at": "Fri Jul 02 15:58:26 +0000 2021",
 		"id": 1410991261402734600,
 		"id_str": "1410991261402734597",
