@@ -1,6 +1,344 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Sun Jul 04 14:52:08 +0000 2021",
+		"id": 1411596066932330500,
+		"id_str": "1411699351135604736",
+		"full_text": "Edinburgh cohort continue to smash it 💪 https://t.co/M3AgeDQmSP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M3AgeDQmSP",
+					"expanded_url": "https://twitter.com/hla_int/status/1411595634969305089",
+					"display_url": "twitter.com/hla_int/status…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4209231317,
+			"id_str": "4209231317",
+			"name": "Maarja 🌸",
+			"screen_name": "m_ferry_",
+			"location": "Costa del Tayside",
+			"description": "nearly a doctor - e-health with @SiccarNet - @WeAreSfGH - @HLA_int scholar - views mine you can’t have them - she/her - 🏴󠁧󠁢󠁳󠁣󠁴󠁿 & 🇪🇪",
+			"url": "https://t.co/6xBrtLHPn2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/6xBrtLHPn2",
+							"expanded_url": "https://www.linkedin.com/in/maarja-liis-ferry-35916715b/",
+							"display_url": "linkedin.com/in/maarja-liis…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1423,
+			"friends_count": 3461,
+			"listed_count": 5,
+			"created_at": "Tue Nov 17 11:11:13 +0000 2015",
+			"favourites_count": 10135,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2773,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1250544063083921411/C8-PySc6_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1250544063083921411/C8-PySc6_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4209231317/1604678813",
+			"profile_link_color": "F5ABB5",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1411595634969305000,
+		"quoted_status_id_str": "1411595634969305089",
+		"quoted_status_permalink": {
+			"url": "https://t.co/M3AgeDQmSP",
+			"expanded": "https://twitter.com/hla_int/status/1411595634969305089",
+			"display": "twitter.com/hla_int/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jul 04 08:00:00 +0000 2021",
+			"id": 1411595634969305000,
+			"id_str": "1411595634969305089",
+			"full_text": "📢✨Check out E1 of the EpiMedic Podcast: Epidemiology 101! \n\n👋Spare 10 mins to get a crash course in epidemiology!\n\nSpotify link: https://t.co/QsGSN6as5P\nApple link: https://t.co/XPzwvZ6hOa\"\n\nNext episode will be on the process of vaccine development! Here's a sneak peak!🌟 https://t.co/xEAMKEKZfo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QsGSN6as5P",
+						"expanded_url": "https://spoti.fi/3dluGbp",
+						"display_url": "spoti.fi/3dluGbp",
+						"indices": [
+							129,
+							152
+						]
+					},
+					{
+						"url": "https://t.co/XPzwvZ6hOa",
+						"expanded_url": "https://apple.co/3x0Pihd",
+						"display_url": "apple.co/3x0Pihd",
+						"indices": [
+							165,
+							188
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1409826168807772200,
+						"id_str": "1409826168807772170",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1409826168807772170/pu/img/UwGZrC9acVpwIaFv.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1409826168807772170/pu/img/UwGZrC9acVpwIaFv.jpg",
+						"url": "https://t.co/xEAMKEKZfo",
+						"display_url": "pic.twitter.com/xEAMKEKZfo",
+						"expanded_url": "https://twitter.com/HLA_int/status/1411595634969305089/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1409826168807772200,
+						"id_str": "1409826168807772170",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1409826168807772170/pu/img/UwGZrC9acVpwIaFv.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1409826168807772170/pu/img/UwGZrC9acVpwIaFv.jpg",
+						"url": "https://t.co/xEAMKEKZfo",
+						"display_url": "pic.twitter.com/xEAMKEKZfo",
+						"expanded_url": "https://twitter.com/HLA_int/status/1411595634969305089/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 53542,
+							"variants": [
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1409826168807772170/pu/vid/720x720/lnLHHmZ_mP2w7yuI.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1409826168807772170/pu/vid/540x540/pnlF1C0CMzFQOocB.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1409826168807772170/pu/pl/uhj6yE0oRXmuz3L_.m3u8?tag=12"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1409826168807772170/pu/vid/320x320/Jmom5lqM5ixCr_Jn.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 809803519846993900,
+				"id_str": "809803519846993921",
+				"name": "The HLA",
+				"screen_name": "HLA_int",
+				"location": "",
+				"description": "The Healthcare Leadership Academy: \n🌱Nurturing leadership🌱\n💭Fostering frontline innovation💭\n⚡Empowering and valuing the next generation⚡",
+				"url": "https://t.co/84YgqZTCrl",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/84YgqZTCrl",
+								"expanded_url": "http://thehealthcareleadership.academy",
+								"display_url": "thehealthcareleadership.academy",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 5167,
+				"friends_count": 0,
+				"listed_count": 19,
+				"created_at": "Fri Dec 16 16:52:59 +0000 2016",
+				"favourites_count": 6354,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 11422,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/810983604406915073/2jjtK_O1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/810983604406915073/2jjtK_O1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/809803519846993921/1590615561",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Edinburgh cohort continue to smash it 💪 https://t.co/M3AgeDQmSP"
+	},
+	{
 		"created_at": "Sat Jul 03 20:20:21 +0000 2021",
 		"id": 1411419562625618000,
 		"id_str": "1411419562625617927",
@@ -16,7 +354,7 @@ Grailbird.data.tweets_2021_07 =
 			"user_mentions": [
 				{
 					"screen_name": "CraigDavidson85",
-					"name": "Craig Davidson RN (he/him) 🏳️‍🌈🏳️‍⚧️🌍",
+					"name": "Craig Davidson RN (he/him) 🏳️🌈🏳️⚧️🌍",
 					"id": 157633593,
 					"id_str": "157633593",
 					"indices": [
