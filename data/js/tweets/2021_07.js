@@ -1,6 +1,600 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 06 21:20:57 +0000 2021",
+		"id": 1412521976548188200,
+		"id_str": "1412521976548188160",
+		"full_text": "@CathyWinfield @amrawlings @WestM61 @rachnachowla @HEIW_NHS @hthelenthomas4 @theswirlingleaf @gavinUHDB @magnusharrison @SharonMartin25 &amp; #CNJF 🤩😍",
+		"truncated": false,
+		"display_text_range": [
+			136,
+			150
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CNJF",
+					"indices": [
+						142,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CathyWinfield",
+					"name": "Cathy Winfield MBE, RN, MSc💙",
+					"id": 2188050351,
+					"id_str": "2188050351",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "amrawlings",
+					"name": "Amanda Rawlings",
+					"id": 631943465,
+					"id_str": "631943465",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "WestM61",
+					"name": "Michael West",
+					"id": 79238760,
+					"id_str": "79238760",
+					"indices": [
+						27,
+						35
+					]
+				},
+				{
+					"screen_name": "rachnachowla",
+					"name": "Rachna",
+					"id": 529751845,
+					"id_str": "529751845",
+					"indices": [
+						36,
+						49
+					]
+				},
+				{
+					"screen_name": "HEIW_NHS",
+					"name": "Health Education and Improvement Wales (HEIW)",
+					"id": 898131910823686100,
+					"id_str": "898131910823686144",
+					"indices": [
+						50,
+						59
+					]
+				},
+				{
+					"screen_name": "hthelenthomas4",
+					"name": "helen thomas",
+					"id": 1109046900,
+					"id_str": "1109046900",
+					"indices": [
+						60,
+						75
+					]
+				},
+				{
+					"screen_name": "theswirlingleaf",
+					"name": "The Swirling Leaf Press",
+					"id": 1386772432472653800,
+					"id_str": "1386772432472653826",
+					"indices": [
+						76,
+						92
+					]
+				},
+				{
+					"screen_name": "gavinUHDB",
+					"name": "Gavin Boyle",
+					"id": 1364206064,
+					"id_str": "1364206064",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"screen_name": "magnusharrison",
+					"name": "Dr. Magnus Harrison 😷🌈💙",
+					"id": 258272524,
+					"id_str": "258272524",
+					"indices": [
+						104,
+						119
+					]
+				},
+				{
+					"screen_name": "SharonMartin25",
+					"name": "Sharon Martin 💙",
+					"id": 463916203,
+					"id_str": "463916203",
+					"indices": [
+						120,
+						135
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1412520417865179100,
+		"in_reply_to_status_id_str": "1412520417865179140",
+		"in_reply_to_user_id": 2188050351,
+		"in_reply_to_user_id_str": "2188050351",
+		"in_reply_to_screen_name": "CathyWinfield",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp | @HLA_int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2908,
+			"friends_count": 4511,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@CathyWinfield @amrawlings @WestM61 @rachnachowla @HEIW_NHS @hthelenthomas4 @theswirlingleaf @gavinUHDB @magnusharrison @SharonMartin25 &amp; #CNJF 🤩😍"
+	},
+	{
+		"created_at": "Tue Jul 06 18:17:49 +0000 2021",
+		"id": 1412475888797692000,
+		"id_str": "1412475888797691910",
+		"full_text": "@Shaque89_ @ASPHERoffice @czabanowska @rokhrzic @dmrtownend @robinvankessel @MaastrichtU @glephum Congratulations! 🤩✨",
+		"truncated": false,
+		"display_text_range": [
+			98,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Shaque89_",
+					"name": "Sharmi Haque",
+					"id": 1318168706359373800,
+					"id_str": "1318168706359373824",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "ASPHERoffice",
+					"name": "ASPHER",
+					"id": 48711683,
+					"id_str": "48711683",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "czabanowska",
+					"name": "Kasia Czabanowska",
+					"id": 2781111840,
+					"id_str": "2781111840",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "rokhrzic",
+					"name": "Rok Hrzic",
+					"id": 23218631,
+					"id_str": "23218631",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"screen_name": "dmrtownend",
+					"name": "David Townend",
+					"id": 1440809378,
+					"id_str": "1440809378",
+					"indices": [
+						48,
+						59
+					]
+				},
+				{
+					"screen_name": "robinvankessel",
+					"name": "Robin van Kessel, PhD",
+					"id": 1115949757778858000,
+					"id_str": "1115949757778857984",
+					"indices": [
+						60,
+						75
+					]
+				},
+				{
+					"screen_name": "MaastrichtU",
+					"name": "Maastricht University",
+					"id": 516474576,
+					"id_str": "516474576",
+					"indices": [
+						76,
+						88
+					]
+				},
+				{
+					"screen_name": "glephum",
+					"name": "GLEPH @ Maastricht University",
+					"id": 1174791954024083500,
+					"id_str": "1174791954024083456",
+					"indices": [
+						89,
+						97
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1412469667516530700,
+		"in_reply_to_status_id_str": "1412469667516530691",
+		"in_reply_to_user_id": 1318168706359373800,
+		"in_reply_to_user_id_str": "1318168706359373824",
+		"in_reply_to_screen_name": "Shaque89_",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp | @HLA_int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2908,
+			"friends_count": 4511,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Shaque89_ @ASPHERoffice @czabanowska @rokhrzic @dmrtownend @robinvankessel @MaastrichtU @glephum Congratulations! 🤩✨"
+	},
+	{
+		"created_at": "Tue Jul 06 16:58:43 +0000 2021",
+		"id": 1412455984115691500,
+		"id_str": "1412455984115691522",
+		"full_text": "@Paulsredemption @MaheySangeeta @UHDBTrust @LgbtqUhdb Give me a shout too @MaheySangeeta 👍",
+		"truncated": false,
+		"display_text_range": [
+			54,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Paulsredemption",
+					"name": "Paul Stevenson",
+					"id": 226350333,
+					"id_str": "226350333",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "MaheySangeeta",
+					"name": "Sangeeta Mahey",
+					"id": 1144244650972258300,
+					"id_str": "1144244650972258305",
+					"indices": [
+						17,
+						31
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						32,
+						42
+					]
+				},
+				{
+					"screen_name": "LgbtqUhdb",
+					"name": "UHDB LGBTQ+ Network",
+					"id": 1374096119492411400,
+					"id_str": "1374096119492411392",
+					"indices": [
+						43,
+						53
+					]
+				},
+				{
+					"screen_name": "MaheySangeeta",
+					"name": "Sangeeta Mahey",
+					"id": 1144244650972258300,
+					"id_str": "1144244650972258305",
+					"indices": [
+						74,
+						88
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1412439501855768600,
+		"in_reply_to_status_id_str": "1412439501855768585",
+		"in_reply_to_user_id": 226350333,
+		"in_reply_to_user_id_str": "226350333",
+		"in_reply_to_screen_name": "Paulsredemption",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp | @HLA_int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2908,
+			"friends_count": 4511,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Paulsredemption @MaheySangeeta @UHDBTrust @LgbtqUhdb Give me a shout too @MaheySangeeta 👍"
+	},
+	{
+		"created_at": "Tue Jul 06 12:57:08 +0000 2021",
+		"id": 1412395186953539600,
+		"id_str": "1412395186953539595",
+		"full_text": "&amp; not forgetting those who put themselves forward and were not successful. Especially, my friends @ebusby63 &amp; @Srikesavan ... It is never easy to loose an election but I hope you continue your leadership journeys!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ebusby63",
+					"name": "emma busby",
+					"id": 2477193351,
+					"id_str": "2477193351",
+					"indices": [
+						102,
+						111
+					]
+				},
+				{
+					"screen_name": "Srikesavan",
+					"name": "Srikesavan Sabapathy 🇱🇰🇮🇳🇨🇦🇬🇧",
+					"id": 58153048,
+					"id_str": "58153048",
+					"indices": [
+						118,
+						129
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1412395185435201500,
+		"in_reply_to_status_id_str": "1412395185435201536",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp | @HLA_int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2908,
+			"friends_count": 4511,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22952,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "&amp; not forgetting those who put themselves forward and were not successful. Especially, my friends @ebusby63 &amp; @Srikesavan ... It is never easy to loose an election but I hope you continue your leadership journeys!"
+	},
+	{
 		"created_at": "Mon Jul 05 20:42:24 +0000 2021",
 		"id": 1411956158202531800,
 		"id_str": "1412149890118004737",
