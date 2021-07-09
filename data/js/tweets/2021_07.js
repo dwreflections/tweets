@@ -1,6 +1,160 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 08 07:24:05 +0000 2021",
+		"id": 1413036149384351700,
+		"id_str": "1413036149384351744",
+		"full_text": "@AklakC @UHDBTrust @estranney @BHRUT_Therapies @hill_karenhill3 @SairahA92 Thank you @AklakC for being so supportive! \nI’m excited to get started 👍",
+		"truncated": false,
+		"display_text_range": [
+			75,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AklakC",
+					"name": "Aklak Choudhury",
+					"id": 707118402,
+					"id_str": "707118402",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						8,
+						18
+					]
+				},
+				{
+					"screen_name": "estranney",
+					"name": "Emily Stranney",
+					"id": 993637980,
+					"id_str": "993637980",
+					"indices": [
+						19,
+						29
+					]
+				},
+				{
+					"screen_name": "BHRUT_Therapies",
+					"name": "BHRUT Therapies",
+					"id": 751129075029336000,
+					"id_str": "751129075029336064",
+					"indices": [
+						30,
+						46
+					]
+				},
+				{
+					"screen_name": "hill_karenhill3",
+					"name": "Karen Hill 💙 RN MSc",
+					"id": 2361529948,
+					"id_str": "2361529948",
+					"indices": [
+						47,
+						63
+					]
+				},
+				{
+					"screen_name": "SairahA92",
+					"name": "Sairah Akhter",
+					"id": 4209223756,
+					"id_str": "4209223756",
+					"indices": [
+						64,
+						74
+					]
+				},
+				{
+					"screen_name": "AklakC",
+					"name": "Aklak Choudhury",
+					"id": 707118402,
+					"id_str": "707118402",
+					"indices": [
+						85,
+						92
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1412833616267255800,
+		"in_reply_to_status_id_str": "1412833616267255810",
+		"in_reply_to_user_id": 707118402,
+		"in_reply_to_user_id_str": "707118402",
+		"in_reply_to_screen_name": "AklakC",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp | @HLA_int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2910,
+			"friends_count": 4513,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 22967,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7379,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AklakC @UHDBTrust @estranney @BHRUT_Therapies @hill_karenhill3 @SairahA92 Thank you @AklakC for being so supportive! \nI’m excited to get started 👍"
+	},
+	{
 		"created_at": "Wed Jul 07 16:03:10 +0000 2021",
 		"id": 1412080755015102500,
 		"id_str": "1412804394006028293",
