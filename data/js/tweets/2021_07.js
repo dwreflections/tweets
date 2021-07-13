@@ -1,6 +1,542 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 12 19:52:08 +0000 2021",
+		"id": 1414673952115511300,
+		"id_str": "1414673952115511300",
+		"full_text": "‘Sustained muddleheadedness’ https://t.co/Wwcbal9UAa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wwcbal9UAa",
+					"expanded_url": "https://twitter.com/rogerkerry1/status/1414535642537672706",
+					"display_url": "twitter.com/rogerkerry1/st…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp | @HLA_int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2915,
+			"friends_count": 4521,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23037,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7385,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1414535642537672700,
+		"quoted_status_id_str": "1414535642537672706",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Wwcbal9UAa",
+			"expanded": "https://twitter.com/rogerkerry1/status/1414535642537672706",
+			"display": "twitter.com/rogerkerry1/st…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 12 10:42:32 +0000 2021",
+			"id": 1414535642537672700,
+			"id_str": "1414535642537672706",
+			"full_text": "Office clear out at @UoNPhysio and found this picture given to me by one of my first juniors c1997, York District Hospital. I used to quote this all the time to students and peers:) #GregGrieve #SustainedMuddleheadedness https://t.co/RoTfkVQQzi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				220
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GregGrieve",
+						"indices": [
+							182,
+							193
+						]
+					},
+					{
+						"text": "SustainedMuddleheadedness",
+						"indices": [
+							194,
+							220
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UoNPhysio",
+						"name": "UoN Physiotherapy",
+						"id": 3020424189,
+						"id_str": "3020424189",
+						"indices": [
+							20,
+							30
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1414535636556689400,
+						"id_str": "1414535636556689409",
+						"indices": [
+							221,
+							244
+						],
+						"media_url": "http://pbs.twimg.com/media/E6FwqrsXsAEfQZn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6FwqrsXsAEfQZn.jpg",
+						"url": "https://t.co/RoTfkVQQzi",
+						"display_url": "pic.twitter.com/RoTfkVQQzi",
+						"expanded_url": "https://twitter.com/RogerKerry1/status/1414535642537672706/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1414535636556689400,
+						"id_str": "1414535636556689409",
+						"indices": [
+							221,
+							244
+						],
+						"media_url": "http://pbs.twimg.com/media/E6FwqrsXsAEfQZn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E6FwqrsXsAEfQZn.jpg",
+						"url": "https://t.co/RoTfkVQQzi",
+						"display_url": "pic.twitter.com/RoTfkVQQzi",
+						"expanded_url": "https://twitter.com/RogerKerry1/status/1414535642537672706/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 396832258,
+				"id_str": "396832258",
+				"name": "Roger Kerry",
+				"screen_name": "RogerKerry1",
+				"location": "Nottingham, UK",
+				"description": "University of Nottingham, UK. Physiotherapy; Philosophy. All Tweets own opinions. Podcast: @anarchyinthehe2 Music: @LawrenceMusicUK + https://t.co/j6lVz1X3o2",
+				"url": "https://t.co/hACImF52BF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hACImF52BF",
+								"expanded_url": "https://anchor.fm/roger-kerry",
+								"display_url": "anchor.fm/roger-kerry",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/j6lVz1X3o2",
+								"expanded_url": "https://www.billkerry.com/",
+								"display_url": "billkerry.com",
+								"indices": [
+									134,
+									157
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 12475,
+				"friends_count": 992,
+				"listed_count": 190,
+				"created_at": "Sun Oct 23 20:48:17 +0000 2011",
+				"favourites_count": 27634,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 23304,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "84938E",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1268217418352078848/sVHa2elW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1268217418352078848/sVHa2elW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/396832258/1615476566",
+				"profile_link_color": "B2B4A6",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D9B382",
+				"profile_text_color": "BBC3AE",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 15,
+			"favorite_count": 71,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "‘Sustained muddleheadedness’ https://t.co/Wwcbal9UAa"
+	},
+	{
+		"created_at": "Mon Jul 12 19:05:55 +0000 2021",
+		"id": 1414659108314157000,
+		"id_str": "1414662323285938177",
+		"full_text": "First Action Learning with #CNJF2021 #curious #QI #Off2aGreatStart @beardedPT @hope_rochelle https://t.co/FbKOiv3IIU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CNJF2021",
+					"indices": [
+						27,
+						36
+					]
+				},
+				{
+					"text": "curious",
+					"indices": [
+						37,
+						45
+					]
+				},
+				{
+					"text": "QI",
+					"indices": [
+						46,
+						49
+					]
+				},
+				{
+					"text": "Off2aGreatStart",
+					"indices": [
+						50,
+						66
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						67,
+						77
+					]
+				},
+				{
+					"screen_name": "hope_rochelle",
+					"name": "Rochelle Hope B",
+					"id": 1397846064477229000,
+					"id_str": "1397846064477229061",
+					"indices": [
+						78,
+						92
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1414659101221703700,
+					"id_str": "1414659101221703682",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E6Hg9RaX0AILRjG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E6Hg9RaX0AILRjG.jpg",
+					"url": "https://t.co/FbKOiv3IIU",
+					"display_url": "pic.twitter.com/FbKOiv3IIU",
+					"expanded_url": "https://twitter.com/hill_karenhill3/status/1414659108314157057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 394,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 394,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1414659101221703700,
+					"id_str": "1414659101221703682",
+					"indices": [
+						93,
+						116
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E6Hg9RaX0AILRjG.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E6Hg9RaX0AILRjG.jpg",
+					"url": "https://t.co/FbKOiv3IIU",
+					"display_url": "pic.twitter.com/FbKOiv3IIU",
+					"expanded_url": "https://twitter.com/hill_karenhill3/status/1414659108314157057/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"medium": {
+							"w": 480,
+							"h": 394,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 394,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 480,
+							"h": 394,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							240,
+							197
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E6Hg9RaX0AILRjG.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2361529948,
+			"id_str": "2361529948",
+			"name": "Karen Hill 💙 RN MSc",
+			"screen_name": "hill_karenhill3",
+			"location": "Derby",
+			"description": "Senior Nurse -Professional Standards. Passionate about golden retrievers. Be a flamingo 🦩in a flock of pigeons. All views are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1986,
+			"friends_count": 1380,
+			"listed_count": 36,
+			"created_at": "Sun Feb 23 20:15:39 +0000 2014",
+			"favourites_count": 32748,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 20380,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1137720884247052288/Bnr6V1-O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137720884247052288/Bnr6V1-O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2361529948/1457645116",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "First Action Learning with #CNJF2021 #curious #QI #Off2aGreatStart @beardedPT @hope_rochelle https://t.co/FbKOiv3IIU"
+	},
+	{
 		"created_at": "Sun Jul 11 11:49:30 +0000 2021",
 		"id": 1414190105431056400,
 		"id_str": "1414190105431056384",
@@ -16,7 +552,7 @@ Grailbird.data.tweets_2021_07 =
 			"user_mentions": [
 				{
 					"screen_name": "CraigDavidson85",
-					"name": "Craig Davidson RN (he/him) 🏳️‍🌈🏳️‍⚧️🌍",
+					"name": "Craig Davidson RN (he/him) 🏳️🌈🏳️⚧️🌍",
 					"id": 157633593,
 					"id_str": "157633593",
 					"indices": [
