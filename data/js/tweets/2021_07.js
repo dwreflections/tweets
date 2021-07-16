@@ -1,6 +1,150 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 15 19:09:09 +0000 2021",
+		"id": 1415750300435157000,
+		"id_str": "1415750300435156992",
+		"full_text": "@UCLan @UCLanMedicine @johannmalawana @MedicsAcademy @HLA_int Congratulations @johannmalawana 🤩\nI will be following your work &amp; the research units  output closely 📈",
+		"truncated": false,
+		"display_text_range": [
+			62,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UCLan",
+					"name": "Uni of Central Lancashire",
+					"id": 15559763,
+					"id_str": "15559763",
+					"indices": [
+						0,
+						6
+					]
+				},
+				{
+					"screen_name": "UCLanMedicine",
+					"name": "UCLan School of Medicine",
+					"id": 1707268716,
+					"id_str": "1707268716",
+					"indices": [
+						7,
+						21
+					]
+				},
+				{
+					"screen_name": "johannmalawana",
+					"name": "johannmalawana",
+					"id": 17501656,
+					"id_str": "17501656",
+					"indices": [
+						22,
+						37
+					]
+				},
+				{
+					"screen_name": "MedicsAcademy",
+					"name": "medics.academy",
+					"id": 775440935110975500,
+					"id_str": "775440935110975488",
+					"indices": [
+						38,
+						52
+					]
+				},
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						53,
+						61
+					]
+				},
+				{
+					"screen_name": "johannmalawana",
+					"name": "johannmalawana",
+					"id": 17501656,
+					"id_str": "17501656",
+					"indices": [
+						78,
+						93
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1415370896232099800,
+		"in_reply_to_status_id_str": "1415370896232099840",
+		"in_reply_to_user_id": 15559763,
+		"in_reply_to_user_id_str": "15559763",
+		"in_reply_to_screen_name": "UCLan",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp | @HLA_int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2919,
+			"friends_count": 4533,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23060,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7392,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@UCLan @UCLanMedicine @johannmalawana @MedicsAcademy @HLA_int Congratulations @johannmalawana 🤩\nI will be following your work &amp; the research units  output closely 📈"
+	},
+	{
 		"created_at": "Wed Jul 14 20:36:38 +0000 2021",
 		"id": 1415409929272369200,
 		"id_str": "1415409929272369164",
@@ -232,7 +376,7 @@ Grailbird.data.tweets_2021_07 =
 				},
 				{
 					"screen_name": "NickCarter1301",
-					"name": "Nick Carter 🏳️‍🌈",
+					"name": "Nick Carter 🏳️🌈",
 					"id": 433613489,
 					"id_str": "433613489",
 					"indices": [
