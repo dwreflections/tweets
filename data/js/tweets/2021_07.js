@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 19 19:04:51 +0000 2021",
+		"id": 1417198768869552000,
+		"id_str": "1417198768869552133",
+		"full_text": "@TomTugendhat @ApplePodcasts I have switched to @CastroPodcasts for this very reason.",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TomTugendhat",
+					"name": "Tom Tugendhat",
+					"id": 2173779986,
+					"id_str": "2173779986",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "ApplePodcasts",
+					"name": "Apple Podcasts",
+					"id": 48436234,
+					"id_str": "48436234",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "CastroPodcasts",
+					"name": "Castro Podcasts",
+					"id": 2227377990,
+					"id_str": "2227377990",
+					"indices": [
+						48,
+						63
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1417197411190050800,
+		"in_reply_to_status_id_str": "1417197411190050817",
+		"in_reply_to_user_id": 2173779986,
+		"in_reply_to_user_id_str": "2173779986",
+		"in_reply_to_screen_name": "TomTugendhat",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp | @HLA_int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2926,
+			"friends_count": 4546,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23068,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7401,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TomTugendhat @ApplePodcasts I have switched to @CastroPodcasts for this very reason."
+	},
+	{
 		"created_at": "Sun Jul 18 20:46:17 +0000 2021",
 		"id": 1416861905927409700,
 		"id_str": "1416861905927409670",
