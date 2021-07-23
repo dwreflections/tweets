@@ -1,6 +1,667 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Thu Jul 22 21:57:51 +0000 2021",
+		"id": 1418172429097128000,
+		"id_str": "1418329468083613699",
+		"full_text": "There are no ‘female soldiers’ in the British Army.\nJust soldiers.\n\nA soldier is a soldier.\nEqual pay. Equal opportunities. Equal expectations.\n\nFind a career defined by skill not gender.\nRecruiting Regular &amp; Reserves now.\n\nClick here to join now: https://t.co/Yy2B2QGSAS https://t.co/E6a4PpjEKj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yy2B2QGSAS",
+					"expanded_url": "https://jobs-ar.my/vEURyIt",
+					"display_url": "jobs-ar.my/vEURyIt",
+					"indices": [
+						252,
+						275
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1418172090361028600,
+					"id_str": "1418172090361028608",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1418172090361028608/pu/img/Sv6E9-qZ-FQVPNHW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1418172090361028608/pu/img/Sv6E9-qZ-FQVPNHW.jpg",
+					"url": "https://t.co/E6a4PpjEKj",
+					"display_url": "pic.twitter.com/E6a4PpjEKj",
+					"expanded_url": "https://twitter.com/armyjobs/status/1418172429097127937/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418172090361028600,
+					"id_str": "1418172090361028608",
+					"indices": [
+						276,
+						299
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1418172090361028608/pu/img/Sv6E9-qZ-FQVPNHW.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1418172090361028608/pu/img/Sv6E9-qZ-FQVPNHW.jpg",
+					"url": "https://t.co/E6a4PpjEKj",
+					"display_url": "pic.twitter.com/E6a4PpjEKj",
+					"expanded_url": "https://twitter.com/armyjobs/status/1418172429097127937/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 60000,
+						"variants": [
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418172090361028608/pu/vid/640x360/BKNQFQeWPHpHWt1M.mp4?tag=12"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418172090361028608/pu/vid/480x270/V7YMHI5wz1WOrzE1.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1418172090361028608/pu/vid/1280x720/1c4kXpx7ad7Pqhp1.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1418172090361028608/pu/pl/LB01yQdS3A42a6gD.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1077082758,
+			"id_str": "1077082758",
+			"name": "Army Jobs",
+			"screen_name": "armyjobs",
+			"location": "United Kingdom",
+			"description": "The Official British Army Jobs Twitter. Follow us for information on Army life, available roles and how you can apply to join. #ArmyJobs https://t.co/UkRbzQW4yc",
+			"url": "https://t.co/O0oTD6iagC",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/O0oTD6iagC",
+							"expanded_url": "https://apply.army.mod.uk",
+							"display_url": "apply.army.mod.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/UkRbzQW4yc",
+							"expanded_url": "http://apply.army.mod.uk",
+							"display_url": "apply.army.mod.uk",
+							"indices": [
+								137,
+								160
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 19260,
+			"friends_count": 838,
+			"listed_count": 178,
+			"created_at": "Thu Jan 10 16:49:44 +0000 2013",
+			"favourites_count": 3360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 5164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/966990604176707591/h8W7Tj5T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/966990604176707591/h8W7Tj5T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1077082758/1613061974",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 69,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "There are no ‘female soldiers’ in the British Army.\nJust soldiers.\n\nA soldier is a soldier.\nEqual pay. Equal opportunities. Equal expectations.\n\nFind a career defined by skill not gender.\nRecruiting Regular &amp; Reserves now.\n\nClick here to join now: https://t.co/Yy2B2QGSAS https://t.co/E6a4PpjEKj"
+	},
+	{
+		"created_at": "Thu Jul 22 18:24:32 +0000 2021",
+		"id": 1418275786705051600,
+		"id_str": "1418275786705051657",
+		"full_text": "@TaylorAlanJ @RogerKerry1 @Jerry_DurhamPT @BiggusBobus @LawrenceMusicUK @TheRunnerNottm https://t.co/WCfHqCyMPx",
+		"truncated": false,
+		"display_text_range": [
+			87,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TaylorAlanJ",
+					"name": "Alan J Taylor",
+					"id": 412127340,
+					"id_str": "412127340",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "Jerry_DurhamPT",
+					"name": "Jerry Durham",
+					"id": 19120080,
+					"id_str": "19120080",
+					"indices": [
+						26,
+						41
+					]
+				},
+				{
+					"screen_name": "BiggusBobus",
+					"name": "Robert Carlisle",
+					"id": 288357293,
+					"id_str": "288357293",
+					"indices": [
+						42,
+						54
+					]
+				},
+				{
+					"screen_name": "LawrenceMusicUK",
+					"name": "Lawrence County",
+					"id": 988700971,
+					"id_str": "988700971",
+					"indices": [
+						55,
+						71
+					]
+				},
+				{
+					"screen_name": "TheRunnerNottm",
+					"name": "Running Horse Notts",
+					"id": 2288600384,
+					"id_str": "2288600384",
+					"indices": [
+						72,
+						87
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1418275779520172000,
+					"id_str": "1418275779520172033",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E666Tp_XEAEUwY6.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E666Tp_XEAEUwY6.jpg",
+					"url": "https://t.co/WCfHqCyMPx",
+					"display_url": "pic.twitter.com/WCfHqCyMPx",
+					"expanded_url": "https://twitter.com/beardedPT/status/1418275786705051657/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1418275779520172000,
+					"id_str": "1418275779520172033",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/E666Tp_XEAEUwY6.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/E666Tp_XEAEUwY6.jpg",
+					"url": "https://t.co/WCfHqCyMPx",
+					"display_url": "pic.twitter.com/WCfHqCyMPx",
+					"expanded_url": "https://twitter.com/beardedPT/status/1418275786705051657/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 498,
+							"h": 280,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							249,
+							140
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/E666Tp_XEAEUwY6.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1418262259852324900,
+		"in_reply_to_status_id_str": "1418262259852324874",
+		"in_reply_to_user_id": 412127340,
+		"in_reply_to_user_id_str": "412127340",
+		"in_reply_to_screen_name": "TaylorAlanJ",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp | @HLA_int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2926,
+			"friends_count": 4552,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@TaylorAlanJ @RogerKerry1 @Jerry_DurhamPT @BiggusBobus @LawrenceMusicUK @TheRunnerNottm https://t.co/WCfHqCyMPx"
+	},
+	{
+		"created_at": "Thu Jul 22 17:29:52 +0000 2021",
+		"id": 1418262027685007400,
+		"id_str": "1418262027685007361",
+		"full_text": "@JonRoom https://t.co/PnpJp9pg4y",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JonRoom",
+					"name": "Dr Jon Room",
+					"id": 20102845,
+					"id_str": "20102845",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PnpJp9pg4y",
+					"expanded_url": "https://youtu.be/JAk448volww",
+					"display_url": "youtu.be/JAk448volww",
+					"indices": [
+						9,
+						32
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1418148106827411500,
+		"in_reply_to_status_id_str": "1418148106827411457",
+		"in_reply_to_user_id": 20102845,
+		"in_reply_to_user_id_str": "20102845",
+		"in_reply_to_screen_name": "JonRoom",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp | @HLA_int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2926,
+			"friends_count": 4552,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@JonRoom https://t.co/PnpJp9pg4y"
+	},
+	{
+		"created_at": "Thu Jul 22 17:02:18 +0000 2021",
+		"id": 1418255090121646000,
+		"id_str": "1418255090121646081",
+		"full_text": "@medic_cd Saying no is a superpower.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "medic_cd",
+					"name": "Cathy Dominic",
+					"id": 1212772689334550500,
+					"id_str": "1212772689334550528",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1418184694290653200,
+		"in_reply_to_status_id_str": "1418184694290653189",
+		"in_reply_to_user_id": 1212772689334550500,
+		"in_reply_to_user_id_str": "1212772689334550528",
+		"in_reply_to_screen_name": "medic_cd",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp | @HLA_int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2926,
+			"friends_count": 4552,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23096,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7413,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@medic_cd Saying no is a superpower."
+	},
+	{
 		"created_at": "Wed Jul 21 19:31:17 +0000 2021",
 		"id": 1417930196020338700,
 		"id_str": "1417930196020338689",
