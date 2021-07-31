@@ -1,6 +1,140 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 30 05:04:37 +0000 2021",
+		"id": 1420973583736754200,
+		"id_str": "1420973583736754176",
+		"full_text": "@gwalkerpoole1 @theRCN @RCNStudents @RCNSouthWest @RCNNRN Have the best retirement, Geoffrey.",
+		"truncated": false,
+		"display_text_range": [
+			58,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gwalkerpoole1",
+					"name": "Geoffrey Walker OBE MA RGN",
+					"id": 4512299009,
+					"id_str": "4512299009",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "theRCN",
+					"name": "The RCN",
+					"id": 54506896,
+					"id_str": "54506896",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"screen_name": "RCNStudents",
+					"name": "RCN Students",
+					"id": 1105954730,
+					"id_str": "1105954730",
+					"indices": [
+						23,
+						35
+					]
+				},
+				{
+					"screen_name": "RCNSouthWest",
+					"name": "RCN South West",
+					"id": 316382282,
+					"id_str": "316382282",
+					"indices": [
+						36,
+						49
+					]
+				},
+				{
+					"screen_name": "RCNNRN",
+					"name": "RCN Newly Registered Nurses",
+					"id": 1192715585672634400,
+					"id_str": "1192715585672634368",
+					"indices": [
+						50,
+						57
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1420970547408773000,
+		"in_reply_to_status_id_str": "1420970547408773126",
+		"in_reply_to_user_id": 4512299009,
+		"in_reply_to_user_id_str": "4512299009",
+		"in_reply_to_screen_name": "gwalkerpoole1",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp | @HLA_int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2936,
+			"friends_count": 4576,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23201,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7430,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gwalkerpoole1 @theRCN @RCNStudents @RCNSouthWest @RCNNRN Have the best retirement, Geoffrey."
+	},
+	{
 		"created_at": "Thu Jul 29 21:22:13 +0000 2021",
 		"id": 1420857217473994800,
 		"id_str": "1420857217473994762",
