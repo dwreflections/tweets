@@ -1,6 +1,252 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Thu Aug 05 17:00:32 +0000 2021",
+		"id": 1423310881153241000,
+		"id_str": "1423328075547283461",
+		"full_text": "@magnusharrison @beardedPT @hill_karenhill3 this guy is a veteran and NHS Porter raising money to support veterans he was robbed at knifepoint in Burton on his run, let’s give a shout out, share and donate https://t.co/sI4RNK4qKE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "magnusharrison",
+					"name": "Dr. Magnus Harrison 😷🌈💙",
+					"id": 258272524,
+					"id_str": "258272524",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "hill_karenhill3",
+					"name": "Karen Hill 💙 RN MSc",
+					"id": 2361529948,
+					"id_str": "2361529948",
+					"indices": [
+						27,
+						43
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/sI4RNK4qKE",
+					"expanded_url": "https://twitter.com/HydeParkHarrier/status/1423020869127917578",
+					"display_url": "twitter.com/HydeParkHarrie…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 258272524,
+		"in_reply_to_user_id_str": "258272524",
+		"in_reply_to_screen_name": "magnusharrison",
+		"user": {
+			"id": 2188050351,
+			"id_str": "2188050351",
+			"name": "Cathy Winfield MBE, RN, MSc💙",
+			"screen_name": "CathyWinfield",
+			"location": "",
+			"description": "Proud to be a Muslim Woman, Exec Chief Nurse University Hospitals of Derby & Burton. Mother & life time Derby County fan. loves life and loving others 💙💙💙💙",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4124,
+			"friends_count": 800,
+			"listed_count": 38,
+			"created_at": "Tue Nov 19 22:50:37 +0000 2013",
+			"favourites_count": 39343,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23280,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1392038152437596161/a5ep-wej_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1392038152437596161/a5ep-wej_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1423020869127917600,
+		"quoted_status_id_str": "1423020869127917578",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sI4RNK4qKE",
+			"expanded": "https://twitter.com/HydeParkHarrier/status/1423020869127917578",
+			"display": "twitter.com/HydeParkHarrie…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Aug 04 20:39:48 +0000 2021",
+			"id": 1423020869127917600,
+			"id_str": "1423020869127917578",
+			"full_text": "\"This is about helping others. If you can go through life and help others, more power to you,\" \nWise words from Phil to the BBC! \n\nhttps://t.co/33DMDzf88v 👈 JustGiving page  https://t.co/1jOkIksdpc",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				197
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/33DMDzf88v",
+						"expanded_url": "https://justgiving.com/fundraising/miniphil",
+						"display_url": "justgiving.com/fundraising/mi…",
+						"indices": [
+							131,
+							154
+						]
+					},
+					{
+						"url": "https://t.co/1jOkIksdpc",
+						"expanded_url": "https://www.bbc.com/news/uk-england-stoke-staffordshire-58093315",
+						"display_url": "bbc.com/news/uk-englan…",
+						"indices": [
+							174,
+							197
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 618311406,
+				"id_str": "618311406",
+				"name": "Hyde Park Harriers",
+				"screen_name": "HydeParkHarrier",
+				"location": "Leeds, England",
+				"description": "Friendly running club in Leeds, est.2006. Run at 19:00 every Tuesday and Thursday from The Edge, University of Leeds.",
+				"url": "https://t.co/qpC4CupYwm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qpC4CupYwm",
+								"expanded_url": "http://www.hydeparkharriers.co.uk",
+								"display_url": "hydeparkharriers.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1354,
+				"friends_count": 289,
+				"listed_count": 24,
+				"created_at": "Mon Jun 25 16:29:00 +0000 2012",
+				"favourites_count": 170,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1598,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/995034637570322432/RawcjYHq_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/995034637570322432/RawcjYHq_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/618311406/1518446885",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 18,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@magnusharrison @beardedPT @hill_karenhill3 this guy is a veteran and NHS Porter raising money to support veterans he was robbed at knifepoint in Burton on his run, let’s give a shout out, share and donate https://t.co/sI4RNK4qKE"
+	},
+	{
 		"created_at": "Wed Aug 04 16:36:29 +0000 2021",
 		"id": 1422959637310156800,
 		"id_str": "1422959637310156804",
