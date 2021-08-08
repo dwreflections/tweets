@@ -1,6 +1,223 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 07 14:38:24 +0000 2021",
+		"id": 1424017082308563000,
+		"id_str": "1424017082308562947",
+		"full_text": "“You should depart from that dogma, ignore leadership/management semantic debates, take what you need, and seek the optima. In the words of Dr Young, ‘It is all leadership.’” 💭📚 https://t.co/zVKlWt0NJG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zVKlWt0NJG",
+					"expanded_url": "https://twitter.com/wavellroom/status/1423526758268252161",
+					"display_url": "twitter.com/wavellroom/sta…",
+					"indices": [
+						178,
+						201
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp | @HLA_int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2946,
+			"friends_count": 4602,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23275,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7444,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1423526758268252200,
+		"quoted_status_id_str": "1423526758268252161",
+		"quoted_status_permalink": {
+			"url": "https://t.co/zVKlWt0NJG",
+			"expanded": "https://twitter.com/wavellroom/status/1423526758268252161",
+			"display": "twitter.com/wavellroom/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Aug 06 06:10:01 +0000 2021",
+			"id": 1423526758268252200,
+			"id_str": "1423526758268252161",
+			"full_text": "❕❗️NEW❕❗️\n\n“The leadership-management split is helpful to frame problems and concepts; but it appears from my rather vivid personal experience and further reading to broach into dogma”\n\nhttps://t.co/3RaNXAP6AF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/3RaNXAP6AF",
+						"expanded_url": "https://buff.ly/3xuqNrU",
+						"display_url": "buff.ly/3xuqNrU",
+						"indices": [
+							186,
+							209
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 831115063499059200,
+				"id_str": "831115063499059201",
+				"name": "Wavell Room - British Military Thinking",
+				"screen_name": "wavellroom",
+				"location": "The Conceptual Space",
+				"description": "Contemporary British Military Thought Site [not official UK MOD] Use #UKPME or #PME Contribute - https://t.co/NVsEHqrDHR SundayFragO SignUp at Homepage",
+				"url": "https://t.co/Woj7PXTgYw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Woj7PXTgYw",
+								"expanded_url": "http://wavellroom.com",
+								"display_url": "wavellroom.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/NVsEHqrDHR",
+								"expanded_url": "http://bit.ly/2K7RcqO",
+								"display_url": "bit.ly/2K7RcqO",
+								"indices": [
+									97,
+									120
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 20171,
+				"friends_count": 4322,
+				"listed_count": 205,
+				"created_at": "Mon Feb 13 12:17:27 +0000 2017",
+				"favourites_count": 13215,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14961,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1008663381165912064/lsn8tb75_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1008663381165912064/lsn8tb75_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/831115063499059201/1529329844",
+				"profile_link_color": "19CF86",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 5,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“You should depart from that dogma, ignore leadership/management semantic debates, take what you need, and seek the optima. In the words of Dr Young, ‘It is all leadership.’” 💭📚 https://t.co/zVKlWt0NJG"
+	},
+	{
 		"created_at": "Fri Aug 06 21:24:50 +0000 2021",
 		"id": 1423756977407242200,
 		"id_str": "1423756977407242241",
@@ -292,7 +509,7 @@ Grailbird.data.tweets_2021_08 =
 			"user": {
 				"id": 996745425297313800,
 				"id_str": "996745425297313794",
-				"name": "NHSGGC North AHP 🏳️‍🌈",
+				"name": "NHSGGC North AHP 🏳️🌈",
 				"screen_name": "NHSGGCnorthAHP",
 				"location": "Glasgow, Scotland",
 				"description": "AHP service involved in numerous audit, research and clinical effectiveness projects - keen to disseminate this work and share best practice.",
