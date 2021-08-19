@@ -1,6 +1,676 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Wed Aug 18 20:02:08 +0000 2021",
+		"id": 1427876696540295200,
+		"id_str": "1428084818856796163",
+		"full_text": "How to access #OpCourage for #Veterans needing support in light of current events. \n\n@nickymurdochMBE\n@combat_boot\n@maj_retd_fox\n\n🔽🔽🔽 https://t.co/Hy8lXJOyr6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			133
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "OpCourage",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"text": "Veterans",
+					"indices": [
+						29,
+						38
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nickymurdochMBE",
+					"name": "Nicky Murdoch MBE",
+					"id": 774354438320484400,
+					"id_str": "774354438320484357",
+					"indices": [
+						85,
+						101
+					]
+				},
+				{
+					"screen_name": "combat_boot",
+					"name": "𝗖𝗼𝗺𝗯𝗮𝘁 𝗕𝗼𝗼𝘁",
+					"id": 4845819658,
+					"id_str": "4845819658",
+					"indices": [
+						102,
+						114
+					]
+				},
+				{
+					"screen_name": "maj_retd_fox",
+					"name": "Andrew Fox",
+					"id": 1085555771918696400,
+					"id_str": "1085555771918696449",
+					"indices": [
+						115,
+						128
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1427876691788054500,
+					"id_str": "1427876691788054529",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/E9DWSTUWQAEYOZE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9DWSTUWQAEYOZE.jpg",
+					"url": "https://t.co/Hy8lXJOyr6",
+					"display_url": "pic.twitter.com/Hy8lXJOyr6",
+					"expanded_url": "https://twitter.com/DrKate_King/status/1427876696540295168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1029,
+							"h": 579,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1029,
+							"h": 579,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1427876691788054500,
+					"id_str": "1427876691788054529",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/E9DWSTUWQAEYOZE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9DWSTUWQAEYOZE.jpg",
+					"url": "https://t.co/Hy8lXJOyr6",
+					"display_url": "pic.twitter.com/Hy8lXJOyr6",
+					"expanded_url": "https://twitter.com/DrKate_King/status/1427876696540295168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1029,
+							"h": 579,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1029,
+							"h": 579,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1427876694287913000,
+					"id_str": "1427876694287912966",
+					"indices": [
+						134,
+						157
+					],
+					"media_url": "http://pbs.twimg.com/media/E9DWScoXEAYbzk0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E9DWScoXEAYbzk0.jpg",
+					"url": "https://t.co/Hy8lXJOyr6",
+					"display_url": "pic.twitter.com/Hy8lXJOyr6",
+					"expanded_url": "https://twitter.com/DrKate_King/status/1427876696540295168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 791,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 854,
+							"h": 1296,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 448,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1047442586049425400,
+			"id_str": "1047442586049425409",
+			"name": "Kate King",
+			"screen_name": "DrKate_King",
+			"location": "",
+			"description": "GP, MPH, RN Medical Officer, Sr Lecturer for Defence Medical Services, GP trainer, TPD, doctoral student @KCL. Mum, wife, owned by cats. (she/her)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1128,
+			"friends_count": 709,
+			"listed_count": 4,
+			"created_at": "Wed Oct 03 11:05:47 +0000 2018",
+			"favourites_count": 10176,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1261697816797339649/nqKDjKrX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1261697816797339649/nqKDjKrX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1047442586049425409/1555186758",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How to access #OpCourage for #Veterans needing support in light of current events. \n\n@nickymurdochMBE\n@combat_boot\n@maj_retd_fox\n\n🔽🔽🔽 https://t.co/Hy8lXJOyr6"
+	},
+	{
+		"created_at": "Wed Aug 18 19:49:31 +0000 2021",
+		"id": 1428081645333139500,
+		"id_str": "1428081645333139458",
+		"full_text": "@adamdobson123 We was discussing this today @johannmalawana ⬆️👍",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adamdobson123",
+					"name": "Adam Dobson",
+					"id": 702962141800878100,
+					"id_str": "702962141800878081",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "johannmalawana",
+					"name": "johannmalawana",
+					"id": 17501656,
+					"id_str": "17501656",
+					"indices": [
+						44,
+						59
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1428079660575903700,
+		"in_reply_to_status_id_str": "1428079660575903745",
+		"in_reply_to_user_id": 702962141800878100,
+		"in_reply_to_user_id_str": "702962141800878081",
+		"in_reply_to_screen_name": "adamdobson123",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp | @HLA_int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2954,
+			"friends_count": 4622,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@adamdobson123 We was discussing this today @johannmalawana ⬆️👍"
+	},
+	{
+		"created_at": "Wed Aug 18 16:39:37 +0000 2021",
+		"id": 1428033857006313500,
+		"id_str": "1428033857006313473",
+		"full_text": "@IanTyrrell5 @poulsm90 What’s next?",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IanTyrrell5",
+					"name": "Ian Tyrrell",
+					"id": 331911174,
+					"id_str": "331911174",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "poulsm90",
+					"name": "Mark Poulson 😷 💙",
+					"id": 2195715563,
+					"id_str": "2195715563",
+					"indices": [
+						13,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1428033450527924200,
+		"in_reply_to_status_id_str": "1428033450527924228",
+		"in_reply_to_user_id": 331911174,
+		"in_reply_to_user_id_str": "331911174",
+		"in_reply_to_screen_name": "IanTyrrell5",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp | @HLA_int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2954,
+			"friends_count": 4622,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@IanTyrrell5 @poulsm90 What’s next?"
+	},
+	{
+		"created_at": "Wed Aug 18 16:37:46 +0000 2021",
+		"id": 1428033390943613000,
+		"id_str": "1428033390943612932",
+		"full_text": "@SarahSpracAHP @AnnyAdams09 Absolutely!",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SarahSpracAHP",
+					"name": "Sarah S AHP 💙",
+					"id": 694854562004471800,
+					"id_str": "694854562004471809",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "AnnyAdams09",
+					"name": "Anny adams",
+					"id": 2182988439,
+					"id_str": "2182988439",
+					"indices": [
+						15,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1428024292185452500,
+		"in_reply_to_status_id_str": "1428024292185452547",
+		"in_reply_to_user_id": 694854562004471800,
+		"in_reply_to_user_id_str": "694854562004471809",
+		"in_reply_to_screen_name": "SarahSpracAHP",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp | @HLA_int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2954,
+			"friends_count": 4622,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SarahSpracAHP @AnnyAdams09 Absolutely!"
+	},
+	{
+		"created_at": "Wed Aug 18 15:46:58 +0000 2021",
+		"id": 1428020606495244300,
+		"id_str": "1428020606495244300",
+		"full_text": "@AnnyAdams09 @SarahSpracAHP Thank you @AnnyAdams09 🤩\nLet me know how you get on.",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AnnyAdams09",
+					"name": "Anny adams",
+					"id": 2182988439,
+					"id_str": "2182988439",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "SarahSpracAHP",
+					"name": "Sarah S AHP 💙",
+					"id": 694854562004471800,
+					"id_str": "694854562004471809",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"screen_name": "AnnyAdams09",
+					"name": "Anny adams",
+					"id": 2182988439,
+					"id_str": "2182988439",
+					"indices": [
+						38,
+						50
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1428017165949677600,
+		"in_reply_to_status_id_str": "1428017165949677570",
+		"in_reply_to_user_id": 2182988439,
+		"in_reply_to_user_id_str": "2182988439",
+		"in_reply_to_screen_name": "AnnyAdams09",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp | @HLA_int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2954,
+			"friends_count": 4622,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23357,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7460,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AnnyAdams09 @SarahSpracAHP Thank you @AnnyAdams09 🤩\nLet me know how you get on."
+	},
+	{
 		"created_at": "Mon Aug 16 19:52:01 +0000 2021",
 		"id": 1427357501012447200,
 		"id_str": "1427357501012447239",
