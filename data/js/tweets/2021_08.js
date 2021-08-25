@@ -1,6 +1,640 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Tue Aug 24 17:41:18 +0000 2021",
+		"id": 1430223707058983000,
+		"id_str": "1430223707058982917",
+		"full_text": "https://t.co/qnVknvpTdc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qnVknvpTdc",
+					"expanded_url": "https://twitter.com/uhdbtrust/status/1430189524110487557",
+					"display_url": "twitter.com/uhdbtrust/stat…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1430223405752651800,
+		"in_reply_to_status_id_str": "1430223405752651778",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp | @HLA_int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2957,
+			"friends_count": 4636,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23390,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1430189524110487600,
+		"quoted_status_id_str": "1430189524110487557",
+		"quoted_status_permalink": {
+			"url": "https://t.co/qnVknvpTdc",
+			"expanded": "https://twitter.com/uhdbtrust/status/1430189524110487557",
+			"display": "twitter.com/uhdbtrust/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Aug 24 15:25:28 +0000 2021",
+			"id": 1430189524110487600,
+			"id_str": "1430189524110487557",
+			"full_text": "We are delighted to announce that we are a Military &amp; Civilian Health Partnership #HSJAwards finalist! 🎉\n\nHuge recognition of our teams who worked together with the military during the height of the second wave of the pandemic! https://t.co/kFIki8XWL3\n\n#TeamUHDB #BritishArmy https://t.co/jDNF4IOZFk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HSJAwards",
+						"indices": [
+							86,
+							96
+						]
+					},
+					{
+						"text": "TeamUHDB",
+						"indices": [
+							257,
+							266
+						]
+					},
+					{
+						"text": "BritishArmy",
+						"indices": [
+							267,
+							279
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/kFIki8XWL3",
+						"expanded_url": "http://bit.ly/UHDBArmy",
+						"display_url": "bit.ly/UHDBArmy",
+						"indices": [
+							232,
+							255
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1430182865187262500,
+						"id_str": "1430182865187262479",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/E9kHvQtWUA8EjsK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E9kHvQtWUA8EjsK.jpg",
+						"url": "https://t.co/jDNF4IOZFk",
+						"display_url": "pic.twitter.com/jDNF4IOZFk",
+						"expanded_url": "https://twitter.com/UHDBTrust/status/1430189524110487557/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 418,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 355,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 418,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1430182865187262500,
+						"id_str": "1430182865187262479",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/E9kHvQtWUA8EjsK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E9kHvQtWUA8EjsK.jpg",
+						"url": "https://t.co/jDNF4IOZFk",
+						"display_url": "pic.twitter.com/jDNF4IOZFk",
+						"expanded_url": "https://twitter.com/UHDBTrust/status/1430189524110487557/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 800,
+								"h": 418,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 355,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 800,
+								"h": 418,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 429877936,
+				"id_str": "429877936",
+				"name": "University Hospitals of Derby and Burton NHS FT",
+				"screen_name": "UHDBTrust",
+				"location": "Derby, Burton, Tamworth, Lichfield",
+				"description": "Official Twitter page of University Hospitals of Derby and Burton NHS Foundation Trust. 🏥\n\nThis account is monitored Mon-Fri, 9am-5pm (excluding Bank Holidays)",
+				"url": "https://t.co/x70bd3ATs0",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/x70bd3ATs0",
+								"expanded_url": "http://www.uhdb.nhs.uk",
+								"display_url": "uhdb.nhs.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 15462,
+				"friends_count": 1277,
+				"listed_count": 167,
+				"created_at": "Tue Dec 06 14:09:36 +0000 2011",
+				"favourites_count": 8560,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21355,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1429827279656525841/9CHIv2WA_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1429827279656525841/9CHIv2WA_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/429877936/1614764462",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/qnVknvpTdc"
+	},
+	{
+		"created_at": "Tue Aug 24 17:40:46 +0000 2021",
+		"id": 1430167874442834000,
+		"id_str": "1430223572933414912",
+		"full_text": "@PhilBoltonRN @UHDBTrust @HSJ_Awards @DefenceHQ @hill_karenhill3 @beardedPT @paulvincentbro1 Really proud of our teams I. The military and the Trust genuinely working together with mutual respect well deserved recognition @SiobhanHeafield",
+		"truncated": false,
+		"display_text_range": [
+			93,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhilBoltonRN",
+					"name": "Phil Bolton",
+					"id": 1188076842726690800,
+					"id_str": "1188076842726690817",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "HSJ_Awards",
+					"name": "HSJ Awards",
+					"id": 302056452,
+					"id_str": "302056452",
+					"indices": [
+						25,
+						36
+					]
+				},
+				{
+					"screen_name": "DefenceHQ",
+					"name": "Ministry of Defence 🇬🇧",
+					"id": 16133530,
+					"id_str": "16133530",
+					"indices": [
+						37,
+						47
+					]
+				},
+				{
+					"screen_name": "hill_karenhill3",
+					"name": "Karen Hill 💙 RN MSc",
+					"id": 2361529948,
+					"id_str": "2361529948",
+					"indices": [
+						48,
+						64
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"screen_name": "paulvincentbro1",
+					"name": "Paul Brooks MBE, MSc",
+					"id": 2870262826,
+					"id_str": "2870262826",
+					"indices": [
+						76,
+						92
+					]
+				},
+				{
+					"screen_name": "SiobhanHeafield",
+					"name": "Siobhan Heafield MBE RN MHS",
+					"id": 1324065882,
+					"id_str": "1324065882",
+					"indices": [
+						222,
+						238
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1430135522253590500,
+		"in_reply_to_status_id_str": "1430135522253590534",
+		"in_reply_to_user_id": 1188076842726690800,
+		"in_reply_to_user_id_str": "1188076842726690817",
+		"in_reply_to_screen_name": "PhilBoltonRN",
+		"user": {
+			"id": 2188050351,
+			"id_str": "2188050351",
+			"name": "Cathy Winfield MBE, RN, MSc💙",
+			"screen_name": "CathyWinfield",
+			"location": "",
+			"description": "Proud to be a Muslim Woman, Exec Chief Nurse University Hospitals of Derby & Burton. Mother & life time Derby County fan. loves life and loving others 💙💙💙💙",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4157,
+			"friends_count": 829,
+			"listed_count": 38,
+			"created_at": "Tue Nov 19 22:50:37 +0000 2013",
+			"favourites_count": 39694,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 23509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1392038152437596161/a5ep-wej_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1392038152437596161/a5ep-wej_normal.png",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@PhilBoltonRN @UHDBTrust @HSJ_Awards @DefenceHQ @hill_karenhill3 @beardedPT @paulvincentbro1 Really proud of our teams I. The military and the Trust genuinely working together with mutual respect well deserved recognition @SiobhanHeafield"
+	},
+	{
+		"created_at": "Tue Aug 24 17:40:28 +0000 2021",
+		"id": 1430223496781746200,
+		"id_str": "1430223496781746179",
+		"full_text": "@hill_karenhill3 @PhilBoltonRN @CathyWinfield @gavinUHDB @gillogden66 @paulvincentbro1 @magnusharrison @UHDBTrust So pleased! 👏",
+		"truncated": false,
+		"display_text_range": [
+			114,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hill_karenhill3",
+					"name": "Karen Hill 💙 RN MSc",
+					"id": 2361529948,
+					"id_str": "2361529948",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "PhilBoltonRN",
+					"name": "Phil Bolton",
+					"id": 1188076842726690800,
+					"id_str": "1188076842726690817",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "CathyWinfield",
+					"name": "Cathy Winfield MBE, RN, MSc💙",
+					"id": 2188050351,
+					"id_str": "2188050351",
+					"indices": [
+						31,
+						45
+					]
+				},
+				{
+					"screen_name": "gavinUHDB",
+					"name": "Gavin Boyle",
+					"id": 1364206064,
+					"id_str": "1364206064",
+					"indices": [
+						46,
+						56
+					]
+				},
+				{
+					"screen_name": "gillogden66",
+					"name": "Gill Ogden",
+					"id": 752424641495466000,
+					"id_str": "752424641495465984",
+					"indices": [
+						57,
+						69
+					]
+				},
+				{
+					"screen_name": "paulvincentbro1",
+					"name": "Paul Brooks MBE, MSc",
+					"id": 2870262826,
+					"id_str": "2870262826",
+					"indices": [
+						70,
+						86
+					]
+				},
+				{
+					"screen_name": "magnusharrison",
+					"name": "Dr. Magnus Harrison 😷🌈💙",
+					"id": 258272524,
+					"id_str": "258272524",
+					"indices": [
+						87,
+						102
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						103,
+						113
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1430135090009493500,
+		"in_reply_to_status_id_str": "1430135090009493509",
+		"in_reply_to_user_id": 2361529948,
+		"in_reply_to_user_id_str": "2361529948",
+		"in_reply_to_screen_name": "hill_karenhill3",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp | @HLA_int Scholar | #150Leaders",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2957,
+			"friends_count": 4636,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23390,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7466,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1602745017",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hill_karenhill3 @PhilBoltonRN @CathyWinfield @gavinUHDB @gillogden66 @paulvincentbro1 @magnusharrison @UHDBTrust So pleased! 👏"
+	},
+	{
 		"created_at": "Fri Aug 20 17:15:17 +0000 2021",
 		"id": 1428767606065012700,
 		"id_str": "1428767606065012743",
