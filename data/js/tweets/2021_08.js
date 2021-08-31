@@ -1,6 +1,100 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Mon Aug 30 18:09:35 +0000 2021",
+		"id": 1432404633666920400,
+		"id_str": "1432405152368152579",
+		"full_text": "Do I have any new @HLA_int AHP or nurse &amp; mifwifery scholars lurking in or around my followers? Tomorrow I will host a 2 hour session 630-830 letting you all talk, discuss ideas and think about what leadership means for US. Dm me for details!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						18,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 839176365530366000,
+			"id_str": "839176365530365956",
+			"name": "Karen Thomas",
+			"screen_name": "Karen_ThPCU",
+			"location": "Cambridge, England",
+			"description": "Senior Chartered Physio (neuro) | HEE ClinAc Fellow | Chuffed PhD holder @Cambridge_Uni | @HLA_int Scholar | Lifetime boaty, proud #MoreThanSailing advocate⛵|",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 948,
+			"friends_count": 500,
+			"listed_count": 7,
+			"created_at": "Tue Mar 07 18:10:11 +0000 2017",
+			"favourites_count": 4433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1958,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149349110828425217/BLyl7-tO_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149349110828425217/BLyl7-tO_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/839176365530365956/1607380801",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Do I have any new @HLA_int AHP or nurse &amp; mifwifery scholars lurking in or around my followers? Tomorrow I will host a 2 hour session 630-830 letting you all talk, discuss ideas and think about what leadership means for US. Dm me for details!"
+	},
+	{
 		"created_at": "Sun Aug 29 20:56:06 +0000 2021",
 		"id": 1432084669739278300,
 		"id_str": "1432084669739278342",
