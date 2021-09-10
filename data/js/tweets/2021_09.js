@@ -1,10 +1,115 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 09 20:04:17 +0000 2021",
+		"id": 1436057894705844200,
+		"id_str": "1436057894705844227",
+		"full_text": "“I urge you to have a conversation with the AHPs in your hospital, department or workplace to see how you can work together to solve shared challenges and improve patient care.”\n\nA brief article I wrote as part of my @HLA_int Scholarship year ⬇️\n\n🔗 https://t.co/pEgKi9PrDl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						217,
+						225
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pEgKi9PrDl",
+					"expanded_url": "https://www.linkedin.com/pulse/importance-utilising-allied-health-professionals-roles-david-williams",
+					"display_url": "linkedin.com/pulse/importan…",
+					"indices": [
+						249,
+						272
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp |@HLA_int & #150Leaders alumni",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3004,
+			"friends_count": 4748,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23564,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7498,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 110,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“I urge you to have a conversation with the AHPs in your hospital, department or workplace to see how you can work together to solve shared challenges and improve patient care.”\n\nA brief article I wrote as part of my @HLA_int Scholarship year ⬇️\n\n🔗 https://t.co/pEgKi9PrDl"
+	},
+	{
 		"created_at": "Tue Sep 07 20:19:52 +0000 2021",
 		"id": 1435337041810792400,
 		"id_str": "1435337041810792455",
-		"full_text": "@NHSLeader @NHSLeadership @c_chipperfield @JacquelineLD @MarisPipers @jostrong3 @JasDhap Love this! Congratulations 🥳🙌🏳️‍🌈",
+		"full_text": "@NHSLeader @NHSLeadership @c_chipperfield @JacquelineLD @MarisPipers @jostrong3 @JasDhap Love this! Congratulations 🥳🙌🏳️🌈",
 		"truncated": false,
 		"display_text_range": [
 			89,
@@ -56,7 +161,7 @@ Grailbird.data.tweets_2021_09 =
 				},
 				{
 					"screen_name": "MarisPipers",
-					"name": "Emma Marrison-Taylor 💙🏳️‍🌈",
+					"name": "Emma Marrison-Taylor 💙🏳️🌈",
 					"id": 1024714027954569200,
 					"id_str": "1024714027954569216",
 					"indices": [
@@ -152,7 +257,7 @@ Grailbird.data.tweets_2021_09 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@NHSLeader @NHSLeadership @c_chipperfield @JacquelineLD @MarisPipers @jostrong3 @JasDhap Love this! Congratulations 🥳🙌🏳️‍🌈"
+		"text": "@NHSLeader @NHSLeadership @c_chipperfield @JacquelineLD @MarisPipers @jostrong3 @JasDhap Love this! Congratulations 🥳🙌🏳️🌈"
 	},
 	{
 		"created_at": "Mon Sep 06 18:08:14 +0000 2021",
