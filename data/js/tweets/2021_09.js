@@ -1,6 +1,593 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 10 17:40:23 +0000 2021",
+		"id": 1436239513106346000,
+		"id_str": "1436384069529505812",
+		"full_text": "'#AHPs are underutilised currently with oblique routes to career progression and are under-represented at senior #Leadership positions'.\n\nOur national 🇦🇺 study on #AlliedHealthLeadership ➡️ we have 'an access problem not an engagement problem' https://t.co/PgctXJrkjr @beardedPT https://t.co/emh3rFatLo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AHPs",
+					"indices": [
+						1,
+						6
+					]
+				},
+				{
+					"text": "Leadership",
+					"indices": [
+						113,
+						124
+					]
+				},
+				{
+					"text": "AlliedHealthLeadership",
+					"indices": [
+						163,
+						186
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						268,
+						278
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/PgctXJrkjr",
+					"expanded_url": "https://tinyurl.com/bfu9ayes",
+					"display_url": "tinyurl.com/bfu9ayes",
+					"indices": [
+						244,
+						267
+					]
+				},
+				{
+					"url": "https://t.co/emh3rFatLo",
+					"expanded_url": "https://twitter.com/beardedPT/status/1436057894705844227",
+					"display_url": "twitter.com/beardedPT/stat…",
+					"indices": [
+						279,
+						302
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1098022069,
+			"id_str": "1098022069",
+			"name": "Rosalie Boyce",
+			"screen_name": "RosalieBoyce",
+			"location": "Australia",
+			"description": "Allied Health Workforce/Organisation/Research/Leadership/History #AHPhistory /Health Services /Consulting/Speaker ✳️Ambition: 2 connect#AHP🌍🌏 RT=FYI.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 588,
+			"friends_count": 122,
+			"listed_count": 0,
+			"created_at": "Thu Jan 17 12:22:38 +0000 2013",
+			"favourites_count": 2911,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2462,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/855366918202474496/VcMT6XnL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/855366918202474496/VcMT6XnL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1098022069/1492770617",
+			"profile_link_color": "91D2FA",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1436057894705844200,
+		"quoted_status_id_str": "1436057894705844227",
+		"quoted_status_permalink": {
+			"url": "https://t.co/emh3rFatLo",
+			"expanded": "https://twitter.com/beardedPT/status/1436057894705844227",
+			"display": "twitter.com/beardedPT/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 09 20:04:17 +0000 2021",
+			"id": 1436057894705844200,
+			"id_str": "1436057894705844227",
+			"full_text": "“I urge you to have a conversation with the AHPs in your hospital, department or workplace to see how you can work together to solve shared challenges and improve patient care.”\n\nA brief article I wrote as part of my @HLA_int Scholarship year ⬇️\n\n🔗 https://t.co/pEgKi9PrDl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HLA_int",
+						"name": "The HLA",
+						"id": 809803519846993900,
+						"id_str": "809803519846993921",
+						"indices": [
+							217,
+							225
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/pEgKi9PrDl",
+						"expanded_url": "https://www.linkedin.com/pulse/importance-utilising-allied-health-professionals-roles-david-williams",
+						"display_url": "linkedin.com/pulse/importan…",
+						"indices": [
+							249,
+							272
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3377750235,
+				"id_str": "3377750235",
+				"name": "David Williams",
+				"screen_name": "beardedPT",
+				"location": "Staffordshire",
+				"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp |@HLA_int & #150Leaders alumni",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3024,
+				"friends_count": 4750,
+				"listed_count": 20,
+				"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+				"favourites_count": 23608,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7502,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 137,
+			"favorite_count": 350,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "'#AHPs are underutilised currently with oblique routes to career progression and are under-represented at senior #Leadership positions'.\n\nOur national 🇦🇺 study on #AlliedHealthLeadership ➡️ we have 'an access problem not an engagement problem' https://t.co/PgctXJrkjr @beardedPT https://t.co/emh3rFatLo"
+	},
+	{
+		"created_at": "Fri Sep 10 17:36:52 +0000 2021",
+		"id": 1436383183193485300,
+		"id_str": "1436383183193485317",
+		"full_text": "@LaurenWardman @GlosHealthNHS Good to hear 👂",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LaurenWardman",
+					"name": "Lauren Edwards",
+					"id": 2623546005,
+					"id_str": "2623546005",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "GlosHealthNHS",
+					"name": "Gloucestershire Health and Care NHS FT",
+					"id": 56424336,
+					"id_str": "56424336",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1436271135541366800,
+		"in_reply_to_status_id_str": "1436271135541366784",
+		"in_reply_to_user_id": 2623546005,
+		"in_reply_to_user_id_str": "2623546005",
+		"in_reply_to_screen_name": "LaurenWardman",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp |@HLA_int & #150Leaders alumni",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3024,
+			"friends_count": 4750,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7502,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LaurenWardman @GlosHealthNHS Good to hear 👂"
+	},
+	{
+		"created_at": "Fri Sep 10 17:36:34 +0000 2021",
+		"id": 1436299670284816400,
+		"id_str": "1436383106823507977",
+		"full_text": "Excellent short piece from David, with some helpful resources for senior NHS leaders.  Diversifying leadership - involving senior AHP leadership. The power of conversation 👂 👂 @MichelleBatem16 @TracyAllenDCHS @garnett_linda https://t.co/OalqCGUVrW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MichelleBatem16",
+					"name": "Michelle Bateman - Chief Nurse RN RM RHV QN",
+					"id": 3908848640,
+					"id_str": "3908848640",
+					"indices": [
+						176,
+						192
+					]
+				},
+				{
+					"screen_name": "TracyAllenDCHS",
+					"name": "Tracy Allen",
+					"id": 391051710,
+					"id_str": "391051710",
+					"indices": [
+						193,
+						208
+					]
+				},
+				{
+					"screen_name": "garnett_linda",
+					"name": "Linda Garnett",
+					"id": 1361688776,
+					"id_str": "1361688776",
+					"indices": [
+						209,
+						223
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/OalqCGUVrW",
+					"expanded_url": "https://twitter.com/beardedPT/status/1436057894705844227",
+					"display_url": "twitter.com/beardedPT/stat…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1442195581,
+			"id_str": "1442195581",
+			"name": "Mary Heritage",
+			"screen_name": "MaryHeritage",
+			"location": "East Midlands, England",
+			"description": "RCSLT Chair 2020-2022\n\nSpeech & Language Therapist & Allied Health Professions leader in Derbyshire. \n\nTrustee @hopenottingham",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1731,
+			"friends_count": 1019,
+			"listed_count": 17,
+			"created_at": "Sun May 19 20:53:33 +0000 2013",
+			"favourites_count": 5836,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3998,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1336977615089971201/7xF7moNz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1336977615089971201/7xF7moNz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1442195581/1607595281",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1436057894705844200,
+		"quoted_status_id_str": "1436057894705844227",
+		"quoted_status_permalink": {
+			"url": "https://t.co/OalqCGUVrW",
+			"expanded": "https://twitter.com/beardedPT/status/1436057894705844227",
+			"display": "twitter.com/beardedPT/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 09 20:04:17 +0000 2021",
+			"id": 1436057894705844200,
+			"id_str": "1436057894705844227",
+			"full_text": "“I urge you to have a conversation with the AHPs in your hospital, department or workplace to see how you can work together to solve shared challenges and improve patient care.”\n\nA brief article I wrote as part of my @HLA_int Scholarship year ⬇️\n\n🔗 https://t.co/pEgKi9PrDl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HLA_int",
+						"name": "The HLA",
+						"id": 809803519846993900,
+						"id_str": "809803519846993921",
+						"indices": [
+							217,
+							225
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/pEgKi9PrDl",
+						"expanded_url": "https://www.linkedin.com/pulse/importance-utilising-allied-health-professionals-roles-david-williams",
+						"display_url": "linkedin.com/pulse/importan…",
+						"indices": [
+							249,
+							272
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3377750235,
+				"id_str": "3377750235",
+				"name": "David Williams",
+				"screen_name": "beardedPT",
+				"location": "Staffordshire",
+				"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp |@HLA_int & #150Leaders alumni",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3024,
+				"friends_count": 4750,
+				"listed_count": 20,
+				"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+				"favourites_count": 23608,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7502,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 137,
+			"favorite_count": 350,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excellent short piece from David, with some helpful resources for senior NHS leaders.  Diversifying leadership - involving senior AHP leadership. The power of conversation 👂 👂 @MichelleBatem16 @TracyAllenDCHS @garnett_linda https://t.co/OalqCGUVrW"
+	},
+	{
 		"created_at": "Thu Sep 09 20:04:17 +0000 2021",
 		"id": 1436057894705844200,
 		"id_str": "1436057894705844227",
