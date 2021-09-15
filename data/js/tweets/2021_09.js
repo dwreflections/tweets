@@ -1,6 +1,202 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Tue Sep 14 18:01:15 +0000 2021",
+		"id": 1437830251602645000,
+		"id_str": "1437838871421726720",
+		"full_text": "@beardedPT - 'The role of AHPs is integral to most clinical pathways, however, there is a wide variance in how AHPs are organised and led. Nurses and doctors are routinely given leadership and board positions while few AHPs are given such opportunities.'\n\nhttps://t.co/1f7kPHK7ss https://t.co/mqRWf6KI9m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1f7kPHK7ss",
+					"expanded_url": "https://www.linkedin.com/pulse/importance-utilising-allied-health-professionals-roles-david-williams/",
+					"display_url": "linkedin.com/pulse/importan…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1436013456218542000,
+					"id_str": "1436013456218542088",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/E-2-oU6WUAgQ6AJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-2-oU6WUAgQ6AJ.jpg",
+					"url": "https://t.co/mqRWf6KI9m",
+					"display_url": "pic.twitter.com/mqRWf6KI9m",
+					"expanded_url": "https://twitter.com/HLA_int/status/1437830251602644999/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1436013456218542000,
+					"id_str": "1436013456218542088",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/E-2-oU6WUAgQ6AJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E-2-oU6WUAgQ6AJ.jpg",
+					"url": "https://t.co/mqRWf6KI9m",
+					"display_url": "pic.twitter.com/mqRWf6KI9m",
+					"expanded_url": "https://twitter.com/HLA_int/status/1437830251602644999/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 809803519846993900,
+			"id_str": "809803519846993921",
+			"name": "The HLA",
+			"screen_name": "HLA_int",
+			"location": "",
+			"description": "The Healthcare Leadership Academy: \n🌱Nurturing leadership🌱\n💭Fostering frontline innovation💭\n⚡Empowering and valuing the next generation⚡",
+			"url": "https://t.co/84YgqZTCrl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/84YgqZTCrl",
+							"expanded_url": "http://thehealthcareleadership.academy",
+							"display_url": "thehealthcareleadership.academy",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5336,
+			"friends_count": 0,
+			"listed_count": 20,
+			"created_at": "Fri Dec 16 16:52:59 +0000 2016",
+			"favourites_count": 6667,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/810983604406915073/2jjtK_O1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/810983604406915073/2jjtK_O1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/809803519846993921/1590615561",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@beardedPT - 'The role of AHPs is integral to most clinical pathways, however, there is a wide variance in how AHPs are organised and led. Nurses and doctors are routinely given leadership and board positions while few AHPs are given such opportunities.'\n\nhttps://t.co/1f7kPHK7ss https://t.co/mqRWf6KI9m"
+	},
+	{
 		"created_at": "Sat Sep 11 21:34:54 +0000 2021",
 		"id": 1436805473991372800,
 		"id_str": "1436805473991372802",
