@@ -1,6 +1,247 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Fri Sep 17 18:09:11 +0000 2021",
+		"id": 1438758161570312200,
+		"id_str": "1438928033314922497",
+		"full_text": "SAVE THE DATE! Announcing our FIRST virtual #AHPQI_conference November 9th 2021 from 1pm-4pm.\n\nSpaces are limited so register your FREE space early to avoid disappointment!\n\nhttps://t.co/ZHprxI6wrT\n\n@ahpqi @AHPQI_London @AHPsEverywhere @WeAHPs @AHPs4PH @NHSLeader https://t.co/8vp8diYm40",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			263
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AHPQI_conference",
+					"indices": [
+						44,
+						61
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ahpqi",
+					"name": "AHPQI",
+					"id": 1288099110009135000,
+					"id_str": "1288099110009135106",
+					"indices": [
+						199,
+						205
+					]
+				},
+				{
+					"screen_name": "AHPQI_London",
+					"name": "AHPQI_London",
+					"id": 1437428666552799200,
+					"id_str": "1437428666552799234",
+					"indices": [
+						206,
+						219
+					]
+				},
+				{
+					"screen_name": "AHPsEverywhere",
+					"name": "AHPsEverywhere",
+					"id": 1426102249613373400,
+					"id_str": "1426102249613373441",
+					"indices": [
+						220,
+						235
+					]
+				},
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs 💙",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						236,
+						243
+					]
+				},
+				{
+					"screen_name": "AHPs4PH",
+					"name": "AHPs4PH",
+					"id": 720682698805801000,
+					"id_str": "720682698805800960",
+					"indices": [
+						244,
+						252
+					]
+				},
+				{
+					"screen_name": "NHSLeader",
+					"name": "Rachael Moses",
+					"id": 107548705,
+					"id_str": "107548705",
+					"indices": [
+						253,
+						263
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZHprxI6wrT",
+					"expanded_url": "https://www.eventbrite.com/e/ahpqi-conference-tickets-166504658917",
+					"display_url": "eventbrite.com/e/ahpqi-confer…",
+					"indices": [
+						174,
+						197
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1438758156591587300,
+					"id_str": "1438758156591587330",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/E_d-66lWYAINUti.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_d-66lWYAINUti.jpg",
+					"url": "https://t.co/8vp8diYm40",
+					"display_url": "pic.twitter.com/8vp8diYm40",
+					"expanded_url": "https://twitter.com/ahpqi/status/1438758161570312196/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1438758156591587300,
+					"id_str": "1438758156591587330",
+					"indices": [
+						264,
+						287
+					],
+					"media_url": "http://pbs.twimg.com/media/E_d-66lWYAINUti.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E_d-66lWYAINUti.jpg",
+					"url": "https://t.co/8vp8diYm40",
+					"display_url": "pic.twitter.com/8vp8diYm40",
+					"expanded_url": "https://twitter.com/ahpqi/status/1438758161570312196/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1288099110009135000,
+			"id_str": "1288099110009135106",
+			"name": "AHPQI",
+			"screen_name": "ahpqi",
+			"location": "",
+			"description": "Bringing to together AHPs interested or involved in quality improvement. Providing conversation, networking & support to grow our collective contribution #AHPQI",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2040,
+			"friends_count": 339,
+			"listed_count": 5,
+			"created_at": "Tue Jul 28 13:09:07 +0000 2020",
+			"favourites_count": 1099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 479,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1288104689217617922/D9zjRL1K_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1288104689217617922/D9zjRL1K_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1288099110009135106/1595944088",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 78,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "SAVE THE DATE! Announcing our FIRST virtual #AHPQI_conference November 9th 2021 from 1pm-4pm.\n\nSpaces are limited so register your FREE space early to avoid disappointment!\n\nhttps://t.co/ZHprxI6wrT\n\n@ahpqi @AHPQI_London @AHPsEverywhere @WeAHPs @AHPs4PH @NHSLeader https://t.co/8vp8diYm40"
+	},
+	{
 		"created_at": "Wed Sep 15 16:34:24 +0000 2021",
 		"id": 1438179405378039800,
 		"id_str": "1438179405378039812",
