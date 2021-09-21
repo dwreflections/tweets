@@ -1,6 +1,118 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Mon Sep 20 16:01:57 +0000 2021",
+		"id": 1439983177569816600,
+		"id_str": "1439983177569816580",
+		"full_text": "@ConorJordan17 @ben_imaging This topic has frequently came up when discussing AHP workforce retention and planning with d-rads as part of my #CNJF fellowship.",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			158
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CNJF",
+					"indices": [
+						141,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ConorJordan17",
+					"name": "Conor Jordan",
+					"id": 1001041880749105200,
+					"id_str": "1001041880749105152",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "ben_imaging",
+					"name": "Ben Potts (he/him)",
+					"id": 1265382097549746200,
+					"id_str": "1265382097549746176",
+					"indices": [
+						15,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1439879172353138700,
+		"in_reply_to_status_id_str": "1439879172353138693",
+		"in_reply_to_user_id": 1001041880749105200,
+		"in_reply_to_user_id_str": "1001041880749105152",
+		"in_reply_to_screen_name": "ConorJordan17",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp |@HLA_int & #150Leaders alumni",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3044,
+			"friends_count": 4785,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23695,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ConorJordan17 @ben_imaging This topic has frequently came up when discussing AHP workforce retention and planning with d-rads as part of my #CNJF fellowship."
+	},
+	{
 		"created_at": "Sat Sep 18 20:05:31 +0000 2021",
 		"id": 1439319696550113300,
 		"id_str": "1439319696550113282",
