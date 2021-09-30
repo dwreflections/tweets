@@ -1,6 +1,160 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Wed Sep 29 08:55:11 +0000 2021",
+		"id": 1443137268827447300,
+		"id_str": "1443137268827447298",
+		"full_text": "@amrawlings @PhilBoltonRN @hill_karenhill3 @HSJnews @UHDB_AFN Thank you @amrawlings &amp; @CathyWinfield 🤩🤩",
+		"truncated": false,
+		"display_text_range": [
+			62,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amrawlings",
+					"name": "Amanda Rawlings",
+					"id": 631943465,
+					"id_str": "631943465",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "PhilBoltonRN",
+					"name": "Phil Bolton",
+					"id": 1188076842726690800,
+					"id_str": "1188076842726690817",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "hill_karenhill3",
+					"name": "Karen Hill 💙 RN MSc",
+					"id": 2361529948,
+					"id_str": "2361529948",
+					"indices": [
+						26,
+						42
+					]
+				},
+				{
+					"screen_name": "HSJnews",
+					"name": "Health Service Journal",
+					"id": 14491411,
+					"id_str": "14491411",
+					"indices": [
+						43,
+						51
+					]
+				},
+				{
+					"screen_name": "UHDB_AFN",
+					"name": "UHDB Armed Forces Network",
+					"id": 1384135578233360400,
+					"id_str": "1384135578233360399",
+					"indices": [
+						52,
+						61
+					]
+				},
+				{
+					"screen_name": "amrawlings",
+					"name": "Amanda Rawlings",
+					"id": 631943465,
+					"id_str": "631943465",
+					"indices": [
+						72,
+						83
+					]
+				},
+				{
+					"screen_name": "CathyWinfield",
+					"name": "Cathy Winfield MBE, RN, MSc💙",
+					"id": 2188050351,
+					"id_str": "2188050351",
+					"indices": [
+						90,
+						104
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1443082824375021600,
+		"in_reply_to_status_id_str": "1443082824375021572",
+		"in_reply_to_user_id": 631943465,
+		"in_reply_to_user_id_str": "631943465",
+		"in_reply_to_screen_name": "amrawlings",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp |@HLA_int & #150Leaders alumni",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3049,
+			"friends_count": 4791,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23709,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7528,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@amrawlings @PhilBoltonRN @hill_karenhill3 @HSJnews @UHDB_AFN Thank you @amrawlings &amp; @CathyWinfield 🤩🤩"
+	},
+	{
 		"created_at": "Tue Sep 28 18:20:43 +0000 2021",
 		"id": 1442917202559074300,
 		"id_str": "1442917202559074304",
