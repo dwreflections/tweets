@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2021_09 = 
 [
 	{
+		"created_at": "Thu Sep 30 17:10:57 +0000 2021",
+		"id": 1443624419113504800,
+		"id_str": "1443624419113504768",
+		"full_text": "Congratulations @CHParkPhysio 🤩\nWelcome to the @HLA_int community 🌎 💭 https://t.co/ReOmVTxZrV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CHParkPhysio",
+					"name": "Charlie Park",
+					"id": 288979212,
+					"id_str": "288979212",
+					"indices": [
+						16,
+						29
+					]
+				},
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						47,
+						55
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ReOmVTxZrV",
+					"expanded_url": "https://twitter.com/iprshealth/status/1442821683526737923",
+					"display_url": "twitter.com/iprshealth/sta…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp |@HLA_int & #150Leaders alumni",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3049,
+			"friends_count": 4795,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23713,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1442821683526738000,
+		"quoted_status_id_str": "1442821683526737923",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ReOmVTxZrV",
+			"expanded": "https://twitter.com/iprshealth/status/1442821683526737923",
+			"display": "twitter.com/iprshealth/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Sep 28 12:01:10 +0000 2021",
+			"id": 1442821683526738000,
+			"id_str": "1442821683526737923",
+			"full_text": "🌟🎓 We are delighted to congratulate @CHParkPhysio who has been awarded a place on the prestigious Healthcare Leadership Academy Scholarship programme, dedicated to building the #healthcare leaders of the future. Congrats! https://t.co/oIHFCuvgFy @HLA_int #HLAScholars https://t.co/7xmoggtEKI",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "healthcare",
+						"indices": [
+							177,
+							188
+						]
+					},
+					{
+						"text": "HLAScholars",
+						"indices": [
+							255,
+							267
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CHParkPhysio",
+						"name": "Charlie Park",
+						"id": 288979212,
+						"id_str": "288979212",
+						"indices": [
+							36,
+							49
+						]
+					},
+					{
+						"screen_name": "HLA_int",
+						"name": "The HLA",
+						"id": 809803519846993900,
+						"id_str": "809803519846993921",
+						"indices": [
+							246,
+							254
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/oIHFCuvgFy",
+						"expanded_url": "https://loom.ly/LU0zAjc",
+						"display_url": "loom.ly/LU0zAjc",
+						"indices": [
+							222,
+							245
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1442821680641020000,
+						"id_str": "1442821680641019917",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/FAXurJTXEA0BsU6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FAXurJTXEA0BsU6.jpg",
+						"url": "https://t.co/7xmoggtEKI",
+						"display_url": "pic.twitter.com/7xmoggtEKI",
+						"expanded_url": "https://twitter.com/IPRSHealth/status/1442821683526737923/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1442821680641020000,
+						"id_str": "1442821680641019917",
+						"indices": [
+							268,
+							291
+						],
+						"media_url": "http://pbs.twimg.com/media/FAXurJTXEA0BsU6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FAXurJTXEA0BsU6.jpg",
+						"url": "https://t.co/7xmoggtEKI",
+						"display_url": "pic.twitter.com/7xmoggtEKI",
+						"expanded_url": "https://twitter.com/IPRSHealth/status/1442821683526737923/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.loomly.com/\" rel=\"nofollow\">Loomly</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 67326797,
+				"id_str": "67326797",
+				"name": "IPRS Health",
+				"screen_name": "IPRSHealth",
+				"location": "Part of the IPRS Group",
+				"description": "Award-winning provider of Physiotherapy, Mental Health and Wellbeing Services. Follow for tips, advice and to see how we can help you and your business. 💡",
+				"url": "https://t.co/eAMioogCzp",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/eAMioogCzp",
+								"expanded_url": "http://www.myiprshealth.com/?companycode=social",
+								"display_url": "myiprshealth.com/?companycode=s…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 949,
+				"friends_count": 272,
+				"listed_count": 16,
+				"created_at": "Thu Aug 20 14:22:47 +0000 2009",
+				"favourites_count": 1089,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2098,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1414895832852226051/tgMTvejJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1414895832852226051/tgMTvejJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/67326797/1603722529",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 15,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Congratulations @CHParkPhysio 🤩\nWelcome to the @HLA_int community 🌎 💭 https://t.co/ReOmVTxZrV"
+	},
+	{
 		"created_at": "Wed Sep 29 08:55:11 +0000 2021",
 		"id": 1443137268827447300,
 		"id_str": "1443137268827447298",
