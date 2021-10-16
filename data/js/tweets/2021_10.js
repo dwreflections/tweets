@@ -1,6 +1,124 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 15 20:57:02 +0000 2021",
+		"id": 1449088889377992700,
+		"id_str": "1449117134236303363",
+		"full_text": "\"There is a reason why the tributes today to Sir David Amess from all parts of the political system were so fulsome - he was different from many of the MPs most people see more regularly on the television screen.\"\n\nAnalysis from @SamCoatesSky 👇 https://t.co/xZUzAPKURB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SamCoatesSky",
+					"name": "Sam Coates Sky",
+					"id": 22146373,
+					"id_str": "22146373",
+					"indices": [
+						229,
+						242
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xZUzAPKURB",
+					"expanded_url": "https://trib.al/Nb3YolW",
+					"display_url": "trib.al/Nb3YolW",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 7587032,
+			"id_str": "7587032",
+			"name": "Sky News",
+			"screen_name": "SkyNews",
+			"location": "London, UK",
+			"description": "We take you to the heart of the stories that shape our world. \n\nFor breaking news, follow @SkyNewsBreak",
+			"url": "https://t.co/SnOv0usOtw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SnOv0usOtw",
+							"expanded_url": "http://news.sky.com/",
+							"display_url": "news.sky.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7339646,
+			"friends_count": 23,
+			"listed_count": 28326,
+			"created_at": "Thu Jul 19 14:42:53 +0000 2007",
+			"favourites_count": 1,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 487843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1400331605974077442/kelepCgF_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1400331605974077442/kelepCgF_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/7587032/1622700167",
+			"profile_link_color": "385FAC",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "EDEDED",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 43,
+		"favorite_count": 222,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"There is a reason why the tributes today to Sir David Amess from all parts of the political system were so fulsome - he was different from many of the MPs most people see more regularly on the television screen.\"\n\nAnalysis from @SamCoatesSky 👇 https://t.co/xZUzAPKURB"
+	},
+	{
 		"created_at": "Thu Oct 14 18:08:45 +0000 2021",
 		"id": 1448712394419679200,
 		"id_str": "1448712394419679245",
