@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Fri Oct 22 18:44:22 +0000 2021",
+		"id": 1451497395016044500,
+		"id_str": "1451620463134773268",
+		"full_text": "Although - as our research also showed, they are only being termed 'non-traditional' due to historical medical model of NHS. These are just leadership roles - of which AHPs have and always have had, the ideal skills/lenses/perspectives/experiences to do!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1451496797998825500,
+		"in_reply_to_status_id_str": "1451496797998825472",
+		"in_reply_to_user_id": 468241231,
+		"in_reply_to_user_id_str": "468241231",
+		"in_reply_to_screen_name": "stuartgpalma",
+		"user": {
+			"id": 468241231,
+			"id_str": "468241231",
+			"name": "Stuart Palma 💙",
+			"screen_name": "stuartgpalma",
+			"location": "Sussex, England",
+			"description": "National Head Allied Health @NHSEngland | Policy, strategy, leadership | Non-Exec @sportforconf | Trustee @chestnutsussex | @ILMuk Exec Coach | #Bevanprog",
+			"url": "https://t.co/RNtgnMcsTT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RNtgnMcsTT",
+							"expanded_url": "https://uk.linkedin.com/in/stuart-palma-0841b544",
+							"display_url": "uk.linkedin.com/in/stuart-palm…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6067,
+			"friends_count": 993,
+			"listed_count": 95,
+			"created_at": "Thu Jan 19 10:02:36 +0000 2012",
+			"favourites_count": 21450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11505,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1310683599960711169/DKX1f4-R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1310683599960711169/DKX1f4-R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/468241231/1602660339",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1b9fb7562221d8f8",
+			"url": "https://api.twitter.com/1.1/geo/id/1b9fb7562221d8f8.json",
+			"place_type": "city",
+			"name": "Lindfield",
+			"full_name": "Lindfield, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.099857,
+							50.994199
+						],
+						[
+							-0.066365,
+							50.994199
+						],
+						[
+							-0.066365,
+							51.019028
+						],
+						[
+							-0.099857,
+							51.019028
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Although - as our research also showed, they are only being termed 'non-traditional' due to historical medical model of NHS. These are just leadership roles - of which AHPs have and always have had, the ideal skills/lenses/perspectives/experiences to do!"
+	},
+	{
+		"created_at": "Fri Oct 22 16:04:51 +0000 2021",
+		"id": 1451580315827413000,
+		"id_str": "1451580315827413023",
+		"full_text": "@bendotellis I feel personally attacked 😆",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bendotellis",
+					"name": "Ben Ellis",
+					"id": 424907352,
+					"id_str": "424907352",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1451300949214077000,
+		"in_reply_to_status_id_str": "1451300949214076930",
+		"in_reply_to_user_id": 424907352,
+		"in_reply_to_user_id_str": "424907352",
+		"in_reply_to_screen_name": "bendotellis",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp |@HLA_int & #150Leaders alumni",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3066,
+			"friends_count": 4842,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23880,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7574,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bendotellis I feel personally attacked 😆"
+	},
+	{
 		"created_at": "Thu Oct 21 19:31:14 +0000 2021",
 		"id": 1451269868150575000,
 		"id_str": "1451269868150575108",
