@@ -1,6 +1,830 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Tue Oct 26 20:06:45 +0000 2021",
+		"id": 1453090746114904000,
+		"id_str": "1453090746114904067",
+		"full_text": "@CairneyPaul @CraigDavidson85 @EdinburghUni @LSHTM @WeNurses @StirUni @_HSMCentre 👆👍",
+		"truncated": false,
+		"display_text_range": [
+			82,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CairneyPaul",
+					"name": "Professor Paul Cairney",
+					"id": 603027496,
+					"id_str": "603027496",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "CraigDavidson85",
+					"name": "Craig Davidson RN (he/him)",
+					"id": 157633593,
+					"id_str": "157633593",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "EdinburghUni",
+					"name": "The University of Edinburgh",
+					"id": 23426889,
+					"id_str": "23426889",
+					"indices": [
+						30,
+						43
+					]
+				},
+				{
+					"screen_name": "LSHTM",
+					"name": "London School of Hygiene & Tropical Medicine",
+					"id": 72843097,
+					"id_str": "72843097",
+					"indices": [
+						44,
+						50
+					]
+				},
+				{
+					"screen_name": "WeNurses",
+					"name": "WeNurses 💙",
+					"id": 599536551,
+					"id_str": "599536551",
+					"indices": [
+						51,
+						60
+					]
+				},
+				{
+					"screen_name": "StirUni",
+					"name": "University of Stirling",
+					"id": 63072063,
+					"id_str": "63072063",
+					"indices": [
+						61,
+						69
+					]
+				},
+				{
+					"screen_name": "_HSMCentre",
+					"name": "Health Services Management Centre (HSMC)",
+					"id": 1542789288,
+					"id_str": "1542789288",
+					"indices": [
+						70,
+						81
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1453090604066484200,
+		"in_reply_to_status_id_str": "1453090604066484242",
+		"in_reply_to_user_id": 603027496,
+		"in_reply_to_user_id_str": "603027496",
+		"in_reply_to_screen_name": "CairneyPaul",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp |@HLA_int & #150Leaders alumni",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3068,
+			"friends_count": 4843,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@CairneyPaul @CraigDavidson85 @EdinburghUni @LSHTM @WeNurses @StirUni @_HSMCentre 👆👍"
+	},
+	{
+		"created_at": "Tue Oct 26 20:02:03 +0000 2021",
+		"id": 1453089560615923700,
+		"id_str": "1453089560615923720",
+		"full_text": "@CraigDavidson85 @EdinburghUni @LSHTM @WeNurses @StirUni @CairneyPaul @_HSMCentre 👍👍\n\nEarly days and it is a stretch but loving it so far!",
+		"truncated": false,
+		"display_text_range": [
+			82,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CraigDavidson85",
+					"name": "Craig Davidson RN (he/him)",
+					"id": 157633593,
+					"id_str": "157633593",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "EdinburghUni",
+					"name": "The University of Edinburgh",
+					"id": 23426889,
+					"id_str": "23426889",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "LSHTM",
+					"name": "London School of Hygiene & Tropical Medicine",
+					"id": 72843097,
+					"id_str": "72843097",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"screen_name": "WeNurses",
+					"name": "WeNurses 💙",
+					"id": 599536551,
+					"id_str": "599536551",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"screen_name": "StirUni",
+					"name": "University of Stirling",
+					"id": 63072063,
+					"id_str": "63072063",
+					"indices": [
+						48,
+						56
+					]
+				},
+				{
+					"screen_name": "CairneyPaul",
+					"name": "Professor Paul Cairney",
+					"id": 603027496,
+					"id_str": "603027496",
+					"indices": [
+						57,
+						69
+					]
+				},
+				{
+					"screen_name": "_HSMCentre",
+					"name": "Health Services Management Centre (HSMC)",
+					"id": 1542789288,
+					"id_str": "1542789288",
+					"indices": [
+						70,
+						81
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1453087555092721700,
+		"in_reply_to_status_id_str": "1453087555092721672",
+		"in_reply_to_user_id": 157633593,
+		"in_reply_to_user_id_str": "157633593",
+		"in_reply_to_screen_name": "CraigDavidson85",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp |@HLA_int & #150Leaders alumni",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3068,
+			"friends_count": 4843,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CraigDavidson85 @EdinburghUni @LSHTM @WeNurses @StirUni @CairneyPaul @_HSMCentre 👍👍\n\nEarly days and it is a stretch but loving it so far!"
+	},
+	{
+		"created_at": "Tue Oct 26 19:46:10 +0000 2021",
+		"id": 1453085565981692000,
+		"id_str": "1453085565981691908",
+		"full_text": "@CraigDavidson85 @EdinburghUni @LSHTM @WeNurses @StirUni @CairneyPaul @_HSMCentre Ah, worth a shout. I think they have a part time option. No worries 👍",
+		"truncated": false,
+		"display_text_range": [
+			82,
+			151
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CraigDavidson85",
+					"name": "Craig Davidson RN (he/him)",
+					"id": 157633593,
+					"id_str": "157633593",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "EdinburghUni",
+					"name": "The University of Edinburgh",
+					"id": 23426889,
+					"id_str": "23426889",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "LSHTM",
+					"name": "London School of Hygiene & Tropical Medicine",
+					"id": 72843097,
+					"id_str": "72843097",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"screen_name": "WeNurses",
+					"name": "WeNurses 💙",
+					"id": 599536551,
+					"id_str": "599536551",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"screen_name": "StirUni",
+					"name": "University of Stirling",
+					"id": 63072063,
+					"id_str": "63072063",
+					"indices": [
+						48,
+						56
+					]
+				},
+				{
+					"screen_name": "CairneyPaul",
+					"name": "Professor Paul Cairney",
+					"id": 603027496,
+					"id_str": "603027496",
+					"indices": [
+						57,
+						69
+					]
+				},
+				{
+					"screen_name": "_HSMCentre",
+					"name": "Health Services Management Centre (HSMC)",
+					"id": 1542789288,
+					"id_str": "1542789288",
+					"indices": [
+						70,
+						81
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1453082324497801200,
+		"in_reply_to_status_id_str": "1453082324497801216",
+		"in_reply_to_user_id": 157633593,
+		"in_reply_to_user_id_str": "157633593",
+		"in_reply_to_screen_name": "CraigDavidson85",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp |@HLA_int & #150Leaders alumni",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3068,
+			"friends_count": 4843,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CraigDavidson85 @EdinburghUni @LSHTM @WeNurses @StirUni @CairneyPaul @_HSMCentre Ah, worth a shout. I think they have a part time option. No worries 👍"
+	},
+	{
+		"created_at": "Tue Oct 26 19:29:59 +0000 2021",
+		"id": 1453081492926734300,
+		"id_str": "1453081492926734337",
+		"full_text": "@CraigDavidson85 @EdinburghUni @LSHTM @WeNurses Craig I would consider the MPP programme at @StirUni . @CairneyPaul leads the programme and his blog and text book is essential reading on the programe I am on at @_HSMCentre . Worth a look if you have half an eye on Holyrood.",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CraigDavidson85",
+					"name": "Craig Davidson RN (he/him)",
+					"id": 157633593,
+					"id_str": "157633593",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "EdinburghUni",
+					"name": "The University of Edinburgh",
+					"id": 23426889,
+					"id_str": "23426889",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "LSHTM",
+					"name": "London School of Hygiene & Tropical Medicine",
+					"id": 72843097,
+					"id_str": "72843097",
+					"indices": [
+						31,
+						37
+					]
+				},
+				{
+					"screen_name": "WeNurses",
+					"name": "WeNurses 💙",
+					"id": 599536551,
+					"id_str": "599536551",
+					"indices": [
+						38,
+						47
+					]
+				},
+				{
+					"screen_name": "StirUni",
+					"name": "University of Stirling",
+					"id": 63072063,
+					"id_str": "63072063",
+					"indices": [
+						92,
+						100
+					]
+				},
+				{
+					"screen_name": "CairneyPaul",
+					"name": "Professor Paul Cairney",
+					"id": 603027496,
+					"id_str": "603027496",
+					"indices": [
+						103,
+						115
+					]
+				},
+				{
+					"screen_name": "_HSMCentre",
+					"name": "Health Services Management Centre (HSMC)",
+					"id": 1542789288,
+					"id_str": "1542789288",
+					"indices": [
+						211,
+						222
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1452716174874185700,
+		"in_reply_to_status_id_str": "1452716174874185734",
+		"in_reply_to_user_id": 157633593,
+		"in_reply_to_user_id_str": "157633593",
+		"in_reply_to_screen_name": "CraigDavidson85",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp |@HLA_int & #150Leaders alumni",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3068,
+			"friends_count": 4843,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CraigDavidson85 @EdinburghUni @LSHTM @WeNurses Craig I would consider the MPP programme at @StirUni . @CairneyPaul leads the programme and his blog and text book is essential reading on the programe I am on at @_HSMCentre . Worth a look if you have half an eye on Holyrood."
+	},
+	{
+		"created_at": "Tue Oct 26 19:05:02 +0000 2021",
+		"id": 1453075212359065600,
+		"id_str": "1453075212359065607",
+		"full_text": "@adamdobson123 Happy birthday bro 🥳🤩",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "adamdobson123",
+					"name": "Adam Dobson",
+					"id": 702962141800878100,
+					"id_str": "702962141800878081",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1452881552455704600,
+		"in_reply_to_status_id_str": "1452881552455704576",
+		"in_reply_to_user_id": 702962141800878100,
+		"in_reply_to_user_id_str": "702962141800878081",
+		"in_reply_to_screen_name": "adamdobson123",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp |@HLA_int & #150Leaders alumni",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3068,
+			"friends_count": 4843,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@adamdobson123 Happy birthday bro 🥳🤩"
+	},
+	{
+		"created_at": "Tue Oct 26 17:49:07 +0000 2021",
+		"id": 1453056109711958000,
+		"id_str": "1453056109711958020",
+		"full_text": "@OxfordDiplomat @HillaryClinton @UniofOxford I wish I was in Oxford. Very jealous! Enjoy!",
+		"truncated": false,
+		"display_text_range": [
+			45,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OxfordDiplomat",
+					"name": "Dr. Jennifer Cassidy",
+					"id": 1962626484,
+					"id_str": "1962626484",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "HillaryClinton",
+					"name": "Hillary Clinton",
+					"id": 1339835893,
+					"id_str": "1339835893",
+					"indices": [
+						16,
+						31
+					]
+				},
+				{
+					"screen_name": "UniofOxford",
+					"name": "University of Oxford",
+					"id": 48289662,
+					"id_str": "48289662",
+					"indices": [
+						32,
+						44
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1453036126239961000,
+		"in_reply_to_status_id_str": "1453036126239961106",
+		"in_reply_to_user_id": 1962626484,
+		"in_reply_to_user_id_str": "1962626484",
+		"in_reply_to_screen_name": "OxfordDiplomat",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp |@HLA_int & #150Leaders alumni",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3068,
+			"friends_count": 4843,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23915,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@OxfordDiplomat @HillaryClinton @UniofOxford I wish I was in Oxford. Very jealous! Enjoy!"
+	},
+	{
 		"created_at": "Sun Oct 24 19:58:42 +0000 2021",
 		"id": 1452363944304291800,
 		"id_str": "1452363944304291851",
