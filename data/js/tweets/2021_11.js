@@ -1,6 +1,245 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 02 20:54:30 +0000 2021",
+		"id": 1455639475552465000,
+		"id_str": "1455639475552464902",
+		"full_text": "Please, help support @tom_wing96 with his dissertation. ⬇️ https://t.co/EHR8RiQYnM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tom_wing96",
+					"name": "Tom Wing",
+					"id": 1302160062383878100,
+					"id_str": "1302160062383878144",
+					"indices": [
+						21,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/EHR8RiQYnM",
+					"expanded_url": "https://twitter.com/adammeakins/status/1453272992025296899",
+					"display_url": "twitter.com/adammeakins/st…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF | Governor: @UHDBTrust & @suaupdates | Chair - Armed Forces Network (UHDB) | Professional Committee @thecsp |@HLA_int & #150Leaders alumni",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3073,
+			"friends_count": 4854,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 23971,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7597,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1453272992025297000,
+		"quoted_status_id_str": "1453272992025296899",
+		"quoted_status_permalink": {
+			"url": "https://t.co/EHR8RiQYnM",
+			"expanded": "https://twitter.com/adammeakins/status/1453272992025296899",
+			"display": "twitter.com/adammeakins/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 27 08:10:56 +0000 2021",
+			"id": 1453272992025297000,
+			"id_str": "1453272992025296899",
+			"full_text": "🤷🏼‍♂️Are UK students and graduate Physios able to prescribe effective Physical Activity and Exercise interventions across all domains of Physio?\n\n👉🏻 Please take a few minutes to fill out this survey &amp; support @tom_wing96's work!\n\nCan we get a RT @GregLehman?\n\nhttps://t.co/funEiphwek",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				287
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tom_wing96",
+						"name": "Tom Wing",
+						"id": 1302160062383878100,
+						"id_str": "1302160062383878144",
+						"indices": [
+							213,
+							224
+						]
+					},
+					{
+						"screen_name": "GregLehman",
+						"name": "Greg Lehman",
+						"id": 228203181,
+						"id_str": "228203181",
+						"indices": [
+							250,
+							261
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/funEiphwek",
+						"expanded_url": "https://teesside.onlinesurveys.ac.uk/are-uk-students-and-graduate-physiotherapists-able-to-pre",
+						"display_url": "teesside.onlinesurveys.ac.uk/are-uk-student…",
+						"indices": [
+							264,
+							287
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20363222,
+				"id_str": "20363222",
+				"name": "The Sp🌺rts Physio",
+				"screen_name": "AdamMeakins",
+				"location": "UK",
+				"description": "A critical, some will say controversial Physio/S&C Coach with strong views & occasionally stronger language! Views my own. Any offence is taken not given",
+				"url": "https://t.co/IoLSYSlXrU",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/IoLSYSlXrU",
+								"expanded_url": "http://thesports.physio",
+								"display_url": "thesports.physio",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 76144,
+				"friends_count": 1486,
+				"listed_count": 601,
+				"created_at": "Sun Feb 08 12:15:51 +0000 2009",
+				"favourites_count": 46650,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 63801,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1455316452827967499/bA_FGHkI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455316452827967499/bA_FGHkI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20363222/1630705984",
+				"profile_link_color": "000001",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 18,
+			"favorite_count": 34,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please, help support @tom_wing96 with his dissertation. ⬇️ https://t.co/EHR8RiQYnM"
+	},
+	{
 		"created_at": "Mon Nov 01 20:02:25 +0000 2021",
 		"id": 1455263980407115800,
 		"id_str": "1455263980407115780",
