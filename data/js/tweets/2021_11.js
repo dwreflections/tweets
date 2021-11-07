@@ -1,6 +1,372 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 06 16:31:21 +0000 2021",
+		"id": 1457021472904462300,
+		"id_str": "1457022804109545485",
+		"full_text": "Compassion &amp; inclusion are sides of the same coin because inclusion means belonging-@WestM61 #Physio21",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Physio21",
+					"indices": [
+						97,
+						106
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WestM61",
+					"name": "Michael West",
+					"id": 79238760,
+					"id_str": "79238760",
+					"indices": [
+						88,
+						96
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 791233063,
+			"id_str": "791233063",
+			"name": "Karen Middleton",
+			"screen_name": "KMiddletonCSP",
+			"location": "",
+			"description": "Chartered Physiotherapist, Chief Executive, Chartered Society of Physiotherapy & Visiting Professor at Leeds Beckett University-very proud of all three! she/her",
+			"url": "https://t.co/780tjOQJ4N",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/780tjOQJ4N",
+							"expanded_url": "http://www.csp.org.uk",
+							"display_url": "csp.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20200,
+			"friends_count": 764,
+			"listed_count": 144,
+			"created_at": "Thu Aug 30 09:38:56 +0000 2012",
+			"favourites_count": 45319,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 62257,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1136281315311939585/qcIstOyW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1136281315311939585/qcIstOyW_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 35,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Compassion &amp; inclusion are sides of the same coin because inclusion means belonging-@WestM61 #Physio21"
+	},
+	{
+		"created_at": "Sat Nov 06 14:04:32 +0000 2021",
+		"id": 1456929262892720000,
+		"id_str": "1456985856745431044",
+		"full_text": "Really stimulating Q&amp;A around #Trust #Safety issues in #AI in physio.Does everyone know there is a ‘human in the loop’ #augmentedIntelligence and we need to accept we don’t have enough #evidence as yet. “we have got to do the work to make this accessible” says @BenWanno #Physio21 https://t.co/ahjLBv1pdq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Trust",
+					"indices": [
+						34,
+						40
+					]
+				},
+				{
+					"text": "Safety",
+					"indices": [
+						41,
+						48
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						59,
+						62
+					]
+				},
+				{
+					"text": "augmentedIntelligence",
+					"indices": [
+						123,
+						145
+					]
+				},
+				{
+					"text": "evidence",
+					"indices": [
+						189,
+						198
+					]
+				},
+				{
+					"text": "Physio21",
+					"indices": [
+						275,
+						284
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BenWanno",
+					"name": "Ben Wanless 💙",
+					"id": 3057184923,
+					"id_str": "3057184923",
+					"indices": [
+						265,
+						274
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1456929258622922800,
+					"id_str": "1456929258622922757",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FDgNcQsXsAUg7mX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDgNcQsXsAUg7mX.jpg",
+					"url": "https://t.co/ahjLBv1pdq",
+					"display_url": "pic.twitter.com/ahjLBv1pdq",
+					"expanded_url": "https://twitter.com/MelRheum/status/1456929262892720130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 515,
+							"h": 380,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 515,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 515,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456929258622922800,
+					"id_str": "1456929258622922757",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FDgNcQsXsAUg7mX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDgNcQsXsAUg7mX.jpg",
+					"url": "https://t.co/ahjLBv1pdq",
+					"display_url": "pic.twitter.com/ahjLBv1pdq",
+					"expanded_url": "https://twitter.com/MelRheum/status/1456929262892720130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 515,
+							"h": 380,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 515,
+							"h": 380,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 515,
+							"h": 380,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456929258622890000,
+					"id_str": "1456929258622889988",
+					"indices": [
+						285,
+						308
+					],
+					"media_url": "http://pbs.twimg.com/media/FDgNcQsXMAQj6Np.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDgNcQsXMAQj6Np.jpg",
+					"url": "https://t.co/ahjLBv1pdq",
+					"display_url": "pic.twitter.com/ahjLBv1pdq",
+					"expanded_url": "https://twitter.com/MelRheum/status/1456929262892720130/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 478,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1079,
+							"h": 758,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1079,
+							"h": 758,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 897355466887622700,
+			"id_str": "897355466887622656",
+			"name": "Melanie Martin",
+			"screen_name": "MelRheum",
+			"location": "South East, England",
+			"description": "Senior Delivery Manager @NHSX / Topol Fellow #Cohort1 / Digital Academy #Cohort4 / #DigitalAHP/ Assoc.#FCI / Award-winning designer of services /Own views",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1485,
+			"friends_count": 841,
+			"listed_count": 15,
+			"created_at": "Tue Aug 15 07:13:10 +0000 2017",
+			"favourites_count": 8067,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4772,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1437020546160603139/9N8Gvt7i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1437020546160603139/9N8Gvt7i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/897355466887622656/1525360765",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Really stimulating Q&amp;A around #Trust #Safety issues in #AI in physio.Does everyone know there is a ‘human in the loop’ #augmentedIntelligence and we need to accept we don’t have enough #evidence as yet. “we have got to do the work to make this accessible” says @BenWanno #Physio21 https://t.co/ahjLBv1pdq"
+	},
+	{
 		"created_at": "Fri Nov 05 09:09:44 +0000 2021",
 		"id": 1456549279733063700,
 		"id_str": "1456549279733063687",
