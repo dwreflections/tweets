@@ -1,6 +1,538 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 09 21:07:59 +0000 2021",
+		"id": 1458179587033247700,
+		"id_str": "1458179587033247754",
+		"full_text": "@PippaJChillman Congrats! You do you ☺️",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PippaJChillman",
+					"name": "Pippa Chillman",
+					"id": 882001291240714200,
+					"id_str": "882001291240714240",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1458122046928478200,
+		"in_reply_to_status_id_str": "1458122046928478213",
+		"in_reply_to_user_id": 882001291240714200,
+		"in_reply_to_user_id_str": "882001291240714240",
+		"in_reply_to_screen_name": "PippaJChillman",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF |Governor: @UHDBTrust & @suaupdates |🪑 - Armed Forces Network (UHDB)|Professional Committee @thecsp |@_HSMCentre Student 🎓|#150leaders @HLA_int",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3077,
+			"friends_count": 4887,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PippaJChillman Congrats! You do you ☺️"
+	},
+	{
+		"created_at": "Tue Nov 09 18:14:29 +0000 2021",
+		"id": 1458135923623874600,
+		"id_str": "1458135923623874560",
+		"full_text": "@NHSLeader @cjparton1 @thecspstudents @NHSLeadership It’s a hugely positive step. I hope we are beginning to recruit to values instead of competencies. I’m excited for the future.",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NHSLeader",
+					"name": "Rachael Moses",
+					"id": 107548705,
+					"id_str": "107548705",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "cjparton1",
+					"name": "Chris Parton",
+					"id": 1397270853746929700,
+					"id_str": "1397270853746929665",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "thecspstudents",
+					"name": "CSP Students",
+					"id": 444648690,
+					"id_str": "444648690",
+					"indices": [
+						22,
+						37
+					]
+				},
+				{
+					"screen_name": "NHSLeadership",
+					"name": "NHS Leadership Academy 💙",
+					"id": 347923520,
+					"id_str": "347923520",
+					"indices": [
+						38,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1456982534865232000,
+		"in_reply_to_status_id_str": "1456982534865231874",
+		"in_reply_to_user_id": 107548705,
+		"in_reply_to_user_id_str": "107548705",
+		"in_reply_to_screen_name": "NHSLeader",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF |Governor: @UHDBTrust & @suaupdates |🪑 - Armed Forces Network (UHDB)|Professional Committee @thecsp |@_HSMCentre Student 🎓|#150leaders @HLA_int",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3077,
+			"friends_count": 4887,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NHSLeader @cjparton1 @thecspstudents @NHSLeadership It’s a hugely positive step. I hope we are beginning to recruit to values instead of competencies. I’m excited for the future."
+	},
+	{
+		"created_at": "Tue Nov 09 18:10:03 +0000 2021",
+		"id": 1458134807251144700,
+		"id_str": "1458134807251144704",
+		"full_text": "Great to tune into the #AHPQI Conference this afternoon ✨\n\nSome themes on the unconferences I was in:\n🔹Professional Identities\n🔹Taking a leap of faith\n🔹The unique lens #AHP provide\n🔹Seeking allies when in “non-AHP roles”\n\nMy thoughts on some of these themes ⬇️💭 https://t.co/44CcOxTHpI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AHPQI",
+					"indices": [
+						23,
+						29
+					]
+				},
+				{
+					"text": "AHP",
+					"indices": [
+						168,
+						172
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/44CcOxTHpI",
+					"expanded_url": "https://twitter.com/beardedpt/status/1436057894705844227",
+					"display_url": "twitter.com/beardedpt/stat…",
+					"indices": [
+						262,
+						285
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF |Governor: @UHDBTrust & @suaupdates |🪑 - Armed Forces Network (UHDB)|Professional Committee @thecsp |@_HSMCentre Student 🎓|#150leaders @HLA_int",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3077,
+			"friends_count": 4887,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1436057894705844200,
+		"quoted_status_id_str": "1436057894705844227",
+		"quoted_status_permalink": {
+			"url": "https://t.co/44CcOxTHpI",
+			"expanded": "https://twitter.com/beardedpt/status/1436057894705844227",
+			"display": "twitter.com/beardedpt/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 09 20:04:17 +0000 2021",
+			"id": 1436057894705844200,
+			"id_str": "1436057894705844227",
+			"full_text": "“I urge you to have a conversation with the AHPs in your hospital, department or workplace to see how you can work together to solve shared challenges and improve patient care.”\n\nA brief article I wrote as part of my @HLA_int Scholarship year ⬇️\n\n🔗 https://t.co/pEgKi9PrDl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HLA_int",
+						"name": "The HLA",
+						"id": 809803519846993900,
+						"id_str": "809803519846993921",
+						"indices": [
+							217,
+							225
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/pEgKi9PrDl",
+						"expanded_url": "https://www.linkedin.com/pulse/importance-utilising-allied-health-professionals-roles-david-williams",
+						"display_url": "linkedin.com/pulse/importan…",
+						"indices": [
+							249,
+							272
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3377750235,
+				"id_str": "3377750235",
+				"name": "David Williams",
+				"screen_name": "beardedPT",
+				"location": "Staffordshire",
+				"description": "Physio & #CNJF |Governor: @UHDBTrust & @suaupdates |🪑 - Armed Forces Network (UHDB)|Professional Committee @thecsp |@_HSMCentre Student 🎓|#150leaders @HLA_int",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3077,
+				"friends_count": 4887,
+				"listed_count": 20,
+				"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+				"favourites_count": 24025,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7613,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 171,
+			"favorite_count": 415,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great to tune into the #AHPQI Conference this afternoon ✨\n\nSome themes on the unconferences I was in:\n🔹Professional Identities\n🔹Taking a leap of faith\n🔹The unique lens #AHP provide\n🔹Seeking allies when in “non-AHP roles”\n\nMy thoughts on some of these themes ⬇️💭 https://t.co/44CcOxTHpI"
+	},
+	{
+		"created_at": "Tue Nov 09 17:35:37 +0000 2021",
+		"id": 1458126139566837800,
+		"id_str": "1458126139566837761",
+		"full_text": "@CathyWinfield Fabulous! Congrats!!!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CathyWinfield",
+					"name": "Cathy Winfield MBE, RN, MSc💙",
+					"id": 2188050351,
+					"id_str": "2188050351",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1458086107913113600,
+		"in_reply_to_status_id_str": "1458086107913113617",
+		"in_reply_to_user_id": 2188050351,
+		"in_reply_to_user_id_str": "2188050351",
+		"in_reply_to_screen_name": "CathyWinfield",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF |Governor: @UHDBTrust & @suaupdates |🪑 - Armed Forces Network (UHDB)|Professional Committee @thecsp |@_HSMCentre Student 🎓|#150leaders @HLA_int",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3077,
+			"friends_count": 4887,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24025,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7613,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@CathyWinfield Fabulous! Congrats!!!"
+	},
+	{
 		"created_at": "Mon Nov 08 22:06:41 +0000 2021",
 		"id": 1457831969358811100,
 		"id_str": "1457831969358811144",
