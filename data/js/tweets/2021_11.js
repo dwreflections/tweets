@@ -1,6 +1,512 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 13 20:58:16 +0000 2021",
+		"id": 1459626691202928600,
+		"id_str": "1459626691202928641",
+		"full_text": "@EdNawoor @inov_8 @CrossFit @nasty_lifestyle @RogueFitness @MorningChalkUp @RozaEric @thedavecastro @stevenawoor Squeeze with the knees, Ed 💪",
+		"truncated": false,
+		"display_text_range": [
+			113,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EdNawoor",
+					"name": "Ed Nawoor",
+					"id": 1347650454050771000,
+					"id_str": "1347650454050770946",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "inov_8",
+					"name": "inov-8",
+					"id": 29685719,
+					"id_str": "29685719",
+					"indices": [
+						10,
+						17
+					]
+				},
+				{
+					"screen_name": "CrossFit",
+					"name": "CrossFit",
+					"id": 834281252,
+					"id_str": "834281252",
+					"indices": [
+						18,
+						27
+					]
+				},
+				{
+					"screen_name": "nasty_lifestyle",
+					"name": "Nasty Lifestyle",
+					"id": 3111956686,
+					"id_str": "3111956686",
+					"indices": [
+						28,
+						44
+					]
+				},
+				{
+					"screen_name": "RogueFitness",
+					"name": "Rogue Fitness",
+					"id": 19458230,
+					"id_str": "19458230",
+					"indices": [
+						45,
+						58
+					]
+				},
+				{
+					"screen_name": "MorningChalkUp",
+					"name": "Morning Chalk Up",
+					"id": 715954511899066400,
+					"id_str": "715954511899066369",
+					"indices": [
+						59,
+						74
+					]
+				},
+				{
+					"screen_name": "RozaEric",
+					"name": "Eric Roza",
+					"id": 550297432,
+					"id_str": "550297432",
+					"indices": [
+						75,
+						84
+					]
+				},
+				{
+					"screen_name": "thedavecastro",
+					"name": "Dave Castro",
+					"id": 3488262140,
+					"id_str": "3488262140",
+					"indices": [
+						85,
+						99
+					]
+				},
+				{
+					"screen_name": "stevenawoor",
+					"name": "Steve Nawoor",
+					"id": 91512796,
+					"id_str": "91512796",
+					"indices": [
+						100,
+						112
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1459615709898715100,
+		"in_reply_to_status_id_str": "1459615709898715136",
+		"in_reply_to_user_id": 1347650454050771000,
+		"in_reply_to_user_id_str": "1347650454050770946",
+		"in_reply_to_screen_name": "EdNawoor",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF |Governor: @UHDBTrust & @suaupdates |🪑 - Armed Forces Network (UHDB)|Professional Committee @thecsp |@_HSMCentre Student 🎓|#150leaders @HLA_int",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3082,
+			"friends_count": 4902,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EdNawoor @inov_8 @CrossFit @nasty_lifestyle @RogueFitness @MorningChalkUp @RozaEric @thedavecastro @stevenawoor Squeeze with the knees, Ed 💪"
+	},
+	{
+		"created_at": "Sat Nov 13 12:43:10 +0000 2021",
+		"id": 1459502096940732400,
+		"id_str": "1459502096940732420",
+		"full_text": "@Shaque89_ @HLA_int @MedicsAcademy Thank you for the support 👏👍",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Shaque89_",
+					"name": "Sharmi Haque",
+					"id": 1318168706359373800,
+					"id_str": "1318168706359373824",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						11,
+						19
+					]
+				},
+				{
+					"screen_name": "MedicsAcademy",
+					"name": "medics.academy",
+					"id": 775440935110975500,
+					"id_str": "775440935110975488",
+					"indices": [
+						20,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1459467339607560200,
+		"in_reply_to_status_id_str": "1459467339607560195",
+		"in_reply_to_user_id": 1318168706359373800,
+		"in_reply_to_user_id_str": "1318168706359373824",
+		"in_reply_to_screen_name": "Shaque89_",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF |Governor: @UHDBTrust & @suaupdates |🪑 - Armed Forces Network (UHDB)|Professional Committee @thecsp |@_HSMCentre Student 🎓|#150leaders @HLA_int",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3082,
+			"friends_count": 4902,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Shaque89_ @HLA_int @MedicsAcademy Thank you for the support 👏👍"
+	},
+	{
+		"created_at": "Sat Nov 13 11:23:37 +0000 2021",
+		"id": 1459482077678682000,
+		"id_str": "1459482077678682116",
+		"full_text": "@physio_back @HLA_int @MedicsAcademy Thanks, David. It has given me a nice break (procastination) from essay writing... 🥴",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "physio_back",
+					"name": "ThePhysioBack",
+					"id": 1048100165582839800,
+					"id_str": "1048100165582839808",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "HLA_int",
+					"name": "The HLA",
+					"id": 809803519846993900,
+					"id_str": "809803519846993921",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"screen_name": "MedicsAcademy",
+					"name": "medics.academy",
+					"id": 775440935110975500,
+					"id_str": "775440935110975488",
+					"indices": [
+						22,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1459479325661708300,
+		"in_reply_to_status_id_str": "1459479325661708293",
+		"in_reply_to_user_id": 1048100165582839800,
+		"in_reply_to_user_id_str": "1048100165582839808",
+		"in_reply_to_screen_name": "physio_back",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF |Governor: @UHDBTrust & @suaupdates |🪑 - Armed Forces Network (UHDB)|Professional Committee @thecsp |@_HSMCentre Student 🎓|#150leaders @HLA_int",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3082,
+			"friends_count": 4902,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@physio_back @HLA_int @MedicsAcademy Thanks, David. It has given me a nice break (procastination) from essay writing... 🥴"
+	},
+	{
+		"created_at": "Sat Nov 13 10:18:51 +0000 2021",
+		"id": 1459465777497710600,
+		"id_str": "1459465777497710597",
+		"full_text": "@astephj1 @OwainWynEvans Drummers elbow… 🥁",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "astephj1",
+					"name": "Amanda Stephenson",
+					"id": 898081300690686000,
+					"id_str": "898081300690685952",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "OwainWynEvans",
+					"name": "Owain Wyn Evans",
+					"id": 234336893,
+					"id_str": "234336893",
+					"indices": [
+						10,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1459464723414585300,
+		"in_reply_to_status_id_str": "1459464723414585344",
+		"in_reply_to_user_id": 898081300690686000,
+		"in_reply_to_user_id_str": "898081300690685952",
+		"in_reply_to_screen_name": "astephj1",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF |Governor: @UHDBTrust & @suaupdates |🪑 - Armed Forces Network (UHDB)|Professional Committee @thecsp |@_HSMCentre Student 🎓|#150leaders @HLA_int",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3082,
+			"friends_count": 4902,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7632,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@astephj1 @OwainWynEvans Drummers elbow… 🥁"
+	},
+	{
 		"created_at": "Thu Nov 11 19:23:03 +0000 2021",
 		"id": 1458819354796175400,
 		"id_str": "1458877955158036482",
