@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Tue Nov 16 20:11:51 +0000 2021",
+		"id": 1460670999528157200,
+		"id_str": "1460702172304351240",
+		"full_text": "Some interesting workforce conundrums for healthcare staff - what can orgs like .@NHS_HealthEdEng do to respond to this? #teddychester .@AllianceMBS .@markbritnell .@MBSHealthMgt https://t.co/6dCZcJhMiM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "teddychester",
+					"indices": [
+						121,
+						134
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NHS_HealthEdEng",
+					"name": "NHS HEE",
+					"id": 637008966,
+					"id_str": "637008966",
+					"indices": [
+						81,
+						97
+					]
+				},
+				{
+					"screen_name": "AllianceMBS",
+					"name": "Alliance MBS",
+					"id": 110377394,
+					"id_str": "110377394",
+					"indices": [
+						136,
+						148
+					]
+				},
+				{
+					"screen_name": "markbritnell",
+					"name": "Mark Britnell",
+					"id": 1005172813,
+					"id_str": "1005172813",
+					"indices": [
+						150,
+						163
+					]
+				},
+				{
+					"screen_name": "MBSHealthMgt",
+					"name": "Health Management",
+					"id": 831053839,
+					"id_str": "831053839",
+					"indices": [
+						165,
+						178
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1460670993773613000,
+					"id_str": "1460670993773613066",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FEVYh6WX0Aortk-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEVYh6WX0Aortk-.jpg",
+					"url": "https://t.co/6dCZcJhMiM",
+					"display_url": "pic.twitter.com/6dCZcJhMiM",
+					"expanded_url": "https://twitter.com/simonmoralee/status/1460670999528157184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1460670993773613000,
+					"id_str": "1460670993773613066",
+					"indices": [
+						179,
+						202
+					],
+					"media_url": "http://pbs.twimg.com/media/FEVYh6WX0Aortk-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEVYh6WX0Aortk-.jpg",
+					"url": "https://t.co/6dCZcJhMiM",
+					"display_url": "pic.twitter.com/6dCZcJhMiM",
+					"expanded_url": "https://twitter.com/simonmoralee/status/1460670999528157184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17542973,
+			"id_str": "17542973",
+			"name": "Simon Moralee #BlackLivesMatter #MaskUp he/him",
+			"screen_name": "simonmoralee",
+			"location": "North Shropshire",
+			"description": "SL @MBSHealthMgt | Researcher @MedicLeadership | Member @SHOC_OBHC | 🏃‍♂️@FellRun | 🇪🇺🇬🇧| he/him/his | dogs, politics & academia | usual disclaimers",
+			"url": "https://t.co/AiSVJdAs9h",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AiSVJdAs9h",
+							"expanded_url": "https://www.research.manchester.ac.uk/portal/simon.moralee.html",
+							"display_url": "research.manchester.ac.uk/portal/simon.m…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 602,
+			"friends_count": 691,
+			"listed_count": 16,
+			"created_at": "Fri Nov 21 19:01:06 +0000 2008",
+			"favourites_count": 3462,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFF04D",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366466401343574017/10knW2Oj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366466401343574017/10knW2Oj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17542973/1634849076",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "FFF8AD",
+			"profile_sidebar_fill_color": "F6FFD1",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Some interesting workforce conundrums for healthcare staff - what can orgs like .@NHS_HealthEdEng do to respond to this? #teddychester .@AllianceMBS .@markbritnell .@MBSHealthMgt https://t.co/6dCZcJhMiM"
+	},
+	{
 		"created_at": "Sun Nov 14 09:37:00 +0000 2021",
 		"id": 1459817632589299700,
 		"id_str": "1459817632589299713",
