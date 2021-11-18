@@ -1,6 +1,395 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Wed Nov 17 21:34:41 +0000 2021",
+		"id": 1461085408406741000,
+		"id_str": "1461085408406740993",
+		"full_text": "Any tips on how to tie a bow tie? 🤵🏻‍♂️ https://t.co/uSjgEk9zq2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uSjgEk9zq2",
+					"expanded_url": "https://twitter.com/hill_karenhill3/status/1461069599047356429",
+					"display_url": "twitter.com/hill_karenhill…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF |Governor: @UHDBTrust & @suaupdates |🪑 - Armed Forces Network (UHDB)|Professional Committee @thecsp |@_HSMCentre Student 🎓|#150leaders @HLA_int",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3084,
+			"friends_count": 4909,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7636,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1630447707",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1461069599047356400,
+		"quoted_status_id_str": "1461069599047356429",
+		"quoted_status_permalink": {
+			"url": "https://t.co/uSjgEk9zq2",
+			"expanded": "https://twitter.com/hill_karenhill3/status/1461069599047356429",
+			"display": "twitter.com/hill_karenhill…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 17 20:31:52 +0000 2021",
+			"id": 1461069599047356400,
+			"id_str": "1461069599047356429",
+			"full_text": "Good luck to everyone @HSJ_Awards tomorrow @UHDBTrust &amp; @BritishArmy delighted &amp; proud to be finalists @PhilBoltonRN @CathyWinfield @AnthonyRygucki @sambagshaw75 @beardedPT @jo_mizuro https://t.co/Tl3U3j3iiK",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				191
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "HSJ_Awards",
+						"name": "HSJ Awards",
+						"id": 302056452,
+						"id_str": "302056452",
+						"indices": [
+							22,
+							33
+						]
+					},
+					{
+						"screen_name": "UHDBTrust",
+						"name": "University Hospitals of Derby and Burton NHS FT",
+						"id": 429877936,
+						"id_str": "429877936",
+						"indices": [
+							43,
+							53
+						]
+					},
+					{
+						"screen_name": "BritishArmy",
+						"name": "British Army",
+						"id": 22046686,
+						"id_str": "22046686",
+						"indices": [
+							60,
+							72
+						]
+					},
+					{
+						"screen_name": "PhilBoltonRN",
+						"name": "Phil Bolton",
+						"id": 1188076842726690800,
+						"id_str": "1188076842726690817",
+						"indices": [
+							111,
+							124
+						]
+					},
+					{
+						"screen_name": "CathyWinfield",
+						"name": "Cathy Winfield MBE, RN, MSc💙",
+						"id": 2188050351,
+						"id_str": "2188050351",
+						"indices": [
+							125,
+							139
+						]
+					},
+					{
+						"screen_name": "AnthonyRygucki",
+						"name": "Anthony rygucki",
+						"id": 1443675499780264000,
+						"id_str": "1443675499780263941",
+						"indices": [
+							140,
+							155
+						]
+					},
+					{
+						"screen_name": "sambagshaw75",
+						"name": "Sam Bagshaw",
+						"id": 752575336890654700,
+						"id_str": "752575336890654724",
+						"indices": [
+							156,
+							169
+						]
+					},
+					{
+						"screen_name": "beardedPT",
+						"name": "David Williams",
+						"id": 3377750235,
+						"id_str": "3377750235",
+						"indices": [
+							170,
+							180
+						]
+					},
+					{
+						"screen_name": "jo_mizuro",
+						"name": "Jo Mizuro 💙",
+						"id": 720961228538056700,
+						"id_str": "720961228538056704",
+						"indices": [
+							181,
+							191
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1461069594232303600,
+						"id_str": "1461069594232303618",
+						"indices": [
+							192,
+							215
+						],
+						"media_url": "http://pbs.twimg.com/media/FEbDDgxXMAI0Onu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FEbDDgxXMAI0Onu.jpg",
+						"url": "https://t.co/Tl3U3j3iiK",
+						"display_url": "pic.twitter.com/Tl3U3j3iiK",
+						"expanded_url": "https://twitter.com/hill_karenhill3/status/1461069599047356429/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1461069594232303600,
+						"id_str": "1461069594232303618",
+						"indices": [
+							192,
+							215
+						],
+						"media_url": "http://pbs.twimg.com/media/FEbDDgxXMAI0Onu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FEbDDgxXMAI0Onu.jpg",
+						"url": "https://t.co/Tl3U3j3iiK",
+						"display_url": "pic.twitter.com/Tl3U3j3iiK",
+						"expanded_url": "https://twitter.com/hill_karenhill3/status/1461069599047356429/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1461069594219663400,
+						"id_str": "1461069594219663369",
+						"indices": [
+							192,
+							215
+						],
+						"media_url": "http://pbs.twimg.com/media/FEbDDguWUAkAI4T.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FEbDDguWUAkAI4T.jpg",
+						"url": "https://t.co/Tl3U3j3iiK",
+						"display_url": "pic.twitter.com/Tl3U3j3iiK",
+						"expanded_url": "https://twitter.com/hill_karenhill3/status/1461069599047356429/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 960,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2361529948,
+				"id_str": "2361529948",
+				"name": "Karen Hill 💙 RN MSc",
+				"screen_name": "hill_karenhill3",
+				"location": "Derby",
+				"description": "Lead Nurse -Professional Standards. Passionate about golden retrievers. Be a flamingo 🦩in a flock of pigeons. All views are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2072,
+				"friends_count": 1420,
+				"listed_count": 36,
+				"created_at": "Sun Feb 23 20:15:39 +0000 2014",
+				"favourites_count": 34145,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 21127,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1137720884247052288/Bnr6V1-O_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137720884247052288/Bnr6V1-O_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2361529948/1457645116",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Any tips on how to tie a bow tie? 🤵🏻‍♂️ https://t.co/uSjgEk9zq2"
+	},
+	{
 		"created_at": "Tue Nov 16 20:11:51 +0000 2021",
 		"id": 1460670999528157200,
 		"id_str": "1460702172304351240",
@@ -155,7 +544,7 @@ Grailbird.data.tweets_2021_11 =
 			"name": "Simon Moralee #BlackLivesMatter #MaskUp he/him",
 			"screen_name": "simonmoralee",
 			"location": "North Shropshire",
-			"description": "SL @MBSHealthMgt | Researcher @MedicLeadership | Member @SHOC_OBHC | 🏃‍♂️@FellRun | 🇪🇺🇬🇧| he/him/his | dogs, politics & academia | usual disclaimers",
+			"description": "SL @MBSHealthMgt | Researcher @MedicLeadership | Member @SHOC_OBHC | 🏃♂️@FellRun | 🇪🇺🇬🇧| he/him/his | dogs, politics & academia | usual disclaimers",
 			"url": "https://t.co/AiSVJdAs9h",
 			"entities": {
 				"url": {
