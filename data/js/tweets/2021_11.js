@@ -1,6 +1,390 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 19 12:15:52 +0000 2021",
+		"id": 1461653910674886700,
+		"id_str": "1461669552169885704",
+		"full_text": "Although we didn’t win, the nomination was enough🏆for Team 2️⃣0️⃣6️⃣! Who very proud to be recognised for their courage, commitment &amp; determination during the pandemic 😷 @HSJ_Awards @UHDBTrust @TeamSurgeryUHDB @cbaddeley82 @LauraFlint13 @Emma_L_18 @LynseyHeald @hill_karenhill3 https://t.co/L8S11zFnRX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HSJ_Awards",
+					"name": "HSJ Awards",
+					"id": 302056452,
+					"id_str": "302056452",
+					"indices": [
+						174,
+						185
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						186,
+						196
+					]
+				},
+				{
+					"screen_name": "TeamSurgeryUHDB",
+					"name": "TeamSurgery UHDB",
+					"id": 1214670364401377300,
+					"id_str": "1214670364401377282",
+					"indices": [
+						197,
+						213
+					]
+				},
+				{
+					"screen_name": "cbaddeley82",
+					"name": "𝒞𝓁𝒶𝓇𝑒 𝐵𝒶𝒹𝒹𝑒𝓁𝑒𝓎 🦋",
+					"id": 3411353121,
+					"id_str": "3411353121",
+					"indices": [
+						214,
+						226
+					]
+				},
+				{
+					"screen_name": "LauraFlint13",
+					"name": "Laura Flint",
+					"id": 1127599685928149000,
+					"id_str": "1127599685928148992",
+					"indices": [
+						227,
+						240
+					]
+				},
+				{
+					"screen_name": "Emma_L_18",
+					"name": "Emma Lauren",
+					"id": 160303185,
+					"id_str": "160303185",
+					"indices": [
+						241,
+						251
+					]
+				},
+				{
+					"screen_name": "LynseyHeald",
+					"name": "Lynsey Heald RN 💙",
+					"id": 903878324010803200,
+					"id_str": "903878324010803200",
+					"indices": [
+						252,
+						264
+					]
+				},
+				{
+					"screen_name": "hill_karenhill3",
+					"name": "Karen Hill 💙 RN MSc",
+					"id": 2361529948,
+					"id_str": "2361529948",
+					"indices": [
+						265,
+						281
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1461653896770826200,
+					"id_str": "1461653896770826241",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjWeZWXMAEwt9g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjWeZWXMAEwt9g.jpg",
+					"url": "https://t.co/L8S11zFnRX",
+					"display_url": "pic.twitter.com/L8S11zFnRX",
+					"expanded_url": "https://twitter.com/VAKendall14/status/1461653910674886666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1461653896770826200,
+					"id_str": "1461653896770826241",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjWeZWXMAEwt9g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjWeZWXMAEwt9g.jpg",
+					"url": "https://t.co/L8S11zFnRX",
+					"display_url": "pic.twitter.com/L8S11zFnRX",
+					"expanded_url": "https://twitter.com/VAKendall14/status/1461653910674886666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461653896770867200,
+					"id_str": "1461653896770867208",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjWeZWX0Ag06c9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjWeZWX0Ag06c9.jpg",
+					"url": "https://t.co/L8S11zFnRX",
+					"display_url": "pic.twitter.com/L8S11zFnRX",
+					"expanded_url": "https://twitter.com/VAKendall14/status/1461653910674886666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 369,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1112,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 652,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461653897177620500,
+					"id_str": "1461653897177620485",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjWea3WYAUofx_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjWea3WYAUofx_.jpg",
+					"url": "https://t.co/L8S11zFnRX",
+					"display_url": "pic.twitter.com/L8S11zFnRX",
+					"expanded_url": "https://twitter.com/VAKendall14/status/1461653910674886666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1461653899971113000,
+					"id_str": "1461653899971112963",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/FEjWelRXsAMp7E3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FEjWelRXsAMp7E3.jpg",
+					"url": "https://t.co/L8S11zFnRX",
+					"display_url": "pic.twitter.com/L8S11zFnRX",
+					"expanded_url": "https://twitter.com/VAKendall14/status/1461653910674886666/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 464546207,
+			"id_str": "464546207",
+			"name": "Victoria Bayley",
+			"screen_name": "VAKendall14",
+			"location": "Burton on Trent",
+			"description": "Ward Sister 💙 T&O at RDH. Normally busy renovating and dreaming of Ibiza 🤘",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67,
+			"friends_count": 190,
+			"listed_count": 0,
+			"created_at": "Sun Jan 15 10:37:57 +0000 2012",
+			"favourites_count": 432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 85,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1756408512/302355_10150570149299968_508114967_11739574_2026328645_n_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1756408512/302355_10150570149299968_508114967_11739574_2026328645_n_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/464546207/1599256828",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01c7ed8caf11e8b2",
+			"url": "https://api.twitter.com/1.1/geo/id/01c7ed8caf11e8b2.json",
+			"place_type": "city",
+			"name": "Kensington",
+			"full_name": "Kensington, London",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-0.2285894,
+							51.4772246
+						],
+						[
+							-0.1497908,
+							51.4772246
+						],
+						[
+							-0.1497908,
+							51.5303477
+						],
+						[
+							-0.2285894,
+							51.5303477
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 22,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Although we didn’t win, the nomination was enough🏆for Team 2️⃣0️⃣6️⃣! Who very proud to be recognised for their courage, commitment &amp; determination during the pandemic 😷 @HSJ_Awards @UHDBTrust @TeamSurgeryUHDB @cbaddeley82 @LauraFlint13 @Emma_L_18 @LynseyHeald @hill_karenhill3 https://t.co/L8S11zFnRX"
+	},
+	{
 		"created_at": "Fri Nov 19 00:00:16 +0000 2021",
 		"id": 1461484431332544500,
 		"id_str": "1461484431332544517",
