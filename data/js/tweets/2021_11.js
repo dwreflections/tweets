@@ -1,6 +1,444 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 22 19:15:40 +0000 2021",
+		"id": 1462862360964702200,
+		"id_str": "1462862360964702215",
+		"full_text": "@scotgasdoc Chapeau!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "scotgasdoc",
+					"name": "Stuart Edwardson",
+					"id": 1015546286127411200,
+					"id_str": "1015546286127411200",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1462755350730395600,
+		"in_reply_to_status_id_str": "1462755350730395656",
+		"in_reply_to_user_id": 1015546286127411200,
+		"in_reply_to_user_id_str": "1015546286127411200",
+		"in_reply_to_screen_name": "scotgasdoc",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF |Governor: @UHDBTrust & @suaupdates |🪑 - Armed Forces Network (UHDB)|Professional Committee @thecsp |@_HSMCentre Student 🎓|#150leaders @HLA_int",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3089,
+			"friends_count": 4914,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@scotgasdoc Chapeau!"
+	},
+	{
+		"created_at": "Mon Nov 22 18:20:51 +0000 2021",
+		"id": 1462848567878500400,
+		"id_str": "1462848567878500356",
+		"full_text": "@GinaSargeant No sleep for the wicked 😈",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GinaSargeant",
+					"name": "Gina Sargeant",
+					"id": 212001265,
+					"id_str": "212001265",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1462695944319873000,
+		"in_reply_to_status_id_str": "1462695944319873026",
+		"in_reply_to_user_id": 212001265,
+		"in_reply_to_user_id_str": "212001265",
+		"in_reply_to_screen_name": "GinaSargeant",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF |Governor: @UHDBTrust & @suaupdates |🪑 - Armed Forces Network (UHDB)|Professional Committee @thecsp |@_HSMCentre Student 🎓|#150leaders @HLA_int",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3089,
+			"friends_count": 4914,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24129,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GinaSargeant No sleep for the wicked 😈"
+	},
+	{
+		"created_at": "Mon Nov 22 15:35:33 +0000 2021",
+		"id": 1462800538119159800,
+		"id_str": "1462806968385642499",
+		"full_text": "NEWS: @NHSDigital will merge with @NHSEngland (along with @NHSX as we've previously reported) when legislation allows. \n\n- @simonrbolton will become CIO of NHSE\n- Both NHSD and NHSX brands to be retired\n- NHSX to retain joint unit status. \n\nFull story on @HSJnews shortly.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NHSDigital",
+					"name": "NHS Digital",
+					"id": 27629414,
+					"id_str": "27629414",
+					"indices": [
+						6,
+						17
+					]
+				},
+				{
+					"screen_name": "NHSEngland",
+					"name": "NHS England and NHS Improvement",
+					"id": 551426814,
+					"id_str": "551426814",
+					"indices": [
+						34,
+						45
+					]
+				},
+				{
+					"screen_name": "NHSX",
+					"name": "NHSX",
+					"id": 1091325763943612400,
+					"id_str": "1091325763943612416",
+					"indices": [
+						58,
+						63
+					]
+				},
+				{
+					"screen_name": "simonrbolton",
+					"name": "Simon Bolton",
+					"id": 19000614,
+					"id_str": "19000614",
+					"indices": [
+						123,
+						136
+					]
+				},
+				{
+					"screen_name": "HSJnews",
+					"name": "Health Service Journal",
+					"id": 14491411,
+					"id_str": "14491411",
+					"indices": [
+						255,
+						263
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 221724025,
+			"id_str": "221724025",
+			"name": "Nicholas Carding",
+			"screen_name": "ncarding",
+			"location": "London, England",
+			"description": "Senior correspondent for @HSJnews covering NHS technology, infrastructure & the beautiful Westcountry. \n\nSend tips to nicholas.carding@wilmingtonhealthcare.com",
+			"url": "https://t.co/3SgF60aH8s",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3SgF60aH8s",
+							"expanded_url": "https://www.hsj.co.uk/info/information/contact-hsj",
+							"display_url": "hsj.co.uk/info/informati…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2440,
+			"friends_count": 1593,
+			"listed_count": 50,
+			"created_at": "Wed Dec 01 12:48:38 +0000 2010",
+			"favourites_count": 815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5694,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1233404965856694272/1RF7c0bN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1233404965856694272/1RF7c0bN_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "NEWS: @NHSDigital will merge with @NHSEngland (along with @NHSX as we've previously reported) when legislation allows. \n\n- @simonrbolton will become CIO of NHSE\n- Both NHSD and NHSX brands to be retired\n- NHSX to retain joint unit status. \n\nFull story on @HSJnews shortly."
+	},
+	{
+		"created_at": "Mon Nov 22 14:38:27 +0000 2021",
+		"id": 1462790554362777600,
+		"id_str": "1462792600247844870",
+		"full_text": "Breaking: HSJ understands that the merger of NHS Digital and Health Education England into NHS England has been confirmed to staff today, with a public announcement expected shortly.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14491411,
+			"id_str": "14491411",
+			"name": "Health Service Journal",
+			"screen_name": "HSJnews",
+			"location": "UK",
+			"description": "The UK's leading resource for healthcare leaders. Winner AOP best specialist media brand 2017.\nListen to the free HSJ Health Check podcast: https://t.co/FEO2VYZVha",
+			"url": "http://t.co/8NyNruXbAf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/8NyNruXbAf",
+							"expanded_url": "http://www.hsj.co.uk",
+							"display_url": "hsj.co.uk",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FEO2VYZVha",
+							"expanded_url": "http://bit.ly/2stifX2",
+							"display_url": "bit.ly/2stifX2",
+							"indices": [
+								140,
+								163
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 94961,
+			"friends_count": 2918,
+			"listed_count": 1147,
+			"created_at": "Wed Apr 23 11:01:19 +0000 2008",
+			"favourites_count": 175,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 67128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/572738318681374720/EzT6hB48_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/572738318681374720/EzT6hB48_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14491411/1605027839",
+			"profile_link_color": "0000FF",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 35,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Breaking: HSJ understands that the merger of NHS Digital and Health Education England into NHS England has been confirmed to staff today, with a public announcement expected shortly."
+	},
+	{
 		"created_at": "Sun Nov 21 18:57:53 +0000 2021",
 		"id": 1462495497436999700,
 		"id_str": "1462495497436999682",
