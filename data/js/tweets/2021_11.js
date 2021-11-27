@@ -1,6 +1,291 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 26 20:14:03 +0000 2021",
+		"id": 1464326605573177300,
+		"id_str": "1464326605573177352",
+		"full_text": "@WillJMeddings https://t.co/7VSV26sflu",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WillJMeddings",
+					"name": "Will Meddings",
+					"id": 775041627614314500,
+					"id_str": "775041627614314496",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/7VSV26sflu",
+					"expanded_url": "https://twitter.com/ukgranddesigns/status/1455980768027717640?s=21",
+					"display_url": "twitter.com/ukgranddesigns…",
+					"indices": [
+						15,
+						38
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1464325666543968300,
+		"in_reply_to_status_id_str": "1464325666543968263",
+		"in_reply_to_user_id": 775041627614314500,
+		"in_reply_to_user_id_str": "775041627614314496",
+		"in_reply_to_screen_name": "WillJMeddings",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "Staffordshire",
+			"description": "Physio & #CNJF |Governor: @UHDBTrust & @suaupdates |🪑 - Armed Forces Network (UHDB)|Professional Committee @thecsp |@_HSMCentre Student 🎓|#150leaders @HLA_int",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3096,
+			"friends_count": 4926,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24161,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1455980768027717600,
+		"quoted_status_id_str": "1455980768027717640",
+		"quoted_status_permalink": {
+			"url": "https://t.co/7VSV26sflu",
+			"expanded": "https://twitter.com/ukgranddesigns/status/1455980768027717640?s=21",
+			"display": "twitter.com/ukgranddesigns…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 03 19:30:40 +0000 2021",
+			"id": 1455980768027717600,
+			"id_str": "1455980768027717640",
+			"full_text": "https://t.co/qe2p21UqId",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1455980760318500900,
+						"id_str": "1455980760318500865",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/FDSuyZKWYAEXg2j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FDSuyZKWYAEXg2j.jpg",
+						"url": "https://t.co/qe2p21UqId",
+						"display_url": "pic.twitter.com/qe2p21UqId",
+						"expanded_url": "https://twitter.com/ukgranddesigns/status/1455980768027717640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1455980760318500900,
+						"id_str": "1455980760318500865",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/FDSuyZKWYAEXg2j.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FDSuyZKWYAEXg2j.jpg",
+						"url": "https://t.co/qe2p21UqId",
+						"display_url": "pic.twitter.com/qe2p21UqId",
+						"expanded_url": "https://twitter.com/ukgranddesigns/status/1455980768027717640/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 382,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1357058300324569000,
+				"id_str": "1357058300324569089",
+				"name": "No Context Grand Designs",
+				"screen_name": "ukgranddesigns",
+				"location": "3 months behind schedule",
+				"description": "*disclaimer* in no way affiliated with Sir Kev",
+				"url": "https://t.co/JiDLzdSKAP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/JiDLzdSKAP",
+								"expanded_url": "https://www.instagram.com/nocontextgranddesigns/",
+								"display_url": "instagram.com/nocontextgrand…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 53285,
+				"friends_count": 746,
+				"listed_count": 51,
+				"created_at": "Wed Feb 03 20:08:11 +0000 2021",
+				"favourites_count": 3442,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 756,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1358127769327177728/6GX_o_2-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358127769327177728/6GX_o_2-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1357058300324569089/1612383285",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 124,
+			"favorite_count": 1211,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@WillJMeddings https://t.co/7VSV26sflu"
+	},
+	{
 		"created_at": "Thu Nov 25 18:49:46 +0000 2021",
 		"id": 1463943009427509200,
 		"id_str": "1463943009427509263",
