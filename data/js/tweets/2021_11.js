@@ -1,6 +1,729 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 27 21:18:16 +0000 2021",
+		"id": 1464705153500647400,
+		"id_str": "1464705153500647424",
+		"full_text": "@jrdono80 The best!!! Saying that’s he’s been out twice since my last post and been zooming around so I think he is getting used to it. It was definitely his first snow day.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jrdono80",
+					"name": "rob",
+					"id": 4186992179,
+					"id_str": "4186992179",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1464694191322189800,
+		"in_reply_to_status_id_str": "1464694191322189841",
+		"in_reply_to_user_id": 4186992179,
+		"in_reply_to_user_id_str": "4186992179",
+		"in_reply_to_screen_name": "jrdono80",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡",
+			"description": "Physio; Mostly walking my greyhound; many committees; post grad student; Often tweets: #AHP, #leadership, health/public policy; Interest: ☕️, politics & society",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3102,
+			"friends_count": 4932,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1638010813",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jrdono80 The best!!! Saying that’s he’s been out twice since my last post and been zooming around so I think he is getting used to it. It was definitely his first snow day."
+	},
+	{
+		"created_at": "Sat Nov 27 16:40:05 +0000 2021",
+		"id": 1464635148213829600,
+		"id_str": "1464635148213829642",
+		"full_text": "Update: I have finally coaxed him back out of the house at 1600.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1464502074679378000,
+		"in_reply_to_status_id_str": "1464502074679377921",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡",
+			"description": "Physio; Mostly walking my greyhound; many committees; post grad student; Often tweets: #AHP, #leadership, health/public policy; Interest: ☕️, politics & society",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3102,
+			"friends_count": 4932,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1638010813",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Update: I have finally coaxed him back out of the house at 1600."
+	},
+	{
+		"created_at": "Sat Nov 27 11:50:37 +0000 2021",
+		"id": 1464562300019486700,
+		"id_str": "1464562300019486720",
+		"full_text": "@HSJEditor https://t.co/yQxS8qiVNq",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			10
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HSJEditor",
+					"name": "Alastair McLellan",
+					"id": 16040748,
+					"id_str": "16040748",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1464562296139796500,
+					"id_str": "1464562296139796481",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/FFMrphTX0AEwWaG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFMrphTX0AEwWaG.jpg",
+					"url": "https://t.co/yQxS8qiVNq",
+					"display_url": "pic.twitter.com/yQxS8qiVNq",
+					"expanded_url": "https://twitter.com/beardedPT/status/1464562300019486720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1535,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1464562296139796500,
+					"id_str": "1464562296139796481",
+					"indices": [
+						11,
+						34
+					],
+					"media_url": "http://pbs.twimg.com/media/FFMrphTX0AEwWaG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFMrphTX0AEwWaG.jpg",
+					"url": "https://t.co/yQxS8qiVNq",
+					"display_url": "pic.twitter.com/yQxS8qiVNq",
+					"expanded_url": "https://twitter.com/beardedPT/status/1464562300019486720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1535,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1464252095012524000,
+		"in_reply_to_status_id_str": "1464252095012524032",
+		"in_reply_to_user_id": 16040748,
+		"in_reply_to_user_id_str": "16040748",
+		"in_reply_to_screen_name": "HSJEditor",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡",
+			"description": "Physio; Mostly walking my greyhound; many committees; post grad student; Often tweets: #AHP, #leadership, health/public policy; Interest: ☕️, politics & society",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3102,
+			"friends_count": 4932,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1638010813",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@HSJEditor https://t.co/yQxS8qiVNq"
+	},
+	{
+		"created_at": "Sat Nov 27 09:07:03 +0000 2021",
+		"id": 1464521139930206200,
+		"id_str": "1464521139930206211",
+		"full_text": "Fabulous! I hope Netty squared you away. \n\nMore to come… Looking forward to further collaboration between @UHDBTrust &amp; @DMS_MilMed \n\n@UHDB_AFN @CathyWinfield @magnusharrison #militarynursing https://t.co/cLNSPGFgWU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "militarynursing",
+					"indices": [
+						178,
+						194
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						106,
+						116
+					]
+				},
+				{
+					"screen_name": "DMS_MilMed",
+					"name": "Defence Medical Services",
+					"id": 736186559888789500,
+					"id_str": "736186559888789504",
+					"indices": [
+						123,
+						134
+					]
+				},
+				{
+					"screen_name": "UHDB_AFN",
+					"name": "UHDB Armed Forces Network",
+					"id": 1384135578233360400,
+					"id_str": "1384135578233360399",
+					"indices": [
+						137,
+						146
+					]
+				},
+				{
+					"screen_name": "CathyWinfield",
+					"name": "Cathy Winfield MBE, RN, MSc💙",
+					"id": 2188050351,
+					"id_str": "2188050351",
+					"indices": [
+						147,
+						161
+					]
+				},
+				{
+					"screen_name": "magnusharrison",
+					"name": "Dr. Magnus Harrison 😷🌈💙",
+					"id": 258272524,
+					"id_str": "258272524",
+					"indices": [
+						162,
+						177
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cLNSPGFgWU",
+					"expanded_url": "https://twitter.com/uhdbRespiratory/status/1464213233502466053",
+					"display_url": "twitter.com/uhdbRespirator…",
+					"indices": [
+						195,
+						218
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡",
+			"description": "Physio; Mostly walking my greyhound; many committees; post grad student; Often tweets: #AHP, #leadership, health/public policy; Interest: ☕️, politics & society",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3102,
+			"friends_count": 4932,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24170,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7663,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1330522478872064002/t6N5vc-i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1638010813",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1464213233502466000,
+		"quoted_status_id_str": "1464213233502466053",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cLNSPGFgWU",
+			"expanded": "https://twitter.com/uhdbRespiratory/status/1464213233502466053",
+			"display": "twitter.com/uhdbRespirator…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 26 12:43:33 +0000 2021",
+			"id": 1464213233502466000,
+			"id_str": "1464213233502466053",
+			"full_text": "Ward 3 @UHDBTrust had the pleasure of Louis and Keira working a placement with the team. Netty Webster had the honour of attending their passing out ceremony. #militarynursing #respisbest #wereinthearmynow @sally_denman1 @DivisionUhdb https://t.co/4078inbLmA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				234
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "militarynursing",
+						"indices": [
+							159,
+							175
+						]
+					},
+					{
+						"text": "respisbest",
+						"indices": [
+							176,
+							187
+						]
+					},
+					{
+						"text": "wereinthearmynow",
+						"indices": [
+							188,
+							205
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UHDBTrust",
+						"name": "University Hospitals of Derby and Burton NHS FT",
+						"id": 429877936,
+						"id_str": "429877936",
+						"indices": [
+							7,
+							17
+						]
+					},
+					{
+						"screen_name": "sally_denman1",
+						"name": "Sally Denman",
+						"id": 970959861734367200,
+						"id_str": "970959861734367232",
+						"indices": [
+							206,
+							220
+						]
+					},
+					{
+						"screen_name": "DivisionUhdb",
+						"name": "UHDB Medicine Division",
+						"id": 1201614306531586000,
+						"id_str": "1201614306531586049",
+						"indices": [
+							221,
+							234
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1464213231367561200,
+						"id_str": "1464213231367561243",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/media/FFHuLRsXIBsf7DY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFHuLRsXIBsf7DY.jpg",
+						"url": "https://t.co/4078inbLmA",
+						"display_url": "pic.twitter.com/4078inbLmA",
+						"expanded_url": "https://twitter.com/uhdbRespiratory/status/1464213233502466053/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1464213231367561200,
+						"id_str": "1464213231367561243",
+						"indices": [
+							235,
+							258
+						],
+						"media_url": "http://pbs.twimg.com/media/FFHuLRsXIBsf7DY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FFHuLRsXIBsf7DY.jpg",
+						"url": "https://t.co/4078inbLmA",
+						"display_url": "pic.twitter.com/4078inbLmA",
+						"expanded_url": "https://twitter.com/uhdbRespiratory/status/1464213233502466053/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1200,
+								"h": 1600,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 892839123073077200,
+				"id_str": "892839123073077248",
+				"name": "Respiratory Unit @ UHDB",
+				"screen_name": "uhdbRespiratory",
+				"location": "",
+				"description": "Respiratory Unit at UHDB Fabulous hardworking team helping Derby and Burton breathe easier.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 681,
+				"friends_count": 188,
+				"listed_count": 2,
+				"created_at": "Wed Aug 02 20:06:49 +0000 2017",
+				"favourites_count": 1315,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 473,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1005814378980048896/VoZ7Dx-s_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1005814378980048896/VoZ7Dx-s_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 51,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fabulous! I hope Netty squared you away. \n\nMore to come… Looking forward to further collaboration between @UHDBTrust &amp; @DMS_MilMed \n\n@UHDB_AFN @CathyWinfield @magnusharrison #militarynursing https://t.co/cLNSPGFgWU"
+	},
+	{
 		"created_at": "Fri Nov 26 20:14:03 +0000 2021",
 		"id": 1464326605573177300,
 		"id_str": "1464326605573177352",
