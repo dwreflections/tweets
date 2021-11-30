@@ -1,6 +1,681 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Mon Nov 29 21:30:15 +0000 2021",
+		"id": 1456284994603729000,
+		"id_str": "1465432947293659150",
+		"full_text": "🔥HOT OFF THE PRESS! Your MUST-READ QI Evidence Update for Nov 21🔥\n\nThere's so much great content that it's a bumper 3⃣ page edition this month. Check it out &amp; #pinchwithpride ⬇️\n\nhttps://t.co/dbpMynuTfq\n\nCompiled by @improvjess &amp; myself\n@theQCommunity @FabNHSStuff @HorizonsNHS https://t.co/nV1fdgozDj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			285
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "pinchwithpride",
+					"indices": [
+						163,
+						178
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "improvjess",
+					"name": "Jess Pawley 🇪🇺🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇷🇨🇾",
+					"id": 3329676257,
+					"id_str": "3329676257",
+					"indices": [
+						220,
+						231
+					]
+				},
+				{
+					"screen_name": "theQCommunity",
+					"name": "The Q community",
+					"id": 782945860359426000,
+					"id_str": "782945860359426048",
+					"indices": [
+						245,
+						259
+					]
+				},
+				{
+					"screen_name": "FabNHSStuff",
+					"name": "AcademyOfFabStuff",
+					"id": 2989313567,
+					"id_str": "2989313567",
+					"indices": [
+						260,
+						272
+					]
+				},
+				{
+					"screen_name": "HorizonsNHS",
+					"name": "NHS Horizons",
+					"id": 2788044432,
+					"id_str": "2788044432",
+					"indices": [
+						273,
+						285
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/dbpMynuTfq",
+					"expanded_url": "https://tinyurl.com/QINov",
+					"display_url": "tinyurl.com/QINov",
+					"indices": [
+						183,
+						206
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1456283500601090000,
+					"id_str": "1456283500601090052",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/FDXCIMmXIAQyZFN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDXCIMmXIAQyZFN.jpg",
+					"url": "https://t.co/nV1fdgozDj",
+					"display_url": "pic.twitter.com/nV1fdgozDj",
+					"expanded_url": "https://twitter.com/andreadgibbons/status/1456284994603728901/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 582,
+							"h": 824,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 582,
+							"h": 824,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1456283500601090000,
+					"id_str": "1456283500601090052",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/FDXCIMmXIAQyZFN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDXCIMmXIAQyZFN.jpg",
+					"url": "https://t.co/nV1fdgozDj",
+					"display_url": "pic.twitter.com/nV1fdgozDj",
+					"expanded_url": "https://twitter.com/andreadgibbons/status/1456284994603728901/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 480,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 582,
+							"h": 824,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 582,
+							"h": 824,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456283500370407400,
+					"id_str": "1456283500370407434",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/FDXCILvXMAoFN11.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDXCILvXMAoFN11.jpg",
+					"url": "https://t.co/nV1fdgozDj",
+					"display_url": "pic.twitter.com/nV1fdgozDj",
+					"expanded_url": "https://twitter.com/andreadgibbons/status/1456284994603728901/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 584,
+							"h": 826,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 584,
+							"h": 826,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1456283500743643100,
+					"id_str": "1456283500743643138",
+					"indices": [
+						286,
+						309
+					],
+					"media_url": "http://pbs.twimg.com/media/FDXCINIWUAICJ3n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FDXCINIWUAICJ3n.jpg",
+					"url": "https://t.co/nV1fdgozDj",
+					"display_url": "pic.twitter.com/nV1fdgozDj",
+					"expanded_url": "https://twitter.com/andreadgibbons/status/1456284994603728901/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 582,
+							"h": 828,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 478,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 582,
+							"h": 828,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 328436361,
+			"id_str": "328436361",
+			"name": "Andrea Gibbons 💙",
+			"screen_name": "andreadgibbons",
+			"location": "Taunton, UK",
+			"description": "✳️#QExchange 2019 Winner ✳️@Evidence4QI cofounder ✳️PhD @BristolUni ✳️QI Coach ✳️@FabNHSStuff Ambassador  ✳️@LBS Exec MBA ✳️@UniofOxf Grad",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3664,
+			"friends_count": 3054,
+			"listed_count": 29,
+			"created_at": "Sun Jul 03 11:03:31 +0000 2011",
+			"favourites_count": 8268,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3580,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1115224721350639617/zMF3jmLI_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115224721350639617/zMF3jmLI_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/328436361/1595261127",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 58,
+		"favorite_count": 114,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🔥HOT OFF THE PRESS! Your MUST-READ QI Evidence Update for Nov 21🔥\n\nThere's so much great content that it's a bumper 3⃣ page edition this month. Check it out &amp; #pinchwithpride ⬇️\n\nhttps://t.co/dbpMynuTfq\n\nCompiled by @improvjess &amp; myself\n@theQCommunity @FabNHSStuff @HorizonsNHS https://t.co/nV1fdgozDj"
+	},
+	{
+		"created_at": "Mon Nov 29 21:23:41 +0000 2021",
+		"id": 1465431292514812000,
+		"id_str": "1465431292514811916",
+		"full_text": "@Connect2Physio Finding knowledge bombs 💣 on my timeline - HT @GatesPhysio",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Connect2Physio",
+					"name": "Connect2Physio",
+					"id": 1266685426523406300,
+					"id_str": "1266685426523406337",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "GatesPhysio",
+					"name": "John Gates",
+					"id": 451401278,
+					"id_str": "451401278",
+					"indices": [
+						62,
+						74
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1327563212657750000,
+		"in_reply_to_status_id_str": "1327563212657750016",
+		"in_reply_to_user_id": 1266685426523406300,
+		"in_reply_to_user_id_str": "1266685426523406337",
+		"in_reply_to_screen_name": "Connect2Physio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡",
+			"description": "Mostly walking my greyhound…",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3103,
+			"friends_count": 4941,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1638010813",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Connect2Physio Finding knowledge bombs 💣 on my timeline - HT @GatesPhysio"
+	},
+	{
+		"created_at": "Mon Nov 29 21:13:58 +0000 2021",
+		"id": 1465428850402373600,
+		"id_str": "1465428850402373638",
+		"full_text": "@awgilbert11 @RNOHnhs @RnohTherapies @RNOHRIC @RachDalton1 @AnjuJaggi @HaupmannovaIva @JPTDoyle Congratulations @awgilbert11 🥳👏👏",
+		"truncated": false,
+		"display_text_range": [
+			96,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "awgilbert11",
+					"name": "Anthony Gilbert",
+					"id": 250321410,
+					"id_str": "250321410",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "RNOHnhs",
+					"name": "RNOH NHS Trust",
+					"id": 344481588,
+					"id_str": "344481588",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"screen_name": "RnohTherapies",
+					"name": "RNOHTherapies",
+					"id": 1101442212645257200,
+					"id_str": "1101442212645257217",
+					"indices": [
+						22,
+						36
+					]
+				},
+				{
+					"screen_name": "RNOHRIC",
+					"name": "RNOH RIC makespace4research#",
+					"id": 1453975340,
+					"id_str": "1453975340",
+					"indices": [
+						37,
+						45
+					]
+				},
+				{
+					"screen_name": "RachDalton1",
+					"name": "Rachel Dalton 💙",
+					"id": 1197009426,
+					"id_str": "1197009426",
+					"indices": [
+						46,
+						58
+					]
+				},
+				{
+					"screen_name": "AnjuJaggi",
+					"name": "anju jaggi",
+					"id": 1461676022,
+					"id_str": "1461676022",
+					"indices": [
+						59,
+						69
+					]
+				},
+				{
+					"screen_name": "HaupmannovaIva",
+					"name": "Iva Haupmannova",
+					"id": 795986767,
+					"id_str": "795986767",
+					"indices": [
+						70,
+						85
+					]
+				},
+				{
+					"screen_name": "JPTDoyle",
+					"name": "John Doyle",
+					"id": 187814232,
+					"id_str": "187814232",
+					"indices": [
+						86,
+						95
+					]
+				},
+				{
+					"screen_name": "awgilbert11",
+					"name": "Anthony Gilbert",
+					"id": 250321410,
+					"id_str": "250321410",
+					"indices": [
+						112,
+						124
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1465427090400899000,
+		"in_reply_to_status_id_str": "1465427090400899073",
+		"in_reply_to_user_id": 250321410,
+		"in_reply_to_user_id_str": "250321410",
+		"in_reply_to_screen_name": "awgilbert11",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡",
+			"description": "Mostly walking my greyhound…",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3103,
+			"friends_count": 4941,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1638010813",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@awgilbert11 @RNOHnhs @RnohTherapies @RNOHRIC @RachDalton1 @AnjuJaggi @HaupmannovaIva @JPTDoyle Congratulations @awgilbert11 🥳👏👏"
+	},
+	{
+		"created_at": "Mon Nov 29 20:52:29 +0000 2021",
+		"id": 1465423444011532300,
+		"id_str": "1465423444011532288",
+		"full_text": "@Shaque89_ @BlavatnikSchool Ever more fab!",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Shaque89_",
+					"name": "Sharmi Haque",
+					"id": 1318168706359373800,
+					"id_str": "1318168706359373824",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "BlavatnikSchool",
+					"name": "Blavatnik School of Government",
+					"id": 218095155,
+					"id_str": "218095155",
+					"indices": [
+						11,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1465416607132438500,
+		"in_reply_to_status_id_str": "1465416607132438532",
+		"in_reply_to_user_id": 1318168706359373800,
+		"in_reply_to_user_id_str": "1318168706359373824",
+		"in_reply_to_screen_name": "Shaque89_",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡",
+			"description": "Mostly walking my greyhound…",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3103,
+			"friends_count": 4941,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7670,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1638010813",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Shaque89_ @BlavatnikSchool Ever more fab!"
+	},
+	{
 		"created_at": "Sun Nov 28 16:38:38 +0000 2021",
 		"id": 1464997171967762400,
 		"id_str": "1464997171967762437",
@@ -116,7 +791,7 @@ Grailbird.data.tweets_2021_11 =
 				},
 				{
 					"screen_name": "Retlouping",
-					"name": "🚴🏻‍♂️ ɹǝʇlnoԀ pıʌɐᗡ 🚴🏻‍♂️ 𝔹𝕖 𝕜𝕚𝕟𝕕 😷",
+					"name": "🚴🏻♂️ ɹǝʇlnoԀ pıʌɐᗡ 🚴🏻♂️ 𝔹𝕖 𝕜𝕚𝕟𝕕 😷",
 					"id": 3246132338,
 					"id_str": "3246132338",
 					"indices": [
