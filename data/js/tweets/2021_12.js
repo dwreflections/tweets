@@ -1,6 +1,358 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 03 21:50:10 +0000 2021",
+		"id": 1466887511733678000,
+		"id_str": "1466887511733678086",
+		"full_text": "@RogerKerry1 Better than Bono -giving @TPAIN a run for his money! 🎙",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "TPAIN",
+					"name": "T-Pain",
+					"id": 28054681,
+					"id_str": "28054681",
+					"indices": [
+						38,
+						44
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1466886216469692400,
+		"in_reply_to_status_id_str": "1466886216469692421",
+		"in_reply_to_user_id": 396832258,
+		"in_reply_to_user_id_str": "396832258",
+		"in_reply_to_screen_name": "RogerKerry1",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound…",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3105,
+			"friends_count": 4957,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24153,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1638010813",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RogerKerry1 Better than Bono -giving @TPAIN a run for his money! 🎙"
+	},
+	{
+		"created_at": "Fri Dec 03 21:42:41 +0000 2021",
+		"id": 1466885626016501800,
+		"id_str": "1466885626016501775",
+		"full_text": "@benedsmith @h_carter43 @DerbyRandD @DerbyPhysioOPD @UHDBTrust @UoNRehab_Ageing Boom! 💥🙌",
+		"truncated": false,
+		"display_text_range": [
+			80,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benedsmith",
+					"name": "Ben Smith",
+					"id": 22659623,
+					"id_str": "22659623",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "h_carter43",
+					"name": "Hayley Carter",
+					"id": 4311628107,
+					"id_str": "4311628107",
+					"indices": [
+						12,
+						23
+					]
+				},
+				{
+					"screen_name": "DerbyRandD",
+					"name": "UHDB R&D",
+					"id": 999619030070722600,
+					"id_str": "999619030070722562",
+					"indices": [
+						24,
+						35
+					]
+				},
+				{
+					"screen_name": "DerbyPhysioOPD",
+					"name": "Derby Therapies OPD",
+					"id": 923868733034106900,
+					"id_str": "923868733034106880",
+					"indices": [
+						36,
+						51
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						52,
+						62
+					]
+				},
+				{
+					"screen_name": "UoNRehab_Ageing",
+					"name": "Centre for Rehabilitation & Ageing Research",
+					"id": 1043117049017512000,
+					"id_str": "1043117049017511937",
+					"indices": [
+						63,
+						79
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1466878346701295600,
+		"in_reply_to_status_id_str": "1466878346701295622",
+		"in_reply_to_user_id": 22659623,
+		"in_reply_to_user_id_str": "22659623",
+		"in_reply_to_screen_name": "benedsmith",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound…",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3105,
+			"friends_count": 4957,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24153,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1638010813",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@benedsmith @h_carter43 @DerbyRandD @DerbyPhysioOPD @UHDBTrust @UoNRehab_Ageing Boom! 💥🙌"
+	},
+	{
+		"created_at": "Fri Dec 03 21:41:39 +0000 2021",
+		"id": 1466885367202783200,
+		"id_str": "1466885367202783240",
+		"full_text": "@h_carter43 @NIHRcommunity YESSSSSSS! Amazing news  - well done!!!😁😁",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "h_carter43",
+					"name": "Hayley Carter",
+					"id": 4311628107,
+					"id_str": "4311628107",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "NIHRcommunity",
+					"name": "We are NIHR",
+					"id": 2974430121,
+					"id_str": "2974430121",
+					"indices": [
+						12,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1466876549618188300,
+		"in_reply_to_status_id_str": "1466876549618188291",
+		"in_reply_to_user_id": 4311628107,
+		"in_reply_to_user_id_str": "4311628107",
+		"in_reply_to_screen_name": "h_carter43",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound…",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3105,
+			"friends_count": 4957,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24153,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7675,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1638010813",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@h_carter43 @NIHRcommunity YESSSSSSS! Amazing news  - well done!!!😁😁"
+	},
+	{
 		"created_at": "Wed Dec 01 20:44:03 +0000 2021",
 		"id": 1466146096862875600,
 		"id_str": "1466146096862875662",
@@ -598,7 +950,7 @@ Grailbird.data.tweets_2021_12 =
 		"created_at": "Wed Dec 01 08:28:24 +0000 2021",
 		"id": 1465954408391495700,
 		"id_str": "1465960964164104192",
-		"full_text": "Everyone 👨‍✈️👨🏼‍🏭👩🏾‍⚕️\nEveryone  👴🏾👵🏼🧒🏿\nEveryone  🧏‍♀️👩🏽‍🎓👰🏿\nEveryone in the 🌎\n \nNo matter who they are or where they live, should have access to #HIV services.\n\n#WorldAIDSDay\n\n👉 https://t.co/iO5b5PKi2e https://t.co/ys1z6RObJG",
+		"full_text": "Everyone 👨✈️👨🏼🏭👩🏾⚕️\nEveryone  👴🏾👵🏼🧒🏿\nEveryone  🧏♀️👩🏽🎓👰🏿\nEveryone in the 🌎\n \nNo matter who they are or where they live, should have access to #HIV services.\n\n#WorldAIDSDay\n\n👉 https://t.co/iO5b5PKi2e https://t.co/ys1z6RObJG",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -792,7 +1144,7 @@ Grailbird.data.tweets_2021_12 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Everyone 👨‍✈️👨🏼‍🏭👩🏾‍⚕️\nEveryone  👴🏾👵🏼🧒🏿\nEveryone  🧏‍♀️👩🏽‍🎓👰🏿\nEveryone in the 🌎\n \nNo matter who they are or where they live, should have access to #HIV services.\n\n#WorldAIDSDay\n\n👉 https://t.co/iO5b5PKi2e https://t.co/ys1z6RObJG"
+		"text": "Everyone 👨✈️👨🏼🏭👩🏾⚕️\nEveryone  👴🏾👵🏼🧒🏿\nEveryone  🧏♀️👩🏽🎓👰🏿\nEveryone in the 🌎\n \nNo matter who they are or where they live, should have access to #HIV services.\n\n#WorldAIDSDay\n\n👉 https://t.co/iO5b5PKi2e https://t.co/ys1z6RObJG"
 	},
 	{
 		"created_at": "Wed Dec 01 08:21:02 +0000 2021",
