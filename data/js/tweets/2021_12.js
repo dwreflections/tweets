@@ -1,6 +1,160 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 06 16:59:41 +0000 2021",
+		"id": 1467901572608929800,
+		"id_str": "1467901572608929793",
+		"full_text": "@janedwelly @Duffnet1970s @NHSEngland @NHSCNIO @teyre1 @CIOCHIME @ITnursey",
+		"truncated": false,
+		"display_text_range": [
+			65,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "janedwelly",
+					"name": "Jane Dwelly 💙",
+					"id": 108297471,
+					"id_str": "108297471",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Duffnet1970s",
+					"name": "Amy Freeman",
+					"id": 1528138112,
+					"id_str": "1528138112",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "NHSEngland",
+					"name": "NHS England and NHS Improvement",
+					"id": 551426814,
+					"id_str": "551426814",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"screen_name": "NHSCNIO",
+					"name": "Dr Natasha Phillips RN",
+					"id": 900098365,
+					"id_str": "900098365",
+					"indices": [
+						38,
+						46
+					]
+				},
+				{
+					"screen_name": "teyre1",
+					"name": "tracey eyre",
+					"id": 467676799,
+					"id_str": "467676799",
+					"indices": [
+						47,
+						54
+					]
+				},
+				{
+					"screen_name": "CIOCHIME",
+					"name": "CHIME",
+					"id": 57112985,
+					"id_str": "57112985",
+					"indices": [
+						55,
+						64
+					]
+				},
+				{
+					"screen_name": "ITnursey",
+					"name": "Kerry",
+					"id": 887281988390051800,
+					"id_str": "887281988390051841",
+					"indices": [
+						65,
+						74
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1467822539913244700,
+		"in_reply_to_status_id_str": "1467822539913244680",
+		"in_reply_to_user_id": 108297471,
+		"in_reply_to_user_id_str": "108297471",
+		"in_reply_to_screen_name": "janedwelly",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound…",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3109,
+			"friends_count": 4983,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24180,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7680,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1638010813",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@janedwelly @Duffnet1970s @NHSEngland @NHSCNIO @teyre1 @CIOCHIME @ITnursey"
+	},
+	{
 		"created_at": "Sun Dec 05 21:04:01 +0000 2021",
 		"id": 1467600671650238500,
 		"id_str": "1467600671650238467",
