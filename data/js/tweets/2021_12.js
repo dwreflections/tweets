@@ -1,6 +1,468 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 09 19:56:23 +0000 2021",
+		"id": 1469033201230352400,
+		"id_str": "1469033201230352398",
+		"full_text": "@JonRyanCSP @ashjamesphysio Brilliant!",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JonRyanCSP",
+					"name": "Jon Ryan",
+					"id": 2462627314,
+					"id_str": "2462627314",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "ashjamesphysio",
+					"name": "Ash James 💭",
+					"id": 597553260,
+					"id_str": "597553260",
+					"indices": [
+						12,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1469031373788881000,
+		"in_reply_to_status_id_str": "1469031373788880905",
+		"in_reply_to_user_id": 2462627314,
+		"in_reply_to_user_id_str": "2462627314",
+		"in_reply_to_screen_name": "JonRyanCSP",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound…",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3114,
+			"friends_count": 4995,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1638010813",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JonRyanCSP @ashjamesphysio Brilliant!"
+	},
+	{
+		"created_at": "Thu Dec 09 14:50:23 +0000 2021",
+		"id": 1468954432075223000,
+		"id_str": "1468956196199485447",
+		"full_text": "The December 21 QI Evidence Update is now out! 🎄🎅👇\n\nhttps://t.co/eprDoTuMuU \n\n2⃣ pages of news &amp; research from the last month for #QITwitter. Check it out &amp; #pinchwithpride 🤏\n\nCompiled by @improvjess  &amp; I. Editable version to follow.\n \n@theQCommunity @FabNHSStuff @HorizonsNHS https://t.co/aZny9sdPfm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			288
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "QITwitter",
+					"indices": [
+						134,
+						144
+					]
+				},
+				{
+					"text": "pinchwithpride",
+					"indices": [
+						165,
+						180
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "improvjess",
+					"name": "Jess Pawley 🇪🇺🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇷🇨🇾",
+					"id": 3329676257,
+					"id_str": "3329676257",
+					"indices": [
+						196,
+						207
+					]
+				},
+				{
+					"screen_name": "theQCommunity",
+					"name": "The Q community",
+					"id": 782945860359426000,
+					"id_str": "782945860359426048",
+					"indices": [
+						248,
+						262
+					]
+				},
+				{
+					"screen_name": "FabNHSStuff",
+					"name": "AcademyOfFabStuff",
+					"id": 2989313567,
+					"id_str": "2989313567",
+					"indices": [
+						263,
+						275
+					]
+				},
+				{
+					"screen_name": "HorizonsNHS",
+					"name": "NHS Horizons",
+					"id": 2788044432,
+					"id_str": "2788044432",
+					"indices": [
+						276,
+						288
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eprDoTuMuU",
+					"expanded_url": "https://tinyurl.com/QI121",
+					"display_url": "tinyurl.com/QI121",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1468954042604814300,
+					"id_str": "1468954042604814338",
+					"indices": [
+						289,
+						312
+					],
+					"media_url": "http://pbs.twimg.com/media/FGLF6zzVgAIayGs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGLF6zzVgAIayGs.jpg",
+					"url": "https://t.co/aZny9sdPfm",
+					"display_url": "pic.twitter.com/aZny9sdPfm",
+					"expanded_url": "https://twitter.com/andreadgibbons/status/1468954432075223041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 468,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 559,
+							"h": 812,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 559,
+							"h": 812,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1468954042604814300,
+					"id_str": "1468954042604814338",
+					"indices": [
+						289,
+						312
+					],
+					"media_url": "http://pbs.twimg.com/media/FGLF6zzVgAIayGs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGLF6zzVgAIayGs.jpg",
+					"url": "https://t.co/aZny9sdPfm",
+					"display_url": "pic.twitter.com/aZny9sdPfm",
+					"expanded_url": "https://twitter.com/andreadgibbons/status/1468954432075223041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 468,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 559,
+							"h": 812,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 559,
+							"h": 812,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1468954042613198800,
+					"id_str": "1468954042613198850",
+					"indices": [
+						289,
+						312
+					],
+					"media_url": "http://pbs.twimg.com/media/FGLF6z1VcAIWFsA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FGLF6z1VcAIWFsA.jpg",
+					"url": "https://t.co/aZny9sdPfm",
+					"display_url": "pic.twitter.com/aZny9sdPfm",
+					"expanded_url": "https://twitter.com/andreadgibbons/status/1468954432075223041/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 449,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 535,
+							"h": 811,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 535,
+							"h": 811,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 328436361,
+			"id_str": "328436361",
+			"name": "Andrea Gibbons 💙",
+			"screen_name": "andreadgibbons",
+			"location": "Taunton, UK",
+			"description": "✳️#QExchange 2019 Winner ✳️@Evidence4QI cofounder ✳️PhD @BristolUni ✳️QI Coach ✳️@FabNHSStuff Ambassador  ✳️@LBS Exec MBA ✳️@UniofOxf Grad",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3672,
+			"friends_count": 3051,
+			"listed_count": 29,
+			"created_at": "Sun Jul 03 11:03:31 +0000 2011",
+			"favourites_count": 8252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3588,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1115224721350639617/zMF3jmLI_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115224721350639617/zMF3jmLI_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/328436361/1595261127",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 33,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The December 21 QI Evidence Update is now out! 🎄🎅👇\n\nhttps://t.co/eprDoTuMuU \n\n2⃣ pages of news &amp; research from the last month for #QITwitter. Check it out &amp; #pinchwithpride 🤏\n\nCompiled by @improvjess  &amp; I. Editable version to follow.\n \n@theQCommunity @FabNHSStuff @HorizonsNHS https://t.co/aZny9sdPfm"
+	},
+	{
+		"created_at": "Thu Dec 09 12:13:55 +0000 2021",
+		"id": 1468916819901747200,
+		"id_str": "1468916819901747200",
+		"full_text": "@CraigNikolic It is the tension between clearly identifying yourself and your interests versus self promotion/boasting/virtue signalling. The perils of social media …",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CraigNikolic",
+					"name": "Craig Nikolic",
+					"id": 1058288282503647200,
+					"id_str": "1058288282503647232",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1468877649644769300,
+		"in_reply_to_status_id_str": "1468877649644769280",
+		"in_reply_to_user_id": 1058288282503647200,
+		"in_reply_to_user_id_str": "1058288282503647232",
+		"in_reply_to_screen_name": "CraigNikolic",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound…",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3114,
+			"friends_count": 4995,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24206,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7685,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1638010813",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CraigNikolic It is the tension between clearly identifying yourself and your interests versus self promotion/boasting/virtue signalling. The perils of social media …"
+	},
+	{
 		"created_at": "Tue Dec 07 18:23:16 +0000 2021",
 		"id": 1468284993088675800,
 		"id_str": "1468284993088675847",
