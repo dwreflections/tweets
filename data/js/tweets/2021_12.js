@@ -1,6 +1,990 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Mon Dec 13 20:24:24 +0000 2021",
+		"id": 1470489804437704700,
+		"id_str": "1470489804437704708",
+		"full_text": "@PhilBoltonRN @UHDBDP @DigitalAhp @MelRheum Thank you, Phil! 👍",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhilBoltonRN",
+					"name": "Phil Bolton",
+					"id": 1188076842726690800,
+					"id_str": "1188076842726690817",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "UHDBDP",
+					"name": "UHDB Digital Services",
+					"id": 1060247346997538800,
+					"id_str": "1060247346997538816",
+					"indices": [
+						14,
+						21
+					]
+				},
+				{
+					"screen_name": "DigitalAhp",
+					"name": "DigitalAHP 💙",
+					"id": 1141015266844958700,
+					"id_str": "1141015266844958720",
+					"indices": [
+						22,
+						33
+					]
+				},
+				{
+					"screen_name": "MelRheum",
+					"name": "Melanie Martin",
+					"id": 897355466887622700,
+					"id_str": "897355466887622656",
+					"indices": [
+						34,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1470461487378583600,
+		"in_reply_to_status_id_str": "1470461487378583560",
+		"in_reply_to_user_id": 1188076842726690800,
+		"in_reply_to_user_id_str": "1188076842726690817",
+		"in_reply_to_screen_name": "PhilBoltonRN",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound…",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3117,
+			"friends_count": 5001,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1638010813",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PhilBoltonRN @UHDBDP @DigitalAhp @MelRheum Thank you, Phil! 👍"
+	},
+	{
+		"created_at": "Mon Dec 13 20:24:08 +0000 2021",
+		"id": 1470489739409215500,
+		"id_str": "1470489739409215499",
+		"full_text": "@ITnursey @AmeliaDigitalRN @UHDB_CCIO @D1oke @UHDBDP @aldaricojr @MElliott81 @staceylousuth80 @CathyWinfield @pearn_grace @gillogden66 Twitter Offical now @ITnursey 🤩👍",
+		"truncated": false,
+		"display_text_range": [
+			135,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ITnursey",
+					"name": "Kerry",
+					"id": 887281988390051800,
+					"id_str": "887281988390051841",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "AmeliaDigitalRN",
+					"name": "Amelia",
+					"id": 1456598513924644900,
+					"id_str": "1456598513924644866",
+					"indices": [
+						10,
+						26
+					]
+				},
+				{
+					"screen_name": "UHDB_CCIO",
+					"name": "UHDB CCIO",
+					"id": 1113109843756355600,
+					"id_str": "1113109843756355585",
+					"indices": [
+						27,
+						37
+					]
+				},
+				{
+					"screen_name": "D1oke",
+					"name": "Debbie Loke",
+					"id": 46218346,
+					"id_str": "46218346",
+					"indices": [
+						38,
+						44
+					]
+				},
+				{
+					"screen_name": "UHDBDP",
+					"name": "UHDB Digital Services",
+					"id": 1060247346997538800,
+					"id_str": "1060247346997538816",
+					"indices": [
+						45,
+						52
+					]
+				},
+				{
+					"screen_name": "aldaricojr",
+					"name": "Aldarico Jr Velasco",
+					"id": 1194609392446058500,
+					"id_str": "1194609392446058497",
+					"indices": [
+						53,
+						64
+					]
+				},
+				{
+					"screen_name": "MElliott81",
+					"name": "Matt Elliott",
+					"id": 2227027164,
+					"id_str": "2227027164",
+					"indices": [
+						65,
+						76
+					]
+				},
+				{
+					"screen_name": "staceylousuth80",
+					"name": "Staceylou Suth 🌈👨‍👩‍👦 ♥️🧡💛💚💙💜",
+					"id": 2765497290,
+					"id_str": "2765497290",
+					"indices": [
+						77,
+						93
+					]
+				},
+				{
+					"screen_name": "CathyWinfield",
+					"name": "Cathy Winfield MBE, RN, MSc💙",
+					"id": 2188050351,
+					"id_str": "2188050351",
+					"indices": [
+						94,
+						108
+					]
+				},
+				{
+					"screen_name": "pearn_grace",
+					"name": "Grace Pearn",
+					"id": 3337615893,
+					"id_str": "3337615893",
+					"indices": [
+						109,
+						121
+					]
+				},
+				{
+					"screen_name": "gillogden66",
+					"name": "Gill Ogden",
+					"id": 752424641495466000,
+					"id_str": "752424641495465984",
+					"indices": [
+						122,
+						134
+					]
+				},
+				{
+					"screen_name": "ITnursey",
+					"name": "Kerry",
+					"id": 887281988390051800,
+					"id_str": "887281988390051841",
+					"indices": [
+						155,
+						164
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1470474490354274300,
+		"in_reply_to_status_id_str": "1470474490354274313",
+		"in_reply_to_user_id": 887281988390051800,
+		"in_reply_to_user_id_str": "887281988390051841",
+		"in_reply_to_screen_name": "ITnursey",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound…",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3117,
+			"friends_count": 5001,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1638010813",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ITnursey @AmeliaDigitalRN @UHDB_CCIO @D1oke @UHDBDP @aldaricojr @MElliott81 @staceylousuth80 @CathyWinfield @pearn_grace @gillogden66 Twitter Offical now @ITnursey 🤩👍"
+	},
+	{
+		"created_at": "Mon Dec 13 20:23:49 +0000 2021",
+		"id": 1470474490354274300,
+		"id_str": "1470489659478261768",
+		"full_text": "WOOHOO been waiting to tell everyone 💫 🙌 😀 So pleased you are joining us David @AmeliaDigitalRN @UHDB_CCIO @D1oke @UHDBDP @aldaricojr @MElliott81 @staceylousuth80 @CathyWinfield @pearn_grace  @gillogden66 👏👏👏👏👏👏👏 https://t.co/ZvvP97VIDU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AmeliaDigitalRN",
+					"name": "Amelia",
+					"id": 1456598513924644900,
+					"id_str": "1456598513924644866",
+					"indices": [
+						79,
+						95
+					]
+				},
+				{
+					"screen_name": "UHDB_CCIO",
+					"name": "UHDB CCIO",
+					"id": 1113109843756355600,
+					"id_str": "1113109843756355585",
+					"indices": [
+						96,
+						106
+					]
+				},
+				{
+					"screen_name": "D1oke",
+					"name": "Debbie Loke",
+					"id": 46218346,
+					"id_str": "46218346",
+					"indices": [
+						107,
+						113
+					]
+				},
+				{
+					"screen_name": "UHDBDP",
+					"name": "UHDB Digital Services",
+					"id": 1060247346997538800,
+					"id_str": "1060247346997538816",
+					"indices": [
+						114,
+						121
+					]
+				},
+				{
+					"screen_name": "aldaricojr",
+					"name": "Aldarico Jr Velasco",
+					"id": 1194609392446058500,
+					"id_str": "1194609392446058497",
+					"indices": [
+						122,
+						133
+					]
+				},
+				{
+					"screen_name": "MElliott81",
+					"name": "Matt Elliott",
+					"id": 2227027164,
+					"id_str": "2227027164",
+					"indices": [
+						134,
+						145
+					]
+				},
+				{
+					"screen_name": "staceylousuth80",
+					"name": "Staceylou Suth 🌈👨‍👩‍👦 ♥️🧡💛💚💙💜",
+					"id": 2765497290,
+					"id_str": "2765497290",
+					"indices": [
+						146,
+						162
+					]
+				},
+				{
+					"screen_name": "CathyWinfield",
+					"name": "Cathy Winfield MBE, RN, MSc💙",
+					"id": 2188050351,
+					"id_str": "2188050351",
+					"indices": [
+						163,
+						177
+					]
+				},
+				{
+					"screen_name": "pearn_grace",
+					"name": "Grace Pearn",
+					"id": 3337615893,
+					"id_str": "3337615893",
+					"indices": [
+						178,
+						190
+					]
+				},
+				{
+					"screen_name": "gillogden66",
+					"name": "Gill Ogden",
+					"id": 752424641495466000,
+					"id_str": "752424641495465984",
+					"indices": [
+						192,
+						204
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZvvP97VIDU",
+					"expanded_url": "https://twitter.com/beardedPT/status/1470440629675208705",
+					"display_url": "twitter.com/beardedPT/stat…",
+					"indices": [
+						213,
+						236
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887281988390051800,
+			"id_str": "887281988390051841",
+			"name": "Kerry",
+			"screen_name": "ITnursey",
+			"location": "Derby, England",
+			"description": "Nurse Acting CNIO Digital CSO @UHDB V proud mum 👩‍👦‍👦 and then some🏃‍♀️⛷keeper  of 🐝🐝 ❤ learn Own Views RT not endorsement or 🧐 research of tweeters CV",
+			"url": "https://t.co/al8ZvJoKWi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/al8ZvJoKWi",
+							"expanded_url": "https://www.uhdb.nhs.uk",
+							"display_url": "uhdb.nhs.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 165,
+			"friends_count": 336,
+			"listed_count": 3,
+			"created_at": "Tue Jul 18 12:04:45 +0000 2017",
+			"favourites_count": 2250,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 478,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/887284421258354688/LM0YwH3i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/887284421258354688/LM0YwH3i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887281988390051841/1554233102",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1470440629675208700,
+		"quoted_status_id_str": "1470440629675208705",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZvvP97VIDU",
+			"expanded": "https://twitter.com/beardedPT/status/1470440629675208705",
+			"display": "twitter.com/beardedPT/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Dec 13 17:09:00 +0000 2021",
+			"id": 1470440629675208700,
+			"id_str": "1470440629675208705",
+			"full_text": "Exciting news! I will be joining the Clinic Digital Team @UHDBDP as their first #AHP in the New Year. Slightly apprehensive but excited by the challenge.\n\nAny advice/connections 4 an aspiring #DigitalAHP: things 2 do in my first 100 days, to read &amp; to do… @DigitalAhp @MelRheum https://t.co/Uxwn7nqX2z",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				281
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AHP",
+						"indices": [
+							80,
+							84
+						]
+					},
+					{
+						"text": "DigitalAHP",
+						"indices": [
+							192,
+							203
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UHDBDP",
+						"name": "UHDB Digital Services",
+						"id": 1060247346997538800,
+						"id_str": "1060247346997538816",
+						"indices": [
+							57,
+							64
+						]
+					},
+					{
+						"screen_name": "DigitalAhp",
+						"name": "DigitalAHP 💙",
+						"id": 1141015266844958700,
+						"id_str": "1141015266844958720",
+						"indices": [
+							260,
+							271
+						]
+					},
+					{
+						"screen_name": "MelRheum",
+						"name": "Melanie Martin",
+						"id": 897355466887622700,
+						"id_str": "897355466887622656",
+						"indices": [
+							272,
+							281
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1470440622309920800,
+						"id_str": "1470440622309920774",
+						"indices": [
+							282,
+							305
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FGgN9IwWUAYFcP7.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FGgN9IwWUAYFcP7.jpg",
+						"url": "https://t.co/Uxwn7nqX2z",
+						"display_url": "pic.twitter.com/Uxwn7nqX2z",
+						"expanded_url": "https://twitter.com/beardedPT/status/1470440629675208705/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 370,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 370,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 370,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1470440622309920800,
+						"id_str": "1470440622309920774",
+						"indices": [
+							282,
+							305
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FGgN9IwWUAYFcP7.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FGgN9IwWUAYFcP7.jpg",
+						"url": "https://t.co/Uxwn7nqX2z",
+						"display_url": "pic.twitter.com/Uxwn7nqX2z",
+						"expanded_url": "https://twitter.com/beardedPT/status/1470440629675208705/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 500,
+								"h": 370,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 500,
+								"h": 370,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 500,
+								"h": 370,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								50,
+								37
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/FGgN9IwWUAYFcP7.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3377750235,
+				"id_str": "3377750235",
+				"name": "David Williams",
+				"screen_name": "beardedPT",
+				"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+				"description": "Mostly walking my greyhound…",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3117,
+				"friends_count": 5001,
+				"listed_count": 20,
+				"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+				"favourites_count": 24196,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7689,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1638010813",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 36,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WOOHOO been waiting to tell everyone 💫 🙌 😀 So pleased you are joining us David @AmeliaDigitalRN @UHDB_CCIO @D1oke @UHDBDP @aldaricojr @MElliott81 @staceylousuth80 @CathyWinfield @pearn_grace  @gillogden66 👏👏👏👏👏👏👏 https://t.co/ZvvP97VIDU"
+	},
+	{
+		"created_at": "Mon Dec 13 17:09:00 +0000 2021",
+		"id": 1470440629675208700,
+		"id_str": "1470440629675208705",
+		"full_text": "Exciting news! I will be joining the Clinic Digital Team @UHDBDP as their first #AHP in the New Year. Slightly apprehensive but excited by the challenge.\n\nAny advice/connections 4 an aspiring #DigitalAHP: things 2 do in my first 100 days, to read &amp; to do… @DigitalAhp @MelRheum https://t.co/Uxwn7nqX2z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AHP",
+					"indices": [
+						80,
+						84
+					]
+				},
+				{
+					"text": "DigitalAHP",
+					"indices": [
+						192,
+						203
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UHDBDP",
+					"name": "UHDB Digital Services",
+					"id": 1060247346997538800,
+					"id_str": "1060247346997538816",
+					"indices": [
+						57,
+						64
+					]
+				},
+				{
+					"screen_name": "DigitalAhp",
+					"name": "DigitalAHP 💙",
+					"id": 1141015266844958700,
+					"id_str": "1141015266844958720",
+					"indices": [
+						260,
+						271
+					]
+				},
+				{
+					"screen_name": "MelRheum",
+					"name": "Melanie Martin",
+					"id": 897355466887622700,
+					"id_str": "897355466887622656",
+					"indices": [
+						272,
+						281
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1470440622309920800,
+					"id_str": "1470440622309920774",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FGgN9IwWUAYFcP7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FGgN9IwWUAYFcP7.jpg",
+					"url": "https://t.co/Uxwn7nqX2z",
+					"display_url": "pic.twitter.com/Uxwn7nqX2z",
+					"expanded_url": "https://twitter.com/beardedPT/status/1470440629675208705/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 370,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 370,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1470440622309920800,
+					"id_str": "1470440622309920774",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FGgN9IwWUAYFcP7.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FGgN9IwWUAYFcP7.jpg",
+					"url": "https://t.co/Uxwn7nqX2z",
+					"display_url": "pic.twitter.com/Uxwn7nqX2z",
+					"expanded_url": "https://twitter.com/beardedPT/status/1470440629675208705/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 500,
+							"h": 370,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 500,
+							"h": 370,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 500,
+							"h": 370,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							50,
+							37
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FGgN9IwWUAYFcP7.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound…",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3117,
+			"friends_count": 5001,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24196,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1638010813",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Exciting news! I will be joining the Clinic Digital Team @UHDBDP as their first #AHP in the New Year. Slightly apprehensive but excited by the challenge.\n\nAny advice/connections 4 an aspiring #DigitalAHP: things 2 do in my first 100 days, to read &amp; to do… @DigitalAhp @MelRheum https://t.co/Uxwn7nqX2z"
+	},
+	{
 		"created_at": "Sun Dec 12 09:35:58 +0000 2021",
 		"id": 1469964231684628500,
 		"id_str": "1469964231684628486",
