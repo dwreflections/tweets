@@ -1,6 +1,160 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Thu Dec 16 09:26:18 +0000 2021",
+		"id": 1471411352426188800,
+		"id_str": "1471411352426188803",
+		"full_text": "@RobYeldham @AlexMacKenzie11 @natbeswetherick @ashjamesphysio @GillRphysio Fabulous news! Congratulations @ashjamesphysio - I know all of us at the professional committee are excited to be working with you. Finally, thank you @natbeswetherick for everything 👏",
+		"truncated": false,
+		"display_text_range": [
+			75,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RobYeldham",
+					"name": "Rob Yeldham",
+					"id": 722676146,
+					"id_str": "722676146",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "AlexMacKenzie11",
+					"name": "Alex Mackenzie 💙 She/her",
+					"id": 457442958,
+					"id_str": "457442958",
+					"indices": [
+						12,
+						28
+					]
+				},
+				{
+					"screen_name": "natbeswetherick",
+					"name": "Natalie Beswetherick (She/her)",
+					"id": 564572494,
+					"id_str": "564572494",
+					"indices": [
+						29,
+						45
+					]
+				},
+				{
+					"screen_name": "ashjamesphysio",
+					"name": "Ash James 💭",
+					"id": 597553260,
+					"id_str": "597553260",
+					"indices": [
+						46,
+						61
+					]
+				},
+				{
+					"screen_name": "GillRphysio",
+					"name": "Gillian Rawlinson",
+					"id": 3389030231,
+					"id_str": "3389030231",
+					"indices": [
+						62,
+						74
+					]
+				},
+				{
+					"screen_name": "ashjamesphysio",
+					"name": "Ash James 💭",
+					"id": 597553260,
+					"id_str": "597553260",
+					"indices": [
+						106,
+						121
+					]
+				},
+				{
+					"screen_name": "natbeswetherick",
+					"name": "Natalie Beswetherick (She/her)",
+					"id": 564572494,
+					"id_str": "564572494",
+					"indices": [
+						226,
+						242
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1471398511849713700,
+		"in_reply_to_status_id_str": "1471398511849713669",
+		"in_reply_to_user_id": 722676146,
+		"in_reply_to_user_id_str": "722676146",
+		"in_reply_to_screen_name": "RobYeldham",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Physio; Mostly walking my greyhound; many committees; post grad student; Often tweets: #AHP, #leadership, health/public policy; Interest: ☕️, politics & society",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3120,
+			"friends_count": 5001,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24231,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7709,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1638010813",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RobYeldham @AlexMacKenzie11 @natbeswetherick @ashjamesphysio @GillRphysio Fabulous news! Congratulations @ashjamesphysio - I know all of us at the professional committee are excited to be working with you. Finally, thank you @natbeswetherick for everything 👏"
+	},
+	{
 		"created_at": "Wed Dec 15 17:44:44 +0000 2021",
 		"id": 1471174399944503300,
 		"id_str": "1471174399944503299",
