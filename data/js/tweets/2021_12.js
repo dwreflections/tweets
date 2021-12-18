@@ -1,6 +1,150 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 17 12:26:39 +0000 2021",
+		"id": 1471819127979487200,
+		"id_str": "1471819127979487248",
+		"full_text": "@AliToft @SharonAIO @tamsinelwood @UHDBDP @DigitalAhp @MelRheum Me too! Have a great Christmas 🎄",
+		"truncated": false,
+		"display_text_range": [
+			64,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AliToft",
+					"name": "Ali Toft",
+					"id": 1115317600479846400,
+					"id_str": "1115317600479846400",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "SharonAIO",
+					"name": "Sharon Campana",
+					"id": 1146669036341813200,
+					"id_str": "1146669036341813250",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"screen_name": "tamsinelwood",
+					"name": "Tamsin Elwood",
+					"id": 788347332299460600,
+					"id_str": "788347332299460608",
+					"indices": [
+						20,
+						33
+					]
+				},
+				{
+					"screen_name": "UHDBDP",
+					"name": "UHDB Digital Services",
+					"id": 1060247346997538800,
+					"id_str": "1060247346997538816",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"screen_name": "DigitalAhp",
+					"name": "DigitalAHP 💙",
+					"id": 1141015266844958700,
+					"id_str": "1141015266844958720",
+					"indices": [
+						42,
+						53
+					]
+				},
+				{
+					"screen_name": "MelRheum",
+					"name": "Melanie Martin",
+					"id": 897355466887622700,
+					"id_str": "897355466887622656",
+					"indices": [
+						54,
+						63
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1471547851289370600,
+		"in_reply_to_status_id_str": "1471547851289370634",
+		"in_reply_to_user_id": 1115317600479846400,
+		"in_reply_to_user_id_str": "1115317600479846400",
+		"in_reply_to_screen_name": "AliToft",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Physio; Mostly walking my greyhound; many committees; post grad student; Often tweets: #AHP, #leadership, health/public policy; Interest: ☕️, politics & society",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3119,
+			"friends_count": 5000,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24233,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7710,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1465434638231523328/w6845w7A_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1638010813",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AliToft @SharonAIO @tamsinelwood @UHDBDP @DigitalAhp @MelRheum Me too! Have a great Christmas 🎄"
+	},
+	{
 		"created_at": "Thu Dec 16 09:26:18 +0000 2021",
 		"id": 1471411352426188800,
 		"id_str": "1471411352426188803",
