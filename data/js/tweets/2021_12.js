@@ -1,10 +1,811 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Tue Dec 21 21:49:12 +0000 2021",
+		"id": 1473410246743937000,
+		"id_str": "1473410246743937039",
+		"full_text": "@drmdsmith @jtweeterson @TurtonsOther @MrJohnMBennett @placemat_the I’m assuming he will be wearing the obligatory stethoscope as an accessory. He is a doctor after all…",
+		"truncated": false,
+		"display_text_range": [
+			68,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drmdsmith",
+					"name": "Mike Smith",
+					"id": 4039208297,
+					"id_str": "4039208297",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "jtweeterson",
+					"name": "Julian Patterson",
+					"id": 174230433,
+					"id_str": "174230433",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "TurtonsOther",
+					"name": "Pete Turton’s Other Account",
+					"id": 794599144107216900,
+					"id_str": "794599144107216898",
+					"indices": [
+						24,
+						37
+					]
+				},
+				{
+					"screen_name": "MrJohnMBennett",
+					"name": "John B",
+					"id": 1237051596405604400,
+					"id_str": "1237051596405604353",
+					"indices": [
+						38,
+						53
+					]
+				},
+				{
+					"screen_name": "placemat_the",
+					"name": "The Placemat",
+					"id": 1372328725212192800,
+					"id_str": "1372328725212192768",
+					"indices": [
+						54,
+						67
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1473408291288060000,
+		"in_reply_to_status_id_str": "1473408291288059904",
+		"in_reply_to_user_id": 4039208297,
+		"in_reply_to_user_id_str": "4039208297",
+		"in_reply_to_screen_name": "drmdsmith",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🎅🏻",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3117,
+			"friends_count": 4999,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1472989534828777472/MOhDcsM1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1472989534828777472/MOhDcsM1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640016315",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@drmdsmith @jtweeterson @TurtonsOther @MrJohnMBennett @placemat_the I’m assuming he will be wearing the obligatory stethoscope as an accessory. He is a doctor after all…"
+	},
+	{
+		"created_at": "Tue Dec 21 21:37:26 +0000 2021",
+		"id": 1473407289235329000,
+		"id_str": "1473407289235329034",
+		"full_text": "@TurtonsOther @MrJohnMBennett @jtweeterson @placemat_the @drmdsmith #FreePete",
+		"truncated": false,
+		"display_text_range": [
+			68,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "FreePete",
+					"indices": [
+						68,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TurtonsOther",
+					"name": "Pete Turton’s Other Account",
+					"id": 794599144107216900,
+					"id_str": "794599144107216898",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "MrJohnMBennett",
+					"name": "John B",
+					"id": 1237051596405604400,
+					"id_str": "1237051596405604353",
+					"indices": [
+						14,
+						29
+					]
+				},
+				{
+					"screen_name": "jtweeterson",
+					"name": "Julian Patterson",
+					"id": 174230433,
+					"id_str": "174230433",
+					"indices": [
+						30,
+						42
+					]
+				},
+				{
+					"screen_name": "placemat_the",
+					"name": "The Placemat",
+					"id": 1372328725212192800,
+					"id_str": "1372328725212192768",
+					"indices": [
+						43,
+						56
+					]
+				},
+				{
+					"screen_name": "drmdsmith",
+					"name": "Mike Smith",
+					"id": 4039208297,
+					"id_str": "4039208297",
+					"indices": [
+						57,
+						67
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1473402075300176000,
+		"in_reply_to_status_id_str": "1473402075300175879",
+		"in_reply_to_user_id": 794599144107216900,
+		"in_reply_to_user_id_str": "794599144107216898",
+		"in_reply_to_screen_name": "TurtonsOther",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🎅🏻",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3117,
+			"friends_count": 4999,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1472989534828777472/MOhDcsM1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1472989534828777472/MOhDcsM1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640016315",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@TurtonsOther @MrJohnMBennett @jtweeterson @placemat_the @drmdsmith #FreePete"
+	},
+	{
+		"created_at": "Tue Dec 21 17:45:09 +0000 2021",
+		"id": 1473348831542710300,
+		"id_str": "1473348831542710274",
+		"full_text": "@HarryJam7 The killer blow 😮‍💨",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HarryJam7",
+					"name": "Harry",
+					"id": 1182955372413366300,
+					"id_str": "1182955372413366272",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1473325694931325000,
+		"in_reply_to_status_id_str": "1473325694931324931",
+		"in_reply_to_user_id": 1182955372413366300,
+		"in_reply_to_user_id_str": "1182955372413366272",
+		"in_reply_to_screen_name": "HarryJam7",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🎅🏻",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3117,
+			"friends_count": 4999,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1472989534828777472/MOhDcsM1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1472989534828777472/MOhDcsM1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640016315",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@HarryJam7 The killer blow 😮‍💨"
+	},
+	{
+		"created_at": "Tue Dec 21 17:41:57 +0000 2021",
+		"id": 1473348027934982100,
+		"id_str": "1473348027934982150",
+		"full_text": "@JohnLauner I’ll give this a listen just for the Lipsky reference 👍",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JohnLauner",
+					"name": "John Launer",
+					"id": 379355634,
+					"id_str": "379355634",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1473343572535660500,
+		"in_reply_to_status_id_str": "1473343572535660550",
+		"in_reply_to_user_id": 379355634,
+		"in_reply_to_user_id_str": "379355634",
+		"in_reply_to_screen_name": "JohnLauner",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🎅🏻",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3117,
+			"friends_count": 4999,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1472989534828777472/MOhDcsM1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1472989534828777472/MOhDcsM1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640016315",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JohnLauner I’ll give this a listen just for the Lipsky reference 👍"
+	},
+	{
+		"created_at": "Tue Dec 21 17:27:56 +0000 2021",
+		"id": 1473344498327593000,
+		"id_str": "1473344498327592961",
+		"full_text": "@placemat_the @drmdsmith @jtweeterson @MrJohnMBennett Where was @TurtonsOther ? 😭",
+		"truncated": false,
+		"display_text_range": [
+			54,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "placemat_the",
+					"name": "The Placemat",
+					"id": 1372328725212192800,
+					"id_str": "1372328725212192768",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "drmdsmith",
+					"name": "Mike Smith",
+					"id": 4039208297,
+					"id_str": "4039208297",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "jtweeterson",
+					"name": "Julian Patterson",
+					"id": 174230433,
+					"id_str": "174230433",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "MrJohnMBennett",
+					"name": "John B",
+					"id": 1237051596405604400,
+					"id_str": "1237051596405604353",
+					"indices": [
+						38,
+						53
+					]
+				},
+				{
+					"screen_name": "TurtonsOther",
+					"name": "Pete Turton’s Other Account",
+					"id": 794599144107216900,
+					"id_str": "794599144107216898",
+					"indices": [
+						64,
+						77
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1473303283737505800,
+		"in_reply_to_status_id_str": "1473303283737505800",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🎅🏻",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3117,
+			"friends_count": 4999,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1472989534828777472/MOhDcsM1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1472989534828777472/MOhDcsM1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640016315",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@placemat_the @drmdsmith @jtweeterson @MrJohnMBennett Where was @TurtonsOther ? 😭"
+	},
+	{
+		"created_at": "Tue Dec 21 14:44:10 +0000 2021",
+		"id": 1473303283737505800,
+		"id_str": "1473303283737505800",
+		"full_text": "@placemat_the @drmdsmith @jtweeterson @MrJohnMBennett 👍👏 https://t.co/4WUwV7lilF",
+		"truncated": false,
+		"display_text_range": [
+			54,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "placemat_the",
+					"name": "The Placemat",
+					"id": 1372328725212192800,
+					"id_str": "1372328725212192768",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "drmdsmith",
+					"name": "Mike Smith",
+					"id": 4039208297,
+					"id_str": "4039208297",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "jtweeterson",
+					"name": "Julian Patterson",
+					"id": 174230433,
+					"id_str": "174230433",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "MrJohnMBennett",
+					"name": "John B",
+					"id": 1237051596405604400,
+					"id_str": "1237051596405604353",
+					"indices": [
+						38,
+						53
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1473303279811580000,
+					"id_str": "1473303279811579906",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/FHI5hu-WUAIPgXu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHI5hu-WUAIPgXu.jpg",
+					"url": "https://t.co/4WUwV7lilF",
+					"display_url": "pic.twitter.com/4WUwV7lilF",
+					"expanded_url": "https://twitter.com/beardedPT/status/1473303283737505800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1473303279811580000,
+					"id_str": "1473303279811579906",
+					"indices": [
+						57,
+						80
+					],
+					"media_url": "http://pbs.twimg.com/media/FHI5hu-WUAIPgXu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHI5hu-WUAIPgXu.jpg",
+					"url": "https://t.co/4WUwV7lilF",
+					"display_url": "pic.twitter.com/4WUwV7lilF",
+					"expanded_url": "https://twitter.com/beardedPT/status/1473303283737505800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1473279172474716200,
+		"in_reply_to_status_id_str": "1473279172474716166",
+		"in_reply_to_user_id": 1372328725212192800,
+		"in_reply_to_user_id_str": "1372328725212192768",
+		"in_reply_to_screen_name": "placemat_the",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🎅🏻",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3117,
+			"friends_count": 4999,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24283,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7732,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1472989534828777472/MOhDcsM1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1472989534828777472/MOhDcsM1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640016315",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@placemat_the @drmdsmith @jtweeterson @MrJohnMBennett 👍👏 https://t.co/4WUwV7lilF"
+	},
+	{
 		"created_at": "Mon Dec 20 22:17:51 +0000 2021",
 		"id": 1473055071474794500,
 		"id_str": "1473055071474794503",
-		"full_text": "@athom01 @Irish_Physio @joerogan “Just listen to the podcast &amp; make up your own mind” … 😵‍💫",
+		"full_text": "@athom01 @Irish_Physio @joerogan “Just listen to the podcast &amp; make up your own mind” … 😵💫",
 		"truncated": false,
 		"display_text_range": [
 			33,
@@ -112,7 +913,7 @@ Grailbird.data.tweets_2021_12 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@athom01 @Irish_Physio @joerogan “Just listen to the podcast &amp; make up your own mind” … 😵‍💫"
+		"text": "@athom01 @Irish_Physio @joerogan “Just listen to the podcast &amp; make up your own mind” … 😵💫"
 	},
 	{
 		"created_at": "Mon Dec 20 18:27:29 +0000 2021",
