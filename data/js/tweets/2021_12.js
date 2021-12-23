@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Wed Dec 22 22:23:29 +0000 2021",
+		"id": 1472838577771794400,
+		"id_str": "1473781262292766736",
+		"full_text": "Here is the link to download a free pdf of Physiotherapy Otherwise.\n\nhttps://t.co/z6iAmEqDm3 \n\nPlease feel free to share. \n\nHappy holidays. https://t.co/bxkqIgkVMf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z6iAmEqDm3",
+					"expanded_url": "https://ojs.aut.ac.nz/tuwhera-open-monographs/catalog/book/8",
+					"display_url": "ojs.aut.ac.nz/tuwhera-open-m…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1472838456204165000,
+					"id_str": "1472838456204165122",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FHCSxcGVgAINDYc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHCSxcGVgAINDYc.jpg",
+					"url": "https://t.co/bxkqIgkVMf",
+					"display_url": "pic.twitter.com/bxkqIgkVMf",
+					"expanded_url": "https://twitter.com/DaveNicholls3/status/1472838577771794436/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 177,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 313,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1919,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1472838456204165000,
+					"id_str": "1472838456204165122",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FHCSxcGVgAINDYc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FHCSxcGVgAINDYc.jpg",
+					"url": "https://t.co/bxkqIgkVMf",
+					"display_url": "pic.twitter.com/bxkqIgkVMf",
+					"expanded_url": "https://twitter.com/DaveNicholls3/status/1472838577771794436/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 177,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 313,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1919,
+							"h": 500,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 841364742,
+			"id_str": "841364742",
+			"name": "Dave Nicholls",
+			"screen_name": "DaveNicholls3",
+			"location": "Auckland, New Zealand",
+			"description": "Professor of critical physiotherapy with strong interest in history, social sciences, philosophy and Wolverhampton Wanderers. All opinions are Foucault's.",
+			"url": "https://t.co/us3oujPdhE",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/us3oujPdhE",
+							"expanded_url": "http://www.criticalphysio.net",
+							"display_url": "criticalphysio.net",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1967,
+			"friends_count": 499,
+			"listed_count": 57,
+			"created_at": "Sun Sep 23 09:27:37 +0000 2012",
+			"favourites_count": 1450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5212,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1252184381759688705/miU2T7Fz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1252184381759688705/miU2T7Fz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/841364742/1587378996",
+			"profile_link_color": "FAB81E",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "0084B4",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 82,
+		"favorite_count": 153,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here is the link to download a free pdf of Physiotherapy Otherwise.\n\nhttps://t.co/z6iAmEqDm3 \n\nPlease feel free to share. \n\nHappy holidays. https://t.co/bxkqIgkVMf"
+	},
+	{
 		"created_at": "Tue Dec 21 21:49:12 +0000 2021",
 		"id": 1473410246743937000,
 		"id_str": "1473410246743937039",
@@ -280,7 +465,7 @@ Grailbird.data.tweets_2021_12 =
 		"created_at": "Tue Dec 21 17:45:09 +0000 2021",
 		"id": 1473348831542710300,
 		"id_str": "1473348831542710274",
-		"full_text": "@HarryJam7 The killer blow 😮‍💨",
+		"full_text": "@HarryJam7 The killer blow 😮💨",
 		"truncated": false,
 		"display_text_range": [
 			11,
@@ -368,7 +553,7 @@ Grailbird.data.tweets_2021_12 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "@HarryJam7 The killer blow 😮‍💨"
+		"text": "@HarryJam7 The killer blow 😮💨"
 	},
 	{
 		"created_at": "Tue Dec 21 17:41:57 +0000 2021",
