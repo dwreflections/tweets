@@ -1,6 +1,110 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Fri Dec 24 17:14:27 +0000 2021",
+		"id": 1474394011494490000,
+		"id_str": "1474428267083960320",
+		"full_text": "My partner had a phone consultation with  physio today. Really pleased with the details discussed and the info emailed over afterwards.  Great to hear it was @beardedPT at @UHDBTrust   Thanks for that great consultation ⭐️",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams 🎅🏻",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						158,
+						168
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						172,
+						182
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1858642410,
+			"id_str": "1858642410",
+			"name": "Dr Jan Royal-Fearn",
+			"screen_name": "JanRoyalFearn",
+			"location": "Derby, England",
+			"description": "Practice learning lead @derbyuni health and social care. Proud nurse educator. knows #SSSA stuff. @petsastherapy volunteer. beach lover. All views my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 669,
+			"friends_count": 272,
+			"listed_count": 2,
+			"created_at": "Thu Sep 12 21:56:42 +0000 2013",
+			"favourites_count": 4074,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/840837176237707265/CzS4hOmO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/840837176237707265/CzS4hOmO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1858642410/1630526690",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "My partner had a phone consultation with  physio today. Really pleased with the details discussed and the info emailed over afterwards.  Great to hear it was @beardedPT at @UHDBTrust   Thanks for that great consultation ⭐️"
+	},
+	{
 		"created_at": "Thu Dec 23 20:09:03 +0000 2021",
 		"id": 1474109820361973800,
 		"id_str": "1474109820361973767",
@@ -151,7 +255,7 @@ Grailbird.data.tweets_2021_12 =
 				"name": "Arron Thind",
 				"screen_name": "ArronThind",
 				"location": "",
-				"description": "🩺GP trainee in London\n🚀https://t.co/UrFLnLt9dx Fellow & NHS Clinical Entrepreneur\n💻@Code_Med_ cofounder\n‎‍🏫@KingsCollegeLon tutor\n🎓@UniofOxford alumnus",
+				"description": "🩺GP trainee in London\n🚀https://t.co/UrFLnLt9dx Fellow & NHS Clinical Entrepreneur\n💻@Code_Med_ cofounder\n🏫@KingsCollegeLon tutor\n🎓@UniofOxford alumnus",
 				"url": "https://t.co/Q7Zf0DvHlw",
 				"entities": {
 					"url": {
@@ -346,7 +450,7 @@ Grailbird.data.tweets_2021_12 =
 			"user_mentions": [
 				{
 					"screen_name": "AmyOverend",
-					"name": "Amy 🏴‍☠️ 💙🧩",
+					"name": "Amy 🏴☠️ 💙🧩",
 					"id": 20449649,
 					"id_str": "20449649",
 					"indices": [
