@@ -1,6 +1,224 @@
 Grailbird.data.tweets_2021_12 = 
 [
 	{
+		"created_at": "Sun Dec 26 18:01:48 +0000 2021",
+		"id": 1475164960284192800,
+		"id_str": "1475164960284192779",
+		"full_text": "@BrianWebster18 @primevideouk @NetflixUK @disneyplus Dopesick",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BrianWebster18",
+					"name": "Brian Webster Cert HSC (Open) BSc (Hons) RN",
+					"id": 988666375,
+					"id_str": "988666375",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "primevideouk",
+					"name": "Amazon Prime Video UK",
+					"id": 19338359,
+					"id_str": "19338359",
+					"indices": [
+						16,
+						29
+					]
+				},
+				{
+					"screen_name": "NetflixUK",
+					"name": "Netflix UK & Ireland",
+					"id": 231183280,
+					"id_str": "231183280",
+					"indices": [
+						30,
+						40
+					]
+				},
+				{
+					"screen_name": "disneyplus",
+					"name": "Disney+",
+					"id": 985916593065476100,
+					"id_str": "985916593065476096",
+					"indices": [
+						41,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1475157750770323500,
+		"in_reply_to_status_id_str": "1475157750770323457",
+		"in_reply_to_user_id": 988666375,
+		"in_reply_to_user_id_str": "988666375",
+		"in_reply_to_screen_name": "BrianWebster18",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🎅🏻",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3125,
+			"friends_count": 4999,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7748,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1472989534828777472/MOhDcsM1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1472989534828777472/MOhDcsM1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640016315",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BrianWebster18 @primevideouk @NetflixUK @disneyplus Dopesick"
+	},
+	{
+		"created_at": "Sun Dec 26 14:35:29 +0000 2021",
+		"id": 1475113038789456000,
+		"id_str": "1475113038789455875",
+		"full_text": "@jrhopkin Watching this thread 👀 😊",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jrhopkin",
+					"name": "Jonathan Hopkin",
+					"id": 268363951,
+					"id_str": "268363951",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1475101469284180000,
+		"in_reply_to_status_id_str": "1475101469284179970",
+		"in_reply_to_user_id": 268363951,
+		"in_reply_to_user_id_str": "268363951",
+		"in_reply_to_screen_name": "jrhopkin",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🎅🏻",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3125,
+			"friends_count": 4999,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24337,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7748,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1472989534828777472/MOhDcsM1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1472989534828777472/MOhDcsM1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640016315",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jrhopkin Watching this thread 👀 😊"
+	},
+	{
 		"created_at": "Fri Dec 24 17:14:27 +0000 2021",
 		"id": 1474394011494490000,
 		"id_str": "1474428267083960320",
