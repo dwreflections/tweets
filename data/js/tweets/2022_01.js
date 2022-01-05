@@ -1,6 +1,465 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 04 20:21:29 +0000 2022",
+		"id": 1478461603628695600,
+		"id_str": "1478461603628695553",
+		"full_text": "@BrianWebster18 Any by @pushkinpods or @WonderyMedia are gold standard 👍\n\nI tend to always listen to Foreign Policy playlist, Westminster insider, HSJ Healthcheck and The political party. I’ve recent started listening to You are not a frog, Pod Save the world &amp; How to fail \n\nhorses 4 courses…",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			297
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BrianWebster18",
+					"name": "Brian Webster Cert HSC (Open) BSc (Hons) RN",
+					"id": 988666375,
+					"id_str": "988666375",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "pushkinpods",
+					"name": "Pushkin Industries 🎙️",
+					"id": 1093211541695094800,
+					"id_str": "1093211541695094786",
+					"indices": [
+						23,
+						35
+					]
+				},
+				{
+					"screen_name": "WonderyMedia",
+					"name": "Wondery",
+					"id": 4785375981,
+					"id_str": "4785375981",
+					"indices": [
+						39,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1478107428998815700,
+		"in_reply_to_status_id_str": "1478107428998815745",
+		"in_reply_to_user_id": 988666375,
+		"in_reply_to_user_id_str": "988666375",
+		"in_reply_to_screen_name": "BrianWebster18",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3129,
+			"friends_count": 4685,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7766,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BrianWebster18 Any by @pushkinpods or @WonderyMedia are gold standard 👍\n\nI tend to always listen to Foreign Policy playlist, Westminster insider, HSJ Healthcheck and The political party. I’ve recent started listening to You are not a frog, Pod Save the world &amp; How to fail \n\nhorses 4 courses…"
+	},
+	{
+		"created_at": "Tue Jan 04 17:39:29 +0000 2022",
+		"id": 1478420833194365000,
+		"id_str": "1478420833194364939",
+		"full_text": "@NHS_HealthEdEng @HazelRoddam1 @benedsmith",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NHS_HealthEdEng",
+					"name": "NHS HEE",
+					"id": 637008966,
+					"id_str": "637008966",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "HazelRoddam1",
+					"name": "Hazel Roddam",
+					"id": 3353010941,
+					"id_str": "3353010941",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "benedsmith",
+					"name": "Ben Smith",
+					"id": 22659623,
+					"id_str": "22659623",
+					"indices": [
+						31,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1478331816109084700,
+		"in_reply_to_status_id_str": "1478331816109084676",
+		"in_reply_to_user_id": 637008966,
+		"in_reply_to_user_id_str": "637008966",
+		"in_reply_to_screen_name": "NHS_HealthEdEng",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3129,
+			"friends_count": 4685,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7766,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@NHS_HealthEdEng @HazelRoddam1 @benedsmith"
+	},
+	{
+		"created_at": "Tue Jan 04 16:54:43 +0000 2022",
+		"id": 1478384041296638000,
+		"id_str": "1478409567373611008",
+		"full_text": "The CSP Charitable Trust is taking applications for:\n\n➡️ Academically Accredited Courses Award (inc. ring-fenced funds, see link for details)\n\n➡️ Education &amp; Development Placements Award.\nApply by 2 March 2022.\n\nFor more info, visit: https://t.co/RsyTC0Clrn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			261
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RsyTC0Clrn",
+					"expanded_url": "http://tinyurl.com/cspctawards",
+					"display_url": "tinyurl.com/cspctawards",
+					"indices": [
+						238,
+						261
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 138098880,
+			"id_str": "138098880",
+			"name": "Chartered Society of Physiotherapy",
+			"screen_name": "thecsp",
+			"location": "United Kingdom",
+			"description": "Chartered Society of Physiotherapy (CSP) - the professional, educational and union body for 60,000 UK-chartered physiotherapists, students and support workers.",
+			"url": "https://t.co/0zvCGRCWPh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0zvCGRCWPh",
+							"expanded_url": "http://www.csp.org.uk",
+							"display_url": "csp.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60686,
+			"friends_count": 1384,
+			"listed_count": 369,
+			"created_at": "Wed Apr 28 16:27:18 +0000 2010",
+			"favourites_count": 6102,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16010,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E3DC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902851531388534785/RRRJKVa0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902851531388534785/RRRJKVa0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/138098880/1623057939",
+			"profile_link_color": "252673",
+			"profile_sidebar_border_color": "C9C9C9",
+			"profile_sidebar_fill_color": "E3E3E3",
+			"profile_text_color": "757575",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 25,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The CSP Charitable Trust is taking applications for:\n\n➡️ Academically Accredited Courses Award (inc. ring-fenced funds, see link for details)\n\n➡️ Education &amp; Development Placements Award.\nApply by 2 March 2022.\n\nFor more info, visit: https://t.co/RsyTC0Clrn"
+	},
+	{
+		"created_at": "Tue Jan 04 10:16:42 +0000 2022",
+		"id": 1478309404952912000,
+		"id_str": "1478309404952911872",
+		"full_text": "@ivanmkurnia @draftsapp @readwiseio @obsdmd Any how-to guides out there? I need to up my studying game this year 👍",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ivanmkurnia",
+					"name": "Ivan M Kurnia ن",
+					"id": 61465446,
+					"id_str": "61465446",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "draftsapp",
+					"name": "Drafts",
+					"id": 147271446,
+					"id_str": "147271446",
+					"indices": [
+						13,
+						23
+					]
+				},
+				{
+					"screen_name": "readwiseio",
+					"name": "Readwise",
+					"id": 920321515077414900,
+					"id_str": "920321515077414912",
+					"indices": [
+						24,
+						35
+					]
+				},
+				{
+					"screen_name": "obsdmd",
+					"name": "Obsidian",
+					"id": 1239876481951596500,
+					"id_str": "1239876481951596545",
+					"indices": [
+						36,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1477984874598260700,
+		"in_reply_to_status_id_str": "1477984874598260738",
+		"in_reply_to_user_id": 61465446,
+		"in_reply_to_user_id_str": "61465446",
+		"in_reply_to_screen_name": "ivanmkurnia",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3129,
+			"friends_count": 4685,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24432,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7766,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ivanmkurnia @draftsapp @readwiseio @obsdmd Any how-to guides out there? I need to up my studying game this year 👍"
+	},
+	{
 		"created_at": "Mon Jan 03 20:53:01 +0000 2022",
 		"id": 1478107150442446800,
 		"id_str": "1478107150442446848",
