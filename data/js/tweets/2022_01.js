@@ -1,6 +1,453 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Wed Jan 05 21:47:31 +0000 2022",
+		"id": 1478845643548676000,
+		"id_str": "1478845643548676097",
+		"full_text": "@Shaun_LDNurse @nmcnews Arise!",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Shaun_LDNurse",
+					"name": "Shaun Williams",
+					"id": 901055791515435000,
+					"id_str": "901055791515435008",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "nmcnews",
+					"name": "Nursing and Midwifery Council",
+					"id": 61489404,
+					"id_str": "61489404",
+					"indices": [
+						15,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1478838894867140600,
+		"in_reply_to_status_id_str": "1478838894867140616",
+		"in_reply_to_user_id": 901055791515435000,
+		"in_reply_to_user_id_str": "901055791515435008",
+		"in_reply_to_screen_name": "Shaun_LDNurse",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #Leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3129,
+			"friends_count": 4362,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7771,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Shaun_LDNurse @nmcnews Arise!"
+	},
+	{
+		"created_at": "Wed Jan 05 15:58:19 +0000 2022",
+		"id": 1478757762825957400,
+		"id_str": "1478757762825957376",
+		"full_text": "@mancunianmedic Hear hear!",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mancunianmedic",
+					"name": "David Oliver",
+					"id": 2582596082,
+					"id_str": "2582596082",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1478626204890587100,
+		"in_reply_to_status_id_str": "1478626204890587139",
+		"in_reply_to_user_id": 2582596082,
+		"in_reply_to_user_id_str": "2582596082",
+		"in_reply_to_screen_name": "mancunianmedic",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #Leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3129,
+			"friends_count": 4362,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7771,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mancunianmedic Hear hear!"
+	},
+	{
+		"created_at": "Wed Jan 05 14:29:24 +0000 2022",
+		"id": 1478735388344737800,
+		"id_str": "1478735388344737794",
+		"full_text": "@MyCuppaJo “… approaches like the biopsychosocial, which claims to be a more holistic model of practice, but effectively hides its bio-behavioural bias. The biopsychosocial approach cannot be considered a viable ‘holistic’ model of practice for physiotherapists…” (Nicholls, 2022,p. 28)",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			286
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MyCuppaJo",
+					"name": "Joletta Belton",
+					"id": 1452139974,
+					"id_str": "1452139974",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1478470429274640400,
+		"in_reply_to_status_id_str": "1478470429274640384",
+		"in_reply_to_user_id": 1452139974,
+		"in_reply_to_user_id_str": "1452139974",
+		"in_reply_to_screen_name": "MyCuppaJo",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #Leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3129,
+			"friends_count": 4362,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7771,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MyCuppaJo “… approaches like the biopsychosocial, which claims to be a more holistic model of practice, but effectively hides its bio-behavioural bias. The biopsychosocial approach cannot be considered a viable ‘holistic’ model of practice for physiotherapists…” (Nicholls, 2022,p. 28)"
+	},
+	{
+		"created_at": "Wed Jan 05 08:28:29 +0000 2022",
+		"id": 1478644557302673400,
+		"id_str": "1478644557302673411",
+		"full_text": "@Pure_Physio @mortimusprime_x @channel5_tv @AdamMeakins @adamdobson123 @thecsp Yes … https://t.co/1soBaN1l2j",
+		"truncated": false,
+		"display_text_range": [
+			79,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Pure_Physio",
+					"name": "Pure Physiotherapy",
+					"id": 1588424996,
+					"id_str": "1588424996",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "mortimusprime_x",
+					"name": "Lady Kate",
+					"id": 92312818,
+					"id_str": "92312818",
+					"indices": [
+						13,
+						29
+					]
+				},
+				{
+					"screen_name": "channel5_tv",
+					"name": "Channel 5",
+					"id": 20427376,
+					"id_str": "20427376",
+					"indices": [
+						30,
+						42
+					]
+				},
+				{
+					"screen_name": "AdamMeakins",
+					"name": "The Sp⚽️rts Physio",
+					"id": 20363222,
+					"id_str": "20363222",
+					"indices": [
+						43,
+						55
+					]
+				},
+				{
+					"screen_name": "adamdobson123",
+					"name": "Adam Dobson",
+					"id": 702962141800878100,
+					"id_str": "702962141800878081",
+					"indices": [
+						56,
+						70
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						71,
+						78
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1soBaN1l2j",
+					"expanded_url": "https://uk.linkedin.com/in/fatemeh-rezaei-sajadinia-61b2b528",
+					"display_url": "uk.linkedin.com/in/fatemeh-rez…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1478634487122694100,
+		"in_reply_to_status_id_str": "1478634487122694146",
+		"in_reply_to_user_id": 1588424996,
+		"in_reply_to_user_id_str": "1588424996",
+		"in_reply_to_screen_name": "Pure_Physio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #Leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3129,
+			"friends_count": 4362,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24450,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7771,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@Pure_Physio @mortimusprime_x @channel5_tv @AdamMeakins @adamdobson123 @thecsp Yes … https://t.co/1soBaN1l2j"
+	},
+	{
 		"created_at": "Tue Jan 04 20:21:29 +0000 2022",
 		"id": 1478461603628695600,
 		"id_str": "1478461603628695553",
