@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Fri Jan 07 20:00:31 +0000 2022",
+		"id": 1479511303102386200,
+		"id_str": "1479543491323744259",
+		"full_text": "Jack Dromey, a tribute https://t.co/Fxst1aHxDw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Fxst1aHxDw",
+					"expanded_url": "https://www.spectator.co.uk/article/labour-mp-jack-dromey-dies-aged-73",
+					"display_url": "spectator.co.uk/article/labour…",
+					"indices": [
+						23,
+						46
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 162044153,
+			"id_str": "162044153",
+			"name": "Isabel Hardman",
+			"screen_name": "IsabelHardman",
+			"location": "Westminster, London",
+			"description": "Assistant Editor @spectator 📻 Week in Westminster presenter and Times Radio 📚 The Natural Health Service, Why We Get the Wrong Politicians 🗞 i columnist",
+			"url": "https://t.co/CMZ4g8Zd45",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/CMZ4g8Zd45",
+							"expanded_url": "https://uk.bookshop.org/lists/isabel-hardman",
+							"display_url": "uk.bookshop.org/lists/isabel-h…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 169747,
+			"friends_count": 2981,
+			"listed_count": 2003,
+			"created_at": "Fri Jul 02 13:29:16 +0000 2010",
+			"favourites_count": 14433,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 52404,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1281977474189066240/TMiHF_Ie_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1281977474189066240/TMiHF_Ie_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/162044153/1604490649",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 59,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jack Dromey, a tribute https://t.co/Fxst1aHxDw"
+	},
+	{
 		"created_at": "Thu Jan 06 17:19:21 +0000 2022",
 		"id": 1479140544605532200,
 		"id_str": "1479140544605532164",
