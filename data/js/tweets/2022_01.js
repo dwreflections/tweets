@@ -1,6 +1,527 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sat Jan 08 13:05:51 +0000 2022",
+		"id": 1479764276118233000,
+		"id_str": "1479801523769167879",
+		"full_text": "Bowie knew what was coming. #HappyBirthdayDavidBowie  https://t.co/ZX1YnS6YIb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "HappyBirthdayDavidBowie",
+					"indices": [
+						28,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1083298675365949400,
+					"id_str": "1083298675365949440",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1083298675365949440/pu/img/cghOWslR07O_Hr3B.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1083298675365949440/pu/img/cghOWslR07O_Hr3B.jpg",
+					"url": "https://t.co/ZX1YnS6YIb",
+					"display_url": "pic.twitter.com/ZX1YnS6YIb",
+					"expanded_url": "https://twitter.com/BBCNewsnight/status/1083298716700815360/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1083298716700815400,
+					"source_status_id_str": "1083298716700815360",
+					"source_user_id": 20543416,
+					"source_user_id_str": "20543416"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1083298675365949400,
+					"id_str": "1083298675365949440",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1083298675365949440/pu/img/cghOWslR07O_Hr3B.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1083298675365949440/pu/img/cghOWslR07O_Hr3B.jpg",
+					"url": "https://t.co/ZX1YnS6YIb",
+					"display_url": "pic.twitter.com/ZX1YnS6YIb",
+					"expanded_url": "https://twitter.com/BBCNewsnight/status/1083298716700815360/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 1083298716700815400,
+					"source_status_id_str": "1083298716700815360",
+					"source_user_id": 20543416,
+					"source_user_id_str": "20543416",
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 59685,
+						"variants": [
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1083298675365949440/pu/vid/720x720/Y5AiAHGZ3U-BtSzz.mp4?tag=8"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1083298675365949440/pu/pl/Q8mGrUMe60f4grwb.m3u8?tag=8"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1083298675365949440/pu/vid/480x480/TuV4t04NYaCr91ca.mp4?tag=8"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1083298675365949440/pu/vid/320x320/qqz_FqHcAon6Buf5.mp4?tag=8"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false,
+						"source_user": {
+							"id": 20543416,
+							"id_str": "20543416",
+							"name": "BBC Newsnight",
+							"screen_name": "BBCNewsnight",
+							"location": "London, UK",
+							"description": "Welcome! Find us weekdays 22:30 on BBC Two with @maitlis, @KirstyWark & @Emmabarnett or anytime at https://t.co/lvXNv9BZub and YouTube https://t.co/E5qVboMf8f",
+							"url": "https://t.co/BkOOMJ6OkS",
+							"entities": {
+								"url": {
+									"urls": [
+										{
+											"url": "https://t.co/BkOOMJ6OkS",
+											"expanded_url": "http://bbc.co.uk/newsnight",
+											"display_url": "bbc.co.uk/newsnight",
+											"indices": [
+												0,
+												23
+											]
+										}
+									]
+								},
+								"description": {
+									"urls": [
+										{
+											"url": "https://t.co/lvXNv9BZub",
+											"expanded_url": "http://facebook.com/bbcnewsnight",
+											"display_url": "facebook.com/bbcnewsnight",
+											"indices": [
+												99,
+												122
+											]
+										},
+										{
+											"url": "https://t.co/E5qVboMf8f",
+											"expanded_url": "https://bbc.in/2J72V7O",
+											"display_url": "bbc.in/2J72V7O",
+											"indices": [
+												135,
+												158
+											]
+										}
+									]
+								}
+							},
+							"protected": false,
+							"followers_count": 697280,
+							"friends_count": 3096,
+							"listed_count": 6261,
+							"created_at": "Tue Feb 10 20:37:57 +0000 2009",
+							"favourites_count": 2185,
+							"utc_offset": null,
+							"time_zone": null,
+							"geo_enabled": true,
+							"verified": true,
+							"statuses_count": 55003,
+							"lang": null,
+							"contributors_enabled": false,
+							"is_translator": false,
+							"is_translation_enabled": false,
+							"profile_background_color": "C0DEED",
+							"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+							"profile_background_tile": false,
+							"profile_image_url": "http://pbs.twimg.com/profile_images/1168387012602355714/wSsxD5-Z_normal.jpg",
+							"profile_image_url_https": "https://pbs.twimg.com/profile_images/1168387012602355714/wSsxD5-Z_normal.jpg",
+							"profile_banner_url": "https://pbs.twimg.com/profile_banners/20543416/1567400149",
+							"profile_link_color": "16023D",
+							"profile_sidebar_border_color": "FFFFFF",
+							"profile_sidebar_fill_color": "DDEEF6",
+							"profile_text_color": "333333",
+							"profile_use_background_image": true,
+							"has_extended_profile": false,
+							"default_profile": false,
+							"default_profile_image": false,
+							"following": false,
+							"follow_request_sent": false,
+							"notifications": false,
+							"translator_type": "none",
+							"withheld_in_countries": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15644695,
+			"id_str": "15644695",
+			"name": "Drowned in Sound ⚓️",
+			"screen_name": "DrownedinSound",
+			"location": "London",
+			"description": "Opinions On Music Since October 2000. An online community",
+			"url": "https://t.co/JzYUcrN524",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JzYUcrN524",
+							"expanded_url": "http://drownedinsound.com",
+							"display_url": "drownedinsound.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 101040,
+			"friends_count": 1875,
+			"listed_count": 2718,
+			"created_at": "Tue Jul 29 11:04:18 +0000 2008",
+			"favourites_count": 6079,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 36461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F0ECDD",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/826686320881840128/Pgs_4vPo_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/826686320881840128/Pgs_4vPo_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15644695/1398247201",
+			"profile_link_color": "9B9C9E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "F6FAFD",
+			"profile_text_color": "100C40",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 223,
+		"favorite_count": 674,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Bowie knew what was coming. #HappyBirthdayDavidBowie  https://t.co/ZX1YnS6YIb"
+	},
+	{
+		"created_at": "Sat Jan 08 10:48:07 +0000 2022",
+		"id": 1479766863940837400,
+		"id_str": "1479766863940837376",
+		"full_text": "@KarimeMescouto @MyCuppaJo Excellent. It is written for the physiotherapist and not social scientists . My overriding thought is why is this only being interrogated now within the profession. \n\nThank you @DaveNicholls3 👍",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KarimeMescouto",
+					"name": "Karime Mescouto",
+					"id": 637091082,
+					"id_str": "637091082",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "MyCuppaJo",
+					"name": "Joletta Belton",
+					"id": 1452139974,
+					"id_str": "1452139974",
+					"indices": [
+						16,
+						26
+					]
+				},
+				{
+					"screen_name": "DaveNicholls3",
+					"name": "Dave Nicholls",
+					"id": 841364742,
+					"id_str": "841364742",
+					"indices": [
+						204,
+						218
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1479764253678604300,
+		"in_reply_to_status_id_str": "1479764253678604288",
+		"in_reply_to_user_id": 637091082,
+		"in_reply_to_user_id_str": "637091082",
+		"in_reply_to_screen_name": "KarimeMescouto",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #Leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3131,
+			"friends_count": 4192,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24472,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KarimeMescouto @MyCuppaJo Excellent. It is written for the physiotherapist and not social scientists . My overriding thought is why is this only being interrogated now within the profession. \n\nThank you @DaveNicholls3 👍"
+	},
+	{
+		"created_at": "Sat Jan 08 09:52:05 +0000 2022",
+		"id": 1479752762921562000,
+		"id_str": "1479752762921562113",
+		"full_text": "@MontereyZack @Office365 I need to try this…",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MontereyZack",
+					"name": "Dr Zack Hassan",
+					"id": 215079629,
+					"id_str": "215079629",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Office365",
+					"name": "Office 365",
+					"id": 137365854,
+					"id_str": "137365854",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1479497809665695700,
+		"in_reply_to_status_id_str": "1479497809665695755",
+		"in_reply_to_user_id": 215079629,
+		"in_reply_to_user_id_str": "215079629",
+		"in_reply_to_screen_name": "MontereyZack",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams ✨",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UBirm📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #Leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3131,
+			"friends_count": 4192,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24472,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7778,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MontereyZack @Office365 I need to try this…"
+	},
+	{
 		"created_at": "Fri Jan 07 20:00:31 +0000 2022",
 		"id": 1479511303102386200,
 		"id_str": "1479543491323744259",
