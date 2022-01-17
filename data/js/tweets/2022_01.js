@@ -1,6 +1,883 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Sun Jan 16 20:11:04 +0000 2022",
+		"id": 1482807635250405400,
+		"id_str": "1482807635250405377",
+		"full_text": "@Shaque89_ @Polygeia 🥰",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Shaque89_",
+					"name": "Sharmi Haque",
+					"id": 1318168706359373800,
+					"id_str": "1318168706359373824",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "Polygeia",
+					"name": "Polygeia | www.polygeia.com",
+					"id": 2411074148,
+					"id_str": "2411074148",
+					"indices": [
+						11,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1482741759788601300,
+		"in_reply_to_status_id_str": "1482741759788601347",
+		"in_reply_to_user_id": 1318168706359373800,
+		"in_reply_to_user_id_str": "1318168706359373824",
+		"in_reply_to_screen_name": "Shaque89_",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #Leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3136,
+			"friends_count": 4203,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@Shaque89_ @Polygeia 🥰"
+	},
+	{
+		"created_at": "Sun Jan 16 18:58:46 +0000 2022",
+		"id": 1482789441966157800,
+		"id_str": "1482789441966157832",
+		"full_text": "Why we always get the wrong political leaders — and how to get the right ones\n\nhttps://t.co/YOvyGDnx8u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YOvyGDnx8u",
+					"expanded_url": "https://www.thetimes.co.uk/article/fe930972-756b-11ec-886c-723ddd37efb5?shareToken=",
+					"display_url": "thetimes.co.uk/article/fe9309…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #Leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3136,
+			"friends_count": 4203,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why we always get the wrong political leaders — and how to get the right ones\n\nhttps://t.co/YOvyGDnx8u"
+	},
+	{
+		"created_at": "Sun Jan 16 17:18:05 +0000 2022",
+		"id": 1482691462164795400,
+		"id_str": "1482764102254706689",
+		"full_text": "Onwards and upwards @beardedPT looks like a great career move Do keep us all posted on developments @thecsp @WeAHPs @EMAHPInfo https://t.co/b2Gdy3Hy0G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						20,
+						30
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						100,
+						107
+					]
+				},
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs 💙",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						108,
+						115
+					]
+				},
+				{
+					"screen_name": "EMAHPInfo",
+					"name": "Euan McComiskie",
+					"id": 2438541736,
+					"id_str": "2438541736",
+					"indices": [
+						116,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/b2Gdy3Hy0G",
+					"expanded_url": "https://twitter.com/beardedpt/status/1482078257939894273",
+					"display_url": "twitter.com/beardedpt/stat…",
+					"indices": [
+						127,
+						150
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 564572494,
+			"id_str": "564572494",
+			"name": "Natalie Beswetherick (She/her)",
+			"screen_name": "natbeswetherick",
+			"location": "UK",
+			"description": "Retired Director of Practice & Development at the Chartered Society of Physiotherapy",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4153,
+			"friends_count": 425,
+			"listed_count": 27,
+			"created_at": "Fri Apr 27 12:42:39 +0000 2012",
+			"favourites_count": 3111,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 4706,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1282716647539826690/RAW7xXlI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1282716647539826690/RAW7xXlI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/564572494/1505248473",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1482078257939894300,
+		"quoted_status_id_str": "1482078257939894273",
+		"quoted_status_permalink": {
+			"url": "https://t.co/b2Gdy3Hy0G",
+			"expanded": "https://twitter.com/beardedpt/status/1482078257939894273",
+			"display": "twitter.com/beardedpt/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 14 19:52:47 +0000 2022",
+			"id": 1482078257939894300,
+			"id_str": "1482078257939894273",
+			"full_text": "Sad to be leaving @DerbyPhysioOPD today. I have developed as a clinician but more importantly I have met some amazing folk who have become friends! 🥰\n\nSoon, I will be joining the Clinical @UHDBDP Team via a redeployment to @UHDB_DME. Onwards 🌟#DigitalAHP https://t.co/2xF66SKX42",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				254
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "DigitalAHP",
+						"indices": [
+							243,
+							254
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DerbyPhysioOPD",
+						"name": "Derby Therapies OPD",
+						"id": 923868733034106900,
+						"id_str": "923868733034106880",
+						"indices": [
+							18,
+							33
+						]
+					},
+					{
+						"screen_name": "UHDBDP",
+						"name": "UHDB Digital Services",
+						"id": 1060247346997538800,
+						"id_str": "1060247346997538816",
+						"indices": [
+							188,
+							195
+						]
+					},
+					{
+						"screen_name": "UHDB_DME",
+						"name": "DME",
+						"id": 3110661832,
+						"id_str": "3110661832",
+						"indices": [
+							223,
+							232
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1482078252441260000,
+						"id_str": "1482078252441260032",
+						"indices": [
+							255,
+							278
+						],
+						"media_url": "http://pbs.twimg.com/media/FJFmUXYX0AA1EHp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJFmUXYX0AA1EHp.jpg",
+						"url": "https://t.co/2xF66SKX42",
+						"display_url": "pic.twitter.com/2xF66SKX42",
+						"expanded_url": "https://twitter.com/beardedPT/status/1482078257939894273/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1482078252441260000,
+						"id_str": "1482078252441260032",
+						"indices": [
+							255,
+							278
+						],
+						"media_url": "http://pbs.twimg.com/media/FJFmUXYX0AA1EHp.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FJFmUXYX0AA1EHp.jpg",
+						"url": "https://t.co/2xF66SKX42",
+						"display_url": "pic.twitter.com/2xF66SKX42",
+						"expanded_url": "https://twitter.com/beardedPT/status/1482078257939894273/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3377750235,
+				"id_str": "3377750235",
+				"name": "David Williams",
+				"screen_name": "beardedPT",
+				"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+				"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #Leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3136,
+				"friends_count": 4203,
+				"listed_count": 20,
+				"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+				"favourites_count": 24540,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 7797,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 38,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Onwards and upwards @beardedPT looks like a great career move Do keep us all posted on developments @thecsp @WeAHPs @EMAHPInfo https://t.co/b2Gdy3Hy0G"
+	},
+	{
+		"created_at": "Sun Jan 16 14:05:35 +0000 2022",
+		"id": 1482715659838623700,
+		"id_str": "1482715659838623757",
+		"full_text": "@natbeswetherick @thecsp @WeAHPs @EMAHPInfo Thank you @natbeswetherick - I hope you are having a fabulous retirement! Of course, I will 📲.\n\n @EMAHPInfo - let's get a date in the diary after my redeployment to discuss all things digital. 👍",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "natbeswetherick",
+					"name": "Natalie Beswetherick (She/her)",
+					"id": 564572494,
+					"id_str": "564572494",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						17,
+						24
+					]
+				},
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs 💙",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						25,
+						32
+					]
+				},
+				{
+					"screen_name": "EMAHPInfo",
+					"name": "Euan McComiskie",
+					"id": 2438541736,
+					"id_str": "2438541736",
+					"indices": [
+						33,
+						43
+					]
+				},
+				{
+					"screen_name": "natbeswetherick",
+					"name": "Natalie Beswetherick (She/her)",
+					"id": 564572494,
+					"id_str": "564572494",
+					"indices": [
+						54,
+						70
+					]
+				},
+				{
+					"screen_name": "EMAHPInfo",
+					"name": "Euan McComiskie",
+					"id": 2438541736,
+					"id_str": "2438541736",
+					"indices": [
+						141,
+						151
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1482691462164795400,
+		"in_reply_to_status_id_str": "1482691462164795394",
+		"in_reply_to_user_id": 564572494,
+		"in_reply_to_user_id_str": "564572494",
+		"in_reply_to_screen_name": "natbeswetherick",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #Leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3136,
+			"friends_count": 4203,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@natbeswetherick @thecsp @WeAHPs @EMAHPInfo Thank you @natbeswetherick - I hope you are having a fabulous retirement! Of course, I will 📲.\n\n @EMAHPInfo - let's get a date in the diary after my redeployment to discuss all things digital. 👍"
+	},
+	{
+		"created_at": "Sun Jan 16 14:03:24 +0000 2022",
+		"id": 1482715109273354200,
+		"id_str": "1482715109273354240",
+		"full_text": "Highly recommend this book by @praddenkeefe . \nFinished today ✔️. Truly excellent &amp; so much more to the book than ‘just’ the opioid epidemic. Well narrated on @audibleuk too. \n\nAny recommendations for my next @audibleuk ? 💭 https://t.co/KU3zeNBpjC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "praddenkeefe",
+					"name": "Patrick Radden Keefe",
+					"id": 380524610,
+					"id_str": "380524610",
+					"indices": [
+						30,
+						43
+					]
+				},
+				{
+					"screen_name": "audibleuk",
+					"name": "Audible UK 🎧",
+					"id": 21996576,
+					"id_str": "21996576",
+					"indices": [
+						163,
+						173
+					]
+				},
+				{
+					"screen_name": "audibleuk",
+					"name": "Audible UK 🎧",
+					"id": 21996576,
+					"id_str": "21996576",
+					"indices": [
+						213,
+						223
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1482715105313894400,
+					"id_str": "1482715105313894400",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FJOpiFNXMAArc-B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJOpiFNXMAArc-B.jpg",
+					"url": "https://t.co/KU3zeNBpjC",
+					"display_url": "pic.twitter.com/KU3zeNBpjC",
+					"expanded_url": "https://twitter.com/beardedPT/status/1482715109273354240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 465,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1169,
+							"h": 1711,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 820,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1482715105313894400,
+					"id_str": "1482715105313894400",
+					"indices": [
+						228,
+						251
+					],
+					"media_url": "http://pbs.twimg.com/media/FJOpiFNXMAArc-B.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJOpiFNXMAArc-B.jpg",
+					"url": "https://t.co/KU3zeNBpjC",
+					"display_url": "pic.twitter.com/KU3zeNBpjC",
+					"expanded_url": "https://twitter.com/beardedPT/status/1482715109273354240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 465,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1169,
+							"h": 1711,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 820,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #Leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3136,
+			"friends_count": 4203,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24540,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7797,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Highly recommend this book by @praddenkeefe . \nFinished today ✔️. Truly excellent &amp; so much more to the book than ‘just’ the opioid epidemic. Well narrated on @audibleuk too. \n\nAny recommendations for my next @audibleuk ? 💭 https://t.co/KU3zeNBpjC"
+	},
+	{
 		"created_at": "Sat Jan 15 10:39:39 +0000 2022",
 		"id": 1482301445500244000,
 		"id_str": "1482301445500243970",
