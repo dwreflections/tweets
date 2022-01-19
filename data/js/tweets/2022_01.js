@@ -1,6 +1,1141 @@
 Grailbird.data.tweets_2022_01 = 
 [
 	{
+		"created_at": "Tue Jan 18 22:27:52 +0000 2022",
+		"id": 1483566840928419800,
+		"id_str": "1483566840928419842",
+		"full_text": "How health care is turning into a consumer product\n\n https://t.co/xwR7jI69M6 from @TheEconomist https://t.co/xwR7jI69M6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheEconomist",
+					"name": "The Economist",
+					"id": 5988062,
+					"id_str": "5988062",
+					"indices": [
+						82,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xwR7jI69M6",
+					"expanded_url": "https://www.economist.com/business/how-health-care-is-turning-into-a-consumer-product/21807114",
+					"display_url": "economist.com/business/how-h…",
+					"indices": [
+						53,
+						76
+					]
+				},
+				{
+					"url": "https://t.co/xwR7jI69M6",
+					"expanded_url": "https://www.economist.com/business/how-health-care-is-turning-into-a-consumer-product/21807114",
+					"display_url": "economist.com/business/how-h…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #Leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3140,
+			"friends_count": 4213,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How health care is turning into a consumer product\n\n https://t.co/xwR7jI69M6 from @TheEconomist https://t.co/xwR7jI69M6"
+	},
+	{
+		"created_at": "Tue Jan 18 19:09:01 +0000 2022",
+		"id": 1483509388409286700,
+		"id_str": "1483516797932511239",
+		"full_text": "Succcessful induction thank you to #DreamTeam2022 @CathyWinfield @UHDBTrust @paulvincentbro1 @CathyMilesy @hospitalcharity @beardedPT @LesleyWarren58 @Jackie31491965 https://t.co/kDZp77jPso",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DreamTeam2022",
+					"indices": [
+						35,
+						49
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CathyWinfield",
+					"name": "Cathy Winfield MBE, RN, MSc💙",
+					"id": 2188050351,
+					"id_str": "2188050351",
+					"indices": [
+						50,
+						64
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						65,
+						75
+					]
+				},
+				{
+					"screen_name": "paulvincentbro1",
+					"name": "Paul Brooks MBE, MSc",
+					"id": 2870262826,
+					"id_str": "2870262826",
+					"indices": [
+						76,
+						92
+					]
+				},
+				{
+					"screen_name": "CathyMilesy",
+					"name": "Cathy Miles",
+					"id": 489774023,
+					"id_str": "489774023",
+					"indices": [
+						93,
+						105
+					]
+				},
+				{
+					"screen_name": "hospitalcharity",
+					"name": "Derby & Burton Hospitals Charity",
+					"id": 1100859956,
+					"id_str": "1100859956",
+					"indices": [
+						106,
+						122
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						123,
+						133
+					]
+				},
+				{
+					"screen_name": "LesleyWarren58",
+					"name": "Lesley Warren",
+					"id": 2587233864,
+					"id_str": "2587233864",
+					"indices": [
+						134,
+						149
+					]
+				},
+				{
+					"screen_name": "Jackie31491965",
+					"name": "Jackie Marriott",
+					"id": 1261382652780785700,
+					"id_str": "1261382652780785665",
+					"indices": [
+						150,
+						165
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1483509380393975800,
+					"id_str": "1483509380393975809",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FJZ76-dXwAEDNX4.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FJZ76-dXwAEDNX4.jpg",
+					"url": "https://t.co/kDZp77jPso",
+					"display_url": "pic.twitter.com/kDZp77jPso",
+					"expanded_url": "https://twitter.com/hill_karenhill3/status/1483509388409286658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 280,
+							"h": 222,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 280,
+							"h": 222,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 280,
+							"h": 222,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483509380393975800,
+					"id_str": "1483509380393975809",
+					"indices": [
+						166,
+						189
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FJZ76-dXwAEDNX4.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FJZ76-dXwAEDNX4.jpg",
+					"url": "https://t.co/kDZp77jPso",
+					"display_url": "pic.twitter.com/kDZp77jPso",
+					"expanded_url": "https://twitter.com/hill_karenhill3/status/1483509388409286658/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 280,
+							"h": 222,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 280,
+							"h": 222,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 280,
+							"h": 222,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							140,
+							111
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FJZ76-dXwAEDNX4.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2361529948,
+			"id_str": "2361529948",
+			"name": "Karen Hill 💙 RN MSc",
+			"screen_name": "hill_karenhill3",
+			"location": "Derby",
+			"description": "Lead Nurse -Professional Standards. Passionate about golden retrievers. Be a flamingo 🦩in a flock of pigeons. All views are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2138,
+			"friends_count": 1068,
+			"listed_count": 35,
+			"created_at": "Sun Feb 23 20:15:39 +0000 2014",
+			"favourites_count": 35018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21606,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1137720884247052288/Bnr6V1-O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137720884247052288/Bnr6V1-O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2361529948/1457645116",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Succcessful induction thank you to #DreamTeam2022 @CathyWinfield @UHDBTrust @paulvincentbro1 @CathyMilesy @hospitalcharity @beardedPT @LesleyWarren58 @Jackie31491965 https://t.co/kDZp77jPso"
+	},
+	{
+		"created_at": "Tue Jan 18 17:04:41 +0000 2022",
+		"id": 1483485507048796200,
+		"id_str": "1483485507048796164",
+		"full_text": "Day 2 of Health Service Management module at @_HSMCentre \n\nGreat discussions around the priority setting exercises today. Also, been introduced to Organisational change theory. I need to do some more reading! 📚\n\nHealth technology next week 📲💻\n\nTY @IestynPWilliams @Deborahbham https://t.co/5d3uWFiILl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_HSMCentre",
+					"name": "Health Services Management Centre (HSMC)",
+					"id": 1542789288,
+					"id_str": "1542789288",
+					"indices": [
+						45,
+						56
+					]
+				},
+				{
+					"screen_name": "IestynPWilliams",
+					"name": "Iestyn Williams",
+					"id": 35435959,
+					"id_str": "35435959",
+					"indices": [
+						247,
+						263
+					]
+				},
+				{
+					"screen_name": "Deborahbham",
+					"name": "Deborah Davidson 🕷🇪🇺🇱🇰🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+					"id": 80620087,
+					"id_str": "80620087",
+					"indices": [
+						264,
+						276
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1483485501654974500,
+					"id_str": "1483485501654974472",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FJZmNDOWQAgjQ-7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJZmNDOWQAgjQ-7.jpg",
+					"url": "https://t.co/5d3uWFiILl",
+					"display_url": "pic.twitter.com/5d3uWFiILl",
+					"expanded_url": "https://twitter.com/beardedPT/status/1483485507048796164/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1908,
+							"h": 1430,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483485501654974500,
+					"id_str": "1483485501654974472",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FJZmNDOWQAgjQ-7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJZmNDOWQAgjQ-7.jpg",
+					"url": "https://t.co/5d3uWFiILl",
+					"display_url": "pic.twitter.com/5d3uWFiILl",
+					"expanded_url": "https://twitter.com/beardedPT/status/1483485507048796164/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1908,
+							"h": 1430,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #Leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3140,
+			"friends_count": 4213,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Day 2 of Health Service Management module at @_HSMCentre \n\nGreat discussions around the priority setting exercises today. Also, been introduced to Organisational change theory. I need to do some more reading! 📚\n\nHealth technology next week 📲💻\n\nTY @IestynPWilliams @Deborahbham https://t.co/5d3uWFiILl"
+	},
+	{
+		"created_at": "Tue Jan 18 14:28:22 +0000 2022",
+		"id": 1481874973467689000,
+		"id_str": "1483446167769948165",
+		"full_text": "HOT OFF THE PRESS 🔥 Jan 22 QI Evidence Update ⬇️\n\nThe latest QI research, publications &amp; events in 2⃣ pages of 📜 Collated by @improvjess &amp; I\n\nhttps://t.co/jKzaEZfQ62\n\nPls share generously &amp; #PinchWithPride Word doc will be on @FabNHSStuff shortly\n\n@theqcommunity @HorizonsNHS https://t.co/Zu9Ay4Yu0B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "PinchWithPride",
+					"indices": [
+						202,
+						217
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "improvjess",
+					"name": "Jess Pawley 🇪🇺🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇷🇨🇾",
+					"id": 3329676257,
+					"id_str": "3329676257",
+					"indices": [
+						129,
+						140
+					]
+				},
+				{
+					"screen_name": "FabNHSStuff",
+					"name": "AcademyOfFabStuff",
+					"id": 2989313567,
+					"id_str": "2989313567",
+					"indices": [
+						238,
+						250
+					]
+				},
+				{
+					"screen_name": "theQCommunity",
+					"name": "The Q community",
+					"id": 782945860359426000,
+					"id_str": "782945860359426048",
+					"indices": [
+						260,
+						274
+					]
+				},
+				{
+					"screen_name": "HorizonsNHS",
+					"name": "NHS Horizons",
+					"id": 2788044432,
+					"id_str": "2788044432",
+					"indices": [
+						275,
+						287
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/jKzaEZfQ62",
+					"expanded_url": "https://tinyurl.com/QIJan22",
+					"display_url": "tinyurl.com/QIJan22",
+					"indices": [
+						150,
+						173
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1481715203154792400,
+					"id_str": "1481715203154792450",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/FJAcIHZWUAIsBtP.png",
+					"media_url_https": "https://pbs.twimg.com/media/FJAcIHZWUAIsBtP.png",
+					"url": "https://t.co/Zu9Ay4Yu0B",
+					"display_url": "pic.twitter.com/Zu9Ay4Yu0B",
+					"expanded_url": "https://twitter.com/andreadgibbons/status/1481874973467688960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 471,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 568,
+							"h": 820,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 568,
+							"h": 820,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481715203154792400,
+					"id_str": "1481715203154792450",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/FJAcIHZWUAIsBtP.png",
+					"media_url_https": "https://pbs.twimg.com/media/FJAcIHZWUAIsBtP.png",
+					"url": "https://t.co/Zu9Ay4Yu0B",
+					"display_url": "pic.twitter.com/Zu9Ay4Yu0B",
+					"expanded_url": "https://twitter.com/andreadgibbons/status/1481874973467688960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 471,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 568,
+							"h": 820,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 568,
+							"h": 820,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1481715203171569700,
+					"id_str": "1481715203171569664",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/FJAcIHdWUAAIjC6.png",
+					"media_url_https": "https://pbs.twimg.com/media/FJAcIHdWUAAIjC6.png",
+					"url": "https://t.co/Zu9Ay4Yu0B",
+					"display_url": "pic.twitter.com/Zu9Ay4Yu0B",
+					"expanded_url": "https://twitter.com/andreadgibbons/status/1481874973467688960/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 468,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 562,
+							"h": 816,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 562,
+							"h": 816,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 328436361,
+			"id_str": "328436361",
+			"name": "Andrea Gibbons 💙",
+			"screen_name": "andreadgibbons",
+			"location": "Taunton, UK",
+			"description": "✳️#QExchange 2019 Winner ✳️@Evidence4QI cofounder ✳️PhD @BristolUni ✳️QI Coach ✳️@FabNHSStuff Ambassador  ✳️@LBS Exec MBA ✳️@UniofOxf Grad",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3699,
+			"friends_count": 3095,
+			"listed_count": 30,
+			"created_at": "Sun Jul 03 11:03:31 +0000 2011",
+			"favourites_count": 8315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 3628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1115224721350639617/zMF3jmLI_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1115224721350639617/zMF3jmLI_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/328436361/1595261127",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": true,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 52,
+		"favorite_count": 94,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "HOT OFF THE PRESS 🔥 Jan 22 QI Evidence Update ⬇️\n\nThe latest QI research, publications &amp; events in 2⃣ pages of 📜 Collated by @improvjess &amp; I\n\nhttps://t.co/jKzaEZfQ62\n\nPls share generously &amp; #PinchWithPride Word doc will be on @FabNHSStuff shortly\n\n@theqcommunity @HorizonsNHS https://t.co/Zu9Ay4Yu0B"
+	},
+	{
+		"created_at": "Tue Jan 18 12:00:51 +0000 2022",
+		"id": 1483409047525150700,
+		"id_str": "1483409047525150721",
+		"full_text": "@JackAChew @TPMPodcast @PMFirstSteps The perennial question …",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JackAChew",
+					"name": "Jack Chew",
+					"id": 868558446,
+					"id_str": "868558446",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "TPMPodcast",
+					"name": "Physio Matters",
+					"id": 1914280350,
+					"id_str": "1914280350",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "PMFirstSteps",
+					"name": "PM First Steps",
+					"id": 840861722286137300,
+					"id_str": "840861722286137349",
+					"indices": [
+						23,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1483365662160560000,
+		"in_reply_to_status_id_str": "1483365662160560129",
+		"in_reply_to_user_id": 868558446,
+		"in_reply_to_user_id_str": "868558446",
+		"in_reply_to_screen_name": "JackAChew",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #Leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3140,
+			"friends_count": 4213,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JackAChew @TPMPodcast @PMFirstSteps The perennial question …"
+	},
+	{
+		"created_at": "Tue Jan 18 09:22:59 +0000 2022",
+		"id": 1483369315122434000,
+		"id_str": "1483369315122434049",
+		"full_text": "@GaryMcAllister @NHSDigAcademy Fab! The 2nd edition is on my reading list. HT @DigitalAhp https://t.co/QfTZYAfhUI",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GaryMcAllister",
+					"name": "Gary McAllister 💙",
+					"id": 15611269,
+					"id_str": "15611269",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "NHSDigAcademy",
+					"name": "NHS Digital Academy",
+					"id": 892651257797673000,
+					"id_str": "892651257797672961",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "DigitalAhp",
+					"name": "DigitalAHP 💙",
+					"id": 1141015266844958700,
+					"id_str": "1141015266844958720",
+					"indices": [
+						78,
+						89
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1483369305484009500,
+					"id_str": "1483369305484009472",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FJX8hiwXoAA7sZw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJX8hiwXoAA7sZw.jpg",
+					"url": "https://t.co/QfTZYAfhUI",
+					"display_url": "pic.twitter.com/QfTZYAfhUI",
+					"expanded_url": "https://twitter.com/beardedPT/status/1483369315122434049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1429,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 837,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1483369305484009500,
+					"id_str": "1483369305484009472",
+					"indices": [
+						90,
+						113
+					],
+					"media_url": "http://pbs.twimg.com/media/FJX8hiwXoAA7sZw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FJX8hiwXoAA7sZw.jpg",
+					"url": "https://t.co/QfTZYAfhUI",
+					"display_url": "pic.twitter.com/QfTZYAfhUI",
+					"expanded_url": "https://twitter.com/beardedPT/status/1483369315122434049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 474,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1429,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 837,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1483356117120036900,
+		"in_reply_to_status_id_str": "1483356117120036864",
+		"in_reply_to_user_id": 15611269,
+		"in_reply_to_user_id_str": "15611269",
+		"in_reply_to_screen_name": "GaryMcAllister",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #Leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3140,
+			"friends_count": 4213,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24568,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@GaryMcAllister @NHSDigAcademy Fab! The 2nd edition is on my reading list. HT @DigitalAhp https://t.co/QfTZYAfhUI"
+	},
+	{
 		"created_at": "Mon Jan 17 22:08:28 +0000 2022",
 		"id": 1483199570872094700,
 		"id_str": "1483199570872094727",
@@ -178,7 +1313,7 @@ Grailbird.data.tweets_2022_01 =
 		"created_at": "Mon Jan 17 21:00:42 +0000 2022",
 		"id": 1483182515158454300,
 		"id_str": "1483182515158454280",
-		"full_text": "Worth a watch ⬇️ ⁦@GNev2⁩\n\nhttps://t.co/uVlCZEv6RB",
+		"full_text": "Worth a watch ⬇️ @GNev2\n\nhttps://t.co/uVlCZEv6RB",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -277,7 +1412,7 @@ Grailbird.data.tweets_2022_01 =
 		"retweeted": false,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Worth a watch ⬇️ ⁦@GNev2⁩\n\nhttps://t.co/uVlCZEv6RB"
+		"text": "Worth a watch ⬇️ @GNev2\n\nhttps://t.co/uVlCZEv6RB"
 	},
 	{
 		"created_at": "Sun Jan 16 20:11:04 +0000 2022",
