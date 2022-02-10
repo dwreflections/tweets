@@ -1,6 +1,1080 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 09 21:20:05 +0000 2022",
+		"id": 1491522312973205500,
+		"id_str": "1491522312973205508",
+		"full_text": "@jilly_bond @SandyHiltonPT @Retlouping @laurarathbone @WorldPhysio1951 Not any more …",
+		"truncated": false,
+		"display_text_range": [
+			71,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jilly_bond",
+					"name": "Jilly Bond",
+					"id": 3769052715,
+					"id_str": "3769052715",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "SandyHiltonPT",
+					"name": "SandyHiltonPT",
+					"id": 124352777,
+					"id_str": "124352777",
+					"indices": [
+						12,
+						26
+					]
+				},
+				{
+					"screen_name": "Retlouping",
+					"name": "🚴🏻‍♂️ ɹǝʇlnoԀ pıʌɐᗡ 🚴🏻‍♂️ 𝔹𝕖 𝕜𝕚𝕟𝕕 😷",
+					"id": 3246132338,
+					"id_str": "3246132338",
+					"indices": [
+						27,
+						38
+					]
+				},
+				{
+					"screen_name": "laurarathbone",
+					"name": "Laura Rathbone🌱✌🇪🇺🌈",
+					"id": 32357102,
+					"id_str": "32357102",
+					"indices": [
+						39,
+						53
+					]
+				},
+				{
+					"screen_name": "WorldPhysio1951",
+					"name": "World Physiotherapy",
+					"id": 270306354,
+					"id_str": "270306354",
+					"indices": [
+						54,
+						70
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1491455814934024200,
+		"in_reply_to_status_id_str": "1491455814934024198",
+		"in_reply_to_user_id": 3769052715,
+		"in_reply_to_user_id_str": "3769052715",
+		"in_reply_to_screen_name": "jilly_bond",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #Leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3155,
+			"friends_count": 4257,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jilly_bond @SandyHiltonPT @Retlouping @laurarathbone @WorldPhysio1951 Not any more …"
+	},
+	{
+		"created_at": "Wed Feb 09 19:59:39 +0000 2022",
+		"id": 1491502071945826300,
+		"id_str": "1491502071945826304",
+		"full_text": "@HPIAndyCowper https://t.co/pEf0dfTzk5",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HPIAndyCowper",
+					"name": "Andy Cowper",
+					"id": 171435540,
+					"id_str": "171435540",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1491502064052093000,
+					"id_str": "1491502064052092933",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FLLhOZWWQAU7J0y.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FLLhOZWWQAU7J0y.jpg",
+					"url": "https://t.co/pEf0dfTzk5",
+					"display_url": "pic.twitter.com/pEf0dfTzk5",
+					"expanded_url": "https://twitter.com/beardedPT/status/1491502071945826304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 126,
+							"h": 126,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 210,
+							"h": 126,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 210,
+							"h": 126,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 210,
+							"h": 126,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491502064052093000,
+					"id_str": "1491502064052092933",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FLLhOZWWQAU7J0y.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FLLhOZWWQAU7J0y.jpg",
+					"url": "https://t.co/pEf0dfTzk5",
+					"display_url": "pic.twitter.com/pEf0dfTzk5",
+					"expanded_url": "https://twitter.com/beardedPT/status/1491502071945826304/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 126,
+							"h": 126,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 210,
+							"h": 126,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 210,
+							"h": 126,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 210,
+							"h": 126,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							5,
+							3
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FLLhOZWWQAU7J0y.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1491468418163388400,
+		"in_reply_to_status_id_str": "1491468418163388417",
+		"in_reply_to_user_id": 171435540,
+		"in_reply_to_user_id_str": "171435540",
+		"in_reply_to_screen_name": "HPIAndyCowper",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #Leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3155,
+			"friends_count": 4257,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@HPIAndyCowper https://t.co/pEf0dfTzk5"
+	},
+	{
+		"created_at": "Wed Feb 09 18:16:45 +0000 2022",
+		"id": 1491116117351612400,
+		"id_str": "1491476176434601995",
+		"full_text": "❓I'd be interested to know peoples' thoughts on this:\n\n💥\"AHPs and the executive glass-ceiling\"💥\n\nA 5min read.\n\nHT- @physioupdate\n#leadership #AHP\n\nhttps://t.co/8UVV1jjnbT https://t.co/mopwq6Jwq6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "leadership",
+					"indices": [
+						129,
+						140
+					]
+				},
+				{
+					"text": "AHP",
+					"indices": [
+						141,
+						145
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "physioupdate",
+					"name": "@PhysioUpdate",
+					"id": 1262741965646397400,
+					"id_str": "1262741965646397443",
+					"indices": [
+						115,
+						128
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8UVV1jjnbT",
+					"expanded_url": "https://www.physioupdate.co.uk/news/allied-health-professionals-face-an-executive-glass-ceiling-at-work-physio-chris-tucketts-view/",
+					"display_url": "physioupdate.co.uk/news/allied-he…",
+					"indices": [
+						147,
+						170
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1491116094563704800,
+					"id_str": "1491116094563704832",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FLGCMA9WYAAouP0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLGCMA9WYAAouP0.jpg",
+					"url": "https://t.co/mopwq6Jwq6",
+					"display_url": "pic.twitter.com/mopwq6Jwq6",
+					"expanded_url": "https://twitter.com/HealthPhysio/status/1491116117351612417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 362,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 2030,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1491116094563704800,
+					"id_str": "1491116094563704832",
+					"indices": [
+						171,
+						194
+					],
+					"media_url": "http://pbs.twimg.com/media/FLGCMA9WYAAouP0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FLGCMA9WYAAouP0.jpg",
+					"url": "https://t.co/mopwq6Jwq6",
+					"display_url": "pic.twitter.com/mopwq6Jwq6",
+					"expanded_url": "https://twitter.com/HealthPhysio/status/1491116117351612417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 362,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 2030,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 638,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2363146506,
+			"id_str": "2363146506",
+			"name": "Christopher Tuckett",
+			"screen_name": "HealthPhysio",
+			"location": "Hertfordshire/Essex border",
+			"description": "Physiotherapist and Associate Director of AHPs. Interests are quality & safety improvement, rehabilitation & physical activity promotion. Views my own.",
+			"url": "https://t.co/DahwgtAems",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DahwgtAems",
+							"expanded_url": "http://www.health-physio.com",
+							"display_url": "health-physio.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3633,
+			"friends_count": 2619,
+			"listed_count": 70,
+			"created_at": "Wed Feb 26 20:16:20 +0000 2014",
+			"favourites_count": 9346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8695,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/835052950678605825/noJUXGhS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/835052950678605825/noJUXGhS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2363146506/1407355066",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 26,
+		"favorite_count": 93,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "❓I'd be interested to know peoples' thoughts on this:\n\n💥\"AHPs and the executive glass-ceiling\"💥\n\nA 5min read.\n\nHT- @physioupdate\n#leadership #AHP\n\nhttps://t.co/8UVV1jjnbT https://t.co/mopwq6Jwq6"
+	},
+	{
+		"created_at": "Wed Feb 09 18:16:19 +0000 2022",
+		"id": 1491476065897914400,
+		"id_str": "1491476065897914372",
+		"full_text": "@Badj1960 @KMiddletonCSP Alun, this fact will be a factor in where I look to work in the future. 👍",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Badj1960",
+					"name": "Alun E Morgan MBE FCSP He/Him",
+					"id": 1519982215,
+					"id_str": "1519982215",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "KMiddletonCSP",
+					"name": "Karen Middleton (she/her)",
+					"id": 791233063,
+					"id_str": "791233063",
+					"indices": [
+						10,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1491379586797424600,
+		"in_reply_to_status_id_str": "1491379586797424641",
+		"in_reply_to_user_id": 1519982215,
+		"in_reply_to_user_id_str": "1519982215",
+		"in_reply_to_screen_name": "Badj1960",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #Leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3155,
+			"friends_count": 4257,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Badj1960 @KMiddletonCSP Alun, this fact will be a factor in where I look to work in the future. 👍"
+	},
+	{
+		"created_at": "Wed Feb 09 16:36:32 +0000 2022",
+		"id": 1491450956143534000,
+		"id_str": "1491450956143534081",
+		"full_text": "@debs1_wilson @Sx_WfEd @fionajlong Fab news! @sx_WfEd are lucky to have you. 🤩",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debs1_wilson",
+					"name": "Deborah wilson💙",
+					"id": 3115697217,
+					"id_str": "3115697217",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Sx_WfEd",
+					"name": "Sussex Health and Care Workforce Education",
+					"id": 1491053608120508400,
+					"id_str": "1491053608120508418",
+					"indices": [
+						14,
+						22
+					]
+				},
+				{
+					"screen_name": "fionajlong",
+					"name": "Fiona Long",
+					"id": 1514446928,
+					"id_str": "1514446928",
+					"indices": [
+						23,
+						34
+					]
+				},
+				{
+					"screen_name": "Sx_WfEd",
+					"name": "Sussex Health and Care Workforce Education",
+					"id": 1491053608120508400,
+					"id_str": "1491053608120508418",
+					"indices": [
+						45,
+						53
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1491442067360387000,
+		"in_reply_to_status_id_str": "1491442067360387073",
+		"in_reply_to_user_id": 3115697217,
+		"in_reply_to_user_id_str": "3115697217",
+		"in_reply_to_screen_name": "debs1_wilson",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #Leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3155,
+			"friends_count": 4257,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@debs1_wilson @Sx_WfEd @fionajlong Fab news! @sx_WfEd are lucky to have you. 🤩"
+	},
+	{
+		"created_at": "Wed Feb 09 14:32:53 +0000 2022",
+		"id": 1491419836983177200,
+		"id_str": "1491419836983177216",
+		"full_text": "@laurarathbone @rob_chiro @WorldPhysio1951 The funding, as you know it, was dropped in 2017  and switched to the loans. This was revised in 2019 with the loan system continuing but with an maintenance grant of £5,000 (per year).",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "laurarathbone",
+					"name": "Laura Rathbone🌱✌🇪🇺🌈",
+					"id": 32357102,
+					"id_str": "32357102",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "rob_chiro",
+					"name": "Rob Beaven",
+					"id": 778360681,
+					"id_str": "778360681",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "WorldPhysio1951",
+					"name": "World Physiotherapy",
+					"id": 270306354,
+					"id_str": "270306354",
+					"indices": [
+						26,
+						42
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1491417535618904000,
+		"in_reply_to_status_id_str": "1491417535618904074",
+		"in_reply_to_user_id": 32357102,
+		"in_reply_to_user_id_str": "32357102",
+		"in_reply_to_screen_name": "laurarathbone",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #Leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3155,
+			"friends_count": 4257,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@laurarathbone @rob_chiro @WorldPhysio1951 The funding, as you know it, was dropped in 2017  and switched to the loans. This was revised in 2019 with the loan system continuing but with an maintenance grant of £5,000 (per year)."
+	},
+	{
+		"created_at": "Wed Feb 09 14:04:10 +0000 2022",
+		"id": 1491356203804467200,
+		"id_str": "1491412613129211905",
+		"full_text": "We have had to make the difficult decision to cancel the planned Physiotherapy UK conference in 2022. https://t.co/lU3InjHPZv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lU3InjHPZv",
+					"expanded_url": "https://www.physiotherapyuk.org.uk/",
+					"display_url": "physiotherapyuk.org.uk",
+					"indices": [
+						102,
+						125
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 138098880,
+			"id_str": "138098880",
+			"name": "Chartered Society of Physiotherapy",
+			"screen_name": "thecsp",
+			"location": "United Kingdom",
+			"description": "Chartered Society of Physiotherapy (CSP) - the professional, educational and union body for 63,000 UK-chartered physiotherapists, students and support workers.",
+			"url": "https://t.co/OPMevUWyYr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OPMevUWyYr",
+							"expanded_url": "http://www.csp.org.uk",
+							"display_url": "csp.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61327,
+			"friends_count": 1388,
+			"listed_count": 378,
+			"created_at": "Wed Apr 28 16:27:18 +0000 2010",
+			"favourites_count": 6104,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 16056,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "E6E3DC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/902851531388534785/RRRJKVa0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/902851531388534785/RRRJKVa0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/138098880/1623057939",
+			"profile_link_color": "252673",
+			"profile_sidebar_border_color": "C9C9C9",
+			"profile_sidebar_fill_color": "E3E3E3",
+			"profile_text_color": "757575",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We have had to make the difficult decision to cancel the planned Physiotherapy UK conference in 2022. https://t.co/lU3InjHPZv"
+	},
+	{
+		"created_at": "Wed Feb 09 12:45:44 +0000 2022",
+		"id": 1491392874453532700,
+		"id_str": "1491392874453532674",
+		"full_text": "HT @exerciseworks",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "exerciseworks",
+					"name": "Exercise Works!",
+					"id": 256921454,
+					"id_str": "256921454",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1491392495460434000,
+		"in_reply_to_status_id_str": "1491392495460433922",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #Leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3155,
+			"friends_count": 4257,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24750,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7879,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "HT @exerciseworks"
+	},
+	{
 		"created_at": "Tue Feb 08 21:52:51 +0000 2022",
 		"id": 1491168170429673500,
 		"id_str": "1491168170429673476",
