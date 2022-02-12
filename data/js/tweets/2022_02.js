@@ -1,6 +1,490 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 11 19:44:56 +0000 2022",
+		"id": 1492223146514165800,
+		"id_str": "1492223146514165764",
+		"full_text": "@GemmaStacey10 @FNightingaleF Definitely 🤩",
+		"truncated": false,
+		"display_text_range": [
+			30,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GemmaStacey10",
+					"name": "Prof Gemma Stacey",
+					"id": 2962190051,
+					"id_str": "2962190051",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "FNightingaleF",
+					"name": "Florence Nightingale Foundation",
+					"id": 988668133,
+					"id_str": "988668133",
+					"indices": [
+						15,
+						29
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1492190999044575200,
+		"in_reply_to_status_id_str": "1492190999044575237",
+		"in_reply_to_user_id": 2962190051,
+		"in_reply_to_user_id_str": "2962190051",
+		"in_reply_to_screen_name": "GemmaStacey10",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #Leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3158,
+			"friends_count": 4259,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24756,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7885,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GemmaStacey10 @FNightingaleF Definitely 🤩"
+	},
+	{
+		"created_at": "Fri Feb 11 16:16:02 +0000 2022",
+		"id": 1492170574768058400,
+		"id_str": "1492170574768058373",
+		"full_text": "Great resource if you are interested in ‘digital’ - @FNightingaleF . ⬇️\n\nWhat does the digital revolution hold for the clinical workforce? 📲\n🔗: https://t.co/KvzI6mU5nT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FNightingaleF",
+					"name": "Florence Nightingale Foundation",
+					"id": 988668133,
+					"id_str": "988668133",
+					"indices": [
+						52,
+						66
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KvzI6mU5nT",
+					"expanded_url": "https://youtu.be/u72w_7gtZQM",
+					"display_url": "youtu.be/u72w_7gtZQM",
+					"indices": [
+						144,
+						167
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1492170572658352000,
+		"in_reply_to_status_id_str": "1492170572658352142",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #Leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3158,
+			"friends_count": 4259,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24756,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7885,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great resource if you are interested in ‘digital’ - @FNightingaleF . ⬇️\n\nWhat does the digital revolution hold for the clinical workforce? 📲\n🔗: https://t.co/KvzI6mU5nT"
+	},
+	{
+		"created_at": "Fri Feb 11 16:16:02 +0000 2022",
+		"id": 1492170572658352000,
+		"id_str": "1492170572658352142",
+		"full_text": "Fabulous to meet @GemmaStacey10 yesterday &amp; to learn all about @FNightingaleF. \n\nFYI #AHPs : It is not all about nurses.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			124
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AHPs",
+					"indices": [
+						89,
+						94
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GemmaStacey10",
+					"name": "Prof Gemma Stacey",
+					"id": 2962190051,
+					"id_str": "2962190051",
+					"indices": [
+						17,
+						31
+					]
+				},
+				{
+					"screen_name": "FNightingaleF",
+					"name": "Florence Nightingale Foundation",
+					"id": 988668133,
+					"id_str": "988668133",
+					"indices": [
+						67,
+						81
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Mostly walking my greyhound; many committees; postgrad student; Often tweets: #AHP, #Leadership, health/public policy; Interest: ☕️, veterans/defence & politics",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3158,
+			"friends_count": 4259,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24756,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7885,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Fabulous to meet @GemmaStacey10 yesterday &amp; to learn all about @FNightingaleF. \n\nFYI #AHPs : It is not all about nurses."
+	},
+	{
+		"created_at": "Fri Feb 11 15:37:03 +0000 2022",
+		"id": 1491949940469293000,
+		"id_str": "1492160763896737795",
+		"full_text": "@PhilBoltonRN @BritishArmy @RoyalAirForce @UHDBTrust @magnusharrison @beardedPT @CathyWinfield A gr8 demonstration of being proactive and looking at the longer vision for UHDB something that should be considered if not already across Derbyshire. Another way of showing a system approach. So proud to work @UHDBTrust",
+		"truncated": false,
+		"display_text_range": [
+			95,
+			315
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhilBoltonRN",
+					"name": "Phil Bolton",
+					"id": 1188076842726690800,
+					"id_str": "1188076842726690817",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "BritishArmy",
+					"name": "British Army",
+					"id": 22046686,
+					"id_str": "22046686",
+					"indices": [
+						14,
+						26
+					]
+				},
+				{
+					"screen_name": "RoyalAirForce",
+					"name": "Royal Air Force",
+					"id": 92943533,
+					"id_str": "92943533",
+					"indices": [
+						27,
+						41
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"screen_name": "magnusharrison",
+					"name": "Dr. Magnus Harrison 😷🌈💙",
+					"id": 258272524,
+					"id_str": "258272524",
+					"indices": [
+						53,
+						68
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						69,
+						79
+					]
+				},
+				{
+					"screen_name": "CathyWinfield",
+					"name": "Cathy Winfield MBE, RN, MSc💙",
+					"id": 2188050351,
+					"id_str": "2188050351",
+					"indices": [
+						80,
+						94
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						305,
+						315
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1490606510791184400,
+		"in_reply_to_status_id_str": "1490606510791184385",
+		"in_reply_to_user_id": 1188076842726690800,
+		"in_reply_to_user_id_str": "1188076842726690817",
+		"in_reply_to_screen_name": "PhilBoltonRN",
+		"user": {
+			"id": 252792976,
+			"id_str": "252792976",
+			"name": "Stacey Martin",
+			"screen_name": "staceyM1978",
+			"location": "",
+			"description": "I work as a Practice Learning Facilitator. Supporting students,SSSA and Preceptorship  @UHDB. I believe we all play a part in the learning process.#myopinions",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 480,
+			"friends_count": 515,
+			"listed_count": 6,
+			"created_at": "Tue Feb 15 22:47:08 +0000 2011",
+			"favourites_count": 970,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1121,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/627301104850739200/YaUbiwup_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/627301104850739200/YaUbiwup_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@PhilBoltonRN @BritishArmy @RoyalAirForce @UHDBTrust @magnusharrison @beardedPT @CathyWinfield A gr8 demonstration of being proactive and looking at the longer vision for UHDB something that should be considered if not already across Derbyshire. Another way of showing a system approach. So proud to work @UHDBTrust"
+	},
+	{
 		"created_at": "Thu Feb 10 22:08:26 +0000 2022",
 		"id": 1491839931567812600,
 		"id_str": "1491896869571678211",
@@ -127,7 +611,7 @@ Grailbird.data.tweets_2022_02 =
 			"name": "Rachael Moses",
 			"screen_name": "NHSLeader",
 			"location": "London, England",
-			"description": "Head of Clinical Leadership @NHSLeadership Resp NCA @Pers_Care @BTSRespiratory President, Team @thoraxBMJ, Team @MedicalAidPal, Views my own 🏳️‍🌈 She/Hers",
+			"description": "Head of Clinical Leadership @NHSLeadership Resp NCA @Pers_Care @BTSRespiratory President, Team @thoraxBMJ, Team @MedicalAidPal, Views my own 🏳️🌈 She/Hers",
 			"url": null,
 			"entities": {
 				"description": {
