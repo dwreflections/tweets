@@ -1,6 +1,234 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Tue Feb 15 20:44:16 +0000 2022",
+		"id": 1493687626100101000,
+		"id_str": "1493687626100101123",
+		"full_text": "@jkfillingham @stuartgpalma @AldiUK Of course … it has to done. 😆",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jkfillingham",
+					"name": "Dr Joanne Fillingham she/her/hers",
+					"id": 795389719,
+					"id_str": "795389719",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "stuartgpalma",
+					"name": "Stuart Palma 💙",
+					"id": 468241231,
+					"id_str": "468241231",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "AldiUK",
+					"name": "Aldi Stores UK",
+					"id": 28596803,
+					"id_str": "28596803",
+					"indices": [
+						28,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1493678982537040000,
+		"in_reply_to_status_id_str": "1493678982537039873",
+		"in_reply_to_user_id": 795389719,
+		"in_reply_to_user_id_str": "795389719",
+		"in_reply_to_screen_name": "jkfillingham",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3162,
+			"friends_count": 4261,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jkfillingham @stuartgpalma @AldiUK Of course … it has to done. 😆"
+	},
+	{
+		"created_at": "Tue Feb 15 19:43:01 +0000 2022",
+		"id": 1493672215258308600,
+		"id_str": "1493672215258308609",
+		"full_text": "@jkfillingham @stuartgpalma 🤣🤣😆… Thank the mystery isle at @AldiUK",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jkfillingham",
+					"name": "Dr Joanne Fillingham she/her/hers",
+					"id": 795389719,
+					"id_str": "795389719",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "stuartgpalma",
+					"name": "Stuart Palma 💙",
+					"id": 468241231,
+					"id_str": "468241231",
+					"indices": [
+						14,
+						27
+					]
+				},
+				{
+					"screen_name": "AldiUK",
+					"name": "Aldi Stores UK",
+					"id": 28596803,
+					"id_str": "28596803",
+					"indices": [
+						59,
+						66
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1493653847813902300,
+		"in_reply_to_status_id_str": "1493653847813902348",
+		"in_reply_to_user_id": 795389719,
+		"in_reply_to_user_id_str": "795389719",
+		"in_reply_to_screen_name": "jkfillingham",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3162,
+			"friends_count": 4261,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24781,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7892,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jkfillingham @stuartgpalma 🤣🤣😆… Thank the mystery isle at @AldiUK"
+	},
+	{
 		"created_at": "Mon Feb 14 21:29:55 +0000 2022",
 		"id": 1493336726894481400,
 		"id_str": "1493336726894481410",
