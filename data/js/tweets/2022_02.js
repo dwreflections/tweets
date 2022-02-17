@@ -1,6 +1,890 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 16 21:40:17 +0000 2022",
+		"id": 1494064112443269000,
+		"id_str": "1494064112443269120",
+		"full_text": "@NatashaPisarski @KMiddletonCSP @PaulChapman09 @NatMatchOT Ooo this is a handy resource/reference for an essay I am writing 👍",
+		"truncated": false,
+		"display_text_range": [
+			59,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NatashaPisarski",
+					"name": "Natasha Pisarski",
+					"id": 1130814625572905000,
+					"id_str": "1130814625572904960",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "KMiddletonCSP",
+					"name": "Karen Middleton (she/her)",
+					"id": 791233063,
+					"id_str": "791233063",
+					"indices": [
+						17,
+						31
+					]
+				},
+				{
+					"screen_name": "PaulChapman09",
+					"name": "Paul_Chapman09",
+					"id": 735562813146533900,
+					"id_str": "735562813146533888",
+					"indices": [
+						32,
+						46
+					]
+				},
+				{
+					"screen_name": "NatMatchOT",
+					"name": "Natalie Matchett",
+					"id": 354823451,
+					"id_str": "354823451",
+					"indices": [
+						47,
+						58
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1494032369719906300,
+		"in_reply_to_status_id_str": "1494032369719906305",
+		"in_reply_to_user_id": 1130814625572905000,
+		"in_reply_to_user_id_str": "1130814625572904960",
+		"in_reply_to_screen_name": "NatashaPisarski",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Greyhound dad; Governor @ @UHDBtrust ; Chair @ @UHDB_AFN ;Postgrad student @hsmc_; Often tweets: #AHP, #Leadership, Health/digital/public policy, Defence & Vets",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3161,
+			"friends_count": 4263,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NatashaPisarski @KMiddletonCSP @PaulChapman09 @NatMatchOT Ooo this is a handy resource/reference for an essay I am writing 👍"
+	},
+	{
+		"created_at": "Wed Feb 16 21:34:16 +0000 2022",
+		"id": 1494062597955625000,
+		"id_str": "1494062597955624968",
+		"full_text": "@watts_nick @GreenerNHS @FMLM_UK You have twisted my arm with this tweet! I’m getting an application in … 👍",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "watts_nick",
+					"name": "Dr Nick Watts",
+					"id": 364282092,
+					"id_str": "364282092",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "GreenerNHS",
+					"name": "Greener NHS",
+					"id": 205159121,
+					"id_str": "205159121",
+					"indices": [
+						12,
+						23
+					]
+				},
+				{
+					"screen_name": "FMLM_UK",
+					"name": "Faculty of Medical Leadership and Management",
+					"id": 355541903,
+					"id_str": "355541903",
+					"indices": [
+						24,
+						32
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1493864997897883600,
+		"in_reply_to_status_id_str": "1493864997897883651",
+		"in_reply_to_user_id": 364282092,
+		"in_reply_to_user_id_str": "364282092",
+		"in_reply_to_screen_name": "watts_nick",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Greyhound dad; Governor @ @UHDBtrust ; Chair @ @UHDB_AFN ;Postgrad student @hsmc_; Often tweets: #AHP, #Leadership, Health/digital/public policy, Defence & Vets",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3161,
+			"friends_count": 4263,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@watts_nick @GreenerNHS @FMLM_UK You have twisted my arm with this tweet! I’m getting an application in … 👍"
+	},
+	{
+		"created_at": "Wed Feb 16 20:33:45 +0000 2022",
+		"id": 1494047369419186200,
+		"id_str": "1494047369419186179",
+		"full_text": "@hill_karenhill3 @UHDBTrust @LaraRaworth @magnusharrison @JamesCrampton75 Thank you @Barbara23818666 for all your efforts in making this a reality.",
+		"truncated": false,
+		"display_text_range": [
+			74,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hill_karenhill3",
+					"name": "Karen Hill 💙 RN MSc",
+					"id": 2361529948,
+					"id_str": "2361529948",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"screen_name": "LaraRaworth",
+					"name": "Lara Raworth",
+					"id": 917528162,
+					"id_str": "917528162",
+					"indices": [
+						28,
+						40
+					]
+				},
+				{
+					"screen_name": "magnusharrison",
+					"name": "Dr. Magnus Harrison 😷🌈💙",
+					"id": 258272524,
+					"id_str": "258272524",
+					"indices": [
+						41,
+						56
+					]
+				},
+				{
+					"screen_name": "JamesCrampton75",
+					"name": "James Crampton",
+					"id": 963894671897518100,
+					"id_str": "963894671897518081",
+					"indices": [
+						57,
+						73
+					]
+				},
+				{
+					"screen_name": "Barbara23818666",
+					"name": "Barbara Day",
+					"id": 931259153481429000,
+					"id_str": "931259153481428998",
+					"indices": [
+						84,
+						100
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1493870986218950700,
+		"in_reply_to_status_id_str": "1493870986218950658",
+		"in_reply_to_user_id": 2361529948,
+		"in_reply_to_user_id_str": "2361529948",
+		"in_reply_to_screen_name": "hill_karenhill3",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Greyhound dad; Governor @ @UHDBtrust ; Chair @ @UHDB_AFN ;Postgrad student @hsmc_; Often tweets: #AHP, #Leadership, Health/digital/public policy, Defence & Vets",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3161,
+			"friends_count": 4263,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hill_karenhill3 @UHDBTrust @LaraRaworth @magnusharrison @JamesCrampton75 Thank you @Barbara23818666 for all your efforts in making this a reality."
+	},
+	{
+		"created_at": "Wed Feb 16 20:32:32 +0000 2022",
+		"id": 1493870986218950700,
+		"id_str": "1494047062798868484",
+		"full_text": "Brilliant 👏🏻👏🏻👏🏻 @UHDBTrust #ClinicalPlacements #SocialResponsibilty @beardedPT @LaraRaworth @magnusharrison @JamesCrampton75 https://t.co/Qwj4wZLOeE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ClinicalPlacements",
+					"indices": [
+						28,
+						47
+					]
+				},
+				{
+					"text": "SocialResponsibilty",
+					"indices": [
+						48,
+						68
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						17,
+						27
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						69,
+						79
+					]
+				},
+				{
+					"screen_name": "LaraRaworth",
+					"name": "Lara Raworth",
+					"id": 917528162,
+					"id_str": "917528162",
+					"indices": [
+						80,
+						92
+					]
+				},
+				{
+					"screen_name": "magnusharrison",
+					"name": "Dr. Magnus Harrison 😷🌈💙",
+					"id": 258272524,
+					"id_str": "258272524",
+					"indices": [
+						93,
+						108
+					]
+				},
+				{
+					"screen_name": "JamesCrampton75",
+					"name": "James Crampton",
+					"id": 963894671897518100,
+					"id_str": "963894671897518081",
+					"indices": [
+						109,
+						125
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Qwj4wZLOeE",
+					"expanded_url": "https://twitter.com/barbara23818666/status/1493651498810683393",
+					"display_url": "twitter.com/barbara2381866…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2361529948,
+			"id_str": "2361529948",
+			"name": "Karen Hill 💙 RN MSc",
+			"screen_name": "hill_karenhill3",
+			"location": "Derby",
+			"description": "Lead Nurse -Professional Standards. Passionate about golden retrievers. Be a flamingo 🦩in a flock of pigeons. All views are my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2168,
+			"friends_count": 1067,
+			"listed_count": 34,
+			"created_at": "Sun Feb 23 20:15:39 +0000 2014",
+			"favourites_count": 35227,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 21684,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1137720884247052288/Bnr6V1-O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137720884247052288/Bnr6V1-O_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2361529948/1457645116",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1493651498810683400,
+		"quoted_status_id_str": "1493651498810683393",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Qwj4wZLOeE",
+			"expanded": "https://twitter.com/barbara23818666/status/1493651498810683393",
+			"display": "twitter.com/barbara2381866…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Feb 15 18:20:42 +0000 2022",
+			"id": 1493651498810683400,
+			"id_str": "1493651498810683393",
+			"full_text": "PD are proud to welcome our first cohort of British Army &amp; Royal Air Force medics to their training placements at UHDB.  This exciting pilot is the start of our longer term collaboration with our military colleagues @CathyWinfield @PhilBoltonRN @PDTUHDB @UHDBTrust @amrawlings https://t.co/cdKBJOg35Y",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CathyWinfield",
+						"name": "Cathy Winfield MBE, RN, MSc💙",
+						"id": 2188050351,
+						"id_str": "2188050351",
+						"indices": [
+							220,
+							234
+						]
+					},
+					{
+						"screen_name": "PhilBoltonRN",
+						"name": "Phil Bolton",
+						"id": 1188076842726690800,
+						"id_str": "1188076842726690817",
+						"indices": [
+							235,
+							248
+						]
+					},
+					{
+						"screen_name": "PDTUHDB",
+						"name": "UHDB - Professional & Practice Development",
+						"id": 1001079178710650900,
+						"id_str": "1001079178710650880",
+						"indices": [
+							249,
+							257
+						]
+					},
+					{
+						"screen_name": "UHDBTrust",
+						"name": "University Hospitals of Derby and Burton NHS FT",
+						"id": 429877936,
+						"id_str": "429877936",
+						"indices": [
+							258,
+							268
+						]
+					},
+					{
+						"screen_name": "amrawlings",
+						"name": "Amanda Rawlings",
+						"id": 631943465,
+						"id_str": "631943465",
+						"indices": [
+							269,
+							280
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1493606583183499300,
+						"id_str": "1493606583183499264",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FLpbRiDWYAA47k1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FLpbRiDWYAA47k1.jpg",
+						"url": "https://t.co/cdKBJOg35Y",
+						"display_url": "pic.twitter.com/cdKBJOg35Y",
+						"expanded_url": "https://twitter.com/Barbara23818666/status/1493651498810683393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1493606583183499300,
+						"id_str": "1493606583183499264",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FLpbRiDWYAA47k1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FLpbRiDWYAA47k1.jpg",
+						"url": "https://t.co/cdKBJOg35Y",
+						"display_url": "pic.twitter.com/cdKBJOg35Y",
+						"expanded_url": "https://twitter.com/Barbara23818666/status/1493651498810683393/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 931259153481429000,
+				"id_str": "931259153481428998",
+				"name": "Barbara Day",
+				"screen_name": "Barbara23818666",
+				"location": "Brassington, England",
+				"description": "Head of Professional Development at UHDB. Proud to be a Registered Nurse - passionate about education & professional development, busy mum of 2 boys and 2 dogs",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 454,
+				"friends_count": 77,
+				"listed_count": 1,
+				"created_at": "Thu Nov 16 20:34:18 +0000 2017",
+				"favourites_count": 484,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 135,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1070008978816622592/6ul6I_dy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1070008978816622592/6ul6I_dy_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 97,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Brilliant 👏🏻👏🏻👏🏻 @UHDBTrust #ClinicalPlacements #SocialResponsibilty @beardedPT @LaraRaworth @magnusharrison @JamesCrampton75 https://t.co/Qwj4wZLOeE"
+	},
+	{
+		"created_at": "Wed Feb 16 20:32:18 +0000 2022",
+		"id": 1494047003835351000,
+		"id_str": "1494047003835351045",
+		"full_text": "@DrLindseyFitz @hill_karenhill3  @PhilBoltonRN @CathyWinfield",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrLindseyFitz",
+					"name": "Lindsey Fitzharris",
+					"id": 229509740,
+					"id_str": "229509740",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "hill_karenhill3",
+					"name": "Karen Hill 💙 RN MSc",
+					"id": 2361529948,
+					"id_str": "2361529948",
+					"indices": [
+						15,
+						31
+					]
+				},
+				{
+					"screen_name": "PhilBoltonRN",
+					"name": "Phil Bolton",
+					"id": 1188076842726690800,
+					"id_str": "1188076842726690817",
+					"indices": [
+						33,
+						46
+					]
+				},
+				{
+					"screen_name": "CathyWinfield",
+					"name": "Cathy Winfield MBE, RN, MSc💙",
+					"id": 2188050351,
+					"id_str": "2188050351",
+					"indices": [
+						47,
+						61
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1494044543217504300,
+		"in_reply_to_status_id_str": "1494044543217504262",
+		"in_reply_to_user_id": 229509740,
+		"in_reply_to_user_id_str": "229509740",
+		"in_reply_to_screen_name": "DrLindseyFitz",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Greyhound dad; Governor @ @UHDBtrust ; Chair @ @UHDB_AFN ;Postgrad student @hsmc_; Often tweets: #AHP, #Leadership, Health/digital/public policy, Defence & Vets",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3161,
+			"friends_count": 4263,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24789,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7898,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@DrLindseyFitz @hill_karenhill3  @PhilBoltonRN @CathyWinfield"
+	},
+	{
 		"created_at": "Tue Feb 15 20:44:16 +0000 2022",
 		"id": 1493687626100101000,
 		"id_str": "1493687626100101123",
