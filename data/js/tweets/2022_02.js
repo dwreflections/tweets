@@ -1,6 +1,632 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Sun Feb 20 21:28:43 +0000 2022",
+		"id": 1495510752094040000,
+		"id_str": "1495510752094040064",
+		"full_text": "@FCPphysio Sometimes it has to do be done! \nI have had my study buddy with me today. Too stormy for a greyhound 🌧. https://t.co/7y8ELC9py7",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FCPphysio",
+					"name": "Laura Abel",
+					"id": 966932010,
+					"id_str": "966932010",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1495510746700132400,
+					"id_str": "1495510746700132360",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FMEfGb7XMAgJl0p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMEfGb7XMAgJl0p.jpg",
+					"url": "https://t.co/7y8ELC9py7",
+					"display_url": "pic.twitter.com/7y8ELC9py7",
+					"expanded_url": "https://twitter.com/beardedPT/status/1495510752094040064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1495510746700132400,
+					"id_str": "1495510746700132360",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/FMEfGb7XMAgJl0p.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMEfGb7XMAgJl0p.jpg",
+					"url": "https://t.co/7y8ELC9py7",
+					"display_url": "pic.twitter.com/7y8ELC9py7",
+					"expanded_url": "https://twitter.com/beardedPT/status/1495510752094040064/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1495508815009271800,
+		"in_reply_to_status_id_str": "1495508815009271818",
+		"in_reply_to_user_id": 966932010,
+		"in_reply_to_user_id_str": "966932010",
+		"in_reply_to_screen_name": "FCPphysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Greyhound dad; Governor @ @UHDBtrust ; Chair @ @UHDB_AFN ;Postgrad student @hsmc_; Often tweets: #AHP, #Leadership, Health/digital/public policy, Defence & Vets",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3162,
+			"friends_count": 4266,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@FCPphysio Sometimes it has to do be done! \nI have had my study buddy with me today. Too stormy for a greyhound 🌧. https://t.co/7y8ELC9py7"
+	},
+	{
+		"created_at": "Sun Feb 20 21:16:06 +0000 2022",
+		"id": 1495507577253343200,
+		"id_str": "1495507577253343232",
+		"full_text": "Excellent documentary - if you have a Netflix subscription. A case study into culture change after a corporate merger. Aviation is often discussed regarding patient safety: well, this may change your mind? https://t.co/88cpASBBjR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/88cpASBBjR",
+					"expanded_url": "https://twitter.com/netflix/status/1494796949085556738",
+					"display_url": "twitter.com/netflix/status…",
+					"indices": [
+						206,
+						229
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Greyhound dad; Governor @ @UHDBtrust ; Chair @ @UHDB_AFN ;Postgrad student @hsmc_; Often tweets: #AHP, #Leadership, Health/digital/public policy, Defence & Vets",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3162,
+			"friends_count": 4266,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1494796949085556700,
+		"quoted_status_id_str": "1494796949085556738",
+		"quoted_status_permalink": {
+			"url": "https://t.co/88cpASBBjR",
+			"expanded": "https://twitter.com/netflix/status/1494796949085556738",
+			"display": "twitter.com/netflix/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Feb 18 22:12:19 +0000 2022",
+			"id": 1494796949085556700,
+			"id_str": "1494796949085556738",
+			"full_text": "In 2018, a Boeing 737 Max plane crashed.  Five months later, another Boeing 737 Max plane crashed. A total of 346 people died.\n\nDownfall: The Case Against Boeing documents how Wall Street’s influence and Boeing’s crumbling internal culture resulted in a shocking cover-up. https://t.co/igYaigwJZk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1494795303131566000,
+						"id_str": "1494795303131566080",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/media/FL6Uo-HVgAEO9p1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FL6Uo-HVgAEO9p1.jpg",
+						"url": "https://t.co/igYaigwJZk",
+						"display_url": "pic.twitter.com/igYaigwJZk",
+						"expanded_url": "https://twitter.com/netflix/status/1494796949085556738/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1148,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 673,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1494795303131566000,
+						"id_str": "1494795303131566080",
+						"indices": [
+							273,
+							296
+						],
+						"media_url": "http://pbs.twimg.com/media/FL6Uo-HVgAEO9p1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FL6Uo-HVgAEO9p1.jpg",
+						"url": "https://t.co/igYaigwJZk",
+						"display_url": "pic.twitter.com/igYaigwJZk",
+						"expanded_url": "https://twitter.com/netflix/status/1494796949085556738/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 381,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1148,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 673,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 118076,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1494795303131566080/vid/640x360/2M8r9b3oyIh7bY4I.mp4?tag=14"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1494795303131566080/vid/480x270/I4uedK29nfHdNpUZ.mp4?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1494795303131566080/vid/1280x720/mRTGEWld7yMn9FcL.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1494795303131566080/pl/8u35EY18SUQ3wtk2.m3u8?tag=14&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16573941,
+				"id_str": "16573941",
+				"name": "Netflix",
+				"screen_name": "netflix",
+				"location": "California, USA",
+				"description": "Uncut Jahmz is currently on Netflix",
+				"url": "https://t.co/ebeSKSnspf",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ebeSKSnspf",
+								"expanded_url": "http://spotify.link/NetflixHub",
+								"display_url": "spotify.link/NetflixHub",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16174612,
+				"friends_count": 2026,
+				"listed_count": 19273,
+				"created_at": "Fri Oct 03 04:16:17 +0000 2008",
+				"favourites_count": 14844,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 42874,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1235992718171467776/PaX2Bz1S_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1235992718171467776/PaX2Bz1S_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16573941/1644884593",
+				"profile_link_color": "E50914",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 737,
+			"favorite_count": 2427,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excellent documentary - if you have a Netflix subscription. A case study into culture change after a corporate merger. Aviation is often discussed regarding patient safety: well, this may change your mind? https://t.co/88cpASBBjR"
+	},
+	{
+		"created_at": "Sun Feb 20 21:11:52 +0000 2022",
+		"id": 1495506514748055600,
+		"id_str": "1495506514748055556",
+		"full_text": "@CathBella1 @UHDBRunningClub @UHDBWellbeing @NicolaBullen5 @CathyWinfield @UHDB_AFN fancy it?",
+		"truncated": false,
+		"display_text_range": [
+			74,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CathBella1",
+					"name": "KatK48",
+					"id": 1102539233787609100,
+					"id_str": "1102539233787609091",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "UHDBRunningClub",
+					"name": "UHDB NHS Running Club",
+					"id": 1331926416389238800,
+					"id_str": "1331926416389238789",
+					"indices": [
+						12,
+						28
+					]
+				},
+				{
+					"screen_name": "UHDBWellbeing",
+					"name": "UHDB Wellbeing",
+					"id": 892043096346808300,
+					"id_str": "892043096346808321",
+					"indices": [
+						29,
+						43
+					]
+				},
+				{
+					"screen_name": "NicolaBullen5",
+					"name": "Nicola Bullen",
+					"id": 1393450234483777500,
+					"id_str": "1393450234483777536",
+					"indices": [
+						44,
+						58
+					]
+				},
+				{
+					"screen_name": "CathyWinfield",
+					"name": "Cathy Winfield MBE, RN, MSc💙",
+					"id": 2188050351,
+					"id_str": "2188050351",
+					"indices": [
+						59,
+						73
+					]
+				},
+				{
+					"screen_name": "UHDB_AFN",
+					"name": "UHDB Armed Forces Network",
+					"id": 1384135578233360400,
+					"id_str": "1384135578233360399",
+					"indices": [
+						74,
+						83
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1495485477448781800,
+		"in_reply_to_status_id_str": "1495485477448781831",
+		"in_reply_to_user_id": 1102539233787609100,
+		"in_reply_to_user_id_str": "1102539233787609091",
+		"in_reply_to_screen_name": "CathBella1",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Greyhound dad; Governor @ @UHDBtrust ; Chair @ @UHDB_AFN ;Postgrad student @hsmc_; Often tweets: #AHP, #Leadership, Health/digital/public policy, Defence & Vets",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3162,
+			"friends_count": 4266,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24821,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7912,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CathBella1 @UHDBRunningClub @UHDBWellbeing @NicolaBullen5 @CathyWinfield @UHDB_AFN fancy it?"
+	},
+	{
 		"created_at": "Sat Feb 19 21:46:30 +0000 2022",
 		"id": 1495152841916391400,
 		"id_str": "1495152841916391436",
