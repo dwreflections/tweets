@@ -1,6 +1,232 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Mon Feb 21 22:15:36 +0000 2022",
+		"id": 1495884941363748900,
+		"id_str": "1495884941363748867",
+		"full_text": "@jrdono80 I think scandalous sum it up! I always know how this ends... they get away scot-free...\n\nHave you seen Dope Sick (on Disney)?",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jrdono80",
+					"name": "rob",
+					"id": 4186992179,
+					"id_str": "4186992179",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1495830935698296800,
+		"in_reply_to_status_id_str": "1495830935698296836",
+		"in_reply_to_user_id": 4186992179,
+		"in_reply_to_user_id_str": "4186992179",
+		"in_reply_to_screen_name": "jrdono80",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Greyhound dad; Governor @ @UHDBtrust ; Chair @ @UHDB_AFN ;Postgrad student @hsmc_; Often tweets: #AHP, #Leadership, Health/digital/public policy, Defence & Vets",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3161,
+			"friends_count": 4265,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24828,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jrdono80 I think scandalous sum it up! I always know how this ends... they get away scot-free...\n\nHave you seen Dope Sick (on Disney)?"
+	},
+	{
+		"created_at": "Mon Feb 21 22:14:02 +0000 2022",
+		"id": 1495884546331619300,
+		"id_str": "1495884546331619329",
+		"full_text": "@debs1_wilson @EliseJWC @chloekj Thank you, @debs1_wilson, for connecting us all. Inspired! \n\nWe can really make that difference within the #AHP 'early' leadership space. Plans are afoot indeed!",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			194
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AHP",
+					"indices": [
+						140,
+						144
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debs1_wilson",
+					"name": "Deborah wilson💙",
+					"id": 3115697217,
+					"id_str": "3115697217",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "EliseJWC",
+					"name": "Elise Woodbridge-Colella",
+					"id": 1217191216758116400,
+					"id_str": "1217191216758116352",
+					"indices": [
+						14,
+						23
+					]
+				},
+				{
+					"screen_name": "chloekj",
+					"name": "Chloe K-J",
+					"id": 4009234893,
+					"id_str": "4009234893",
+					"indices": [
+						24,
+						32
+					]
+				},
+				{
+					"screen_name": "debs1_wilson",
+					"name": "Deborah wilson💙",
+					"id": 3115697217,
+					"id_str": "3115697217",
+					"indices": [
+						44,
+						57
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1495841094642421800,
+		"in_reply_to_status_id_str": "1495841094642421769",
+		"in_reply_to_user_id": 3115697217,
+		"in_reply_to_user_id_str": "3115697217",
+		"in_reply_to_screen_name": "debs1_wilson",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Greyhound dad; Governor @ @UHDBtrust ; Chair @ @UHDB_AFN ;Postgrad student @hsmc_; Often tweets: #AHP, #Leadership, Health/digital/public policy, Defence & Vets",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3161,
+			"friends_count": 4265,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24828,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7915,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@debs1_wilson @EliseJWC @chloekj Thank you, @debs1_wilson, for connecting us all. Inspired! \n\nWe can really make that difference within the #AHP 'early' leadership space. Plans are afoot indeed!"
+	},
+	{
 		"created_at": "Sun Feb 20 21:28:43 +0000 2022",
 		"id": 1495510752094040000,
 		"id_str": "1495510752094040064",
