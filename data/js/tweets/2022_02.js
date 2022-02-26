@@ -1,6 +1,1276 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Fri Feb 25 18:56:06 +0000 2022",
+		"id": 1497284285635645400,
+		"id_str": "1497284285635645445",
+		"full_text": "@hill_karenhill3 @CathyWinfield Our loss and South York’s gain 🤩😉\nCongratulations @CathyWinfield !",
+		"truncated": false,
+		"display_text_range": [
+			32,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hill_karenhill3",
+					"name": "Karen Hill 💙 RN MSc",
+					"id": 2361529948,
+					"id_str": "2361529948",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "CathyWinfield",
+					"name": "Cathy Winfield MBE, RN, MSc💙",
+					"id": 2188050351,
+					"id_str": "2188050351",
+					"indices": [
+						17,
+						31
+					]
+				},
+				{
+					"screen_name": "CathyWinfield",
+					"name": "Cathy Winfield MBE, RN, MSc💙",
+					"id": 2188050351,
+					"id_str": "2188050351",
+					"indices": [
+						82,
+						96
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1497258059881762800,
+		"in_reply_to_status_id_str": "1497258059881762817",
+		"in_reply_to_user_id": 2361529948,
+		"in_reply_to_user_id_str": "2361529948",
+		"in_reply_to_screen_name": "hill_karenhill3",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Greyhound dad; Governor @ @UHDBtrust ; Chair @ @UHDB_AFN ;Postgrad student @hsmc_; Often tweets: #AHP, #Leadership, Health/digital/public policy, Defence & Vets",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3161,
+			"friends_count": 4280,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@hill_karenhill3 @CathyWinfield Our loss and South York’s gain 🤩😉\nCongratulations @CathyWinfield !"
+	},
+	{
+		"created_at": "Fri Feb 25 18:49:42 +0000 2022",
+		"id": 1497232931940667400,
+		"id_str": "1497282674830024711",
+		"full_text": "Read below for an update from Defence Intelligence: https://t.co/blwf1hv0bq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1497232929109512200,
+					"id_str": "1497232929109512193",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FMc9apWXEAErui2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMc9apWXEAErui2.jpg",
+					"url": "https://t.co/blwf1hv0bq",
+					"display_url": "pic.twitter.com/blwf1hv0bq",
+					"expanded_url": "https://twitter.com/DefenceHQ/status/1497232931940667396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497232929109512200,
+					"id_str": "1497232929109512193",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/FMc9apWXEAErui2.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMc9apWXEAErui2.jpg",
+					"url": "https://t.co/blwf1hv0bq",
+					"display_url": "pic.twitter.com/blwf1hv0bq",
+					"expanded_url": "https://twitter.com/DefenceHQ/status/1497232931940667396/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16133530,
+			"id_str": "16133530",
+			"name": "Ministry of Defence 🇬🇧",
+			"screen_name": "DefenceHQ",
+			"location": "London UK",
+			"description": "DefenceHQ is the official corporate news channel of the UK Ministry of Defence.",
+			"url": "https://t.co/hiHldd4IHr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hiHldd4IHr",
+							"expanded_url": "http://www.gov.uk/mod",
+							"display_url": "gov.uk/mod",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 355630,
+			"friends_count": 622,
+			"listed_count": 3545,
+			"created_at": "Thu Sep 04 19:05:38 +0000 2008",
+			"favourites_count": 551,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 27962,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EBEBEB",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1460285782707609606/Ckiyij2G_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1460285782707609606/Ckiyij2G_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16133530/1645809113",
+			"profile_link_color": "990000",
+			"profile_sidebar_border_color": "DFDFDF",
+			"profile_sidebar_fill_color": "F3F3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1158,
+		"favorite_count": 3414,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Read below for an update from Defence Intelligence: https://t.co/blwf1hv0bq"
+	},
+	{
+		"created_at": "Fri Feb 25 18:01:49 +0000 2022",
+		"id": 1497270623663448000,
+		"id_str": "1497270623663448069",
+		"full_text": "Redeployment is over &amp; I will be joining @UHDBDP very soon. 🎉\n\nI want 2 thank all of the wonderful therapy staff @ @UHDB_DME 4 their help and support. In what is an under recognised role they make complex decisions &amp; provide gr8 therapy 2 ensure their patients return safely 🏡",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			284
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UHDBDP",
+					"name": "UHDB Digital Services",
+					"id": 1060247346997538800,
+					"id_str": "1060247346997538816",
+					"indices": [
+						45,
+						52
+					]
+				},
+				{
+					"screen_name": "UHDB_DME",
+					"name": "DME",
+					"id": 3110661832,
+					"id_str": "3110661832",
+					"indices": [
+						119,
+						128
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Greyhound dad; Governor @ @UHDBtrust ; Chair @ @UHDB_AFN ;Postgrad student @hsmc_; Often tweets: #AHP, #Leadership, Health/digital/public policy, Defence & Vets",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3161,
+			"friends_count": 4280,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7926,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Redeployment is over &amp; I will be joining @UHDBDP very soon. 🎉\n\nI want 2 thank all of the wonderful therapy staff @ @UHDB_DME 4 their help and support. In what is an under recognised role they make complex decisions &amp; provide gr8 therapy 2 ensure their patients return safely 🏡"
+	},
+	{
+		"created_at": "Fri Feb 25 16:28:45 +0000 2022",
+		"id": 1497227268103577600,
+		"id_str": "1497247201524862976",
+		"full_text": "Fantastic opportunity to develop system leadership skills whilst bringing rich AHP insights, lenses and perspectives to the region and its ICSs ⬇️⬇️\n\n@tracyniks @KMiddletonCSP @RoyColPod @RCSLT @theRCOT @BDA_Dietitians @CollegeODP https://t.co/Ufb43xYXsZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tracyniks",
+					"name": "Tracy Nicholls 💚",
+					"id": 395953154,
+					"id_str": "395953154",
+					"indices": [
+						150,
+						160
+					]
+				},
+				{
+					"screen_name": "KMiddletonCSP",
+					"name": "Karen Middleton (she/her)",
+					"id": 791233063,
+					"id_str": "791233063",
+					"indices": [
+						161,
+						175
+					]
+				},
+				{
+					"screen_name": "RoyColPod",
+					"name": "Royal College of Podiatry",
+					"id": 61458620,
+					"id_str": "61458620",
+					"indices": [
+						176,
+						186
+					]
+				},
+				{
+					"screen_name": "RCSLT",
+					"name": "RCSLT 💙",
+					"id": 47578138,
+					"id_str": "47578138",
+					"indices": [
+						187,
+						193
+					]
+				},
+				{
+					"screen_name": "theRCOT",
+					"name": "Royal College of Occupational Therapists",
+					"id": 48659527,
+					"id_str": "48659527",
+					"indices": [
+						194,
+						202
+					]
+				},
+				{
+					"screen_name": "BDA_Dietitians",
+					"name": "BDA British Dietetic Association",
+					"id": 82649720,
+					"id_str": "82649720",
+					"indices": [
+						203,
+						218
+					]
+				},
+				{
+					"screen_name": "CollegeODP",
+					"name": "College Of Operating Department Practitioners",
+					"id": 955437049124982800,
+					"id_str": "955437049124982785",
+					"indices": [
+						219,
+						230
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ufb43xYXsZ",
+					"expanded_url": "https://twitter.com/NHSLeadership/status/1493963813766451206",
+					"display_url": "twitter.com/NHSLeadership/…",
+					"indices": [
+						231,
+						254
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 468241231,
+			"id_str": "468241231",
+			"name": "Stuart Palma 💙",
+			"screen_name": "stuartgpalma",
+			"location": "Sussex, England",
+			"description": "Physio | Head Allied Health @NHSEngland | NED @sportforconf | Trustee @chestnutsussex | @ILMuk Exec Coach | #Bevanprogc28 | Director @ Axium Connect Ltd",
+			"url": "https://t.co/RNtgnMcsTT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/RNtgnMcsTT",
+							"expanded_url": "https://uk.linkedin.com/in/stuart-palma-0841b544",
+							"display_url": "uk.linkedin.com/in/stuart-palm…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6369,
+			"friends_count": 989,
+			"listed_count": 95,
+			"created_at": "Thu Jan 19 10:02:36 +0000 2012",
+			"favourites_count": 22443,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 11838,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1310683599960711169/DKX1f4-R_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1310683599960711169/DKX1f4-R_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/468241231/1602660339",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1493963813766451200,
+		"quoted_status_id_str": "1493963813766451206",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Ufb43xYXsZ",
+			"expanded": "https://twitter.com/NHSLeadership/status/1493963813766451206",
+			"display": "twitter.com/NHSLeadership/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Feb 16 15:01:44 +0000 2022",
+			"id": 1493963813766451200,
+			"id_str": "1493963813766451206",
+			"full_text": "The NHS Regional Clinical Leadership Fellow Scheme will launch in 7 days!  \n\nIf you are interested in applying please register your interest at https://t.co/KVKSR7Avsr to be notified. \n\n#CFSRegional \n@FMLM_UK  @NHSEngland @NHSEnglandNMD @davidwebb_1 @CNOEngland @SuzanneRastrick https://t.co/vyqY5Zy2qy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				278
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "CFSRegional",
+						"indices": [
+							186,
+							198
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "FMLM_UK",
+						"name": "Faculty of Medical Leadership and Management",
+						"id": 355541903,
+						"id_str": "355541903",
+						"indices": [
+							200,
+							208
+						]
+					},
+					{
+						"screen_name": "NHSEngland",
+						"name": "NHS England and NHS Improvement",
+						"id": 551426814,
+						"id_str": "551426814",
+						"indices": [
+							210,
+							221
+						]
+					},
+					{
+						"screen_name": "NHSEnglandNMD",
+						"name": "NHSEnglandNMD",
+						"id": 1014534275130122200,
+						"id_str": "1014534275130122242",
+						"indices": [
+							222,
+							236
+						]
+					},
+					{
+						"screen_name": "davidwebb_1",
+						"name": "David Webb",
+						"id": 1479076194775707600,
+						"id_str": "1479076194775707651",
+						"indices": [
+							237,
+							249
+						]
+					},
+					{
+						"screen_name": "CNOEngland",
+						"name": "Ruth May 💙",
+						"id": 613328014,
+						"id_str": "613328014",
+						"indices": [
+							250,
+							261
+						]
+					},
+					{
+						"screen_name": "SuzanneRastrick",
+						"name": "Suzanne Rastrick",
+						"id": 1596992540,
+						"id_str": "1596992540",
+						"indices": [
+							262,
+							278
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/KVKSR7Avsr",
+						"expanded_url": "http://www.fmlm.ac.uk",
+						"display_url": "fmlm.ac.uk",
+						"indices": [
+							144,
+							167
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1493963812298543000,
+						"id_str": "1493963812298543104",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FLugLANX0AAheae.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FLugLANX0AAheae.jpg",
+						"url": "https://t.co/vyqY5Zy2qy",
+						"display_url": "pic.twitter.com/vyqY5Zy2qy",
+						"expanded_url": "https://twitter.com/NHSLeadership/status/1493963813766451206/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1493963812298543000,
+						"id_str": "1493963812298543104",
+						"indices": [
+							279,
+							302
+						],
+						"media_url": "http://pbs.twimg.com/media/FLugLANX0AAheae.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FLugLANX0AAheae.jpg",
+						"url": "https://t.co/vyqY5Zy2qy",
+						"display_url": "pic.twitter.com/vyqY5Zy2qy",
+						"expanded_url": "https://twitter.com/NHSLeadership/status/1493963813766451206/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 347923520,
+				"id_str": "347923520",
+				"name": "NHS Leadership Academy 💙",
+				"screen_name": "NHSLeadership",
+				"location": "England",
+				"description": "Our purpose is to develop outstanding leadership in health, to improve people's health and their experience of the NHS.",
+				"url": "https://t.co/dJbRtoOuEL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/dJbRtoOuEL",
+								"expanded_url": "http://www.leadershipacademy.nhs.uk",
+								"display_url": "leadershipacademy.nhs.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 88645,
+				"friends_count": 2528,
+				"listed_count": 611,
+				"created_at": "Wed Aug 03 15:53:15 +0000 2011",
+				"favourites_count": 27456,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22502,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "411851",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1466337980562485251/Orn9YwSM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1466337980562485251/Orn9YwSM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/347923520/1639578830",
+				"profile_link_color": "005EB8",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 49,
+			"favorite_count": 62,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 11,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fantastic opportunity to develop system leadership skills whilst bringing rich AHP insights, lenses and perspectives to the region and its ICSs ⬇️⬇️\n\n@tracyniks @KMiddletonCSP @RoyColPod @RCSLT @theRCOT @BDA_Dietitians @CollegeODP https://t.co/Ufb43xYXsZ"
+	},
+	{
+		"created_at": "Fri Feb 25 13:28:04 +0000 2022",
+		"id": 1481261033633333200,
+		"id_str": "1497201731939311617",
+		"full_text": "📢 Professor Russell Mannion @_HSMCentre @news_ub  to present the @LSHTM 36th Annual HSR lecture on Tuesday 8th March 2022 (17:30-19:00).\nFurther details about this webinar, which is free and open to all, can be found here https://t.co/FUrVxDZsL3 https://t.co/g9oOpFbjaD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_HSMCentre",
+					"name": "Health Services Management Centre (HSMC)",
+					"id": 1542789288,
+					"id_str": "1542789288",
+					"indices": [
+						28,
+						39
+					]
+				},
+				{
+					"screen_name": "news_ub",
+					"name": "UniBirmingham News",
+					"id": 725733464,
+					"id_str": "725733464",
+					"indices": [
+						40,
+						48
+					]
+				},
+				{
+					"screen_name": "LSHTM",
+					"name": "London School of Hygiene & Tropical Medicine",
+					"id": 72843097,
+					"id_str": "72843097",
+					"indices": [
+						65,
+						71
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/FUrVxDZsL3",
+					"expanded_url": "https://tinyurl.com/2t6pn3ur",
+					"display_url": "tinyurl.com/2t6pn3ur",
+					"indices": [
+						222,
+						245
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1481259877171355600,
+					"id_str": "1481259877171355649",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/FI5-Ap7WYAE2USE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI5-Ap7WYAE2USE.jpg",
+					"url": "https://t.co/g9oOpFbjaD",
+					"display_url": "pic.twitter.com/g9oOpFbjaD",
+					"expanded_url": "https://twitter.com/_HSMCentre/status/1481261033633333251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1481259877171355600,
+					"id_str": "1481259877171355649",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/FI5-Ap7WYAE2USE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FI5-Ap7WYAE2USE.jpg",
+					"url": "https://t.co/g9oOpFbjaD",
+					"display_url": "pic.twitter.com/g9oOpFbjaD",
+					"expanded_url": "https://twitter.com/_HSMCentre/status/1481261033633333251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 340,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1542789288,
+			"id_str": "1542789288",
+			"name": "Health Services Management Centre (HSMC)",
+			"screen_name": "_HSMCentre",
+			"location": "Edgbaston, Birmingham",
+			"description": "HSMC forms part of the School of Social Policy @unibirmingham and undertakes world-leading research, evaluation and teaching within health & social care",
+			"url": "https://t.co/Cp2GiG5pfS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Cp2GiG5pfS",
+							"expanded_url": "http://www.birmingham.ac.uk/schools/social-policy/departments/health-services-management-centre/index.aspx",
+							"display_url": "birmingham.ac.uk/schools/social…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3548,
+			"friends_count": 4426,
+			"listed_count": 52,
+			"created_at": "Mon Jun 24 08:31:03 +0000 2013",
+			"favourites_count": 1884,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 12297,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1471516620191240192/lk9ucKPi_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1471516620191240192/lk9ucKPi_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1542789288/1639650353",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "📢 Professor Russell Mannion @_HSMCentre @news_ub  to present the @LSHTM 36th Annual HSR lecture on Tuesday 8th March 2022 (17:30-19:00).\nFurther details about this webinar, which is free and open to all, can be found here https://t.co/FUrVxDZsL3 https://t.co/g9oOpFbjaD"
+	},
+	{
+		"created_at": "Fri Feb 25 09:35:26 +0000 2022",
+		"id": 1497142523780862000,
+		"id_str": "1497143188036988931",
+		"full_text": "We are trying to develop a free network of health care professional &amp; Student mentors/buddies/networks/friendship/ally w/ solely Ukrainian health care students. We are a few atm. Is anyone keen to help &amp; join us? @WeNurses @WeAHPs @thecsp @jowi12 @UniofNottingham @councilofdeans https://t.co/ikEqI7OsDV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WeNurses",
+					"name": "WeNurses 💙",
+					"id": 599536551,
+					"id_str": "599536551",
+					"indices": [
+						221,
+						230
+					]
+				},
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs 💙",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						231,
+						238
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						239,
+						246
+					]
+				},
+				{
+					"screen_name": "jowi12",
+					"name": "Joost van Wijchen",
+					"id": 141901188,
+					"id_str": "141901188",
+					"indices": [
+						247,
+						254
+					]
+				},
+				{
+					"screen_name": "UniofNottingham",
+					"name": "Uni of Nottingham #WeAreUoN",
+					"id": 30196565,
+					"id_str": "30196565",
+					"indices": [
+						255,
+						271
+					]
+				},
+				{
+					"screen_name": "councilofdeans",
+					"name": "Council of Deans of Health",
+					"id": 278442312,
+					"id_str": "278442312",
+					"indices": [
+						272,
+						287
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1497142516629520400,
+					"id_str": "1497142516629520387",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/FMbrL8nWQAMvwNL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMbrL8nWQAMvwNL.jpg",
+					"url": "https://t.co/ikEqI7OsDV",
+					"display_url": "pic.twitter.com/ikEqI7OsDV",
+					"expanded_url": "https://twitter.com/exerciseworks/status/1497142523780861953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1156,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1497142516629520400,
+					"id_str": "1497142516629520387",
+					"indices": [
+						288,
+						311
+					],
+					"media_url": "http://pbs.twimg.com/media/FMbrL8nWQAMvwNL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FMbrL8nWQAMvwNL.jpg",
+					"url": "https://t.co/ikEqI7OsDV",
+					"display_url": "pic.twitter.com/ikEqI7OsDV",
+					"expanded_url": "https://twitter.com/exerciseworks/status/1497142523780861953/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 384,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1156,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 677,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 256921454,
+			"id_str": "256921454",
+			"name": "Exercise Works!",
+			"screen_name": "exerciseworks",
+			"location": "UK, World",
+			"description": "Exercise Works in the prevention & treatment of disease. By Honorary Visiting Professor/Associate Professor Ann Gates #MovementForMovement",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65184,
+			"friends_count": 60364,
+			"listed_count": 1163,
+			"created_at": "Thu Feb 24 10:22:04 +0000 2011",
+			"favourites_count": 166316,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 179628,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1332971430426923015/mUH7jBCQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1332971430426923015/mUH7jBCQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/256921454/1606640130",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "BDDCAD",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 57,
+		"favorite_count": 106,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We are trying to develop a free network of health care professional &amp; Student mentors/buddies/networks/friendship/ally w/ solely Ukrainian health care students. We are a few atm. Is anyone keen to help &amp; join us? @WeNurses @WeAHPs @thecsp @jowi12 @UniofNottingham @councilofdeans https://t.co/ikEqI7OsDV"
+	},
+	{
 		"created_at": "Thu Feb 24 11:57:01 +0000 2022",
 		"id": 1496816430305755100,
 		"id_str": "1496816430305755143",
