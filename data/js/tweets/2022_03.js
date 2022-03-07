@@ -1,6 +1,635 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sun Mar 06 20:14:48 +0000 2022",
+		"id": 1500228494894186500,
+		"id_str": "1500565583246639104",
+		"full_text": "Life as a black physiotherapist | The Chartered Society of Physiotherapy https://t.co/1rfLU7KO4S",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1rfLU7KO4S",
+					"expanded_url": "https://www.csp.org.uk/frontline/article/life-black-physiotherapist",
+					"display_url": "csp.org.uk/frontline/arti…",
+					"indices": [
+						73,
+						96
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1359051520529023000,
+			"id_str": "1359051520529022976",
+			"name": "kitty.suddick",
+			"screen_name": "KittySuddick",
+			"location": "",
+			"description": "Physio Lecturer @uniofbrighton | loves hermeneutics, play, coffee, live authentically -proud to be part @brightphysios @SHSUnivBrighton views are my own",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 230,
+			"friends_count": 269,
+			"listed_count": 0,
+			"created_at": "Tue Feb 09 08:09:08 +0000 2021",
+			"favourites_count": 922,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 658,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1359052169983504384/u2PaFmPD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1359052169983504384/u2PaFmPD_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Life as a black physiotherapist | The Chartered Society of Physiotherapy https://t.co/1rfLU7KO4S"
+	},
+	{
+		"created_at": "Sun Mar 06 16:33:48 +0000 2022",
+		"id": 1500509963701178400,
+		"id_str": "1500509963701178373",
+		"full_text": "Spring is almost here 🌳🌼🤩 #Greyhound https://t.co/4621DA0kIX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Greyhound",
+					"indices": [
+						26,
+						36
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1500509956667232300,
+					"id_str": "1500509956667232263",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FNLh2wUWUAcn45s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNLh2wUWUAcn45s.jpg",
+					"url": "https://t.co/4621DA0kIX",
+					"display_url": "pic.twitter.com/4621DA0kIX",
+					"expanded_url": "https://twitter.com/beardedPT/status/1500509963701178373/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1500509956667232300,
+					"id_str": "1500509956667232263",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/FNLh2wUWUAcn45s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FNLh2wUWUAcn45s.jpg",
+					"url": "https://t.co/4621DA0kIX",
+					"display_url": "pic.twitter.com/4621DA0kIX",
+					"expanded_url": "https://twitter.com/beardedPT/status/1500509963701178373/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Greyhound dad; Governor @ @UHDBtrust ; Chair @ @UHDB_AFN ;Postgrad student @hsmc_; Often tweets: #AHP, #Leadership, Health/digital/public policy, Defence & Vets",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3159,
+			"friends_count": 4291,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24998,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Spring is almost here 🌳🌼🤩 #Greyhound https://t.co/4621DA0kIX"
+	},
+	{
+		"created_at": "Sun Mar 06 16:10:26 +0000 2022",
+		"id": 1500504082762674200,
+		"id_str": "1500504082762674177",
+		"full_text": "Huge opportunity ⬇️🎓 https://t.co/0nRF1IOgi4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			20
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0nRF1IOgi4",
+					"expanded_url": "https://twitter.com/emmasuttphysio/status/1499468511621619716",
+					"display_url": "twitter.com/emmasuttphysio…",
+					"indices": [
+						21,
+						44
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Greyhound dad; Governor @ @UHDBtrust ; Chair @ @UHDB_AFN ;Postgrad student @hsmc_; Often tweets: #AHP, #Leadership, Health/digital/public policy, Defence & Vets",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3159,
+			"friends_count": 4291,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24998,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1499468511621619700,
+		"quoted_status_id_str": "1499468511621619716",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0nRF1IOgi4",
+			"expanded": "https://twitter.com/emmasuttphysio/status/1499468511621619716",
+			"display": "twitter.com/emmasuttphysio…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 03 19:35:26 +0000 2022",
+			"id": 1499468511621619700,
+			"id_str": "1499468511621619716",
+			"full_text": "Exciting! Funded PhDs which support successful  health care professionals with full NHS salary reimbursement - You can apply if you have, or expect to obtain, an degree in the NMAHP's, or are practicing doctor.https://t.co/9MJ0t7uwUf https://t.co/6mavubnepl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				233
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9MJ0t7uwUf",
+						"expanded_url": "https://tinyurl.com/2p9c8xwz",
+						"display_url": "tinyurl.com/2p9c8xwz",
+						"indices": [
+							210,
+							233
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1499468411868487700,
+						"id_str": "1499468411868487690",
+						"indices": [
+							234,
+							257
+						],
+						"media_url": "http://pbs.twimg.com/media/FM8uk3lXIAoFk52.png",
+						"media_url_https": "https://pbs.twimg.com/media/FM8uk3lXIAoFk52.png",
+						"url": "https://t.co/6mavubnepl",
+						"display_url": "pic.twitter.com/6mavubnepl",
+						"expanded_url": "https://twitter.com/emmasuttPhysio/status/1499468511621619716/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 703,
+								"h": 556,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 703,
+								"h": 556,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 538,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1499468411868487700,
+						"id_str": "1499468411868487690",
+						"indices": [
+							234,
+							257
+						],
+						"media_url": "http://pbs.twimg.com/media/FM8uk3lXIAoFk52.png",
+						"media_url_https": "https://pbs.twimg.com/media/FM8uk3lXIAoFk52.png",
+						"url": "https://t.co/6mavubnepl",
+						"display_url": "pic.twitter.com/6mavubnepl",
+						"expanded_url": "https://twitter.com/emmasuttPhysio/status/1499468511621619716/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 703,
+								"h": 556,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 703,
+								"h": 556,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 538,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1446015198,
+				"id_str": "1446015198",
+				"name": "Dr Emma Sutton",
+				"screen_name": "emmasuttPhysio",
+				"location": "Leicester",
+				"description": "Physiotherapist, researcher & member of Q #qcommunity. Interested in quality of care, surgical research, improvement science and involvement of patients.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 547,
+				"friends_count": 605,
+				"listed_count": 10,
+				"created_at": "Tue May 21 10:45:17 +0000 2013",
+				"favourites_count": 3426,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 3425,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/3689635378/7e6ceffeeef27686ed6a5b629f7c43b0_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/3689635378/7e6ceffeeef27686ed6a5b629f7c43b0_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1446015198/1402564904",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Huge opportunity ⬇️🎓 https://t.co/0nRF1IOgi4"
+	},
+	{
+		"created_at": "Sat Mar 05 20:31:19 +0000 2022",
+		"id": 1500207350757695500,
+		"id_str": "1500207350757695488",
+		"full_text": "@nohandsup Nurses know how to party!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nohandsup",
+					"name": "Stephen Charleston",
+					"id": 261285355,
+					"id_str": "261285355",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1500203697057505300,
+		"in_reply_to_status_id_str": "1500203697057505281",
+		"in_reply_to_user_id": 261285355,
+		"in_reply_to_user_id_str": "261285355",
+		"in_reply_to_screen_name": "nohandsup",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Rugeley 🏡 / UoB 📚",
+			"description": "Greyhound dad; Governor @ @UHDBtrust ; Chair @ @UHDB_AFN ;Postgrad student @hsmc_; Often tweets: #AHP, #Leadership, Health/digital/public policy, Defence & Vets",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3159,
+			"friends_count": 4291,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 24998,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 7955,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@nohandsup Nurses know how to party!"
+	},
+	{
 		"created_at": "Fri Mar 04 23:35:50 +0000 2022",
 		"id": 1499891396727222300,
 		"id_str": "1499891396727222281",
