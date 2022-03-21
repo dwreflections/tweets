@@ -1,6 +1,363 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Sun Mar 20 20:08:46 +0000 2022",
+		"id": 1505624623442022400,
+		"id_str": "1505637491910529025",
+		"full_text": "Please support this work! Let us know what the structure of your health informatics teams are. What does your “office of the CCIO” #officeoftheccio look like? What works and what doesn’t? Share your success stories! https://t.co/mHn9wtJZBl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			215
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "officeoftheccio",
+					"indices": [
+						131,
+						147
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mHn9wtJZBl",
+					"expanded_url": "https://twitter.com/ukfci/status/1505551495315570696",
+					"display_url": "twitter.com/ukfci/status/1…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1141015266844958700,
+			"id_str": "1141015266844958720",
+			"name": "DigitalAHP 💙",
+			"screen_name": "DigitalAhp",
+			"location": "London, England",
+			"description": "@allpowersphysio Chris Tack, AHP Information Officer @gsttnhs. Topol Fellow cohort 1. Co-Chair London AHP Informatics & Digital Network @WeAreLAIDN",
+			"url": "https://t.co/pIwPDlW9Qf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pIwPDlW9Qf",
+							"expanded_url": "https://digitalahp.wordpress.com/",
+							"display_url": "digitalahp.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2355,
+			"friends_count": 2327,
+			"listed_count": 10,
+			"created_at": "Tue Jun 18 16:10:13 +0000 2019",
+			"favourites_count": 2524,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183078346772500480/f4SKQ2ue_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183078346772500480/f4SKQ2ue_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1141015266844958720/1562786842",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1505551495315570700,
+		"quoted_status_id_str": "1505551495315570696",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mHn9wtJZBl",
+			"expanded": "https://twitter.com/ukfci/status/1505551495315570696",
+			"display": "twitter.com/ukfci/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Mar 20 14:27:02 +0000 2022",
+			"id": 1505551495315570700,
+			"id_str": "1505551495315570696",
+			"full_text": "We're collecting case studies describing your clinical informatics teams. \n\nWhat are the challenges and what has been successful? \n\nEmail info@fci.org.uk to get involved.\n\n@DigitalAHP, @_DougStewart, @amcunningham, @AyeshaRahimCCIO, @SarahNewcombe22, @JoD1905 https://t.co/zHklukuJTt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				259
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "DigitalAhp",
+						"name": "DigitalAHP 💙",
+						"id": 1141015266844958700,
+						"id_str": "1141015266844958720",
+						"indices": [
+							172,
+							183
+						]
+					},
+					{
+						"screen_name": "_DougStewart",
+						"name": "Doug Stewart 🌱",
+						"id": 3092554107,
+						"id_str": "3092554107",
+						"indices": [
+							185,
+							198
+						]
+					},
+					{
+						"screen_name": "amcunningham",
+						"name": "Anne Marie Cunningham",
+						"id": 14925532,
+						"id_str": "14925532",
+						"indices": [
+							200,
+							213
+						]
+					},
+					{
+						"screen_name": "AyeshaRahimCCIO",
+						"name": "Ayesha Rahim",
+						"id": 866412864415903700,
+						"id_str": "866412864415903746",
+						"indices": [
+							215,
+							231
+						]
+					},
+					{
+						"screen_name": "SarahNewcombe22",
+						"name": "Sarah Newcombe",
+						"id": 2676616389,
+						"id_str": "2676616389",
+						"indices": [
+							233,
+							249
+						]
+					},
+					{
+						"screen_name": "JoD1905",
+						"name": "Jo Dickson",
+						"id": 381605956,
+						"id_str": "381605956",
+						"indices": [
+							251,
+							259
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1505551491662332000,
+						"id_str": "1505551491662331912",
+						"indices": [
+							260,
+							283
+						],
+						"media_url": "http://pbs.twimg.com/media/FOTLGtuXwAg2K7V.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FOTLGtuXwAg2K7V.jpg",
+						"url": "https://t.co/zHklukuJTt",
+						"display_url": "pic.twitter.com/zHklukuJTt",
+						"expanded_url": "https://twitter.com/ukfci/status/1505551495315570696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 388,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 220,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 661,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1505551491662332000,
+						"id_str": "1505551491662331912",
+						"indices": [
+							260,
+							283
+						],
+						"media_url": "http://pbs.twimg.com/media/FOTLGtuXwAg2K7V.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FOTLGtuXwAg2K7V.jpg",
+						"url": "https://t.co/zHklukuJTt",
+						"display_url": "pic.twitter.com/zHklukuJTt",
+						"expanded_url": "https://twitter.com/ukfci/status/1505551495315570696/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 388,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 220,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 661,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 786906828252803100,
+				"id_str": "786906828252803073",
+				"name": "Faculty of Clinical Informatics",
+				"screen_name": "ukfci",
+				"location": "London, England",
+				"description": "The UK Faculty of Clinical Informatics is the professional body for informaticians working in health and social care #UKFCI",
+				"url": "https://t.co/OkhIjuPOzG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OkhIjuPOzG",
+								"expanded_url": "http://www.ukfci.org.uk/",
+								"display_url": "ukfci.org.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4204,
+				"friends_count": 1294,
+				"listed_count": 36,
+				"created_at": "Fri Oct 14 12:29:42 +0000 2016",
+				"favourites_count": 4068,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 2171,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/824774938959691777/aHUlCwnV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/824774938959691777/aHUlCwnV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/786906828252803073/1618245814",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 10,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please support this work! Let us know what the structure of your health informatics teams are. What does your “office of the CCIO” #officeoftheccio look like? What works and what doesn’t? Share your success stories! https://t.co/mHn9wtJZBl"
+	},
+	{
 		"created_at": "Sat Mar 19 16:14:16 +0000 2022",
 		"id": 1505216091483693000,
 		"id_str": "1505216091483693063",
@@ -301,7 +658,7 @@ Grailbird.data.tweets_2022_03 =
 		"created_at": "Sat Mar 19 13:20:56 +0000 2022",
 		"id": 1504374801414168600,
 		"id_str": "1505172470357282816",
-		"full_text": "‘The big question is, what is Rugeley going to become?’ Great piece from ⁦@sarahoconnor_⁩  on structural/political change in a little known former mining/power station on the edge of the Black Country. Via ⁦@FT⁩  https://t.co/Dm9vjajYQf",
+		"full_text": "‘The big question is, what is Rugeley going to become?’ Great piece from @sarahoconnor_  on structural/political change in a little known former mining/power station on the edge of the Black Country. Via @FT  https://t.co/Dm9vjajYQf",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -410,7 +767,7 @@ Grailbird.data.tweets_2022_03 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "‘The big question is, what is Rugeley going to become?’ Great piece from ⁦@sarahoconnor_⁩  on structural/political change in a little known former mining/power station on the edge of the Black Country. Via ⁦@FT⁩  https://t.co/Dm9vjajYQf"
+		"text": "‘The big question is, what is Rugeley going to become?’ Great piece from @sarahoconnor_  on structural/political change in a little known former mining/power station on the edge of the Black Country. Via @FT  https://t.co/Dm9vjajYQf"
 	},
 	{
 		"created_at": "Fri Mar 18 17:50:01 +0000 2022",
