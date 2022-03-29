@@ -1,6 +1,756 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Mon Mar 28 21:20:56 +0000 2022",
+		"id": 1508461765004304400,
+		"id_str": "1508554757513879552",
+		"full_text": "“ɪ ᴡᴀɴᴛ ᴛᴏ ꜰɪɴᴅ ᴏᴜᴛ ᴡʜᴀᴛ ᴛʜᴇ ᴠɪᴇᴡꜱ ᴏꜰ ʏᴏᴜɴɢᴇʀ ᴘᴇᴏᴘʟᴇ ᴀʀᴇ\" 💙\n\nWarren is hosting events, supported by @hospitalcharity,\nto find out if there are barriers for young people of a BAME heritage to get into Physiotherapy.\n\n🔗https://t.co/AiBeikRIGS https://t.co/KZOmfBJDfa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hospitalcharity",
+					"name": "Derby & Burton Hospitals Charity 💙",
+					"id": 1100859956,
+					"id_str": "1100859956",
+					"indices": [
+						100,
+						116
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/AiBeikRIGS",
+					"expanded_url": "https://bit.ly/3DkMsHv",
+					"display_url": "bit.ly/3DkMsHv",
+					"indices": [
+						217,
+						240
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1508461158591774700,
+					"id_str": "1508461158591774720",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FO8hbntWQAAfj7a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FO8hbntWQAAfj7a.jpg",
+					"url": "https://t.co/KZOmfBJDfa",
+					"display_url": "pic.twitter.com/KZOmfBJDfa",
+					"expanded_url": "https://twitter.com/UHDBTrust/status/1508461765004304385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 940,
+							"h": 788,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 940,
+							"h": 788,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1508461158591774700,
+					"id_str": "1508461158591774720",
+					"indices": [
+						241,
+						264
+					],
+					"media_url": "http://pbs.twimg.com/media/FO8hbntWQAAfj7a.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FO8hbntWQAAfj7a.jpg",
+					"url": "https://t.co/KZOmfBJDfa",
+					"display_url": "pic.twitter.com/KZOmfBJDfa",
+					"expanded_url": "https://twitter.com/UHDBTrust/status/1508461765004304385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 940,
+							"h": 788,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 940,
+							"h": 788,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 570,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 429877936,
+			"id_str": "429877936",
+			"name": "University Hospitals of Derby and Burton NHS FT",
+			"screen_name": "UHDBTrust",
+			"location": "Derby, Burton, Tamworth, Lichfield",
+			"description": "Official Twitter page of University Hospitals of Derby and Burton NHS Foundation Trust. 🏥\n\nThis account is monitored Mon-Fri, 9am-5pm (excluding Bank Holidays)",
+			"url": "https://t.co/x70bd3ATs0",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/x70bd3ATs0",
+							"expanded_url": "http://www.uhdb.nhs.uk",
+							"display_url": "uhdb.nhs.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16435,
+			"friends_count": 1304,
+			"listed_count": 171,
+			"created_at": "Tue Dec 06 14:09:36 +0000 2011",
+			"favourites_count": 8945,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21874,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1442506746405298179/dYS-nOu3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1442506746405298179/dYS-nOu3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/429877936/1614764462",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 12,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“ɪ ᴡᴀɴᴛ ᴛᴏ ꜰɪɴᴅ ᴏᴜᴛ ᴡʜᴀᴛ ᴛʜᴇ ᴠɪᴇᴡꜱ ᴏꜰ ʏᴏᴜɴɢᴇʀ ᴘᴇᴏᴘʟᴇ ᴀʀᴇ\" 💙\n\nWarren is hosting events, supported by @hospitalcharity,\nto find out if there are barriers for young people of a BAME heritage to get into Physiotherapy.\n\n🔗https://t.co/AiBeikRIGS https://t.co/KZOmfBJDfa"
+	},
+	{
+		"created_at": "Mon Mar 28 19:10:29 +0000 2022",
+		"id": 1508521928314785800,
+		"id_str": "1508521928314785794",
+		"full_text": "@EMAHPInfo @DigitalAhp @BenWanno @PaulTKidman @AJRossell @petegrinbergs I knew to tag you,  @EMAHPInfo . Thank you.",
+		"truncated": false,
+		"display_text_range": [
+			72,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EMAHPInfo",
+					"name": "Euan McComiskie",
+					"id": 2438541736,
+					"id_str": "2438541736",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "DigitalAhp",
+					"name": "DigitalAHP 💙",
+					"id": 1141015266844958700,
+					"id_str": "1141015266844958720",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "BenWanno",
+					"name": "Ben Wanless 🌈 💙 ✊🏿✊🏾",
+					"id": 3057184923,
+					"id_str": "3057184923",
+					"indices": [
+						23,
+						32
+					]
+				},
+				{
+					"screen_name": "PaulTKidman",
+					"name": "Paul Kidman 💙🇺🇦",
+					"id": 309923031,
+					"id_str": "309923031",
+					"indices": [
+						33,
+						45
+					]
+				},
+				{
+					"screen_name": "AJRossell",
+					"name": "Anna Rubio",
+					"id": 40349594,
+					"id_str": "40349594",
+					"indices": [
+						46,
+						56
+					]
+				},
+				{
+					"screen_name": "petegrinbergs",
+					"name": "PeterGrinbergs",
+					"id": 1255103588071850000,
+					"id_str": "1255103588071849986",
+					"indices": [
+						57,
+						71
+					]
+				},
+				{
+					"screen_name": "EMAHPInfo",
+					"name": "Euan McComiskie",
+					"id": 2438541736,
+					"id_str": "2438541736",
+					"indices": [
+						92,
+						102
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1508402828452245500,
+		"in_reply_to_status_id_str": "1508402828452245511",
+		"in_reply_to_user_id": 2438541736,
+		"in_reply_to_user_id_str": "2438541736",
+		"in_reply_to_screen_name": "EMAHPInfo",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UBirm📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3171,
+			"friends_count": 4345,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25262,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8052,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EMAHPInfo @DigitalAhp @BenWanno @PaulTKidman @AJRossell @petegrinbergs I knew to tag you,  @EMAHPInfo . Thank you."
+	},
+	{
+		"created_at": "Mon Mar 28 19:09:49 +0000 2022",
+		"id": 1508521759389192200,
+		"id_str": "1508521759389192197",
+		"full_text": "@DigitalAhp @EMAHPInfo @jessRmorley Thank you! 👍",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DigitalAhp",
+					"name": "DigitalAHP 💙",
+					"id": 1141015266844958700,
+					"id_str": "1141015266844958720",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "EMAHPInfo",
+					"name": "Euan McComiskie",
+					"id": 2438541736,
+					"id_str": "2438541736",
+					"indices": [
+						12,
+						22
+					]
+				},
+				{
+					"screen_name": "jessRmorley",
+					"name": "Jess Morley",
+					"id": 3134039644,
+					"id_str": "3134039644",
+					"indices": [
+						23,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1508406521989845000,
+		"in_reply_to_status_id_str": "1508406521989844998",
+		"in_reply_to_user_id": 1141015266844958700,
+		"in_reply_to_user_id_str": "1141015266844958720",
+		"in_reply_to_screen_name": "DigitalAhp",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UBirm📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3171,
+			"friends_count": 4345,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25262,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8052,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DigitalAhp @EMAHPInfo @jessRmorley Thank you! 👍"
+	},
+	{
+		"created_at": "Mon Mar 28 19:09:44 +0000 2022",
+		"id": 1508406521989845000,
+		"id_str": "1508521739336171521",
+		"full_text": "@beardedPT @EMAHPInfo Anything from @jessRmorley https://t.co/cm6P9T0k8V",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams 🇺🇦",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "EMAHPInfo",
+					"name": "Euan McComiskie",
+					"id": 2438541736,
+					"id_str": "2438541736",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "jessRmorley",
+					"name": "Jess Morley",
+					"id": 3134039644,
+					"id_str": "3134039644",
+					"indices": [
+						36,
+						48
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/cm6P9T0k8V",
+					"expanded_url": "https://scholar.google.co.uk/citations?user=hp-k6QwAAAAJ&hl=en",
+					"display_url": "scholar.google.co.uk/citations?user…",
+					"indices": [
+						49,
+						72
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1508387000004530200,
+		"in_reply_to_status_id_str": "1508387000004530177",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 1141015266844958700,
+			"id_str": "1141015266844958720",
+			"name": "DigitalAHP 💙",
+			"screen_name": "DigitalAhp",
+			"location": "London, England",
+			"description": "@allpowersphysio Chris Tack, AHP Information Officer @gsttnhs. Topol Fellow cohort 1. Co-Chair London AHP Informatics & Digital Network @WeAreLAIDN",
+			"url": "https://t.co/pIwPDlW9Qf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pIwPDlW9Qf",
+							"expanded_url": "https://digitalahp.wordpress.com/",
+							"display_url": "digitalahp.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2374,
+			"friends_count": 2339,
+			"listed_count": 10,
+			"created_at": "Tue Jun 18 16:10:13 +0000 2019",
+			"favourites_count": 2544,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7456,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183078346772500480/f4SKQ2ue_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183078346772500480/f4SKQ2ue_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1141015266844958720/1562786842",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@beardedPT @EMAHPInfo Anything from @jessRmorley https://t.co/cm6P9T0k8V"
+	},
+	{
+		"created_at": "Mon Mar 28 10:14:19 +0000 2022",
+		"id": 1508387000004530200,
+		"id_str": "1508387000004530177",
+		"full_text": "#Twitter hive mind: What are the key/interesting papers on ethics within #AI and healthcare? \n\nPlease RT and share @EMAHPInfo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twitter",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"text": "AI",
+					"indices": [
+						73,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EMAHPInfo",
+					"name": "Euan McComiskie",
+					"id": 2438541736,
+					"id_str": "2438541736",
+					"indices": [
+						115,
+						125
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UBirm📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3171,
+			"friends_count": 4345,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25262,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8052,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "#Twitter hive mind: What are the key/interesting papers on ethics within #AI and healthcare? \n\nPlease RT and share @EMAHPInfo"
+	},
+	{
 		"created_at": "Sun Mar 27 14:58:15 +0000 2022",
 		"id": 1508096063869235200,
 		"id_str": "1508096063869235210",
