@@ -1,10 +1,157 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Sun Apr 03 18:57:59 +0000 2022",
+		"id": 1510693110237520000,
+		"id_str": "1510693110237519874",
+		"full_text": "@runchatlive @exerciseworks @JackAChew @TPMPodcast @FreehabUK Chapeau!",
+		"truncated": false,
+		"display_text_range": [
+			62,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "runchatlive",
+					"name": "Matt Phillips",
+					"id": 257838010,
+					"id_str": "257838010",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "exerciseworks",
+					"name": "Exercise Works!",
+					"id": 256921454,
+					"id_str": "256921454",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"screen_name": "JackAChew",
+					"name": "Jack Chew",
+					"id": 868558446,
+					"id_str": "868558446",
+					"indices": [
+						28,
+						38
+					]
+				},
+				{
+					"screen_name": "TPMPodcast",
+					"name": "Physio Matters",
+					"id": 1914280350,
+					"id_str": "1914280350",
+					"indices": [
+						39,
+						50
+					]
+				},
+				{
+					"screen_name": "FreehabUK",
+					"name": "Freehab™",
+					"id": 1404387964000649200,
+					"id_str": "1404387964000649224",
+					"indices": [
+						51,
+						61
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1510627137555992600,
+		"in_reply_to_status_id_str": "1510627137555992580",
+		"in_reply_to_user_id": 257838010,
+		"in_reply_to_user_id_str": "257838010",
+		"in_reply_to_screen_name": "runchatlive",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UBirm📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3176,
+			"friends_count": 4352,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25342,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8081,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@runchatlive @exerciseworks @JackAChew @TPMPodcast @FreehabUK Chapeau!"
+	},
+	{
 		"created_at": "Sat Apr 02 00:25:51 +0000 2022",
 		"id": 1509982588513009700,
 		"id_str": "1510050846586847238",
-		"full_text": "A great tribute to my brothers passing🙏🙏🙏 by Laurence Gant .... Riding from Glasgow Rangers to London ... passing each one of my brothers football clubs ... to raise money for ⛑defibrillators ⛑to be placed in grass roots  training facilities⛹️‍♂️🚴🏽‍♂️🏋️‍♀️🥊⛸ Retweets appreciated 🙏 https://t.co/o2bcTGEUmv",
+		"full_text": "A great tribute to my brothers passing🙏🙏🙏 by Laurence Gant .... Riding from Glasgow Rangers to London ... passing each one of my brothers football clubs ... to raise money for ⛑defibrillators ⛑to be placed in grass roots  training facilities⛹️♂️🚴🏽♂️🏋️♀️🥊⛸ Retweets appreciated 🙏 https://t.co/o2bcTGEUmv",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -218,7 +365,7 @@ Grailbird.data.tweets_2022_04 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "A great tribute to my brothers passing🙏🙏🙏 by Laurence Gant .... Riding from Glasgow Rangers to London ... passing each one of my brothers football clubs ... to raise money for ⛑defibrillators ⛑to be placed in grass roots  training facilities⛹️‍♂️🚴🏽‍♂️🏋️‍♀️🥊⛸ Retweets appreciated 🙏 https://t.co/o2bcTGEUmv"
+		"text": "A great tribute to my brothers passing🙏🙏🙏 by Laurence Gant .... Riding from Glasgow Rangers to London ... passing each one of my brothers football clubs ... to raise money for ⛑defibrillators ⛑to be placed in grass roots  training facilities⛹️♂️🚴🏽♂️🏋️♀️🥊⛸ Retweets appreciated 🙏 https://t.co/o2bcTGEUmv"
 	},
 	{
 		"created_at": "Fri Apr 01 17:21:50 +0000 2022",
@@ -1649,7 +1796,7 @@ Grailbird.data.tweets_2022_04 =
 				},
 				{
 					"screen_name": "SFHFT",
-					"name": "Sherwood Forest Hospitals NHS FT 🇺🇦🏳️‍🌈",
+					"name": "Sherwood Forest Hospitals NHS FT 🇺🇦🏳️🌈",
 					"id": 64214063,
 					"id_str": "64214063",
 					"indices": [
