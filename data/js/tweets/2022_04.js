@@ -1,6 +1,327 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 06 12:10:38 +0000 2022",
+		"id": 1511677760820891600,
+		"id_str": "1511677760820891649",
+		"full_text": "@aldaricojr Thank you 🥳",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aldaricojr",
+					"name": "Aldarico Jr Velasco",
+					"id": 1194609392446058500,
+					"id_str": "1194609392446058497",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1511659117122920400,
+		"in_reply_to_status_id_str": "1511659117122920455",
+		"in_reply_to_user_id": 1194609392446058500,
+		"in_reply_to_user_id_str": "1194609392446058497",
+		"in_reply_to_screen_name": "aldaricojr",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UBirm📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3175,
+			"friends_count": 4359,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@aldaricojr Thank you 🥳"
+	},
+	{
+		"created_at": "Wed Apr 06 10:42:14 +0000 2022",
+		"id": 1511655512609366000,
+		"id_str": "1511655512609366017",
+		"full_text": "@JamesCrampton75 Thank you, James 🥳😊.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JamesCrampton75",
+					"name": "James Crampton",
+					"id": 963894671897518100,
+					"id_str": "963894671897518081",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1511468248054833200,
+		"in_reply_to_status_id_str": "1511468248054833154",
+		"in_reply_to_user_id": 963894671897518100,
+		"in_reply_to_user_id_str": "963894671897518081",
+		"in_reply_to_screen_name": "JamesCrampton75",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UBirm📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3175,
+			"friends_count": 4359,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JamesCrampton75 Thank you, James 🥳😊."
+	},
+	{
+		"created_at": "Wed Apr 06 10:41:49 +0000 2022",
+		"id": 1511655410922627000,
+		"id_str": "1511655410922627076",
+		"full_text": "@amrawlings Thank you, Amanda. ☺️",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amrawlings",
+					"name": "Amanda Rawlings",
+					"id": 631943465,
+					"id_str": "631943465",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1511428493908881400,
+		"in_reply_to_status_id_str": "1511428493908881416",
+		"in_reply_to_user_id": 631943465,
+		"in_reply_to_user_id_str": "631943465",
+		"in_reply_to_screen_name": "amrawlings",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UBirm📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3175,
+			"friends_count": 4359,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25387,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8100,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@amrawlings Thank you, Amanda. ☺️"
+	},
+	{
 		"created_at": "Tue Apr 05 15:48:06 +0000 2022",
 		"id": 1511370099411857400,
 		"id_str": "1511370099411857409",
