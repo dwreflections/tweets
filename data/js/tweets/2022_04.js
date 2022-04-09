@@ -1,6 +1,1136 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 08 17:01:44 +0000 2022",
+		"id": 1512475794639052800,
+		"id_str": "1512475794639052809",
+		"full_text": "Well done all! @CannockFoodbank 👍 https://t.co/TTKMgZEdPB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CannockFoodbank",
+					"name": "Cannock and District foodbank",
+					"id": 1147581853,
+					"id_str": "1147581853",
+					"indices": [
+						15,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TTKMgZEdPB",
+					"expanded_url": "https://twitter.com/suaupdates/status/1512473609763180556",
+					"display_url": "twitter.com/suaupdates/sta…",
+					"indices": [
+						34,
+						57
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UBirm📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3180,
+			"friends_count": 4365,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1512473609763180500,
+		"quoted_status_id_str": "1512473609763180556",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TTKMgZEdPB",
+			"expanded": "https://twitter.com/suaupdates/status/1512473609763180556",
+			"display": "twitter.com/suaupdates/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Apr 08 16:53:03 +0000 2022",
+			"id": 1512473609763180500,
+			"id_str": "1512473609763180556",
+			"full_text": "Supporting our local community. Thanks to the generosity of Team SUA and fundraising efforts of a small group of students we have been able to donate around 350kg of food and household essentials to Cannock Foodbank today. https://t.co/xIHN60AFfY",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				222
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1512473606395203600,
+						"id_str": "1512473606395203585",
+						"indices": [
+							223,
+							246
+						],
+						"media_url": "http://pbs.twimg.com/media/FP1iu0lXEAE6kyj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FP1iu0lXEAE6kyj.jpg",
+						"url": "https://t.co/xIHN60AFfY",
+						"display_url": "pic.twitter.com/xIHN60AFfY",
+						"expanded_url": "https://twitter.com/suaupdates/status/1512473609763180556/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 960,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1512473606395203600,
+						"id_str": "1512473606395203585",
+						"indices": [
+							223,
+							246
+						],
+						"media_url": "http://pbs.twimg.com/media/FP1iu0lXEAE6kyj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FP1iu0lXEAE6kyj.jpg",
+						"url": "https://t.co/xIHN60AFfY",
+						"display_url": "pic.twitter.com/xIHN60AFfY",
+						"expanded_url": "https://twitter.com/suaupdates/status/1512473609763180556/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 768,
+								"h": 960,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1512473606420414500,
+						"id_str": "1512473606420414470",
+						"indices": [
+							223,
+							246
+						],
+						"media_url": "http://pbs.twimg.com/media/FP1iu0rXwAYVzV3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FP1iu0rXwAYVzV3.jpg",
+						"url": "https://t.co/xIHN60AFfY",
+						"display_url": "pic.twitter.com/xIHN60AFfY",
+						"expanded_url": "https://twitter.com/suaupdates/status/1512473609763180556/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 768,
+								"h": 960,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 960,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2396702695,
+				"id_str": "2396702695",
+				"name": "SUAcademy",
+				"screen_name": "suaupdates",
+				"location": "Hednesford, Cannock",
+				"description": "Aspire, Believe, Achieve!",
+				"url": "http://t.co/Fys6XFWe9x",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/Fys6XFWe9x",
+								"expanded_url": "http://www.suacademy.co.uk",
+								"display_url": "suacademy.co.uk",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 585,
+				"friends_count": 62,
+				"listed_count": 3,
+				"created_at": "Tue Mar 18 19:53:34 +0000 2014",
+				"favourites_count": 126,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 1420,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "101D49",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/504197887366922241/Xft7NIvO_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/504197887366922241/Xft7NIvO_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2396702695/1431343610",
+				"profile_link_color": "101D49",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Well done all! @CannockFoodbank 👍 https://t.co/TTKMgZEdPB"
+	},
+	{
+		"created_at": "Fri Apr 08 14:01:02 +0000 2022",
+		"id": 1512430321081454600,
+		"id_str": "1512430321081454597",
+		"full_text": "@simonmoralee @jtweeterson This is why I’m on Twitter. These posts have been saved for later. 👍",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "simonmoralee",
+					"name": "Dr Simon Moralee",
+					"id": 17542973,
+					"id_str": "17542973",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "jtweeterson",
+					"name": "Julian Patterson",
+					"id": 174230433,
+					"id_str": "174230433",
+					"indices": [
+						14,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1512420776779079700,
+		"in_reply_to_status_id_str": "1512420776779079683",
+		"in_reply_to_user_id": 17542973,
+		"in_reply_to_user_id_str": "17542973",
+		"in_reply_to_screen_name": "simonmoralee",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UBirm📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3180,
+			"friends_count": 4365,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@simonmoralee @jtweeterson This is why I’m on Twitter. These posts have been saved for later. 👍"
+	},
+	{
+		"created_at": "Fri Apr 08 13:17:29 +0000 2022",
+		"id": 1512419361994293200,
+		"id_str": "1512419361994293260",
+		"full_text": "Great tutorial with @DrCNeedham, @LekyParveen &amp; Karen this lunchtime. 💭\n\nI am always feel empowered and motivated after a tutorial. Have a great Easter all! 😊\n\nI highly recommend the programme at @_HSMCentre especially if your ‘working’ in the #NHS 💯.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NHS",
+					"indices": [
+						248,
+						252
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrCNeedham",
+					"name": "Prof Catherine Needham",
+					"id": 235297412,
+					"id_str": "235297412",
+					"indices": [
+						20,
+						31
+					]
+				},
+				{
+					"screen_name": "LekyParveen",
+					"name": "Leky Parveen 💙",
+					"id": 3602535496,
+					"id_str": "3602535496",
+					"indices": [
+						33,
+						45
+					]
+				},
+				{
+					"screen_name": "_HSMCentre",
+					"name": "Health Services Management Centre (HSMC)",
+					"id": 1542789288,
+					"id_str": "1542789288",
+					"indices": [
+						200,
+						211
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UBirm📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3180,
+			"friends_count": 4365,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Great tutorial with @DrCNeedham, @LekyParveen &amp; Karen this lunchtime. 💭\n\nI am always feel empowered and motivated after a tutorial. Have a great Easter all! 😊\n\nI highly recommend the programme at @_HSMCentre especially if your ‘working’ in the #NHS 💯."
+	},
+	{
+		"created_at": "Fri Apr 08 08:45:57 +0000 2022",
+		"id": 1512351026615103500,
+		"id_str": "1512351026615103489",
+		"full_text": "Policy Fellow @DHSCgovuk \n\nA ‘dream’ job, for me anyway ⬇️\nI wonder if #AHPs have been in this role… 🤔\n\n🔗: https://t.co/Ef5d5tVTYk https://t.co/HnFZFinO2c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AHPs",
+					"indices": [
+						71,
+						76
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DHSCgovuk",
+					"name": "Department of Health and Social Care",
+					"id": 37963496,
+					"id_str": "37963496",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Ef5d5tVTYk",
+					"expanded_url": "https://www.civilservicejobs.service.gov.uk/csr/index.cgi?SID=c2VhcmNoX3NsaWNlX2N1cnJlbnQ9MSZvd25lcnR5cGU9ZmFpciZwYWdlY2xhc3M9Sm9icyZvd25lcj01MDcwMDAwJnVzZXJzZWFyY2hjb250ZXh0PTE1Mjc2NTYxNyZjc291cmNlPWNzcXNlYXJjaCZwYWdlYWN0aW9uPXZpZXd2YWNieWpvYmxpc3Qmam9ibGlzdF92aWV3X3ZhYz0xNzc5ODE4JnJlcXNpZz0xNjQ5MzcwMTQ5LTdlMzRmNDZjOTQ1NTZlZTA5NDQyYTYyOWQ5ZDQ1MGY3N2IzM2VhZTQ=",
+					"display_url": "civilservicejobs.service.gov.uk/csr/index.cgi?…",
+					"indices": [
+						107,
+						130
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1512351022303391700,
+					"id_str": "1512351022303391747",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FPzzPfQXsAMGF5L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPzzPfQXsAMGF5L.jpg",
+					"url": "https://t.co/HnFZFinO2c",
+					"display_url": "pic.twitter.com/HnFZFinO2c",
+					"expanded_url": "https://twitter.com/beardedPT/status/1512351026615103489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 411,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 233,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 702,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1512351022303391700,
+					"id_str": "1512351022303391747",
+					"indices": [
+						131,
+						154
+					],
+					"media_url": "http://pbs.twimg.com/media/FPzzPfQXsAMGF5L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPzzPfQXsAMGF5L.jpg",
+					"url": "https://t.co/HnFZFinO2c",
+					"display_url": "pic.twitter.com/HnFZFinO2c",
+					"expanded_url": "https://twitter.com/beardedPT/status/1512351026615103489/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 411,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 233,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 702,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UBirm📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3180,
+			"friends_count": 4365,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Policy Fellow @DHSCgovuk \n\nA ‘dream’ job, for me anyway ⬇️\nI wonder if #AHPs have been in this role… 🤔\n\n🔗: https://t.co/Ef5d5tVTYk https://t.co/HnFZFinO2c"
+	},
+	{
+		"created_at": "Fri Apr 08 08:42:36 +0000 2022",
+		"id": 1512350185191575600,
+		"id_str": "1512350185191575557",
+		"full_text": "@Deli_1102 Chapeau!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Deli_1102",
+					"name": "Adele Nightingale",
+					"id": 322821191,
+					"id_str": "322821191",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1512347978429866000,
+		"in_reply_to_status_id_str": "1512347978429865986",
+		"in_reply_to_user_id": 322821191,
+		"in_reply_to_user_id_str": "322821191",
+		"in_reply_to_screen_name": "Deli_1102",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UBirm📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3180,
+			"friends_count": 4365,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@Deli_1102 Chapeau!"
+	},
+	{
+		"created_at": "Fri Apr 08 08:41:48 +0000 2022",
+		"id": 1512349982761828400,
+		"id_str": "1512349982761828355",
+		"full_text": "@RichardJMurphy Ah, but he is a ‘sovereign’ individual.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RichardJMurphy",
+					"name": "Richard Murphy",
+					"id": 12588712,
+					"id_str": "12588712",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1512330855137648600,
+		"in_reply_to_status_id_str": "1512330855137648640",
+		"in_reply_to_user_id": 12588712,
+		"in_reply_to_user_id_str": "12588712",
+		"in_reply_to_screen_name": "RichardJMurphy",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UBirm📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3180,
+			"friends_count": 4365,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RichardJMurphy Ah, but he is a ‘sovereign’ individual."
+	},
+	{
+		"created_at": "Fri Apr 08 08:03:47 +0000 2022",
+		"id": 1512340415072157700,
+		"id_str": "1512340415072157697",
+		"full_text": "@150Leaders @misssdjohnson Very honoured ☺️☺️\n\nIt is great to see #150Leaders going from strength to strength.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			110
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "150Leaders",
+					"indices": [
+						66,
+						77
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "150Leaders",
+					"name": "Student Leadership Programme #150Leaders",
+					"id": 1139187039151280100,
+					"id_str": "1139187039151280128",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "misssdjohnson",
+					"name": "Stacy Johnson MBE",
+					"id": 170450545,
+					"id_str": "170450545",
+					"indices": [
+						12,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1512190583250595800,
+		"in_reply_to_status_id_str": "1512190583250595841",
+		"in_reply_to_user_id": 1139187039151280100,
+		"in_reply_to_user_id_str": "1139187039151280128",
+		"in_reply_to_screen_name": "150Leaders",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UBirm📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3180,
+			"friends_count": 4365,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8119,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@150Leaders @misssdjohnson Very honoured ☺️☺️\n\nIt is great to see #150Leaders going from strength to strength."
+	},
+	{
 		"created_at": "Thu Apr 07 21:25:30 +0000 2022",
 		"id": 1512072629905100800,
 		"id_str": "1512179786260664329",
@@ -28,7 +1158,7 @@ Grailbird.data.tweets_2022_04 =
 			"name": "Aldarico Jr Velasco",
 			"screen_name": "aldaricojr",
 			"location": "Derby, England",
-			"description": "Digital Nurse Specialist at University Hospitals of Derby and Burton NHS Foundation Trust, 🏳️‍🌈",
+			"description": "Digital Nurse Specialist at University Hospitals of Derby and Burton NHS Foundation Trust, 🏳️🌈",
 			"url": "https://t.co/OLwAhEsXJs",
 			"entities": {
 				"url": {
