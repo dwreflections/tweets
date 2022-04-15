@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 14 17:55:46 +0000 2022",
+		"id": 1514663719657222100,
+		"id_str": "1514663719657222144",
+		"full_text": "This was brilliant. Thank you @JosephRusso1969. So much to take away from this but I will reflect on how brave we our to be ‘kind’ within our society and communities. https://t.co/TtKpK2f3HC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			166
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JosephRusso1969",
+					"name": "Joseph Russo",
+					"id": 631397725,
+					"id_str": "631397725",
+					"indices": [
+						30,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TtKpK2f3HC",
+					"expanded_url": "https://twitter.com/derbyphysioopd/status/1514634970286931976",
+					"display_url": "twitter.com/derbyphysioopd…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UBirm📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3183,
+			"friends_count": 4377,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25496,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8133,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1514634970286932000,
+		"quoted_status_id_str": "1514634970286931976",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TtKpK2f3HC",
+			"expanded": "https://twitter.com/derbyphysioopd/status/1514634970286931976",
+			"display": "twitter.com/derbyphysioopd…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 14 16:01:32 +0000 2022",
+			"id": 1514634970286932000,
+			"id_str": "1514634970286931976",
+			"full_text": "Thank you @JosephRusso1969 for the fantastic talk on ACEs &amp; how this might impact an individual future. https://t.co/pkOjJwd18L",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				107
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "JosephRusso1969",
+						"name": "Joseph Russo",
+						"id": 631397725,
+						"id_str": "631397725",
+						"indices": [
+							10,
+							26
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1514634956491964400,
+						"id_str": "1514634956491964425",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/FQUQd9IXwAkWtIs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQUQd9IXwAkWtIs.jpg",
+						"url": "https://t.co/pkOjJwd18L",
+						"display_url": "pic.twitter.com/pkOjJwd18L",
+						"expanded_url": "https://twitter.com/DerbyPhysioOPD/status/1514634970286931976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 512,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1542,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 904,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1514634956491964400,
+						"id_str": "1514634956491964425",
+						"indices": [
+							108,
+							131
+						],
+						"media_url": "http://pbs.twimg.com/media/FQUQd9IXwAkWtIs.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FQUQd9IXwAkWtIs.jpg",
+						"url": "https://t.co/pkOjJwd18L",
+						"display_url": "pic.twitter.com/pkOjJwd18L",
+						"expanded_url": "https://twitter.com/DerbyPhysioOPD/status/1514634970286931976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 512,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1542,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 904,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 923868733034106900,
+				"id_str": "923868733034106880",
+				"name": "Derby Therapies OPD",
+				"screen_name": "DerbyPhysioOPD",
+				"location": "LRCH, Derby, England",
+				"description": "Physiotherapy, Occupational Therapy and Group Rehabilitation at University Hospitals of Derby and Burton NHS Foundation Trust",
+				"url": "https://t.co/aQfRaNeFSL",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aQfRaNeFSL",
+								"expanded_url": "http://www.derbyhospitals.nhs.uk/about/depts/physiotherapy/physiotherapy-outpatients/",
+								"display_url": "derbyhospitals.nhs.uk/about/depts/ph…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 525,
+				"friends_count": 355,
+				"listed_count": 2,
+				"created_at": "Fri Oct 27 11:07:25 +0000 2017",
+				"favourites_count": 1107,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 564,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/923887426011062273/htD9mAaZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/923887426011062273/htD9mAaZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/923868733034106880/1509104054",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "07d9dbfccec88001",
+				"url": "https://api.twitter.com/1.1/geo/id/07d9dbfccec88001.json",
+				"place_type": "poi",
+				"name": "London Road Community Hospital",
+				"full_name": "London Road Community Hospital",
+				"country_code": "GB",
+				"country": "United Kingdom",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-1.468491,
+								52.914448
+							],
+							[
+								-1.468491,
+								52.914448
+							],
+							[
+								-1.468491,
+								52.914448
+							],
+							[
+								-1.468491,
+								52.914448
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This was brilliant. Thank you @JosephRusso1969. So much to take away from this but I will reflect on how brave we our to be ‘kind’ within our society and communities. https://t.co/TtKpK2f3HC"
+	},
+	{
 		"created_at": "Wed Apr 13 12:07:31 +0000 2022",
 		"id": 1514213693164294100,
 		"id_str": "1514213693164294147",
