@@ -1,6 +1,564 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 21 17:09:09 +0000 2022",
+		"id": 1517188704128966700,
+		"id_str": "1517188704128966658",
+		"full_text": "@Deli_1102 Congratulations 🥳 👏",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Deli_1102",
+					"name": "Dr Adele Nightingale",
+					"id": 322821191,
+					"id_str": "322821191",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1517171090971406300,
+		"in_reply_to_status_id_str": "1517171090971406337",
+		"in_reply_to_user_id": 322821191,
+		"in_reply_to_user_id_str": "322821191",
+		"in_reply_to_screen_name": "Deli_1102",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3181,
+			"friends_count": 4385,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Deli_1102 Congratulations 🥳 👏"
+	},
+	{
+		"created_at": "Thu Apr 21 11:51:13 +0000 2022",
+		"id": 1517108691690000400,
+		"id_str": "1517108691690000387",
+		"full_text": "@DigitalAhp MSc Health Care Policy and Management @_HSMCentre . \n\nSlightly left field to your ask but you have an option to study 2 modules in other departments. I am currently on the programme and I am studying a digital policy module with @govsoc_bham . \n\n🔗:https://t.co/O2nuX1mPXp",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			283
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DigitalAhp",
+					"name": "DigitalAHP 💙",
+					"id": 1141015266844958700,
+					"id_str": "1141015266844958720",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "_HSMCentre",
+					"name": "Health Services Management Centre (HSMC)",
+					"id": 1542789288,
+					"id_str": "1542789288",
+					"indices": [
+						50,
+						61
+					]
+				},
+				{
+					"screen_name": "govsoc_bham",
+					"name": "Government Bham",
+					"id": 2574524959,
+					"id_str": "2574524959",
+					"indices": [
+						241,
+						253
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/O2nuX1mPXp",
+					"expanded_url": "https://www.birmingham.ac.uk/postgraduate/courses/taught/social-policy/health-care-policy-management.aspx",
+					"display_url": "birmingham.ac.uk/postgraduate/c…",
+					"indices": [
+						260,
+						283
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1517061357258088400,
+		"in_reply_to_status_id_str": "1517061357258088448",
+		"in_reply_to_user_id": 1141015266844958700,
+		"in_reply_to_user_id_str": "1141015266844958720",
+		"in_reply_to_screen_name": "DigitalAhp",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3181,
+			"friends_count": 4385,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@DigitalAhp MSc Health Care Policy and Management @_HSMCentre . \n\nSlightly left field to your ask but you have an option to study 2 modules in other departments. I am currently on the programme and I am studying a digital policy module with @govsoc_bham . \n\n🔗:https://t.co/O2nuX1mPXp"
+	},
+	{
+		"created_at": "Thu Apr 21 08:52:40 +0000 2022",
+		"id": 1517063761017856000,
+		"id_str": "1517063761017856000",
+		"full_text": "Digital Nurse/Midwife/#AHP Specialist Secondments @ @UHDBTrust \n\nThis post would be ideal for someone who wanted explore #QI through digital transformation to enhance clinical care, safety and outcomes for patients.\n\nCome join me 😊👍⬇️\n\n🔗: https://t.co/fQ73pVdlQz https://t.co/kIpnQzPlHi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AHP",
+					"indices": [
+						22,
+						26
+					]
+				},
+				{
+					"text": "QI",
+					"indices": [
+						121,
+						124
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						52,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/fQ73pVdlQz",
+					"expanded_url": "http://jobs.uhdb.nhs.uk/job/UK/Derbyshire/Burton_on_Trent/University_Hospitals_Derby_Burton_NHS_Foundation_Trust/Digital_NurseMidwifeAHP_Specialist_Digital_Services/Digital_NurseMidwifeAHP_Specialist_Digital_Services-v4029362?_ts=180",
+					"display_url": "jobs.uhdb.nhs.uk/job/UK/Derbysh…",
+					"indices": [
+						239,
+						262
+					]
+				},
+				{
+					"url": "https://t.co/kIpnQzPlHi",
+					"expanded_url": "https://twitter.com/itnursey/status/1514593934525308932",
+					"display_url": "twitter.com/itnursey/statu…",
+					"indices": [
+						263,
+						286
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3181,
+			"friends_count": 4385,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25553,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8152,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1514593934525309000,
+		"quoted_status_id_str": "1514593934525308932",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kIpnQzPlHi",
+			"expanded": "https://twitter.com/itnursey/status/1514593934525308932",
+			"display": "twitter.com/itnursey/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 14 13:18:28 +0000 2022",
+			"id": 1514593934525309000,
+			"id_str": "1514593934525308932",
+			"full_text": "Fantastic opportunities within our clinical digital team. Two part time secondment roles coming up. Please checkout UHDB website for jobs or contact the team for a chat about the roles @pearn_grace @CathyWinfield @gillogden66 @magnusharrison @UHDB_CCIO 😊👇👇🙋‍♀️ https://t.co/AmCe6aw9d7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				260
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "pearn_grace",
+						"name": "Grace Pearn",
+						"id": 3337615893,
+						"id_str": "3337615893",
+						"indices": [
+							185,
+							197
+						]
+					},
+					{
+						"screen_name": "CathyWinfield",
+						"name": "Cathy Winfield MBE, RN, MSc💙",
+						"id": 2188050351,
+						"id_str": "2188050351",
+						"indices": [
+							198,
+							212
+						]
+					},
+					{
+						"screen_name": "gillogden66",
+						"name": "Gill Ogden",
+						"id": 752424641495466000,
+						"id_str": "752424641495465984",
+						"indices": [
+							213,
+							225
+						]
+					},
+					{
+						"screen_name": "magnusharrison",
+						"name": "Dr. Magnus Harrison 💙🇺🇦",
+						"id": 258272524,
+						"id_str": "258272524",
+						"indices": [
+							226,
+							241
+						]
+					},
+					{
+						"screen_name": "UHDB_CCIO",
+						"name": "UHDB CCIO",
+						"id": 1113109843756355600,
+						"id_str": "1113109843756355585",
+						"indices": [
+							242,
+							252
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/AmCe6aw9d7",
+						"expanded_url": "https://twitter.com/misspie65/status/1514153938102149121",
+						"display_url": "twitter.com/misspie65/stat…",
+						"indices": [
+							261,
+							284
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 887281988390051800,
+				"id_str": "887281988390051841",
+				"name": "Kerry",
+				"screen_name": "ITnursey",
+				"location": "Derby, England",
+				"description": "Nurse Acting CNIO Digital CSO @UHDB V proud mum 👩‍👦‍👦 and then some🏃‍♀️⛷keeper  of 🐝🐝 ❤ learn Own Views RT not endorsement or 🧐 research of tweeters CV",
+				"url": "https://t.co/al8ZvJoKWi",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/al8ZvJoKWi",
+								"expanded_url": "https://www.uhdb.nhs.uk",
+								"display_url": "uhdb.nhs.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 217,
+				"friends_count": 405,
+				"listed_count": 3,
+				"created_at": "Tue Jul 18 12:04:45 +0000 2017",
+				"favourites_count": 2840,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 549,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1477735129317621761/MpZlelHI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477735129317621761/MpZlelHI_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/887281988390051841/1640979993",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1514153938102149000,
+			"quoted_status_id_str": "1514153938102149121",
+			"quoted_status_permalink": {
+				"url": "https://t.co/AmCe6aw9d7",
+				"expanded": "https://twitter.com/misspie65/status/1514153938102149121",
+				"display": "twitter.com/misspie65/stat…"
+			},
+			"retweet_count": 3,
+			"favorite_count": 6,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Digital Nurse/Midwife/#AHP Specialist Secondments @ @UHDBTrust \n\nThis post would be ideal for someone who wanted explore #QI through digital transformation to enhance clinical care, safety and outcomes for patients.\n\nCome join me 😊👍⬇️\n\n🔗: https://t.co/fQ73pVdlQz https://t.co/kIpnQzPlHi"
+	},
+	{
 		"created_at": "Wed Apr 20 20:16:04 +0000 2022",
 		"id": 1516873354350846000,
 		"id_str": "1516873354350845954",
