@@ -1,6 +1,378 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Fri Apr 22 17:13:33 +0000 2022",
+		"id": 1517552196627357700,
+		"id_str": "1517552196627357696",
+		"full_text": "@L33Bolton @jkfillingham @KGadhok @NHSLeader Maybe a thread to follow 🧵 @WLCPhysio @staceyM1978",
+		"truncated": false,
+		"display_text_range": [
+			45,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "L33Bolton",
+					"name": "Lee Bolton (he/him) 🇪🇺🏳️‍🌈",
+					"id": 931597862449893400,
+					"id_str": "931597862449893376",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "jkfillingham",
+					"name": "Dr Joanne Fillingham she/her/hers",
+					"id": 795389719,
+					"id_str": "795389719",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "KGadhok",
+					"name": "Kamini Gadhok",
+					"id": 1356827305,
+					"id_str": "1356827305",
+					"indices": [
+						25,
+						33
+					]
+				},
+				{
+					"screen_name": "NHSLeader",
+					"name": "Rachael Moses",
+					"id": 107548705,
+					"id_str": "107548705",
+					"indices": [
+						34,
+						44
+					]
+				},
+				{
+					"screen_name": "WLCPhysio",
+					"name": "Warren (He/Him)",
+					"id": 2940538043,
+					"id_str": "2940538043",
+					"indices": [
+						72,
+						82
+					]
+				},
+				{
+					"screen_name": "staceyM1978",
+					"name": "Stacey Martin",
+					"id": 252792976,
+					"id_str": "252792976",
+					"indices": [
+						83,
+						95
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1517385637992804400,
+		"in_reply_to_status_id_str": "1517385637992804353",
+		"in_reply_to_user_id": 931597862449893400,
+		"in_reply_to_user_id_str": "931597862449893376",
+		"in_reply_to_screen_name": "L33Bolton",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3183,
+			"friends_count": 4386,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25566,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8155,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@L33Bolton @jkfillingham @KGadhok @NHSLeader Maybe a thread to follow 🧵 @WLCPhysio @staceyM1978"
+	},
+	{
+		"created_at": "Fri Apr 22 16:58:39 +0000 2022",
+		"id": 1517544515124580400,
+		"id_str": "1517548448416940033",
+		"full_text": "🚨#CAHPO22 Alert\n\nRegistration for #CAHPO22 opens 25 April\n \nLooking forward to launching our next #AHPStrategy for England over this 3 day event\n \nThe programme features great speakers, with opportunities to connect, learn &amp; share with #AHP colleagues\n\nDon’t miss out!\n\n@WeAHPs https://t.co/pi8uEL8n89",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CAHPO22",
+					"indices": [
+						1,
+						9
+					]
+				},
+				{
+					"text": "CAHPO22",
+					"indices": [
+						34,
+						42
+					]
+				},
+				{
+					"text": "AHPStrategy",
+					"indices": [
+						98,
+						110
+					]
+				},
+				{
+					"text": "AHP",
+					"indices": [
+						240,
+						244
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WeAHPs",
+					"name": "WeAHPs 💙",
+					"id": 2364573882,
+					"id_str": "2364573882",
+					"indices": [
+						274,
+						281
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1517544510812741600,
+					"id_str": "1517544510812741635",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ9msTnWYAMWvkG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ9msTnWYAMWvkG.jpg",
+					"url": "https://t.co/pi8uEL8n89",
+					"display_url": "pic.twitter.com/pi8uEL8n89",
+					"expanded_url": "https://twitter.com/SuzanneRastrick/status/1517544515124580354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1517544510812741600,
+					"id_str": "1517544510812741635",
+					"indices": [
+						282,
+						305
+					],
+					"media_url": "http://pbs.twimg.com/media/FQ9msTnWYAMWvkG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FQ9msTnWYAMWvkG.jpg",
+					"url": "https://t.co/pi8uEL8n89",
+					"display_url": "pic.twitter.com/pi8uEL8n89",
+					"expanded_url": "https://twitter.com/SuzanneRastrick/status/1517544515124580354/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1596992540,
+			"id_str": "1596992540",
+			"name": "Suzanne Rastrick",
+			"screen_name": "SuzanneRastrick",
+			"location": "England",
+			"description": "Chief Allied Health Professions Officer (CAHPO) for England @NHSEngland @NHS_HealthEdEng | NED in social housing sector | Pronouns she/her",
+			"url": "https://t.co/11CzcA7hNU",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/11CzcA7hNU",
+							"expanded_url": "https://www.england.nhs.uk/ahp/",
+							"display_url": "england.nhs.uk/ahp/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19502,
+			"friends_count": 710,
+			"listed_count": 109,
+			"created_at": "Mon Jul 15 23:19:04 +0000 2013",
+			"favourites_count": 74171,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 27096,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1184579419127668742/6ULPHKXT_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1184579419127668742/6ULPHKXT_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1596992540/1584777837",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 28,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🚨#CAHPO22 Alert\n\nRegistration for #CAHPO22 opens 25 April\n \nLooking forward to launching our next #AHPStrategy for England over this 3 day event\n \nThe programme features great speakers, with opportunities to connect, learn &amp; share with #AHP colleagues\n\nDon’t miss out!\n\n@WeAHPs https://t.co/pi8uEL8n89"
+	},
+	{
 		"created_at": "Thu Apr 21 17:09:09 +0000 2022",
 		"id": 1517188704128966700,
 		"id_str": "1517188704128966658",
@@ -390,7 +762,7 @@ Grailbird.data.tweets_2022_04 =
 			"created_at": "Thu Apr 14 13:18:28 +0000 2022",
 			"id": 1514593934525309000,
 			"id_str": "1514593934525308932",
-			"full_text": "Fantastic opportunities within our clinical digital team. Two part time secondment roles coming up. Please checkout UHDB website for jobs or contact the team for a chat about the roles @pearn_grace @CathyWinfield @gillogden66 @magnusharrison @UHDB_CCIO 😊👇👇🙋‍♀️ https://t.co/AmCe6aw9d7",
+			"full_text": "Fantastic opportunities within our clinical digital team. Two part time secondment roles coming up. Please checkout UHDB website for jobs or contact the team for a chat about the roles @pearn_grace @CathyWinfield @gillogden66 @magnusharrison @UHDB_CCIO 😊👇👇🙋♀️ https://t.co/AmCe6aw9d7",
 			"truncated": false,
 			"display_text_range": [
 				0,
@@ -475,7 +847,7 @@ Grailbird.data.tweets_2022_04 =
 				"name": "Kerry",
 				"screen_name": "ITnursey",
 				"location": "Derby, England",
-				"description": "Nurse Acting CNIO Digital CSO @UHDB V proud mum 👩‍👦‍👦 and then some🏃‍♀️⛷keeper  of 🐝🐝 ❤ learn Own Views RT not endorsement or 🧐 research of tweeters CV",
+				"description": "Nurse Acting CNIO Digital CSO @UHDB V proud mum 👩👦👦 and then some🏃♀️⛷keeper  of 🐝🐝 ❤ learn Own Views RT not endorsement or 🧐 research of tweeters CV",
 				"url": "https://t.co/al8ZvJoKWi",
 				"entities": {
 					"url": {
