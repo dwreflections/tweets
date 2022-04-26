@@ -1,6 +1,490 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Mon Apr 25 18:17:46 +0000 2022",
+		"id": 1518655522416824300,
+		"id_str": "1518655522416824322",
+		"full_text": "@UHDB_AFN @GemmaCBT @tina1duffy @jordana_wright @LaraRaworth It sure is 🤩",
+		"truncated": false,
+		"display_text_range": [
+			61,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UHDB_AFN",
+					"name": "UHDB Armed Forces Network",
+					"id": 1384135578233360400,
+					"id_str": "1384135578233360399",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "GemmaCBT",
+					"name": "Gemma Saunders",
+					"id": 1503121683334451200,
+					"id_str": "1503121683334451205",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"screen_name": "tina1duffy",
+					"name": "Christine Duffy -Queen’s Nurse",
+					"id": 773961266973073400,
+					"id_str": "773961266973073408",
+					"indices": [
+						20,
+						31
+					]
+				},
+				{
+					"screen_name": "jordana_wright",
+					"name": "Jordana Wright",
+					"id": 1429060518879314000,
+					"id_str": "1429060518879313923",
+					"indices": [
+						32,
+						47
+					]
+				},
+				{
+					"screen_name": "LaraRaworth",
+					"name": "Lara Raworth",
+					"id": 917528162,
+					"id_str": "917528162",
+					"indices": [
+						48,
+						60
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1518653447452733400,
+		"in_reply_to_status_id_str": "1518653447452733443",
+		"in_reply_to_user_id": 1384135578233360400,
+		"in_reply_to_user_id_str": "1384135578233360399",
+		"in_reply_to_screen_name": "UHDB_AFN",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3182,
+			"friends_count": 4391,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@UHDB_AFN @GemmaCBT @tina1duffy @jordana_wright @LaraRaworth It sure is 🤩"
+	},
+	{
+		"created_at": "Mon Apr 25 18:17:28 +0000 2022",
+		"id": 1518653447452733400,
+		"id_str": "1518655448945246210",
+		"full_text": "What a fabulous catch up with our neighbouring NHS Trusts to discuss our collaborative ICS approach for our Armed Forces Networks. Lots of ideas and joined up approaches. This is exciting! @GemmaCBT @beardedPT  @tina1duffy @jordana_wright @LaraRaworth",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GemmaCBT",
+					"name": "Gemma Saunders",
+					"id": 1503121683334451200,
+					"id_str": "1503121683334451205",
+					"indices": [
+						189,
+						198
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams 🇺🇦",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						199,
+						209
+					]
+				},
+				{
+					"screen_name": "tina1duffy",
+					"name": "Christine Duffy -Queen’s Nurse",
+					"id": 773961266973073400,
+					"id_str": "773961266973073408",
+					"indices": [
+						211,
+						222
+					]
+				},
+				{
+					"screen_name": "jordana_wright",
+					"name": "Jordana Wright",
+					"id": 1429060518879314000,
+					"id_str": "1429060518879313923",
+					"indices": [
+						223,
+						238
+					]
+				},
+				{
+					"screen_name": "LaraRaworth",
+					"name": "Lara Raworth",
+					"id": 917528162,
+					"id_str": "917528162",
+					"indices": [
+						239,
+						251
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1384135578233360400,
+			"id_str": "1384135578233360399",
+			"name": "UHDB Armed Forces Network",
+			"screen_name": "UHDB_AFN",
+			"location": "Derby, England",
+			"description": "Network for Reservists, Veterans, Forces Families and Cadet Forces Adult Volunteers who work at @UHDBTrust #TeamUHDB",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 131,
+			"friends_count": 233,
+			"listed_count": 0,
+			"created_at": "Mon Apr 19 13:23:39 +0000 2021",
+			"favourites_count": 158,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 83,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398298749626093573/Mu-dSfve_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398298749626093573/Mu-dSfve_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1384135578233360399/1620671376",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "What a fabulous catch up with our neighbouring NHS Trusts to discuss our collaborative ICS approach for our Armed Forces Networks. Lots of ideas and joined up approaches. This is exciting! @GemmaCBT @beardedPT  @tina1duffy @jordana_wright @LaraRaworth"
+	},
+	{
+		"created_at": "Mon Apr 25 12:45:23 +0000 2022",
+		"id": 1518571875101823000,
+		"id_str": "1518571875101822976",
+		"full_text": "@Shaun_LDNurse PROUD BROTHER 👏👏👏",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Shaun_LDNurse",
+					"name": "Shaun Williams 🇺🇦",
+					"id": 901055791515435000,
+					"id_str": "901055791515435008",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1518567428074188800,
+		"in_reply_to_status_id_str": "1518567428074188800",
+		"in_reply_to_user_id": 901055791515435000,
+		"in_reply_to_user_id_str": "901055791515435008",
+		"in_reply_to_screen_name": "Shaun_LDNurse",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3182,
+			"friends_count": 4391,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25658,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8172,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Shaun_LDNurse PROUD BROTHER 👏👏👏"
+	},
+	{
+		"created_at": "Mon Apr 25 12:44:56 +0000 2022",
+		"id": 1518567811722920000,
+		"id_str": "1518571762610589697",
+		"full_text": "* society needs to stop writing people off because they’re different; and if you are different [like me] you can can achieve when given the chance to. \n\n   … it might take longer, require more support, and even a little more understanding from others - but you really can do it!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1518567428074188800,
+		"in_reply_to_status_id_str": "1518567428074188800",
+		"in_reply_to_user_id": 901055791515435000,
+		"in_reply_to_user_id_str": "901055791515435008",
+		"in_reply_to_screen_name": "Shaun_LDNurse",
+		"user": {
+			"id": 901055791515435000,
+			"id_str": "901055791515435008",
+			"name": "Shaun Williams 🇺🇦",
+			"screen_name": "Shaun_LDNurse",
+			"location": "Birmingham, England",
+			"description": "RNLD; member of @theRCN Council 2021-2022; neurodiverse (inc. #ActuallyAutistic); thinking critically about critical thinking and EBP; Pronouns He/Him . 🏳️‍🌈",
+			"url": "https://t.co/FIDt4U2uVd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/FIDt4U2uVd",
+							"expanded_url": "https://theneurodiversenurse.wordpress.com/",
+							"display_url": "theneurodiversenurse.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3328,
+			"friends_count": 3780,
+			"listed_count": 18,
+			"created_at": "Fri Aug 25 12:16:56 +0000 2017",
+			"favourites_count": 21931,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19334,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/972013590768070656/fpLB_pZ1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/972013590768070656/fpLB_pZ1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/901055791515435008/1506266745",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 13,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "* society needs to stop writing people off because they’re different; and if you are different [like me] you can can achieve when given the chance to. \n\n   … it might take longer, require more support, and even a little more understanding from others - but you really can do it!"
+	},
+	{
 		"created_at": "Sun Apr 24 17:02:26 +0000 2022",
 		"id": 1518271414427607000,
 		"id_str": "1518274176959893506",
