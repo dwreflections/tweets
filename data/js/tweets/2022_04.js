@@ -1,6 +1,337 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 26 11:36:57 +0000 2022",
+		"id": 1518917040555401200,
+		"id_str": "1518917040555401217",
+		"full_text": "PROUD BROTHER 👏👏👏 https://t.co/GPfXGvGODx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GPfXGvGODx",
+					"expanded_url": "https://twitter.com/Shaun_LDNurse/status/1518567428074188800",
+					"display_url": "twitter.com/Shaun_LDNurse/…",
+					"indices": [
+						18,
+						41
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3183,
+			"friends_count": 4391,
+			"listed_count": 0,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25661,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8174,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1518567428074188800,
+		"quoted_status_id_str": "1518567428074188800",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GPfXGvGODx",
+			"expanded": "https://twitter.com/Shaun_LDNurse/status/1518567428074188800",
+			"display": "twitter.com/Shaun_LDNurse/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 25 12:27:43 +0000 2022",
+			"id": 1518567428074188800,
+			"id_str": "1518567428074188800",
+			"full_text": "This landed last week.\n\nI still don’t quite believe it.\n\nAlthough poor academic attainment in the past (no GCSEs until 27y/o), #Autism, #ADHD, #Dyslexia, and #Dyspraxia with the right help and support I broke my very own proverbial mould. \n#Nursing\n#LDNursing https://t.co/SMjTwgeiDO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				259
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "Autism",
+						"indices": [
+							127,
+							134
+						]
+					},
+					{
+						"text": "ADHD",
+						"indices": [
+							136,
+							141
+						]
+					},
+					{
+						"text": "Dyslexia",
+						"indices": [
+							143,
+							152
+						]
+					},
+					{
+						"text": "Dyspraxia",
+						"indices": [
+							158,
+							168
+						]
+					},
+					{
+						"text": "Nursing",
+						"indices": [
+							240,
+							248
+						]
+					},
+					{
+						"text": "LDNursing",
+						"indices": [
+							249,
+							259
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1518567420755067000,
+						"id_str": "1518567420755066880",
+						"indices": [
+							260,
+							283
+						],
+						"media_url": "http://pbs.twimg.com/media/FRMJBgGWQAAPXmF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRMJBgGWQAAPXmF.jpg",
+						"url": "https://t.co/SMjTwgeiDO",
+						"display_url": "pic.twitter.com/SMjTwgeiDO",
+						"expanded_url": "https://twitter.com/Shaun_LDNurse/status/1518567428074188800/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1518567420755067000,
+						"id_str": "1518567420755066880",
+						"indices": [
+							260,
+							283
+						],
+						"media_url": "http://pbs.twimg.com/media/FRMJBgGWQAAPXmF.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRMJBgGWQAAPXmF.jpg",
+						"url": "https://t.co/SMjTwgeiDO",
+						"display_url": "pic.twitter.com/SMjTwgeiDO",
+						"expanded_url": "https://twitter.com/Shaun_LDNurse/status/1518567428074188800/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 901055791515435000,
+				"id_str": "901055791515435008",
+				"name": "Shaun Williams 🇺🇦",
+				"screen_name": "Shaun_LDNurse",
+				"location": "Birmingham, England",
+				"description": "RNLD; member of @theRCN Council 2021-2022; neurodiverse (inc. #ActuallyAutistic); thinking critically about critical thinking and EBP; Pronouns He/Him . 🏳️‍🌈",
+				"url": "https://t.co/FIDt4U2uVd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/FIDt4U2uVd",
+								"expanded_url": "https://theneurodiversenurse.wordpress.com/",
+								"display_url": "theneurodiversenurse.wordpress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3336,
+				"friends_count": 3778,
+				"listed_count": 18,
+				"created_at": "Fri Aug 25 12:16:56 +0000 2017",
+				"favourites_count": 21958,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 19338,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/972013590768070656/fpLB_pZ1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/972013590768070656/fpLB_pZ1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/901055791515435008/1506266745",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 372,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "PROUD BROTHER 👏👏👏 https://t.co/GPfXGvGODx"
+	},
+	{
 		"created_at": "Mon Apr 25 18:17:46 +0000 2022",
 		"id": 1518655522416824300,
 		"id_str": "1518655522416824322",
@@ -416,7 +747,7 @@ Grailbird.data.tweets_2022_04 =
 			"name": "Shaun Williams 🇺🇦",
 			"screen_name": "Shaun_LDNurse",
 			"location": "Birmingham, England",
-			"description": "RNLD; member of @theRCN Council 2021-2022; neurodiverse (inc. #ActuallyAutistic); thinking critically about critical thinking and EBP; Pronouns He/Him . 🏳️‍🌈",
+			"description": "RNLD; member of @theRCN Council 2021-2022; neurodiverse (inc. #ActuallyAutistic); thinking critically about critical thinking and EBP; Pronouns He/Him . 🏳️🌈",
 			"url": "https://t.co/FIDt4U2uVd",
 			"entities": {
 				"url": {
