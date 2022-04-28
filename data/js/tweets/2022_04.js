@@ -1,6 +1,402 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 27 19:20:30 +0000 2022",
+		"id": 1519395161528316000,
+		"id_str": "1519396083776032769",
+		"full_text": "#digitalAHP #digitalPT please engage with this project! https://t.co/PGDuWTzqHS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digitalAHP",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"text": "digitalPT",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PGDuWTzqHS",
+					"expanded_url": "https://twitter.com/emma_bashford/status/1519323144103866370",
+					"display_url": "twitter.com/emma_bashford/…",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1141015266844958700,
+			"id_str": "1141015266844958720",
+			"name": "DigitalAHP 💙",
+			"screen_name": "DigitalAhp",
+			"location": "London, England",
+			"description": "@allpowersphysio Chris Tack, AHP Information Officer @gsttnhs. Topol Fellow Alumni cohort 1. Co-Chair London AHP Informatics & Digital Network @WeAreLAIDN",
+			"url": "https://t.co/pIwPDlW9Qf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pIwPDlW9Qf",
+							"expanded_url": "https://digitalahp.wordpress.com/",
+							"display_url": "digitalahp.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2425,
+			"friends_count": 2393,
+			"listed_count": 10,
+			"created_at": "Tue Jun 18 16:10:13 +0000 2019",
+			"favourites_count": 2612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7666,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183078346772500480/f4SKQ2ue_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183078346772500480/f4SKQ2ue_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1141015266844958720/1562786842",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1519323144103866400,
+		"quoted_status_id_str": "1519323144103866370",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PGDuWTzqHS",
+			"expanded": "https://twitter.com/emma_bashford/status/1519323144103866370",
+			"display": "twitter.com/emma_bashford/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 27 14:30:39 +0000 2022",
+			"id": 1519323144103866400,
+			"id_str": "1519323144103866370",
+			"full_text": "Myself and my research partner are looking for musculoskeletal Physiotherapists to participate in our research project. It is a small survey looking into the use of telehealth during the COVID-19 pandemic. If this is you, we would be most grateful if you could participate. https://t.co/QE3UTJd3uq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1519323140987441200,
+						"id_str": "1519323140987441152",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/FRW4WNWWUAAcf86.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRW4WNWWUAAcf86.jpg",
+						"url": "https://t.co/QE3UTJd3uq",
+						"display_url": "pic.twitter.com/QE3UTJd3uq",
+						"expanded_url": "https://twitter.com/emma_bashford/status/1519323144103866370/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1414,
+								"h": 2000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1519323140987441200,
+						"id_str": "1519323140987441152",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/FRW4WNWWUAAcf86.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRW4WNWWUAAcf86.jpg",
+						"url": "https://t.co/QE3UTJd3uq",
+						"display_url": "pic.twitter.com/QE3UTJd3uq",
+						"expanded_url": "https://twitter.com/emma_bashford/status/1519323144103866370/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 848,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 481,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1414,
+								"h": 2000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1455148778160332800,
+				"id_str": "1455148778160332809",
+				"name": "Emma Bashford",
+				"screen_name": "emma_bashford",
+				"location": "Kingston upon Thames, London",
+				"description": "MSc Physiotherapy student @ St George's University of London\n\nGraduate BSc Sports Therapist @ University of Gloucestershire",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32,
+				"friends_count": 296,
+				"listed_count": 0,
+				"created_at": "Mon Nov 01 12:25:06 +0000 2021",
+				"favourites_count": 18,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 9,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1455148896636874759/z9d6eqoS_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455148896636874759/z9d6eqoS_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 20,
+			"favorite_count": 13,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "#digitalAHP #digitalPT please engage with this project! https://t.co/PGDuWTzqHS"
+	},
+	{
+		"created_at": "Wed Apr 27 16:33:09 +0000 2022",
+		"id": 1519353970065563600,
+		"id_str": "1519353970065563649",
+		"full_text": "@RestIsPolitics Thank you for doing this! 😊👍",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RestIsPolitics",
+					"name": "The Rest Is Politics",
+					"id": 1493610230353211400,
+					"id_str": "1493610230353211394",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1519269348808044500,
+		"in_reply_to_status_id_str": "1519269348808044549",
+		"in_reply_to_user_id": 1493610230353211400,
+		"in_reply_to_user_id_str": "1493610230353211394",
+		"in_reply_to_screen_name": "RestIsPolitics",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3184,
+			"friends_count": 4391,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25669,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RestIsPolitics Thank you for doing this! 😊👍"
+	},
+	{
 		"created_at": "Tue Apr 26 11:36:57 +0000 2022",
 		"id": 1518917040555401200,
 		"id_str": "1518917040555401217",
@@ -255,7 +651,7 @@ Grailbird.data.tweets_2022_04 =
 				"name": "Shaun Williams 🇺🇦",
 				"screen_name": "Shaun_LDNurse",
 				"location": "Birmingham, England",
-				"description": "RNLD; member of @theRCN Council 2021-2022; neurodiverse (inc. #ActuallyAutistic); thinking critically about critical thinking and EBP; Pronouns He/Him . 🏳️‍🌈",
+				"description": "RNLD; member of @theRCN Council 2021-2022; neurodiverse (inc. #ActuallyAutistic); thinking critically about critical thinking and EBP; Pronouns He/Him . 🏳️🌈",
 				"url": "https://t.co/FIDt4U2uVd",
 				"entities": {
 					"url": {
