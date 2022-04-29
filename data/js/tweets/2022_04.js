@@ -1,6 +1,473 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Thu Apr 28 16:43:03 +0000 2022",
+		"id": 1519718847967867000,
+		"id_str": "1519718847967866880",
+		"full_text": "@VAKendall14 @Derby_LEAD @UHDBTrust @cbaddeley82 👏🥂🤩",
+		"truncated": false,
+		"display_text_range": [
+			49,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VAKendall14",
+					"name": "Victoria Bayley",
+					"id": 464546207,
+					"id_str": "464546207",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "Derby_LEAD",
+					"name": "UHDB Organisational Development",
+					"id": 768451939264790500,
+					"id_str": "768451939264790528",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						25,
+						35
+					]
+				},
+				{
+					"screen_name": "cbaddeley82",
+					"name": "𝒞𝓁𝒶𝓇𝑒 𝐵𝒶𝒹𝒹𝑒𝓁𝑒𝓎 🦋",
+					"id": 3411353121,
+					"id_str": "3411353121",
+					"indices": [
+						36,
+						48
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1519697303245889500,
+		"in_reply_to_status_id_str": "1519697303245889537",
+		"in_reply_to_user_id": 464546207,
+		"in_reply_to_user_id_str": "464546207",
+		"in_reply_to_screen_name": "VAKendall14",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3184,
+			"friends_count": 4392,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@VAKendall14 @Derby_LEAD @UHDBTrust @cbaddeley82 👏🥂🤩"
+	},
+	{
+		"created_at": "Thu Apr 28 16:13:52 +0000 2022",
+		"id": 1519691299775029200,
+		"id_str": "1519711507176644608",
+		"full_text": "Look at what our fantastic Library team have done! Great resource boxes for lots of our patients and they have a Military Memory Box which our Ward teams can loan. Great resource for our patients from the armed forces community @UHDBTrust @UHDBLibrary @beardedPT @east_mids_rfca https://t.co/gDh5AvvLHc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						228,
+						238
+					]
+				},
+				{
+					"screen_name": "UHDBLibrary",
+					"name": "UHDB Library & Knowledge Service",
+					"id": 1657350067,
+					"id_str": "1657350067",
+					"indices": [
+						239,
+						251
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams 🇺🇦",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						252,
+						262
+					]
+				},
+				{
+					"screen_name": "east_mids_rfca",
+					"name": "East Midlands RFCA",
+					"id": 96968207,
+					"id_str": "96968207",
+					"indices": [
+						263,
+						278
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1519691156757614600,
+					"id_str": "1519691156757614592",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FRcHDi7XEAANED0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRcHDi7XEAANED0.jpg",
+					"url": "https://t.co/gDh5AvvLHc",
+					"display_url": "pic.twitter.com/gDh5AvvLHc",
+					"expanded_url": "https://twitter.com/UHDB_AFN/status/1519691299775029251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1519691156757614600,
+					"id_str": "1519691156757614592",
+					"indices": [
+						279,
+						302
+					],
+					"media_url": "http://pbs.twimg.com/media/FRcHDi7XEAANED0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FRcHDi7XEAANED0.jpg",
+					"url": "https://t.co/gDh5AvvLHc",
+					"display_url": "pic.twitter.com/gDh5AvvLHc",
+					"expanded_url": "https://twitter.com/UHDB_AFN/status/1519691299775029251/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 768,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1384135578233360400,
+			"id_str": "1384135578233360399",
+			"name": "UHDB Armed Forces Network",
+			"screen_name": "UHDB_AFN",
+			"location": "Derby, England",
+			"description": "Network for Reservists, Veterans, Forces Families and Cadet Forces Adult Volunteers who work at @UHDBTrust #TeamUHDB",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 134,
+			"friends_count": 242,
+			"listed_count": 0,
+			"created_at": "Mon Apr 19 13:23:39 +0000 2021",
+			"favourites_count": 164,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 84,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398298749626093573/Mu-dSfve_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398298749626093573/Mu-dSfve_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1384135578233360399/1620671376",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 19,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Look at what our fantastic Library team have done! Great resource boxes for lots of our patients and they have a Military Memory Box which our Ward teams can loan. Great resource for our patients from the armed forces community @UHDBTrust @UHDBLibrary @beardedPT @east_mids_rfca https://t.co/gDh5AvvLHc"
+	},
+	{
+		"created_at": "Thu Apr 28 10:13:29 +0000 2022",
+		"id": 1519620810549436400,
+		"id_str": "1519620810549436416",
+		"full_text": "@rgriffinskill @MSKReform @DerbyPhysioOPD No worries, any time! There is lots of nonsense out there. You have got 2 for starters: plenty to go at...",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rgriffinskill",
+					"name": "Professor Richard Griffin MBE",
+					"id": 872380280,
+					"id_str": "872380280",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "MSKReform",
+					"name": "MSKReform",
+					"id": 1173641102701793300,
+					"id_str": "1173641102701793280",
+					"indices": [
+						15,
+						25
+					]
+				},
+				{
+					"screen_name": "DerbyPhysioOPD",
+					"name": "Derby Therapies OPD",
+					"id": 923868733034106900,
+					"id_str": "923868733034106880",
+					"indices": [
+						26,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1519620334076444700,
+		"in_reply_to_status_id_str": "1519620334076444674",
+		"in_reply_to_user_id": 872380280,
+		"in_reply_to_user_id_str": "872380280",
+		"in_reply_to_screen_name": "rgriffinskill",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3184,
+			"friends_count": 4392,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8181,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@rgriffinskill @MSKReform @DerbyPhysioOPD No worries, any time! There is lots of nonsense out there. You have got 2 for starters: plenty to go at..."
+	},
+	{
 		"created_at": "Wed Apr 27 19:20:30 +0000 2022",
 		"id": 1519395161528316000,
 		"id_str": "1519396083776032769",
