@@ -1,6 +1,430 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Wed May 11 20:17:18 +0000 2022",
+		"id": 1524483811911815200,
+		"id_str": "1524483811911815169",
+		"full_text": "@DickyShoulder 🥹",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DickyShoulder",
+					"name": "Monsieur l’epaule",
+					"id": 2216506915,
+					"id_str": "2216506915",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1524370012982628400,
+		"in_reply_to_status_id_str": "1524370012982628354",
+		"in_reply_to_user_id": 2216506915,
+		"in_reply_to_user_id_str": "2216506915",
+		"in_reply_to_screen_name": "DickyShoulder",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3190,
+			"friends_count": 4402,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@DickyShoulder 🥹"
+	},
+	{
+		"created_at": "Wed May 11 18:12:34 +0000 2022",
+		"id": 1524452420352360400,
+		"id_str": "1524452420352360449",
+		"full_text": "It was fabulous to have you and @IshmaelBeckford with the committee today. Thank you for your input. Great to forge closer links! \n\nI would like to thank @JoJenningsNHS as she steps down for all her expertise, advice and input on the Professional Committee. 💫 https://t.co/RSqShQMlhA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IshmaelBeckford",
+					"name": "Ishmael Beckford (he/him) 🇯🇲🇬🇧✊🏿",
+					"id": 1271214327455010800,
+					"id_str": "1271214327455010816",
+					"indices": [
+						32,
+						48
+					]
+				},
+				{
+					"screen_name": "JoJenningsNHS",
+					"name": "Jo Jennings (she/her) 🇺🇦💙😷🏳️‍🌈",
+					"id": 1898175504,
+					"id_str": "1898175504",
+					"indices": [
+						154,
+						168
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/RSqShQMlhA",
+					"expanded_url": "https://twitter.com/katiem_wilkie/status/1524334582904066050",
+					"display_url": "twitter.com/katiem_wilkie/…",
+					"indices": [
+						260,
+						283
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3190,
+			"friends_count": 4402,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8205,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1524334582904066000,
+		"quoted_status_id_str": "1524334582904066050",
+		"quoted_status_permalink": {
+			"url": "https://t.co/RSqShQMlhA",
+			"expanded": "https://twitter.com/katiem_wilkie/status/1524334582904066050",
+			"display": "twitter.com/katiem_wilkie/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 11 10:24:19 +0000 2022",
+			"id": 1524334582904066000,
+			"id_str": "1524334582904066050",
+			"full_text": "Today I’m delighted to join @thecsp Professional Committee. What a wealth of knowledge, expertise &amp; passion for our profession on this team! As Council members @IshmaelBeckford &amp; I are here to listen, learn &amp; ensure great communication between Council &amp; committees https://t.co/Prh61STd78",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "thecsp",
+						"name": "Chartered Society of Physiotherapy",
+						"id": 138098880,
+						"id_str": "138098880",
+						"indices": [
+							28,
+							35
+						]
+					},
+					{
+						"screen_name": "IshmaelBeckford",
+						"name": "Ishmael Beckford (he/him) 🇯🇲🇬🇧✊🏿",
+						"id": 1271214327455010800,
+						"id_str": "1271214327455010816",
+						"indices": [
+							164,
+							180
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1524334578281980000,
+						"id_str": "1524334578281979908",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FSeGOQFXoAQ9BD2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSeGOQFXoAQ9BD2.jpg",
+						"url": "https://t.co/Prh61STd78",
+						"display_url": "pic.twitter.com/Prh61STd78",
+						"expanded_url": "https://twitter.com/katiem_wilkie/status/1524334582904066050/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 570,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 323,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 972,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1524334578281980000,
+						"id_str": "1524334578281979908",
+						"indices": [
+							281,
+							304
+						],
+						"media_url": "http://pbs.twimg.com/media/FSeGOQFXoAQ9BD2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FSeGOQFXoAQ9BD2.jpg",
+						"url": "https://t.co/Prh61STd78",
+						"display_url": "pic.twitter.com/Prh61STd78",
+						"expanded_url": "https://twitter.com/katiem_wilkie/status/1524334582904066050/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 570,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 323,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 972,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2335785232,
+				"id_str": "2335785232",
+				"name": "katie wilkie 💙",
+				"screen_name": "katiem_wilkie",
+				"location": "",
+				"description": "Chartered physiotherapist working in neuro-rehabilitation. Vice Chair of CSP Council. Trade unionist. Views are my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1238,
+				"friends_count": 1329,
+				"listed_count": 14,
+				"created_at": "Mon Feb 10 14:11:02 +0000 2014",
+				"favourites_count": 22460,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8318,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1345304780718170112/uyzSNRXG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345304780718170112/uyzSNRXG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2335785232/1413475694",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It was fabulous to have you and @IshmaelBeckford with the committee today. Thank you for your input. Great to forge closer links! \n\nI would like to thank @JoJenningsNHS as she steps down for all her expertise, advice and input on the Professional Committee. 💫 https://t.co/RSqShQMlhA"
+	},
+	{
 		"created_at": "Tue May 10 20:50:06 +0000 2022",
 		"id": 1524129675626303500,
 		"id_str": "1524129675626303491",
