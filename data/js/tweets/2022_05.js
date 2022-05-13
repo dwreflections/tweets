@@ -1,6 +1,607 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 12 19:50:18 +0000 2022",
+		"id": 1524838258391273500,
+		"id_str": "1524839402102476819",
+		"full_text": "Late to the party 🥳 busy team preparing to support digital implementation for electronic whiteboard @UHDB QHB, SJCH &amp; SRPCH 👍🤗 👏👏👏👏 @UHDBDP our #DigitalClinicalTeam @AmeliaDigitalRN @beardedPT  @staceylousuth80 @misspie65\n @NHSCNIO\nDigital is #HereforLife\n#IND2022",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			268
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigitalClinicalTeam",
+					"indices": [
+						148,
+						168
+					]
+				},
+				{
+					"text": "HereforLife",
+					"indices": [
+						247,
+						259
+					]
+				},
+				{
+					"text": "IND2022",
+					"indices": [
+						260,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UhDB",
+					"name": "vd DB uh",
+					"id": 823262653,
+					"id_str": "823262653",
+					"indices": [
+						100,
+						105
+					]
+				},
+				{
+					"screen_name": "UHDBDP",
+					"name": "UHDB Digital Services",
+					"id": 1060247346997538800,
+					"id_str": "1060247346997538816",
+					"indices": [
+						136,
+						143
+					]
+				},
+				{
+					"screen_name": "AmeliaDigitalRN",
+					"name": "Amelia",
+					"id": 1456598513924644900,
+					"id_str": "1456598513924644866",
+					"indices": [
+						169,
+						185
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams 🇺🇦",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						186,
+						196
+					]
+				},
+				{
+					"screen_name": "staceylousuth80",
+					"name": "Staceylou Suth 👨‍👩‍👦😷🐿🦫⚜️",
+					"id": 2765497290,
+					"id_str": "2765497290",
+					"indices": [
+						198,
+						214
+					]
+				},
+				{
+					"screen_name": "misspie65",
+					"name": "misspie65",
+					"id": 1477061385695772700,
+					"id_str": "1477061385695772675",
+					"indices": [
+						215,
+						225
+					]
+				},
+				{
+					"screen_name": "NHSCNIO",
+					"name": "Dr Natasha Phillips RN",
+					"id": 900098365,
+					"id_str": "900098365",
+					"indices": [
+						227,
+						235
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 887281988390051800,
+			"id_str": "887281988390051841",
+			"name": "Kerry",
+			"screen_name": "ITnursey",
+			"location": "Derby, England",
+			"description": "Nurse Acting CNIO Digital CSO @UHDB V proud mum 👩‍👦‍👦 and then some🏃‍♀️⛷keeper  of 🐝🐝 ❤ learn Own Views RT not endorsement or 🧐 research of tweeters CV",
+			"url": "https://t.co/al8ZvJoKWi",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/al8ZvJoKWi",
+							"expanded_url": "https://www.uhdb.nhs.uk",
+							"display_url": "uhdb.nhs.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 226,
+			"friends_count": 419,
+			"listed_count": 3,
+			"created_at": "Tue Jul 18 12:04:45 +0000 2017",
+			"favourites_count": 3013,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 558,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477735129317621761/MpZlelHI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477735129317621761/MpZlelHI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/887281988390051841/1640979993",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Late to the party 🥳 busy team preparing to support digital implementation for electronic whiteboard @UHDB QHB, SJCH &amp; SRPCH 👍🤗 👏👏👏👏 @UHDBDP our #DigitalClinicalTeam @AmeliaDigitalRN @beardedPT  @staceylousuth80 @misspie65\n @NHSCNIO\nDigital is #HereforLife\n#IND2022"
+	},
+	{
+		"created_at": "Thu May 12 09:56:58 +0000 2022",
+		"id": 1524690087648411600,
+		"id_str": "1524690087648411650",
+		"full_text": "@Moosie67Laura @londonahps @NHSHEE_LDN @tolanAHP @TomasInce @chloekj @rashidapickford Happy birthday @tolanAHP 🥳🥳🥳",
+		"truncated": false,
+		"display_text_range": [
+			86,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Moosie67Laura",
+					"name": "Laura Leadsford",
+					"id": 709172763,
+					"id_str": "709172763",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "londonahps",
+					"name": "@LondonAHPs",
+					"id": 1059365594192056300,
+					"id_str": "1059365594192056321",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "NHSHEE_LDN",
+					"name": "@NHSHEE_LDN",
+					"id": 1308097213,
+					"id_str": "1308097213",
+					"indices": [
+						27,
+						38
+					]
+				},
+				{
+					"screen_name": "tolanAHP",
+					"name": "Steve Tolan",
+					"id": 1550254940,
+					"id_str": "1550254940",
+					"indices": [
+						39,
+						48
+					]
+				},
+				{
+					"screen_name": "TomasInce",
+					"name": "Tomas Ince",
+					"id": 401252577,
+					"id_str": "401252577",
+					"indices": [
+						49,
+						59
+					]
+				},
+				{
+					"screen_name": "chloekj",
+					"name": "Chloe K-J",
+					"id": 4009234893,
+					"id_str": "4009234893",
+					"indices": [
+						60,
+						68
+					]
+				},
+				{
+					"screen_name": "rashidapickford",
+					"name": "Rashida Pickford",
+					"id": 188909940,
+					"id_str": "188909940",
+					"indices": [
+						69,
+						85
+					]
+				},
+				{
+					"screen_name": "tolanAHP",
+					"name": "Steve Tolan",
+					"id": 1550254940,
+					"id_str": "1550254940",
+					"indices": [
+						101,
+						110
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1524681618572685300,
+		"in_reply_to_status_id_str": "1524681618572685315",
+		"in_reply_to_user_id": 709172763,
+		"in_reply_to_user_id_str": "709172763",
+		"in_reply_to_screen_name": "Moosie67Laura",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams 🇺🇦",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Greyhound Dad | Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust | Post-grad Student @hsmc_ | Professional Committee @theCSP |",
+			"url": "https://t.co/woJ8pdZGWH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/woJ8pdZGWH",
+							"expanded_url": "https://www.linkedin.com/in/ukdavidwilliams",
+							"display_url": "linkedin.com/in/ukdavidwill…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3192,
+			"friends_count": 4402,
+			"listed_count": 21,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25819,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8209,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1477008040108994566/PRRNfWjv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Moosie67Laura @londonahps @NHSHEE_LDN @tolanAHP @TomasInce @chloekj @rashidapickford Happy birthday @tolanAHP 🥳🥳🥳"
+	},
+	{
+		"created_at": "Thu May 12 08:49:26 +0000 2022",
+		"id": 1524645556399788000,
+		"id_str": "1524673089786859520",
+		"full_text": "Happy #InternationalNursesDay from @aldaricojr  – our International Nurse Facilitator.\n\nRead more about his role here: https://t.co/JGoVqR0g7m https://t.co/cUjth1LexQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "InternationalNursesDay",
+					"indices": [
+						6,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "aldaricojr",
+					"name": "Aldarico Jr Velasco",
+					"id": 1194609392446058500,
+					"id_str": "1194609392446058497",
+					"indices": [
+						35,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JGoVqR0g7m",
+					"expanded_url": "https://bit.ly/37ATRr1",
+					"display_url": "bit.ly/37ATRr1",
+					"indices": [
+						119,
+						142
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1524428910703820800,
+					"id_str": "1524428910703820803",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1524428910703820803/pu/img/wMmfX7dO5U5oRTYH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1524428910703820803/pu/img/wMmfX7dO5U5oRTYH.jpg",
+					"url": "https://t.co/cUjth1LexQ",
+					"display_url": "pic.twitter.com/cUjth1LexQ",
+					"expanded_url": "https://twitter.com/UHDBTrust/status/1524645556399788032/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1524428910703820800,
+					"id_str": "1524428910703820803",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1524428910703820803/pu/img/wMmfX7dO5U5oRTYH.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1524428910703820803/pu/img/wMmfX7dO5U5oRTYH.jpg",
+					"url": "https://t.co/cUjth1LexQ",
+					"display_url": "pic.twitter.com/cUjth1LexQ",
+					"expanded_url": "https://twitter.com/UHDBTrust/status/1524645556399788032/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1920,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							9,
+							16
+						],
+						"duration_millis": 5311,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1524428910703820803/pu/vid/480x852/Ki3Ln11pJ70T3f-W.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1524428910703820803/pu/pl/BVBEboIUodYBxFXb.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1524428910703820803/pu/vid/320x568/AwGUDPL1_QRWJ5BY.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1524428910703820803/pu/vid/720x1280/gGcbjTHMGSebBLl2.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 429877936,
+			"id_str": "429877936",
+			"name": "University Hospitals of Derby and Burton NHS FT",
+			"screen_name": "UHDBTrust",
+			"location": "Derby, Burton, Tamworth, Lichfield",
+			"description": "Official Twitter page of University Hospitals of Derby and Burton NHS Foundation Trust. 🏥\n\nThis account is monitored Mon-Fri, 9am-5pm (excluding Bank Holidays)",
+			"url": "https://t.co/hSieSYIIfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hSieSYIIfx",
+							"expanded_url": "http://www.uhdb.nhs.uk",
+							"display_url": "uhdb.nhs.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16586,
+			"friends_count": 1314,
+			"listed_count": 172,
+			"created_at": "Tue Dec 06 14:09:36 +0000 2011",
+			"favourites_count": 8998,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21987,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1442506746405298179/dYS-nOu3_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1442506746405298179/dYS-nOu3_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/429877936/1650359525",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 23,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Happy #InternationalNursesDay from @aldaricojr  – our International Nurse Facilitator.\n\nRead more about his role here: https://t.co/JGoVqR0g7m https://t.co/cUjth1LexQ"
+	},
+	{
 		"created_at": "Wed May 11 20:17:18 +0000 2022",
 		"id": 1524483811911815200,
 		"id_str": "1524483811911815169",
@@ -133,7 +734,7 @@ Grailbird.data.tweets_2022_05 =
 				},
 				{
 					"screen_name": "JoJenningsNHS",
-					"name": "Jo Jennings (she/her) 🇺🇦💙😷🏳️‍🌈",
+					"name": "Jo Jennings (she/her) 🇺🇦💙😷🏳️🌈",
 					"id": 1898175504,
 					"id_str": "1898175504",
 					"indices": [
