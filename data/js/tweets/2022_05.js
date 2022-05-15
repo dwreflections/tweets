@@ -1,6 +1,1370 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 14 18:24:12 +0000 2022",
+		"id": 1525542512634503200,
+		"id_str": "1525542512634503169",
+		"full_text": "@ben_imaging Smashed it! Congratulations 🥳",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ben_imaging",
+					"name": "Ben Potts (he/him)",
+					"id": 1265382097549746200,
+					"id_str": "1265382097549746176",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1525541920608505900,
+		"in_reply_to_status_id_str": "1525541920608505860",
+		"in_reply_to_user_id": 1265382097549746200,
+		"in_reply_to_user_id_str": "1265382097549746176",
+		"in_reply_to_screen_name": "ben_imaging",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Post-grad Student @_HSMCentre | Vice-Chair Professional Committee @theCSP |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3192,
+			"friends_count": 4405,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25837,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ben_imaging Smashed it! Congratulations 🥳"
+	},
+	{
+		"created_at": "Sat May 14 18:23:03 +0000 2022",
+		"id": 1525542220627169300,
+		"id_str": "1525542220627169283",
+		"full_text": "Thank you for the RT @exerciseworks 👍\n\nI must write some more thoughts on this 💭",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "exerciseworks",
+					"name": "Exercise Works!",
+					"id": 256921454,
+					"id_str": "256921454",
+					"indices": [
+						21,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1436057894705844200,
+		"in_reply_to_status_id_str": "1436057894705844227",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Post-grad Student @_HSMCentre | Vice-Chair Professional Committee @theCSP |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3192,
+			"friends_count": 4405,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25837,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Thank you for the RT @exerciseworks 👍\n\nI must write some more thoughts on this 💭"
+	},
+	{
+		"created_at": "Sat May 14 18:00:43 +0000 2022",
+		"id": 1525536600200970200,
+		"id_str": "1525536600200970242",
+		"full_text": "@ashjamesphysio @KMiddletonCSP @thecsp I have an iPad Pro. The Remarkable 2 does intrigue me hence asking. I have found a really good work flow with @zotero and my iPad now so will be keeping. I may get a smaller e-reader for reading books at some point as the iPad is massive.",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ashjamesphysio",
+					"name": "Ash James 💭",
+					"id": 597553260,
+					"id_str": "597553260",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "KMiddletonCSP",
+					"name": "Karen Middleton (she/her)",
+					"id": 791233063,
+					"id_str": "791233063",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						31,
+						38
+					]
+				},
+				{
+					"screen_name": "zotero",
+					"name": "Zotero",
+					"id": 9893772,
+					"id_str": "9893772",
+					"indices": [
+						149,
+						156
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1525414693736796200,
+		"in_reply_to_status_id_str": "1525414693736796160",
+		"in_reply_to_user_id": 597553260,
+		"in_reply_to_user_id_str": "597553260",
+		"in_reply_to_screen_name": "ashjamesphysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Post-grad Student @_HSMCentre | Vice-Chair Professional Committee @theCSP |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3192,
+			"friends_count": 4405,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25837,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ashjamesphysio @KMiddletonCSP @thecsp I have an iPad Pro. The Remarkable 2 does intrigue me hence asking. I have found a really good work flow with @zotero and my iPad now so will be keeping. I may get a smaller e-reader for reading books at some point as the iPad is massive."
+	},
+	{
+		"created_at": "Sat May 14 17:47:36 +0000 2022",
+		"id": 1525533300282036200,
+		"id_str": "1525533300282036227",
+		"full_text": "@PhilomathyMan It’s a privilege. Enjoy!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhilomathyMan",
+					"name": "Mavs ➰",
+					"id": 1086961585367715800,
+					"id_str": "1086961585367715842",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1525460819806412800,
+		"in_reply_to_status_id_str": "1525460819806412802",
+		"in_reply_to_user_id": 1086961585367715800,
+		"in_reply_to_user_id_str": "1086961585367715842",
+		"in_reply_to_screen_name": "PhilomathyMan",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Post-grad Student @_HSMCentre | Vice-Chair Professional Committee @theCSP |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3192,
+			"friends_count": 4405,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25837,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PhilomathyMan It’s a privilege. Enjoy!"
+	},
+	{
+		"created_at": "Sat May 14 17:44:59 +0000 2022",
+		"id": 1525532641440718800,
+		"id_str": "1525532641440718849",
+		"full_text": "Ah, here’s a better quality version of the photo..\n\nI had a great afternoon in #Lichfield with the #Greyhound. I even spotted @Mike_Fabricant having a walk about the city. Lucky to have this on my doorstep 🚪. https://t.co/L58CmijFjQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			208
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Lichfield",
+					"indices": [
+						79,
+						89
+					]
+				},
+				{
+					"text": "Greyhound",
+					"indices": [
+						99,
+						109
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mike_Fabricant",
+					"name": "Michael Fabricant 🇬🇧🇺🇦",
+					"id": 19058678,
+					"id_str": "19058678",
+					"indices": [
+						126,
+						141
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1525532633849028600,
+					"id_str": "1525532633849028608",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FSvH2Q3WYAASiS1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSvH2Q3WYAASiS1.jpg",
+					"url": "https://t.co/L58CmijFjQ",
+					"display_url": "pic.twitter.com/L58CmijFjQ",
+					"expanded_url": "https://twitter.com/beardedPT/status/1525532641440718849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1525532633849028600,
+					"id_str": "1525532633849028608",
+					"indices": [
+						209,
+						232
+					],
+					"media_url": "http://pbs.twimg.com/media/FSvH2Q3WYAASiS1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSvH2Q3WYAASiS1.jpg",
+					"url": "https://t.co/L58CmijFjQ",
+					"display_url": "pic.twitter.com/L58CmijFjQ",
+					"expanded_url": "https://twitter.com/beardedPT/status/1525532641440718849/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1525529832767070200,
+		"in_reply_to_status_id_str": "1525529832767070209",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Post-grad Student @_HSMCentre | Vice-Chair Professional Committee @theCSP |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3192,
+			"friends_count": 4405,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25837,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ah, here’s a better quality version of the photo..\n\nI had a great afternoon in #Lichfield with the #Greyhound. I even spotted @Mike_Fabricant having a walk about the city. Lucky to have this on my doorstep 🚪. https://t.co/L58CmijFjQ"
+	},
+	{
+		"created_at": "Sat May 14 17:37:43 +0000 2022",
+		"id": 1525492825982378000,
+		"id_str": "1525530811319074819",
+		"full_text": "Thousands miss out on treatment as physiotherapists are struck off UK register https://t.co/d2uLAg2yEJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/d2uLAg2yEJ",
+					"expanded_url": "https://www.theguardian.com/society/2022/may/14/thousands-miss-out-on-treatment-as-physiotherapists-are-struck-off-uk-register?utm_term=Autofeed&CMP=twt_gu&utm_medium&utm_source=Twitter#Echobox=1652540771",
+					"display_url": "theguardian.com/society/2022/m…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://www.echobox.com\" rel=\"nofollow\">Echobox</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 87818409,
+			"id_str": "87818409",
+			"name": "The Guardian",
+			"screen_name": "guardian",
+			"location": "London",
+			"description": "The need for independent journalism has never been greater. Become a Guardian supporter: https://t.co/gWyuUVlObq",
+			"url": "https://t.co/c53pnmnuIT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/c53pnmnuIT",
+							"expanded_url": "https://www.theguardian.com",
+							"display_url": "theguardian.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gWyuUVlObq",
+							"expanded_url": "https://support.theguardian.com",
+							"display_url": "support.theguardian.com",
+							"indices": [
+								89,
+								112
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10482979,
+			"friends_count": 1060,
+			"listed_count": 69169,
+			"created_at": "Thu Nov 05 23:49:19 +0000 2009",
+			"favourites_count": 141,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 747278,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175141826870861825/K2qKoGla_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/87818409/1620214786",
+			"profile_link_color": "005789",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "CAE3F3",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thousands miss out on treatment as physiotherapists are struck off UK register https://t.co/d2uLAg2yEJ"
+	},
+	{
+		"created_at": "Sat May 14 17:33:49 +0000 2022",
+		"id": 1525529832767070200,
+		"id_str": "1525529832767070209",
+		"full_text": "#NewProfilePic https://t.co/XIx3lESVm2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			14
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NewProfilePic",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1525529829151490000,
+					"id_str": "1525529829151490048",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/FSvFTAjWQAAcRQZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSvFTAjWQAAcRQZ.jpg",
+					"url": "https://t.co/XIx3lESVm2",
+					"display_url": "pic.twitter.com/XIx3lESVm2",
+					"expanded_url": "https://twitter.com/beardedPT/status/1525529832767070209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1525529829151490000,
+					"id_str": "1525529829151490048",
+					"indices": [
+						15,
+						38
+					],
+					"media_url": "http://pbs.twimg.com/media/FSvFTAjWQAAcRQZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSvFTAjWQAAcRQZ.jpg",
+					"url": "https://t.co/XIx3lESVm2",
+					"display_url": "pic.twitter.com/XIx3lESVm2",
+					"expanded_url": "https://twitter.com/beardedPT/status/1525529832767070209/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Post-grad Student @_HSMCentre | Vice-Chair Professional Committee @theCSP |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3192,
+			"friends_count": 4405,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25837,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "#NewProfilePic https://t.co/XIx3lESVm2"
+	},
+	{
+		"created_at": "Sat May 14 13:43:07 +0000 2022",
+		"id": 1525471775919902700,
+		"id_str": "1525471775919902721",
+		"full_text": "@UHDB_AFN @tina1duffy @GemmaCBT @jordana_wright @UHDBTrust @supportthewalk Training starts today 🥴\n\n@AndySloan",
+		"truncated": false,
+		"display_text_range": [
+			75,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UHDB_AFN",
+					"name": "UHDB Armed Forces Network",
+					"id": 1384135578233360400,
+					"id_str": "1384135578233360399",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "tina1duffy",
+					"name": "Christine Duffy -Queen’s Nurse",
+					"id": 773961266973073400,
+					"id_str": "773961266973073408",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"screen_name": "GemmaCBT",
+					"name": "Gemma Saunders",
+					"id": 1503121683334451200,
+					"id_str": "1503121683334451205",
+					"indices": [
+						22,
+						31
+					]
+				},
+				{
+					"screen_name": "jordana_wright",
+					"name": "Jordana Wright",
+					"id": 1429060518879314000,
+					"id_str": "1429060518879313923",
+					"indices": [
+						32,
+						47
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						48,
+						58
+					]
+				},
+				{
+					"screen_name": "supportthewalk",
+					"name": "WWTW",
+					"id": 173807599,
+					"id_str": "173807599",
+					"indices": [
+						59,
+						74
+					]
+				},
+				{
+					"screen_name": "AndySloan",
+					"name": "Andy Sloan",
+					"id": 14567520,
+					"id_str": "14567520",
+					"indices": [
+						100,
+						110
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1525433825794351000,
+		"in_reply_to_status_id_str": "1525433825794351104",
+		"in_reply_to_user_id": 1384135578233360400,
+		"in_reply_to_user_id_str": "1384135578233360399",
+		"in_reply_to_screen_name": "UHDB_AFN",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Post-grad Student @_HSMCentre | Vice-Chair Professional Committee @theCSP |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3192,
+			"friends_count": 4405,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25837,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@UHDB_AFN @tina1duffy @GemmaCBT @jordana_wright @UHDBTrust @supportthewalk Training starts today 🥴\n\n@AndySloan"
+	},
+	{
+		"created_at": "Sat May 14 09:46:17 +0000 2022",
+		"id": 1525412172104355800,
+		"id_str": "1525412172104355840",
+		"full_text": "@ashjamesphysio @KMiddletonCSP @thecsp How you finding the remarkable?",
+		"truncated": false,
+		"display_text_range": [
+			39,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ashjamesphysio",
+					"name": "Ash James 💭",
+					"id": 597553260,
+					"id_str": "597553260",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "KMiddletonCSP",
+					"name": "Karen Middleton (she/her)",
+					"id": 791233063,
+					"id_str": "791233063",
+					"indices": [
+						16,
+						30
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						31,
+						38
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1525173047468167200,
+		"in_reply_to_status_id_str": "1525173047468167168",
+		"in_reply_to_user_id": 597553260,
+		"in_reply_to_user_id_str": "597553260",
+		"in_reply_to_screen_name": "ashjamesphysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Post-grad Student @_HSMCentre | Vice-Chair Professional Committee @theCSP |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3192,
+			"friends_count": 4405,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25837,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8220,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ashjamesphysio @KMiddletonCSP @thecsp How you finding the remarkable?"
+	},
+	{
+		"created_at": "Sat May 14 09:42:34 +0000 2022",
+		"id": 1525373824518217700,
+		"id_str": "1525411237399511040",
+		"full_text": "Wishing  @AHPS_UHCW #ODPs a happy #ODPday. Thank you for all that you do - you are all amazing 💫 💫 @UHCW_MTC @UHCW_THEATRES #vascularaccess https://t.co/TyOf3JEL39",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ODPs",
+					"indices": [
+						20,
+						25
+					]
+				},
+				{
+					"text": "ODPday",
+					"indices": [
+						34,
+						41
+					]
+				},
+				{
+					"text": "vascularaccess",
+					"indices": [
+						124,
+						139
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AHPS_UHCW",
+					"name": "UHCW_AHPS 💙",
+					"id": 1070725952987123700,
+					"id_str": "1070725952987123713",
+					"indices": [
+						9,
+						19
+					]
+				},
+				{
+					"screen_name": "UHCW_MTC",
+					"name": "Major Trauma Service",
+					"id": 1325742200907567000,
+					"id_str": "1325742200907567104",
+					"indices": [
+						99,
+						108
+					]
+				},
+				{
+					"screen_name": "UHCW_THEATRES",
+					"name": "@UHCW_Theatres",
+					"id": 1463073183360192500,
+					"id_str": "1463073183360192516",
+					"indices": [
+						109,
+						123
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1525373819908653000,
+					"id_str": "1525373819908653058",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FSs3aE1WAAII2qf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSs3aE1WAAII2qf.jpg",
+					"url": "https://t.co/TyOf3JEL39",
+					"display_url": "pic.twitter.com/TyOf3JEL39",
+					"expanded_url": "https://twitter.com/clare_pheasant/status/1525373824518217728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1525373819908653000,
+					"id_str": "1525373819908653058",
+					"indices": [
+						140,
+						163
+					],
+					"media_url": "http://pbs.twimg.com/media/FSs3aE1WAAII2qf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSs3aE1WAAII2qf.jpg",
+					"url": "https://t.co/TyOf3JEL39",
+					"display_url": "pic.twitter.com/TyOf3JEL39",
+					"expanded_url": "https://twitter.com/clare_pheasant/status/1525373824518217728/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 564853555,
+			"id_str": "564853555",
+			"name": "Clare Pheasant 💙 (She/ Her)",
+			"screen_name": "clare_pheasant",
+			"location": "Rugby, England",
+			"description": "Coventry & Warwickshire ICS Chief AHP. Associate Director of AHPs at UHCW NHS Trust. Physiotherapist. School gov. Views my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1364,
+			"friends_count": 734,
+			"listed_count": 12,
+			"created_at": "Fri Apr 27 19:20:15 +0000 2012",
+			"favourites_count": 9935,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4001,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1312771593366646784/V7eh9da2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312771593366646784/V7eh9da2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/564853555/1638978673",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 35,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wishing  @AHPS_UHCW #ODPs a happy #ODPday. Thank you for all that you do - you are all amazing 💫 💫 @UHCW_MTC @UHCW_THEATRES #vascularaccess https://t.co/TyOf3JEL39"
+	},
+	{
 		"created_at": "Thu May 12 19:50:18 +0000 2022",
 		"id": 1524838258391273500,
 		"id_str": "1524839402102476819",
@@ -78,7 +1442,7 @@ Grailbird.data.tweets_2022_05 =
 				},
 				{
 					"screen_name": "staceylousuth80",
-					"name": "Staceylou Suth 👨‍👩‍👦😷🐿🦫⚜️",
+					"name": "Staceylou Suth 👨👩👦😷🐿🦫⚜️",
 					"id": 2765497290,
 					"id_str": "2765497290",
 					"indices": [
@@ -121,7 +1485,7 @@ Grailbird.data.tweets_2022_05 =
 			"name": "Kerry",
 			"screen_name": "ITnursey",
 			"location": "Derby, England",
-			"description": "Nurse Acting CNIO Digital CSO @UHDB V proud mum 👩‍👦‍👦 and then some🏃‍♀️⛷keeper  of 🐝🐝 ❤ learn Own Views RT not endorsement or 🧐 research of tweeters CV",
+			"description": "Nurse Acting CNIO Digital CSO @UHDB V proud mum 👩👦👦 and then some🏃♀️⛷keeper  of 🐝🐝 ❤ learn Own Views RT not endorsement or 🧐 research of tweeters CV",
 			"url": "https://t.co/al8ZvJoKWi",
 			"entities": {
 				"url": {
