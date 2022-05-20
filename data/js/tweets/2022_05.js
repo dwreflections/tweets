@@ -1,6 +1,630 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 19 20:04:23 +0000 2022",
+		"id": 1527379661591675000,
+		"id_str": "1527379661591674880",
+		"full_text": "@GracePhysio @nottmhospitals Congratulations 👏",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GracePhysio",
+					"name": "Grace Fielding",
+					"id": 924584523135967200,
+					"id_str": "924584523135967233",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "nottmhospitals",
+					"name": "Nottingham University Hospitals 😷",
+					"id": 24703791,
+					"id_str": "24703791",
+					"indices": [
+						13,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1527359690472292400,
+		"in_reply_to_status_id_str": "1527359690472292352",
+		"in_reply_to_user_id": 924584523135967200,
+		"in_reply_to_user_id_str": "924584523135967233",
+		"in_reply_to_screen_name": "GracePhysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Post-grad Student @_HSMCentre | Vice-Chair Professional Committee @theCSP |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3202,
+			"friends_count": 4425,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GracePhysio @nottmhospitals Congratulations 👏"
+	},
+	{
+		"created_at": "Thu May 19 18:32:15 +0000 2022",
+		"id": 1527356478234906600,
+		"id_str": "1527356478234906645",
+		"full_text": "@PhilBoltonRN @UHDBTrust @gillogden66 @hill_karenhill3 @CathyWinfield Thank you, Phil 👏\nIt’s been an absolute pleasure. Take care and good luck! See you around 😊👍",
+		"truncated": false,
+		"display_text_range": [
+			70,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhilBoltonRN",
+					"name": "Phil Bolton",
+					"id": 1188076842726690800,
+					"id_str": "1188076842726690817",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						14,
+						24
+					]
+				},
+				{
+					"screen_name": "gillogden66",
+					"name": "Gill Ogden",
+					"id": 752424641495466000,
+					"id_str": "752424641495465984",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "hill_karenhill3",
+					"name": "Karen Hill 💙 RN MSc",
+					"id": 2361529948,
+					"id_str": "2361529948",
+					"indices": [
+						38,
+						54
+					]
+				},
+				{
+					"screen_name": "CathyWinfield",
+					"name": "Cathy Winfield MBE, RN, MSc💙",
+					"id": 2188050351,
+					"id_str": "2188050351",
+					"indices": [
+						55,
+						69
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1527320499277025300,
+		"in_reply_to_status_id_str": "1527320499277025280",
+		"in_reply_to_user_id": 1188076842726690800,
+		"in_reply_to_user_id_str": "1188076842726690817",
+		"in_reply_to_screen_name": "PhilBoltonRN",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Post-grad Student @_HSMCentre | Vice-Chair Professional Committee @theCSP |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3202,
+			"friends_count": 4425,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PhilBoltonRN @UHDBTrust @gillogden66 @hill_karenhill3 @CathyWinfield Thank you, Phil 👏\nIt’s been an absolute pleasure. Take care and good luck! See you around 😊👍"
+	},
+	{
+		"created_at": "Thu May 19 18:29:50 +0000 2022",
+		"id": 1527355868513128400,
+		"id_str": "1527355868513128450",
+		"full_text": "@GaryMcAllister Come and join us! 🤩",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GaryMcAllister",
+					"name": "Gary McAllister 💙",
+					"id": 15611269,
+					"id_str": "15611269",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1527323152178565000,
+		"in_reply_to_status_id_str": "1527323152178565120",
+		"in_reply_to_user_id": 15611269,
+		"in_reply_to_user_id_str": "15611269",
+		"in_reply_to_screen_name": "GaryMcAllister",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Post-grad Student @_HSMCentre | Vice-Chair Professional Committee @theCSP |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3202,
+			"friends_count": 4425,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GaryMcAllister Come and join us! 🤩"
+	},
+	{
+		"created_at": "Thu May 19 18:29:21 +0000 2022",
+		"id": 1527323152178565000,
+		"id_str": "1527355745410306057",
+		"full_text": "Big job alert (in Derby); https://t.co/azkLnBzYB4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/azkLnBzYB4",
+					"expanded_url": "https://www.jobs.nhs.uk/xi/direct_apply/?vac_ref=917230062",
+					"display_url": "jobs.nhs.uk/xi/direct_appl…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15611269,
+			"id_str": "15611269",
+			"name": "Gary McAllister 💙",
+			"screen_name": "GaryMcAllister",
+			"location": "London",
+			"description": "CxO, CTO for the NHS London region. RTs are not endorsements. Views are mine. Book: An Introduction to Digital Healthcare in the NHS.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3403,
+			"friends_count": 1629,
+			"listed_count": 58,
+			"created_at": "Sat Jul 26 15:15:31 +0000 2008",
+			"favourites_count": 11716,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22689,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525137408173424640/2K-TGNHV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525137408173424640/2K-TGNHV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15611269/1609617513",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "de",
+		"text": "Big job alert (in Derby); https://t.co/azkLnBzYB4"
+	},
+	{
+		"created_at": "Thu May 19 18:22:24 +0000 2022",
+		"id": 1527353998860177400,
+		"id_str": "1527353998860177409",
+		"full_text": "@JackElsom The timeless Nokia 3310 👍",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JackElsom",
+					"name": "Jack Elsom",
+					"id": 398909204,
+					"id_str": "398909204",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1527211276212097000,
+		"in_reply_to_status_id_str": "1527211276212097024",
+		"in_reply_to_user_id": 398909204,
+		"in_reply_to_user_id_str": "398909204",
+		"in_reply_to_screen_name": "JackElsom",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Post-grad Student @_HSMCentre | Vice-Chair Professional Committee @theCSP |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3202,
+			"friends_count": 4425,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JackElsom The timeless Nokia 3310 👍"
+	},
+	{
+		"created_at": "Thu May 19 18:20:30 +0000 2022",
+		"id": 1527353520067711000,
+		"id_str": "1527353520067710976",
+		"full_text": "@GaryMcAllister I think @DigitalAhp had a post/thread on this topic recently.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GaryMcAllister",
+					"name": "Gary McAllister 💙",
+					"id": 15611269,
+					"id_str": "15611269",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "DigitalAhp",
+					"name": "DigitalAHP 💙",
+					"id": 1141015266844958700,
+					"id_str": "1141015266844958720",
+					"indices": [
+						24,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1527283095157604400,
+		"in_reply_to_status_id_str": "1527283095157604354",
+		"in_reply_to_user_id": 15611269,
+		"in_reply_to_user_id_str": "15611269",
+		"in_reply_to_screen_name": "GaryMcAllister",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Post-grad Student @_HSMCentre | Vice-Chair Professional Committee @theCSP |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3202,
+			"friends_count": 4425,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25896,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8231,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GaryMcAllister I think @DigitalAhp had a post/thread on this topic recently."
+	},
+	{
 		"created_at": "Wed May 18 20:21:13 +0000 2022",
 		"id": 1526472051661455400,
 		"id_str": "1527021512427024385",
