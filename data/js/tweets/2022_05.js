@@ -1,6 +1,743 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Tue May 24 19:47:10 +0000 2022",
+		"id": 1529187270183555000,
+		"id_str": "1529187270183555073",
+		"full_text": "@bailey_jodie I have one on my iPad 🏔 https://t.co/ktc7g1sXvL",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bailey_jodie",
+					"name": "Jodie Bryant 🫁",
+					"id": 396158158,
+					"id_str": "396158158",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1529187265540391000,
+					"id_str": "1529187265540390912",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/FTjDt02WAAArJCr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTjDt02WAAArJCr.jpg",
+					"url": "https://t.co/ktc7g1sXvL",
+					"display_url": "pic.twitter.com/ktc7g1sXvL",
+					"expanded_url": "https://twitter.com/beardedPT/status/1529187270183555073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1534,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1529187265540391000,
+					"id_str": "1529187265540390912",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/FTjDt02WAAArJCr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FTjDt02WAAArJCr.jpg",
+					"url": "https://t.co/ktc7g1sXvL",
+					"display_url": "pic.twitter.com/ktc7g1sXvL",
+					"expanded_url": "https://twitter.com/beardedPT/status/1529187270183555073/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 899,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 509,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1534,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1528849355498823700,
+		"in_reply_to_status_id_str": "1528849355498823682",
+		"in_reply_to_user_id": 396158158,
+		"in_reply_to_user_id_str": "396158158",
+		"in_reply_to_screen_name": "bailey_jodie",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Post-grad Student @_HSMCentre | Vice-Chair Professional Committee @theCSP |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3205,
+			"friends_count": 4430,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@bailey_jodie I have one on my iPad 🏔 https://t.co/ktc7g1sXvL"
+	},
+	{
+		"created_at": "Tue May 24 19:07:07 +0000 2022",
+		"id": 1529177191795368000,
+		"id_str": "1529177191795367936",
+		"full_text": "Essential listening for the males on my timeline ⬇️👍 https://t.co/aTdsE5MlWk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aTdsE5MlWk",
+					"expanded_url": "https://twitter.com/applepodcasts/status/1527386765157224449",
+					"display_url": "twitter.com/applepodcasts/…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Post-grad Student @_HSMCentre | Vice-Chair Professional Committee @theCSP |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3205,
+			"friends_count": 4430,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1527386765157224400,
+		"quoted_status_id_str": "1527386765157224449",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aTdsE5MlWk",
+			"expanded": "https://twitter.com/applepodcasts/status/1527386765157224449",
+			"display": "twitter.com/applepodcasts/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 19 20:32:36 +0000 2022",
+			"id": 1527386765157224400,
+			"id_str": "1527386765157224449",
+			"full_text": "Michael Lewis tackles mansplaining on Against the Rules from @pushkinpods. Journalists @RebeccaSolnit, @ClaireShipman, @KattyKay_ and writer @mkonnikova help him understand the phenomenon. https://t.co/cbtPDXPG6f https://t.co/qL3jvc439i",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				212
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "pushkinpods",
+						"name": "Pushkin Industries 🎙️",
+						"id": 1093211541695094800,
+						"id_str": "1093211541695094786",
+						"indices": [
+							61,
+							73
+						]
+					},
+					{
+						"screen_name": "RebeccaSolnit",
+						"name": "Rebecca Solnit",
+						"id": 1501951934047015000,
+						"id_str": "1501951934047014912",
+						"indices": [
+							87,
+							101
+						]
+					},
+					{
+						"screen_name": "ClaireShipman",
+						"name": "Claire Shipman",
+						"id": 22996985,
+						"id_str": "22996985",
+						"indices": [
+							103,
+							117
+						]
+					},
+					{
+						"screen_name": "KattyKay_",
+						"name": "Katty Kay",
+						"id": 43996908,
+						"id_str": "43996908",
+						"indices": [
+							119,
+							129
+						]
+					},
+					{
+						"screen_name": "mkonnikova",
+						"name": "Maria Konnikova",
+						"id": 358566293,
+						"id_str": "358566293",
+						"indices": [
+							141,
+							152
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/cbtPDXPG6f",
+						"expanded_url": "http://apple.co/AgainstTheRules6",
+						"display_url": "apple.co/AgainstTheRule…",
+						"indices": [
+							189,
+							212
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1527386536672567300,
+						"id_str": "1527386536672567296",
+						"indices": [
+							213,
+							236
+						],
+						"media_url": "http://pbs.twimg.com/media/FTJeITvUUAoEpzq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTJeITvUUAoEpzq.jpg",
+						"url": "https://t.co/qL3jvc439i",
+						"display_url": "pic.twitter.com/qL3jvc439i",
+						"expanded_url": "https://twitter.com/ApplePodcasts/status/1527386765157224449/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1527386536672567300,
+						"id_str": "1527386536672567296",
+						"indices": [
+							213,
+							236
+						],
+						"media_url": "http://pbs.twimg.com/media/FTJeITvUUAoEpzq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FTJeITvUUAoEpzq.jpg",
+						"url": "https://t.co/qL3jvc439i",
+						"display_url": "pic.twitter.com/qL3jvc439i",
+						"expanded_url": "https://twitter.com/ApplePodcasts/status/1527386765157224449/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 20032,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1527386536672567296/vid/320x320/B1Uwh7VAVOx03-om.mp4?tag=14"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1527386536672567296/vid/720x720/JUbsDTjb48481vWj.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1527386536672567296/vid/540x540/k0UByFTQZOx5CH6L.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1527386536672567296/pl/adESDd66fB0qjoBp.m3u8?tag=14&container=fmp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 48436234,
+				"id_str": "48436234",
+				"name": "Apple Podcasts",
+				"screen_name": "ApplePodcasts",
+				"location": "Cupertino, CA",
+				"description": "The home of your next favorite podcasts and a place to get more access to the creators behind them.",
+				"url": "https://t.co/1Yw0TqfELV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1Yw0TqfELV",
+								"expanded_url": "http://apple.co/podcasts",
+								"display_url": "apple.co/podcasts",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 634030,
+				"friends_count": 1892,
+				"listed_count": 5036,
+				"created_at": "Thu Jun 18 18:13:59 +0000 2009",
+				"favourites_count": 2326,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 7089,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F0F0F0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1009097162104246272/07rvgUrd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1009097162104246272/07rvgUrd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/48436234/1623766452",
+				"profile_link_color": "0088CC",
+				"profile_sidebar_border_color": "C7C7C7",
+				"profile_sidebar_fill_color": "E0E0E0",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Essential listening for the males on my timeline ⬇️👍 https://t.co/aTdsE5MlWk"
+	},
+	{
+		"created_at": "Tue May 24 19:05:35 +0000 2022",
+		"id": 1529169415727722500,
+		"id_str": "1529176802882727937",
+		"full_text": "As part of my Coaching and Mentoring apprenticeship I am seeking 2 more people to offer coaching to so I can practice and demonstrate my learning. If you have a specific CPD or career related issue, project or long term goal then you could consider receiving coaching. #CPD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "CPD",
+					"indices": [
+						269,
+						273
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 159036497,
+			"id_str": "159036497",
+			"name": "Nina Phoenix 🇺🇦",
+			"screen_name": "Nina_PhoenixOT",
+			"location": "Canterbury",
+			"description": "MSc MRCOT.Practice Placement Facilitator,Placement Expansion Lead,OT,Mentor,Facilitator,Disabled,\nLGBTQ+Ally,Cat Slave.\nOpinions are my own. #kmptproud.She/her",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 413,
+			"friends_count": 340,
+			"listed_count": 1,
+			"created_at": "Thu Jun 24 08:19:41 +0000 2010",
+			"favourites_count": 863,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 871,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "709397",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1335483483037294594/-nWW1KUG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1335483483037294594/-nWW1KUG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/159036497/1446662651",
+			"profile_link_color": "FF3300",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 25,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "As part of my Coaching and Mentoring apprenticeship I am seeking 2 more people to offer coaching to so I can practice and demonstrate my learning. If you have a specific CPD or career related issue, project or long term goal then you could consider receiving coaching. #CPD"
+	},
+	{
+		"created_at": "Tue May 24 07:54:31 +0000 2022",
+		"id": 1529007923183210500,
+		"id_str": "1529007923183210496",
+		"full_text": "@RogerKerry1 Interesting article @RogerKerry1 👍",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						33,
+						45
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1529007810511622100,
+		"in_reply_to_status_id_str": "1529007810511622144",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Post-grad Student @_HSMCentre | Vice-Chair Professional Committee @theCSP |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3205,
+			"friends_count": 4430,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8252,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RogerKerry1 Interesting article @RogerKerry1 👍"
+	},
+	{
 		"created_at": "Mon May 23 21:00:58 +0000 2022",
 		"id": 1528843454322720800,
 		"id_str": "1528843454322720769",
