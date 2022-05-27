@@ -1,6 +1,709 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Thu May 26 17:50:58 +0000 2022",
+		"id": 1529882804003262500,
+		"id_str": "1529882804003262466",
+		"full_text": "@RestIsPolitics https://t.co/XgGMJV1khr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RestIsPolitics",
+					"name": "The Rest Is Politics",
+					"id": 1493610230353211400,
+					"id_str": "1493610230353211394",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1529882783518277600,
+					"id_str": "1529882783518277634",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1529882783518277634/pu/img/blBOBINs0U93_wd9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1529882783518277634/pu/img/blBOBINs0U93_wd9.jpg",
+					"url": "https://t.co/XgGMJV1khr",
+					"display_url": "pic.twitter.com/XgGMJV1khr",
+					"expanded_url": "https://twitter.com/beardedPT/status/1529882804003262466/video/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1529882783518277600,
+					"id_str": "1529882783518277634",
+					"indices": [
+						16,
+						39
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1529882783518277634/pu/img/blBOBINs0U93_wd9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1529882783518277634/pu/img/blBOBINs0U93_wd9.jpg",
+					"url": "https://t.co/XgGMJV1khr",
+					"display_url": "pic.twitter.com/XgGMJV1khr",
+					"expanded_url": "https://twitter.com/beardedPT/status/1529882804003262466/video/1",
+					"type": "video",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 13558,
+						"variants": [
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1529882783518277634/pu/vid/320x320/Nhk6PGdkRr0F6d0r.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1529882783518277634/pu/vid/480x480/s81aWXhnyRafQmqM.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1529882783518277634/pu/pl/lRkaEKE4fXMaqoX0.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1529724018193997800,
+		"in_reply_to_status_id_str": "1529724018193997824",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Post-grad Student @_HSMCentre | Vice-Chair Professional Committee @theCSP |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3206,
+			"friends_count": 4433,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "@RestIsPolitics https://t.co/XgGMJV1khr"
+	},
+	{
+		"created_at": "Thu May 26 15:03:34 +0000 2022",
+		"id": 1529840676187299800,
+		"id_str": "1529840676187299847",
+		"full_text": "I also want to welcome Chris Upton who is our new Deputy Network Leader. Chris brings a wealth of experience from his naval service. He will be leading on our veteran and community work especially in Staffordshire. \n\n#armedforcescovenant @RfcaWest @UHDB_AFN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "armedforcescovenant",
+					"indices": [
+						217,
+						237
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RfcaWest",
+					"name": "West Midland RFCA",
+					"id": 1450068027521781800,
+					"id_str": "1450068027521781762",
+					"indices": [
+						238,
+						247
+					]
+				},
+				{
+					"screen_name": "UHDB_AFN",
+					"name": "UHDB Armed Forces Network",
+					"id": 1384135578233360400,
+					"id_str": "1384135578233360399",
+					"indices": [
+						248,
+						257
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1529840673620377600,
+		"in_reply_to_status_id_str": "1529840673620377600",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Post-grad Student @_HSMCentre | Vice-Chair Professional Committee @theCSP |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3206,
+			"friends_count": 4433,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I also want to welcome Chris Upton who is our new Deputy Network Leader. Chris brings a wealth of experience from his naval service. He will be leading on our veteran and community work especially in Staffordshire. \n\n#armedforcescovenant @RfcaWest @UHDB_AFN"
+	},
+	{
+		"created_at": "Thu May 26 15:03:34 +0000 2022",
+		"id": 1529840673620377600,
+		"id_str": "1529840673620377600",
+		"full_text": "Great @UHDB_AFN monthly meeting this afternoon. We discussed the possibility of a guaranteed interview scheme for veterans and service leavers and planning for Armed Forces Week. \n\nWatch this space!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UHDB_AFN",
+					"name": "UHDB Armed Forces Network",
+					"id": 1384135578233360400,
+					"id_str": "1384135578233360399",
+					"indices": [
+						6,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Post-grad Student @_HSMCentre | Vice-Chair Professional Committee @theCSP |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3206,
+			"friends_count": 4433,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Great @UHDB_AFN monthly meeting this afternoon. We discussed the possibility of a guaranteed interview scheme for veterans and service leavers and planning for Armed Forces Week. \n\nWatch this space!"
+	},
+	{
+		"created_at": "Thu May 26 13:19:58 +0000 2022",
+		"id": 1529814604653772800,
+		"id_str": "1529814604653772805",
+		"full_text": "https://t.co/8KaH10EJI4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8KaH10EJI4",
+					"expanded_url": "https://twitter.com/beardedpt/status/1528627801061990401?s=21&t=CFSCaKWLTBc9wqRaFNhmOw",
+					"display_url": "twitter.com/beardedpt/stat…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1529724018193997800,
+		"in_reply_to_status_id_str": "1529724018193997824",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Post-grad Student @_HSMCentre | Vice-Chair Professional Committee @theCSP |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3206,
+			"friends_count": 4433,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1528627801061990400,
+		"quoted_status_id_str": "1528627801061990401",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8KaH10EJI4",
+			"expanded": "https://twitter.com/beardedpt/status/1528627801061990401?s=21&t=CFSCaKWLTBc9wqRaFNhmOw",
+			"display": "twitter.com/beardedpt/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon May 23 06:44:02 +0000 2022",
+			"id": 1528627801061990400,
+			"id_str": "1528627801061990401",
+			"full_text": "@RestIsPolitics One for @campbellclaret. I have recently read Michael Cricks excellent book on Nigel Farage.\n\nDo you agree with the premise of the book that NF is one of the more important figures in politics in the past 20 years? &amp; is it true that you considered working with GB News?",
+			"truncated": false,
+			"display_text_range": [
+				16,
+				289
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "RestIsPolitics",
+						"name": "The Rest Is Politics",
+						"id": 1493610230353211400,
+						"id_str": "1493610230353211394",
+						"indices": [
+							0,
+							15
+						]
+					},
+					{
+						"screen_name": "campbellclaret",
+						"name": "ALASTAIR CAMPBELL",
+						"id": 19644592,
+						"id_str": "19644592",
+						"indices": [
+							24,
+							39
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1528626700342403000,
+			"in_reply_to_status_id_str": "1528626700342403072",
+			"in_reply_to_user_id": 1493610230353211400,
+			"in_reply_to_user_id_str": "1493610230353211394",
+			"in_reply_to_screen_name": "RestIsPolitics",
+			"user": {
+				"id": 3377750235,
+				"id_str": "3377750235",
+				"name": "David Williams",
+				"screen_name": "beardedPT",
+				"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+				"description": "Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Post-grad Student @_HSMCentre | Vice-Chair Professional Committee @theCSP |",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3206,
+				"friends_count": 4433,
+				"listed_count": 20,
+				"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+				"favourites_count": 25964,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8267,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/8KaH10EJI4"
+	},
+	{
+		"created_at": "Thu May 26 07:20:53 +0000 2022",
+		"id": 1529724237170327600,
+		"id_str": "1529724237170327553",
+		"full_text": "@MikeCollins_61 Good shout. I will checking my university library.📚",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MikeCollins_61",
+					"name": "John Michael Collins",
+					"id": 876118088,
+					"id_str": "876118088",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1529424229837549600,
+		"in_reply_to_status_id_str": "1529424229837549568",
+		"in_reply_to_user_id": 876118088,
+		"in_reply_to_user_id_str": "876118088",
+		"in_reply_to_screen_name": "MikeCollins_61",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Post-grad Student @_HSMCentre | Vice-Chair Professional Committee @theCSP |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3206,
+			"friends_count": 4433,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 25964,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8267,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1525531545238380544/-NXqO40T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1640981133",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MikeCollins_61 Good shout. I will checking my university library.📚"
+	},
+	{
 		"created_at": "Wed May 25 22:09:29 +0000 2022",
 		"id": 1529585473970110500,
 		"id_str": "1529585473970110464",
@@ -358,7 +1061,7 @@ Grailbird.data.tweets_2022_05 =
 				},
 				{
 					"screen_name": "iona_physio",
-					"name": "Iona अयोन​ සයුරි",
+					"name": "Iona अयोन සයුරි",
 					"id": 1418667892674113500,
 					"id_str": "1418667892674113539",
 					"indices": [
@@ -388,7 +1091,7 @@ Grailbird.data.tweets_2022_05 =
 				},
 				{
 					"screen_name": "csplgbtqia",
-					"name": "@csplgbtqia+ 🏳️‍🌈⚧🏳️‍⚧️",
+					"name": "@csplgbtqia+ 🏳️🌈⚧🏳️⚧️",
 					"id": 1330466652018892800,
 					"id_str": "1330466652018892800",
 					"indices": [
@@ -542,7 +1245,7 @@ Grailbird.data.tweets_2022_05 =
 				},
 				{
 					"screen_name": "iona_physio",
-					"name": "Iona अयोन​ සයුරි",
+					"name": "Iona अयोन සයුරි",
 					"id": 1418667892674113500,
 					"id_str": "1418667892674113539",
 					"indices": [
@@ -572,7 +1275,7 @@ Grailbird.data.tweets_2022_05 =
 				},
 				{
 					"screen_name": "csplgbtqia",
-					"name": "@csplgbtqia+ 🏳️‍🌈⚧🏳️‍⚧️",
+					"name": "@csplgbtqia+ 🏳️🌈⚧🏳️⚧️",
 					"id": 1330466652018892800,
 					"id_str": "1330466652018892800",
 					"indices": [
