@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sat May 28 16:58:37 +0000 2022",
+		"id": 1530594402120478700,
+		"id_str": "1530594402120478727",
+		"full_text": "@Shaun_LDNurse @theRCN Have a great time @Shaun_LDNurse 👍🤩",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Shaun_LDNurse",
+					"name": "Shaun Williams 🇺🇦",
+					"id": 901055791515435000,
+					"id_str": "901055791515435008",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "theRCN",
+					"name": "The RCN",
+					"id": 54506896,
+					"id_str": "54506896",
+					"indices": [
+						15,
+						22
+					]
+				},
+				{
+					"screen_name": "Shaun_LDNurse",
+					"name": "Shaun Williams 🇺🇦",
+					"id": 901055791515435000,
+					"id_str": "901055791515435008",
+					"indices": [
+						41,
+						55
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1530578920105459700,
+		"in_reply_to_status_id_str": "1530578920105459713",
+		"in_reply_to_user_id": 901055791515435000,
+		"in_reply_to_user_id_str": "901055791515435008",
+		"in_reply_to_screen_name": "Shaun_LDNurse",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Post-grad Student @_HSMCentre | Vice-Chair Professional Committee @theCSP |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3213,
+			"friends_count": 4442,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8280,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653757214",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Shaun_LDNurse @theRCN Have a great time @Shaun_LDNurse 👍🤩"
+	},
+	{
+		"created_at": "Sat May 28 10:17:05 +0000 2022",
+		"id": 1530493354164764700,
+		"id_str": "1530493354164764676",
+		"full_text": "@sib313 It would need to be very carefully communicated. However, I think it would be broadly positive.",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sib313",
+					"name": "𒊓𒅂𒁓𒐗𒐕𒐗 Steve the skeptic",
+					"id": 115017491,
+					"id_str": "115017491",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1530472180596842500,
+		"in_reply_to_status_id_str": "1530472180596842502",
+		"in_reply_to_user_id": 115017491,
+		"in_reply_to_user_id_str": "115017491",
+		"in_reply_to_screen_name": "sib313",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Staffs. 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Post-grad Student @_HSMCentre | Vice-Chair Professional Committee @theCSP |",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3213,
+			"friends_count": 4442,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26018,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8280,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653757214",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sib313 It would need to be very carefully communicated. However, I think it would be broadly positive."
+	},
+	{
 		"created_at": "Fri May 27 18:47:26 +0000 2022",
 		"id": 1530259400547516400,
 		"id_str": "1530259400547516421",
@@ -683,7 +891,7 @@ Grailbird.data.tweets_2022_05 =
 				"name": "Dr Simon Moralee",
 				"screen_name": "simonmoralee",
 				"location": "North Shropshire",
-				"description": "SL @MBSHealthMgt; Non Exec Chair NShrops PCN; @MedicLeadership; @SHOC_OBHC; 🏃‍♂️@FellRun; 🇪🇺🇬🇧, he/him/his; dogs politics NHS academia; usual disclaimers",
+				"description": "SL @MBSHealthMgt; Non Exec Chair NShrops PCN; @MedicLeadership; @SHOC_OBHC; 🏃♂️@FellRun; 🇪🇺🇬🇧, he/him/his; dogs politics NHS academia; usual disclaimers",
 				"url": "https://t.co/AiSVJdAs9h",
 				"entities": {
 					"url": {
@@ -805,7 +1013,7 @@ Grailbird.data.tweets_2022_05 =
 				},
 				{
 					"screen_name": "staceylousuth80",
-					"name": "Staceylou Suth 👨‍👩‍👦😷🐿🦫⚜️",
+					"name": "Staceylou Suth 👨👩👦😷🐿🦫⚜️",
 					"id": 2765497290,
 					"id_str": "2765497290",
 					"indices": [
