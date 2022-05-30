@@ -1,6 +1,543 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Sun May 29 22:20:09 +0000 2022",
+		"id": 1531037709577371600,
+		"id_str": "1531037709577371648",
+		"full_text": "@loz270668 @UHDBTrust @mel_mcdonagh 🇬🇧🇬🇧🇬🇧👍",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "loz270668",
+					"name": "Lorraine Horobin",
+					"id": 1494962677,
+					"id_str": "1494962677",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "mel_mcdonagh",
+					"name": "Mel McDonagh 💙",
+					"id": 976926809370570800,
+					"id_str": "976926809370570752",
+					"indices": [
+						22,
+						35
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1531019701555454000,
+		"in_reply_to_status_id_str": "1531019701555453952",
+		"in_reply_to_user_id": 1494962677,
+		"in_reply_to_user_id_str": "1494962677",
+		"in_reply_to_screen_name": "loz270668",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3213,
+			"friends_count": 4442,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653757214",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@loz270668 @UHDBTrust @mel_mcdonagh 🇬🇧🇬🇧🇬🇧👍"
+	},
+	{
+		"created_at": "Sun May 29 22:16:38 +0000 2022",
+		"id": 1531036821278302200,
+		"id_str": "1531036821278302212",
+		"full_text": "Has anyone else watched #Severance on @AppleTV ? \n\nWe need to talk! 😬",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Severance",
+					"indices": [
+						24,
+						34
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppleTV",
+					"name": "Apple TV",
+					"id": 82652901,
+					"id_str": "82652901",
+					"indices": [
+						38,
+						46
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3213,
+			"friends_count": 4442,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653757214",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Has anyone else watched #Severance on @AppleTV ? \n\nWe need to talk! 😬"
+	},
+	{
+		"created_at": "Sun May 29 22:12:44 +0000 2022",
+		"id": 1531035843217002500,
+		"id_str": "1531035843217002496",
+		"full_text": "@snaprep One day …",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "snaprep",
+					"name": "Rob 🇺🇦🌻🇦🇫",
+					"id": 1386351325106090000,
+					"id_str": "1386351325106089992",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1531034654010183700,
+		"in_reply_to_status_id_str": "1531034654010183680",
+		"in_reply_to_user_id": 1386351325106090000,
+		"in_reply_to_user_id_str": "1386351325106089992",
+		"in_reply_to_screen_name": "snaprep",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3213,
+			"friends_count": 4442,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653757214",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@snaprep One day …"
+	},
+	{
+		"created_at": "Sun May 29 15:45:05 +0000 2022",
+		"id": 1530938285454987300,
+		"id_str": "1530938285454987266",
+		"full_text": "How does the NHS in England work and how is it changing? Essential viewing! \n\nhttps://t.co/eWGQo3HYXq via @thekingsfund #KFExplain",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "KFExplain",
+					"indices": [
+						120,
+						130
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheKingsFund",
+					"name": "The King's Fund",
+					"id": 18045120,
+					"id_str": "18045120",
+					"indices": [
+						106,
+						119
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/eWGQo3HYXq",
+					"expanded_url": "https://www.kingsfund.org.uk/audio-video/how-does-nhs-in-england-work?utm_source=twitter&utm_medium=social&utm_term=socialshare",
+					"display_url": "kingsfund.org.uk/audio-video/ho…",
+					"indices": [
+						78,
+						101
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3213,
+			"friends_count": 4442,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653757214",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How does the NHS in England work and how is it changing? Essential viewing! \n\nhttps://t.co/eWGQo3HYXq via @thekingsfund #KFExplain"
+	},
+	{
+		"created_at": "Sun May 29 09:50:54 +0000 2022",
+		"id": 1530849151969374200,
+		"id_str": "1530849151969374209",
+		"full_text": "@DigitalAhp @NHSTransform @NHSEngland Congratulations &amp; well deserved! 🥳🤩",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DigitalAhp",
+					"name": "DigitalAHP 💙",
+					"id": 1141015266844958700,
+					"id_str": "1141015266844958720",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "NHSTransform",
+					"name": "Transforming health and care",
+					"id": 1091325763943612400,
+					"id_str": "1091325763943612416",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "NHSEngland",
+					"name": "NHS England and NHS Improvement",
+					"id": 551426814,
+					"id_str": "551426814",
+					"indices": [
+						26,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1530211801534812200,
+		"in_reply_to_status_id_str": "1530211801534812166",
+		"in_reply_to_user_id": 1141015266844958700,
+		"in_reply_to_user_id_str": "1141015266844958720",
+		"in_reply_to_screen_name": "DigitalAhp",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3213,
+			"friends_count": 4442,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8286,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653757214",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DigitalAhp @NHSTransform @NHSEngland Congratulations &amp; well deserved! 🥳🤩"
+	},
+	{
 		"created_at": "Sat May 28 16:58:37 +0000 2022",
 		"id": 1530594402120478700,
 		"id_str": "1530594402120478727",
