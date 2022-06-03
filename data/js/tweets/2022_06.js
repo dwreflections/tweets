@@ -1,6 +1,97 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 02 12:45:38 +0000 2022",
+		"id": 1532342678981169200,
+		"id_str": "1532342678981169153",
+		"full_text": "#GSTQ 🇬🇧",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			8
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GSTQ",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3217,
+			"friends_count": 4456,
+			"listed_count": 0,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26071,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8298,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "#GSTQ 🇬🇧"
+	},
+	{
 		"created_at": "Wed Jun 01 15:26:52 +0000 2022",
 		"id": 1532020865461796900,
 		"id_str": "1532020865461796864",
@@ -16,7 +107,7 @@ Grailbird.data.tweets_2022_06 =
 			"user_mentions": [
 				{
 					"screen_name": "mattiemid",
-					"name": "Matt 🏳️‍🌈👨‍⚕️🚑",
+					"name": "Matt 🏳️🌈👨⚕️🚑",
 					"id": 15476280,
 					"id_str": "15476280",
 					"indices": [
