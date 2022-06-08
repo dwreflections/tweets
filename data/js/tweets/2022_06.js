@@ -1,6 +1,542 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 07 19:47:26 +0000 2022",
+		"id": 1533858227817005000,
+		"id_str": "1534260764508405764",
+		"full_text": "Why is health improvement policy so difficult to secure? https://t.co/QLofQlmPRU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QLofQlmPRU",
+					"expanded_url": "https://paulcairney.wordpress.com/2022/06/06/why-is-health-improvement-policy-so-difficult-to-secure/",
+					"display_url": "paulcairney.wordpress.com/2022/06/06/why…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 603027496,
+			"id_str": "603027496",
+			"name": "Professor Paul Cairney",
+			"screen_name": "CairneyPaul",
+			"location": "https://www.stir.ac.uk/people/",
+			"description": "Politics & Public Policy. \nPolicy concepts in 500 words https://t.co/TW9ehOV8Or \nEvidence https://t.co/BdlMsull0V \nCOVID http://paulcairney.w",
+			"url": "https://t.co/n8D9BTBQCJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n8D9BTBQCJ",
+							"expanded_url": "https://paulcairney.wordpress.com/cv/",
+							"display_url": "paulcairney.wordpress.com/cv/",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/TW9ehOV8Or",
+							"expanded_url": "http://paulcairney.wordpress.com/500-words/",
+							"display_url": "paulcairney.wordpress.com/500-words/",
+							"indices": [
+								56,
+								79
+							]
+						},
+						{
+							"url": "https://t.co/BdlMsull0V",
+							"expanded_url": "http://wp.me/P3Ovrd-tp",
+							"display_url": "wp.me/P3Ovrd-tp",
+							"indices": [
+								90,
+								113
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 10344,
+			"friends_count": 5539,
+			"listed_count": 205,
+			"created_at": "Fri Jun 08 20:02:02 +0000 2012",
+			"favourites_count": 6345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 39309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1532093889129156612/aQTeZB5m_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1532093889129156612/aQTeZB5m_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/603027496/1652340658",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 24,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why is health improvement policy so difficult to secure? https://t.co/QLofQlmPRU"
+	},
+	{
+		"created_at": "Tue Jun 07 18:44:49 +0000 2022",
+		"id": 1534245009112944600,
+		"id_str": "1534245009112944642",
+		"full_text": "I finished @KuperSimon ‘s Chums this morning 📖. I was spurred on to finish it after yesterday’s ‘shenanigans’ in Westminster. \nIt’s an excellently written book but more importantly it adds some context to recent events. Recommend!👍 \nOh,&amp; I must visit the @OxfordUnion one day … https://t.co/BIWhEteSkS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			281
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KuperSimon",
+					"name": "Simon Kuper",
+					"id": 417419122,
+					"id_str": "417419122",
+					"indices": [
+						11,
+						22
+					]
+				},
+				{
+					"screen_name": "OxfordUnion",
+					"name": "Oxford Union",
+					"id": 40305538,
+					"id_str": "40305538",
+					"indices": [
+						259,
+						271
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/BIWhEteSkS",
+					"expanded_url": "https://twitter.com/kupersimon/status/1519591650766508033",
+					"display_url": "twitter.com/kupersimon/sta…",
+					"indices": [
+						282,
+						305
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3226,
+			"friends_count": 4471,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1519591650766508000,
+		"quoted_status_id_str": "1519591650766508033",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BIWhEteSkS",
+			"expanded": "https://twitter.com/kupersimon/status/1519591650766508033",
+			"display": "twitter.com/kupersimon/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Apr 28 08:17:36 +0000 2022",
+			"id": 1519591650766508000,
+			"id_str": "1519591650766508033",
+			"full_text": "Author with book. Chums is published today! The roots of the caste of Oxford Tories that runs the country and made Brexit. Why Britain is an Oxocracy, and how to change that. Get your copy here: https://t.co/NvXbeaHgJR https://t.co/joUhh9uSOn",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				218
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NvXbeaHgJR",
+						"expanded_url": "https://profilebooks.com/work/chums/",
+						"display_url": "profilebooks.com/work/chums/",
+						"indices": [
+							195,
+							218
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1519591399217369000,
+						"id_str": "1519591399217369088",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/media/FRasU5IXEAAj1zy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRasU5IXEAAj1zy.jpg",
+						"url": "https://t.co/joUhh9uSOn",
+						"display_url": "pic.twitter.com/joUhh9uSOn",
+						"expanded_url": "https://twitter.com/KuperSimon/status/1519591650766508033/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1519591399217369000,
+						"id_str": "1519591399217369088",
+						"indices": [
+							219,
+							242
+						],
+						"media_url": "http://pbs.twimg.com/media/FRasU5IXEAAj1zy.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FRasU5IXEAAj1zy.jpg",
+						"url": "https://t.co/joUhh9uSOn",
+						"display_url": "pic.twitter.com/joUhh9uSOn",
+						"expanded_url": "https://twitter.com/KuperSimon/status/1519591650766508033/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 417419122,
+				"id_str": "417419122",
+				"name": "Simon Kuper",
+				"screen_name": "KuperSimon",
+				"location": "Madrid",
+				"description": "@FT writer. New book: Chums: How a Tiny Caste of Oxford Tories Took Over the UK. Get it here: https://t.co/1unf2y65jP Also: Barça, The Happy Traitor + more",
+				"url": "https://t.co/9xuxRRklTM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/9xuxRRklTM",
+								"expanded_url": "http://thehappytraitor.com",
+								"display_url": "thehappytraitor.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1unf2y65jP",
+								"expanded_url": "http://profilebooks.com/work/chums/",
+								"display_url": "profilebooks.com/work/chums/",
+								"indices": [
+									94,
+									117
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 80399,
+				"friends_count": 295,
+				"listed_count": 1818,
+				"created_at": "Sun Nov 20 22:30:58 +0000 2011",
+				"favourites_count": 2992,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 11296,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1502349426240724992/HrtMC6oD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502349426240724992/HrtMC6oD_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/417419122/1648809565",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 64,
+			"favorite_count": 268,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I finished @KuperSimon ‘s Chums this morning 📖. I was spurred on to finish it after yesterday’s ‘shenanigans’ in Westminster. \nIt’s an excellently written book but more importantly it adds some context to recent events. Recommend!👍 \nOh,&amp; I must visit the @OxfordUnion one day … https://t.co/BIWhEteSkS"
+	},
+	{
+		"created_at": "Tue Jun 07 18:34:52 +0000 2022",
+		"id": 1534242503599308800,
+		"id_str": "1534242503599308806",
+		"full_text": "@krishpod7 I need to do this more!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "krishpod7",
+					"name": "krish3",
+					"id": 1013027107302268900,
+					"id_str": "1013027107302268928",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1534042023975583700,
+		"in_reply_to_status_id_str": "1534042023975583745",
+		"in_reply_to_user_id": 1013027107302268900,
+		"in_reply_to_user_id_str": "1013027107302268928",
+		"in_reply_to_screen_name": "krishpod7",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3226,
+			"friends_count": 4471,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26149,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8309,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@krishpod7 I need to do this more!"
+	},
+	{
 		"created_at": "Mon Jun 06 20:05:23 +0000 2022",
 		"id": 1533675298935361500,
 		"id_str": "1533902893526536192",
