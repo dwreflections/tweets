@@ -1,6 +1,491 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 08 19:07:29 +0000 2022",
+		"id": 1534613098665058300,
+		"id_str": "1534613098665058308",
+		"full_text": "@jack_holroyde @Not4Twos Or shorts?",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jack_holroyde",
+					"name": "Jack Holroyde 🏳️‍🌈🏳️‍⚧️✊🏽",
+					"id": 1046818903337422800,
+					"id_str": "1046818903337422849",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "Not4Twos",
+					"name": "Xander S-A",
+					"id": 575561884,
+					"id_str": "575561884",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1534578979746766800,
+		"in_reply_to_status_id_str": "1534578979746766848",
+		"in_reply_to_user_id": 1046818903337422800,
+		"in_reply_to_user_id_str": "1046818903337422849",
+		"in_reply_to_screen_name": "jack_holroyde",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3229,
+			"friends_count": 4478,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jack_holroyde @Not4Twos Or shorts?"
+	},
+	{
+		"created_at": "Wed Jun 08 18:46:27 +0000 2022",
+		"id": 1534607809060425700,
+		"id_str": "1534607809060425728",
+		"full_text": "@astephj1 @KuperSimon @OxfordUnion Possibly… 🫣",
+		"truncated": false,
+		"display_text_range": [
+			35,
+			46
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "astephj1",
+					"name": "Amanda Stephenson",
+					"id": 898081300690686000,
+					"id_str": "898081300690685952",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "KuperSimon",
+					"name": "Simon Kuper",
+					"id": 417419122,
+					"id_str": "417419122",
+					"indices": [
+						10,
+						21
+					]
+				},
+				{
+					"screen_name": "OxfordUnion",
+					"name": "Oxford Union",
+					"id": 40305538,
+					"id_str": "40305538",
+					"indices": [
+						22,
+						34
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1534607413747273700,
+		"in_reply_to_status_id_str": "1534607413747273728",
+		"in_reply_to_user_id": 898081300690686000,
+		"in_reply_to_user_id_str": "898081300690685952",
+		"in_reply_to_screen_name": "astephj1",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3229,
+			"friends_count": 4478,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26166,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8314,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@astephj1 @KuperSimon @OxfordUnion Possibly… 🫣"
+	},
+	{
+		"created_at": "Wed Jun 08 14:53:57 +0000 2022",
+		"id": 1534540744698089500,
+		"id_str": "1534549294874869760",
+		"full_text": "“We heard from allied health professionals that the lack of visibility of leaders from their profession on boards created a sense that careers in management would be limited”\n\nCouldn’t agree more 👏🏼👏🏼\n\nGen Sir Gordon Messenger and Dame Linda Pollard ⬇️\n\nhttps://t.co/ZhvBza8jpq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZhvBza8jpq",
+					"expanded_url": "https://www.gov.uk/government/publications/health-and-social-care-review-leadership-for-a-collaborative-and-inclusive-future/leadership-for-a-collaborative-and-inclusive-future",
+					"display_url": "gov.uk/government/pub…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 107548705,
+			"id_str": "107548705",
+			"name": "Rachael Moses",
+			"screen_name": "NHSLeader",
+			"location": "London, England",
+			"description": "Head of Clinical Leadership @NHSLeadership Resp NCA @Pers_Care @BTSRespiratory President, Team @thoraxBMJ, Team @MedicalAidPal, Views my own 🏳️‍🌈 She/Hers",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24116,
+			"friends_count": 4795,
+			"listed_count": 88,
+			"created_at": "Fri Jan 22 23:15:52 +0000 2010",
+			"favourites_count": 31313,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 22980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1334276999309889546/gaaSYxlf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1334276999309889546/gaaSYxlf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/107548705/1493115352",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 113,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“We heard from allied health professionals that the lack of visibility of leaders from their profession on boards created a sense that careers in management would be limited”\n\nCouldn’t agree more 👏🏼👏🏼\n\nGen Sir Gordon Messenger and Dame Linda Pollard ⬇️\n\nhttps://t.co/ZhvBza8jpq"
+	},
+	{
+		"created_at": "Wed Jun 08 11:44:35 +0000 2022",
+		"id": 1521854238653042700,
+		"id_str": "1534501638785974272",
+		"full_text": "Calling all UK physiotherapists that qualified in 2020 and 2021! Doing a research project for my MSc on the university-workplace transition process that newly qualified physiotherapists had during the pandemic. Your experience is invaluable, do get in touch! @HarrietShannon https://t.co/KfC3iTMavN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HarrietShannon",
+					"name": "Harriet Shannon",
+					"id": 319216046,
+					"id_str": "319216046",
+					"indices": [
+						259,
+						274
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1521854227378843600,
+					"id_str": "1521854227378843652",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FR62W07XsAQMQqX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FR62W07XsAQMQqX.jpg",
+					"url": "https://t.co/KfC3iTMavN",
+					"display_url": "pic.twitter.com/KfC3iTMavN",
+					"expanded_url": "https://twitter.com/garret_michael/status/1521854238653042688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1521854227378843600,
+					"id_str": "1521854227378843652",
+					"indices": [
+						275,
+						298
+					],
+					"media_url": "http://pbs.twimg.com/media/FR62W07XsAQMQqX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FR62W07XsAQMQqX.jpg",
+					"url": "https://t.co/KfC3iTMavN",
+					"display_url": "pic.twitter.com/KfC3iTMavN",
+					"expanded_url": "https://twitter.com/garret_michael/status/1521854238653042688/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1200,
+							"h": 1406,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 580,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 297285594,
+			"id_str": "297285594",
+			"name": "Garret Michael Tan",
+			"screen_name": "garret_michael",
+			"location": "Singapore",
+			"description": "Cerca Trova",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 141,
+			"friends_count": 320,
+			"listed_count": 0,
+			"created_at": "Thu May 12 07:57:14 +0000 2011",
+			"favourites_count": 37,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1648,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDECE9",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114550727391600645/ngFytw_q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114550727391600645/ngFytw_q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/297285594/1554564578",
+			"profile_link_color": "088253",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Calling all UK physiotherapists that qualified in 2020 and 2021! Doing a research project for my MSc on the university-workplace transition process that newly qualified physiotherapists had during the pandemic. Your experience is invaluable, do get in touch! @HarrietShannon https://t.co/KfC3iTMavN"
+	},
+	{
 		"created_at": "Tue Jun 07 19:47:26 +0000 2022",
 		"id": 1533858227817005000,
 		"id_str": "1534260764508405764",
