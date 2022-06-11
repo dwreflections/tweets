@@ -1,6 +1,410 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 10 17:09:22 +0000 2022",
+		"id": 1535285660164161500,
+		"id_str": "1535308151972630529",
+		"full_text": "From 1 July, a wider range of healthcare professionals including nurses, occupational therapists, pharmacists and physiotherapists will be able to certify fit notes.\n\nThis change will:\n✅ ease pressure on GPs\n✅ reduce bureaucracy in the NHS\n\nMore: https://t.co/7WaaMJWv84 https://t.co/tOSLTc31sU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7WaaMJWv84",
+					"expanded_url": "https://www.gov.uk/government/news/more-healthcare-professionals-given-powers-to-certify-fit-notes",
+					"display_url": "gov.uk/government/new…",
+					"indices": [
+						247,
+						270
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1535282732082860000,
+					"id_str": "1535282732082860033",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FU5rgrOXEAEuXYi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU5rgrOXEAEuXYi.jpg",
+					"url": "https://t.co/tOSLTc31sU",
+					"display_url": "pic.twitter.com/tOSLTc31sU",
+					"expanded_url": "https://twitter.com/DHSCgovuk/status/1535285660164161536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1535282732082860000,
+					"id_str": "1535282732082860033",
+					"indices": [
+						271,
+						294
+					],
+					"media_url": "http://pbs.twimg.com/media/FU5rgrOXEAEuXYi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FU5rgrOXEAEuXYi.jpg",
+					"url": "https://t.co/tOSLTc31sU",
+					"display_url": "pic.twitter.com/tOSLTc31sU",
+					"expanded_url": "https://twitter.com/DHSCgovuk/status/1535285660164161536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1081,
+							"h": 1081,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 37963496,
+			"id_str": "37963496",
+			"name": "Department of Health and Social Care",
+			"screen_name": "DHSCgovuk",
+			"location": "England",
+			"description": "We support ministers in leading the nation’s health and social care to help people live more independent, healthier lives for longer.",
+			"url": "https://t.co/aW8PBsTzMb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aW8PBsTzMb",
+							"expanded_url": "http://www.gov.uk/dhsc",
+							"display_url": "gov.uk/dhsc",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 707346,
+			"friends_count": 1016,
+			"listed_count": 4271,
+			"created_at": "Tue May 05 16:49:31 +0000 2009",
+			"favourites_count": 4106,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 25857,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "009781",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1533754364007006211/itpAceZS_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1533754364007006211/itpAceZS_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/37963496/1654518698",
+			"profile_link_color": "18828E",
+			"profile_sidebar_border_color": "99D5CD",
+			"profile_sidebar_fill_color": "EDFEFC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 56,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From 1 July, a wider range of healthcare professionals including nurses, occupational therapists, pharmacists and physiotherapists will be able to certify fit notes.\n\nThis change will:\n✅ ease pressure on GPs\n✅ reduce bureaucracy in the NHS\n\nMore: https://t.co/7WaaMJWv84 https://t.co/tOSLTc31sU"
+	},
+	{
+		"created_at": "Fri Jun 10 16:10:53 +0000 2022",
+		"id": 1531179738894680000,
+		"id_str": "1535293433992167427",
+		"full_text": "Acquiring and developing healthcare leaders’ political skills: an interview study with healthcare leaders @BMJLeader @dr_waring  https://t.co/wdwoBIQis7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BMJLeader",
+					"name": "BMJ Leader",
+					"id": 1105774585658724400,
+					"id_str": "1105774585658724352",
+					"indices": [
+						106,
+						116
+					]
+				},
+				{
+					"screen_name": "dr_waring",
+					"name": "Justin Waring",
+					"id": 824122141,
+					"id_str": "824122141",
+					"indices": [
+						117,
+						127
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/wdwoBIQis7",
+					"expanded_url": "https://bmjleader.bmj.com/content/early/2022/05/23/leader-2022-000617",
+					"display_url": "bmjleader.bmj.com/content/early/…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 809747187676704800,
+			"id_str": "809747187676704768",
+			"name": "SHOC-OBHC",
+			"screen_name": "SHOC_OBHC",
+			"location": "",
+			"description": "Society for Studies in Organizing Healthcare https://t.co/dLlEEypznQ Sponsor of the Organisational Behaviour in Health Care (OBHC) conference (12-14 Sept 2022)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/dLlEEypznQ",
+							"expanded_url": "http://shoc.org.uk",
+							"display_url": "shoc.org.uk",
+							"indices": [
+								45,
+								68
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 808,
+			"friends_count": 1923,
+			"listed_count": 10,
+			"created_at": "Fri Dec 16 13:09:08 +0000 2016",
+			"favourites_count": 69,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4487,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/809748150655270912/VDGB6rMG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/809748150655270912/VDGB6rMG_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/809747187676704768/1482138637",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Acquiring and developing healthcare leaders’ political skills: an interview study with healthcare leaders @BMJLeader @dr_waring  https://t.co/wdwoBIQis7"
+	},
+	{
+		"created_at": "Fri Jun 10 08:21:02 +0000 2022",
+		"id": 1535175192619655200,
+		"id_str": "1535175192619655168",
+		"full_text": "@Shaque89_ All of that 👍🤩",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Shaque89_",
+					"name": "Sharmi Haque",
+					"id": 1318168706359373800,
+					"id_str": "1318168706359373824",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1534948943687295000,
+		"in_reply_to_status_id_str": "1534948943687294976",
+		"in_reply_to_user_id": 1318168706359373800,
+		"in_reply_to_user_id_str": "1318168706359373824",
+		"in_reply_to_screen_name": "Shaque89_",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3230,
+			"friends_count": 4480,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8318,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Shaque89_ All of that 👍🤩"
+	},
+	{
 		"created_at": "Wed Jun 08 19:07:29 +0000 2022",
 		"id": 1534613098665058300,
 		"id_str": "1534613098665058308",
@@ -16,7 +420,7 @@ Grailbird.data.tweets_2022_06 =
 			"user_mentions": [
 				{
 					"screen_name": "jack_holroyde",
-					"name": "Jack Holroyde 🏳️‍🌈🏳️‍⚧️✊🏽",
+					"name": "Jack Holroyde 🏳️🌈🏳️⚧️✊🏽",
 					"id": 1046818903337422800,
 					"id_str": "1046818903337422849",
 					"indices": [
@@ -256,7 +660,7 @@ Grailbird.data.tweets_2022_06 =
 			"name": "Rachael Moses",
 			"screen_name": "NHSLeader",
 			"location": "London, England",
-			"description": "Head of Clinical Leadership @NHSLeadership Resp NCA @Pers_Care @BTSRespiratory President, Team @thoraxBMJ, Team @MedicalAidPal, Views my own 🏳️‍🌈 She/Hers",
+			"description": "Head of Clinical Leadership @NHSLeadership Resp NCA @Pers_Care @BTSRespiratory President, Team @thoraxBMJ, Team @MedicalAidPal, Views my own 🏳️🌈 She/Hers",
 			"url": null,
 			"entities": {
 				"description": {
