@@ -1,6 +1,212 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 12 16:38:54 +0000 2022",
+		"id": 1535949926529749000,
+		"id_str": "1536025259484270597",
+		"full_text": "Cogent and clear analysis of the Messenger Review https://t.co/FEbuNhVI8m",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FEbuNhVI8m",
+					"expanded_url": "https://twitter.com/profchrisham/status/1535876528361422856",
+					"display_url": "twitter.com/profchrisham/s…",
+					"indices": [
+						50,
+						73
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 79238760,
+			"id_str": "79238760",
+			"name": "Michael West",
+			"screen_name": "WestM61",
+			"location": "",
+			"description": "Nurturing cultures of high quality and compassionate care in health services, promoting understanding of organizational effectiveness and human flourishing.",
+			"url": "http://t.co/t7A9sWzHAr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/t7A9sWzHAr",
+							"expanded_url": "http://www.lums.lancs.ac.uk/profiles/michael-west/",
+							"display_url": "lums.lancs.ac.uk/profiles/micha…",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24773,
+			"friends_count": 15474,
+			"listed_count": 105,
+			"created_at": "Fri Oct 02 17:38:43 +0000 2009",
+			"favourites_count": 4212,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1397833165692080136/R41EkrnA_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1397833165692080136/R41EkrnA_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/79238760/1495623826",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1535876528361422800,
+		"quoted_status_id_str": "1535876528361422856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FEbuNhVI8m",
+			"expanded": "https://twitter.com/profchrisham/status/1535876528361422856",
+			"display": "twitter.com/profchrisham/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Jun 12 06:47:54 +0000 2022",
+			"id": 1535876528361422800,
+			"id_str": "1535876528361422856",
+			"full_text": "a short thread on the Messenger/Pollard review of leadership and management in health and social care and what it means https://t.co/00dxBB5l0p",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				143
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/00dxBB5l0p",
+						"expanded_url": "https://www.bmj.com/content/377/bmj.o1437",
+						"display_url": "bmj.com/content/377/bm…",
+						"indices": [
+							120,
+							143
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 320697873,
+				"id_str": "320697873",
+				"name": "Sir Chris Ham",
+				"screen_name": "profchrisham",
+				"location": "West Midlands, England",
+				"description": "Co-Chair NHS Assembly, Emeritus Prof Uni of Birmingham. Health policy and management wonk. Walking, cycling, reading, thinking",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 45681,
+				"friends_count": 2146,
+				"listed_count": 458,
+				"created_at": "Mon Jun 20 11:11:18 +0000 2011",
+				"favourites_count": 2181,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 10711,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/826760349001064448/tyMEuzKW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/826760349001064448/tyMEuzKW_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 33,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 30,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cogent and clear analysis of the Messenger Review https://t.co/FEbuNhVI8m"
+	},
+	{
 		"created_at": "Fri Jun 10 17:09:22 +0000 2022",
 		"id": 1535285660164161500,
 		"id_str": "1535308151972630529",
