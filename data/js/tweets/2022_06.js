@@ -1,6 +1,257 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 14 11:28:13 +0000 2022",
+		"id": 1536645964723028000,
+		"id_str": "1536671847722491907",
+		"full_text": "Check out our new NHS Career Opportunities Booklet signposting the many opportunities for Service Leavers, Veterans &amp; their families to build a new career in healthcare ➡️https://t.co/YBMAXP9qQ9\n\n#serviceleavers #stepintohealth #careers\n\n@DMS_MilMed @NHSEmployers https://t.co/m3aGxWjo8G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "serviceleavers",
+					"indices": [
+						200,
+						215
+					]
+				},
+				{
+					"text": "stepintohealth",
+					"indices": [
+						216,
+						231
+					]
+				},
+				{
+					"text": "careers",
+					"indices": [
+						232,
+						240
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DMS_MilMed",
+					"name": "Defence Medical Services",
+					"id": 736186559888789500,
+					"id_str": "736186559888789504",
+					"indices": [
+						242,
+						253
+					]
+				},
+				{
+					"screen_name": "NHSEmployers",
+					"name": "NHS Employers",
+					"id": 51048596,
+					"id_str": "51048596",
+					"indices": [
+						254,
+						267
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/YBMAXP9qQ9",
+					"expanded_url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1076403/NHS_Career_Booklet_for_Service_Leavers.pdf",
+					"display_url": "assets.publishing.service.gov.uk/government/upl…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1536644634830569500,
+					"id_str": "1536644634830569472",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/FVNCJ2UWAAAxgVi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVNCJ2UWAAAxgVi.jpg",
+					"url": "https://t.co/m3aGxWjo8G",
+					"display_url": "pic.twitter.com/m3aGxWjo8G",
+					"expanded_url": "https://twitter.com/DMS_DefMedAcad/status/1536645964723027969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 559,
+							"h": 786,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 559,
+							"h": 786,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1536644634830569500,
+					"id_str": "1536644634830569472",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/FVNCJ2UWAAAxgVi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVNCJ2UWAAAxgVi.jpg",
+					"url": "https://t.co/m3aGxWjo8G",
+					"display_url": "pic.twitter.com/m3aGxWjo8G",
+					"expanded_url": "https://twitter.com/DMS_DefMedAcad/status/1536645964723027969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 559,
+							"h": 786,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 559,
+							"h": 786,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1536644688593268700,
+					"id_str": "1536644688593268738",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/FVNCM-mXsAIFORL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVNCM-mXsAIFORL.jpg",
+					"url": "https://t.co/m3aGxWjo8G",
+					"display_url": "pic.twitter.com/m3aGxWjo8G",
+					"expanded_url": "https://twitter.com/DMS_DefMedAcad/status/1536645964723027969/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 479,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 829,
+							"h": 584,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 829,
+							"h": 584,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 893044337654759400,
+			"id_str": "893044337654759424",
+			"name": "Defence Medical Academy",
+			"screen_name": "DMS_DefMedAcad",
+			"location": "Lichfield, England",
+			"description": "*Updated Comd Trg account*  We Develop, Deliver, Assure and Innovate Military Medical Education and Training",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1170,
+			"friends_count": 243,
+			"listed_count": 0,
+			"created_at": "Thu Aug 03 09:42:16 +0000 2017",
+			"favourites_count": 1928,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1533821370999660551/PGFn6Spk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1533821370999660551/PGFn6Spk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/893044337654759424/1648119518",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check out our new NHS Career Opportunities Booklet signposting the many opportunities for Service Leavers, Veterans &amp; their families to build a new career in healthcare ➡️https://t.co/YBMAXP9qQ9\n\n#serviceleavers #stepintohealth #careers\n\n@DMS_MilMed @NHSEmployers https://t.co/m3aGxWjo8G"
+	},
+	{
 		"created_at": "Mon Jun 13 19:41:28 +0000 2022",
 		"id": 1536433591743303700,
 		"id_str": "1536433591743303686",
