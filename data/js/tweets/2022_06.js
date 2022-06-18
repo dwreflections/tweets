@@ -1,6 +1,651 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Fri Jun 17 18:02:49 +0000 2022",
+		"id": 1537858318718353400,
+		"id_str": "1537858318718353408",
+		"full_text": "@astephj1 @AdamMeakins @thomas_jesson He was the one giving orders!",
+		"truncated": false,
+		"display_text_range": [
+			38,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "astephj1",
+					"name": "Amanda Stephenson",
+					"id": 898081300690686000,
+					"id_str": "898081300690685952",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "AdamMeakins",
+					"name": "The Sp⚽️rts Physio",
+					"id": 20363222,
+					"id_str": "20363222",
+					"indices": [
+						10,
+						22
+					]
+				},
+				{
+					"screen_name": "thomas_jesson",
+					"name": "📘 Tom Jesson",
+					"id": 3091527256,
+					"id_str": "3091527256",
+					"indices": [
+						23,
+						37
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1537857574950912000,
+		"in_reply_to_status_id_str": "1537857574950912000",
+		"in_reply_to_user_id": 898081300690686000,
+		"in_reply_to_user_id_str": "898081300690685952",
+		"in_reply_to_screen_name": "astephj1",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3239,
+			"friends_count": 4493,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@astephj1 @AdamMeakins @thomas_jesson He was the one giving orders!"
+	},
+	{
+		"created_at": "Fri Jun 17 14:39:11 +0000 2022",
+		"id": 1537807069474181000,
+		"id_str": "1537807069474181122",
+		"full_text": "@KMiddletonCSP @thecsp ha! Just spotted that!",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KMiddletonCSP",
+					"name": "Karen Middleton (she/her)",
+					"id": 791233063,
+					"id_str": "791233063",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						15,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1537769669255475200,
+		"in_reply_to_status_id_str": "1537769669255475200",
+		"in_reply_to_user_id": 791233063,
+		"in_reply_to_user_id_str": "791233063",
+		"in_reply_to_screen_name": "KMiddletonCSP",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3239,
+			"friends_count": 4493,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KMiddletonCSP @thecsp ha! Just spotted that!"
+	},
+	{
+		"created_at": "Fri Jun 17 14:38:47 +0000 2022",
+		"id": 1537806970127847400,
+		"id_str": "1537806970127847424",
+		"full_text": "@KMiddletonCSP @thecsp Absolutely, we need to step out of our silos and group think.",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KMiddletonCSP",
+					"name": "Karen Middleton (she/her)",
+					"id": 791233063,
+					"id_str": "791233063",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						15,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1537767374820089900,
+		"in_reply_to_status_id_str": "1537767374820089856",
+		"in_reply_to_user_id": 791233063,
+		"in_reply_to_user_id_str": "791233063",
+		"in_reply_to_screen_name": "KMiddletonCSP",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3239,
+			"friends_count": 4493,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KMiddletonCSP @thecsp Absolutely, we need to step out of our silos and group think."
+	},
+	{
+		"created_at": "Fri Jun 17 11:15:15 +0000 2022",
+		"id": 1537755749740433400,
+		"id_str": "1537755749740433411",
+		"full_text": "@KMiddletonCSP @thecsp It's on my list of things I need to do in the next year or two...",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KMiddletonCSP",
+					"name": "Karen Middleton (she/her)",
+					"id": 791233063,
+					"id_str": "791233063",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						15,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1537377873497141200,
+		"in_reply_to_status_id_str": "1537377873497141249",
+		"in_reply_to_user_id": 791233063,
+		"in_reply_to_user_id_str": "791233063",
+		"in_reply_to_screen_name": "KMiddletonCSP",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3239,
+			"friends_count": 4493,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KMiddletonCSP @thecsp It's on my list of things I need to do in the next year or two..."
+	},
+	{
+		"created_at": "Fri Jun 17 08:16:01 +0000 2022",
+		"id": 1537710643368820700,
+		"id_str": "1537710643368820736",
+		"full_text": "@consultantPT @StMarys_SandC Congrats Uzo! Inspirational 🤩👍",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "consultantPT",
+					"name": "Uzo Ehiogu",
+					"id": 1039521456,
+					"id_str": "1039521456",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "StMarys_SandC",
+					"name": "St Mary's S&C",
+					"id": 535399097,
+					"id_str": "535399097",
+					"indices": [
+						14,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1537687025649868800,
+		"in_reply_to_status_id_str": "1537687025649868800",
+		"in_reply_to_user_id": 1039521456,
+		"in_reply_to_user_id_str": "1039521456",
+		"in_reply_to_screen_name": "consultantPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3239,
+			"friends_count": 4493,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ca",
+		"text": "@consultantPT @StMarys_SandC Congrats Uzo! Inspirational 🤩👍"
+	},
+	{
+		"created_at": "Fri Jun 17 08:15:06 +0000 2022",
+		"id": 1537710412644372500,
+		"id_str": "1537710412644372480",
+		"full_text": "@alicrewe Serendipitously, I listened to @TimHarford excellent podcast where he discusses corporate culture this morning. I think you will like this Ali..  \n\n🔗: https://t.co/aukCW9BAAh",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alicrewe",
+					"name": "ali naylor née crewesmith",
+					"id": 330511872,
+					"id_str": "330511872",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "TimHarford",
+					"name": "Tim Harford",
+					"id": 32493647,
+					"id_str": "32493647",
+					"indices": [
+						41,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/aukCW9BAAh",
+					"expanded_url": "http://dlvr.it/SSLJNx",
+					"display_url": "dlvr.it/SSLJNx",
+					"indices": [
+						161,
+						184
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1537701579108802600,
+		"in_reply_to_status_id_str": "1537701579108802560",
+		"in_reply_to_user_id": 330511872,
+		"in_reply_to_user_id_str": "330511872",
+		"in_reply_to_screen_name": "alicrewe",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3239,
+			"friends_count": 4493,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26299,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8346,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@alicrewe Serendipitously, I listened to @TimHarford excellent podcast where he discusses corporate culture this morning. I think you will like this Ali..  \n\n🔗: https://t.co/aukCW9BAAh"
+	},
+	{
 		"created_at": "Thu Jun 16 19:29:26 +0000 2022",
 		"id": 1537517727740530700,
 		"id_str": "1537517727740530688",
