@@ -1,6 +1,210 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 20 18:48:43 +0000 2022",
+		"id": 1538889973520277500,
+		"id_str": "1538957033415876608",
+		"full_text": "To kick off #ArmedForcesWeek, we spoke to Chris Upton, the new Deputy Lead for our Armed Forces Network 🪖\n\nChris has a very special message for all of our staff, patients and those in the community who have served in the forces. \n\n🔗 https://t.co/2iNL1mvAWJ\n\n@UHDB_AFN https://t.co/mwXh9Vd9qr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			267
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ArmedForcesWeek",
+					"indices": [
+						12,
+						28
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UHDB_AFN",
+					"name": "UHDB Armed Forces Network",
+					"id": 1384135578233360400,
+					"id_str": "1384135578233360399",
+					"indices": [
+						258,
+						267
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2iNL1mvAWJ",
+					"expanded_url": "https://bit.ly/3OaM3fq",
+					"display_url": "bit.ly/3OaM3fq",
+					"indices": [
+						233,
+						256
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1538889496099442700,
+					"id_str": "1538889496099442689",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/FVs71-OWUAEUZ77.png",
+					"media_url_https": "https://pbs.twimg.com/media/FVs71-OWUAEUZ77.png",
+					"url": "https://t.co/mwXh9Vd9qr",
+					"display_url": "pic.twitter.com/mwXh9Vd9qr",
+					"expanded_url": "https://twitter.com/UHDBTrust/status/1538889973520277504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 460,
+							"h": 345,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 345,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 460,
+							"h": 345,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538889496099442700,
+					"id_str": "1538889496099442689",
+					"indices": [
+						268,
+						291
+					],
+					"media_url": "http://pbs.twimg.com/media/FVs71-OWUAEUZ77.png",
+					"media_url_https": "https://pbs.twimg.com/media/FVs71-OWUAEUZ77.png",
+					"url": "https://t.co/mwXh9Vd9qr",
+					"display_url": "pic.twitter.com/mwXh9Vd9qr",
+					"expanded_url": "https://twitter.com/UHDBTrust/status/1538889973520277504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 460,
+							"h": 345,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 460,
+							"h": 345,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 460,
+							"h": 345,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 429877936,
+			"id_str": "429877936",
+			"name": "University Hospitals of Derby and Burton NHS FT",
+			"screen_name": "UHDBTrust",
+			"location": "Derby, Burton, Tamworth, Lichfield",
+			"description": "Official Twitter page of University Hospitals of Derby and Burton NHS Foundation Trust. 🏥\n\nThis account is monitored Mon-Fri, 9am-5pm (excluding Bank Holidays)",
+			"url": "https://t.co/hSieSYIIfx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/hSieSYIIfx",
+							"expanded_url": "http://www.uhdb.nhs.uk",
+							"display_url": "uhdb.nhs.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16735,
+			"friends_count": 1317,
+			"listed_count": 172,
+			"created_at": "Tue Dec 06 14:09:36 +0000 2011",
+			"favourites_count": 9028,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 22090,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1531996535667494918/ARlpi_oK_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531996535667494918/ARlpi_oK_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/429877936/1655713600",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "To kick off #ArmedForcesWeek, we spoke to Chris Upton, the new Deputy Lead for our Armed Forces Network 🪖\n\nChris has a very special message for all of our staff, patients and those in the community who have served in the forces. \n\n🔗 https://t.co/2iNL1mvAWJ\n\n@UHDB_AFN https://t.co/mwXh9Vd9qr"
+	},
+	{
 		"created_at": "Sun Jun 19 18:46:01 +0000 2022",
 		"id": 1538593963233448000,
 		"id_str": "1538593963233447936",
