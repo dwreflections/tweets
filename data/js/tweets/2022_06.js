@@ -1,6 +1,309 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Tue Jun 21 20:23:36 +0000 2022",
+		"id": 1539241822148518000,
+		"id_str": "1539343299701616642",
+		"full_text": "This is a fantastic model so pleased to have seen the first cohort through before finishing in my role, huge opportunities for joint working and growing a future workforce @MRadford_HEECN https://t.co/8K1EuJFEq8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MRadford_HEECN",
+					"name": "Prof Mark Radford CBE PhD RN 💙",
+					"id": 1691619343,
+					"id_str": "1691619343",
+					"indices": [
+						172,
+						187
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8K1EuJFEq8",
+					"expanded_url": "https://twitter.com/uhdbtrust/status/1539190138399444993",
+					"display_url": "twitter.com/uhdbtrust/stat…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2188050351,
+			"id_str": "2188050351",
+			"name": "Cathy Winfield MBE, RN, MSc💙",
+			"screen_name": "CathyWinfield",
+			"location": "",
+			"description": "Exec CNO Designate SY ICB Exec Nurse Fellow #TeamCNO,Mum, Derby County fan. loves life/music/family, trying to be a runner 💙💙💙💙",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 4994,
+			"friends_count": 1201,
+			"listed_count": 41,
+			"created_at": "Tue Nov 19 22:50:37 +0000 2013",
+			"favourites_count": 45557,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 26555,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1528857585599893504/zP6_jzvp_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1528857585599893504/zP6_jzvp_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1539190138399445000,
+		"quoted_status_id_str": "1539190138399444993",
+		"quoted_status_permalink": {
+			"url": "https://t.co/8K1EuJFEq8",
+			"expanded": "https://twitter.com/uhdbtrust/status/1539190138399444993",
+			"display": "twitter.com/uhdbtrust/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 21 10:15:00 +0000 2022",
+			"id": 1539190138399445000,
+			"id_str": "1539190138399444993",
+			"full_text": "“𝘼 𝙧𝙚𝙖𝙡𝙡𝙮 𝙗𝙚𝙣𝙚𝙛𝙞𝙘𝙞𝙖𝙡 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚\"\n\nWe've worked with the Ministry of Defence to provide training &amp; experience to Combat Military Technicians at Royal Derby Hospital in what's thought to be a national first 🪖\n\n🔗 https://t.co/NM2mCBXxDp\n\n#ArmedForcesWeek https://t.co/63GmakeRjL",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				255
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ArmedForcesWeek",
+						"indices": [
+							239,
+							255
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/NM2mCBXxDp",
+						"expanded_url": "https://bit.ly/3xJdA0t",
+						"display_url": "bit.ly/3xJdA0t",
+						"indices": [
+							214,
+							237
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1539183168334573600,
+						"id_str": "1539183168334573568",
+						"indices": [
+							256,
+							279
+						],
+						"media_url": "http://pbs.twimg.com/media/FVxG78jXsAAvSeE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVxG78jXsAAvSeE.jpg",
+						"url": "https://t.co/63GmakeRjL",
+						"display_url": "pic.twitter.com/63GmakeRjL",
+						"expanded_url": "https://twitter.com/UHDBTrust/status/1539190138399444993/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 940,
+								"h": 788,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 940,
+								"h": 788,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 570,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1539183168334573600,
+						"id_str": "1539183168334573568",
+						"indices": [
+							256,
+							279
+						],
+						"media_url": "http://pbs.twimg.com/media/FVxG78jXsAAvSeE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVxG78jXsAAvSeE.jpg",
+						"url": "https://t.co/63GmakeRjL",
+						"display_url": "pic.twitter.com/63GmakeRjL",
+						"expanded_url": "https://twitter.com/UHDBTrust/status/1539190138399444993/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 940,
+								"h": 788,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 940,
+								"h": 788,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 570,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 429877936,
+				"id_str": "429877936",
+				"name": "University Hospitals of Derby and Burton NHS FT",
+				"screen_name": "UHDBTrust",
+				"location": "Derby, Burton, Tamworth, Lichfield",
+				"description": "Official Twitter page of University Hospitals of Derby and Burton NHS Foundation Trust. 🏥\n\nThis account is monitored Mon-Fri, 9am-5pm (excluding Bank Holidays)",
+				"url": "https://t.co/hSieSYIIfx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hSieSYIIfx",
+								"expanded_url": "http://www.uhdb.nhs.uk",
+								"display_url": "uhdb.nhs.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16741,
+				"friends_count": 1317,
+				"listed_count": 172,
+				"created_at": "Tue Dec 06 14:09:36 +0000 2011",
+				"favourites_count": 9029,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22092,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1531996535667494918/ARlpi_oK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1531996535667494918/ARlpi_oK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/429877936/1655713600",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 14,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a fantastic model so pleased to have seen the first cohort through before finishing in my role, huge opportunities for joint working and growing a future workforce @MRadford_HEECN https://t.co/8K1EuJFEq8"
+	},
+	{
 		"created_at": "Mon Jun 20 18:48:43 +0000 2022",
 		"id": 1538889973520277500,
 		"id_str": "1538957033415876608",
