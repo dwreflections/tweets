@@ -1,6 +1,520 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Wed Jun 22 17:36:34 +0000 2022",
+		"id": 1539663652009443300,
+		"id_str": "1539663652009443329",
+		"full_text": "@AHP_iO Take your pick! Any of the podcasts by @WonderyMedia, @pushkinpods and Goalhanger productions (@RestIsPolitics etc.).",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AHP_iO",
+					"name": "Bhavin Mehta (he/him) 💙",
+					"id": 302178919,
+					"id_str": "302178919",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "WonderyMedia",
+					"name": "Wondery",
+					"id": 4785375981,
+					"id_str": "4785375981",
+					"indices": [
+						47,
+						60
+					]
+				},
+				{
+					"screen_name": "pushkinpods",
+					"name": "Pushkin Industries 🎙️",
+					"id": 1093211541695094800,
+					"id_str": "1093211541695094786",
+					"indices": [
+						62,
+						74
+					]
+				},
+				{
+					"screen_name": "RestIsPolitics",
+					"name": "The Rest Is Politics",
+					"id": 1493610230353211400,
+					"id_str": "1493610230353211394",
+					"indices": [
+						103,
+						118
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1539661036034203600,
+		"in_reply_to_status_id_str": "1539661036034203649",
+		"in_reply_to_user_id": 302178919,
+		"in_reply_to_user_id_str": "302178919",
+		"in_reply_to_screen_name": "AHP_iO",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3244,
+			"friends_count": 4507,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AHP_iO Take your pick! Any of the podcasts by @WonderyMedia, @pushkinpods and Goalhanger productions (@RestIsPolitics etc.)."
+	},
+	{
+		"created_at": "Wed Jun 22 11:56:37 +0000 2022",
+		"id": 1539578098525642800,
+		"id_str": "1539578098525642752",
+		"full_text": "@hill_karenhill3 @PhilBoltonRN @paulvincentbro1 @Barbara23818666 👏👏👏👏",
+		"truncated": false,
+		"display_text_range": [
+			48,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hill_karenhill3",
+					"name": "Karen Hill 💙 RN MSc",
+					"id": 2361529948,
+					"id_str": "2361529948",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "PhilBoltonRN",
+					"name": "Phil Bolton",
+					"id": 1188076842726690800,
+					"id_str": "1188076842726690817",
+					"indices": [
+						17,
+						30
+					]
+				},
+				{
+					"screen_name": "paulvincentbro1",
+					"name": "Paul Brooks MBE, MSc",
+					"id": 2870262826,
+					"id_str": "2870262826",
+					"indices": [
+						31,
+						47
+					]
+				},
+				{
+					"screen_name": "Barbara23818666",
+					"name": "Barbara Day",
+					"id": 931259153481429000,
+					"id_str": "931259153481428998",
+					"indices": [
+						48,
+						64
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1539342070711738400,
+		"in_reply_to_status_id_str": "1539342070711738370",
+		"in_reply_to_user_id": 2361529948,
+		"in_reply_to_user_id_str": "2361529948",
+		"in_reply_to_screen_name": "hill_karenhill3",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3244,
+			"friends_count": 4507,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@hill_karenhill3 @PhilBoltonRN @paulvincentbro1 @Barbara23818666 👏👏👏👏"
+	},
+	{
+		"created_at": "Wed Jun 22 09:15:34 +0000 2022",
+		"id": 1539537568856940500,
+		"id_str": "1539537568856940547",
+		"full_text": "@ebusby63 @mpftnhs @NSCGNewcastle @SportsProPhysio Congratulations!!! 🍾🍾🍾",
+		"truncated": false,
+		"display_text_range": [
+			51,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ebusby63",
+					"name": "emma busby (she/her)",
+					"id": 2477193351,
+					"id_str": "2477193351",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "mpftnhs",
+					"name": "Midlands Partnership NHS Foundation Trust",
+					"id": 1001783279740182500,
+					"id_str": "1001783279740182530",
+					"indices": [
+						10,
+						18
+					]
+				},
+				{
+					"screen_name": "NSCGNewcastle",
+					"name": "Newcastle College",
+					"id": 23058797,
+					"id_str": "23058797",
+					"indices": [
+						19,
+						33
+					]
+				},
+				{
+					"screen_name": "SportsProPhysio",
+					"name": "Dom Ellington",
+					"id": 4192417583,
+					"id_str": "4192417583",
+					"indices": [
+						34,
+						50
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1539356924344418300,
+		"in_reply_to_status_id_str": "1539356924344418304",
+		"in_reply_to_user_id": 2477193351,
+		"in_reply_to_user_id_str": "2477193351",
+		"in_reply_to_screen_name": "ebusby63",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3244,
+			"friends_count": 4507,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ebusby63 @mpftnhs @NSCGNewcastle @SportsProPhysio Congratulations!!! 🍾🍾🍾"
+	},
+	{
+		"created_at": "Wed Jun 22 09:01:06 +0000 2022",
+		"id": 1539533929799200800,
+		"id_str": "1539533929799200768",
+		"full_text": "@CathyWinfield @MRadford_HEECN Completely agree @CathyWinfield ! Collaboration and innovation at its best. I hope we can grow this model.  @DMS_MilMed @DMS_DG #ArmedForcesWeek",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			175
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ArmedForcesWeek",
+					"indices": [
+						159,
+						175
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CathyWinfield",
+					"name": "Cathy Winfield MBE, RN, MSc💙",
+					"id": 2188050351,
+					"id_str": "2188050351",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "MRadford_HEECN",
+					"name": "Prof Mark Radford CBE PhD RN 💙",
+					"id": 1691619343,
+					"id_str": "1691619343",
+					"indices": [
+						15,
+						30
+					]
+				},
+				{
+					"screen_name": "CathyWinfield",
+					"name": "Cathy Winfield MBE, RN, MSc💙",
+					"id": 2188050351,
+					"id_str": "2188050351",
+					"indices": [
+						48,
+						62
+					]
+				},
+				{
+					"screen_name": "DMS_MilMed",
+					"name": "Defence Medical Services",
+					"id": 736186559888789500,
+					"id_str": "736186559888789504",
+					"indices": [
+						139,
+						150
+					]
+				},
+				{
+					"screen_name": "DMS_DG",
+					"name": "DMS Director General",
+					"id": 373838723,
+					"id_str": "373838723",
+					"indices": [
+						151,
+						158
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1539241822148518000,
+		"in_reply_to_status_id_str": "1539241822148517890",
+		"in_reply_to_user_id": 2188050351,
+		"in_reply_to_user_id_str": "2188050351",
+		"in_reply_to_screen_name": "CathyWinfield",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3244,
+			"friends_count": 4507,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CathyWinfield @MRadford_HEECN Completely agree @CathyWinfield ! Collaboration and innovation at its best. I hope we can grow this model.  @DMS_MilMed @DMS_DG #ArmedForcesWeek"
+	},
+	{
 		"created_at": "Tue Jun 21 20:23:36 +0000 2022",
 		"id": 1539241822148518000,
 		"id_str": "1539343299701616642",
