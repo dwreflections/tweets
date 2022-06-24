@@ -1,6 +1,421 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Thu Jun 23 20:27:52 +0000 2022",
+		"id": 1540069148612518000,
+		"id_str": "1540069148612517888",
+		"full_text": "@ben_imaging @150Leaders @LA_Charlesworth Congrats! Now go and change the 🌍 👏🤩",
+		"truncated": false,
+		"display_text_range": [
+			42,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ben_imaging",
+					"name": "Ben Potts (he/him)",
+					"id": 1265382097549746200,
+					"id_str": "1265382097549746176",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "150Leaders",
+					"name": "Student Leadership Programme #150Leaders",
+					"id": 1139187039151280100,
+					"id_str": "1139187039151280128",
+					"indices": [
+						13,
+						24
+					]
+				},
+				{
+					"screen_name": "LA_Charlesworth",
+					"name": "Laura Charlesworth",
+					"id": 1490228984,
+					"id_str": "1490228984",
+					"indices": [
+						25,
+						41
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1539987477817135000,
+		"in_reply_to_status_id_str": "1539987477817135104",
+		"in_reply_to_user_id": 1265382097549746200,
+		"in_reply_to_user_id_str": "1265382097549746176",
+		"in_reply_to_screen_name": "ben_imaging",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3244,
+			"friends_count": 4509,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ben_imaging @150Leaders @LA_Charlesworth Congrats! Now go and change the 🌍 👏🤩"
+	},
+	{
+		"created_at": "Thu Jun 23 18:12:09 +0000 2022",
+		"id": 1540034994818764800,
+		"id_str": "1540034994818764805",
+		"full_text": "My first time using @hexitime today. It’s brilliant! Check it out ⬇️🧩 https://t.co/ZSuafEaJrc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hexitime",
+					"name": "Hexitime 🧩",
+					"id": 1105884697475846100,
+					"id_str": "1105884697475846145",
+					"indices": [
+						20,
+						29
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZSuafEaJrc",
+					"expanded_url": "https://twitter.com/hexitime/status/1539981765724569600",
+					"display_url": "twitter.com/hexitime/statu…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3244,
+			"friends_count": 4509,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26355,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8359,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530588662139916289/ohAJRhaC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1539981765724569600,
+		"quoted_status_id_str": "1539981765724569600",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZSuafEaJrc",
+			"expanded": "https://twitter.com/hexitime/status/1539981765724569600",
+			"display": "twitter.com/hexitime/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 23 14:40:39 +0000 2022",
+			"id": 1539981765724569600,
+			"id_str": "1539981765724569600",
+			"full_text": "We all have skills and knowledge that can be shared without cost to anyone and making us stronger as a community. Why not share those skills and knowledge today by creating an offer on Hexitime.\n\nFollow the guide to creating your first offer.\n\n #ImprovingTogether #hexitime https://t.co/zRhSiVcQBF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ImprovingTogether",
+						"indices": [
+							245,
+							263
+						]
+					},
+					{
+						"text": "hexitime",
+						"indices": [
+							264,
+							273
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1539981760540381200,
+						"id_str": "1539981760540381184",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/FV8dQIWXEAAW7EQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FV8dQIWXEAAW7EQ.jpg",
+						"url": "https://t.co/zRhSiVcQBF",
+						"display_url": "pic.twitter.com/zRhSiVcQBF",
+						"expanded_url": "https://twitter.com/hexitime/status/1539981765724569600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1539981760540381200,
+						"id_str": "1539981760540381184",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/FV8dQIWXEAAW7EQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FV8dQIWXEAAW7EQ.jpg",
+						"url": "https://t.co/zRhSiVcQBF",
+						"display_url": "pic.twitter.com/zRhSiVcQBF",
+						"expanded_url": "https://twitter.com/hexitime/status/1539981765724569600/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1600,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://lightful.com\" rel=\"nofollow\">Lightful</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1105884697475846100,
+				"id_str": "1105884697475846145",
+				"name": "Hexitime 🧩",
+				"screen_name": "hexitime",
+				"location": "United Kingdom",
+				"description": "The skill sharing timebank- improving connection and collaboration across health and social care.\nGive an hour, get more back.\nJoin here 👇",
+				"url": "https://t.co/CNkQp788PF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/CNkQp788PF",
+								"expanded_url": "https://hexitime.com/",
+								"display_url": "hexitime.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2803,
+				"friends_count": 4996,
+				"listed_count": 14,
+				"created_at": "Wed Mar 13 17:33:53 +0000 2019",
+				"favourites_count": 3390,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2743,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1502207464950878208/yKpAhr0-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1502207464950878208/yKpAhr0-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1105884697475846145/1637064955",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My first time using @hexitime today. It’s brilliant! Check it out ⬇️🧩 https://t.co/ZSuafEaJrc"
+	},
+	{
 		"created_at": "Wed Jun 22 17:36:34 +0000 2022",
 		"id": 1539663652009443300,
 		"id_str": "1539663652009443329",
