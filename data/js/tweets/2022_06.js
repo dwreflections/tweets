@@ -1,6 +1,435 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sun Jun 26 18:33:58 +0000 2022",
+		"id": 1541127645190135800,
+		"id_str": "1541127645190135810",
+		"full_text": "Study buddy 📚🥱 #Greyhound https://t.co/XrONc1sLKr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			25
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Greyhound",
+					"indices": [
+						15,
+						25
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1541127638860824600,
+					"id_str": "1541127638860824579",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FWMvbBvWAAMihYl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWMvbBvWAAMihYl.jpg",
+					"url": "https://t.co/XrONc1sLKr",
+					"display_url": "pic.twitter.com/XrONc1sLKr",
+					"expanded_url": "https://twitter.com/beardedPT/status/1541127645190135810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1541127638860824600,
+					"id_str": "1541127638860824579",
+					"indices": [
+						26,
+						49
+					],
+					"media_url": "http://pbs.twimg.com/media/FWMvbBvWAAMihYl.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FWMvbBvWAAMihYl.jpg",
+					"url": "https://t.co/XrONc1sLKr",
+					"display_url": "pic.twitter.com/XrONc1sLKr",
+					"expanded_url": "https://twitter.com/beardedPT/status/1541127645190135810/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3253,
+			"friends_count": 4522,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1540602067382927363/Wn1-U-p0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1540602067382927363/Wn1-U-p0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Study buddy 📚🥱 #Greyhound https://t.co/XrONc1sLKr"
+	},
+	{
+		"created_at": "Sun Jun 26 13:15:54 +0000 2022",
+		"id": 1541047604447953000,
+		"id_str": "1541047604447952896",
+		"full_text": "@Oldphysioguy @DaveNicholls3 @CriticalPhysio @thecsp Which you will be able to influence if you are successful elected to council.🤞2/2\n\n🔗: https://t.co/TOq1OMzfGi",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Oldphysioguy",
+					"name": "Roy Swales",
+					"id": 1535317861815681000,
+					"id_str": "1535317861815681026",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "DaveNicholls3",
+					"name": "Dave Nicholls",
+					"id": 841364742,
+					"id_str": "841364742",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "CriticalPhysio",
+					"name": "CriticalPhysio",
+					"id": 3230420060,
+					"id_str": "3230420060",
+					"indices": [
+						29,
+						44
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						45,
+						52
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TOq1OMzfGi",
+					"expanded_url": "https://www.csp.org.uk/news/2021-09-27-knowbest-research-project-future-physio-pre-registration-curriculum-launches",
+					"display_url": "csp.org.uk/news/2021-09-2…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1541047275664953300,
+		"in_reply_to_status_id_str": "1541047275664953346",
+		"in_reply_to_user_id": 3377750235,
+		"in_reply_to_user_id_str": "3377750235",
+		"in_reply_to_screen_name": "beardedPT",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3253,
+			"friends_count": 4522,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1540602067382927363/Wn1-U-p0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1540602067382927363/Wn1-U-p0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Oldphysioguy @DaveNicholls3 @CriticalPhysio @thecsp Which you will be able to influence if you are successful elected to council.🤞2/2\n\n🔗: https://t.co/TOq1OMzfGi"
+	},
+	{
+		"created_at": "Sun Jun 26 13:14:36 +0000 2022",
+		"id": 1541047275664953300,
+		"id_str": "1541047275664953346",
+		"full_text": "@Oldphysioguy Roy, that would be an excellent essay question. \nI would start with @DaveNicholls3 &amp; the @CriticalPhysio network.\n\nThe @theCSP is the main arbiter of the physiotherapy curriculum, with the HCPC, in the UK. They are conducting a study into the future curriculum now. 1/2",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			287
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Oldphysioguy",
+					"name": "Roy Swales",
+					"id": 1535317861815681000,
+					"id_str": "1535317861815681026",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "DaveNicholls3",
+					"name": "Dave Nicholls",
+					"id": 841364742,
+					"id_str": "841364742",
+					"indices": [
+						82,
+						96
+					]
+				},
+				{
+					"screen_name": "CriticalPhysio",
+					"name": "CriticalPhysio",
+					"id": 3230420060,
+					"id_str": "3230420060",
+					"indices": [
+						107,
+						122
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						137,
+						144
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1540948825950634000,
+		"in_reply_to_status_id_str": "1540948825950633986",
+		"in_reply_to_user_id": 1535317861815681000,
+		"in_reply_to_user_id_str": "1535317861815681026",
+		"in_reply_to_screen_name": "Oldphysioguy",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3253,
+			"friends_count": 4522,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26421,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8372,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1540602067382927363/Wn1-U-p0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1540602067382927363/Wn1-U-p0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Oldphysioguy Roy, that would be an excellent essay question. \nI would start with @DaveNicholls3 &amp; the @CriticalPhysio network.\n\nThe @theCSP is the main arbiter of the physiotherapy curriculum, with the HCPC, in the UK. They are conducting a study into the future curriculum now. 1/2"
+	},
+	{
 		"created_at": "Sat Jun 25 16:24:00 +0000 2022",
 		"id": 1540732551853183000,
 		"id_str": "1540732551853182976",
