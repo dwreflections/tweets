@@ -1,6 +1,150 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Mon Jun 27 20:12:59 +0000 2022",
+		"id": 1541514954406350800,
+		"id_str": "1541514954406350851",
+		"full_text": "@SimonAHPInfo @digitalhealth2 @DHSummerSchools @INTEROPenAPI @ProfRecordSB @ukfci See you there 🤩",
+		"truncated": false,
+		"display_text_range": [
+			82,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SimonAHPInfo",
+					"name": "Simon Brunner",
+					"id": 342296524,
+					"id_str": "342296524",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "digitalhealth2",
+					"name": "Digital Health",
+					"id": 31190828,
+					"id_str": "31190828",
+					"indices": [
+						14,
+						29
+					]
+				},
+				{
+					"screen_name": "DHSummerSchools",
+					"name": "Digital Health Summer Schools",
+					"id": 984801770533802000,
+					"id_str": "984801770533801985",
+					"indices": [
+						30,
+						46
+					]
+				},
+				{
+					"screen_name": "INTEROPenAPI",
+					"name": "INTEROPen",
+					"id": 731591066516885500,
+					"id_str": "731591066516885508",
+					"indices": [
+						47,
+						60
+					]
+				},
+				{
+					"screen_name": "ProfRecordSB",
+					"name": "PRSB",
+					"id": 2411459172,
+					"id_str": "2411459172",
+					"indices": [
+						61,
+						74
+					]
+				},
+				{
+					"screen_name": "ukfci",
+					"name": "Faculty of Clinical Informatics",
+					"id": 786906828252803100,
+					"id_str": "786906828252803073",
+					"indices": [
+						75,
+						81
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1541434248728658000,
+		"in_reply_to_status_id_str": "1541434248728657926",
+		"in_reply_to_user_id": 342296524,
+		"in_reply_to_user_id_str": "342296524",
+		"in_reply_to_screen_name": "SimonAHPInfo",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | MSc Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3256,
+			"friends_count": 4524,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26430,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8373,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1540602067382927363/Wn1-U-p0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1540602067382927363/Wn1-U-p0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SimonAHPInfo @digitalhealth2 @DHSummerSchools @INTEROPenAPI @ProfRecordSB @ukfci See you there 🤩"
+	},
+	{
 		"created_at": "Sun Jun 26 18:33:58 +0000 2022",
 		"id": 1541127645190135800,
 		"id_str": "1541127645190135810",
