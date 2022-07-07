@@ -1,6 +1,120 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 06 12:21:46 +0000 2022",
+		"id": 1544657859417460700,
+		"id_str": "1544657859417460738",
+		"full_text": "@DMGPhysio @RogerKerry1 @GatesPhysio Happy to help!",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DMGPhysio",
+					"name": "Darragh Mc Gee",
+					"id": 1523450449,
+					"id_str": "1523450449",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						11,
+						23
+					]
+				},
+				{
+					"screen_name": "GatesPhysio",
+					"name": "John Drummond",
+					"id": 451401278,
+					"id_str": "451401278",
+					"indices": [
+						24,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1544655133417607200,
+		"in_reply_to_status_id_str": "1544655133417607168",
+		"in_reply_to_user_id": 1523450449,
+		"in_reply_to_user_id_str": "1523450449",
+		"in_reply_to_screen_name": "DMGPhysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3262,
+			"friends_count": 4535,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26464,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8377,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1540602067382927363/Wn1-U-p0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1540602067382927363/Wn1-U-p0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DMGPhysio @RogerKerry1 @GatesPhysio Happy to help!"
+	},
+	{
 		"created_at": "Tue Jul 05 20:24:35 +0000 2022",
 		"id": 1544416975962755000,
 		"id_str": "1544416975962755076",
@@ -98,7 +212,7 @@ Grailbird.data.tweets_2022_07 =
 		"created_at": "Tue Jul 05 16:01:24 +0000 2022",
 		"id": 1544224644164722700,
 		"id_str": "1544350742550544384",
-		"full_text": "‘New local partnerships risk being undermined by national policy choices beyond their control, including insufficient funding for local government and public health services’\n#IntegratedCareSystems ⁦⁦@bmj_latest⁩  https://t.co/AMPneCW6IV",
+		"full_text": "‘New local partnerships risk being undermined by national policy choices beyond their control, including insufficient funding for local government and public health services’\n#IntegratedCareSystems @bmj_latest  https://t.co/AMPneCW6IV",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -218,7 +332,7 @@ Grailbird.data.tweets_2022_07 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "‘New local partnerships risk being undermined by national policy choices beyond their control, including insufficient funding for local government and public health services’\n#IntegratedCareSystems ⁦⁦@bmj_latest⁩  https://t.co/AMPneCW6IV"
+		"text": "‘New local partnerships risk being undermined by national policy choices beyond their control, including insufficient funding for local government and public health services’\n#IntegratedCareSystems @bmj_latest  https://t.co/AMPneCW6IV"
 	},
 	{
 		"created_at": "Tue Jul 05 15:54:22 +0000 2022",
