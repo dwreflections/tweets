@@ -1,6 +1,271 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 10 12:52:03 +0000 2022",
+		"id": 1546115029690466300,
+		"id_str": "1546115029690466304",
+		"full_text": "@SaschaMullen @DHSummerSchools Hi 👋",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SaschaMullen",
+					"name": "Sascha Mullen 🏳️‍🌈",
+					"id": 3378478565,
+					"id_str": "3378478565",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "DHSummerSchools",
+					"name": "Digital Health Summer Schools",
+					"id": 984801770533802000,
+					"id_str": "984801770533801985",
+					"indices": [
+						14,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1545810892595544000,
+		"in_reply_to_status_id_str": "1545810892595544064",
+		"in_reply_to_user_id": 3378478565,
+		"in_reply_to_user_id_str": "3378478565",
+		"in_reply_to_screen_name": "SaschaMullen",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3265,
+			"friends_count": 4538,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26502,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1540602067382927363/Wn1-U-p0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1540602067382927363/Wn1-U-p0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@SaschaMullen @DHSummerSchools Hi 👋"
+	},
+	{
+		"created_at": "Sun Jul 10 12:51:51 +0000 2022",
+		"id": 1545810892595544000,
+		"id_str": "1546114980843495424",
+		"full_text": "Anyone else heading off to @DHSummerSchools in #York next week? If so say hi 👋",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "York",
+					"indices": [
+						47,
+						52
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DHSummerSchools",
+					"name": "Digital Health Summer Schools",
+					"id": 984801770533802000,
+					"id_str": "984801770533801985",
+					"indices": [
+						27,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3378478565,
+			"id_str": "3378478565",
+			"name": "Sascha Mullen 🏳️‍🌈",
+			"screen_name": "SaschaMullen",
+			"location": "Hampshire ",
+			"description": "Clinical Informatics Specialist & Clinical Safety Officer with @NHSDigital on #NHSApp. 22 years in #NHS #Nurse #SCPHN #HV. All views and opinions are my own.",
+			"url": "https://t.co/L6B2Ecw5FI",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/L6B2Ecw5FI",
+							"expanded_url": "http://www.digital.nhs.uk",
+							"display_url": "digital.nhs.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1023,
+			"friends_count": 1049,
+			"listed_count": 19,
+			"created_at": "Thu Jul 16 08:08:46 +0000 2015",
+			"favourites_count": 9199,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6302,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1541079912731316226/AlfQQNkh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1541079912731316226/AlfQQNkh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3378478565/1654463798",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "06168d1feda43857",
+			"url": "https://api.twitter.com/1.1/geo/id/06168d1feda43857.json",
+			"place_type": "admin",
+			"name": "South East",
+			"full_name": "South East, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.95729593780907,
+							50.5746064789388
+						],
+						[
+							1.45178800018019,
+							50.5746064789388
+						],
+						[
+							1.45178800018019,
+							52.1962850088601
+						],
+						[
+							-1.95729593780907,
+							52.1962850088601
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 24,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Anyone else heading off to @DHSummerSchools in #York next week? If so say hi 👋"
+	},
+	{
 		"created_at": "Sat Jul 09 17:23:52 +0000 2022",
 		"id": 1545821049333350400,
 		"id_str": "1545821049333350402",
