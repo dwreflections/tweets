@@ -1,6 +1,555 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 15 16:08:35 +0000 2022",
+		"id": 1547976429559693300,
+		"id_str": "1547976429559693312",
+		"full_text": "Here are 2022 @Fed_IP 35 under 35 @DHSummerSchools Bursary Holders 📸 #DHSS22 \n\nVery proud to be part of this awesome bunch of ‘future’ digital leaders. Great to represent #DigitalAHP with such a talented group! https://t.co/kEKuvqGidm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DHSS22",
+					"indices": [
+						69,
+						76
+					]
+				},
+				{
+					"text": "DigitalAHP",
+					"indices": [
+						171,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Fed_IP",
+					"name": "FEDIP-The Federation for Informatics Professionals",
+					"id": 1100711991344279600,
+					"id_str": "1100711991344279553",
+					"indices": [
+						14,
+						21
+					]
+				},
+				{
+					"screen_name": "DHSummerSchools",
+					"name": "Digital Health Summer Schools",
+					"id": 984801770533802000,
+					"id_str": "984801770533801985",
+					"indices": [
+						34,
+						50
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1547976423054356500,
+					"id_str": "1547976423054356485",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FXuEWvDVsAUivsn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXuEWvDVsAUivsn.jpg",
+					"url": "https://t.co/kEKuvqGidm",
+					"display_url": "pic.twitter.com/kEKuvqGidm",
+					"expanded_url": "https://twitter.com/beardedPT/status/1547976429559693312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1281,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547976423054356500,
+					"id_str": "1547976423054356485",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FXuEWvDVsAUivsn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXuEWvDVsAUivsn.jpg",
+					"url": "https://t.co/kEKuvqGidm",
+					"display_url": "pic.twitter.com/kEKuvqGidm",
+					"expanded_url": "https://twitter.com/beardedPT/status/1547976429559693312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 544,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1281,
+							"h": 1600,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 961,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1547976423243075600,
+					"id_str": "1547976423243075586",
+					"indices": [
+						211,
+						234
+					],
+					"media_url": "http://pbs.twimg.com/media/FXuEWvwVUAItTlV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FXuEWvwVUAItTlV.jpg",
+					"url": "https://t.co/kEKuvqGidm",
+					"display_url": "pic.twitter.com/kEKuvqGidm",
+					"expanded_url": "https://twitter.com/beardedPT/status/1547976429559693312/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3280,
+			"friends_count": 4552,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26532,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8410,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1540602067382927363/Wn1-U-p0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1540602067382927363/Wn1-U-p0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here are 2022 @Fed_IP 35 under 35 @DHSummerSchools Bursary Holders 📸 #DHSS22 \n\nVery proud to be part of this awesome bunch of ‘future’ digital leaders. Great to represent #DigitalAHP with such a talented group! https://t.co/kEKuvqGidm"
+	},
+	{
+		"created_at": "Fri Jul 15 10:21:44 +0000 2022",
+		"id": 1547885185017950200,
+		"id_str": "1547889142763118597",
+		"full_text": "@SimonAHPInfo @DHSummerSchools @AHPsEverywhere @DHCNIO @NetworkAhp @NHSCNIO @Ramandeep_kaur9 @mjandison @_zouche_ @AliToft @beardedPT @gemmachilvers @Martin_Sykes @pippa_mccabe @JemimaKA Look forward to seeing lots of these folks in the #DigitalAHP session with @mjandison at 12 o’clock. @Ramandeep_kaur9 and @sar_cam will be flying the AHP and pharmacy flag in the @DHCCIO session #teamworkmakesthedreamwork",
+		"truncated": false,
+		"display_text_range": [
+			187,
+			408
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "DigitalAHP",
+					"indices": [
+						237,
+						248
+					]
+				},
+				{
+					"text": "teamworkmakesthedreamwork",
+					"indices": [
+						382,
+						408
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SimonAHPInfo",
+					"name": "Simon Brunner",
+					"id": 342296524,
+					"id_str": "342296524",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "DHSummerSchools",
+					"name": "Digital Health Summer Schools",
+					"id": 984801770533802000,
+					"id_str": "984801770533801985",
+					"indices": [
+						14,
+						30
+					]
+				},
+				{
+					"screen_name": "AHPsEverywhere",
+					"name": "AHPsEverywhere",
+					"id": 1426102249613373400,
+					"id_str": "1426102249613373441",
+					"indices": [
+						31,
+						46
+					]
+				},
+				{
+					"screen_name": "DHCNIO",
+					"name": "Digital Health CNIO Network",
+					"id": 1417432054908719000,
+					"id_str": "1417432054908719104",
+					"indices": [
+						47,
+						54
+					]
+				},
+				{
+					"screen_name": "NetworkAhp",
+					"name": "Digital AHP Network",
+					"id": 1367246503748788200,
+					"id_str": "1367246503748788231",
+					"indices": [
+						55,
+						66
+					]
+				},
+				{
+					"screen_name": "NHSCNIO",
+					"name": "Dr Natasha Phillips RN",
+					"id": 900098365,
+					"id_str": "900098365",
+					"indices": [
+						67,
+						75
+					]
+				},
+				{
+					"screen_name": "Ramandeep_kaur9",
+					"name": "Ramandeep Kaur",
+					"id": 3202070813,
+					"id_str": "3202070813",
+					"indices": [
+						76,
+						92
+					]
+				},
+				{
+					"screen_name": "mjandison",
+					"name": "Melissa Andison 🌿🚲🇦🇺🇬🇧",
+					"id": 476773026,
+					"id_str": "476773026",
+					"indices": [
+						93,
+						103
+					]
+				},
+				{
+					"screen_name": "_zouche_",
+					"name": "Steve Roche",
+					"id": 279900619,
+					"id_str": "279900619",
+					"indices": [
+						104,
+						113
+					]
+				},
+				{
+					"screen_name": "AliToft",
+					"name": "Ali Toft",
+					"id": 1115317600479846400,
+					"id_str": "1115317600479846400",
+					"indices": [
+						114,
+						122
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						123,
+						133
+					]
+				},
+				{
+					"screen_name": "gemmachilvers",
+					"name": "Gemma Chilvers",
+					"id": 296142744,
+					"id_str": "296142744",
+					"indices": [
+						134,
+						148
+					]
+				},
+				{
+					"screen_name": "Martin_Sykes",
+					"name": "Martin Sykes 💙",
+					"id": 298702160,
+					"id_str": "298702160",
+					"indices": [
+						149,
+						162
+					]
+				},
+				{
+					"screen_name": "pippa_mccabe",
+					"name": "Pippa McCabe",
+					"id": 2158857989,
+					"id_str": "2158857989",
+					"indices": [
+						163,
+						176
+					]
+				},
+				{
+					"screen_name": "JemimaKA",
+					"name": "Jemima",
+					"id": 908690089072611300,
+					"id_str": "908690089072611328",
+					"indices": [
+						177,
+						186
+					]
+				},
+				{
+					"screen_name": "mjandison",
+					"name": "Melissa Andison 🌿🚲🇦🇺🇬🇧",
+					"id": 476773026,
+					"id_str": "476773026",
+					"indices": [
+						262,
+						272
+					]
+				},
+				{
+					"screen_name": "Ramandeep_kaur9",
+					"name": "Ramandeep Kaur",
+					"id": 3202070813,
+					"id_str": "3202070813",
+					"indices": [
+						288,
+						304
+					]
+				},
+				{
+					"screen_name": "sar_cam",
+					"name": "Sarah Thompson",
+					"id": 121527346,
+					"id_str": "121527346",
+					"indices": [
+						309,
+						317
+					]
+				},
+				{
+					"screen_name": "DHCCIO",
+					"name": "CCIO Network",
+					"id": 327432201,
+					"id_str": "327432201",
+					"indices": [
+						366,
+						373
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1547857167322996700,
+		"in_reply_to_status_id_str": "1547857167322996736",
+		"in_reply_to_user_id": 342296524,
+		"in_reply_to_user_id_str": "342296524",
+		"in_reply_to_screen_name": "SimonAHPInfo",
+		"user": {
+			"id": 2438541736,
+			"id_str": "2438541736",
+			"name": "Euan McComiskie",
+			"screen_name": "EMAHPInfo",
+			"location": "Bangor, Northern Ireland",
+			"description": "Health Informatics Lead with @thecsp. Clinical Lead with @orchahealth. Fellow of @ukfci. Co-vice chair of @dhcnio panel. Proud dad, husband and #DigitalPhysio",
+			"url": "https://t.co/5jzB2nZpyj",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/5jzB2nZpyj",
+							"expanded_url": "http://www.csp.org.uk/digitalphysio",
+							"display_url": "csp.org.uk/digitalphysio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2836,
+			"friends_count": 2590,
+			"listed_count": 28,
+			"created_at": "Wed Mar 26 20:36:25 +0000 2014",
+			"favourites_count": 11611,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 6622,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1286761432416124928/FtvlWJi9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1286761432416124928/FtvlWJi9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2438541736/1648418352",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@SimonAHPInfo @DHSummerSchools @AHPsEverywhere @DHCNIO @NetworkAhp @NHSCNIO @Ramandeep_kaur9 @mjandison @_zouche_ @AliToft @beardedPT @gemmachilvers @Martin_Sykes @pippa_mccabe @JemimaKA Look forward to seeing lots of these folks in the #DigitalAHP session with @mjandison at 12 o’clock. @Ramandeep_kaur9 and @sar_cam will be flying the AHP and pharmacy flag in the @DHCCIO session #teamworkmakesthedreamwork"
+	},
+	{
 		"created_at": "Thu Jul 14 17:46:29 +0000 2022",
 		"id": 1547638679811657700,
 		"id_str": "1547638679811657728",
