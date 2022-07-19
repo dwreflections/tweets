@@ -1,6 +1,321 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Mon Jul 18 17:52:41 +0000 2022",
+		"id": 1549089788975775700,
+		"id_str": "1549089788975775746",
+		"full_text": "@alistaircannon @marcus_baw Is this the fork? \n\n“Corporate/strategic” role vs “techie/hacker’",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alistaircannon",
+					"name": "Alistair Cannon 🌱",
+					"id": 20390091,
+					"id_str": "20390091",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "marcus_baw",
+					"name": "Marcus Baw",
+					"id": 776689094,
+					"id_str": "776689094",
+					"indices": [
+						16,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1548246371479588900,
+		"in_reply_to_status_id_str": "1548246371479588864",
+		"in_reply_to_user_id": 20390091,
+		"in_reply_to_user_id_str": "20390091",
+		"in_reply_to_screen_name": "alistaircannon",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3291,
+			"friends_count": 4571,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26575,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8421,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1540602067382927363/Wn1-U-p0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1540602067382927363/Wn1-U-p0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@alistaircannon @marcus_baw Is this the fork? \n\n“Corporate/strategic” role vs “techie/hacker’"
+	},
+	{
+		"created_at": "Mon Jul 18 13:46:27 +0000 2022",
+		"id": 1548952967335723000,
+		"id_str": "1549027825990213633",
+		"full_text": "It's the final countdown!\n\nOur draft nursing documentation standards guidance is still open until Thursday 21st 11.59pm\n\nDon't forgot to give us your comments...\n\nRegister/View/Feedback 👇\nhttps://t.co/ScFKCEr34a https://t.co/dpYvYjoIkq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ScFKCEr34a",
+					"expanded_url": "https://future.nhs.uk/DigitalNursesNetwork/view?objectID=36339504",
+					"display_url": "future.nhs.uk/DigitalNursesN…",
+					"indices": [
+						188,
+						211
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1547505449263571000,
+					"id_str": "1547505449263570944",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FXnYAc9WIAAmys8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FXnYAc9WIAAmys8.jpg",
+					"url": "https://t.co/dpYvYjoIkq",
+					"display_url": "pic.twitter.com/dpYvYjoIkq",
+					"expanded_url": "https://twitter.com/NHSCNIO/status/1548952967335723008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1547505449263571000,
+					"id_str": "1547505449263570944",
+					"indices": [
+						212,
+						235
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FXnYAc9WIAAmys8.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FXnYAc9WIAAmys8.jpg",
+					"url": "https://t.co/dpYvYjoIkq",
+					"display_url": "pic.twitter.com/dpYvYjoIkq",
+					"expanded_url": "https://twitter.com/NHSCNIO/status/1548952967335723008/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 220,
+							"h": 164,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							55,
+							41
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FXnYAc9WIAAmys8.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 900098365,
+			"id_str": "900098365",
+			"name": "Dr Natasha Phillips RN",
+			"screen_name": "NHSCNIO",
+			"location": "London",
+			"description": "National Chief Nursing Information Officer passionate about ensuring digital technology and data science enable great clinical practice",
+			"url": "https://t.co/aweHmBlcHN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/aweHmBlcHN",
+							"expanded_url": "https://www.linkedin.com/in/dr-natasha-phillips/",
+							"display_url": "linkedin.com/in/dr-natasha-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3802,
+			"friends_count": 922,
+			"listed_count": 27,
+			"created_at": "Tue Oct 23 15:33:32 +0000 2012",
+			"favourites_count": 2273,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1843,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1530116280325488640/3SRekoD__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1530116280325488640/3SRekoD__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/900098365/1654611957",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's the final countdown!\n\nOur draft nursing documentation standards guidance is still open until Thursday 21st 11.59pm\n\nDon't forgot to give us your comments...\n\nRegister/View/Feedback 👇\nhttps://t.co/ScFKCEr34a https://t.co/dpYvYjoIkq"
+	},
+	{
 		"created_at": "Sun Jul 17 12:58:48 +0000 2022",
 		"id": 1548653443589480400,
 		"id_str": "1548653443589480449",
