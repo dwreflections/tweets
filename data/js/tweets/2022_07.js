@@ -1,6 +1,432 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 20 21:04:11 +0000 2022",
+		"id": 1549862760053215200,
+		"id_str": "1549862760053215232",
+		"full_text": "@abellbentley @UoS_Physio @SalfordUni @SalfordPhysio Congrats!!! 👏👏👏",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "abellbentley",
+					"name": "Amelia",
+					"id": 469375429,
+					"id_str": "469375429",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "UoS_Physio",
+					"name": "University of Salford Physiotherapy",
+					"id": 1272888059416252400,
+					"id_str": "1272888059416252419",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "SalfordUni",
+					"name": "University of Salford",
+					"id": 17068001,
+					"id_str": "17068001",
+					"indices": [
+						26,
+						37
+					]
+				},
+				{
+					"screen_name": "SalfordPhysio",
+					"name": "UoS Physio Society",
+					"id": 1298664127829807000,
+					"id_str": "1298664127829807104",
+					"indices": [
+						38,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1549111846002741200,
+		"in_reply_to_status_id_str": "1549111846002741248",
+		"in_reply_to_user_id": 469375429,
+		"in_reply_to_user_id_str": "469375429",
+		"in_reply_to_screen_name": "abellbentley",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3293,
+			"friends_count": 4578,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26604,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1540602067382927363/Wn1-U-p0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1540602067382927363/Wn1-U-p0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@abellbentley @UoS_Physio @SalfordUni @SalfordPhysio Congrats!!! 👏👏👏"
+	},
+	{
+		"created_at": "Wed Jul 20 05:08:36 +0000 2022",
+		"id": 1549514933288812500,
+		"id_str": "1549622276680728577",
+		"full_text": "The #digitalAHP tribe @EMAHPInfo @AliToft @SharonAIO @beardedPT @SimonAHPInfo @_zouche_ @mjandison  @RamanBehl30 @grnmx @Martin_Sykes and #cohort4 tribe @Duffnet1970s @adam_nickerson @_maxhughes_ @wongs11 @Richardthenurse @jonnysammut @BarbaraArroyo__ @singleton_al @rucblack_ruth",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "digitalAHP",
+					"indices": [
+						4,
+						15
+					]
+				},
+				{
+					"text": "cohort4",
+					"indices": [
+						138,
+						146
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EMAHPInfo",
+					"name": "Euan McComiskie",
+					"id": 2438541736,
+					"id_str": "2438541736",
+					"indices": [
+						22,
+						32
+					]
+				},
+				{
+					"screen_name": "AliToft",
+					"name": "Ali Toft",
+					"id": 1115317600479846400,
+					"id_str": "1115317600479846400",
+					"indices": [
+						33,
+						41
+					]
+				},
+				{
+					"screen_name": "SharonAIO",
+					"name": "Sharon Campana",
+					"id": 1146669036341813200,
+					"id_str": "1146669036341813250",
+					"indices": [
+						42,
+						52
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						53,
+						63
+					]
+				},
+				{
+					"screen_name": "SimonAHPInfo",
+					"name": "Simon Brunner",
+					"id": 342296524,
+					"id_str": "342296524",
+					"indices": [
+						64,
+						77
+					]
+				},
+				{
+					"screen_name": "_zouche_",
+					"name": "Steve Roche",
+					"id": 279900619,
+					"id_str": "279900619",
+					"indices": [
+						78,
+						87
+					]
+				},
+				{
+					"screen_name": "mjandison",
+					"name": "Melissa Andison 🌿🚲🇦🇺🇬🇧",
+					"id": 476773026,
+					"id_str": "476773026",
+					"indices": [
+						88,
+						98
+					]
+				},
+				{
+					"screen_name": "RamanBehl30",
+					"name": "Raman",
+					"id": 740138511278477300,
+					"id_str": "740138511278477312",
+					"indices": [
+						100,
+						112
+					]
+				},
+				{
+					"screen_name": "grnmx",
+					"name": "Max Green",
+					"id": 13267382,
+					"id_str": "13267382",
+					"indices": [
+						113,
+						119
+					]
+				},
+				{
+					"screen_name": "Martin_Sykes",
+					"name": "Martin Sykes 💙",
+					"id": 298702160,
+					"id_str": "298702160",
+					"indices": [
+						120,
+						133
+					]
+				},
+				{
+					"screen_name": "Duffnet1970s",
+					"name": "Amy Freeman",
+					"id": 1528138112,
+					"id_str": "1528138112",
+					"indices": [
+						153,
+						166
+					]
+				},
+				{
+					"screen_name": "adam_nickerson",
+					"name": "Adam Nickerson",
+					"id": 1204043325113811000,
+					"id_str": "1204043325113810945",
+					"indices": [
+						167,
+						182
+					]
+				},
+				{
+					"screen_name": "_maxhughes_",
+					"name": "Max Hughes",
+					"id": 307583203,
+					"id_str": "307583203",
+					"indices": [
+						183,
+						195
+					]
+				},
+				{
+					"screen_name": "wongs11",
+					"name": "Wong See Mun",
+					"id": 45980287,
+					"id_str": "45980287",
+					"indices": [
+						196,
+						204
+					]
+				},
+				{
+					"screen_name": "Richardthenurse",
+					"name": "Nurse Richard",
+					"id": 3141808917,
+					"id_str": "3141808917",
+					"indices": [
+						205,
+						221
+					]
+				},
+				{
+					"screen_name": "jonnysammut",
+					"name": "Jonny Sammut",
+					"id": 57618716,
+					"id_str": "57618716",
+					"indices": [
+						222,
+						234
+					]
+				},
+				{
+					"screen_name": "BarbaraArroyo__",
+					"name": "Barbara Arroyo 🌈",
+					"id": 731513593770999800,
+					"id_str": "731513593770999811",
+					"indices": [
+						235,
+						251
+					]
+				},
+				{
+					"screen_name": "singleton_al",
+					"name": "Alison Singleton 💙",
+					"id": 2318125391,
+					"id_str": "2318125391",
+					"indices": [
+						252,
+						265
+					]
+				},
+				{
+					"screen_name": "rucblack_ruth",
+					"name": "Ruth Claire Black",
+					"id": 3104216298,
+					"id_str": "3104216298",
+					"indices": [
+						266,
+						280
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1549514932118495200,
+		"in_reply_to_status_id_str": "1549514932118495232",
+		"in_reply_to_user_id": 2158857989,
+		"in_reply_to_user_id_str": "2158857989",
+		"in_reply_to_screen_name": "pippa_mccabe",
+		"user": {
+			"id": 2158857989,
+			"id_str": "2158857989",
+			"name": "Pippa McCabe",
+			"screen_name": "pippa_mccabe",
+			"location": "Belfast, Northern Ireland",
+			"description": "Chief AHP Information Officer South Eastern HSCT @DigHealthLeader #Cohort4 #digiAHPNI All views my own…unless they’re not.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1154,
+			"friends_count": 1136,
+			"listed_count": 7,
+			"created_at": "Tue Oct 29 17:03:44 +0000 2013",
+			"favourites_count": 4248,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1700,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1424477189131669506/D5xgHoFy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1424477189131669506/D5xgHoFy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2158857989/1577968858",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 16,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The #digitalAHP tribe @EMAHPInfo @AliToft @SharonAIO @beardedPT @SimonAHPInfo @_zouche_ @mjandison  @RamanBehl30 @grnmx @Martin_Sykes and #cohort4 tribe @Duffnet1970s @adam_nickerson @_maxhughes_ @wongs11 @Richardthenurse @jonnysammut @BarbaraArroyo__ @singleton_al @rucblack_ruth"
+	},
+	{
 		"created_at": "Tue Jul 19 19:11:31 +0000 2022",
 		"id": 1549472017128296400,
 		"id_str": "1549472017128296449",
