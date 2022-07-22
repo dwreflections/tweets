@@ -1,6 +1,244 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 21 12:21:30 +0000 2022",
+		"id": 1550073102717042700,
+		"id_str": "1550093610745737219",
+		"full_text": "Is there something we can do to help you with your journey to/from work? \n\nComplete our Staff Travel Survey to let us know ⬇\n\nhttps://t.co/zRtMnXVdFv\n\n#TeamUHDB #Travel #TravelSurvey https://t.co/As1jjsS01C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TeamUHDB",
+					"indices": [
+						151,
+						160
+					]
+				},
+				{
+					"text": "Travel",
+					"indices": [
+						161,
+						168
+					]
+				},
+				{
+					"text": "TravelSurvey",
+					"indices": [
+						169,
+						182
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/zRtMnXVdFv",
+					"expanded_url": "http://bit.ly/3cpEiob",
+					"display_url": "bit.ly/3cpEiob",
+					"indices": [
+						126,
+						149
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1549660034820358100,
+					"id_str": "1549660034820358144",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1549660034820358144/pu/img/L5QvXMksiYDQfJv1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1549660034820358144/pu/img/L5QvXMksiYDQfJv1.jpg",
+					"url": "https://t.co/As1jjsS01C",
+					"display_url": "pic.twitter.com/As1jjsS01C",
+					"expanded_url": "https://twitter.com/UHDBSustain/status/1550073102717042688/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1549660034820358100,
+					"id_str": "1549660034820358144",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1549660034820358144/pu/img/L5QvXMksiYDQfJv1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1549660034820358144/pu/img/L5QvXMksiYDQfJv1.jpg",
+					"url": "https://t.co/As1jjsS01C",
+					"display_url": "pic.twitter.com/As1jjsS01C",
+					"expanded_url": "https://twitter.com/UHDBSustain/status/1550073102717042688/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1080,
+							"h": 1080,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"duration_millis": 5000,
+						"variants": [
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1549660034820358144/pu/pl/q_CMwkKFMt5spD7W.m3u8?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1549660034820358144/pu/vid/540x540/giKIH5LeA_yI1iP3.mp4?tag=12"
+							},
+							{
+								"bitrate": 1280000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1549660034820358144/pu/vid/720x720/lmY87xOqs8IKL6Q6.mp4?tag=12"
+							},
+							{
+								"bitrate": 432000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1549660034820358144/pu/vid/320x320/guzhVipRPBX7DlWU.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1151463174308270100,
+			"id_str": "1151463174308270080",
+			"name": "UHDB Sustainability 🌏",
+			"screen_name": "UHDBSustain",
+			"location": "Derby, England",
+			"description": "Twitter page for University Hospitals of Derby and Burton NHS Foundation Trust (@UHDBTrust) Sustainability team",
+			"url": "https://t.co/cZOT2ENEta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cZOT2ENEta",
+							"expanded_url": "http://uhdb.nhs.uk",
+							"display_url": "uhdb.nhs.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 296,
+			"friends_count": 353,
+			"listed_count": 3,
+			"created_at": "Wed Jul 17 12:06:28 +0000 2019",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1551,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1496150443512246277/Xzqi9P4Y_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1496150443512246277/Xzqi9P4Y_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1151463174308270080/1645527696",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Is there something we can do to help you with your journey to/from work? \n\nComplete our Staff Travel Survey to let us know ⬇\n\nhttps://t.co/zRtMnXVdFv\n\n#TeamUHDB #Travel #TravelSurvey https://t.co/As1jjsS01C"
+	},
+	{
 		"created_at": "Wed Jul 20 21:04:11 +0000 2022",
 		"id": 1549862760053215200,
 		"id_str": "1549862760053215232",
