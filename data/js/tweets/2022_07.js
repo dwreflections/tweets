@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 22 18:25:08 +0000 2022",
+		"id": 1550547507914371000,
+		"id_str": "1550547507914371072",
+		"full_text": "@PureSports01 @MMUPhysio Indeed!",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PureSports01",
+					"name": "Rhys Perrett",
+					"id": 392151986,
+					"id_str": "392151986",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "MMUPhysio",
+					"name": "MMUPhysio",
+					"id": 1672760454,
+					"id_str": "1672760454",
+					"indices": [
+						14,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1550480635952767000,
+		"in_reply_to_status_id_str": "1550480635952766982",
+		"in_reply_to_user_id": 392151986,
+		"in_reply_to_user_id_str": "392151986",
+		"in_reply_to_screen_name": "PureSports01",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3296,
+			"friends_count": 4582,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26623,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1540602067382927363/Wn1-U-p0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1540602067382927363/Wn1-U-p0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PureSports01 @MMUPhysio Indeed!"
+	},
+	{
+		"created_at": "Fri Jul 22 12:05:01 +0000 2022",
+		"id": 1550451849894961200,
+		"id_str": "1550451849894961152",
+		"full_text": "@ldivaf @JenniferDeight3 @NursesResearch_ @WeNurses @RCNNRN @theRCN @NurseResearch @brookes_ppr Hey! I’m not a nurse but I don’t see why not.\n\nHave you had a look at the HEE/NIHR integrated clinical academic training programme?\n\nhttps://t.co/pcvv17GRSA",
+		"truncated": false,
+		"display_text_range": [
+			96,
+			252
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ldivaf",
+					"name": "𝕃𝕚𝕟 𝔽𝕚𝕕𝕘𝕚𝕟",
+					"id": 292285891,
+					"id_str": "292285891",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "JenniferDeight3",
+					"name": "Jennifer Deighton 🍊",
+					"id": 3344264759,
+					"id_str": "3344264759",
+					"indices": [
+						8,
+						24
+					]
+				},
+				{
+					"screen_name": "NursesResearch_",
+					"name": "Nurses In Research",
+					"id": 1406701232367059000,
+					"id_str": "1406701232367058946",
+					"indices": [
+						25,
+						41
+					]
+				},
+				{
+					"screen_name": "WeNurses",
+					"name": "WeNurses 💙",
+					"id": 599536551,
+					"id_str": "599536551",
+					"indices": [
+						42,
+						51
+					]
+				},
+				{
+					"screen_name": "RCNNRN",
+					"name": "RCN Newly Registered Nurses",
+					"id": 1192715585672634400,
+					"id_str": "1192715585672634368",
+					"indices": [
+						52,
+						59
+					]
+				},
+				{
+					"screen_name": "theRCN",
+					"name": "The RCN",
+					"id": 54506896,
+					"id_str": "54506896",
+					"indices": [
+						60,
+						67
+					]
+				},
+				{
+					"screen_name": "NurseResearch",
+					"name": "Sandy Middleton",
+					"id": 925608924,
+					"id_str": "925608924",
+					"indices": [
+						68,
+						82
+					]
+				},
+				{
+					"screen_name": "brookes_ppr",
+					"name": "NurseResearchBrookes",
+					"id": 3094135635,
+					"id_str": "3094135635",
+					"indices": [
+						83,
+						95
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/pcvv17GRSA",
+					"expanded_url": "https://arc-em.nihr.ac.uk/news-events/news/applications-open-heenihr-integrated-clinical-academic-ica-training-programme-2020",
+					"display_url": "arc-em.nihr.ac.uk/news-events/ne…",
+					"indices": [
+						229,
+						252
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1550363476492800000,
+		"in_reply_to_status_id_str": "1550363476492800002",
+		"in_reply_to_user_id": 292285891,
+		"in_reply_to_user_id_str": "292285891",
+		"in_reply_to_screen_name": "ldivaf",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care & Leadership | Lead @UHDB_AFN | Governor @UHDBtrust @suaupdates | Student @_HSMCentre | Vice-Chair ~ Professional Com. @theCSP",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3296,
+			"friends_count": 4582,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26623,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8432,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1540602067382927363/Wn1-U-p0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1540602067382927363/Wn1-U-p0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1653991445",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ldivaf @JenniferDeight3 @NursesResearch_ @WeNurses @RCNNRN @theRCN @NurseResearch @brookes_ppr Hey! I’m not a nurse but I don’t see why not.\n\nHave you had a look at the HEE/NIHR integrated clinical academic training programme?\n\nhttps://t.co/pcvv17GRSA"
+	},
+	{
 		"created_at": "Thu Jul 21 12:21:30 +0000 2022",
 		"id": 1550073102717042700,
 		"id_str": "1550093610745737219",
