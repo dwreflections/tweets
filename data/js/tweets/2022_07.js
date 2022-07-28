@@ -1,6 +1,671 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Wed Jul 27 17:17:20 +0000 2022",
+		"id": 1552342386264707000,
+		"id_str": "1552342386264707073",
+		"full_text": "This ⬇️ … for everyone in whatever you are doing! ⏳📈 https://t.co/ugb7VWIBUm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ugb7VWIBUm",
+					"expanded_url": "https://twitter.com/harlotan/status/1551913523000778753",
+					"display_url": "twitter.com/harlotan/statu…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | #DigitalAHP | Proudly Leading @UHDB_AFN | Governor @UHDBtrust @suaupdates | Studying @_HSMCentre | Proff. Com. @theCSP | 📥 Open",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3302,
+			"friends_count": 4602,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8437,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1551913523000778800,
+		"quoted_status_id_str": "1551913523000778753",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ugb7VWIBUm",
+			"expanded": "https://twitter.com/harlotan/status/1551913523000778753",
+			"display": "twitter.com/harlotan/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jul 26 12:53:11 +0000 2022",
+			"id": 1551913523000778800,
+			"id_str": "1551913523000778753",
+			"full_text": "I have only one thing to add to #TipsForNewDocs and it's the same one as every year- look at the outgoing FY1s and see how competent they are in comparison to you and your cohort. The only difference is time. It might not feel like it at the start, but you're going to get there.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "TipsForNewDocs",
+						"indices": [
+							32,
+							47
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 943491094653874200,
+				"id_str": "943491094653874176",
+				"name": "✨Charlie✨",
+				"screen_name": "harlotan",
+				"location": "London, innit",
+				"description": "just a gal whose hobbies are eating nice things and rummaging through trash. definitely a real human doctor & not 3 raccoons in a trenchcoat.\n\n(she/her) 🏳️‍🌈",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 862,
+				"friends_count": 451,
+				"listed_count": 1,
+				"created_at": "Wed Dec 20 14:39:40 +0000 2017",
+				"favourites_count": 16953,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4955,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1265742738118660099/lbiY0ZQT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1265742738118660099/lbiY0ZQT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/943491094653874176/1626792168",
+				"profile_link_color": "FAB81E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 196,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This ⬇️ … for everyone in whatever you are doing! ⏳📈 https://t.co/ugb7VWIBUm"
+	},
+	{
+		"created_at": "Wed Jul 27 11:37:28 +0000 2022",
+		"id": 1552256854713143300,
+		"id_str": "1552256854713143297",
+		"full_text": "@ashjamesphysio @tolanAHP @thecsp https://t.co/wHS35I6ryY",
+		"truncated": false,
+		"display_text_range": [
+			33,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ashjamesphysio",
+					"name": "Ash James 💭",
+					"id": 597553260,
+					"id_str": "597553260",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "tolanAHP",
+					"name": "Steve Tolan",
+					"id": 1550254940,
+					"id_str": "1550254940",
+					"indices": [
+						16,
+						25
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						26,
+						33
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1552256847180177400,
+					"id_str": "1552256847180177410",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FYq5YNhXoAIglk-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FYq5YNhXoAIglk-.jpg",
+					"url": "https://t.co/wHS35I6ryY",
+					"display_url": "pic.twitter.com/wHS35I6ryY",
+					"expanded_url": "https://twitter.com/beardedPT/status/1552256854713143297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 332,
+							"h": 332,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 332,
+							"h": 332,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 332,
+							"h": 332,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1552256847180177400,
+					"id_str": "1552256847180177410",
+					"indices": [
+						34,
+						57
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FYq5YNhXoAIglk-.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FYq5YNhXoAIglk-.jpg",
+					"url": "https://t.co/wHS35I6ryY",
+					"display_url": "pic.twitter.com/wHS35I6ryY",
+					"expanded_url": "https://twitter.com/beardedPT/status/1552256854713143297/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 332,
+							"h": 332,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 332,
+							"h": 332,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 332,
+							"h": 332,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FYq5YNhXoAIglk-.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1552233218690138000,
+		"in_reply_to_status_id_str": "1552233218690138113",
+		"in_reply_to_user_id": 597553260,
+		"in_reply_to_user_id_str": "597553260",
+		"in_reply_to_screen_name": "ashjamesphysio",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | #DigitalAHP | Proudly Leading @UHDB_AFN | Governor @UHDBtrust @suaupdates | Studying @_HSMCentre | Proff. Com. @theCSP | 📥 Open",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3302,
+			"friends_count": 4602,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8437,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "qme",
+		"text": "@ashjamesphysio @tolanAHP @thecsp https://t.co/wHS35I6ryY"
+	},
+	{
+		"created_at": "Wed Jul 27 11:29:14 +0000 2022",
+		"id": 1552254783289000000,
+		"id_str": "1552254783288999939",
+		"full_text": "@_HSMCentre @DrRossMillar @BWCHBoss Great read! I am very interested in being a mentee of the 50/50 mentoring programme once up and running - @DrRossMillar. 👍",
+		"truncated": false,
+		"display_text_range": [
+			36,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_HSMCentre",
+					"name": "Health Services Management Centre (HSMC)",
+					"id": 1542789288,
+					"id_str": "1542789288",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "DrRossMillar",
+					"name": "Ross Millar",
+					"id": 2491574618,
+					"id_str": "2491574618",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "BWCHBoss",
+					"name": "Sarah-Jane Marsh",
+					"id": 1638313591,
+					"id_str": "1638313591",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"screen_name": "DrRossMillar",
+					"name": "Ross Millar",
+					"id": 2491574618,
+					"id_str": "2491574618",
+					"indices": [
+						142,
+						155
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1551571345154211800,
+		"in_reply_to_status_id_str": "1551571345154211841",
+		"in_reply_to_user_id": 1542789288,
+		"in_reply_to_user_id_str": "1542789288",
+		"in_reply_to_screen_name": "_HSMCentre",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | #DigitalAHP | Proudly Leading @UHDB_AFN | Governor @UHDBtrust @suaupdates | Studying @_HSMCentre | Proff. Com. @theCSP | 📥 Open",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3302,
+			"friends_count": 4602,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26674,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8437,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@_HSMCentre @DrRossMillar @BWCHBoss Great read! I am very interested in being a mentee of the 50/50 mentoring programme once up and running - @DrRossMillar. 👍"
+	},
+	{
+		"created_at": "Wed Jul 27 11:22:09 +0000 2022",
+		"id": 1552185509199364000,
+		"id_str": "1552252998751064065",
+		"full_text": "Members of Derbyshire Armed Forces Network are running Nottingham Half Marathon in September to raise funds for @supportthewalk . Fantastic Charity we are proud to support. Link below to Just Giving Page. All donations greatly received. https://t.co/8kkmYWUDfz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			260
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "supportthewalk",
+					"name": "WWTW",
+					"id": 173807599,
+					"id_str": "173807599",
+					"indices": [
+						112,
+						127
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/8kkmYWUDfz",
+					"expanded_url": "https://www.justgiving.com/fundraising/derbyshirearmedforcesnetwork?utm_source=Sharethis&utm_medium=fundraising&utm_content=derbyshirearmedforcesnetwork&utm_campaign=pfp-email&utm_term=07343241840040b1bba7a79fc5b2a00f",
+					"display_url": "justgiving.com/fundraising/de…",
+					"indices": [
+						237,
+						260
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1384135578233360400,
+			"id_str": "1384135578233360399",
+			"name": "UHDB Armed Forces Network",
+			"screen_name": "UHDB_AFN",
+			"location": "Derby, England",
+			"description": "Network for Reservists, Veterans, Forces Families and Cadet Forces Adult Volunteers who work at @UHDBTrust #TeamUHDB",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 168,
+			"friends_count": 285,
+			"listed_count": 0,
+			"created_at": "Mon Apr 19 13:23:39 +0000 2021",
+			"favourites_count": 208,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 113,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398298749626093573/Mu-dSfve_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398298749626093573/Mu-dSfve_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1384135578233360399/1620671376",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Members of Derbyshire Armed Forces Network are running Nottingham Half Marathon in September to raise funds for @supportthewalk . Fantastic Charity we are proud to support. Link below to Just Giving Page. All donations greatly received. https://t.co/8kkmYWUDfz"
+	},
+	{
 		"created_at": "Tue Jul 26 20:35:41 +0000 2022",
 		"id": 1552029915595395000,
 		"id_str": "1552029915595395074",
