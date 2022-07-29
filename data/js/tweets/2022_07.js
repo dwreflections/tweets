@@ -1,6 +1,493 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 28 20:03:09 +0000 2022",
+		"id": 1552746502803579000,
+		"id_str": "1552746502803578882",
+		"full_text": "Great work @JohnnyMercerUK ! Also, you might of inspired me to grow the hair out … 👍 https://t.co/9MrTCRcmI6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JohnnyMercerUK",
+					"name": "Johnny Mercer",
+					"id": 97402576,
+					"id_str": "97402576",
+					"indices": [
+						11,
+						26
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/9MrTCRcmI6",
+					"expanded_url": "https://twitter.com/johnnymerceruk/status/1552364852974346245",
+					"display_url": "twitter.com/johnnymerceruk…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | #DigitalAHP | Proudly Leading @UHDB_AFN | Governor @UHDBtrust @suaupdates | Studying @_HSMCentre | Proff. Com. @theCSP | 📥 Open",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3306,
+			"friends_count": 4606,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1552364852974346200,
+		"quoted_status_id_str": "1552364852974346245",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9MrTCRcmI6",
+			"expanded": "https://twitter.com/johnnymerceruk/status/1552364852974346245",
+			"display": "twitter.com/johnnymerceruk…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 27 18:46:37 +0000 2022",
+			"id": 1552364852974346200,
+			"id_str": "1552364852974346245",
+			"full_text": "“We’ve got to go from saying this is going to be the best country in the world to be a veterans, to making veteran’s really feel like it is.”\n\nVisited 7 veterans groups in last 24hrs from London to Cornwall, laying out my ambitions for the months ahead. https://t.co/x3afxhENpm",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				253
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1552364716903010300,
+						"id_str": "1552364716903010304",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1552364716903010304/pu/img/ly7_-lioAyq6AY2B.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1552364716903010304/pu/img/ly7_-lioAyq6AY2B.jpg",
+						"url": "https://t.co/x3afxhENpm",
+						"display_url": "pic.twitter.com/x3afxhENpm",
+						"expanded_url": "https://twitter.com/JohnnyMercerUK/status/1552364852974346245/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1552364716903010300,
+						"id_str": "1552364716903010304",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1552364716903010304/pu/img/ly7_-lioAyq6AY2B.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1552364716903010304/pu/img/ly7_-lioAyq6AY2B.jpg",
+						"url": "https://t.co/x3afxhENpm",
+						"display_url": "pic.twitter.com/x3afxhENpm",
+						"expanded_url": "https://twitter.com/JohnnyMercerUK/status/1552364852974346245/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 56680,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1552364716903010304/pu/vid/640x360/B8erCSU8GIkfVrSx.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1552364716903010304/pu/vid/1280x720/tEt4s5S9v_agb1Xh.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1552364716903010304/pu/pl/9kJRM-FU95a33teE.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1552364716903010304/pu/vid/480x270/tMPoZPlu8Gizjf1M.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 97402576,
+				"id_str": "97402576",
+				"name": "Johnny Mercer",
+				"screen_name": "JohnnyMercerUK",
+				"location": "Plymouth",
+				"description": "Father of three; husband of 1. Believer in change. UK’s first Cabinet Minister for Veterans Affairs. Member of Parliament for Plymouth Moor View",
+				"url": "https://t.co/BdcEtz2huP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BdcEtz2huP",
+								"expanded_url": "http://www.johnnymercer.co.uk",
+								"display_url": "johnnymercer.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 123179,
+				"friends_count": 2566,
+				"listed_count": 723,
+				"created_at": "Thu Dec 17 09:09:35 +0000 2009",
+				"favourites_count": 12027,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 21271,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1432050071814684673/D0MLPx2T_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1432050071814684673/D0MLPx2T_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/97402576/1630262319",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 42,
+			"favorite_count": 481,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Great work @JohnnyMercerUK ! Also, you might of inspired me to grow the hair out … 👍 https://t.co/9MrTCRcmI6"
+	},
+	{
+		"created_at": "Thu Jul 28 11:15:07 +0000 2022",
+		"id": 1552613617983520800,
+		"id_str": "1552613617983520768",
+		"full_text": "@DrRossMillar @_HSMCentre @BWCHBoss @jlcooperbham Excellent stuff! @_HSMCentre has such a rich history and great links throughout healthcare this makes a lot of sense! @jlcooperbham you will be getting a follow 🤩.",
+		"truncated": false,
+		"display_text_range": [
+			50,
+			213
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrRossMillar",
+					"name": "Ross Millar",
+					"id": 2491574618,
+					"id_str": "2491574618",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "_HSMCentre",
+					"name": "Health Services Management Centre (HSMC)",
+					"id": 1542789288,
+					"id_str": "1542789288",
+					"indices": [
+						14,
+						25
+					]
+				},
+				{
+					"screen_name": "BWCHBoss",
+					"name": "Sarah-Jane Marsh",
+					"id": 1638313591,
+					"id_str": "1638313591",
+					"indices": [
+						26,
+						35
+					]
+				},
+				{
+					"screen_name": "jlcooperbham",
+					"name": "Jessica Cooper",
+					"id": 920957338776997900,
+					"id_str": "920957338776997888",
+					"indices": [
+						36,
+						49
+					]
+				},
+				{
+					"screen_name": "_HSMCentre",
+					"name": "Health Services Management Centre (HSMC)",
+					"id": 1542789288,
+					"id_str": "1542789288",
+					"indices": [
+						67,
+						78
+					]
+				},
+				{
+					"screen_name": "jlcooperbham",
+					"name": "Jessica Cooper",
+					"id": 920957338776997900,
+					"id_str": "920957338776997888",
+					"indices": [
+						168,
+						181
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1552610077374390300,
+		"in_reply_to_status_id_str": "1552610077374390272",
+		"in_reply_to_user_id": 2491574618,
+		"in_reply_to_user_id_str": "2491574618",
+		"in_reply_to_screen_name": "DrRossMillar",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | #DigitalAHP | Proudly Leading @UHDB_AFN | Governor @UHDBtrust @suaupdates | Studying @_HSMCentre | Proff. Com. @theCSP | 📥 Open",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3306,
+			"friends_count": 4606,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26681,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrRossMillar @_HSMCentre @BWCHBoss @jlcooperbham Excellent stuff! @_HSMCentre has such a rich history and great links throughout healthcare this makes a lot of sense! @jlcooperbham you will be getting a follow 🤩."
+	},
+	{
 		"created_at": "Wed Jul 27 17:17:20 +0000 2022",
 		"id": 1552342386264707000,
 		"id_str": "1552342386264707073",
@@ -142,7 +629,7 @@ Grailbird.data.tweets_2022_07 =
 				"name": "✨Charlie✨",
 				"screen_name": "harlotan",
 				"location": "London, innit",
-				"description": "just a gal whose hobbies are eating nice things and rummaging through trash. definitely a real human doctor & not 3 raccoons in a trenchcoat.\n\n(she/her) 🏳️‍🌈",
+				"description": "just a gal whose hobbies are eating nice things and rummaging through trash. definitely a real human doctor & not 3 raccoons in a trenchcoat.\n\n(she/her) 🏳️🌈",
 				"url": null,
 				"entities": {
 					"description": {
