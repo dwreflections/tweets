@@ -1,6 +1,534 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 29 19:21:18 +0000 2022",
+		"id": 1552985783560200200,
+		"id_str": "1553098357689749505",
+		"full_text": "NEW!\n\nDigital competency: a survey of UK allied health professionals\n\nThe results of our UK-wide national AHP survey into digital knowledge and skills have now been published @bjhcm \n\nhttps://t.co/1o0Br2iMVn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bjhcm",
+					"name": "British Journal of Healthcare Management",
+					"id": 55570165,
+					"id_str": "55570165",
+					"indices": [
+						175,
+						181
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/1o0Br2iMVn",
+					"expanded_url": "https://www.magonlinelibrary.com/doi/abs/10.12968/bjhc.2021.0123",
+					"display_url": "magonlinelibrary.com/doi/abs/10.129…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1141015266844958700,
+			"id_str": "1141015266844958720",
+			"name": "DigitalAHP 💙",
+			"screen_name": "DigitalAhp",
+			"location": "London, England",
+			"description": "@allpowersphysio Chris Tack, AHP Information Officer @gsttnhs. Topol Fellow Alumni cohort 1. Co-Chair London AHP Informatics & Digital Network @WeAreLAIDN",
+			"url": "https://t.co/pIwPDlW9Qf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pIwPDlW9Qf",
+							"expanded_url": "https://digitalahp.wordpress.com/",
+							"display_url": "digitalahp.wordpress.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2624,
+			"friends_count": 2548,
+			"listed_count": 12,
+			"created_at": "Tue Jun 18 16:10:13 +0000 2019",
+			"favourites_count": 2766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7984,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1183078346772500480/f4SKQ2ue_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1183078346772500480/f4SKQ2ue_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1141015266844958720/1562786842",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 15,
+		"favorite_count": 31,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW!\n\nDigital competency: a survey of UK allied health professionals\n\nThe results of our UK-wide national AHP survey into digital knowledge and skills have now been published @bjhcm \n\nhttps://t.co/1o0Br2iMVn"
+	},
+	{
+		"created_at": "Fri Jul 29 18:17:17 +0000 2022",
+		"id": 1553082249377104000,
+		"id_str": "1553082249377103872",
+		"full_text": "@PhilBoltonRN Congrats Phil! Hard work paying off!! 💪",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PhilBoltonRN",
+					"name": "Phil Bolton",
+					"id": 1188076842726690800,
+					"id_str": "1188076842726690817",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1553076512127127600,
+		"in_reply_to_status_id_str": "1553076512127127554",
+		"in_reply_to_user_id": 1188076842726690800,
+		"in_reply_to_user_id_str": "1188076842726690817",
+		"in_reply_to_screen_name": "PhilBoltonRN",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | #DigitalAHP | Proudly Leading @UHDB_AFN | Governor @UHDBtrust @suaupdates | Studying @_HSMCentre | Proff. Com. @theCSP | 📥 Open",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3308,
+			"friends_count": 4612,
+			"listed_count": 20,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26697,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8445,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@PhilBoltonRN Congrats Phil! Hard work paying off!! 💪"
+	},
+	{
+		"created_at": "Fri Jul 29 17:15:04 +0000 2022",
+		"id": 1552957467499307000,
+		"id_str": "1553066592598216712",
+		"full_text": "As the Commonwealth Games kick off, we want to celebrate our NHS colleagues who have represented their country in sport this year — including Paediatric Physiotherapist Kelly, who competed in the Invictus Games, winning four silver and two bronze medals. ⬇️ https://t.co/qxQhcPYISq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1552951005423308800,
+					"id_str": "1552951005423308802",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/FY0wtifXkAIJPMM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FY0wtifXkAIJPMM.jpg",
+					"url": "https://t.co/qxQhcPYISq",
+					"display_url": "pic.twitter.com/qxQhcPYISq",
+					"expanded_url": "https://twitter.com/NHSEngland/status/1552957467499307009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 445,
+							"h": 445,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 445,
+							"h": 445,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 445,
+							"h": 445,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1552951005423308800,
+					"id_str": "1552951005423308802",
+					"indices": [
+						258,
+						281
+					],
+					"media_url": "http://pbs.twimg.com/media/FY0wtifXkAIJPMM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FY0wtifXkAIJPMM.jpg",
+					"url": "https://t.co/qxQhcPYISq",
+					"display_url": "pic.twitter.com/qxQhcPYISq",
+					"expanded_url": "https://twitter.com/NHSEngland/status/1552957467499307009/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 445,
+							"h": 445,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 445,
+							"h": 445,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 445,
+							"h": 445,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 551426814,
+			"id_str": "551426814",
+			"name": "NHS England",
+			"screen_name": "NHSEngland",
+			"location": "England",
+			"description": "We lead and support the NHS in England to deliver improved care for patients.",
+			"url": "https://t.co/KcKO4ZdTPf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KcKO4ZdTPf",
+							"expanded_url": "http://www.england.nhs.uk",
+							"display_url": "england.nhs.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 512761,
+			"friends_count": 2548,
+			"listed_count": 2429,
+			"created_at": "Wed Apr 11 21:47:35 +0000 2012",
+			"favourites_count": 20289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 48980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "0072C6",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1326841032143671296/8TOi8q83_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326841032143671296/8TOi8q83_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/551426814/1607709543",
+			"profile_link_color": "A00054",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 233,
+		"favorite_count": 987,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As the Commonwealth Games kick off, we want to celebrate our NHS colleagues who have represented their country in sport this year — including Paediatric Physiotherapist Kelly, who competed in the Invictus Games, winning four silver and two bronze medals. ⬇️ https://t.co/qxQhcPYISq"
+	},
+	{
+		"created_at": "Fri Jul 29 16:04:04 +0000 2022",
+		"id": 1552729857880105000,
+		"id_str": "1553048722115887105",
+		"full_text": "What does it mean for public organisations to be ‘of a place’ and not just ‘in a place’? What’s the difference between ‘thin’ and ‘thick’ trust? New podcast episode with @DrCWilkinsOBE and @RuthRobbo out now: https://t.co/idYjUhb7CR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrCWilkinsOBE",
+					"name": "Carolyn Wilkins OBE",
+					"id": 2152571951,
+					"id_str": "2152571951",
+					"indices": [
+						170,
+						184
+					]
+				},
+				{
+					"screen_name": "RuthRobbo",
+					"name": "Ruth Robertson",
+					"id": 139510284,
+					"id_str": "139510284",
+					"indices": [
+						189,
+						199
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/idYjUhb7CR",
+					"expanded_url": "https://link.chtbl.com/carolyn-wilkins?sid=twitter.launch&utm_medium=social&utm_source=twitter",
+					"display_url": "link.chtbl.com/carolyn-wilkin…",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18045120,
+			"id_str": "18045120",
+			"name": "The King's Fund",
+			"screen_name": "TheKingsFund",
+			"location": "England",
+			"description": "We are an independent charity working to improve health and care in England. Our vision is that the best possible care is available to all.",
+			"url": "https://t.co/S6GscqBCHh",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/S6GscqBCHh",
+							"expanded_url": "http://www.kingsfund.org.uk",
+							"display_url": "kingsfund.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 161183,
+			"friends_count": 11487,
+			"listed_count": 1882,
+			"created_at": "Thu Dec 11 10:36:31 +0000 2008",
+			"favourites_count": 4088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 39694,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000203",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1545410207659982849/7ZlLnu7L_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1545410207659982849/7ZlLnu7L_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18045120/1518192063",
+			"profile_link_color": "009ACF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "91A426",
+			"profile_text_color": "000203",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "What does it mean for public organisations to be ‘of a place’ and not just ‘in a place’? What’s the difference between ‘thin’ and ‘thick’ trust? New podcast episode with @DrCWilkinsOBE and @RuthRobbo out now: https://t.co/idYjUhb7CR"
+	},
+	{
 		"created_at": "Thu Jul 28 20:03:09 +0000 2022",
 		"id": 1552746502803579000,
 		"id_str": "1552746502803578882",
