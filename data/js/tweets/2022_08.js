@@ -1,6 +1,214 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Tue Aug 09 16:36:24 +0000 2022",
+		"id": 1557029086807064600,
+		"id_str": "1557043127675928577",
+		"full_text": "Dont miss this great opportunity to -\n\n✅ Take your clinical career to the next level\n✅ Become part of a Fantastic &amp; Supportive Team\n✅ Transform the Digital Landscape\n✅ Improve patient safety &amp; staff experience\n✅ Access Tech/Digital Trainings\n\nHappy to answer questions! https://t.co/hk7bjpL46u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1557029080775757800,
+					"id_str": "1557029080775757824",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FZutsxCXkAACNMq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZutsxCXkAACNMq.jpg",
+					"url": "https://t.co/hk7bjpL46u",
+					"display_url": "pic.twitter.com/hk7bjpL46u",
+					"expanded_url": "https://twitter.com/aldaricojr/status/1557029086807064577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1133,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 642,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1557029080775757800,
+					"id_str": "1557029080775757824",
+					"indices": [
+						278,
+						301
+					],
+					"media_url": "http://pbs.twimg.com/media/FZutsxCXkAACNMq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FZutsxCXkAACNMq.jpg",
+					"url": "https://t.co/hk7bjpL46u",
+					"display_url": "pic.twitter.com/hk7bjpL46u",
+					"expanded_url": "https://twitter.com/aldaricojr/status/1557029086807064577/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1133,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1284,
+							"h": 1360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 642,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1194609392446058500,
+			"id_str": "1194609392446058497",
+			"name": "Aldarico Jr Velasco",
+			"screen_name": "aldaricojr",
+			"location": "Derby, England",
+			"description": "International Nurse Facilitator at University Hospitals of Derby and Burton NHS Foundation Trust, Digital Nurse Specialist, NHS HEE Topol Digital Fellow 🏳️‍🌈",
+			"url": "https://t.co/OLwAhEsXJs",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OLwAhEsXJs",
+							"expanded_url": "http://www.linkedin.com/in/aldaricojrvelasco",
+							"display_url": "linkedin.com/in/aldaricojrv…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6120,
+			"friends_count": 450,
+			"listed_count": 13,
+			"created_at": "Wed Nov 13 13:34:20 +0000 2019",
+			"favourites_count": 2307,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 840,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1453822353968881675/-M1dJ0AR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1453822353968881675/-M1dJ0AR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1194609392446058497/1611335702",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "1f592b82aea688ff",
+			"url": "https://api.twitter.com/1.1/geo/id/1f592b82aea688ff.json",
+			"place_type": "city",
+			"name": "Derby",
+			"full_name": "Derby, England",
+			"country_code": "GB",
+			"country": "United Kingdom",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-1.556856,
+							52.870587
+						],
+						[
+							-1.384701,
+							52.870587
+						],
+						[
+							-1.384701,
+							52.960473
+						],
+						[
+							-1.556856,
+							52.960473
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Dont miss this great opportunity to -\n\n✅ Take your clinical career to the next level\n✅ Become part of a Fantastic &amp; Supportive Team\n✅ Transform the Digital Landscape\n✅ Improve patient safety &amp; staff experience\n✅ Access Tech/Digital Trainings\n\nHappy to answer questions! https://t.co/hk7bjpL46u"
+	},
+	{
 		"created_at": "Mon Aug 08 16:25:43 +0000 2022",
 		"id": 1556678050204491800,
 		"id_str": "1556678050204491777",
