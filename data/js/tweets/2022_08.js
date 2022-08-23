@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Mon Aug 22 13:31:25 +0000 2022",
+		"id": 1561603553772404700,
+		"id_str": "1561707616052576256",
+		"full_text": "It is the Feast of St Guinefort, the only dog saint. He was a greyhound who gave his life protecting his master’s baby son. Local people started coming to his grave then shrine to seek cures for sick children. The church tried to suppress this but it lasted into the 1940s. https://t.co/o59A08k1CC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1561603550500855800,
+					"id_str": "1561603550500855812",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FavuJ8uXoAQqQJ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FavuJ8uXoAQqQJ4.jpg",
+					"url": "https://t.co/o59A08k1CC",
+					"display_url": "pic.twitter.com/o59A08k1CC",
+					"expanded_url": "https://twitter.com/RevRichardColes/status/1561603553772404738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 266,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 266,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 266,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1561603550500855800,
+					"id_str": "1561603550500855812",
+					"indices": [
+						274,
+						297
+					],
+					"media_url": "http://pbs.twimg.com/media/FavuJ8uXoAQqQJ4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FavuJ8uXoAQqQJ4.jpg",
+					"url": "https://t.co/o59A08k1CC",
+					"display_url": "pic.twitter.com/o59A08k1CC",
+					"expanded_url": "https://twitter.com/RevRichardColes/status/1561603553772404738/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 266,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 266,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 266,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 270459817,
+			"id_str": "270459817",
+			"name": "Richard Coles",
+			"screen_name": "RevRichardColes",
+			"location": "",
+			"description": "Former Communard, co-presenter of Saturday Live, Chancellor of the University of Northampton, retired parson. Please don’t shout at me.",
+			"url": "https://t.co/a6cNXkWJtl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/a6cNXkWJtl",
+							"expanded_url": "http://www.richardcoles.com",
+							"display_url": "richardcoles.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 503746,
+			"friends_count": 3223,
+			"listed_count": 1183,
+			"created_at": "Tue Mar 22 17:19:11 +0000 2011",
+			"favourites_count": 8751,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 188873,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/807500644957437952/TKjsiWC8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/807500644957437952/TKjsiWC8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/270459817/1481358004",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1085,
+		"favorite_count": 6965,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It is the Feast of St Guinefort, the only dog saint. He was a greyhound who gave his life protecting his master’s baby son. Local people started coming to his grave then shrine to seek cures for sick children. The church tried to suppress this but it lasted into the 1940s. https://t.co/o59A08k1CC"
+	},
+	{
 		"created_at": "Sun Aug 21 13:30:34 +0000 2022",
 		"id": 1561345012868186000,
 		"id_str": "1561345012868186112",
