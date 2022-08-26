@@ -1,6 +1,311 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Thu Aug 25 21:15:43 +0000 2022",
+		"id": 1562911626546004000,
+		"id_str": "1562911626546003968",
+		"full_text": "@campbellclaret @RestIsPolitics @RoryStewartUK Did anyone catch the books Alastair and Rory recommended at the end of the pod?\n\nIs there an updated/live reading list - @RestIsPolitics ?",
+		"truncated": false,
+		"display_text_range": [
+			47,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "campbellclaret",
+					"name": "ALASTAIR CAMPBELL",
+					"id": 19644592,
+					"id_str": "19644592",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "RestIsPolitics",
+					"name": "The Rest Is Politics",
+					"id": 1493610230353211400,
+					"id_str": "1493610230353211394",
+					"indices": [
+						16,
+						31
+					]
+				},
+				{
+					"screen_name": "RoryStewartUK",
+					"name": "Rory Stewart",
+					"id": 131926473,
+					"id_str": "131926473",
+					"indices": [
+						32,
+						46
+					]
+				},
+				{
+					"screen_name": "RestIsPolitics",
+					"name": "The Rest Is Politics",
+					"id": 1493610230353211400,
+					"id_str": "1493610230353211394",
+					"indices": [
+						168,
+						183
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1562703579643003000,
+		"in_reply_to_status_id_str": "1562703579643002880",
+		"in_reply_to_user_id": 19644592,
+		"in_reply_to_user_id_str": "19644592",
+		"in_reply_to_screen_name": "campbellclaret",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | #DigitalAHP | Proudly Leading @UHDB_AFN | Governor @UHDBtrust @suaupdates | Studying @_HSMCentre | Proff. Com. @theCSP | 📥 Open",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3319,
+			"friends_count": 4640,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8504,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@campbellclaret @RestIsPolitics @RoryStewartUK Did anyone catch the books Alastair and Rory recommended at the end of the pod?\n\nIs there an updated/live reading list - @RestIsPolitics ?"
+	},
+	{
+		"created_at": "Thu Aug 25 08:55:45 +0000 2022",
+		"id": 1562332630502506500,
+		"id_str": "1562725405584674818",
+		"full_text": "NEW PODCAST EPISODE: How can we support more clinicians to manage the NHS, and learn from those who already do it well?\n\n@JenniferTHF is joined by @espritdeswensen (@TheIHI &amp;\n@MayoClinic) and @DrDominiqueAllw (@UCLPartners) to discuss.\n\nLISTEN NOW 🎧\nhttps://t.co/zucQz0434g",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JenniferTHF",
+					"name": "Jennifer Dixon",
+					"id": 1962320852,
+					"id_str": "1962320852",
+					"indices": [
+						121,
+						133
+					]
+				},
+				{
+					"screen_name": "espritdeswensen",
+					"name": "Stephen Swensen, MD",
+					"id": 1059870070896291800,
+					"id_str": "1059870070896291842",
+					"indices": [
+						147,
+						163
+					]
+				},
+				{
+					"screen_name": "TheIHI",
+					"name": "Institute for Healthcare Improvement (IHI)",
+					"id": 128884885,
+					"id_str": "128884885",
+					"indices": [
+						165,
+						172
+					]
+				},
+				{
+					"screen_name": "MayoClinic",
+					"name": "Mayo Clinic",
+					"id": 14592723,
+					"id_str": "14592723",
+					"indices": [
+						179,
+						190
+					]
+				},
+				{
+					"screen_name": "DrDominiqueAllw",
+					"name": "DrDominiqueAllwood",
+					"id": 730984789,
+					"id_str": "730984789",
+					"indices": [
+						196,
+						212
+					]
+				},
+				{
+					"screen_name": "UCLPartners",
+					"name": "UCLPartners",
+					"id": 1193139529,
+					"id_str": "1193139529",
+					"indices": [
+						214,
+						226
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zucQz0434g",
+					"expanded_url": "https://www.health.org.uk/news-and-comment/podcast/episode%2023-from-white-coat-to-grey-suit-should-more-clinicians-manage-the-nhs-with-dr-stephen-swensen-and-dr-dominique-allwood",
+					"display_url": "health.org.uk/news-and-comme…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://www.falcon.io\" rel=\"nofollow\">Brandwatch</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 130108575,
+			"id_str": "130108575",
+			"name": "The Health Foundation",
+			"screen_name": "HealthFdn",
+			"location": "London, UK",
+			"description": "The Health Foundation is an independent charity committed to bringing about better health and health care for people in the UK.",
+			"url": "https://t.co/z5ywUe1tvw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/z5ywUe1tvw",
+							"expanded_url": "http://health.org.uk",
+							"display_url": "health.org.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 102140,
+			"friends_count": 7474,
+			"listed_count": 1062,
+			"created_at": "Tue Apr 06 09:57:29 +0000 2010",
+			"favourites_count": 20249,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/928227918693765121/MIA6Mv2s_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/928227918693765121/MIA6Mv2s_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/130108575/1581687341",
+			"profile_link_color": "ED1750",
+			"profile_sidebar_border_color": "F6A2B7",
+			"profile_sidebar_fill_color": "F6A2B7",
+			"profile_text_color": "030003",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 18,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NEW PODCAST EPISODE: How can we support more clinicians to manage the NHS, and learn from those who already do it well?\n\n@JenniferTHF is joined by @espritdeswensen (@TheIHI &amp;\n@MayoClinic) and @DrDominiqueAllw (@UCLPartners) to discuss.\n\nLISTEN NOW 🎧\nhttps://t.co/zucQz0434g"
+	},
+	{
 		"created_at": "Wed Aug 24 21:02:58 +0000 2022",
 		"id": 1562546027093463000,
 		"id_str": "1562546027093463040",
