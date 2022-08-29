@@ -1,6 +1,153 @@
 Grailbird.data.tweets_2022_08 = 
 [
 	{
+		"created_at": "Sun Aug 28 07:24:05 +0000 2022",
+		"id": 1563789499624296400,
+		"id_str": "1563789499624296448",
+		"full_text": "@EdNawoor @CrossFit @RogueFitness @stevenawoor @CrossFitGames If Ed can: I can! You have just gave me that extra motivation to get out of the house [🏃‍♂️]. Best of luck in Amsterdam 💪.",
+		"truncated": false,
+		"display_text_range": [
+			62,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EdNawoor",
+					"name": "Ed Nawoor",
+					"id": 1347650454050771000,
+					"id_str": "1347650454050770946",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "CrossFit",
+					"name": "CrossFit",
+					"id": 834281252,
+					"id_str": "834281252",
+					"indices": [
+						10,
+						19
+					]
+				},
+				{
+					"screen_name": "RogueFitness",
+					"name": "Rogue Fitness",
+					"id": 19458230,
+					"id_str": "19458230",
+					"indices": [
+						20,
+						33
+					]
+				},
+				{
+					"screen_name": "stevenawoor",
+					"name": "Steve Nawoor",
+					"id": 91512796,
+					"id_str": "91512796",
+					"indices": [
+						34,
+						46
+					]
+				},
+				{
+					"screen_name": "CrossFitGames",
+					"name": "The CrossFit Games",
+					"id": 87809737,
+					"id_str": "87809737",
+					"indices": [
+						47,
+						61
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1563783804090728400,
+		"in_reply_to_status_id_str": "1563783804090728448",
+		"in_reply_to_user_id": 1347650454050771000,
+		"in_reply_to_user_id_str": "1347650454050770946",
+		"in_reply_to_screen_name": "EdNawoor",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "Physio ➡️ Digital Health Care | #DigitalAHP | Proudly Leading @UHDB_AFN | Governor @UHDBtrust @suaupdates | Studying @_HSMCentre | Proff. Com. @theCSP | 📥 Open",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3319,
+			"friends_count": 4640,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26873,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EdNawoor @CrossFit @RogueFitness @stevenawoor @CrossFitGames If Ed can: I can! You have just gave me that extra motivation to get out of the house [🏃‍♂️]. Best of luck in Amsterdam 💪."
+	},
+	{
 		"created_at": "Sat Aug 27 08:58:54 +0000 2022",
 		"id": 1563450975192461300,
 		"id_str": "1563450975192461315",
