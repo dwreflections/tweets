@@ -1,6 +1,258 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 03 18:02:22 +0000 2022",
+		"id": 1566124459119071200,
+		"id_str": "1566124459119071232",
+		"full_text": "@Shaun_LDNurse @chase_pride You missed out the main result of the day! 🥰🥈 \n\nA great afternoon had by all!! @chase_pride @gthallgreen https://t.co/v94oRz7Rz4",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Shaun_LDNurse",
+					"name": "Shaun Williams #FairPayForNursing",
+					"id": 901055791515435000,
+					"id_str": "901055791515435008",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "chase_pride",
+					"name": "Chase Pride",
+					"id": 1179802853562556400,
+					"id_str": "1179802853562556417",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"screen_name": "chase_pride",
+					"name": "Chase Pride",
+					"id": 1179802853562556400,
+					"id_str": "1179802853562556417",
+					"indices": [
+						107,
+						119
+					]
+				},
+				{
+					"screen_name": "gthallgreen",
+					"name": "Greyhound Trust HG",
+					"id": 345407613,
+					"id_str": "345407613",
+					"indices": [
+						120,
+						132
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1566124447232409600,
+					"id_str": "1566124447232409602",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbv94xdXwAID3lo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbv94xdXwAID3lo.jpg",
+					"url": "https://t.co/v94oRz7Rz4",
+					"display_url": "pic.twitter.com/v94oRz7Rz4",
+					"expanded_url": "https://twitter.com/beardedPT/status/1566124459119071232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1566124447232409600,
+					"id_str": "1566124447232409602",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbv94xdXwAID3lo.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbv94xdXwAID3lo.jpg",
+					"url": "https://t.co/v94oRz7Rz4",
+					"display_url": "pic.twitter.com/v94oRz7Rz4",
+					"expanded_url": "https://twitter.com/beardedPT/status/1566124459119071232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1566124447181979600,
+					"id_str": "1566124447181979649",
+					"indices": [
+						133,
+						156
+					],
+					"media_url": "http://pbs.twimg.com/media/Fbv94xRWQAEbIUN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fbv94xRWQAEbIUN.jpg",
+					"url": "https://t.co/v94oRz7Rz4",
+					"display_url": "pic.twitter.com/v94oRz7Rz4",
+					"expanded_url": "https://twitter.com/beardedPT/status/1566124459119071232/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1566101903938928600,
+		"in_reply_to_status_id_str": "1566101903938928641",
+		"in_reply_to_user_id": 901055791515435000,
+		"in_reply_to_user_id_str": "901055791515435008",
+		"in_reply_to_screen_name": "Shaun_LDNurse",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | #DigitalAHP | Physiotherapist | Proudly Leading @UHDB_AFN | Governor @UHDBtrust",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3326,
+			"friends_count": 4647,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26909,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8525,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Shaun_LDNurse @chase_pride You missed out the main result of the day! 🥰🥈 \n\nA great afternoon had by all!! @chase_pride @gthallgreen https://t.co/v94oRz7Rz4"
+	},
+	{
 		"created_at": "Fri Sep 02 20:41:11 +0000 2022",
 		"id": 1565802036523835400,
 		"id_str": "1565802036523835394",
