@@ -1,6 +1,455 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 07 21:56:38 +0000 2022",
+		"id": 1567632964401389600,
+		"id_str": "1567632964401389568",
+		"full_text": "@kingsbury_ollie Occupation hazard! https://t.co/wGQQ8IUhA8",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kingsbury_ollie",
+					"name": "Ollie Kingsbury",
+					"id": 1048198697274814500,
+					"id_str": "1048198697274814464",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567632959158603800,
+					"id_str": "1567632959158603776",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/FcFZ3uTX0AAQaW9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcFZ3uTX0AAQaW9.jpg",
+					"url": "https://t.co/wGQQ8IUhA8",
+					"display_url": "pic.twitter.com/wGQQ8IUhA8",
+					"expanded_url": "https://twitter.com/beardedPT/status/1567632964401389568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567632959158603800,
+					"id_str": "1567632959158603776",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/FcFZ3uTX0AAQaW9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcFZ3uTX0AAQaW9.jpg",
+					"url": "https://t.co/wGQQ8IUhA8",
+					"display_url": "pic.twitter.com/wGQQ8IUhA8",
+					"expanded_url": "https://twitter.com/beardedPT/status/1567632964401389568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1152,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1567631573792481300,
+		"in_reply_to_status_id_str": "1567631573792481280",
+		"in_reply_to_user_id": 1048198697274814500,
+		"in_reply_to_user_id_str": "1048198697274814464",
+		"in_reply_to_screen_name": "kingsbury_ollie",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | #DigitalAHP | Physiotherapist | Proudly Leading @UHDB_AFN | Governor @UHDBtrust",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3332,
+			"friends_count": 4660,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8529,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "@kingsbury_ollie Occupation hazard! https://t.co/wGQQ8IUhA8"
+	},
+	{
+		"created_at": "Wed Sep 07 21:22:38 +0000 2022",
+		"id": 1567427795348775000,
+		"id_str": "1567624407333457922",
+		"full_text": "♦️If you are a healthcare professional working with veterans, please consider completing this short survey♦️@drdanbarnard @jonathanleach13 @NurseDiane2020 @JukesyJo @theripplepond @GemmaCBT @ForwardAssist1 @SussexAFN @KFiMSheffMind https://t.co/2GIPQ0gfum https://t.co/hB7MGJbY3a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "drdanbarnard",
+					"name": "Dan Barnard",
+					"id": 3940015282,
+					"id_str": "3940015282",
+					"indices": [
+						108,
+						121
+					]
+				},
+				{
+					"screen_name": "jonathanleach13",
+					"name": "Dr Jonathan Leach",
+					"id": 2958605195,
+					"id_str": "2958605195",
+					"indices": [
+						122,
+						138
+					]
+				},
+				{
+					"screen_name": "NurseDiane2020",
+					"name": "Diane Palmer - Awarded ‘Nurse of the Year 2022’",
+					"id": 1179166142281195500,
+					"id_str": "1179166142281195521",
+					"indices": [
+						139,
+						154
+					]
+				},
+				{
+					"screen_name": "JukesyJo",
+					"name": "Jo Jukes",
+					"id": 1054688677685813200,
+					"id_str": "1054688677685813248",
+					"indices": [
+						155,
+						164
+					]
+				},
+				{
+					"screen_name": "theripplepond",
+					"name": "The Ripple Pond",
+					"id": 956130829,
+					"id_str": "956130829",
+					"indices": [
+						165,
+						179
+					]
+				},
+				{
+					"screen_name": "GemmaCBT",
+					"name": "Gemma CBT",
+					"id": 1503121683334451200,
+					"id_str": "1503121683334451205",
+					"indices": [
+						180,
+						189
+					]
+				},
+				{
+					"screen_name": "ForwardAssist1",
+					"name": "Forward Assist: Charity No. 1150408",
+					"id": 1374457524,
+					"id_str": "1374457524",
+					"indices": [
+						190,
+						205
+					]
+				},
+				{
+					"screen_name": "SussexAFN",
+					"name": "NHS Armed Forces Network (Sussex, Kent & Medway)",
+					"id": 731465750892924900,
+					"id_str": "731465750892924928",
+					"indices": [
+						206,
+						216
+					]
+				},
+				{
+					"screen_name": "KFiMSheffMind",
+					"name": "Keeping Families in Mind",
+					"id": 1097804981875421200,
+					"id_str": "1097804981875421184",
+					"indices": [
+						217,
+						231
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2GIPQ0gfum",
+					"expanded_url": "https://chester.onlinesurveys.ac.uk/perspectives-of-healthcare-professionals-working-with-vete-2",
+					"display_url": "chester.onlinesurveys.ac.uk/perspectives-o…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1567427785152503800,
+					"id_str": "1567427785152503808",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/FcCfRBkXoAAMm3o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcCfRBkXoAAMm3o.jpg",
+					"url": "https://t.co/hB7MGJbY3a",
+					"display_url": "pic.twitter.com/hB7MGJbY3a",
+					"expanded_url": "https://twitter.com/_Kate_Salem/status/1567427795348774912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 860,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1169,
+							"h": 1632,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 487,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567427785152503800,
+					"id_str": "1567427785152503808",
+					"indices": [
+						256,
+						279
+					],
+					"media_url": "http://pbs.twimg.com/media/FcCfRBkXoAAMm3o.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcCfRBkXoAAMm3o.jpg",
+					"url": "https://t.co/hB7MGJbY3a",
+					"display_url": "pic.twitter.com/hB7MGJbY3a",
+					"expanded_url": "https://twitter.com/_Kate_Salem/status/1567427795348774912/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 860,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1169,
+							"h": 1632,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 487,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 884510068871508000,
+			"id_str": "884510068871507970",
+			"name": "Kate Salem",
+			"screen_name": "_Kate_Salem",
+			"location": "",
+			"description": "Researcher @UoCVeterans | Psychology Learning Facilitator | PhD- MH & help seeking in military families @UoCPsych",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 242,
+			"friends_count": 304,
+			"listed_count": 0,
+			"created_at": "Mon Jul 10 20:30:08 +0000 2017",
+			"favourites_count": 597,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 114,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1246937046192709632/_2fMd6Tf_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1246937046192709632/_2fMd6Tf_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/884510068871507970/1628854436",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 31,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "♦️If you are a healthcare professional working with veterans, please consider completing this short survey♦️@drdanbarnard @jonathanleach13 @NurseDiane2020 @JukesyJo @theripplepond @GemmaCBT @ForwardAssist1 @SussexAFN @KFiMSheffMind https://t.co/2GIPQ0gfum https://t.co/hB7MGJbY3a"
+	},
+	{
 		"created_at": "Sun Sep 04 10:04:27 +0000 2022",
 		"id": 1565984012589568000,
 		"id_str": "1566366574600232961",
