@@ -1,6 +1,909 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 08 17:46:08 +0000 2022",
+		"id": 1567928275913121800,
+		"id_str": "1567932312243044352",
+		"full_text": "The Queen died peacefully at Balmoral this afternoon.\n\nThe King and The Queen Consort will remain at Balmoral this evening and will return to London tomorrow. https://t.co/VfxpXro22W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567927185184268300,
+					"id_str": "1567927185184268288",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FcJld7qWIAA-CUu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcJld7qWIAA-CUu.jpg",
+					"url": "https://t.co/VfxpXro22W",
+					"display_url": "pic.twitter.com/VfxpXro22W",
+					"expanded_url": "https://twitter.com/RoyalFamily/status/1567928275913121792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 1329,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 797,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567927185184268300,
+					"id_str": "1567927185184268288",
+					"indices": [
+						159,
+						182
+					],
+					"media_url": "http://pbs.twimg.com/media/FcJld7qWIAA-CUu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FcJld7qWIAA-CUu.jpg",
+					"url": "https://t.co/VfxpXro22W",
+					"display_url": "pic.twitter.com/VfxpXro22W",
+					"expanded_url": "https://twitter.com/RoyalFamily/status/1567928275913121792/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 2000,
+							"h": 1329,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 797,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 36042554,
+			"id_str": "36042554",
+			"name": "The Royal Family",
+			"screen_name": "RoyalFamily",
+			"location": "United Kingdom",
+			"description": "Official account of The Royal Family. Please visit our website for the latest updates.",
+			"url": "https://t.co/vi7yfrg3iw",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/vi7yfrg3iw",
+							"expanded_url": "http://www.royal.uk",
+							"display_url": "royal.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5288792,
+			"friends_count": 459,
+			"listed_count": 10216,
+			"created_at": "Tue Apr 28 11:31:02 +0000 2009",
+			"favourites_count": 3148,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 37074,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "632B36",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1567928830379102210/pVyHeMVb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1567928830379102210/pVyHeMVb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/36042554/1662658234",
+			"profile_link_color": "0089B3",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 674194,
+		"favorite_count": 2198805,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Queen died peacefully at Balmoral this afternoon.\n\nThe King and The Queen Consort will remain at Balmoral this evening and will return to London tomorrow. https://t.co/VfxpXro22W"
+	},
+	{
+		"created_at": "Thu Sep 08 16:03:17 +0000 2022",
+		"id": 1567906429457076200,
+		"id_str": "1567906429457076226",
+		"full_text": "Give Ryan a follow on #WorldPhysiotherapyDay ⬇️ https://t.co/STP7l7QzGU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorldPhysiotherapyDay",
+					"indices": [
+						22,
+						44
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/STP7l7QzGU",
+					"expanded_url": "https://twitter.com/ryandeakinahp/status/1567903060743127042",
+					"display_url": "twitter.com/ryandeakinahp/…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | #DigitalAHP | Physiotherapist | Proudly Leading @UHDB_AFN | Governor @UHDBtrust",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3333,
+			"friends_count": 4662,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1567903060743127000,
+		"quoted_status_id_str": "1567903060743127042",
+		"quoted_status_permalink": {
+			"url": "https://t.co/STP7l7QzGU",
+			"expanded": "https://twitter.com/ryandeakinahp/status/1567903060743127042",
+			"display": "twitter.com/ryandeakinahp/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 08 15:49:54 +0000 2022",
+			"id": 1567903060743127000,
+			"id_str": "1567903060743127042",
+			"full_text": "New to the 🌎 of Twitter from a work perspective and I’m definitely not a seasoned tweeter, but keen to explore this avenue further and make connections along the way, especially in my new role as a NHSE clinical leadership fellow. More about me here https://t.co/dUlCZjePdr 🕺",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/dUlCZjePdr",
+						"expanded_url": "https://www.fmlm.ac.uk/ryan-deakin",
+						"display_url": "fmlm.ac.uk/ryan-deakin",
+						"indices": [
+							250,
+							273
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1565343368250400800,
+				"id_str": "1565343368250400768",
+				"name": "Ryan Deakin",
+				"screen_name": "RyanDeakinAHP",
+				"location": "Birmingham, England",
+				"description": "NHS Regional Clinical Leadership Fellow 2022-23. Midlands. Allied Health Professional. Known to dabble in physio @BWC_NHS",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 20,
+				"friends_count": 26,
+				"listed_count": 0,
+				"created_at": "Thu Sep 01 14:18:52 +0000 2022",
+				"favourites_count": 3,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1565343702565801989/HPN_zC4D_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1565343702565801989/HPN_zC4D_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Give Ryan a follow on #WorldPhysiotherapyDay ⬇️ https://t.co/STP7l7QzGU"
+	},
+	{
+		"created_at": "Thu Sep 08 16:00:49 +0000 2022",
+		"id": 1567760123073806300,
+		"id_str": "1567905809333456898",
+		"full_text": "Today is world physiotherapy day. A huge shout out to physiotherapists around the world who work hard to put a smile on those we work with. Personally this wonderful profession gave me a life and helped me escape poverty. \n@WorldPhysio1951 @thecsp \n#WorldPTDay #worldPTday2022 https://t.co/AWKM30YPSs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WorldPTDay",
+					"indices": [
+						249,
+						260
+					]
+				},
+				{
+					"text": "worldPTday2022",
+					"indices": [
+						261,
+						276
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WorldPhysio1951",
+					"name": "World Physiotherapy",
+					"id": 270306354,
+					"id_str": "270306354",
+					"indices": [
+						223,
+						239
+					]
+				},
+				{
+					"screen_name": "thecsp",
+					"name": "Chartered Society of Physiotherapy",
+					"id": 138098880,
+					"id_str": "138098880",
+					"indices": [
+						240,
+						247
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567760120481726500,
+					"id_str": "1567760120481726465",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHNhfJWQAEwY1n.png",
+					"media_url_https": "https://pbs.twimg.com/media/FcHNhfJWQAEwY1n.png",
+					"url": "https://t.co/AWKM30YPSs",
+					"display_url": "pic.twitter.com/AWKM30YPSs",
+					"expanded_url": "https://twitter.com/Srikesavan/status/1567760123073806338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567760120481726500,
+					"id_str": "1567760120481726465",
+					"indices": [
+						277,
+						300
+					],
+					"media_url": "http://pbs.twimg.com/media/FcHNhfJWQAEwY1n.png",
+					"media_url_https": "https://pbs.twimg.com/media/FcHNhfJWQAEwY1n.png",
+					"url": "https://t.co/AWKM30YPSs",
+					"display_url": "pic.twitter.com/AWKM30YPSs",
+					"expanded_url": "https://twitter.com/Srikesavan/status/1567760123073806338/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 58153048,
+			"id_str": "58153048",
+			"name": "(Sri)kesavan Sabapathy",
+			"screen_name": "Srikesavan",
+			"location": "Oxford, England",
+			"description": "Physiotherapist in Commissioning.  Father to a son with Learning Disabilities. LFC fan for life. All views my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 793,
+			"friends_count": 1236,
+			"listed_count": 2,
+			"created_at": "Sun Jul 19 07:59:30 +0000 2009",
+			"favourites_count": 4467,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1167343140384235520/c7dHmvEj_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1167343140384235520/c7dHmvEj_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/58153048/1634481721",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 43,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today is world physiotherapy day. A huge shout out to physiotherapists around the world who work hard to put a smile on those we work with. Personally this wonderful profession gave me a life and helped me escape poverty. \n@WorldPhysio1951 @thecsp \n#WorldPTDay #worldPTday2022 https://t.co/AWKM30YPSs"
+	},
+	{
+		"created_at": "Thu Sep 08 16:00:31 +0000 2022",
+		"id": 1567905733894877200,
+		"id_str": "1567905733894877184",
+		"full_text": "@debs1_wilson Happy birthday 🥳🥂 https://t.co/siQZLl6AMz",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			31
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "debs1_wilson",
+					"name": "Deborah Wilson💙",
+					"id": 3115697217,
+					"id_str": "3115697217",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1567905726122655700,
+					"id_str": "1567905726122655747",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FcJR82bXgAMmttS.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FcJR82bXgAMmttS.jpg",
+					"url": "https://t.co/siQZLl6AMz",
+					"display_url": "pic.twitter.com/siQZLl6AMz",
+					"expanded_url": "https://twitter.com/beardedPT/status/1567905733894877184/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1567905726122655700,
+					"id_str": "1567905726122655747",
+					"indices": [
+						32,
+						55
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FcJR82bXgAMmttS.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FcJR82bXgAMmttS.jpg",
+					"url": "https://t.co/siQZLl6AMz",
+					"display_url": "pic.twitter.com/siQZLl6AMz",
+					"expanded_url": "https://twitter.com/beardedPT/status/1567905733894877184/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 480,
+							"h": 400,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							6,
+							5
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FcJR82bXgAMmttS.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1567794807229059000,
+		"in_reply_to_status_id_str": "1567794807229059074",
+		"in_reply_to_user_id": 3115697217,
+		"in_reply_to_user_id_str": "3115697217",
+		"in_reply_to_screen_name": "debs1_wilson",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | #DigitalAHP | Physiotherapist | Proudly Leading @UHDB_AFN | Governor @UHDBtrust",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3333,
+			"friends_count": 4662,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@debs1_wilson Happy birthday 🥳🥂 https://t.co/siQZLl6AMz"
+	},
+	{
+		"created_at": "Thu Sep 08 15:59:31 +0000 2022",
+		"id": 1567905481368248300,
+		"id_str": "1567905481368248320",
+		"full_text": "@UniofHerts @NHSLeader Huge congrats! 👏",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UniofHerts",
+					"name": "University of Hertfordshire",
+					"id": 78887411,
+					"id_str": "78887411",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "NHSLeader",
+					"name": "Rachael Moses",
+					"id": 107548705,
+					"id_str": "107548705",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1567802017325764600,
+		"in_reply_to_status_id_str": "1567802017325764608",
+		"in_reply_to_user_id": 78887411,
+		"in_reply_to_user_id_str": "78887411",
+		"in_reply_to_screen_name": "UniofHerts",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | #DigitalAHP | Physiotherapist | Proudly Leading @UHDB_AFN | Governor @UHDBtrust",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3333,
+			"friends_count": 4662,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8535,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1551903467601625088/7m-8hFY9_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@UniofHerts @NHSLeader Huge congrats! 👏"
+	},
+	{
 		"created_at": "Wed Sep 07 21:56:38 +0000 2022",
 		"id": 1567632964401389600,
 		"id_str": "1567632964401389568",
