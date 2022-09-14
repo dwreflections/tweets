@@ -1,6 +1,183 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 13 19:24:27 +0000 2022",
+		"id": 1569768992906313700,
+		"id_str": "1569768992906313728",
+		"full_text": "@becky_ed3 @UHDBTrust @uhdbRespiratory @pearn_grace @SusanRu54536399 @DebsA16 @estranney @UHDBAHPs HUGE congratulations! 👏🥂🙌",
+		"truncated": false,
+		"display_text_range": [
+			99,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "becky_ed3",
+					"name": "Becky Edwards",
+					"id": 1548280353898373000,
+					"id_str": "1548280353898373122",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						11,
+						21
+					]
+				},
+				{
+					"screen_name": "uhdbRespiratory",
+					"name": "Respiratory Unit @ UHDB",
+					"id": 892839123073077200,
+					"id_str": "892839123073077248",
+					"indices": [
+						22,
+						38
+					]
+				},
+				{
+					"screen_name": "pearn_grace",
+					"name": "Grace Pearn",
+					"id": 3337615893,
+					"id_str": "3337615893",
+					"indices": [
+						39,
+						51
+					]
+				},
+				{
+					"screen_name": "SusanRu54536399",
+					"name": "Susan Russell 💙",
+					"id": 872546688321421300,
+					"id_str": "872546688321421312",
+					"indices": [
+						52,
+						68
+					]
+				},
+				{
+					"screen_name": "DebsA16",
+					"name": "Debs A",
+					"id": 1067389689085218800,
+					"id_str": "1067389689085218816",
+					"indices": [
+						69,
+						77
+					]
+				},
+				{
+					"screen_name": "estranney",
+					"name": "Emily Stranney",
+					"id": 993637980,
+					"id_str": "993637980",
+					"indices": [
+						78,
+						88
+					]
+				},
+				{
+					"screen_name": "UHDBAHPs",
+					"name": "UHDBAHPs",
+					"id": 1051752102530338800,
+					"id_str": "1051752102530338816",
+					"indices": [
+						89,
+						98
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1569767178118856700,
+		"in_reply_to_status_id_str": "1569767178118856707",
+		"in_reply_to_user_id": 1548280353898373000,
+		"in_reply_to_user_id_str": "1548280353898373122",
+		"in_reply_to_screen_name": "becky_ed3",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | #DigitalAHP | Physiotherapist | Proudly Leading @UHDB_AFN | Governor @UHDBtrust",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3336,
+			"friends_count": 4658,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26957,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8533,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1568332983165231106/qqYYfKIR_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1568332983165231106/qqYYfKIR_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@becky_ed3 @UHDBTrust @uhdbRespiratory @pearn_grace @SusanRu54536399 @DebsA16 @estranney @UHDBAHPs HUGE congratulations! 👏🥂🙌"
+	},
+	{
 		"created_at": "Thu Sep 08 17:46:08 +0000 2022",
 		"id": 1567928275913121800,
 		"id_str": "1567932312243044352",
