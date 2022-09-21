@@ -1,6 +1,495 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Tue Sep 20 20:45:05 +0000 2022",
+		"id": 1572325998519255000,
+		"id_str": "1572325998519255040",
+		"full_text": "@MushtaqBilalPhD Great twitter threads which I will share with my colleagues.\n\nHave you successfully used WebDAV to extend storage? If so, what service did you use? Or, have you just used Zotero subscriber model?",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MushtaqBilalPhD",
+					"name": "Mushtaq Bilal, PhD",
+					"id": 1513235298192437200,
+					"id_str": "1513235298192437262",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1570644616868929500,
+		"in_reply_to_status_id_str": "1570644616868929536",
+		"in_reply_to_user_id": 1513235298192437200,
+		"in_reply_to_user_id_str": "1513235298192437262",
+		"in_reply_to_screen_name": "MushtaqBilalPhD",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | #DigitalAHP | Physiotherapist | Proudly Leading @UHDB_AFN | Governor @UHDBtrust",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3335,
+			"friends_count": 4662,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MushtaqBilalPhD Great twitter threads which I will share with my colleagues.\n\nHave you successfully used WebDAV to extend storage? If so, what service did you use? Or, have you just used Zotero subscriber model?"
+	},
+	{
+		"created_at": "Tue Sep 20 11:38:12 +0000 2022",
+		"id": 1572188373057679400,
+		"id_str": "1572188373057679360",
+		"full_text": "@LRitalin @RestIsPolitics @campbellclaret @RoryStewartUK @TheRestHistory Come on @GoalhangerPods !",
+		"truncated": false,
+		"display_text_range": [
+			73,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LRitalin",
+					"name": "Louder Than Ritalin",
+					"id": 1172121276602880000,
+					"id_str": "1172121276602880000",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "RestIsPolitics",
+					"name": "The Rest Is Politics",
+					"id": 1493610230353211400,
+					"id_str": "1493610230353211394",
+					"indices": [
+						10,
+						25
+					]
+				},
+				{
+					"screen_name": "campbellclaret",
+					"name": "ALASTAIR CAMPBELL",
+					"id": 19644592,
+					"id_str": "19644592",
+					"indices": [
+						26,
+						41
+					]
+				},
+				{
+					"screen_name": "RoryStewartUK",
+					"name": "Rory Stewart",
+					"id": 131926473,
+					"id_str": "131926473",
+					"indices": [
+						42,
+						56
+					]
+				},
+				{
+					"screen_name": "TheRestHistory",
+					"name": "The Rest Is History",
+					"id": 1323256515151745000,
+					"id_str": "1323256515151745024",
+					"indices": [
+						57,
+						72
+					]
+				},
+				{
+					"screen_name": "GoalhangerPods",
+					"name": "Goalhanger Podcasts",
+					"id": 1504158011270606800,
+					"id_str": "1504158011270606858",
+					"indices": [
+						81,
+						96
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1572176455131332600,
+		"in_reply_to_status_id_str": "1572176455131332609",
+		"in_reply_to_user_id": 1172121276602880000,
+		"in_reply_to_user_id_str": "1172121276602880000",
+		"in_reply_to_screen_name": "LRitalin",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | #DigitalAHP | Physiotherapist | Proudly Leading @UHDB_AFN | Governor @UHDBtrust",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3335,
+			"friends_count": 4662,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26984,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8538,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LRitalin @RestIsPolitics @campbellclaret @RoryStewartUK @TheRestHistory Come on @GoalhangerPods !"
+	},
+	{
+		"created_at": "Tue Sep 20 11:37:34 +0000 2022",
+		"id": 1572150575537729500,
+		"id_str": "1572188213414096899",
+		"full_text": "TRIP bookshelf 📚 \n\nLitalist have kindly made an interactive online bookshelf of all the books @campbellclaret + @RoryStewartUK mention on the podcast!\n\nBy clicking on each book, it tells you where your nearest independent bookshop is you can buy it from:\n\nhttps://t.co/TwszytCG7y https://t.co/1S3DP6jvpz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "campbellclaret",
+					"name": "ALASTAIR CAMPBELL",
+					"id": 19644592,
+					"id_str": "19644592",
+					"indices": [
+						94,
+						109
+					]
+				},
+				{
+					"screen_name": "RoryStewartUK",
+					"name": "Rory Stewart",
+					"id": 131926473,
+					"id_str": "131926473",
+					"indices": [
+						112,
+						126
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/TwszytCG7y",
+					"expanded_url": "http://litalist.com/shelf/view-bookcase?publicId=YTC7UN",
+					"display_url": "litalist.com/shelf/view-boo…",
+					"indices": [
+						256,
+						279
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1572150200268890000,
+					"id_str": "1572150200268890113",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FdFmRwyWIAEy3VL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdFmRwyWIAEy3VL.jpg",
+					"url": "https://t.co/1S3DP6jvpz",
+					"display_url": "pic.twitter.com/1S3DP6jvpz",
+					"expanded_url": "https://twitter.com/RestIsPolitics/status/1572150575537729536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1053,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1142,
+							"h": 1301,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 597,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572150200268890000,
+					"id_str": "1572150200268890113",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/FdFmRwyWIAEy3VL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdFmRwyWIAEy3VL.jpg",
+					"url": "https://t.co/1S3DP6jvpz",
+					"display_url": "pic.twitter.com/1S3DP6jvpz",
+					"expanded_url": "https://twitter.com/RestIsPolitics/status/1572150575537729536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1053,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1142,
+							"h": 1301,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 597,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1493610230353211400,
+			"id_str": "1493610230353211394",
+			"name": "The Rest Is Politics",
+			"screen_name": "RestIsPolitics",
+			"location": "London/Jordan",
+			"description": "Politics podcast with @campbellclaret + @RoryStewartUK \n\nThe Rest Is Politics Plus: https://t.co/maF06NCjhP\n\nhttps://t.co/TTX3EzrNNm\n\nrestispolitics@gmail.com",
+			"url": "https://t.co/E6KiZtCyW9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/E6KiZtCyW9",
+							"expanded_url": "http://goalhangerpodcasts.com",
+							"display_url": "goalhangerpodcasts.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/maF06NCjhP",
+							"expanded_url": "http://therestispolitics.com",
+							"display_url": "therestispolitics.com",
+							"indices": [
+								84,
+								107
+							]
+						},
+						{
+							"url": "https://t.co/TTX3EzrNNm",
+							"expanded_url": "http://linktr.ee/RestIsPolitics",
+							"display_url": "linktr.ee/RestIsPolitics",
+							"indices": [
+								109,
+								132
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 96335,
+			"friends_count": 67,
+			"listed_count": 150,
+			"created_at": "Tue Feb 15 15:37:37 +0000 2022",
+			"favourites_count": 1356,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1498251796250304514/87vnpC1U_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498251796250304514/87vnpC1U_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1493610230353211394/1646050651",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 109,
+		"favorite_count": 983,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "TRIP bookshelf 📚 \n\nLitalist have kindly made an interactive online bookshelf of all the books @campbellclaret + @RoryStewartUK mention on the podcast!\n\nBy clicking on each book, it tells you where your nearest independent bookshop is you can buy it from:\n\nhttps://t.co/TwszytCG7y https://t.co/1S3DP6jvpz"
+	},
+	{
 		"created_at": "Thu Sep 15 13:13:20 +0000 2022",
 		"id": 1570400373256638500,
 		"id_str": "1570400373256638464",
