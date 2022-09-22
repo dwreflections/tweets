@@ -1,6 +1,229 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 21 11:54:22 +0000 2022",
+		"id": 1572483229172768800,
+		"id_str": "1572554830681632769",
+		"full_text": "Looking forward to the Midlands AHP Showcase - celebrating the learning from the pandemic this morning @MidlandsAhps @NHSMidlands @NHSHEE_Midlands @GBigNHS @cassiemorgan89 @beardedPT https://t.co/TqlGXEwXMV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MidlandsAhps",
+					"name": "Midlands AHPs",
+					"id": 1541780137645162500,
+					"id_str": "1541780137645162499",
+					"indices": [
+						103,
+						116
+					]
+				},
+				{
+					"screen_name": "NHSMidlands",
+					"name": "NHS Midlands",
+					"id": 1098892220801998800,
+					"id_str": "1098892220801998850",
+					"indices": [
+						117,
+						129
+					]
+				},
+				{
+					"screen_name": "NHSHEE_Midlands",
+					"name": "NHS HEE Midlands",
+					"id": 606323387,
+					"id_str": "606323387",
+					"indices": [
+						130,
+						146
+					]
+				},
+				{
+					"screen_name": "GBigNHS",
+					"name": "Gordon Bigham",
+					"id": 954012996866584600,
+					"id_str": "954012996866584576",
+					"indices": [
+						147,
+						155
+					]
+				},
+				{
+					"screen_name": "cassiemorgan89",
+					"name": "Cassie",
+					"id": 1435523664234037200,
+					"id_str": "1435523664234037251",
+					"indices": [
+						156,
+						171
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						172,
+						182
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1572483220091838500,
+					"id_str": "1572483220091838466",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FdKVKETWIAIiGh1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdKVKETWIAIiGh1.jpg",
+					"url": "https://t.co/TqlGXEwXMV",
+					"display_url": "pic.twitter.com/TqlGXEwXMV",
+					"expanded_url": "https://twitter.com/PridgeonAnne/status/1572483229172768769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1572483220091838500,
+					"id_str": "1572483220091838466",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/media/FdKVKETWIAIiGh1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdKVKETWIAIiGh1.jpg",
+					"url": "https://t.co/TqlGXEwXMV",
+					"display_url": "pic.twitter.com/TqlGXEwXMV",
+					"expanded_url": "https://twitter.com/PridgeonAnne/status/1572483229172768769/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1633701205,
+			"id_str": "1633701205",
+			"name": "Anne Pridgeon RD MPH",
+			"screen_name": "PridgeonAnne",
+			"location": "",
+			"description": "Senior Quality Manager, NHS England (Midlands). Registered Dietitian. QSIR Practitioner. Tweets in personal capacity.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 546,
+			"friends_count": 1597,
+			"listed_count": 1,
+			"created_at": "Tue Jul 30 19:40:41 +0000 2013",
+			"favourites_count": 2469,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 1045,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1387701064846217220/RS2612zn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387701064846217220/RS2612zn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1633701205/1552214416",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Looking forward to the Midlands AHP Showcase - celebrating the learning from the pandemic this morning @MidlandsAhps @NHSMidlands @NHSHEE_Midlands @GBigNHS @cassiemorgan89 @beardedPT https://t.co/TqlGXEwXMV"
+	},
+	{
 		"created_at": "Tue Sep 20 20:45:05 +0000 2022",
 		"id": 1572325998519255000,
 		"id_str": "1572325998519255040",
