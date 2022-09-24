@@ -1,6 +1,333 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Fri Sep 23 16:36:07 +0000 2022",
+		"id": 1573350508970053600,
+		"id_str": "1573350508970053632",
+		"full_text": "@EMAHPInfo @_DougStewart @LauraMcG_CCIO @DHCCIO @NHSDigAcademy @ukfci @janedwelly @DHCNIO @HealthCION @mjandison @DigitalAhp @DigitalAHP_AW @lesleyahpd @pippa_mccabe @MelRheum @AnnaTransform18 @AJRossell @AliToft @SharonAIO @SimonAHPInfo @JemimaKA @_zouche_ Honoured for be included in this list @EMAHPInfo !",
+		"truncated": false,
+		"display_text_range": [
+			258,
+			308
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EMAHPInfo",
+					"name": "Euan McComiskie",
+					"id": 2438541736,
+					"id_str": "2438541736",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "_DougStewart",
+					"name": "Doug Stewart 🌱",
+					"id": 3092554107,
+					"id_str": "3092554107",
+					"indices": [
+						11,
+						24
+					]
+				},
+				{
+					"screen_name": "LauraMcG_CCIO",
+					"name": "Laura McGowan 🔻🔺",
+					"id": 1446281293147345000,
+					"id_str": "1446281293147344896",
+					"indices": [
+						25,
+						39
+					]
+				},
+				{
+					"screen_name": "DHCCIO",
+					"name": "CCIO Network",
+					"id": 327432201,
+					"id_str": "327432201",
+					"indices": [
+						40,
+						47
+					]
+				},
+				{
+					"screen_name": "NHSDigAcademy",
+					"name": "NHS Digital Academy",
+					"id": 892651257797673000,
+					"id_str": "892651257797672961",
+					"indices": [
+						48,
+						62
+					]
+				},
+				{
+					"screen_name": "ukfci",
+					"name": "Faculty of Clinical Informatics",
+					"id": 786906828252803100,
+					"id_str": "786906828252803073",
+					"indices": [
+						63,
+						69
+					]
+				},
+				{
+					"screen_name": "janedwelly",
+					"name": "Jane Dwelly 💙",
+					"id": 108297471,
+					"id_str": "108297471",
+					"indices": [
+						70,
+						81
+					]
+				},
+				{
+					"screen_name": "DHCNIO",
+					"name": "Digital Health CNIO Network",
+					"id": 1417432054908719000,
+					"id_str": "1417432054908719104",
+					"indices": [
+						82,
+						89
+					]
+				},
+				{
+					"screen_name": "HealthCION",
+					"name": "Health CIO Network",
+					"id": 1432842223,
+					"id_str": "1432842223",
+					"indices": [
+						90,
+						101
+					]
+				},
+				{
+					"screen_name": "mjandison",
+					"name": "Melissa Andison 🌿🚲🇦🇺🇬🇧",
+					"id": 476773026,
+					"id_str": "476773026",
+					"indices": [
+						102,
+						112
+					]
+				},
+				{
+					"screen_name": "DigitalAhp",
+					"name": "DigitalAHP 💙",
+					"id": 1141015266844958700,
+					"id_str": "1141015266844958720",
+					"indices": [
+						113,
+						124
+					]
+				},
+				{
+					"screen_name": "DigitalAHP_AW",
+					"name": "Alex Wilson",
+					"id": 2786365546,
+					"id_str": "2786365546",
+					"indices": [
+						125,
+						139
+					]
+				},
+				{
+					"screen_name": "lesleyahpd",
+					"name": "Prof Lesley Holdsworth OBE",
+					"id": 531700710,
+					"id_str": "531700710",
+					"indices": [
+						140,
+						151
+					]
+				},
+				{
+					"screen_name": "pippa_mccabe",
+					"name": "Pippa McCabe",
+					"id": 2158857989,
+					"id_str": "2158857989",
+					"indices": [
+						152,
+						165
+					]
+				},
+				{
+					"screen_name": "MelRheum",
+					"name": "Melanie Martin",
+					"id": 897355466887622700,
+					"id_str": "897355466887622656",
+					"indices": [
+						166,
+						175
+					]
+				},
+				{
+					"screen_name": "AnnaTransform18",
+					"name": "Anna Awoliyi",
+					"id": 953940367916793900,
+					"id_str": "953940367916793858",
+					"indices": [
+						176,
+						192
+					]
+				},
+				{
+					"screen_name": "AJRossell",
+					"name": "Anna Rubio",
+					"id": 40349594,
+					"id_str": "40349594",
+					"indices": [
+						193,
+						203
+					]
+				},
+				{
+					"screen_name": "AliToft",
+					"name": "Ali Toft",
+					"id": 1115317600479846400,
+					"id_str": "1115317600479846400",
+					"indices": [
+						204,
+						212
+					]
+				},
+				{
+					"screen_name": "SharonAIO",
+					"name": "Sharon Campana",
+					"id": 1146669036341813200,
+					"id_str": "1146669036341813250",
+					"indices": [
+						213,
+						223
+					]
+				},
+				{
+					"screen_name": "SimonAHPInfo",
+					"name": "Simon Brunner",
+					"id": 342296524,
+					"id_str": "342296524",
+					"indices": [
+						224,
+						237
+					]
+				},
+				{
+					"screen_name": "JemimaKA",
+					"name": "Jemima",
+					"id": 908690089072611300,
+					"id_str": "908690089072611328",
+					"indices": [
+						238,
+						247
+					]
+				},
+				{
+					"screen_name": "_zouche_",
+					"name": "Steve Roche",
+					"id": 279900619,
+					"id_str": "279900619",
+					"indices": [
+						248,
+						257
+					]
+				},
+				{
+					"screen_name": "EMAHPInfo",
+					"name": "Euan McComiskie",
+					"id": 2438541736,
+					"id_str": "2438541736",
+					"indices": [
+						296,
+						306
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1573262972130332700,
+		"in_reply_to_status_id_str": "1573262972130332672",
+		"in_reply_to_user_id": 2438541736,
+		"in_reply_to_user_id_str": "2438541736",
+		"in_reply_to_screen_name": "EMAHPInfo",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | #DigitalAHP | Physiotherapist | Proudly Leading @UHDB_AFN | Governor @UHDBtrust",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3341,
+			"friends_count": 4675,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26999,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8541,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EMAHPInfo @_DougStewart @LauraMcG_CCIO @DHCCIO @NHSDigAcademy @ukfci @janedwelly @DHCNIO @HealthCION @mjandison @DigitalAhp @DigitalAHP_AW @lesleyahpd @pippa_mccabe @MelRheum @AnnaTransform18 @AJRossell @AliToft @SharonAIO @SimonAHPInfo @JemimaKA @_zouche_ Honoured for be included in this list @EMAHPInfo !"
+	},
+	{
 		"created_at": "Thu Sep 22 17:38:34 +0000 2022",
 		"id": 1573003838789144600,
 		"id_str": "1573003838789144577",
