@@ -1,6 +1,279 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 24 10:57:30 +0000 2022",
+		"id": 1573614362908151800,
+		"id_str": "1573627681345773568",
+		"full_text": "Wishing our fantastic runners all the best for tomorrows half marathon! Still time to donate to WWTW! @supportthewalk @tina1duffy @beardedPT @UHDBTrust @GemmaCBT @jordana_wright https://t.co/LfC2xaPHHo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "supportthewalk",
+					"name": "WWTW",
+					"id": 173807599,
+					"id_str": "173807599",
+					"indices": [
+						102,
+						117
+					]
+				},
+				{
+					"screen_name": "tina1duffy",
+					"name": "Christine Duffy -Queen’s Nurse",
+					"id": 773961266973073400,
+					"id_str": "773961266973073408",
+					"indices": [
+						118,
+						129
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						130,
+						140
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						141,
+						151
+					]
+				},
+				{
+					"screen_name": "GemmaCBT",
+					"name": "Gemma CBT",
+					"id": 1503121683334451200,
+					"id_str": "1503121683334451205",
+					"indices": [
+						152,
+						161
+					]
+				},
+				{
+					"screen_name": "jordana_wright",
+					"name": "Jordana Wright",
+					"id": 1429060518879314000,
+					"id_str": "1429060518879313923",
+					"indices": [
+						162,
+						177
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LfC2xaPHHo",
+					"expanded_url": "https://twitter.com/UHDB_AFN/status/1572831392240648192",
+					"display_url": "twitter.com/UHDB_AFN/statu…",
+					"indices": [
+						178,
+						201
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 917528162,
+			"id_str": "917528162",
+			"name": "Lara Raworth",
+			"screen_name": "LaraRaworth",
+			"location": "",
+			"description": "Medical Directors Office Manager at the University Hospitals of Derby and Burton NHS Foundation Trust",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 107,
+			"friends_count": 304,
+			"listed_count": 0,
+			"created_at": "Wed Oct 31 19:38:06 +0000 2012",
+			"favourites_count": 1837,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 753,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1573614725740613632/QM_EMP5U_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1573614725740613632/QM_EMP5U_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/917528162/1611403234",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1572831392240648200,
+		"quoted_status_id_str": "1572831392240648192",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LfC2xaPHHo",
+			"expanded": "https://twitter.com/UHDB_AFN/status/1572831392240648192",
+			"display": "twitter.com/UHDB_AFN/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 22 06:13:20 +0000 2022",
+			"id": 1572831392240648200,
+			"id_str": "1572831392240648192",
+			"full_text": "Our fantastic runners have been training really hard for this weekend half marathon. Still time to donate to @supportthewalk via the link below!! https://t.co/AyZQXdGgEy",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				145
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "supportthewalk",
+						"name": "WWTW",
+						"id": 173807599,
+						"id_str": "173807599",
+						"indices": [
+							109,
+							124
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/AyZQXdGgEy",
+						"expanded_url": "https://twitter.com/UHDB_AFN/status/1552185509199364096",
+						"display_url": "twitter.com/UHDB_AFN/statu…",
+						"indices": [
+							146,
+							169
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1384135578233360400,
+				"id_str": "1384135578233360399",
+				"name": "UHDB Armed Forces Network",
+				"screen_name": "UHDB_AFN",
+				"location": "Derby, England",
+				"description": "Network for Reservists, Veterans, Forces Families and Cadet Forces Adult Volunteers who work at @UHDBTrust #TeamUHDB",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 171,
+				"friends_count": 288,
+				"listed_count": 0,
+				"created_at": "Mon Apr 19 13:23:39 +0000 2021",
+				"favourites_count": 220,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 119,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1398298749626093573/Mu-dSfve_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398298749626093573/Mu-dSfve_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1384135578233360399/1620671376",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1552185509199364000,
+			"quoted_status_id_str": "1552185509199364096",
+			"quoted_status_permalink": {
+				"url": "https://t.co/AyZQXdGgEy",
+				"expanded": "https://twitter.com/UHDB_AFN/status/1552185509199364096",
+				"display": "twitter.com/UHDB_AFN/statu…"
+			},
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wishing our fantastic runners all the best for tomorrows half marathon! Still time to donate to WWTW! @supportthewalk @tina1duffy @beardedPT @UHDBTrust @GemmaCBT @jordana_wright https://t.co/LfC2xaPHHo"
+	},
+	{
 		"created_at": "Fri Sep 23 16:36:07 +0000 2022",
 		"id": 1573350508970053600,
 		"id_str": "1573350508970053632",
