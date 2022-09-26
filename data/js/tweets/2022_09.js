@@ -1,6 +1,349 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sun Sep 25 17:53:19 +0000 2022",
+		"id": 1574011301273239600,
+		"id_str": "1574094711517855747",
+		"full_text": "Before and after shot...super proud of all of you. We smashed our target for @supportthewalk. Fantastic!!! https://t.co/WhkG1MmW3P",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "supportthewalk",
+					"name": "WWTW",
+					"id": 173807599,
+					"id_str": "173807599",
+					"indices": [
+						77,
+						92
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1574011277873234000,
+					"id_str": "1574011277873233920",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FdgC6vIXwAAuAcn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdgC6vIXwAAuAcn.jpg",
+					"url": "https://t.co/WhkG1MmW3P",
+					"display_url": "pic.twitter.com/WhkG1MmW3P",
+					"expanded_url": "https://twitter.com/UHDB_AFN/status/1574011301273239552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1574011277873234000,
+					"id_str": "1574011277873233920",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FdgC6vIXwAAuAcn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdgC6vIXwAAuAcn.jpg",
+					"url": "https://t.co/WhkG1MmW3P",
+					"display_url": "pic.twitter.com/WhkG1MmW3P",
+					"expanded_url": "https://twitter.com/UHDB_AFN/status/1574011301273239552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1574011290401529900,
+					"id_str": "1574011290401529857",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/FdgC7dzWYAEMrac.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdgC7dzWYAEMrac.jpg",
+					"url": "https://t.co/WhkG1MmW3P",
+					"display_url": "pic.twitter.com/WhkG1MmW3P",
+					"expanded_url": "https://twitter.com/UHDB_AFN/status/1574011301273239552/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1384135578233360400,
+			"id_str": "1384135578233360399",
+			"name": "UHDB Armed Forces Network",
+			"screen_name": "UHDB_AFN",
+			"location": "Derby, England",
+			"description": "Network for Reservists, Veterans, Forces Families and Cadet Forces Adult Volunteers who work at @UHDBTrust #TeamUHDB",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 172,
+			"friends_count": 291,
+			"listed_count": 0,
+			"created_at": "Mon Apr 19 13:23:39 +0000 2021",
+			"favourites_count": 221,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398298749626093573/Mu-dSfve_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398298749626093573/Mu-dSfve_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1384135578233360399/1620671376",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Before and after shot...super proud of all of you. We smashed our target for @supportthewalk. Fantastic!!! https://t.co/WhkG1MmW3P"
+	},
+	{
+		"created_at": "Sun Sep 25 10:46:56 +0000 2022",
+		"id": 1573954807647420400,
+		"id_str": "1573987409313800192",
+		"full_text": "Good luck to everyone running the @RobinHoodHalf marathon today and a special shout to our Armed Forces colleagues who are running for @supportthewalk. We smashed our target...super proud of you all. @tina1duffy @GemmaCBT @jordana_wright...",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			240
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RobinHoodHalf",
+					"name": "Robin Hood Marathon Events",
+					"id": 579815208,
+					"id_str": "579815208",
+					"indices": [
+						34,
+						48
+					]
+				},
+				{
+					"screen_name": "supportthewalk",
+					"name": "WWTW",
+					"id": 173807599,
+					"id_str": "173807599",
+					"indices": [
+						135,
+						150
+					]
+				},
+				{
+					"screen_name": "tina1duffy",
+					"name": "Christine Duffy -Queen’s Nurse",
+					"id": 773961266973073400,
+					"id_str": "773961266973073408",
+					"indices": [
+						200,
+						211
+					]
+				},
+				{
+					"screen_name": "GemmaCBT",
+					"name": "Gemma CBT",
+					"id": 1503121683334451200,
+					"id_str": "1503121683334451205",
+					"indices": [
+						212,
+						221
+					]
+				},
+				{
+					"screen_name": "jordana_wright",
+					"name": "Jordana Wright",
+					"id": 1429060518879314000,
+					"id_str": "1429060518879313923",
+					"indices": [
+						222,
+						237
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1384135578233360400,
+			"id_str": "1384135578233360399",
+			"name": "UHDB Armed Forces Network",
+			"screen_name": "UHDB_AFN",
+			"location": "Derby, England",
+			"description": "Network for Reservists, Veterans, Forces Families and Cadet Forces Adult Volunteers who work at @UHDBTrust #TeamUHDB",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 172,
+			"friends_count": 291,
+			"listed_count": 0,
+			"created_at": "Mon Apr 19 13:23:39 +0000 2021",
+			"favourites_count": 221,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 122,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398298749626093573/Mu-dSfve_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398298749626093573/Mu-dSfve_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1384135578233360399/1620671376",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Good luck to everyone running the @RobinHoodHalf marathon today and a special shout to our Armed Forces colleagues who are running for @supportthewalk. We smashed our target...super proud of you all. @tina1duffy @GemmaCBT @jordana_wright..."
+	},
+	{
 		"created_at": "Sat Sep 24 10:57:30 +0000 2022",
 		"id": 1573614362908151800,
 		"id_str": "1573627681345773568",
