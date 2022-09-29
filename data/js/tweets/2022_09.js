@@ -1,6 +1,1319 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Wed Sep 28 16:58:33 +0000 2022",
+		"id": 1575166943686193200,
+		"id_str": "1575168093189308421",
+		"full_text": "Please give the @NHSEngland &amp; @NHS_HealthEdEng Midland #AHP fellows a 👋 and a follow @MidlandsAhps @MarriottHelen @PodParr @victoria_appa @GBigNHS @potts_rad https://t.co/IShtg6Wm1B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AHP",
+					"indices": [
+						59,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NHSEngland",
+					"name": "NHS England",
+					"id": 551426814,
+					"id_str": "551426814",
+					"indices": [
+						16,
+						27
+					]
+				},
+				{
+					"screen_name": "NHS_HealthEdEng",
+					"name": "NHS HEE",
+					"id": 637008966,
+					"id_str": "637008966",
+					"indices": [
+						34,
+						50
+					]
+				},
+				{
+					"screen_name": "MidlandsAhps",
+					"name": "Midlands AHPs",
+					"id": 1541780137645162500,
+					"id_str": "1541780137645162499",
+					"indices": [
+						89,
+						102
+					]
+				},
+				{
+					"screen_name": "MarriottHelen",
+					"name": "Helen Marriott",
+					"id": 816853278,
+					"id_str": "816853278",
+					"indices": [
+						103,
+						117
+					]
+				},
+				{
+					"screen_name": "PodParr",
+					"name": "Meg Parr",
+					"id": 51820295,
+					"id_str": "51820295",
+					"indices": [
+						118,
+						126
+					]
+				},
+				{
+					"screen_name": "victoria_appa",
+					"name": "Victoria Apparicio",
+					"id": 862430329377873900,
+					"id_str": "862430329377873921",
+					"indices": [
+						127,
+						141
+					]
+				},
+				{
+					"screen_name": "GBigNHS",
+					"name": "Gordon Bigham",
+					"id": 954012996866584600,
+					"id_str": "954012996866584576",
+					"indices": [
+						142,
+						150
+					]
+				},
+				{
+					"screen_name": "potts_rad",
+					"name": "Andy Potts",
+					"id": 1184908739918385200,
+					"id_str": "1184908739918385152",
+					"indices": [
+						151,
+						161
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IShtg6Wm1B",
+					"expanded_url": "https://twitter.com/beardedPT/status/1575106517912600578",
+					"display_url": "twitter.com/beardedPT/stat…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 143410224,
+			"id_str": "143410224",
+			"name": "Amanda Weaver (she/her) 💙",
+			"screen_name": "amandaweaves",
+			"location": "Bournemouth",
+			"description": "AHP Preceptorship Workforce Lead at Health Education England #AHPQIConnector #SWAHPQI #Physiotherapist #AHPPreceptorship",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1615,
+			"friends_count": 2510,
+			"listed_count": 10,
+			"created_at": "Thu May 13 11:41:03 +0000 2010",
+			"favourites_count": 18365,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 5714,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1540380486530486278/u1PCC9wW_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1540380486530486278/u1PCC9wW_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/143410224/1657556803",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1575106517912600600,
+		"quoted_status_id_str": "1575106517912600578",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IShtg6Wm1B",
+			"expanded": "https://twitter.com/beardedPT/status/1575106517912600578",
+			"display": "twitter.com/beardedPT/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 28 12:53:52 +0000 2022",
+			"id": 1575106517912600600,
+			"id_str": "1575106517912600578",
+			"full_text": "🚩Introducting the @NHSEngland &amp; @NHS_HealthEdEng Midland #AHP Fellows ⬇️\n\nGive them a follow ✨\n⭐️@BethAHPMids \n⭐️@strakerjen\n⭐️@RyanDeakinAHP\n⭐️@SeemaR31 \n⭐️@beardedPT \n⭐️@JennyDrugby\n⭐️@RachelMccubbi11 https://t.co/cJZiomxnLJ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				206
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AHP",
+						"indices": [
+							61,
+							65
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NHSEngland",
+						"name": "NHS England",
+						"id": 551426814,
+						"id_str": "551426814",
+						"indices": [
+							18,
+							29
+						]
+					},
+					{
+						"screen_name": "NHS_HealthEdEng",
+						"name": "NHS HEE",
+						"id": 637008966,
+						"id_str": "637008966",
+						"indices": [
+							36,
+							52
+						]
+					},
+					{
+						"screen_name": "BethAHPMids",
+						"name": "Beth Kershaw-naylor",
+						"id": 1574380047036809200,
+						"id_str": "1574380047036809216",
+						"indices": [
+							101,
+							113
+						]
+					},
+					{
+						"screen_name": "strakerjen",
+						"name": "Jennifer Straker",
+						"id": 1565674771026698200,
+						"id_str": "1565674771026698240",
+						"indices": [
+							117,
+							128
+						]
+					},
+					{
+						"screen_name": "RyanDeakinAHP",
+						"name": "Ryan Deakin",
+						"id": 1565343368250400800,
+						"id_str": "1565343368250400768",
+						"indices": [
+							131,
+							145
+						]
+					},
+					{
+						"screen_name": "SeemaR31",
+						"name": "Seema Rughani",
+						"id": 867448073215242200,
+						"id_str": "867448073215242241",
+						"indices": [
+							148,
+							157
+						]
+					},
+					{
+						"screen_name": "beardedPT",
+						"name": "David Williams",
+						"id": 3377750235,
+						"id_str": "3377750235",
+						"indices": [
+							161,
+							171
+						]
+					},
+					{
+						"screen_name": "JennyDrugby",
+						"name": "Jenny Davies",
+						"id": 703633458908831700,
+						"id_str": "703633458908831744",
+						"indices": [
+							175,
+							187
+						]
+					},
+					{
+						"screen_name": "RachelMccubbi11",
+						"name": "Rachel Mccubbin",
+						"id": 1565647412290617300,
+						"id_str": "1565647412290617344",
+						"indices": [
+							190,
+							206
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1575106510941823000,
+						"id_str": "1575106510941822978",
+						"indices": [
+							207,
+							230
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FdvnBsQXoAImf28.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FdvnBsQXoAImf28.jpg",
+						"url": "https://t.co/cJZiomxnLJ",
+						"display_url": "pic.twitter.com/cJZiomxnLJ",
+						"expanded_url": "https://twitter.com/beardedPT/status/1575106517912600578/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1575106510941823000,
+						"id_str": "1575106510941822978",
+						"indices": [
+							207,
+							230
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/FdvnBsQXoAImf28.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FdvnBsQXoAImf28.jpg",
+						"url": "https://t.co/cJZiomxnLJ",
+						"display_url": "pic.twitter.com/cJZiomxnLJ",
+						"expanded_url": "https://twitter.com/beardedPT/status/1575106517912600578/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"small": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 480,
+								"h": 480,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/FdvnBsQXoAImf28.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3377750235,
+				"id_str": "3377750235",
+				"name": "David Williams",
+				"screen_name": "beardedPT",
+				"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+				"description": "NHS Regional Clinical Leadership Fellow | #DigitalAHP | Physiotherapist | Proudly Leading @UHDB_AFN | Governor @UHDBtrust",
+				"url": "https://t.co/Qd40HbmAVv",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Qd40HbmAVv",
+								"expanded_url": "https://campsite.bio/davidww",
+								"display_url": "campsite.bio/davidww",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3352,
+				"friends_count": 4683,
+				"listed_count": 19,
+				"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+				"favourites_count": 26989,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 8548,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 10,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Please give the @NHSEngland &amp; @NHS_HealthEdEng Midland #AHP fellows a 👋 and a follow @MidlandsAhps @MarriottHelen @PodParr @victoria_appa @GBigNHS @potts_rad https://t.co/IShtg6Wm1B"
+	},
+	{
+		"created_at": "Wed Sep 28 12:53:52 +0000 2022",
+		"id": 1575106517912600600,
+		"id_str": "1575106517912600578",
+		"full_text": "🚩Introducting the @NHSEngland &amp; @NHS_HealthEdEng Midland #AHP Fellows ⬇️\n\nGive them a follow ✨\n⭐️@BethAHPMids \n⭐️@strakerjen\n⭐️@RyanDeakinAHP\n⭐️@SeemaR31 \n⭐️@beardedPT \n⭐️@JennyDrugby\n⭐️@RachelMccubbi11 https://t.co/cJZiomxnLJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "AHP",
+					"indices": [
+						61,
+						65
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NHSEngland",
+					"name": "NHS England",
+					"id": 551426814,
+					"id_str": "551426814",
+					"indices": [
+						18,
+						29
+					]
+				},
+				{
+					"screen_name": "NHS_HealthEdEng",
+					"name": "NHS HEE",
+					"id": 637008966,
+					"id_str": "637008966",
+					"indices": [
+						36,
+						52
+					]
+				},
+				{
+					"screen_name": "BethAHPMids",
+					"name": "Beth Kershaw-naylor",
+					"id": 1574380047036809200,
+					"id_str": "1574380047036809216",
+					"indices": [
+						101,
+						113
+					]
+				},
+				{
+					"screen_name": "strakerjen",
+					"name": "Jennifer Straker",
+					"id": 1565674771026698200,
+					"id_str": "1565674771026698240",
+					"indices": [
+						117,
+						128
+					]
+				},
+				{
+					"screen_name": "RyanDeakinAHP",
+					"name": "Ryan Deakin",
+					"id": 1565343368250400800,
+					"id_str": "1565343368250400768",
+					"indices": [
+						131,
+						145
+					]
+				},
+				{
+					"screen_name": "SeemaR31",
+					"name": "Seema Rughani",
+					"id": 867448073215242200,
+					"id_str": "867448073215242241",
+					"indices": [
+						148,
+						157
+					]
+				},
+				{
+					"screen_name": "beardedPT",
+					"name": "David Williams",
+					"id": 3377750235,
+					"id_str": "3377750235",
+					"indices": [
+						161,
+						171
+					]
+				},
+				{
+					"screen_name": "JennyDrugby",
+					"name": "Jenny Davies",
+					"id": 703633458908831700,
+					"id_str": "703633458908831744",
+					"indices": [
+						175,
+						187
+					]
+				},
+				{
+					"screen_name": "RachelMccubbi11",
+					"name": "Rachel Mccubbin",
+					"id": 1565647412290617300,
+					"id_str": "1565647412290617344",
+					"indices": [
+						190,
+						206
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1575106510941823000,
+					"id_str": "1575106510941822978",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FdvnBsQXoAImf28.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FdvnBsQXoAImf28.jpg",
+					"url": "https://t.co/cJZiomxnLJ",
+					"display_url": "pic.twitter.com/cJZiomxnLJ",
+					"expanded_url": "https://twitter.com/beardedPT/status/1575106517912600578/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1575106510941823000,
+					"id_str": "1575106510941822978",
+					"indices": [
+						207,
+						230
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/FdvnBsQXoAImf28.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/FdvnBsQXoAImf28.jpg",
+					"url": "https://t.co/cJZiomxnLJ",
+					"display_url": "pic.twitter.com/cJZiomxnLJ",
+					"expanded_url": "https://twitter.com/beardedPT/status/1575106517912600578/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 480,
+							"h": 480,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							1,
+							1
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/FdvnBsQXoAImf28.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | #DigitalAHP | Physiotherapist | Proudly Leading @UHDB_AFN | Governor @UHDBtrust",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3352,
+			"friends_count": 4683,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26989,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "🚩Introducting the @NHSEngland &amp; @NHS_HealthEdEng Midland #AHP Fellows ⬇️\n\nGive them a follow ✨\n⭐️@BethAHPMids \n⭐️@strakerjen\n⭐️@RyanDeakinAHP\n⭐️@SeemaR31 \n⭐️@beardedPT \n⭐️@JennyDrugby\n⭐️@RachelMccubbi11 https://t.co/cJZiomxnLJ"
+	},
+	{
+		"created_at": "Wed Sep 28 12:03:58 +0000 2022",
+		"id": 1575077145575297000,
+		"id_str": "1575093957922787330",
+		"full_text": "Lara Raworth from @UHDBTrust talks about how the Trust met the Dyad and Governance element of the @NHSVeteranAware manifesto. #NHSVeteranAware. https://t.co/uH34jgqVkt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NHSVeteranAware",
+					"indices": [
+						126,
+						142
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						18,
+						28
+					]
+				},
+				{
+					"screen_name": "NHSVeteranAware",
+					"name": "NHS Veteran Aware",
+					"id": 1522539972150145000,
+					"id_str": "1522539972150145025",
+					"indices": [
+						98,
+						114
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1575077142311981000,
+					"id_str": "1575077142311981057",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FdvMUNlX0AE73eJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdvMUNlX0AE73eJ.jpg",
+					"url": "https://t.co/uH34jgqVkt",
+					"display_url": "pic.twitter.com/uH34jgqVkt",
+					"expanded_url": "https://twitter.com/NHSVeteranAware/status/1575077145575297024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 922,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 306,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1575077142311981000,
+					"id_str": "1575077142311981057",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FdvMUNlX0AE73eJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FdvMUNlX0AE73eJ.jpg",
+					"url": "https://t.co/uH34jgqVkt",
+					"display_url": "pic.twitter.com/uH34jgqVkt",
+					"expanded_url": "https://twitter.com/NHSVeteranAware/status/1575077145575297024/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 922,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 306,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 540,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1522539972150145000,
+			"id_str": "1522539972150145025",
+			"name": "NHS Veteran Aware",
+			"screen_name": "NHSVeteranAware",
+			"location": "RNOH",
+			"description": "The Veterans Covenant Healthcare Alliance (VCHA) is a group of NHS providers, who have agreed to be exemplars of the best care for the Armed Forces community.",
+			"url": "https://t.co/1pv7pQJOH7",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1pv7pQJOH7",
+							"expanded_url": "https://veteranaware.nhs.uk/",
+							"display_url": "veteranaware.nhs.uk",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 467,
+			"friends_count": 446,
+			"listed_count": 0,
+			"created_at": "Fri May 06 11:33:26 +0000 2022",
+			"favourites_count": 285,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 275,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1574377916816834566/3qy4LQuO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1574377916816834566/3qy4LQuO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1522539972150145025/1664195921",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 10,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lara Raworth from @UHDBTrust talks about how the Trust met the Dyad and Governance element of the @NHSVeteranAware manifesto. #NHSVeteranAware. https://t.co/uH34jgqVkt"
+	},
+	{
+		"created_at": "Wed Sep 28 10:00:54 +0000 2022",
+		"id": 1575062990302642200,
+		"id_str": "1575062990302642178",
+		"full_text": "Brillant to have @LaraRaworth representing @UHDB_AFN at the @NHSVeteranAware Best Practice Symposium today! #NHSVeteransAware https://t.co/Y2oQlHXHX4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			125
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "NHSVeteransAware",
+					"indices": [
+						108,
+						125
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LaraRaworth",
+					"name": "Lara Raworth",
+					"id": 917528162,
+					"id_str": "917528162",
+					"indices": [
+						17,
+						29
+					]
+				},
+				{
+					"screen_name": "UHDB_AFN",
+					"name": "UHDB Armed Forces Network",
+					"id": 1384135578233360400,
+					"id_str": "1384135578233360399",
+					"indices": [
+						43,
+						52
+					]
+				},
+				{
+					"screen_name": "NHSVeteranAware",
+					"name": "NHS Veteran Aware",
+					"id": 1522539972150145000,
+					"id_str": "1522539972150145025",
+					"indices": [
+						60,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Y2oQlHXHX4",
+					"expanded_url": "https://twitter.com/NHSVeteranAware/status/1575019191840931840",
+					"display_url": "twitter.com/NHSVeteranAwar…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | #DigitalAHP | Physiotherapist | Proudly Leading @UHDB_AFN | Governor @UHDBtrust",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3352,
+			"friends_count": 4683,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 26989,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8548,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1575019191840931800,
+		"quoted_status_id_str": "1575019191840931840",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Y2oQlHXHX4",
+			"expanded": "https://twitter.com/NHSVeteranAware/status/1575019191840931840",
+			"display": "twitter.com/NHSVeteranAwar…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 28 07:06:52 +0000 2022",
+			"id": 1575019191840931800,
+			"id_str": "1575019191840931840",
+			"full_text": "Getting the venue ready for today's @NHSVeteranAware best practice symposium #NHSVeteranAware https://t.co/5w6UNn6eop",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				93
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "NHSVeteranAware",
+						"indices": [
+							77,
+							93
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "NHSVeteranAware",
+						"name": "NHS Veteran Aware",
+						"id": 1522539972150145000,
+						"id_str": "1522539972150145025",
+						"indices": [
+							36,
+							52
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1575019189730959400,
+						"id_str": "1575019189730959360",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/FduXm7ZWYAAVNf3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FduXm7ZWYAAVNf3.jpg",
+						"url": "https://t.co/5w6UNn6eop",
+						"display_url": "pic.twitter.com/5w6UNn6eop",
+						"expanded_url": "https://twitter.com/NHSVeteranAware/status/1575019191840931840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1575019189730959400,
+						"id_str": "1575019189730959360",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/FduXm7ZWYAAVNf3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FduXm7ZWYAAVNf3.jpg",
+						"url": "https://t.co/5w6UNn6eop",
+						"display_url": "pic.twitter.com/5w6UNn6eop",
+						"expanded_url": "https://twitter.com/NHSVeteranAware/status/1575019191840931840/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 768,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1522539972150145000,
+				"id_str": "1522539972150145025",
+				"name": "NHS Veteran Aware",
+				"screen_name": "NHSVeteranAware",
+				"location": "RNOH",
+				"description": "The Veterans Covenant Healthcare Alliance (VCHA) is a group of NHS providers, who have agreed to be exemplars of the best care for the Armed Forces community.",
+				"url": "https://t.co/1pv7pQJOH7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/1pv7pQJOH7",
+								"expanded_url": "https://veteranaware.nhs.uk/",
+								"display_url": "veteranaware.nhs.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 467,
+				"friends_count": 446,
+				"listed_count": 0,
+				"created_at": "Fri May 06 11:33:26 +0000 2022",
+				"favourites_count": 285,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 275,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1574377916816834566/3qy4LQuO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1574377916816834566/3qy4LQuO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1522539972150145025/1664195921",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 26,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Brillant to have @LaraRaworth representing @UHDB_AFN at the @NHSVeteranAware Best Practice Symposium today! #NHSVeteransAware https://t.co/Y2oQlHXHX4"
+	},
+	{
 		"created_at": "Sun Sep 25 17:53:19 +0000 2022",
 		"id": 1574011301273239600,
 		"id_str": "1574094711517855747",
