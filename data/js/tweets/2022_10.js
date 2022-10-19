@@ -1,6 +1,173 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Tue Oct 18 12:00:34 +0000 2022",
+		"id": 1582340861727166500,
+		"id_str": "1582340861727166465",
+		"full_text": "@exerciseworks @PhysioJosie @FionaLindop @fimo18 @RogerKerry1 @DMGPhysio @BJSM_BMJ ✅",
+		"truncated": false,
+		"display_text_range": [
+			83,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "exerciseworks",
+					"name": "Exercise Works!",
+					"id": 256921454,
+					"id_str": "256921454",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "PhysioJosie",
+					"name": "Physio Josie",
+					"id": 1575787421366567000,
+					"id_str": "1575787421366566913",
+					"indices": [
+						15,
+						27
+					]
+				},
+				{
+					"screen_name": "FionaLindop",
+					"name": "Fiona Lindop",
+					"id": 557199255,
+					"id_str": "557199255",
+					"indices": [
+						28,
+						40
+					]
+				},
+				{
+					"screen_name": "fimo18",
+					"name": "Dr Fiona Moffatt",
+					"id": 508806750,
+					"id_str": "508806750",
+					"indices": [
+						41,
+						48
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						49,
+						61
+					]
+				},
+				{
+					"screen_name": "DMGPhysio",
+					"name": "Darragh Mc Gee",
+					"id": 1523450449,
+					"id_str": "1523450449",
+					"indices": [
+						62,
+						72
+					]
+				},
+				{
+					"screen_name": "BJSM_BMJ",
+					"name": "British Journal of Sports Medicine (BJSM)",
+					"id": 138753057,
+					"id_str": "138753057",
+					"indices": [
+						73,
+						82
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1582303197833879600,
+		"in_reply_to_status_id_str": "1582303197833879553",
+		"in_reply_to_user_id": 256921454,
+		"in_reply_to_user_id_str": "256921454",
+		"in_reply_to_screen_name": "exerciseworks",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | #DigitalAHP | #AHPs | Physio | Proudly Leading @UHDB_AFN | Governor @UHDBtrust | Greyhounds",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3355,
+			"friends_count": 4691,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 27048,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8561,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@exerciseworks @PhysioJosie @FionaLindop @fimo18 @RogerKerry1 @DMGPhysio @BJSM_BMJ ✅"
+	},
+	{
 		"created_at": "Fri Oct 14 21:13:56 +0000 2022",
 		"id": 1581030567810076700,
 		"id_str": "1581030567810076672",
