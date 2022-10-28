@@ -1,6 +1,233 @@
 Grailbird.data.tweets_2022_10 = 
 [
 	{
+		"created_at": "Thu Oct 27 07:21:45 +0000 2022",
+		"id": 1585532186140328000,
+		"id_str": "1585532186140327939",
+		"full_text": "@BillingMartin @CorKinetic @DerekGriffin86 @RogerKerry1 @CombatSportPhys @physiojack @JackAChew @stevenawoor @AdamMeakins @ShoulderGeek1 @stevekamper1 @HUTHLKS I have just discovered @RsrchRabbit. I have not fully explored it yet but it looks very promising.",
+		"truncated": false,
+		"display_text_range": [
+			160,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BillingMartin",
+					"name": "Martin Billing",
+					"id": 1114684759,
+					"id_str": "1114684759",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "CorKinetic",
+					"name": "Ben Cormack",
+					"id": 163452695,
+					"id_str": "163452695",
+					"indices": [
+						15,
+						26
+					]
+				},
+				{
+					"screen_name": "DerekGriffin86",
+					"name": "Derek Griffin",
+					"id": 552294927,
+					"id_str": "552294927",
+					"indices": [
+						27,
+						42
+					]
+				},
+				{
+					"screen_name": "RogerKerry1",
+					"name": "Roger Kerry",
+					"id": 396832258,
+					"id_str": "396832258",
+					"indices": [
+						43,
+						55
+					]
+				},
+				{
+					"screen_name": "CombatSportPhys",
+					"name": "Rob Tyer",
+					"id": 1427250300,
+					"id_str": "1427250300",
+					"indices": [
+						56,
+						72
+					]
+				},
+				{
+					"screen_name": "physiojack",
+					"name": "The Rheumatology Physio",
+					"id": 2317919398,
+					"id_str": "2317919398",
+					"indices": [
+						73,
+						84
+					]
+				},
+				{
+					"screen_name": "JackAChew",
+					"name": "Jack Chew",
+					"id": 868558446,
+					"id_str": "868558446",
+					"indices": [
+						85,
+						95
+					]
+				},
+				{
+					"screen_name": "stevenawoor",
+					"name": "Steve Nawoor",
+					"id": 91512796,
+					"id_str": "91512796",
+					"indices": [
+						96,
+						108
+					]
+				},
+				{
+					"screen_name": "AdamMeakins",
+					"name": "The Sp⚽️rts Physio",
+					"id": 20363222,
+					"id_str": "20363222",
+					"indices": [
+						109,
+						121
+					]
+				},
+				{
+					"screen_name": "ShoulderGeek1",
+					"name": "Jo Gibson",
+					"id": 1335169814,
+					"id_str": "1335169814",
+					"indices": [
+						122,
+						136
+					]
+				},
+				{
+					"screen_name": "stevekamper1",
+					"name": "Steve Kamper",
+					"id": 853009507504410600,
+					"id_str": "853009507504410624",
+					"indices": [
+						137,
+						150
+					]
+				},
+				{
+					"screen_name": "HUTHLKS",
+					"name": "Hull NHS Library & Knowledge Services",
+					"id": 3439059016,
+					"id_str": "3439059016",
+					"indices": [
+						151,
+						159
+					]
+				},
+				{
+					"screen_name": "RsrchRabbit",
+					"name": "🐰 ResearchRabbit",
+					"id": 1201883686955835400,
+					"id_str": "1201883686955835392",
+					"indices": [
+						183,
+						195
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1585200387908259800,
+		"in_reply_to_status_id_str": "1585200387908259840",
+		"in_reply_to_user_id": 1114684759,
+		"in_reply_to_user_id_str": "1114684759",
+		"in_reply_to_screen_name": "BillingMartin",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | #DigitalAHP | #AHPs | Physio | Proudly Leading @UHDB_AFN | Governor @UHDBtrust | Greyhounds",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3358,
+			"friends_count": 4693,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 27042,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BillingMartin @CorKinetic @DerekGriffin86 @RogerKerry1 @CombatSportPhys @physiojack @JackAChew @stevenawoor @AdamMeakins @ShoulderGeek1 @stevekamper1 @HUTHLKS I have just discovered @RsrchRabbit. I have not fully explored it yet but it looks very promising."
+	},
+	{
 		"created_at": "Mon Oct 24 16:58:17 +0000 2022",
 		"id": 1583809417765539800,
 		"id_str": "1584590109730828288",
