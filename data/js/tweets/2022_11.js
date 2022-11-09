@@ -1,6 +1,142 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Tue Nov 08 18:51:16 +0000 2022",
+		"id": 1589982256210542600,
+		"id_str": "1590054364143845376",
+		"full_text": "Last week we were awarded with the #GoldERS22 Award by @WMRFCA and @east_mids_rfca which is given to employers who go the extra mile to support #ArmedForces. Official photograph to follow. An amazing achievement for @UHDBTrust who are proud to support our #ArmedForces community.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GoldERS22",
+					"indices": [
+						35,
+						45
+					]
+				},
+				{
+					"text": "ArmedForces",
+					"indices": [
+						144,
+						156
+					]
+				},
+				{
+					"text": "ArmedForces",
+					"indices": [
+						256,
+						268
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WMRFCA",
+					"name": "West Midland Reserve Forces & Cadets Association",
+					"id": 1944419245,
+					"id_str": "1944419245",
+					"indices": [
+						55,
+						62
+					]
+				},
+				{
+					"screen_name": "east_mids_rfca",
+					"name": "East Midlands RFCA",
+					"id": 96968207,
+					"id_str": "96968207",
+					"indices": [
+						67,
+						82
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						216,
+						226
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1384135578233360400,
+			"id_str": "1384135578233360399",
+			"name": "UHDB Armed Forces Network",
+			"screen_name": "UHDB_AFN",
+			"location": "Derby, England",
+			"description": "Network for Reservists, Veterans, Forces Families and Cadet Forces Adult Volunteers who work at @UHDBTrust #TeamUHDB",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 186,
+			"friends_count": 305,
+			"listed_count": 0,
+			"created_at": "Mon Apr 19 13:23:39 +0000 2021",
+			"favourites_count": 280,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 160,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1398298749626093573/Mu-dSfve_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1398298749626093573/Mu-dSfve_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1384135578233360399/1620671376",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Last week we were awarded with the #GoldERS22 Award by @WMRFCA and @east_mids_rfca which is given to employers who go the extra mile to support #ArmedForces. Official photograph to follow. An amazing achievement for @UHDBTrust who are proud to support our #ArmedForces community."
+	},
+	{
 		"created_at": "Thu Nov 03 12:40:14 +0000 2022",
 		"id": 1588132252738883600,
 		"id_str": "1588149047734460417",
