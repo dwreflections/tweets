@@ -1,6 +1,379 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 09 18:16:34 +0000 2022",
+		"id": 1590408019040698400,
+		"id_str": "1590408019040698368",
+		"full_text": "Old Joe but new perspectives and thinking …🕰️🤓 @_HSMCentre \n\nOn the train home reflecting on a great couple of days exploring leadership, culture change, systems, ethics, values &amp; EDI. \n\nTY to @iainHSMC @AnnetteNeath @Deborahbham 🤩 https://t.co/6BRPboojuA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			235
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "_HSMCentre",
+					"name": "Health Services Management Centre (HSMC)",
+					"id": 1542789288,
+					"id_str": "1542789288",
+					"indices": [
+						47,
+						58
+					]
+				},
+				{
+					"screen_name": "iainHSMC",
+					"name": "Iain Snelling",
+					"id": 70798742,
+					"id_str": "70798742",
+					"indices": [
+						197,
+						206
+					]
+				},
+				{
+					"screen_name": "AnnetteNeath",
+					"name": "Annette Neath",
+					"id": 1224667531333509000,
+					"id_str": "1224667531333509120",
+					"indices": [
+						207,
+						220
+					]
+				},
+				{
+					"screen_name": "Deborahbham",
+					"name": "Deborah Davidson 🇱🇰🏴󠁧󠁢󠁳󠁣󠁴󠁿🏳️‍🌈",
+					"id": 80620087,
+					"id_str": "80620087",
+					"indices": [
+						221,
+						233
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1590407956075630600,
+					"id_str": "1590407956075630592",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/FhJDnBXX0AAUn7O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhJDnBXX0AAUn7O.jpg",
+					"url": "https://t.co/6BRPboojuA",
+					"display_url": "pic.twitter.com/6BRPboojuA",
+					"expanded_url": "https://twitter.com/beardedPT/status/1590408019040698368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1590407956075630600,
+					"id_str": "1590407956075630592",
+					"indices": [
+						236,
+						259
+					],
+					"media_url": "http://pbs.twimg.com/media/FhJDnBXX0AAUn7O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhJDnBXX0AAUn7O.jpg",
+					"url": "https://t.co/6BRPboojuA",
+					"display_url": "pic.twitter.com/6BRPboojuA",
+					"expanded_url": "https://twitter.com/beardedPT/status/1590408019040698368/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | #DigitalAHP | #AHPs | Physio | Proudly Leading @UHDB_AFN | Governor @UHDBtrust | Greyhounds",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3354,
+			"friends_count": 4697,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 27070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Old Joe but new perspectives and thinking …🕰️🤓 @_HSMCentre \n\nOn the train home reflecting on a great couple of days exploring leadership, culture change, systems, ethics, values &amp; EDI. \n\nTY to @iainHSMC @AnnetteNeath @Deborahbham 🤩 https://t.co/6BRPboojuA"
+	},
+	{
+		"created_at": "Wed Nov 09 17:48:07 +0000 2022",
+		"id": 1590400859154043000,
+		"id_str": "1590400859154042880",
+		"full_text": "@HelenHands_ @UHDBAHPs @DerbyOT @pearn_grace @RCOTTrentregion @theRCOT That looks like some networking event 👀👍✨🤩",
+		"truncated": false,
+		"display_text_range": [
+			71,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "HelenHands_",
+					"name": "Helen Hands",
+					"id": 1509274206789382100,
+					"id_str": "1509274206789382144",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "UHDBAHPs",
+					"name": "UHDBAHPs",
+					"id": 1051752102530338800,
+					"id_str": "1051752102530338816",
+					"indices": [
+						13,
+						22
+					]
+				},
+				{
+					"screen_name": "DerbyOT",
+					"name": "Derby OT",
+					"id": 2598149947,
+					"id_str": "2598149947",
+					"indices": [
+						23,
+						31
+					]
+				},
+				{
+					"screen_name": "pearn_grace",
+					"name": "Grace Pearn",
+					"id": 3337615893,
+					"id_str": "3337615893",
+					"indices": [
+						32,
+						44
+					]
+				},
+				{
+					"screen_name": "RCOTTrentregion",
+					"name": "RCOT Trent Region",
+					"id": 777161456991305700,
+					"id_str": "777161456991305729",
+					"indices": [
+						45,
+						61
+					]
+				},
+				{
+					"screen_name": "theRCOT",
+					"name": "Royal College of Occupational Therapists",
+					"id": 48659527,
+					"id_str": "48659527",
+					"indices": [
+						62,
+						70
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1590337377033420800,
+		"in_reply_to_status_id_str": "1590337377033420801",
+		"in_reply_to_user_id": 1509274206789382100,
+		"in_reply_to_user_id_str": "1509274206789382144",
+		"in_reply_to_screen_name": "HelenHands_",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | #DigitalAHP | #AHPs | Physio | Proudly Leading @UHDB_AFN | Governor @UHDBtrust | Greyhounds",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3354,
+			"friends_count": 4697,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 27070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8568,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@HelenHands_ @UHDBAHPs @DerbyOT @pearn_grace @RCOTTrentregion @theRCOT That looks like some networking event 👀👍✨🤩"
+	},
+	{
 		"created_at": "Tue Nov 08 18:51:16 +0000 2022",
 		"id": 1589982256210542600,
 		"id_str": "1590054364143845376",
