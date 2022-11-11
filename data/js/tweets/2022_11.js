@@ -1,6 +1,364 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 10 16:31:49 +0000 2022",
+		"id": 1590600286208331800,
+		"id_str": "1590744043545579521",
+		"full_text": "The government wants #UK to be the best place for #Veterans to live. @VeteransGovUK have today launched the Veterans' Survey to gather views of the UK veteran community on shaping future services. Complete the survey here: https://t.co/iGmMvwB8Ch  @NHSVeteranAware @TraumaVeterans https://t.co/8nRgUJxeHS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "UK",
+					"indices": [
+						21,
+						24
+					]
+				},
+				{
+					"text": "Veterans",
+					"indices": [
+						50,
+						59
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "VeteransGovUK",
+					"name": "Office for Veterans' Affairs",
+					"id": 1184052519959453700,
+					"id_str": "1184052519959453696",
+					"indices": [
+						69,
+						83
+					]
+				},
+				{
+					"screen_name": "NHSVeteranAware",
+					"name": "NHS Veteran Aware",
+					"id": 1522539972150145000,
+					"id_str": "1522539972150145025",
+					"indices": [
+						248,
+						264
+					]
+				},
+				{
+					"screen_name": "TraumaVeterans",
+					"name": "Veterans Trauma Network",
+					"id": 1122553665330602000,
+					"id_str": "1122553665330601984",
+					"indices": [
+						265,
+						280
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/iGmMvwB8Ch",
+					"expanded_url": "https://www.ons.gov.uk/veteranssurvey",
+					"display_url": "ons.gov.uk/veteranssurvey",
+					"indices": [
+						223,
+						246
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1590600284253954000,
+					"id_str": "1590600284253954048",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FhLyh_qXoAA6_0s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhLyh_qXoAA6_0s.jpg",
+					"url": "https://t.co/8nRgUJxeHS",
+					"display_url": "pic.twitter.com/8nRgUJxeHS",
+					"expanded_url": "https://twitter.com/NHSArmedForces/status/1590600286208331776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1590600284253954000,
+					"id_str": "1590600284253954048",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FhLyh_qXoAA6_0s.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FhLyh_qXoAA6_0s.jpg",
+					"url": "https://t.co/8nRgUJxeHS",
+					"display_url": "pic.twitter.com/8nRgUJxeHS",
+					"expanded_url": "https://twitter.com/NHSArmedForces/status/1590600286208331776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1428396689111531500,
+			"id_str": "1428396689111531534",
+			"name": "NHS Armed Forces Health",
+			"screen_name": "NHSArmedForces",
+			"location": "",
+			"description": "Official NHS England Armed Forces health, signposting and service information. Account not monitored 24/7. For emergency or crisis response call NHS 111 or 999.",
+			"url": "https://t.co/JQmTndWHNr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JQmTndWHNr",
+							"expanded_url": "http://www.nhs.uk/armedforceshealth",
+							"display_url": "nhs.uk/armedforceshea…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1645,
+			"friends_count": 167,
+			"listed_count": 5,
+			"created_at": "Thu Aug 19 16:41:48 +0000 2021",
+			"favourites_count": 239,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1428397186094714880/v12d691E_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1428397186094714880/v12d691E_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1428396689111531534/1664446423",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 27,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The government wants #UK to be the best place for #Veterans to live. @VeteransGovUK have today launched the Veterans' Survey to gather views of the UK veteran community on shaping future services. Complete the survey here: https://t.co/iGmMvwB8Ch  @NHSVeteranAware @TraumaVeterans https://t.co/8nRgUJxeHS"
+	},
+	{
+		"created_at": "Thu Nov 10 10:03:10 +0000 2022",
+		"id": 1590646236570595300,
+		"id_str": "1590646236570595329",
+		"full_text": "@BethAHPMids @FMLM_UK @RyanDeakinAHP Indeed, I really enjoyed their reflections on what sustains them as leaders.",
+		"truncated": false,
+		"display_text_range": [
+			37,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BethAHPMids",
+					"name": "Beth Kershaw-naylor",
+					"id": 1574380047036809200,
+					"id_str": "1574380047036809216",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "FMLM_UK",
+					"name": "Faculty of Medical Leadership and Management",
+					"id": 355541903,
+					"id_str": "355541903",
+					"indices": [
+						13,
+						21
+					]
+				},
+				{
+					"screen_name": "RyanDeakinAHP",
+					"name": "Ryan Deakin",
+					"id": 1565343368250400800,
+					"id_str": "1565343368250400768",
+					"indices": [
+						22,
+						36
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1590643137667793000,
+		"in_reply_to_status_id_str": "1590643137667792896",
+		"in_reply_to_user_id": 1574380047036809200,
+		"in_reply_to_user_id_str": "1574380047036809216",
+		"in_reply_to_screen_name": "BethAHPMids",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | #DigitalAHP | #AHPs | Physio | Proudly Leading @UHDB_AFN | Governor @UHDBtrust | Greyhounds",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3353,
+			"friends_count": 4696,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 27070,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8571,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BethAHPMids @FMLM_UK @RyanDeakinAHP Indeed, I really enjoyed their reflections on what sustains them as leaders."
+	},
+	{
 		"created_at": "Wed Nov 09 18:16:34 +0000 2022",
 		"id": 1590408019040698400,
 		"id_str": "1590408019040698368",
@@ -46,7 +404,7 @@ Grailbird.data.tweets_2022_11 =
 				},
 				{
 					"screen_name": "Deborahbham",
-					"name": "Deborah Davidson 🇱🇰🏴󠁧󠁢󠁳󠁣󠁴󠁿🏳️‍🌈",
+					"name": "Deborah Davidson 🇱🇰🏴󠁧󠁢󠁳󠁣󠁴󠁿🏳️🌈",
 					"id": 80620087,
 					"id_str": "80620087",
 					"indices": [
