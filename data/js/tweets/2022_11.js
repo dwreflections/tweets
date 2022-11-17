@@ -1,6 +1,570 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Wed Nov 16 18:13:17 +0000 2022",
+		"id": 1592943908014751700,
+		"id_str": "1592943908014751750",
+		"full_text": "@MarisPipers @UHDBTrust Thank you. 🤩",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MarisPipers",
+					"name": "Emma Marrison-Taylor 🏳️‍🌈 (she/her)",
+					"id": 1024714027954569200,
+					"id_str": "1024714027954569216",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						13,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1592929336570826800,
+		"in_reply_to_status_id_str": "1592929336570826752",
+		"in_reply_to_user_id": 1024714027954569200,
+		"in_reply_to_user_id_str": "1024714027954569216",
+		"in_reply_to_screen_name": "MarisPipers",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | #DigitalAHP | #AHPs | Physio | Proudly Leading @UHDB_AFN | Governor @UHDBtrust | Greyhounds",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3353,
+			"friends_count": 4693,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 27087,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8577,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MarisPipers @UHDBTrust Thank you. 🤩"
+	},
+	{
+		"created_at": "Wed Nov 16 16:31:48 +0000 2022",
+		"id": 1592918365852475400,
+		"id_str": "1592918365852475392",
+		"full_text": "@CathyWinfield @UHDBTrust Thank you for all your support Cathy.",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CathyWinfield",
+					"name": "Cathy Winfield MBE, RN, MSc💙",
+					"id": 2188050351,
+					"id_str": "2188050351",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						15,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1592915132333817900,
+		"in_reply_to_status_id_str": "1592915132333817856",
+		"in_reply_to_user_id": 2188050351,
+		"in_reply_to_user_id_str": "2188050351",
+		"in_reply_to_screen_name": "CathyWinfield",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | #DigitalAHP | #AHPs | Physio | Proudly Leading @UHDB_AFN | Governor @UHDBtrust | Greyhounds",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3353,
+			"friends_count": 4693,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 27087,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8577,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CathyWinfield @UHDBTrust Thank you for all your support Cathy."
+	},
+	{
+		"created_at": "Wed Nov 16 15:57:16 +0000 2022",
+		"id": 1592909675498201000,
+		"id_str": "1592909675498201088",
+		"full_text": "Incredibly proud that @UHDBTrust has received the ERS Gold award.\n\nThere is much to do to support our veteran patients and colleagues, but I have a great team around me. Thank you all for your support over the past couple of years. https://t.co/chylEaCQPi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "UHDBTrust",
+					"name": "University Hospitals of Derby and Burton NHS FT",
+					"id": 429877936,
+					"id_str": "429877936",
+					"indices": [
+						22,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/chylEaCQPi",
+					"expanded_url": "https://twitter.com/UHDBTrust/status/1592835370009305088",
+					"display_url": "twitter.com/UHDBTrust/stat…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | #DigitalAHP | #AHPs | Physio | Proudly Leading @UHDB_AFN | Governor @UHDBtrust | Greyhounds",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3353,
+			"friends_count": 4693,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 27087,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8577,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1592835370009305000,
+		"quoted_status_id_str": "1592835370009305088",
+		"quoted_status_permalink": {
+			"url": "https://t.co/chylEaCQPi",
+			"expanded": "https://twitter.com/UHDBTrust/status/1592835370009305088",
+			"display": "twitter.com/UHDBTrust/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 16 11:02:00 +0000 2022",
+			"id": 1592835370009305000,
+			"id_str": "1592835370009305088",
+			"full_text": "Last week our Armed Forces Network @UHDB_AFN were presented with their Gold Award by the @east_mids_rfca for our work in supporting patients, colleagues and their families who have connections with the Armed Forces 💙🥇\n\nRead more about the Gold Award ➡ https://t.co/Du5KOKrogZ https://t.co/MSHqfI0yUO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "UHDB_AFN",
+						"name": "UHDB Armed Forces Network",
+						"id": 1384135578233360400,
+						"id_str": "1384135578233360399",
+						"indices": [
+							35,
+							44
+						]
+					},
+					{
+						"screen_name": "east_mids_rfca",
+						"name": "East Midlands RFCA",
+						"id": 96968207,
+						"id_str": "96968207",
+						"indices": [
+							89,
+							104
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Du5KOKrogZ",
+						"expanded_url": "https://bit.ly/3NZNBYK",
+						"display_url": "bit.ly/3NZNBYK",
+						"indices": [
+							252,
+							275
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1592831359784992800,
+						"id_str": "1592831359784992769",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/FhrfrrsWQAEn64L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FhrfrrsWQAEn64L.jpg",
+						"url": "https://t.co/MSHqfI0yUO",
+						"display_url": "pic.twitter.com/MSHqfI0yUO",
+						"expanded_url": "https://twitter.com/UHDBTrust/status/1592835370009305088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1773,
+								"h": 1182,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1592831359784992800,
+						"id_str": "1592831359784992769",
+						"indices": [
+							276,
+							299
+						],
+						"media_url": "http://pbs.twimg.com/media/FhrfrrsWQAEn64L.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FhrfrrsWQAEn64L.jpg",
+						"url": "https://t.co/MSHqfI0yUO",
+						"display_url": "pic.twitter.com/MSHqfI0yUO",
+						"expanded_url": "https://twitter.com/UHDBTrust/status/1592835370009305088/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1773,
+								"h": 1182,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 429877936,
+				"id_str": "429877936",
+				"name": "University Hospitals of Derby and Burton NHS FT",
+				"screen_name": "UHDBTrust",
+				"location": "Derby, Burton, Tamworth, Lichfield",
+				"description": "Official Twitter page of University Hospitals of Derby and Burton NHS Foundation Trust. 🏥\n\nThis account is monitored Mon-Fri, 9am-5pm (excluding Bank Holidays)",
+				"url": "https://t.co/hSieSYIIfx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hSieSYIIfx",
+								"expanded_url": "http://www.uhdb.nhs.uk",
+								"display_url": "uhdb.nhs.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 17205,
+				"friends_count": 1311,
+				"listed_count": 172,
+				"created_at": "Tue Dec 06 14:09:36 +0000 2011",
+				"favourites_count": 9076,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22457,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1572218073179906050/rQDF1qdC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1572218073179906050/rQDF1qdC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/429877936/1663680991",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 19,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Incredibly proud that @UHDBTrust has received the ERS Gold award.\n\nThere is much to do to support our veteran patients and colleagues, but I have a great team around me. Thank you all for your support over the past couple of years. https://t.co/chylEaCQPi"
+	},
+	{
 		"created_at": "Sat Nov 12 13:05:09 +0000 2022",
 		"id": 1591324924529909800,
 		"id_str": "1591416811093901312",
