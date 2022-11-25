@@ -1,6 +1,131 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Thu Nov 24 08:42:03 +0000 2022",
+		"id": 1595330571852447700,
+		"id_str": "1595699253736775682",
+		"full_text": "✨ Fancy 4 months learning about AHP workforce development and working in the @Notts_ICS ?✨\n\nThe AHP Faculty have Band 7 and/or Band 8a posts available 👀 \n\nPart/Full time and job shares all welcome. Check the link below 👇🏻 \n\nhttps://t.co/VmmXZVaYhC\n\n@sallyknapp16 @AHPsNottsHC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			275
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Notts_ICS",
+					"name": "Nottingham+Nottinghamshire Integrated Care System",
+					"id": 1233324745334100000,
+					"id_str": "1233324745334099970",
+					"indices": [
+						77,
+						87
+					]
+				},
+				{
+					"screen_name": "sallyknapp16",
+					"name": "Sally Knapp",
+					"id": 4267793596,
+					"id_str": "4267793596",
+					"indices": [
+						249,
+						262
+					]
+				},
+				{
+					"screen_name": "AHPsNottsHC",
+					"name": "NottshcAHPs",
+					"id": 1007289439108911100,
+					"id_str": "1007289439108911104",
+					"indices": [
+						263,
+						275
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/VmmXZVaYhC",
+					"expanded_url": "https://apps.trac.jobs/job-advert/4744987?FromJobsNHS=1&ShowJobAdvert=",
+					"display_url": "apps.trac.jobs/job-advert/474…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 995293590430634000,
+			"id_str": "995293590430633984",
+			"name": "Leanne Horsley",
+			"screen_name": "KMH_PT_Leanne",
+			"location": "Mansfield, England",
+			"description": "Physio Clinical Educator at SFHFT AHP Faculty Notts ICS           BSc(Hons), MSc.                                 All views my own.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 525,
+			"friends_count": 494,
+			"listed_count": 3,
+			"created_at": "Sat May 12 13:24:18 +0000 2018",
+			"favourites_count": 2807,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 1279,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1247967441293963264/LJezZ30T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1247967441293963264/LJezZ30T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/995293590430633984/1586373600",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": true,
+		"lang": "en",
+		"text": "✨ Fancy 4 months learning about AHP workforce development and working in the @Notts_ICS ?✨\n\nThe AHP Faculty have Band 7 and/or Band 8a posts available 👀 \n\nPart/Full time and job shares all welcome. Check the link below 👇🏻 \n\nhttps://t.co/VmmXZVaYhC\n\n@sallyknapp16 @AHPsNottsHC"
+	},
+	{
 		"created_at": "Wed Nov 23 18:46:54 +0000 2022",
 		"id": 1595489080929927200,
 		"id_str": "1595489080929927222",
