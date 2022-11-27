@@ -1,6 +1,113 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sat Nov 26 17:58:45 +0000 2022",
+		"id": 1596564129686265900,
+		"id_str": "1596564129686265856",
+		"full_text": "@LaraRaworth Thank you Lara! 🥂",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LaraRaworth",
+					"name": "Lara Raworth",
+					"id": 917528162,
+					"id_str": "917528162",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1596461795421585400,
+		"in_reply_to_status_id_str": "1596461795421585410",
+		"in_reply_to_user_id": 917528162,
+		"in_reply_to_user_id_str": "917528162",
+		"in_reply_to_screen_name": "LaraRaworth",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | #DigitalAHP | #AHPs | Physio | Proudly Leading @UHDB_AFN | Governor @UHDBtrust | Greyhounds",
+			"url": "https://t.co/Qd40HbmAVv",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qd40HbmAVv",
+							"expanded_url": "https://campsite.bio/davidww",
+							"display_url": "campsite.bio/davidww",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3348,
+			"friends_count": 4689,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 27152,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8592,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LaraRaworth Thank you Lara! 🥂"
+	},
+	{
 		"created_at": "Fri Nov 25 19:30:23 +0000 2022",
 		"id": 1596224800187637800,
 		"id_str": "1596224800187637761",
