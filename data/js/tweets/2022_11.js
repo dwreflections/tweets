@@ -1,6 +1,466 @@
 Grailbird.data.tweets_2022_11 = 
 [
 	{
+		"created_at": "Sun Nov 27 21:29:58 +0000 2022",
+		"id": 1596979668288409600,
+		"id_str": "1596979668288409600",
+		"full_text": "@RestIsPolitics @campbellclaret @RoryStewartUK ❓: What does the recent announcements of Tory MPs stepping down at the next election say about the current state of politics?",
+		"truncated": false,
+		"display_text_range": [
+			47,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RestIsPolitics",
+					"name": "The Rest Is Politics",
+					"id": 1493610230353211400,
+					"id_str": "1493610230353211394",
+					"indices": [
+						0,
+						15
+					]
+				},
+				{
+					"screen_name": "campbellclaret",
+					"name": "ALASTAIR CAMPBELL",
+					"id": 19644592,
+					"id_str": "19644592",
+					"indices": [
+						16,
+						31
+					]
+				},
+				{
+					"screen_name": "RoryStewartUK",
+					"name": "Rory Stewart",
+					"id": 131926473,
+					"id_str": "131926473",
+					"indices": [
+						32,
+						46
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1596802978018603000,
+		"in_reply_to_status_id_str": "1596802978018603008",
+		"in_reply_to_user_id": 1493610230353211400,
+		"in_reply_to_user_id_str": "1493610230353211394",
+		"in_reply_to_screen_name": "RestIsPolitics",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | #DigitalAHP | Physio | Proudly Leading @UHDB_AFN | Governor @UHDBtrust | Greyhounds",
+			"url": "https://t.co/LyQhimJMLZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LyQhimJMLZ",
+							"expanded_url": "https://fmlm.ac.uk/david-williams",
+							"display_url": "fmlm.ac.uk/david-williams",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3347,
+			"friends_count": 4689,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 27144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RestIsPolitics @campbellclaret @RoryStewartUK ❓: What does the recent announcements of Tory MPs stepping down at the next election say about the current state of politics?"
+	},
+	{
+		"created_at": "Sun Nov 27 21:11:23 +0000 2022",
+		"id": 1596974994005045200,
+		"id_str": "1596974994005045248",
+		"full_text": "@sas1933 @cityoflondon @PlumbersCompany Thank you. I am a Freeman of the Worshipful Company of Plumbers. The ‘freedom’ is required for me to advance to the status of Liveryman. So, my parchment reads “Citizen and Plumber of London”. A great day was had by all in what was a very special ceremony!",
+		"truncated": false,
+		"display_text_range": [
+			40,
+			296
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sas1933",
+					"name": "Shan Aguilar-Stone",
+					"id": 3307050213,
+					"id_str": "3307050213",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "cityoflondon",
+					"name": "City of London",
+					"id": 16182706,
+					"id_str": "16182706",
+					"indices": [
+						9,
+						22
+					]
+				},
+				{
+					"screen_name": "PlumbersCompany",
+					"name": "Plumbers Company",
+					"id": 817892785,
+					"id_str": "817892785",
+					"indices": [
+						23,
+						39
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1596576426504986600,
+		"in_reply_to_status_id_str": "1596576426504986626",
+		"in_reply_to_user_id": 3307050213,
+		"in_reply_to_user_id_str": "3307050213",
+		"in_reply_to_screen_name": "sas1933",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | #DigitalAHP | Physio | Proudly Leading @UHDB_AFN | Governor @UHDBtrust | Greyhounds",
+			"url": "https://t.co/LyQhimJMLZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LyQhimJMLZ",
+							"expanded_url": "https://fmlm.ac.uk/david-williams",
+							"display_url": "fmlm.ac.uk/david-williams",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3347,
+			"friends_count": 4689,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 27144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sas1933 @cityoflondon @PlumbersCompany Thank you. I am a Freeman of the Worshipful Company of Plumbers. The ‘freedom’ is required for me to advance to the status of Liveryman. So, my parchment reads “Citizen and Plumber of London”. A great day was had by all in what was a very special ceremony!"
+	},
+	{
+		"created_at": "Sun Nov 27 21:09:41 +0000 2022",
+		"id": 1596974567599153200,
+		"id_str": "1596974567599153153",
+		"full_text": "@tina1duffy @cityoflondon @PlumbersCompany It’s largely symbolic and allows me to become a Liveryman. Although, I can now drive sheep across London Bridge toll-free amongst other things… https://t.co/OwGfPTRnVV",
+		"truncated": false,
+		"display_text_range": [
+			43,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tina1duffy",
+					"name": "Christine Duffy -Queen’s Nurse",
+					"id": 773961266973073400,
+					"id_str": "773961266973073408",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "cityoflondon",
+					"name": "City of London",
+					"id": 16182706,
+					"id_str": "16182706",
+					"indices": [
+						12,
+						25
+					]
+				},
+				{
+					"screen_name": "PlumbersCompany",
+					"name": "Plumbers Company",
+					"id": 817892785,
+					"id_str": "817892785",
+					"indices": [
+						26,
+						42
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1596974561395986400,
+					"id_str": "1596974561395986436",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FimX5wdX0AQAlzw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FimX5wdX0AQAlzw.jpg",
+					"url": "https://t.co/OwGfPTRnVV",
+					"display_url": "pic.twitter.com/OwGfPTRnVV",
+					"expanded_url": "https://twitter.com/beardedPT/status/1596974567599153153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1744,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 579,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1022,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1596974561395986400,
+					"id_str": "1596974561395986436",
+					"indices": [
+						187,
+						210
+					],
+					"media_url": "http://pbs.twimg.com/media/FimX5wdX0AQAlzw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FimX5wdX0AQAlzw.jpg",
+					"url": "https://t.co/OwGfPTRnVV",
+					"display_url": "pic.twitter.com/OwGfPTRnVV",
+					"expanded_url": "https://twitter.com/beardedPT/status/1596974567599153153/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1744,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 579,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1022,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1596596569012404200,
+		"in_reply_to_status_id_str": "1596596569012404224",
+		"in_reply_to_user_id": 773961266973073400,
+		"in_reply_to_user_id_str": "773961266973073408",
+		"in_reply_to_screen_name": "tina1duffy",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | #DigitalAHP | Physio | Proudly Leading @UHDB_AFN | Governor @UHDBtrust | Greyhounds",
+			"url": "https://t.co/LyQhimJMLZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LyQhimJMLZ",
+							"expanded_url": "https://fmlm.ac.uk/david-williams",
+							"display_url": "fmlm.ac.uk/david-williams",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3347,
+			"friends_count": 4689,
+			"listed_count": 18,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 27144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8595,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@tina1duffy @cityoflondon @PlumbersCompany It’s largely symbolic and allows me to become a Liveryman. Although, I can now drive sheep across London Bridge toll-free amongst other things… https://t.co/OwGfPTRnVV"
+	},
+	{
 		"created_at": "Sat Nov 26 17:58:45 +0000 2022",
 		"id": 1596564129686265900,
 		"id_str": "1596564129686265856",
