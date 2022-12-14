@@ -1,6 +1,641 @@
 Grailbird.data.tweets_2022_12 = 
 [
 	{
+		"created_at": "Tue Dec 13 19:12:27 +0000 2022",
+		"id": 1602743270307774500,
+		"id_str": "1602743270307774464",
+		"full_text": "Any one watching or attending? @RestIsPolitics #TRIPlive https://t.co/epm61JjrYw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "TRIPlive",
+					"indices": [
+						47,
+						56
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RestIsPolitics",
+					"name": "The Rest Is Politics",
+					"id": 1493610230353211400,
+					"id_str": "1493610230353211394",
+					"indices": [
+						31,
+						46
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/epm61JjrYw",
+					"expanded_url": "https://twitter.com/restispolitics/status/1602645033991417856",
+					"display_url": "twitter.com/restispolitics…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | Proudly Leading @UHDB_AFN | #DigitalAHP | Physio | Governor @UHDBtrust | Greyhounds",
+			"url": "https://t.co/LyQhimJMLZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LyQhimJMLZ",
+							"expanded_url": "https://fmlm.ac.uk/david-williams",
+							"display_url": "fmlm.ac.uk/david-williams",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3353,
+			"friends_count": 4704,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 27195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1602645033991417900,
+		"quoted_status_id_str": "1602645033991417856",
+		"quoted_status_permalink": {
+			"url": "https://t.co/epm61JjrYw",
+			"expanded": "https://twitter.com/restispolitics/status/1602645033991417856",
+			"display": "twitter.com/restispolitics…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 13 12:42:06 +0000 2022",
+			"id": 1602645033991417900,
+			"id_str": "1602645033991417856",
+			"full_text": "If you're planning to watch the livestream tonight and looking for the link, don't worry. We'll be sending out the link at 7.30pm GMT to members of TRIP+. \n\nMake sure to check your junk and spam!",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				195
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1493610230353211400,
+				"id_str": "1493610230353211394",
+				"name": "The Rest Is Politics",
+				"screen_name": "RestIsPolitics",
+				"location": "London/Jordan",
+				"description": "Politics podcast with @campbellclaret + @RoryStewartUK |\n\nListen 👉 https://t.co/1Hhyf0LPm6 |\n\nContact 👉 restispolitics@gmail.com |",
+				"url": "https://t.co/G6FjjUeRkJ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/G6FjjUeRkJ",
+								"expanded_url": "https://linktr.ee/restispolitics",
+								"display_url": "linktr.ee/restispolitics",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/1Hhyf0LPm6",
+								"expanded_url": "http://linktr.ee/restispolitics",
+								"display_url": "linktr.ee/restispolitics",
+								"indices": [
+									67,
+									90
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 131202,
+				"friends_count": 105,
+				"listed_count": 221,
+				"created_at": "Tue Feb 15 15:37:37 +0000 2022",
+				"favourites_count": 1667,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 973,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1498251796250304514/87vnpC1U_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1498251796250304514/87vnpC1U_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1493610230353211394/1665414683",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 82,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Any one watching or attending? @RestIsPolitics #TRIPlive https://t.co/epm61JjrYw"
+	},
+	{
+		"created_at": "Tue Dec 13 18:06:52 +0000 2022",
+		"id": 1602726763129458700,
+		"id_str": "1602726763129458690",
+		"full_text": "@exerciseworks That jumper might have been an early Christmas!\n\nA greyhound has to be stylish and warm at all times… and probably asleep 😴.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "exerciseworks",
+					"name": "Exercise Works!",
+					"id": 256921454,
+					"id_str": "256921454",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1602721833123463200,
+		"in_reply_to_status_id_str": "1602721833123463168",
+		"in_reply_to_user_id": 256921454,
+		"in_reply_to_user_id_str": "256921454",
+		"in_reply_to_screen_name": "exerciseworks",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | Proudly Leading @UHDB_AFN | #DigitalAHP | Physio | Governor @UHDBtrust | Greyhounds",
+			"url": "https://t.co/LyQhimJMLZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LyQhimJMLZ",
+							"expanded_url": "https://fmlm.ac.uk/david-williams",
+							"display_url": "fmlm.ac.uk/david-williams",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3353,
+			"friends_count": 4704,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 27195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@exerciseworks That jumper might have been an early Christmas!\n\nA greyhound has to be stylish and warm at all times… and probably asleep 😴."
+	},
+	{
+		"created_at": "Tue Dec 13 18:04:36 +0000 2022",
+		"id": 1602726194327294000,
+		"id_str": "1602726194327293959",
+		"full_text": "@krishpod7 😍😍😍",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "krishpod7",
+					"name": "krish3",
+					"id": 1013027107302268900,
+					"id_str": "1013027107302268928",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1602724569596547000,
+		"in_reply_to_status_id_str": "1602724569596547072",
+		"in_reply_to_user_id": 1013027107302268900,
+		"in_reply_to_user_id_str": "1013027107302268928",
+		"in_reply_to_screen_name": "krishpod7",
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | Proudly Leading @UHDB_AFN | #DigitalAHP | Physio | Governor @UHDBtrust | Greyhounds",
+			"url": "https://t.co/LyQhimJMLZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LyQhimJMLZ",
+							"expanded_url": "https://fmlm.ac.uk/david-williams",
+							"display_url": "fmlm.ac.uk/david-williams",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3353,
+			"friends_count": 4704,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 27195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@krishpod7 😍😍😍"
+	},
+	{
+		"created_at": "Tue Dec 13 17:44:42 +0000 2022",
+		"id": 1602721185749418000,
+		"id_str": "1602721185749417989",
+		"full_text": "It’s beginning to look a lot like Christmas in the Williams household… 🌲 🐕 🐛 ❄️ #Greyhound https://t.co/KdMaqu5TOf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Greyhound",
+					"indices": [
+						80,
+						90
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1602721178333888500,
+					"id_str": "1602721178333888512",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/Fj4Ca4yWQAA37Kc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fj4Ca4yWQAA37Kc.jpg",
+					"url": "https://t.co/KdMaqu5TOf",
+					"display_url": "pic.twitter.com/KdMaqu5TOf",
+					"expanded_url": "https://twitter.com/beardedPT/status/1602721185749417989/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 507,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 895,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1528,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1602721178333888500,
+					"id_str": "1602721178333888512",
+					"indices": [
+						91,
+						114
+					],
+					"media_url": "http://pbs.twimg.com/media/Fj4Ca4yWQAA37Kc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fj4Ca4yWQAA37Kc.jpg",
+					"url": "https://t.co/KdMaqu5TOf",
+					"display_url": "pic.twitter.com/KdMaqu5TOf",
+					"expanded_url": "https://twitter.com/beardedPT/status/1602721185749417989/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 507,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 895,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1528,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 3377750235,
+			"id_str": "3377750235",
+			"name": "David Williams",
+			"screen_name": "beardedPT",
+			"location": "UHDB 🏥 / Midlands 🏡 / UoB 📚",
+			"description": "NHS Regional Clinical Leadership Fellow | Proudly Leading @UHDB_AFN | #DigitalAHP | Physio | Governor @UHDBtrust | Greyhounds",
+			"url": "https://t.co/LyQhimJMLZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/LyQhimJMLZ",
+							"expanded_url": "https://fmlm.ac.uk/david-williams",
+							"display_url": "fmlm.ac.uk/david-williams",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3353,
+			"friends_count": 4704,
+			"listed_count": 19,
+			"created_at": "Wed Jul 15 20:16:42 +0000 2015",
+			"favourites_count": 27195,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8616,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1571964147637567500/l164EWBb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/3377750235/1658777389",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s beginning to look a lot like Christmas in the Williams household… 🌲 🐕 🐛 ❄️ #Greyhound https://t.co/KdMaqu5TOf"
+	},
+	{
 		"created_at": "Mon Dec 12 10:56:00 +0000 2022",
 		"id": 1602255507657474000,
 		"id_str": "1602255945748324352",
