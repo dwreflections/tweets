@@ -1,6 +1,230 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Mon Jan 09 14:02:22 +0000 2023",
+		"id": 1611984564720750600,
+		"id_str": "1612449705127968771",
+		"full_text": "Here's the extract of Macron being interviewed on @France2tv yesterday by journalists with autistic spectrum - this time with English s/t 👇\n\nAmazing TV 👏 @JournalPapotin @EmmanuelMacron https://t.co/MzrNCC37cY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "France2tv",
+					"name": "France 2",
+					"id": 31444568,
+					"id_str": "31444568",
+					"indices": [
+						50,
+						60
+					]
+				},
+				{
+					"screen_name": "JournalPapotin",
+					"name": "Le Papotin",
+					"id": 3205820909,
+					"id_str": "3205820909",
+					"indices": [
+						154,
+						169
+					]
+				},
+				{
+					"screen_name": "EmmanuelMacron",
+					"name": "Emmanuel Macron",
+					"id": 1976143068,
+					"id_str": "1976143068",
+					"indices": [
+						170,
+						185
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1611980830657609700,
+					"id_str": "1611980830657609730",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1611980830657609730/pu/img/NOh15j_7lj5suWW1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1611980830657609730/pu/img/NOh15j_7lj5suWW1.jpg",
+					"url": "https://t.co/MzrNCC37cY",
+					"display_url": "pic.twitter.com/MzrNCC37cY",
+					"expanded_url": "https://twitter.com/AlexTaylorNews/status/1611984564720750592/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1611980830657609700,
+					"id_str": "1611980830657609730",
+					"indices": [
+						186,
+						209
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1611980830657609730/pu/img/NOh15j_7lj5suWW1.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1611980830657609730/pu/img/NOh15j_7lj5suWW1.jpg",
+					"url": "https://t.co/MzrNCC37cY",
+					"display_url": "pic.twitter.com/MzrNCC37cY",
+					"expanded_url": "https://twitter.com/AlexTaylorNews/status/1611984564720750592/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 67901,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1611980830657609730/pu/vid/480x270/ZZvFsg8877m-H37j.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1611980830657609730/pu/vid/640x360/iPlqY9g6RaqWL7W4.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1611980830657609730/pu/pl/00x8jbqXaaaSk7fx.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1611980830657609730/pu/vid/1280x720/ptS-tsn_pR8ZTtqx.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1652177576,
+			"id_str": "1652177576",
+			"name": "Alex Taylor",
+			"screen_name": "AlexTaylorNews",
+			"location": "Paris",
+			"description": "French TV's Mr Europe 30 yrs\nHost international events (+1 500)\nWrite books on languages\nTeach journalism at Sorbonne\nand have tamed camels\n\n🇪🇺🇫🇷🏳️‍🌈🇬🇧",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75985,
+			"friends_count": 1062,
+			"listed_count": 588,
+			"created_at": "Wed Aug 07 06:01:18 +0000 2013",
+			"favourites_count": 114980,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 12547,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1384166247760228353/yE_81l32_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1384166247760228353/yE_81l32_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1652177576/1554275565",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1656,
+		"favorite_count": 8163,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here's the extract of Macron being interviewed on @France2tv yesterday by journalists with autistic spectrum - this time with English s/t 👇\n\nAmazing TV 👏 @JournalPapotin @EmmanuelMacron https://t.co/MzrNCC37cY"
+	},
+	{
 		"created_at": "Sun Jan 08 15:16:14 +0000 2023",
 		"id": 1612105463088222200,
 		"id_str": "1612105905788665860",
